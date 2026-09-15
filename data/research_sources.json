@@ -1,0 +1,322 @@
+{
+  "api_sources": {
+    "arxiv": {
+      "enabled": true,
+      "categories": ["cs.LG", "cs.AI", "cs.CL", "cs.CV", "cs.CR", "cs.DC", "cs.SE", "cs.PL", "cs.DB", "stat.ML"],
+      "max_results": 50,
+      "sort_by": "submittedDate"
+    },
+    "semantic_scholar": {
+      "enabled": true,
+      "queries": [
+        "machine learning",
+        "deep learning",
+        "natural language processing",
+        "computer vision",
+        "software engineering",
+        "neural networks",
+        "reinforcement learning",
+        "transformer models"
+      ],
+      "max_results_per_query": 10,
+      "fields": "title,abstract,authors,year,venue,citationCount,externalIds,url,publicationDate,openAccessPdf"
+    },
+    "openalex": {
+      "enabled": true,
+      "search_terms": [
+        "artificial intelligence",
+        "machine learning",
+        "deep learning",
+        "software engineering",
+        "NLP",
+        "computer vision",
+        "neural network"
+      ],
+      "max_results_per_term": 10,
+      "from_date_days_ago": 7,
+      "filter_type": "article"
+    },
+    "crossref": {
+      "enabled": true,
+      "query": "artificial intelligence OR machine learning OR deep learning OR software engineering OR NLP OR computer vision",
+      "max_results": 30,
+      "days_ago": 7
+    },
+    "dblp": {
+      "enabled": true,
+      "streams": [
+        "conf/nips",
+        "conf/icml",
+        "conf/iclr",
+        "conf/aaai",
+        "conf/cvpr",
+        "conf/iccv",
+        "conf/eccv",
+        "conf/acl",
+        "conf/icse",
+        "conf/fse",
+        "conf/ase",
+        "conf/issta",
+        "journals/tpami",
+        "journals/tse",
+        "journals/tosem",
+        "journals/jmlr",
+        "journals/natmi"
+      ],
+      "max_results_per_stream": 5
+    },
+    "papers_with_code": {
+      "enabled": true,
+      "tasks": ["image-classification", "object-detection", "text-classification", "machine-translation", "code-generation", "software-defect-detection"],
+      "max_results_per_task": 5
+    },
+    "openreview": {
+      "enabled": true,
+      "venues": ["NeurIPS", "ICML", "ICLR", "AAAI", "CVPR", "ACL"],
+      "max_results_per_venue": 5,
+      "stage": "accepted"
+    },
+    "pubmed": {
+      "enabled": true,
+      "search_terms": ["artificial intelligence", "machine learning", "deep learning", "neural network", "software engineering"],
+      "max_results": 10,
+      "sort": "date"
+    }
+  },
+  "scrape_sources": {
+    "ieee_xplore": {
+      "enabled": true,
+      "url": "https://ieeexplore.ieee.org/search/searchresult.jsp?queryText=(artificial+intelligence+OR+machine+learning+OR+deep+learning)&sortScope=1&sortType=1",
+      "selector": ".search-results-content .result-content",
+      "max_results": 10
+    },
+    "acm_dl": {
+      "enabled": true,
+      "url": "https://dl.acm.org/action/doSearch?AllField=artificial+intelligence+OR+machine+learning&startPage=0&pageSize=10",
+      "selector": ".citation",
+      "max_results": 10
+    },
+    "google_scholar": {
+      "enabled": true,
+      "url": "https://scholar.google.com/scholar?q=artificial+intelligence+OR+machine+learning&hl=en&as_sdt=0,5&as_ylo=2025",
+      "selector": ".gs_r.gs_or.gs_scl",
+      "max_results": 10,
+      "use_jina": true
+    },
+    "nature_mi": {
+      "enabled": true,
+      "url": "https://www.nature.com/natmachintell/research-articles",
+      "selector": "article.c-article",
+      "max_results": 10
+    },
+    "jmlr": {
+      "enabled": true,
+      "url": "https://www.jmlr.org/papers/latest.php",
+      "selector": "table.volume tr",
+      "max_results": 10
+    },
+    "ieee_tpami": {
+      "enabled": true,
+      "url": "https://www.computer.org/csdl/journal/tp/latest",
+      "selector": ".issue-content .article",
+      "max_results": 10
+    },
+    "ieee_tnnls": {
+      "enabled": true,
+      "url": "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6010182",
+      "selector": ".search-results-content .result-content",
+      "max_results": 10
+    },
+    "elsevier_ai": {
+      "enabled": true,
+      "url": "https://www.sciencedirect.com/journal/artificial-intelligence/articles-in-press",
+      "selector": "article",
+      "max_results": 10,
+      "use_jina": true
+    },
+    "springer_ml": {
+      "enabled": true,
+      "url": "https://www.springer.com/journal/10994/articles",
+      "selector": ".c-article-item",
+      "max_results": 10
+    },
+    "neurips": {
+      "enabled": true,
+      "url": "https://neurips.cc/Conferences/2025/Papers",
+      "selector": ".paper-title a",
+      "max_results": 20
+    },
+    "icml": {
+      "enabled": true,
+      "url": "https://icml.cc/Conferences/2025/AcceptedPapers",
+      "selector": ".paper",
+      "max_results": 20
+    },
+    "iclr": {
+      "enabled": true,
+      "url": "https://iclr.cc/Conferences/2025/AcceptedPapers",
+      "selector": ".paper",
+      "max_results": 20
+    },
+    "aaai": {
+      "enabled": true,
+      "url": "https://aaai.org/conference/aaai/aaai-25/",
+      "selector": ".paper-list a",
+      "max_results": 20
+    },
+    "cvpr": {
+      "enabled": true,
+      "url": "https://cvpr.thecvf.com/Conferences/2025/AcceptedPapers",
+      "selector": ".paper",
+      "max_results": 20
+    },
+    "iccv": {
+      "enabled": true,
+      "url": "https://iccv.thecvf.com/Conferences/2025",
+      "selector": ".paper",
+      "max_results": 20
+    },
+    "eccv": {
+      "enabled": true,
+      "url": "https://eccv2024.ecva.net/virtual/2024/papers.html",
+      "selector": ".paper",
+      "max_results": 20
+    },
+    "acl": {
+      "enabled": true,
+      "url": "https://aclanthology.org/events/acl-2025/",
+      "selector": ".card-body",
+      "max_results": 20
+    },
+    "icse": {
+      "enabled": true,
+      "url": "https://conf.researchr.org/home/icse-2025",
+      "selector": ".paper",
+      "max_results": 10
+    },
+    "fse": {
+      "enabled": true,
+      "url": "https://esec-fse.org/2025/",
+      "selector": ".paper",
+      "max_results": 10
+    },
+    "ase": {
+      "enabled": true,
+      "url": "https://conf.researchr.org/home/ase-2025",
+      "selector": ".paper",
+      "max_results": 10
+    },
+    "issta": {
+      "enabled": true,
+      "url": "https://issta.org/",
+      "selector": ".paper",
+      "max_results": 10
+    },
+    "google_research": {
+      "enabled": true,
+      "url": "https://research.google/pubs/",
+      "selector": ".publication",
+      "max_results": 10
+    },
+    "openai_research": {
+      "enabled": true,
+      "url": "https://openai.com/research/",
+      "selector": ".research-card",
+      "max_results": 10,
+      "use_jina": true
+    },
+    "microsoft_research": {
+      "enabled": true,
+      "url": "https://www.microsoft.com/en-us/research/publications/",
+      "selector": ".publication-card",
+      "max_results": 10
+    },
+    "meta_ai": {
+      "enabled": true,
+      "url": "https://ai.meta.com/research/publications/",
+      "selector": ".publication-item",
+      "max_results": 10,
+      "use_jina": true
+    },
+    "techrxiv": {
+      "enabled": true,
+      "url": "https://www.techrxiv.org/users/270809",
+      "selector": ".preprint-card",
+      "max_results": 10,
+      "use_jina": true
+    },
+    "zenodo": {
+      "enabled": true,
+      "url": "https://zenodo.org/api/records?q=artificial+intelligence+OR+machine+learning&sort=mostrecent&size=10",
+      "api": true,
+      "max_results": 10
+    },
+    "core": {
+      "enabled": true,
+      "url": "https://core.ac.uk/search?q=artificial+intelligence&sort=relevance",
+      "selector": ".result-item",
+      "max_results": 10,
+      "use_jina": true
+    },
+    "citeseerx": {
+      "enabled": true,
+      "url": "https://citeseerx.ist.psu.edu/search?q=artificial+intelligence&sort=rlv",
+      "selector": ".result",
+      "max_results": 10,
+      "use_jina": true
+    },
+    "cogprints": {
+      "enabled": true,
+      "url": "http://cogprints.org/cgi/latest.pl",
+      "selector": "table tr",
+      "max_results": 10
+    },
+    "expert_systems": {
+      "enabled": true,
+      "url": "https://www.sciencedirect.com/journal/expert-systems-with-applications/articles-in-press",
+      "selector": "article",
+      "max_results": 10,
+      "use_jina": true
+    },
+    "neural_networks": {
+      "enabled": true,
+      "url": "https://www.sciencedirect.com/journal/neural-networks/articles-in-press",
+      "selector": "article",
+      "max_results": 10,
+      "use_jina": true
+    },
+    "knowledge_based": {
+      "enabled": true,
+      "url": "https://www.sciencedirect.com/journal/knowledge-based-systems/articles-in-press",
+      "selector": "article",
+      "max_results": 10,
+      "use_jina": true
+    },
+    "applied_soft": {
+      "enabled": true,
+      "url": "https://www.sciencedirect.com/journal/applied-soft-computing/articles-in-press",
+      "selector": "article",
+      "max_results": 10,
+      "use_jina": true
+    },
+    "jair": {
+      "enabled": true,
+      "url": "https://jair.org/issue/current",
+      "selector": ".paper",
+      "max_results": 10
+    },
+    "automated_se": {
+      "enabled": true,
+      "url": "https://link.springer.com/journal/10515/articles",
+      "selector": ".c-article-item",
+      "max_results": 10
+    },
+    "info_software_tech": {
+      "enabled": true,
+      "url": "https://www.sciencedirect.com/journal/information-and-software-technology/articles-in-press",
+      "selector": "article",
+      "max_results": 10,
+      "use_jina": true
+    }
+  }
+}

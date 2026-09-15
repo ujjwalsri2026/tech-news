@@ -3,10 +3,10 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>TechPulse — Tech News Digest</title>
-  <meta name="description" content="Every headline from 50 tech sources. Scraped and summarized every 6 hours.">
-  <meta property="og:title" content="TechPulse — Tech News Digest">
-  <meta property="og:description" content="Every headline from 50 tech sources.">
+  <title>TechPulse — Tech News + Research Digest</title>
+  <meta name="description" content="Every headline from 50 tech sources and 45+ research sources. Scraped and summarized every 6 hours.">
+  <meta property="og:title" content="TechPulse — Tech News + Research Digest">
+  <meta property="og:description" content="Every headline from 50 tech sources and 45+ research sources.">
   <meta property="og:type" content="website">
   <link rel="stylesheet" href="style.css">
 </head>
@@ -45,9 +45,19 @@
     <p class="timestamp" id="timestamp"></p>
   </header>
 
+  <nav class="tab-bar" id="tab-bar">
+    <button class="tab active" data-tab="news">NEWS</button>
+    <button class="tab" data-tab="research">RESEARCH</button>
+  </nav>
+
   <section class="filters" id="filters"></section>
 
   <main class="cards-grid" id="cards"></main>
+
+  <section class="research-section" id="research-section" style="display:none">
+    <div class="research-filters" id="research-filters"></div>
+    <div class="research-grid" id="research-grid"></div>
+  </section>
 
   <footer class="footer">
     <div class="footer-shapes" aria-hidden="true">

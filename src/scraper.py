@@ -1,3 +1,4 @@
+import feedparser
 import requests
 from bs4 import BeautifulSoup
 from tenacity import retry, stop_after_attempt, wait_exponential
@@ -45,6 +46,29 @@ def fetch_raw(url: str, use_jina: bool = False) -> str:
         return resp.text
     except Exception:
         return fetch_via_jina(url)
+
+
+def parse_rss(feed_url: str, max_items: int = 10) -> list[dict]:
+    if not feed_url:
+        return []
+    try:
+        resp = requests.get(feed_url, headers=HEADERS, timeout=15)
+        resp.raise_for_status()
+        feed = feedparser.parse(resp.text)
+        items = []
+        for entry in feed.entries[:max_items]:
+            title = entry.get("title", "").strip()
+            link = entry.get("link", "").strip()
+            published = entry.get("published", entry.get("updated", ""))
+            if title and link:
+                items.append({
+                    "title": title,
+                    "url": link,
+                    "published": published,
+                })
+        return items
+    except Exception:
+        return []
 
 
 def extract_articles(html: str, base_url: str) -> list[dict]:
