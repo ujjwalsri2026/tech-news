@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TechPulse — Tech News in 2-3 Lines</title>
+  <meta name="description" content="50 tech sources summarized in 2-3 lines each. Updated every 6 hours by GitHub Actions + GPT-4o-mini.">
+  <meta property="og:title" content="TechPulse — Tech News Digest">
+  <meta property="og:description" content="50 sources, 7 days, zero noise.">
+  <meta property="og:type" content="website">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="decorations" aria-hidden="true">
+    <svg class="deco deco-triangle-1" viewBox="0 0 80 80"><polygon points="40,5 75,70 5,70" fill="var(--memphis-pink)"/></svg>
+    <svg class="deco deco-circle-1" viewBox="0 0 60 60"><circle cx="30" cy="30" r="28" fill="none" stroke="var(--memphis-teal)" stroke-width="3"/></svg>
+    <svg class="deco deco-zigzag-1" viewBox="0 0 120 30"><polyline points="0,25 20,5 40,25 60,5 80,25 100,5 120,25" fill="none" stroke="var(--memphis-yellow)" stroke-width="3"/></svg>
+    <svg class="deco deco-cross-1" viewBox="0 0 40 40"><line x1="5" y1="5" x2="35" y2="35" stroke="var(--memphis-purple)" stroke-width="3"/><line x1="35" y1="5" x2="5" y2="35" stroke="var(--memphis-purple)" stroke-width="3"/></svg>
+    <svg class="deco deco-circle-2" viewBox="0 0 50 50"><circle cx="25" cy="25" r="12" fill="var(--memphis-orange)"/></svg>
+    <svg class="deco deco-triangle-2" viewBox="0 0 60 60"><polygon points="30,5 55,50 5,50" fill="none" stroke="var(--memphis-lime)" stroke-width="3"/></svg>
+    <svg class="deco deco-dots" viewBox="0 0 80 80">
+      <circle cx="10" cy="10" r="4" fill="var(--memphis-pink)"/>
+      <circle cx="40" cy="10" r="4" fill="var(--memphis-teal)"/>
+      <circle cx="70" cy="10" r="4" fill="var(--memphis-yellow)"/>
+      <circle cx="10" cy="40" r="4" fill="var(--memphis-orange)"/>
+      <circle cx="40" cy="40" r="4" fill="var(--memphis-purple)"/>
+      <circle cx="70" cy="40" r="4" fill="var(--memphis-lime)"/>
+      <circle cx="10" cy="70" r="4" fill="var(--memphis-yellow)"/>
+      <circle cx="40" cy="70" r="4" fill="var(--memphis-pink)"/>
+      <circle cx="70" cy="70" r="4" fill="var(--memphis-teal)"/>
+    </svg>
+    <svg class="deco deco-squiggle-1" viewBox="0 0 100 20"><path d="M0,10 Q12,0 25,10 Q38,20 50,10 Q62,0 75,10 Q88,20 100,10" fill="none" stroke="var(--memphis-orange)" stroke-width="3"/></svg>
+    <svg class="deco deco-square-1" viewBox="0 0 40 40"><rect x="5" y="5" width="30" height="30" fill="var(--memphis-yellow)" transform="rotate(15 20 20)"/></svg>
+    <svg class="deco deco-circle-3" viewBox="0 0 40 40"><circle cx="20" cy="20" r="18" fill="none" stroke="var(--memphis-pink)" stroke-width="2" stroke-dasharray="5,5"/></svg>
+    <svg class="deco deco-triangle-3" viewBox="0 0 50 50"><polygon points="25,5 45,40 5,40" fill="var(--memphis-teal)"/></svg>
+    <svg class="deco deco-zigzag-2" viewBox="0 0 80 20"><polyline points="0,15 15,5 30,15 45,5 60,15 75,5 80,15" fill="none" stroke="var(--memphis-purple)" stroke-width="2"/></svg>
+  </div>
+
+  <header class="header">
+    <h1 class="title">TECHPULSE</h1>
+    <svg class="title-squiggle" viewBox="0 0 300 16" aria-hidden="true">
+      <path d="M0,8 Q18,0 36,8 Q54,16 72,8 Q90,0 108,8 Q126,16 144,8 Q162,0 180,8 Q198,16 216,8 Q234,0 252,8 Q270,16 288,8" fill="none" stroke="var(--memphis-pink)" stroke-width="3"/>
+    </svg>
+    <p class="subtitle">50 sources &middot; 7 days &middot; zero noise</p>
+    <p class="timestamp" id="timestamp"></p>
+  </header>
+
+  <section class="filters" id="filters"></section>
+
+  <main class="cards-grid" id="cards"></main>
+
+  <footer class="footer">
+    <div class="footer-shapes" aria-hidden="true">
+      <svg viewBox="0 0 24 24" width="20" height="20"><polygon points="12,2 22,20 2,20" fill="var(--memphis-pink)"/></svg>
+      <svg viewBox="0 0 24 24" width="20" height="20"><circle cx="12" cy="12" r="10" fill="var(--memphis-teal)"/></svg>
+      <svg viewBox="0 0 24 24" width="20" height="20"><rect x="4" y="4" width="16" height="16" fill="var(--memphis-yellow)" transform="rotate(12 12 12)"/></svg>
+      <svg viewBox="0 0 24 24" width="20" height="20"><polygon points="12,2 22,12 12,22 2,12" fill="var(--memphis-purple)"/></svg>
+      <svg viewBox="0 0 24 24" width="20" height="20"><circle cx="12" cy="12" r="8" fill="none" stroke="var(--memphis-orange)" stroke-width="2"/></svg>
+    </div>
+    <p>Built with GitHub Actions + GPT-4o-mini</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
