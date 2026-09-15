@@ -3,7 +3,7 @@ from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
 
 _tokenizer = None
 _model = None
-MODEL = "facebook/bart-large-cnn"
+MODEL = "sshleifer/distilbart-cnn-6-6"
 
 
 def _load():
@@ -11,6 +11,7 @@ def _load():
     if _tokenizer is None:
         _tokenizer = AutoTokenizer.from_pretrained(MODEL)
         _model = AutoModelForSeq2SeqLM.from_pretrained(MODEL)
+        _model.eval()
 
 
 def summarize(text: str, source_type: str = "news") -> str:
