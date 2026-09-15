@@ -1,23 +1,26 @@
-from transformers import pipeline
+import torch
+from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
 
-_pipe = None
+_tokenizer = None
+_model = None
 MODEL = "facebook/bart-large-cnn"
 
 
-def _get_pipe():
-    global _pipe
-    if _pipe is None:
-        _pipe = pipeline("summarization", model=MODEL)
-    return _pipe
+def _load():
+    global _tokenizer, _model
+    if _tokenizer is None:
+        _tokenizer = AutoTokenizer.from_pretrained(MODEL)
+        _model = AutoModelForSeq2SeqLM.from_pretrained(MODEL)
 
 
 def summarize(text: str, source_type: str = "news") -> str:
-    p = _get_pipe()
-    result = p(
-        text,
-        max_length=150,
-        min_length=30,
-        do_sample=False,
-        truncation=True,
-    )
-    return result[0]["summary_text"]
+    _load()
+    inputs = _tokenizer(text, return_tensors="pt", max_length=1024, truncation=True)
+    with torch.no_grad():
+        output = _model.generate(
+            **inputs,
+            max_length=150,
+            min_length=30,
+            do_sample=False,
+        )
+    return _tokenizer.decode(output[0], skip_special_tokens=True)
