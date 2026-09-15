@@ -14,6 +14,10 @@ def _load():
         _model.eval()
 
 
+def preload():
+    _load()
+
+
 def summarize(text: str, source_type: str = "news") -> str:
     _load()
     inputs = _tokenizer(text, return_tensors="pt", max_length=1024, truncation=True)

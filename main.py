@@ -2,7 +2,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 
 from src.loader import load_urls
 from src.scraper import fetch
-from src.summarizer import summarize
+from src.summarizer import summarize, preload
 from src.saver import save
 
 
@@ -21,6 +21,7 @@ def process_source(source: dict) -> dict:
 
 def main():
     urls = load_urls()
+    preload()
     results = []
     with ThreadPoolExecutor(max_workers=5) as pool:
         futures = {pool.submit(process_source, s): s for s in urls}
