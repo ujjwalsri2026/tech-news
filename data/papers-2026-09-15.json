@@ -89,22 +89,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.21825/ewopinpractice.94703",
-    "title": "Title Pending 94703",
-    "abstract": "",
-    "authors": [],
-    "published": "2035",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.21825/ewopinpractice.94703",
-    "pdf_url": null,
-    "doi": "10.21825/ewopinpractice.94703",
-    "citations": 0,
-    "venue": "EWOP in Practice",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
     "id": "crossref:10.21825/ewopinpractice.94702",
     "title": "Title Pending 94702",
     "abstract": "",
@@ -118,6 +102,22 @@
     "citations": 0,
     "venue": "EWOP in Practice",
     "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "crossref:10.21825/ewopinpractice.94703",
+    "title": "Title Pending 94703",
+    "abstract": "",
+    "authors": [],
+    "published": "2035",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.21825/ewopinpractice.94703",
+    "pdf_url": "https://openjournals.ugent.be/ewopinpractice/article/id/94703/download/pdf/",
+    "doi": "10.21825/ewopinpractice.94703",
+    "citations": 0,
+    "venue": "EWOP in Practice",
+    "open_access": true,
     "ai_summary": "No abstract available."
   },
   {
@@ -403,27 +403,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.5705/ss.202025.0314",
-    "title": "Transfer Learning for High-dimensional Regression with Compositional Covariates: Application to Microbiome Studies",
-    "abstract": "",
-    "authors": [
-      "Qinqin Hu",
-      "Xiaojing Luo",
-      "Chencheng Ma",
-      "Wang Zhou"
-    ],
-    "published": "2029",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.5705/ss.202025.0314",
-    "pdf_url": null,
-    "doi": "10.5705/ss.202025.0314",
-    "citations": 0,
-    "venue": "Statistica Sinica",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
     "id": "crossref:10.58524/jcss.v4i2.890",
     "title": "Integration of Biomechanics and Digital Technology: Using Kinovea for Motion Analysis and Learning for Beginner Athletes",
     "abstract": "<jats:p>Background: The integration of biomechanics with digital motion-analysis technologies has introduced new approaches for examining movement efficiency, kinematic characteristics, and technical patterns in walking and running activities. Kinovea, as an accessible motion-analysis software, provides both visual and quantitative feedback. However, its application in supporting technique development among beginner athletes remains insufficiently explored.\nAim: This study aims to describe the use of Kinovea in biomechanics training and examine its contribution to the awareness of kinematic characteristics and movement techniques among beginner athletes.\nMethods: A descriptive qualitative design involved 72 beginner athletes aged 18–25 years selected through purposive sampling. Data were collected over 16 weeks through interviews, field observations, and motion video recordings analyzed using Kinovea. Kinematic data focused on joint angles, stride behavior, and movement phases during walking, running, and the flight phase. Qualitative data were analyzed using content analysis with NVivo 12, while kinematic results were interpreted descriptively to identify performance patterns and areas for technical refinement.\nResult: Kinematic analysis showed coordinated joint-angle patterns across all phases. Walking analysis identified arm swing angles of 50.9°–58.8° and leg separation angles of 64.3°–67.2°, indicating a stable gait rhythm. The running analysis revealed knee angles of 68.8°–69.8° and elbow angles of 87.6°–89.1°, indicating efficient propulsive mechanics. The flight phase demonstrated knee angles of 81.2°–87.8° and elbow angles of 80.4°–88.3°, suggesting effective momentum use and postural stability. These measurements supported stride-efficiency assessment and technique evaluation. Qualitative findings revealed that Kinovea enabled athletes to interpret movement phases and identify technical inefficiencies through slow-motion and frame-by-frame visualization.\nConclusion: Kinovea supports basic motion analysis by providing clear kinematic information and helping beginner athletes observe and refine their movement techniques. The findings also offer practical value for coaches by enabling more precise identification of inefficient patterns and guiding targeted corrections during early-stage training.</jats:p>",
@@ -445,6 +424,27 @@
     "venue": "Journal of Coaching and Sports Science",
     "open_access": false,
     "ai_summary": "Kinovea is an accessible motion-analysis software . It provides both visual and quantitative feedback . However, its application in supporting technique development among beginner athletes remains insufficiently explored ."
+  },
+  {
+    "id": "crossref:10.5705/ss.202026.0109",
+    "title": "Inference for Extreme Value Index Through Individualized Fusion Learning",
+    "abstract": "",
+    "authors": [
+      "Hongfang Sun",
+      "Yu Chen",
+      "Tao Xu",
+      "Zhengjun Zhang"
+    ],
+    "published": "2029",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.5705/ss.202026.0109",
+    "pdf_url": null,
+    "doi": "10.5705/ss.202026.0109",
+    "citations": 0,
+    "venue": "Statistica Sinica",
+    "open_access": false,
+    "ai_summary": "No abstract available."
   },
   {
     "id": "crossref:10.5705/ss.202025.0205",
@@ -487,6 +487,27 @@
     "ai_summary": "No abstract available."
   },
   {
+    "id": "crossref:10.5705/ss.202025.0314",
+    "title": "Transfer Learning for High-dimensional Regression with Compositional Covariates: Application to Microbiome Studies",
+    "abstract": "",
+    "authors": [
+      "Qinqin Hu",
+      "Xiaojing Luo",
+      "Chencheng Ma",
+      "Wang Zhou"
+    ],
+    "published": "2029",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.5705/ss.202025.0314",
+    "pdf_url": null,
+    "doi": "10.5705/ss.202025.0314",
+    "citations": 0,
+    "venue": "Statistica Sinica",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
     "id": "crossref:10.5705/ss.202025.0457",
     "title": "Sparse Additive Off-policy Evaluation for Reinforcement Learning with Potentially Limited Number of Trajectories",
     "abstract": "",
@@ -502,27 +523,6 @@
     "url": "https://doi.org/10.5705/ss.202025.0457",
     "pdf_url": null,
     "doi": "10.5705/ss.202025.0457",
-    "citations": 0,
-    "venue": "Statistica Sinica",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "crossref:10.5705/ss.202026.0109",
-    "title": "Inference for Extreme Value Index Through Individualized Fusion Learning",
-    "abstract": "",
-    "authors": [
-      "Hongfang Sun",
-      "Yu Chen",
-      "Tao Xu",
-      "Zhengjun Zhang"
-    ],
-    "published": "2029",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.5705/ss.202026.0109",
-    "pdf_url": null,
-    "doi": "10.5705/ss.202026.0109",
     "citations": 0,
     "venue": "Statistica Sinica",
     "open_access": false,
@@ -643,26 +643,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.55737/qjss.vii-i.26473",
-    "title": "The Nexus of Leadership and Learning: Exploring Female Principals' Influence on the Teaching-Learning Process in Secondary Schools",
-    "abstract": "<jats:p>The research paper will set out to debate the role played by the leadership competencies of principals in the teaching and learning process. The research will embrace a quantitative research design that will seek to answer the question concerning the relationship that exists between leadership skills of possessed by the  principals and the ongoing teaching-learning process in the female secondary schools using a co-relational study design. A survey instrument comprising of 37 items, which measured the leadership skills possessed by the selected principals and the prevailing teaching learning process, was used in the collection of data. Questionnaires for this study were administered to 108 male and female educators who were serving in secondary schools in Tehsil Wari, upper Dir and among them 100 questionnaires were submitted and were deemed to be useful in the analysis. The data in hand were calculated using Statistical Package of the Social Sciences (SPSS) version-27 and the obtained results indicated that the collected data was normally distributed. The findings revealed that all the variables of the study had great correlations. The analysis of the data was done through linear regression to measure the effect that the leadership skills of the principals had on the teaching learning process and this indicated that leadership skills of the principals have statistically significant effect on the teaching learning process. The policies derived out of this research can be a good guide to both the policymakers and organizational leaders because they can provide a good outline on how to empower the leaders in charge of the principals and as well as exert more influence on the effective teaching and learning processes.</jats:p>",
-    "authors": [
-      "Muhammad Niqab",
-      "Salma Tabbasum",
-      "Shakil Ahmad"
-    ],
-    "published": "2028",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.55737/qjss.vii-i.26473",
-    "pdf_url": "https://qjss.com.pk/index.php/qjss/article/download/473/526",
-    "doi": "10.55737/qjss.vii-i.26473",
-    "citations": 0,
-    "venue": "Qlantic Journal of Social Sciences",
-    "open_access": true,
-    "ai_summary": "Research paper will debate role played by principals in teaching and learning process . Research will embrace a quantitative research design that will seek to answer the question about the relationship between leadership skills of principals and teaching-learning process ."
-  },
-  {
     "id": "crossref:10.1504/ijil.2028.10079816",
     "title": "Inserting science: an interdisciplinary, hands-on lesson to enhance scientific literacy in marketing education",
     "abstract": "",
@@ -702,24 +682,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.1504/ijaac.2028.10080905",
-    "title": "Innovative deep learning computational approach for wheat disease detection employing faster region-based convolutional neural network",
-    "abstract": "",
-    "authors": [
-      "Shikai Zhou"
-    ],
-    "published": "2028",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.1504/ijaac.2028.10080905",
-    "pdf_url": null,
-    "doi": "10.1504/ijaac.2028.10080905",
-    "citations": 0,
-    "venue": "International Journal of Automation and Control",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
     "id": "crossref:10.1504/ijims.2028.10076831",
     "title": "A Hybrid Huffman-CNN-AES Deep Learning Framework for Secure Medical Image Steganography: H-CADStego",
     "abstract": "",
@@ -735,6 +697,24 @@
     "doi": "10.1504/ijims.2028.10076831",
     "citations": 0,
     "venue": "International Journal of Internet Manufacturing and Services",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "crossref:10.1504/ijaac.2028.10080905",
+    "title": "Innovative deep learning computational approach for wheat disease detection employing faster region-based convolutional neural network",
+    "abstract": "",
+    "authors": [
+      "Shikai Zhou"
+    ],
+    "published": "2028",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.1504/ijaac.2028.10080905",
+    "pdf_url": null,
+    "doi": "10.1504/ijaac.2028.10080905",
+    "citations": 0,
+    "venue": "International Journal of Automation and Control",
     "open_access": false,
     "ai_summary": "No abstract available."
   },
@@ -782,6 +762,26 @@
     "venue": "International Journal of Mobile Learning and Organisation",
     "open_access": false,
     "ai_summary": "No abstract available."
+  },
+  {
+    "id": "crossref:10.55737/qjss.vii-i.26473",
+    "title": "The Nexus of Leadership and Learning: Exploring Female Principals' Influence on the Teaching-Learning Process in Secondary Schools",
+    "abstract": "<jats:p>The research paper will set out to debate the role played by the leadership competencies of principals in the teaching and learning process. The research will embrace a quantitative research design that will seek to answer the question concerning the relationship that exists between leadership skills of possessed by the  principals and the ongoing teaching-learning process in the female secondary schools using a co-relational study design. A survey instrument comprising of 37 items, which measured the leadership skills possessed by the selected principals and the prevailing teaching learning process, was used in the collection of data. Questionnaires for this study were administered to 108 male and female educators who were serving in secondary schools in Tehsil Wari, upper Dir and among them 100 questionnaires were submitted and were deemed to be useful in the analysis. The data in hand were calculated using Statistical Package of the Social Sciences (SPSS) version-27 and the obtained results indicated that the collected data was normally distributed. The findings revealed that all the variables of the study had great correlations. The analysis of the data was done through linear regression to measure the effect that the leadership skills of the principals had on the teaching learning process and this indicated that leadership skills of the principals have statistically significant effect on the teaching learning process. The policies derived out of this research can be a good guide to both the policymakers and organizational leaders because they can provide a good outline on how to empower the leaders in charge of the principals and as well as exert more influence on the effective teaching and learning processes.</jats:p>",
+    "authors": [
+      "Muhammad Niqab",
+      "Salma Tabbasum",
+      "Shakil Ahmad"
+    ],
+    "published": "2028",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.55737/qjss.vii-i.26473",
+    "pdf_url": null,
+    "doi": "10.55737/qjss.vii-i.26473",
+    "citations": 0,
+    "venue": "Qlantic Journal of Social Sciences",
+    "open_access": false,
+    "ai_summary": "Research paper will debate role played by principals in teaching and learning process . Research will embrace a quantitative research design that will seek to answer the question about the relationship between leadership skills of principals and teaching-learning process ."
   },
   {
     "id": "openalex:W7171671418",
@@ -1009,6 +1009,36 @@
     "ai_summary": "MRI-targeted biopsy is the standard method for prostate cancer diagnosis . However, it is typically supplemented with perilesional or systematic biopsy to minimize the risk of false-negative results . Several studies have demonstrated the feasibility of performing MRI- targetted biopsy alone in carefully selected patients ."
   },
   {
+    "id": "pubmed:42742616",
+    "title": "Big data and psychiatry: advances, constraints and future directions.",
+    "abstract": "Early work in psychiatry research, often involving single sites, small samples, and limited variables, has shifted to contemporary research involving multiple sites, large samples, and many variables. Such research raises important questions, including concerns about data quality and methodological rigor, uncertainty about its key lessons, issues regarding clinical relevance, and questions about how to optimize future advances. Here we consider these questions and concerns against the context of big data work on community and register-based surveys, cohort and biobank studies, electronic health records, digital phenotyping, brain imaging, genomics and other -omics, and randomized controlled trials. The development of large datasets allowing well-powered analyses is a major milestone, but sample size alone does not guarantee more precise estimates, and ongoing attention to the quality and rigor of big data collation and analysis is needed. Big data research has fostered trans-disciplinarity and given insights into mechanisms underlying psychiatric disorders, but also emphasizes the intricacy, heterogeneity and variability of such mechanisms, and the importance of triangulating between large-scale and small-scale research. The complexity of psychiatric phenotypes and psychobiological mechanisms contributes to the difficulty in bridging from big data to clinical application; big data research reinforces the importance of holding our diagnoses of psychiatric disorders lightly and providing explanations of these conditions humbly; and future work needs to be more attentive to clinical issues. There is enormous scope for further building databases relevant to psychiatry, but advances in conceptual models and asking the right questions are equally valuable. The full impact of big data, including artificial intelligence analyses, remains to be seen, but overenthusiastic support should be tempered by a better understanding of its strengths and limitations. At its best, such work will contribute in an iterative and integrative way to advancing our knowledge of psychiatric disorders and mental health.",
+    "authors": [
+      "Dan J Stein",
+      "Ronald C Kessler",
+      "John Torous",
+      "Hugh Garavan",
+      "Odile A van den Heuvel",
+      "Eske M Derks",
+      "Carol Mathews",
+      "Pim Cuijpers",
+      "Giovanni A Salum",
+      "Ole A Andreassen",
+      "Paul M Thompson",
+      "Brenda W J Penninx",
+      "John J McGrath"
+    ],
+    "published": "2026-Oct",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42742616/",
+    "pdf_url": null,
+    "doi": "10.1002/wps.70113",
+    "citations": 0,
+    "venue": "World psychiatry : official journal of the World Psychiatric Association (WPA)",
+    "open_access": false,
+    "ai_summary": "Early work in psychiatry research has shifted to contemporary research involving multiple sites, large samples, and many variables . Such research raises important questions, including concerns about data quality and methodological rigor, uncertainty about its key lessons ."
+  },
+  {
     "id": "pubmed:42742615",
     "title": "What happens after tapering off antipsychotics? Clinical trajectories of 267 first-episode patients who discontinued antipsychotic medication.",
     "abstract": "",
@@ -1039,24 +1069,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "pubmed:42742612",
-    "title": "Emerging realities of artificial intelligence and mental health.",
-    "abstract": "",
-    "authors": [
-      "Nick Joseph Haber"
-    ],
-    "published": "2026-Oct",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42742612/",
-    "pdf_url": null,
-    "doi": "10.1002/wps.70084",
-    "citations": 0,
-    "venue": "World psychiatry : official journal of the World Psychiatric Association (WPA)",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
     "id": "pubmed:42742584",
     "title": "Next generation of big data in psychiatry: more theory, more within-person data, and better integration of artificial intelligence.",
     "abstract": "",
@@ -1069,6 +1081,24 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42742584/",
     "pdf_url": null,
     "doi": "10.1002/wps.70088",
+    "citations": 0,
+    "venue": "World psychiatry : official journal of the World Psychiatric Association (WPA)",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "pubmed:42742612",
+    "title": "Emerging realities of artificial intelligence and mental health.",
+    "abstract": "",
+    "authors": [
+      "Nick Joseph Haber"
+    ],
+    "published": "2026-Oct",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42742612/",
+    "pdf_url": null,
+    "doi": "10.1002/wps.70084",
     "citations": 0,
     "venue": "World psychiatry : official journal of the World Psychiatric Association (WPA)",
     "open_access": false,
@@ -1092,36 +1122,6 @@
     "venue": "World psychiatry : official journal of the World Psychiatric Association (WPA)",
     "open_access": false,
     "ai_summary": "No abstract available."
-  },
-  {
-    "id": "pubmed:42742616",
-    "title": "Big data and psychiatry: advances, constraints and future directions.",
-    "abstract": "Early work in psychiatry research, often involving single sites, small samples, and limited variables, has shifted to contemporary research involving multiple sites, large samples, and many variables. Such research raises important questions, including concerns about data quality and methodological rigor, uncertainty about its key lessons, issues regarding clinical relevance, and questions about how to optimize future advances. Here we consider these questions and concerns against the context of big data work on community and register-based surveys, cohort and biobank studies, electronic health records, digital phenotyping, brain imaging, genomics and other -omics, and randomized controlled trials. The development of large datasets allowing well-powered analyses is a major milestone, but sample size alone does not guarantee more precise estimates, and ongoing attention to the quality and rigor of big data collation and analysis is needed. Big data research has fostered trans-disciplinarity and given insights into mechanisms underlying psychiatric disorders, but also emphasizes the intricacy, heterogeneity and variability of such mechanisms, and the importance of triangulating between large-scale and small-scale research. The complexity of psychiatric phenotypes and psychobiological mechanisms contributes to the difficulty in bridging from big data to clinical application; big data research reinforces the importance of holding our diagnoses of psychiatric disorders lightly and providing explanations of these conditions humbly; and future work needs to be more attentive to clinical issues. There is enormous scope for further building databases relevant to psychiatry, but advances in conceptual models and asking the right questions are equally valuable. The full impact of big data, including artificial intelligence analyses, remains to be seen, but overenthusiastic support should be tempered by a better understanding of its strengths and limitations. At its best, such work will contribute in an iterative and integrative way to advancing our knowledge of psychiatric disorders and mental health.",
-    "authors": [
-      "Dan J Stein",
-      "Ronald C Kessler",
-      "John Torous",
-      "Hugh Garavan",
-      "Odile A van den Heuvel",
-      "Eske M Derks",
-      "Carol Mathews",
-      "Pim Cuijpers",
-      "Giovanni A Salum",
-      "Ole A Andreassen",
-      "Paul M Thompson",
-      "Brenda W J Penninx",
-      "John J McGrath"
-    ],
-    "published": "2026-Oct",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42742616/",
-    "pdf_url": null,
-    "doi": "10.1002/wps.70113",
-    "citations": 0,
-    "venue": "World psychiatry : official journal of the World Psychiatric Association (WPA)",
-    "open_access": false,
-    "ai_summary": "Early work in psychiatry research has shifted to contemporary research involving multiple sites, large samples, and many variables . Such research raises important questions, including concerns about data quality and methodological rigor, uncertainty about its key lessons ."
   },
   {
     "id": "openalex:W7118720654",
