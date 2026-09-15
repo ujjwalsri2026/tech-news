@@ -1,156 +1,192 @@
 {
-  "generated_at": "2026-09-15T09:48:45.569744+00:00",
+  "generated_at": "2026-09-15T10:00:41.555917+00:00",
   "count": 50,
   "items": [
-    {
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com",
-      "type": "startups",
-      "summary": "⚠️ Failed: Client error '401 Unauthorized' for url 'https://router.huggingface.co/hf-inference/models/facebook/bart-large-cnn' (Amz CF ID: QA0T258rj_zVLECGFLUmPM7DqnnFXF4pu-CnTnm_Is09UGo9wdcF5w==)\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401"
-    },
-    {
-      "source": "The Verge",
-      "url": "https://www.theverge.com",
-      "type": "news",
-      "summary": "⚠️ Failed: Client error '401 Unauthorized' for url 'https://router.huggingface.co/hf-inference/models/facebook/bart-large-cnn' (Amz CF ID: DlzXh8_6tk0tY61vZKN65zufmSVCU-nw02TZeJ4kQVg2gcMCHGBhCw==)\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401"
-    },
     {
       "source": "WIRED",
       "url": "https://www.wired.com",
       "type": "news",
-      "summary": "⚠️ Failed: Client error '401 Unauthorized' for url 'https://router.huggingface.co/hf-inference/models/facebook/bart-large-cnn' (Amz CF ID: fCA4IP7-3ZhJJzDK_QHB_9_WqA76HDPb8AaUalku2A73uULVMpPVhw==)\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401"
+      "summary": "⚠️ Failed: \"Unknown task summarization, available tasks are ['any-to-any', 'audio-classification', 'automatic-speech-recognition', 'depth-estimation', 'document-question-answering', 'feature-extraction', 'fill-mask', 'image-classification', 'image-feature-extraction', 'image-segmentation', 'image-text-to-text', 'keypoint-matching', 'mask-generation', 'ner', 'object-detection', 'sentiment-analysis', 'table-question-answering', 'text-classification', 'text-generation', 'text-to-audio', 'text-to-speech', 'token-classification', 'video-classification', 'zero-shot-audio-classification', 'zero-shot-classification', 'zero-shot-image-classification', 'zero-shot-object-detection']\""
     },
     {
       "source": "Ars Technica",
       "url": "https://arstechnica.com",
       "type": "news",
-      "summary": "⚠️ Failed: Client error '401 Unauthorized' for url 'https://router.huggingface.co/hf-inference/models/facebook/bart-large-cnn' (Amz CF ID: xTWa1H9qOSmqlsKU1Hw9t1vghe1RPqvrzyh3yRNvFeNKmXIx4Cuk5A==)\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401"
+      "summary": "⚠️ Failed: \"Unknown task summarization, available tasks are ['any-to-any', 'audio-classification', 'automatic-speech-recognition', 'depth-estimation', 'document-question-answering', 'feature-extraction', 'fill-mask', 'image-classification', 'image-feature-extraction', 'image-segmentation', 'image-text-to-text', 'keypoint-matching', 'mask-generation', 'ner', 'object-detection', 'sentiment-analysis', 'table-question-answering', 'text-classification', 'text-generation', 'text-to-audio', 'text-to-speech', 'token-classification', 'video-classification', 'zero-shot-audio-classification', 'zero-shot-classification', 'zero-shot-image-classification', 'zero-shot-object-detection']\""
     },
     {
-      "source": "CNET",
-      "url": "https://www.cnet.com",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com",
+      "type": "startups",
+      "summary": "⚠️ Failed: \"Unknown task summarization, available tasks are ['any-to-any', 'audio-classification', 'automatic-speech-recognition', 'depth-estimation', 'document-question-answering', 'feature-extraction', 'fill-mask', 'image-classification', 'image-feature-extraction', 'image-segmentation', 'image-text-to-text', 'keypoint-matching', 'mask-generation', 'ner', 'object-detection', 'sentiment-analysis', 'table-question-answering', 'text-classification', 'text-generation', 'text-to-audio', 'text-to-speech', 'token-classification', 'video-classification', 'zero-shot-audio-classification', 'zero-shot-classification', 'zero-shot-image-classification', 'zero-shot-object-detection']\""
+    },
+    {
+      "source": "The Verge",
+      "url": "https://www.theverge.com",
       "type": "news",
-      "summary": "⚠️ Failed: Client error '401 Unauthorized' for url 'https://router.huggingface.co/hf-inference/models/facebook/bart-large-cnn' (Amz CF ID: jEuviQv-EPyximAEO02DwPiuOVv8C6JDROVJEo-w_Eknmy907Fc7jg==)\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401"
+      "summary": "⚠️ Failed: \"Unknown task summarization, available tasks are ['any-to-any', 'audio-classification', 'automatic-speech-recognition', 'depth-estimation', 'document-question-answering', 'feature-extraction', 'fill-mask', 'image-classification', 'image-feature-extraction', 'image-segmentation', 'image-text-to-text', 'keypoint-matching', 'mask-generation', 'ner', 'object-detection', 'sentiment-analysis', 'table-question-answering', 'text-classification', 'text-generation', 'text-to-audio', 'text-to-speech', 'token-classification', 'video-classification', 'zero-shot-audio-classification', 'zero-shot-classification', 'zero-shot-image-classification', 'zero-shot-object-detection']\""
     },
     {
       "source": "Engadget",
       "url": "https://www.engadget.com",
       "type": "news",
-      "summary": "⚠️ Failed: Client error '401 Unauthorized' for url 'https://router.huggingface.co/hf-inference/models/facebook/bart-large-cnn' (Amz CF ID: yXXPhn2DoQBbhEQM13hUHrCRGEhXNT8oAH3OsHneV6j1JhwFbLEmWw==)\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401"
+      "summary": "⚠️ Failed: \"Unknown task summarization, available tasks are ['any-to-any', 'audio-classification', 'automatic-speech-recognition', 'depth-estimation', 'document-question-answering', 'feature-extraction', 'fill-mask', 'image-classification', 'image-feature-extraction', 'image-segmentation', 'image-text-to-text', 'keypoint-matching', 'mask-generation', 'ner', 'object-detection', 'sentiment-analysis', 'table-question-answering', 'text-classification', 'text-generation', 'text-to-audio', 'text-to-speech', 'token-classification', 'video-classification', 'zero-shot-audio-classification', 'zero-shot-classification', 'zero-shot-image-classification', 'zero-shot-object-detection']\""
+    },
+    {
+      "source": "CNET",
+      "url": "https://www.cnet.com",
+      "type": "news",
+      "summary": "⚠️ Failed: \"Unknown task summarization, available tasks are ['any-to-any', 'audio-classification', 'automatic-speech-recognition', 'depth-estimation', 'document-question-answering', 'feature-extraction', 'fill-mask', 'image-classification', 'image-feature-extraction', 'image-segmentation', 'image-text-to-text', 'keypoint-matching', 'mask-generation', 'ner', 'object-detection', 'sentiment-analysis', 'table-question-answering', 'text-classification', 'text-generation', 'text-to-audio', 'text-to-speech', 'token-classification', 'video-classification', 'zero-shot-audio-classification', 'zero-shot-classification', 'zero-shot-image-classification', 'zero-shot-object-detection']\""
     },
     {
       "source": "ZDNet",
       "url": "https://www.zdnet.com",
       "type": "enterprise",
-      "summary": "⚠️ Failed: Client error '401 Unauthorized' for url 'https://router.huggingface.co/hf-inference/models/facebook/bart-large-cnn' (Amz CF ID: b5Q-pBxRZTM92KlhMz_t_as_BrNg_LvYvPV8eJ7lOROUVDH0UaHkiw==)\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401"
+      "summary": "⚠️ Failed: \"Unknown task summarization, available tasks are ['any-to-any', 'audio-classification', 'automatic-speech-recognition', 'depth-estimation', 'document-question-answering', 'feature-extraction', 'fill-mask', 'image-classification', 'image-feature-extraction', 'image-segmentation', 'image-text-to-text', 'keypoint-matching', 'mask-generation', 'ner', 'object-detection', 'sentiment-analysis', 'table-question-answering', 'text-classification', 'text-generation', 'text-to-audio', 'text-to-speech', 'token-classification', 'video-classification', 'zero-shot-audio-classification', 'zero-shot-classification', 'zero-shot-image-classification', 'zero-shot-object-detection']\""
     },
     {
       "source": "TechRadar",
       "url": "https://www.techradar.com",
       "type": "news",
-      "summary": "⚠️ Failed: Client error '401 Unauthorized' for url 'https://router.huggingface.co/hf-inference/models/facebook/bart-large-cnn' (Amz CF ID: jOUg4ZjQi1OPhJ6G_h4nonrrckb75oMY6BAb_9ObNeo7HAi5woU7ZQ==)\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401"
-    },
-    {
-      "source": "Slashdot",
-      "url": "https://slashdot.org",
-      "type": "community",
-      "summary": "⚠️ Failed: Client error '401 Unauthorized' for url 'https://router.huggingface.co/hf-inference/models/facebook/bart-large-cnn' (Amz CF ID: J4wyfzn7HszC4K8jvlUk3xM_i_x1CLaKmy2Ziqe_MCm6YZmg5jreng==)\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401"
-    },
-    {
-      "source": "PCMag",
-      "url": "https://www.pcmag.com",
-      "type": "reviews",
-      "summary": "⚠️ Failed: Client error '401 Unauthorized' for url 'https://router.huggingface.co/hf-inference/models/facebook/bart-large-cnn' (Amz CF ID: T76IKlbWzmGq9H8InIz3GWP92Hoi9ENa40QllSBxHAyB_LXpHpVEZg==)\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401"
-    },
-    {
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com",
-      "type": "apple",
-      "summary": "⚠️ Failed: Client error '401 Unauthorized' for url 'https://router.huggingface.co/hf-inference/models/facebook/bart-large-cnn' (Amz CF ID: dc-Hiy_2SeYIiwFmKjMBbqDhtEW-7DIt5zR3BcUj09lIVkug1F0oPg==)\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401"
-    },
-    {
-      "source": "Hacker News",
-      "url": "https://news.ycombinator.com",
-      "type": "community",
-      "summary": "⚠️ Failed: Client error '401 Unauthorized' for url 'https://router.huggingface.co/hf-inference/models/facebook/bart-large-cnn' (Amz CF ID: fisJAb9ggN8eCvsqQ9L5ftGEFcq7jxL3GcReyJl58uJPIAbWiC12zg==)\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401"
+      "summary": "⚠️ Failed: \"Unknown task summarization, available tasks are ['any-to-any', 'audio-classification', 'automatic-speech-recognition', 'depth-estimation', 'document-question-answering', 'feature-extraction', 'fill-mask', 'image-classification', 'image-feature-extraction', 'image-segmentation', 'image-text-to-text', 'keypoint-matching', 'mask-generation', 'ner', 'object-detection', 'sentiment-analysis', 'table-question-answering', 'text-classification', 'text-generation', 'text-to-audio', 'text-to-speech', 'token-classification', 'video-classification', 'zero-shot-audio-classification', 'zero-shot-classification', 'zero-shot-image-classification', 'zero-shot-object-detection']\""
     },
     {
       "source": "Tom's Hardware",
       "url": "https://www.tomshardware.com",
       "type": "hardware",
-      "summary": "⚠️ Failed: Client error '401 Unauthorized' for url 'https://router.huggingface.co/hf-inference/models/facebook/bart-large-cnn' (Amz CF ID: ycfEs1Y7w7PsFZmhWFIelHjtN8N9aI5ywdHhJJOonrpVuUmjFZAyzA==)\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401"
+      "summary": "⚠️ Failed: \"Unknown task summarization, available tasks are ['any-to-any', 'audio-classification', 'automatic-speech-recognition', 'depth-estimation', 'document-question-answering', 'feature-extraction', 'fill-mask', 'image-classification', 'image-feature-extraction', 'image-segmentation', 'image-text-to-text', 'keypoint-matching', 'mask-generation', 'ner', 'object-detection', 'sentiment-analysis', 'table-question-answering', 'text-classification', 'text-generation', 'text-to-audio', 'text-to-speech', 'token-classification', 'video-classification', 'zero-shot-audio-classification', 'zero-shot-classification', 'zero-shot-image-classification', 'zero-shot-object-detection']\""
+    },
+    {
+      "source": "PCMag",
+      "url": "https://www.pcmag.com",
+      "type": "reviews",
+      "summary": "⚠️ Failed: \"Unknown task summarization, available tasks are ['any-to-any', 'audio-classification', 'automatic-speech-recognition', 'depth-estimation', 'document-question-answering', 'feature-extraction', 'fill-mask', 'image-classification', 'image-feature-extraction', 'image-segmentation', 'image-text-to-text', 'keypoint-matching', 'mask-generation', 'ner', 'object-detection', 'sentiment-analysis', 'table-question-answering', 'text-classification', 'text-generation', 'text-to-audio', 'text-to-speech', 'token-classification', 'video-classification', 'zero-shot-audio-classification', 'zero-shot-classification', 'zero-shot-image-classification', 'zero-shot-object-detection']\""
+    },
+    {
+      "source": "Hacker News",
+      "url": "https://news.ycombinator.com",
+      "type": "community",
+      "summary": "⚠️ Failed: \"Unknown task summarization, available tasks are ['any-to-any', 'audio-classification', 'automatic-speech-recognition', 'depth-estimation', 'document-question-answering', 'feature-extraction', 'fill-mask', 'image-classification', 'image-feature-extraction', 'image-segmentation', 'image-text-to-text', 'keypoint-matching', 'mask-generation', 'ner', 'object-detection', 'sentiment-analysis', 'table-question-answering', 'text-classification', 'text-generation', 'text-to-audio', 'text-to-speech', 'token-classification', 'video-classification', 'zero-shot-audio-classification', 'zero-shot-classification', 'zero-shot-image-classification', 'zero-shot-object-detection']\""
+    },
+    {
+      "source": "Slashdot",
+      "url": "https://slashdot.org",
+      "type": "community",
+      "summary": "⚠️ Failed: \"Unknown task summarization, available tasks are ['any-to-any', 'audio-classification', 'automatic-speech-recognition', 'depth-estimation', 'document-question-answering', 'feature-extraction', 'fill-mask', 'image-classification', 'image-feature-extraction', 'image-segmentation', 'image-text-to-text', 'keypoint-matching', 'mask-generation', 'ner', 'object-detection', 'sentiment-analysis', 'table-question-answering', 'text-classification', 'text-generation', 'text-to-audio', 'text-to-speech', 'token-classification', 'video-classification', 'zero-shot-audio-classification', 'zero-shot-classification', 'zero-shot-image-classification', 'zero-shot-object-detection']\""
+    },
+    {
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com",
+      "type": "apple",
+      "summary": "⚠️ Failed: \"Unknown task summarization, available tasks are ['any-to-any', 'audio-classification', 'automatic-speech-recognition', 'depth-estimation', 'document-question-answering', 'feature-extraction', 'fill-mask', 'image-classification', 'image-feature-extraction', 'image-segmentation', 'image-text-to-text', 'keypoint-matching', 'mask-generation', 'ner', 'object-detection', 'sentiment-analysis', 'table-question-answering', 'text-classification', 'text-generation', 'text-to-audio', 'text-to-speech', 'token-classification', 'video-classification', 'zero-shot-audio-classification', 'zero-shot-classification', 'zero-shot-image-classification', 'zero-shot-object-detection']\""
     },
     {
       "source": "9to5Google",
       "url": "https://9to5google.com",
       "type": "google",
-      "summary": "⚠️ Failed: Client error '401 Unauthorized' for url 'https://router.huggingface.co/hf-inference/models/facebook/bart-large-cnn' (Amz CF ID: Uz45AALJoMsvgzntxNhEf5VshQXe-pqWcZyhkhqgLUbRlcFfU5DWjA==)\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401"
+      "summary": "⚠️ Failed: \"Unknown task summarization, available tasks are ['any-to-any', 'audio-classification', 'automatic-speech-recognition', 'depth-estimation', 'document-question-answering', 'feature-extraction', 'fill-mask', 'image-classification', 'image-feature-extraction', 'image-segmentation', 'image-text-to-text', 'keypoint-matching', 'mask-generation', 'ner', 'object-detection', 'sentiment-analysis', 'table-question-answering', 'text-classification', 'text-generation', 'text-to-audio', 'text-to-speech', 'token-classification', 'video-classification', 'zero-shot-audio-classification', 'zero-shot-classification', 'zero-shot-image-classification', 'zero-shot-object-detection']\""
     },
     {
       "source": "MIT Technology Review",
       "url": "https://www.technologyreview.com",
       "type": "research",
-      "summary": "⚠️ Failed: Client error '401 Unauthorized' for url 'https://router.huggingface.co/hf-inference/models/facebook/bart-large-cnn' (Amz CF ID: zQKwntBkbkpFCF0oDeucphA_SEfbmXq2wcfracYOFQVmnocZOdLqgA==)\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401"
+      "summary": "⚠️ Failed: \"Unknown task summarization, available tasks are ['any-to-any', 'audio-classification', 'automatic-speech-recognition', 'depth-estimation', 'document-question-answering', 'feature-extraction', 'fill-mask', 'image-classification', 'image-feature-extraction', 'image-segmentation', 'image-text-to-text', 'keypoint-matching', 'mask-generation', 'ner', 'object-detection', 'sentiment-analysis', 'table-question-answering', 'text-classification', 'text-generation', 'text-to-audio', 'text-to-speech', 'token-classification', 'video-classification', 'zero-shot-audio-classification', 'zero-shot-classification', 'zero-shot-image-classification', 'zero-shot-object-detection']\""
     },
     {
       "source": "Futurism",
       "url": "https://futurism.com",
       "type": "news",
-      "summary": "⚠️ Failed: Client error '401 Unauthorized' for url 'https://router.huggingface.co/hf-inference/models/facebook/bart-large-cnn' (Amz CF ID: YnmvXkJHl-os3QbwLwo2rjVBX-Ggto3RDm7d_yoydDvXFNW0_yz60Q==)\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401"
+      "summary": "⚠️ Failed: \"Unknown task summarization, available tasks are ['any-to-any', 'audio-classification', 'automatic-speech-recognition', 'depth-estimation', 'document-question-answering', 'feature-extraction', 'fill-mask', 'image-classification', 'image-feature-extraction', 'image-segmentation', 'image-text-to-text', 'keypoint-matching', 'mask-generation', 'ner', 'object-detection', 'sentiment-analysis', 'table-question-answering', 'text-classification', 'text-generation', 'text-to-audio', 'text-to-speech', 'token-classification', 'video-classification', 'zero-shot-audio-classification', 'zero-shot-classification', 'zero-shot-image-classification', 'zero-shot-object-detection']\""
+    },
+    {
+      "source": "The Next Web",
+      "url": "https://thenextweb.com",
+      "type": "startups",
+      "summary": "⚠️ Failed: \"Unknown task summarization, available tasks are ['any-to-any', 'audio-classification', 'automatic-speech-recognition', 'depth-estimation', 'document-question-answering', 'feature-extraction', 'fill-mask', 'image-classification', 'image-feature-extraction', 'image-segmentation', 'image-text-to-text', 'keypoint-matching', 'mask-generation', 'ner', 'object-detection', 'sentiment-analysis', 'table-question-answering', 'text-classification', 'text-generation', 'text-to-audio', 'text-to-speech', 'token-classification', 'video-classification', 'zero-shot-audio-classification', 'zero-shot-classification', 'zero-shot-image-classification', 'zero-shot-object-detection']\""
     },
     {
       "source": "TechSpot",
       "url": "https://www.techspot.com",
       "type": "news",
-      "summary": "⚠️ Failed: Client error '401 Unauthorized' for url 'https://router.huggingface.co/hf-inference/models/facebook/bart-large-cnn' (Amz CF ID: wntVQw16ss12zFYC0iH7yv9xlean_wcy6i7FT_6uVvjJ4VYS6moDaA==)\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401"
+      "summary": "⚠️ Failed: \"Unknown task summarization, available tasks are ['any-to-any', 'audio-classification', 'automatic-speech-recognition', 'depth-estimation', 'document-question-answering', 'feature-extraction', 'fill-mask', 'image-classification', 'image-feature-extraction', 'image-segmentation', 'image-text-to-text', 'keypoint-matching', 'mask-generation', 'ner', 'object-detection', 'sentiment-analysis', 'table-question-answering', 'text-classification', 'text-generation', 'text-to-audio', 'text-to-speech', 'token-classification', 'video-classification', 'zero-shot-audio-classification', 'zero-shot-classification', 'zero-shot-image-classification', 'zero-shot-object-detection']\""
     },
     {
       "source": "The Register",
       "url": "https://www.theregister.com",
       "type": "news",
-      "summary": "⚠️ Failed: Client error '401 Unauthorized' for url 'https://router.huggingface.co/hf-inference/models/facebook/bart-large-cnn' (Amz CF ID: TBwMq2vGZm3uTFNsjwLs25Wn5u6M6DcDCBSGlRgTZvSjzOXkFN8WVA==)\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401"
+      "summary": "⚠️ Failed: \"Unknown task summarization, available tasks are ['any-to-any', 'audio-classification', 'automatic-speech-recognition', 'depth-estimation', 'document-question-answering', 'feature-extraction', 'fill-mask', 'image-classification', 'image-feature-extraction', 'image-segmentation', 'image-text-to-text', 'keypoint-matching', 'mask-generation', 'ner', 'object-detection', 'sentiment-analysis', 'table-question-answering', 'text-classification', 'text-generation', 'text-to-audio', 'text-to-speech', 'token-classification', 'video-classification', 'zero-shot-audio-classification', 'zero-shot-classification', 'zero-shot-image-classification', 'zero-shot-object-detection']\""
     },
     {
-      "source": "CIO",
-      "url": "https://www.cio.com",
-      "type": "enterprise",
-      "summary": "⚠️ Failed: Client error '401 Unauthorized' for url 'https://router.huggingface.co/hf-inference/models/facebook/bart-large-cnn' (Amz CF ID: CSEuPPFMkXajOAR4mS4vyLdmelhpqz5Z9baShCrDT4B4GRh8-2KPUg==)\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401"
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com",
+      "type": "ai",
+      "summary": "⚠️ Failed: \"Unknown task summarization, available tasks are ['any-to-any', 'audio-classification', 'automatic-speech-recognition', 'depth-estimation', 'document-question-answering', 'feature-extraction', 'fill-mask', 'image-classification', 'image-feature-extraction', 'image-segmentation', 'image-text-to-text', 'keypoint-matching', 'mask-generation', 'ner', 'object-detection', 'sentiment-analysis', 'table-question-answering', 'text-classification', 'text-generation', 'text-to-audio', 'text-to-speech', 'token-classification', 'video-classification', 'zero-shot-audio-classification', 'zero-shot-classification', 'zero-shot-image-classification', 'zero-shot-object-detection']\""
     },
     {
       "source": "InfoWorld",
       "url": "https://www.infoworld.com",
       "type": "enterprise",
-      "summary": "⚠️ Failed: Client error '401 Unauthorized' for url 'https://router.huggingface.co/hf-inference/models/facebook/bart-large-cnn' (Amz CF ID: murrgXHuhuuw8QA9E-pKF06jE_ExHGTfXzT-ImWFJ6l6TQoqhnPijw==)\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401"
-    },
-    {
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com",
-      "type": "android",
-      "summary": "⚠️ Failed: Client error '401 Unauthorized' for url 'https://router.huggingface.co/hf-inference/models/facebook/bart-large-cnn' (Amz CF ID: _Nx57fFuGbhtmiFBbjIKxd-D6Ix7LtBizuStafBzyAt1WD9Jv803CA==)\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401"
-    },
-    {
-      "source": "Bloomberg Technology",
-      "url": "https://www.bloomberg.com/technology",
-      "type": "market",
-      "summary": "⚠️ Failed: Client error '401 Unauthorized' for url 'https://router.huggingface.co/hf-inference/models/facebook/bart-large-cnn' (Amz CF ID: dE948zWqE3AuznD877mSV9aBDpV45LoBPwwil-DGIGE5zHDwx9zB6g==)\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401"
-    },
-    {
-      "source": "NYT Technology",
-      "url": "https://www.nytimes.com/section/technology",
-      "type": "news",
-      "summary": "⚠️ Failed: Client error '401 Unauthorized' for url 'https://router.huggingface.co/hf-inference/models/facebook/bart-large-cnn' (Amz CF ID: xHrgH5HUZEYI0i9m3Axdf--cZTPwp0s_tOdDIQnVZOmx_7egKYfMNQ==)\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401"
+      "summary": "⚠️ Failed: \"Unknown task summarization, available tasks are ['any-to-any', 'audio-classification', 'automatic-speech-recognition', 'depth-estimation', 'document-question-answering', 'feature-extraction', 'fill-mask', 'image-classification', 'image-feature-extraction', 'image-segmentation', 'image-text-to-text', 'keypoint-matching', 'mask-generation', 'ner', 'object-detection', 'sentiment-analysis', 'table-question-answering', 'text-classification', 'text-generation', 'text-to-audio', 'text-to-speech', 'token-classification', 'video-classification', 'zero-shot-audio-classification', 'zero-shot-classification', 'zero-shot-image-classification', 'zero-shot-object-detection']\""
     },
     {
       "source": "Computerworld",
       "url": "https://www.computerworld.com",
       "type": "enterprise",
-      "summary": "⚠️ Failed: Client error '401 Unauthorized' for url 'https://router.huggingface.co/hf-inference/models/facebook/bart-large-cnn' (Amz CF ID: 2Sjo2mguq2qlgVIaVQ6HFNENpnjPiPlPEScpoXJB0i9EMH_cJ5qZvA==)\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401"
+      "summary": "⚠️ Failed: \"Unknown task summarization, available tasks are ['any-to-any', 'audio-classification', 'automatic-speech-recognition', 'depth-estimation', 'document-question-answering', 'feature-extraction', 'fill-mask', 'image-classification', 'image-feature-extraction', 'image-segmentation', 'image-text-to-text', 'keypoint-matching', 'mask-generation', 'ner', 'object-detection', 'sentiment-analysis', 'table-question-answering', 'text-classification', 'text-generation', 'text-to-audio', 'text-to-speech', 'token-classification', 'video-classification', 'zero-shot-audio-classification', 'zero-shot-classification', 'zero-shot-image-classification', 'zero-shot-object-detection']\""
+    },
+    {
+      "source": "NYT Technology",
+      "url": "https://www.nytimes.com/section/technology",
+      "type": "news",
+      "summary": "⚠️ Failed: \"Unknown task summarization, available tasks are ['any-to-any', 'audio-classification', 'automatic-speech-recognition', 'depth-estimation', 'document-question-answering', 'feature-extraction', 'fill-mask', 'image-classification', 'image-feature-extraction', 'image-segmentation', 'image-text-to-text', 'keypoint-matching', 'mask-generation', 'ner', 'object-detection', 'sentiment-analysis', 'table-question-answering', 'text-classification', 'text-generation', 'text-to-audio', 'text-to-speech', 'token-classification', 'video-classification', 'zero-shot-audio-classification', 'zero-shot-classification', 'zero-shot-image-classification', 'zero-shot-object-detection']\""
+    },
+    {
+      "source": "CIO",
+      "url": "https://www.cio.com",
+      "type": "enterprise",
+      "summary": "⚠️ Failed: \"Unknown task summarization, available tasks are ['any-to-any', 'audio-classification', 'automatic-speech-recognition', 'depth-estimation', 'document-question-answering', 'feature-extraction', 'fill-mask', 'image-classification', 'image-feature-extraction', 'image-segmentation', 'image-text-to-text', 'keypoint-matching', 'mask-generation', 'ner', 'object-detection', 'sentiment-analysis', 'table-question-answering', 'text-classification', 'text-generation', 'text-to-audio', 'text-to-speech', 'token-classification', 'video-classification', 'zero-shot-audio-classification', 'zero-shot-classification', 'zero-shot-image-classification', 'zero-shot-object-detection']\""
     },
     {
       "source": "Financial Times Tech",
       "url": "https://www.ft.com/technology",
       "type": "market",
-      "summary": "⚠️ Failed: Client error '401 Unauthorized' for url 'https://router.huggingface.co/hf-inference/models/facebook/bart-large-cnn' (Amz CF ID: lV1nk6Reji135wy4_5AwvYT0j-rsyrjbGGoXg6hq8KN0bzNzhKt-rA==)\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401"
+      "summary": "⚠️ Failed: \"Unknown task summarization, available tasks are ['any-to-any', 'audio-classification', 'automatic-speech-recognition', 'depth-estimation', 'document-question-answering', 'feature-extraction', 'fill-mask', 'image-classification', 'image-feature-extraction', 'image-segmentation', 'image-text-to-text', 'keypoint-matching', 'mask-generation', 'ner', 'object-detection', 'sentiment-analysis', 'table-question-answering', 'text-classification', 'text-generation', 'text-to-audio', 'text-to-speech', 'token-classification', 'video-classification', 'zero-shot-audio-classification', 'zero-shot-classification', 'zero-shot-image-classification', 'zero-shot-object-detection']\""
+    },
+    {
+      "source": "Bloomberg Technology",
+      "url": "https://www.bloomberg.com/technology",
+      "type": "market",
+      "summary": "⚠️ Failed: \"Unknown task summarization, available tasks are ['any-to-any', 'audio-classification', 'automatic-speech-recognition', 'depth-estimation', 'document-question-answering', 'feature-extraction', 'fill-mask', 'image-classification', 'image-feature-extraction', 'image-segmentation', 'image-text-to-text', 'keypoint-matching', 'mask-generation', 'ner', 'object-detection', 'sentiment-analysis', 'table-question-answering', 'text-classification', 'text-generation', 'text-to-audio', 'text-to-speech', 'token-classification', 'video-classification', 'zero-shot-audio-classification', 'zero-shot-classification', 'zero-shot-image-classification', 'zero-shot-object-detection']\""
+    },
+    {
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com",
+      "type": "android",
+      "summary": "⚠️ Failed: \"Unknown task summarization, available tasks are ['any-to-any', 'audio-classification', 'automatic-speech-recognition', 'depth-estimation', 'document-question-answering', 'feature-extraction', 'fill-mask', 'image-classification', 'image-feature-extraction', 'image-segmentation', 'image-text-to-text', 'keypoint-matching', 'mask-generation', 'ner', 'object-detection', 'sentiment-analysis', 'table-question-answering', 'text-classification', 'text-generation', 'text-to-audio', 'text-to-speech', 'token-classification', 'video-classification', 'zero-shot-audio-classification', 'zero-shot-classification', 'zero-shot-image-classification', 'zero-shot-object-detection']\""
+    },
+    {
+      "source": "Fortune Tech",
+      "url": "https://fortune.com/section/tech/",
+      "type": "market",
+      "summary": "⚠️ Failed: \"Unknown task summarization, available tasks are ['any-to-any', 'audio-classification', 'automatic-speech-recognition', 'depth-estimation', 'document-question-answering', 'feature-extraction', 'fill-mask', 'image-classification', 'image-feature-extraction', 'image-segmentation', 'image-text-to-text', 'keypoint-matching', 'mask-generation', 'ner', 'object-detection', 'sentiment-analysis', 'table-question-answering', 'text-classification', 'text-generation', 'text-to-audio', 'text-to-speech', 'token-classification', 'video-classification', 'zero-shot-audio-classification', 'zero-shot-classification', 'zero-shot-image-classification', 'zero-shot-object-detection']\""
+    },
+    {
+      "source": "Business Insider Tech",
+      "url": "https://www.businessinsider.com/technology",
+      "type": "market",
+      "summary": "⚠️ Failed: \"Unknown task summarization, available tasks are ['any-to-any', 'audio-classification', 'automatic-speech-recognition', 'depth-estimation', 'document-question-answering', 'feature-extraction', 'fill-mask', 'image-classification', 'image-feature-extraction', 'image-segmentation', 'image-text-to-text', 'keypoint-matching', 'mask-generation', 'ner', 'object-detection', 'sentiment-analysis', 'table-question-answering', 'text-classification', 'text-generation', 'text-to-audio', 'text-to-speech', 'token-classification', 'video-classification', 'zero-shot-audio-classification', 'zero-shot-classification', 'zero-shot-image-classification', 'zero-shot-object-detection']\""
+    },
+    {
+      "source": "arXiv CS",
+      "url": "https://arxiv.org/list/cs/recent",
+      "type": "research",
+      "summary": "⚠️ Failed: \"Unknown task summarization, available tasks are ['any-to-any', 'audio-classification', 'automatic-speech-recognition', 'depth-estimation', 'document-question-answering', 'feature-extraction', 'fill-mask', 'image-classification', 'image-feature-extraction', 'image-segmentation', 'image-text-to-text', 'keypoint-matching', 'mask-generation', 'ner', 'object-detection', 'sentiment-analysis', 'table-question-answering', 'text-classification', 'text-generation', 'text-to-audio', 'text-to-speech', 'token-classification', 'video-classification', 'zero-shot-audio-classification', 'zero-shot-classification', 'zero-shot-image-classification', 'zero-shot-object-detection']\""
+    },
+    {
+      "source": "CB Insights",
+      "url": "https://www.cbinsights.com",
+      "type": "market",
+      "summary": "⚠️ Failed: \"Unknown task summarization, available tasks are ['any-to-any', 'audio-classification', 'automatic-speech-recognition', 'depth-estimation', 'document-question-answering', 'feature-extraction', 'fill-mask', 'image-classification', 'image-feature-extraction', 'image-segmentation', 'image-text-to-text', 'keypoint-matching', 'mask-generation', 'ner', 'object-detection', 'sentiment-analysis', 'table-question-answering', 'text-classification', 'text-generation', 'text-to-audio', 'text-to-speech', 'token-classification', 'video-classification', 'zero-shot-audio-classification', 'zero-shot-classification', 'zero-shot-image-classification', 'zero-shot-object-detection']\""
     },
     {
       "source": "Reuters Technology",
@@ -159,148 +195,112 @@
       "summary": "⚠️ Failed: 403 Client Error: Forbidden for url: https://r.jina.ai/https://www.reuters.com/technology/"
     },
     {
-      "source": "Fortune Tech",
-      "url": "https://fortune.com/section/tech/",
-      "type": "market",
-      "summary": "⚠️ Failed: Client error '401 Unauthorized' for url 'https://router.huggingface.co/hf-inference/models/facebook/bart-large-cnn' (Amz CF ID: bKsHlugAR26J8HwN5DeB6d-TyKS51TGGXc9G2-oU0D5aR6D-BTpIcA==)\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401"
-    },
-    {
-      "source": "Business Insider Tech",
-      "url": "https://www.businessinsider.com/technology",
-      "type": "market",
-      "summary": "⚠️ Failed: Client error '401 Unauthorized' for url 'https://router.huggingface.co/hf-inference/models/facebook/bart-large-cnn' (Amz CF ID: zmwpGXavUB2VdDT9IiB8VM3v-tvvZqXvTkFq12jbF9zXqm3tNSkHJw==)\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401"
-    },
-    {
-      "source": "CB Insights",
-      "url": "https://www.cbinsights.com",
-      "type": "market",
-      "summary": "⚠️ Failed: Client error '401 Unauthorized' for url 'https://router.huggingface.co/hf-inference/models/facebook/bart-large-cnn' (Amz CF ID: oIVttuJZtHXmAzP8spFtn27LLvyWEMBz14wmIlbEgM2gJJhj5DcF3A==)\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401"
-    },
-    {
-      "source": "VentureBeat",
-      "url": "https://venturebeat.com",
-      "type": "ai",
-      "summary": "⚠️ Failed: Client error '401 Unauthorized' for url 'https://router.huggingface.co/hf-inference/models/facebook/bart-large-cnn' (Amz CF ID: h7Ge2T08-7NAXQer7YHNr8P0quoM1o2n2bk2g8Jnp_vTcBM4ujxsIQ==)\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401"
-    },
-    {
-      "source": "arXiv CS",
-      "url": "https://arxiv.org/list/cs/recent",
-      "type": "research",
-      "summary": "⚠️ Failed: Client error '401 Unauthorized' for url 'https://router.huggingface.co/hf-inference/models/facebook/bart-large-cnn' (Amz CF ID: A0OFkjnaq-Df-s8dCu2NjFf8kFaFv5nZngIbWMZrloPCLftD7BpvMg==)\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401"
-    },
-    {
-      "source": "WSJ Technology",
-      "url": "https://www.wsj.com/tech",
-      "type": "market",
-      "summary": "⚠️ Failed: Client error '401 Unauthorized' for url 'https://router.huggingface.co/hf-inference/models/facebook/bart-large-cnn' (Amz CF ID: gH69CefktM4UPnvBw7n5c1LU0rCCZcC0snkl4uw6XY3WE-zVfXQVkA==)\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401"
-    },
-    {
       "source": "DEV.to",
       "url": "https://dev.to",
       "type": "blog",
-      "summary": "⚠️ Failed: Client error '401 Unauthorized' for url 'https://router.huggingface.co/hf-inference/models/facebook/bart-large-cnn' (Amz CF ID: 7qlyIgVL9vjKnW-OysubbVukQnwTOfm1duvmMW-coyXCI34SYJPbkQ==)\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401"
+      "summary": "⚠️ Failed: \"Unknown task summarization, available tasks are ['any-to-any', 'audio-classification', 'automatic-speech-recognition', 'depth-estimation', 'document-question-answering', 'feature-extraction', 'fill-mask', 'image-classification', 'image-feature-extraction', 'image-segmentation', 'image-text-to-text', 'keypoint-matching', 'mask-generation', 'ner', 'object-detection', 'sentiment-analysis', 'table-question-answering', 'text-classification', 'text-generation', 'text-to-audio', 'text-to-speech', 'token-classification', 'video-classification', 'zero-shot-audio-classification', 'zero-shot-classification', 'zero-shot-image-classification', 'zero-shot-object-detection']\""
     },
     {
       "source": "Hashnode",
       "url": "https://hashnode.com",
       "type": "blog",
-      "summary": "⚠️ Failed: Client error '401 Unauthorized' for url 'https://router.huggingface.co/hf-inference/models/facebook/bart-large-cnn' (Amz CF ID: 709vhwh126xHd1M_b5ZA3QH2PIJUSZe1giZjtJMpvLewzEMemaKw1Q==)\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401"
+      "summary": "⚠️ Failed: \"Unknown task summarization, available tasks are ['any-to-any', 'audio-classification', 'automatic-speech-recognition', 'depth-estimation', 'document-question-answering', 'feature-extraction', 'fill-mask', 'image-classification', 'image-feature-extraction', 'image-segmentation', 'image-text-to-text', 'keypoint-matching', 'mask-generation', 'ner', 'object-detection', 'sentiment-analysis', 'table-question-answering', 'text-classification', 'text-generation', 'text-to-audio', 'text-to-speech', 'token-classification', 'video-classification', 'zero-shot-audio-classification', 'zero-shot-classification', 'zero-shot-image-classification', 'zero-shot-object-detection']\""
     },
     {
       "source": "HackerNoon",
       "url": "https://hackernoon.com",
       "type": "blog",
-      "summary": "⚠️ Failed: Client error '401 Unauthorized' for url 'https://router.huggingface.co/hf-inference/models/facebook/bart-large-cnn' (Amz CF ID: lKaIJ1u06ZpbZQR79lfvZl8IdtFRUwGLdzB5gk55Qm73YTztgHfB5Q==)\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401"
+      "summary": "⚠️ Failed: \"Unknown task summarization, available tasks are ['any-to-any', 'audio-classification', 'automatic-speech-recognition', 'depth-estimation', 'document-question-answering', 'feature-extraction', 'fill-mask', 'image-classification', 'image-feature-extraction', 'image-segmentation', 'image-text-to-text', 'keypoint-matching', 'mask-generation', 'ner', 'object-detection', 'sentiment-analysis', 'table-question-answering', 'text-classification', 'text-generation', 'text-to-audio', 'text-to-speech', 'token-classification', 'video-classification', 'zero-shot-audio-classification', 'zero-shot-classification', 'zero-shot-image-classification', 'zero-shot-object-detection']\""
     },
     {
       "source": "Medium",
       "url": "https://medium.com",
       "type": "blog",
-      "summary": "⚠️ Failed: Client error '401 Unauthorized' for url 'https://router.huggingface.co/hf-inference/models/facebook/bart-large-cnn' (Amz CF ID: OjrKacn5otZUmKMAVG69y9c63qqYMygaRHtLzvlV6hOTJQ6Yp3WlHA==)\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401"
+      "summary": "⚠️ Failed: \"Unknown task summarization, available tasks are ['any-to-any', 'audio-classification', 'automatic-speech-recognition', 'depth-estimation', 'document-question-answering', 'feature-extraction', 'fill-mask', 'image-classification', 'image-feature-extraction', 'image-segmentation', 'image-text-to-text', 'keypoint-matching', 'mask-generation', 'ner', 'object-detection', 'sentiment-analysis', 'table-question-answering', 'text-classification', 'text-generation', 'text-to-audio', 'text-to-speech', 'token-classification', 'video-classification', 'zero-shot-audio-classification', 'zero-shot-classification', 'zero-shot-image-classification', 'zero-shot-object-detection']\""
     },
     {
       "source": "Substack",
       "url": "https://substack.com",
       "type": "blog",
-      "summary": "⚠️ Failed: Client error '401 Unauthorized' for url 'https://router.huggingface.co/hf-inference/models/facebook/bart-large-cnn' (Amz CF ID: ZKEEAdy6HRew6i_ihGbfrwl0Qa0D9t-vCVoAmvXOuuFw85cMplCJPw==)\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401"
+      "summary": "⚠️ Failed: \"Unknown task summarization, available tasks are ['any-to-any', 'audio-classification', 'automatic-speech-recognition', 'depth-estimation', 'document-question-answering', 'feature-extraction', 'fill-mask', 'image-classification', 'image-feature-extraction', 'image-segmentation', 'image-text-to-text', 'keypoint-matching', 'mask-generation', 'ner', 'object-detection', 'sentiment-analysis', 'table-question-answering', 'text-classification', 'text-generation', 'text-to-audio', 'text-to-speech', 'token-classification', 'video-classification', 'zero-shot-audio-classification', 'zero-shot-classification', 'zero-shot-image-classification', 'zero-shot-object-detection']\""
     },
     {
       "source": "freeCodeCamp News",
       "url": "https://www.freecodecamp.org/news",
       "type": "blog",
-      "summary": "⚠️ Failed: Client error '401 Unauthorized' for url 'https://router.huggingface.co/hf-inference/models/facebook/bart-large-cnn' (Amz CF ID: Bc_P7BhpUCLHSXRs-mnQGQptYK1YrY6EYLP27jZ5izt_4ir9GNLi7g==)\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401"
+      "summary": "⚠️ Failed: \"Unknown task summarization, available tasks are ['any-to-any', 'audio-classification', 'automatic-speech-recognition', 'depth-estimation', 'document-question-answering', 'feature-extraction', 'fill-mask', 'image-classification', 'image-feature-extraction', 'image-segmentation', 'image-text-to-text', 'keypoint-matching', 'mask-generation', 'ner', 'object-detection', 'sentiment-analysis', 'table-question-answering', 'text-classification', 'text-generation', 'text-to-audio', 'text-to-speech', 'token-classification', 'video-classification', 'zero-shot-audio-classification', 'zero-shot-classification', 'zero-shot-image-classification', 'zero-shot-object-detection']\""
     },
     {
-      "source": "Nature Technology",
-      "url": "https://www.nature.com/sections/tech-policy",
-      "type": "research",
-      "summary": "⚠️ Failed: Client error '401 Unauthorized' for url 'https://router.huggingface.co/hf-inference/models/facebook/bart-large-cnn' (Amz CF ID: 7xVASg5eHJ9zO-sZbIsPhcqEX9xT3AZzGwyzPfSIOlAAiNEa7JqNQA==)\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401"
+      "source": "WSJ Technology",
+      "url": "https://www.wsj.com/tech",
+      "type": "market",
+      "summary": "⚠️ Failed: \"Unknown task summarization, available tasks are ['any-to-any', 'audio-classification', 'automatic-speech-recognition', 'depth-estimation', 'document-question-answering', 'feature-extraction', 'fill-mask', 'image-classification', 'image-feature-extraction', 'image-segmentation', 'image-text-to-text', 'keypoint-matching', 'mask-generation', 'ner', 'object-detection', 'sentiment-analysis', 'table-question-answering', 'text-classification', 'text-generation', 'text-to-audio', 'text-to-speech', 'token-classification', 'video-classification', 'zero-shot-audio-classification', 'zero-shot-classification', 'zero-shot-image-classification', 'zero-shot-object-detection']\""
     },
     {
       "source": "The New Stack",
       "url": "https://thenewstack.io",
       "type": "enterprise",
-      "summary": "⚠️ Failed: Client error '401 Unauthorized' for url 'https://router.huggingface.co/hf-inference/models/facebook/bart-large-cnn' (Amz CF ID: Q_rJbUjBqyv0eZTjZWfEL5p9jptWyHes9sj6pFM4MauQTS76ulh8lA==)\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401"
+      "summary": "⚠️ Failed: \"Unknown task summarization, available tasks are ['any-to-any', 'audio-classification', 'automatic-speech-recognition', 'depth-estimation', 'document-question-answering', 'feature-extraction', 'fill-mask', 'image-classification', 'image-feature-extraction', 'image-segmentation', 'image-text-to-text', 'keypoint-matching', 'mask-generation', 'ner', 'object-detection', 'sentiment-analysis', 'table-question-answering', 'text-classification', 'text-generation', 'text-to-audio', 'text-to-speech', 'token-classification', 'video-classification', 'zero-shot-audio-classification', 'zero-shot-classification', 'zero-shot-image-classification', 'zero-shot-object-detection']\""
     },
     {
       "source": "InfoQ",
       "url": "https://www.infoq.com",
       "type": "research",
-      "summary": "⚠️ Failed: Client error '401 Unauthorized' for url 'https://router.huggingface.co/hf-inference/models/facebook/bart-large-cnn' (Amz CF ID: Jrtyhqdq_fEmBhaOvpBbgc_f3N53zxePb1_hMyqlUAB4djctwjrTGA==)\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401"
+      "summary": "⚠️ Failed: \"Unknown task summarization, available tasks are ['any-to-any', 'audio-classification', 'automatic-speech-recognition', 'depth-estimation', 'document-question-answering', 'feature-extraction', 'fill-mask', 'image-classification', 'image-feature-extraction', 'image-segmentation', 'image-text-to-text', 'keypoint-matching', 'mask-generation', 'ner', 'object-detection', 'sentiment-analysis', 'table-question-answering', 'text-classification', 'text-generation', 'text-to-audio', 'text-to-speech', 'token-classification', 'video-classification', 'zero-shot-audio-classification', 'zero-shot-classification', 'zero-shot-image-classification', 'zero-shot-object-detection']\""
     },
     {
       "source": "Smashing Magazine",
       "url": "https://www.smashingmagazine.com",
       "type": "blog",
-      "summary": "⚠️ Failed: Client error '401 Unauthorized' for url 'https://router.huggingface.co/hf-inference/models/facebook/bart-large-cnn' (Amz CF ID: iM-pdqcq7NCd-ECdrPfyCFDvuup-OVFbn5b9Aek5qAYHDl___HzJsg==)\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401"
+      "summary": "⚠️ Failed: \"Unknown task summarization, available tasks are ['any-to-any', 'audio-classification', 'automatic-speech-recognition', 'depth-estimation', 'document-question-answering', 'feature-extraction', 'fill-mask', 'image-classification', 'image-feature-extraction', 'image-segmentation', 'image-text-to-text', 'keypoint-matching', 'mask-generation', 'ner', 'object-detection', 'sentiment-analysis', 'table-question-answering', 'text-classification', 'text-generation', 'text-to-audio', 'text-to-speech', 'token-classification', 'video-classification', 'zero-shot-audio-classification', 'zero-shot-classification', 'zero-shot-image-classification', 'zero-shot-object-detection']\""
     },
     {
       "source": "CSS-Tricks",
       "url": "https://css-tricks.com",
       "type": "blog",
-      "summary": "⚠️ Failed: Client error '401 Unauthorized' for url 'https://router.huggingface.co/hf-inference/models/facebook/bart-large-cnn' (Amz CF ID: v-iVCMK7FhKQkGES1jTo_O99PL4nWqYjc6ok4Td6rMhJy4yahzRuEg==)\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401"
+      "summary": "⚠️ Failed: \"Unknown task summarization, available tasks are ['any-to-any', 'audio-classification', 'automatic-speech-recognition', 'depth-estimation', 'document-question-answering', 'feature-extraction', 'fill-mask', 'image-classification', 'image-feature-extraction', 'image-segmentation', 'image-text-to-text', 'keypoint-matching', 'mask-generation', 'ner', 'object-detection', 'sentiment-analysis', 'table-question-answering', 'text-classification', 'text-generation', 'text-to-audio', 'text-to-speech', 'token-classification', 'video-classification', 'zero-shot-audio-classification', 'zero-shot-classification', 'zero-shot-image-classification', 'zero-shot-object-detection']\""
+    },
+    {
+      "source": "Nature Technology",
+      "url": "https://www.nature.com/sections/tech-policy",
+      "type": "research",
+      "summary": "⚠️ Failed: \"Unknown task summarization, available tasks are ['any-to-any', 'audio-classification', 'automatic-speech-recognition', 'depth-estimation', 'document-question-answering', 'feature-extraction', 'fill-mask', 'image-classification', 'image-feature-extraction', 'image-segmentation', 'image-text-to-text', 'keypoint-matching', 'mask-generation', 'ner', 'object-detection', 'sentiment-analysis', 'table-question-answering', 'text-classification', 'text-generation', 'text-to-audio', 'text-to-speech', 'token-classification', 'video-classification', 'zero-shot-audio-classification', 'zero-shot-classification', 'zero-shot-image-classification', 'zero-shot-object-detection']\""
     },
     {
       "source": "SitePoint",
       "url": "https://www.sitepoint.com",
       "type": "blog",
-      "summary": "⚠️ Failed: Client error '401 Unauthorized' for url 'https://router.huggingface.co/hf-inference/models/facebook/bart-large-cnn' (Amz CF ID: s6tFgMKDTLutRf67eX264B-JFC-6Bz2TsMpPFzSOMqi9xLbb6O0P8A==)\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401"
-    },
-    {
-      "source": "Habr",
-      "url": "https://habr.com/ru/articles/",
-      "type": "blog",
-      "summary": "⚠️ Failed: Client error '401 Unauthorized' for url 'https://router.huggingface.co/hf-inference/models/facebook/bart-large-cnn' (Amz CF ID: cfwO32UtUI-XCvmtBvLRwmavQByI8Jz21GrZfUQQJvlHjPsS8BA5hA==)\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401"
-    },
-    {
-      "source": "DZone",
-      "url": "https://dzone.com",
-      "type": "enterprise",
-      "summary": "⚠️ Failed: Client error '401 Unauthorized' for url 'https://router.huggingface.co/hf-inference/models/facebook/bart-large-cnn' (Amz CF ID: XsVGg_CiHtEWdIibC-SK-Utg4POM_muALL5XpAj6bT6VHtjMb1xBBg==)\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401"
+      "summary": "⚠️ Failed: \"Unknown task summarization, available tasks are ['any-to-any', 'audio-classification', 'automatic-speech-recognition', 'depth-estimation', 'document-question-answering', 'feature-extraction', 'fill-mask', 'image-classification', 'image-feature-extraction', 'image-segmentation', 'image-text-to-text', 'keypoint-matching', 'mask-generation', 'ner', 'object-detection', 'sentiment-analysis', 'table-question-answering', 'text-classification', 'text-generation', 'text-to-audio', 'text-to-speech', 'token-classification', 'video-classification', 'zero-shot-audio-classification', 'zero-shot-classification', 'zero-shot-image-classification', 'zero-shot-object-detection']\""
     },
     {
       "source": "Dev.to AI",
       "url": "https://dev.to/tag/ai",
       "type": "ai",
-      "summary": "⚠️ Failed: Client error '401 Unauthorized' for url 'https://router.huggingface.co/hf-inference/models/facebook/bart-large-cnn' (Amz CF ID: w8NXOPKnrWdPidYx04Iy50iRY3sLVbgr7y1ECqBfntfUywRiSii38w==)\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401"
+      "summary": "⚠️ Failed: \"Unknown task summarization, available tasks are ['any-to-any', 'audio-classification', 'automatic-speech-recognition', 'depth-estimation', 'document-question-answering', 'feature-extraction', 'fill-mask', 'image-classification', 'image-feature-extraction', 'image-segmentation', 'image-text-to-text', 'keypoint-matching', 'mask-generation', 'ner', 'object-detection', 'sentiment-analysis', 'table-question-answering', 'text-classification', 'text-generation', 'text-to-audio', 'text-to-speech', 'token-classification', 'video-classification', 'zero-shot-audio-classification', 'zero-shot-classification', 'zero-shot-image-classification', 'zero-shot-object-detection']\""
+    },
+    {
+      "source": "Habr",
+      "url": "https://habr.com/ru/articles/",
+      "type": "blog",
+      "summary": "⚠️ Failed: \"Unknown task summarization, available tasks are ['any-to-any', 'audio-classification', 'automatic-speech-recognition', 'depth-estimation', 'document-question-answering', 'feature-extraction', 'fill-mask', 'image-classification', 'image-feature-extraction', 'image-segmentation', 'image-text-to-text', 'keypoint-matching', 'mask-generation', 'ner', 'object-detection', 'sentiment-analysis', 'table-question-answering', 'text-classification', 'text-generation', 'text-to-audio', 'text-to-speech', 'token-classification', 'video-classification', 'zero-shot-audio-classification', 'zero-shot-classification', 'zero-shot-image-classification', 'zero-shot-object-detection']\""
+    },
+    {
+      "source": "DZone",
+      "url": "https://dzone.com",
+      "type": "enterprise",
+      "summary": "⚠️ Failed: \"Unknown task summarization, available tasks are ['any-to-any', 'audio-classification', 'automatic-speech-recognition', 'depth-estimation', 'document-question-answering', 'feature-extraction', 'fill-mask', 'image-classification', 'image-feature-extraction', 'image-segmentation', 'image-text-to-text', 'keypoint-matching', 'mask-generation', 'ner', 'object-detection', 'sentiment-analysis', 'table-question-answering', 'text-classification', 'text-generation', 'text-to-audio', 'text-to-speech', 'token-classification', 'video-classification', 'zero-shot-audio-classification', 'zero-shot-classification', 'zero-shot-image-classification', 'zero-shot-object-detection']\""
     },
     {
       "source": "In Plain English",
       "url": "https://inplainenglish.com",
       "type": "blog",
-      "summary": "⚠️ Failed: Client error '401 Unauthorized' for url 'https://router.huggingface.co/hf-inference/models/facebook/bart-large-cnn' (Amz CF ID: -vGkaW7w3k5xmA7D_ztFHZvqBjHiasuUtTzNAXXEBObmoUvZN8gJRw==)\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401"
-    },
-    {
-      "source": "The Next Web",
-      "url": "https://thenextweb.com",
-      "type": "startups",
-      "summary": "⚠️ Failed: Client error '401 Unauthorized' for url 'https://router.huggingface.co/hf-inference/models/facebook/bart-large-cnn' (Amz CF ID: WLf-j_kgQ14PTj9XBcqHfsJ7jIpobj8i8eIYWYeWCxzJUAvKzVPM3A==)\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401"
+      "summary": "⚠️ Failed: \"Unknown task summarization, available tasks are ['any-to-any', 'audio-classification', 'automatic-speech-recognition', 'depth-estimation', 'document-question-answering', 'feature-extraction', 'fill-mask', 'image-classification', 'image-feature-extraction', 'image-segmentation', 'image-text-to-text', 'keypoint-matching', 'mask-generation', 'ner', 'object-detection', 'sentiment-analysis', 'table-question-answering', 'text-classification', 'text-generation', 'text-to-audio', 'text-to-speech', 'token-classification', 'video-classification', 'zero-shot-audio-classification', 'zero-shot-classification', 'zero-shot-image-classification', 'zero-shot-object-detection']\""
     },
     {
       "source": "Washington Post Tech",
       "url": "https://www.washingtonpost.com/business/technology/",
       "type": "news",
-      "summary": "⚠️ Failed: Client error '401 Unauthorized' for url 'https://router.huggingface.co/hf-inference/models/facebook/bart-large-cnn' (Amz CF ID: w-fBJzYP10mLPH1eBciDM0kqSrM4gJ3jrbMtr9WXPgdFS91O-LRZ3w==)\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401"
+      "summary": "⚠️ Failed: \"Unknown task summarization, available tasks are ['any-to-any', 'audio-classification', 'automatic-speech-recognition', 'depth-estimation', 'document-question-answering', 'feature-extraction', 'fill-mask', 'image-classification', 'image-feature-extraction', 'image-segmentation', 'image-text-to-text', 'keypoint-matching', 'mask-generation', 'ner', 'object-detection', 'sentiment-analysis', 'table-question-answering', 'text-classification', 'text-generation', 'text-to-audio', 'text-to-speech', 'token-classification', 'video-classification', 'zero-shot-audio-classification', 'zero-shot-classification', 'zero-shot-image-classification', 'zero-shot-object-detection']\""
     }
   ]
 }
