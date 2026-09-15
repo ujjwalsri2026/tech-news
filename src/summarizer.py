@@ -1,22 +1,23 @@
-from huggingface_hub import InferenceClient
+from transformers import pipeline
 
-_client = None
+_pipe = None
 MODEL = "facebook/bart-large-cnn"
 
 
-def _get_client():
-    global _client
-    if _client is None:
-        _client = InferenceClient()
-    return _client
+def _get_pipe():
+    global _pipe
+    if _pipe is None:
+        _pipe = pipeline("summarization", model=MODEL)
+    return _pipe
 
 
 def summarize(text: str, source_type: str = "news") -> str:
-    client = _get_client()
-    result = client.summarization(
+    p = _get_pipe()
+    result = p(
         text,
-        model=MODEL,
-        truncation="longest_first",
-        clean_up_tokenization_spaces=True,
+        max_length=150,
+        min_length=30,
+        do_sample=False,
+        truncation=True,
     )
-    return result.generated_text
+    return result[0]["summary_text"]
