@@ -3,10 +3,10 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>TechPulse — Tech News in 2-3 Lines</title>
-  <meta name="description" content="50 tech sources summarized in 2-3 lines each. Updated every 6 hours by GitHub Actions + GPT-4o-mini.">
+  <title>TechPulse — Tech News Digest</title>
+  <meta name="description" content="Every headline from 50 tech sources. Scraped and summarized every 6 hours.">
   <meta property="og:title" content="TechPulse — Tech News Digest">
-  <meta property="og:description" content="50 sources, 7 days, zero noise.">
+  <meta property="og:description" content="Every headline from 50 tech sources.">
   <meta property="og:type" content="website">
   <link rel="stylesheet" href="style.css">
 </head>
@@ -41,7 +41,7 @@
     <svg class="title-squiggle" viewBox="0 0 300 16" aria-hidden="true">
       <path d="M0,8 Q18,0 36,8 Q54,16 72,8 Q90,0 108,8 Q126,16 144,8 Q162,0 180,8 Q198,16 216,8 Q234,0 252,8 Q270,16 288,8" fill="none" stroke="var(--memphis-pink)" stroke-width="3"/>
     </svg>
-    <p class="subtitle">50 sources &middot; 7 days &middot; zero noise</p>
+    <p class="subtitle" id="subtitle">50 sources &middot; 0 articles &middot; 7 days</p>
     <p class="timestamp" id="timestamp"></p>
   </header>
 
@@ -57,7 +57,7 @@
       <svg viewBox="0 0 24 24" width="20" height="20"><polygon points="12,2 22,12 12,22 2,12" fill="var(--memphis-purple)"/></svg>
       <svg viewBox="0 0 24 24" width="20" height="20"><circle cx="12" cy="12" r="8" fill="none" stroke="var(--memphis-orange)" stroke-width="2"/></svg>
     </div>
-    <p>Built with GitHub Actions + GPT-4o-mini</p>
+    <p>Built with GitHub Actions + DistilBART</p>
   </footer>
 
   <script src="app.js"></script>

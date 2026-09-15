@@ -29,3 +29,16 @@ def summarize(text: str, source_type: str = "news") -> str:
             do_sample=False,
         )
     return _tokenizer.decode(output[0], skip_special_tokens=True)
+
+
+def summarize_short(text: str) -> str:
+    _load()
+    inputs = _tokenizer(text, return_tensors="pt", max_length=1024, truncation=True)
+    with torch.no_grad():
+        output = _model.generate(
+            **inputs,
+            max_length=80,
+            min_length=15,
+            do_sample=False,
+        )
+    return _tokenizer.decode(output[0], skip_special_tokens=True)

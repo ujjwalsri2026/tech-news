@@ -14,34 +14,48 @@
     const resp = await fetch("data/summaries.json");
     data = await resp.json();
   } catch {
-    data = { generated_at: null, count: 0, items: [] };
+    data = { generated_at: null, source_count: 0, article_count: 0, items: [] };
   }
 
   const timestampEl = document.getElementById("timestamp");
   if (data.generated_at) {
     const d = new Date(data.generated_at);
-    timestampEl.textContent = "Last updated: " + d.toISOString().replace("T", " ").slice(0, 19) + " UTC";
+    timestampEl.textContent =
+      "Last updated: " +
+      d.toISOString().replace("T", " ").slice(0, 19) +
+      " UTC";
   } else {
     timestampEl.textContent = "No data yet. Run the scraper first.";
   }
 
-  const types = [...new Set(data.items.map((i) => i.type))].sort();
-  const filtersEl = document.getElementById("filters");
-  let activeFilter = null;
+  const subtitleEl = document.getElementById("subtitle");
+  if (subtitleEl) {
+    subtitleEl.textContent =
+      data.source_count +
+      " sources \u00b7 " +
+      data.article_count +
+      " articles \u00b7 7 days";
+  }
 
-  types.forEach((t, idx) => {
-    const btn = document.createElement("button");
+  const types = [...new Set(data.items.map(function (i) { return i.type; }))].sort();
+  const filtersEl = document.getElementById("filters");
+  var activeFilter = null;
+
+  types.forEach(function (t, idx) {
+    var btn = document.createElement("button");
     btn.className = "filter-pill";
     btn.dataset.type = t;
     btn.dataset.color = COLORS[idx % COLORS.length];
     btn.textContent = t.toUpperCase();
-    btn.addEventListener("click", () => {
+    btn.addEventListener("click", function () {
       if (activeFilter === t) {
         activeFilter = null;
         btn.classList.remove("active");
       } else {
         activeFilter = t;
-        filtersEl.querySelectorAll(".filter-pill").forEach((b) => b.classList.remove("active"));
+        filtersEl.querySelectorAll(".filter-pill").forEach(function (b) {
+          b.classList.remove("active");
+        });
         btn.classList.add("active");
       }
       applyFilter();
@@ -49,44 +63,58 @@
     filtersEl.appendChild(btn);
   });
 
-  const cardsEl = document.getElementById("cards");
+  var cardsEl = document.getElementById("cards");
 
   function relativeTime(isoStr) {
     if (!isoStr) return "";
-    const diff = Date.now() - new Date(isoStr).getTime();
-    const mins = Math.floor(diff / 60000);
+    var diff = Date.now() - new Date(isoStr).getTime();
+    var mins = Math.floor(diff / 60000);
     if (mins < 1) return "just now";
     if (mins < 60) return mins + "m ago";
-    const hrs = Math.floor(mins / 60);
+    var hrs = Math.floor(mins / 60);
     if (hrs < 24) return hrs + "h ago";
-    const days = Math.floor(hrs / 24);
+    var days = Math.floor(hrs / 24);
     return days + "d ago";
   }
 
   function renderCards() {
     cardsEl.innerHTML = "";
-    data.items.forEach((item, idx) => {
-      const colorIdx = idx % COLORS.length;
-      const cardColor = COLOR_MAP[COLORS[colorIdx]];
-      const card = document.createElement("div");
+    data.items.forEach(function (item, idx) {
+      var colorIdx = idx % COLORS.length;
+      var cardColor = COLOR_MAP[COLORS[colorIdx]];
+      var card = document.createElement("div");
       card.className = "card";
       card.dataset.type = item.type;
       card.style.setProperty("--card-color", cardColor);
-      card.style.animationDelay = (idx * 80) + "ms";
+      card.style.animationDelay = idx * 40 + "ms";
+
+      var desc = item.description
+        ? '<p class="description">' + escapeHtml(item.description) + "</p>"
+        : "";
+
       card.innerHTML =
-        '<span class="type-badge">' + escapeHtml(item.type.toUpperCase()) + "</span>" +
-        "<h3>" + escapeHtml(item.source) + "</h3>" +
-        '<p class="summary">' + escapeHtml(item.summary) + "</p>" +
+        '<span class="type-badge">' +
+        escapeHtml(item.type.toUpperCase()) +
+        "</span>" +
+        '<span class="source-tag">' +
+        escapeHtml(item.source) +
+        "</span>" +
+        "<h3>" + escapeHtml(item.title) + "</h3>" +
+        desc +
         '<div class="meta">' +
-        '<a href="' + escapeHtml(item.url) + '" target="_blank" rel="noopener">Read original \u2192</a>' +
-        "<time>" + relativeTime(data.generated_at) + "</time>" +
+        '<a href="' +
+        escapeHtml(item.url) +
+        '" target="_blank" rel="noopener">Read more \u2192</a>' +
+        "<time>" +
+        relativeTime(data.generated_at) +
+        "</time>" +
         "</div>";
       cardsEl.appendChild(card);
     });
   }
 
   function applyFilter() {
-    document.querySelectorAll(".card").forEach((card) => {
+    document.querySelectorAll(".card").forEach(function (card) {
       if (!activeFilter || card.dataset.type === activeFilter) {
         card.style.display = "";
       } else {
@@ -96,7 +124,7 @@
   }
 
   function escapeHtml(str) {
-    const div = document.createElement("div");
+    var div = document.createElement("div");
     div.textContent = str;
     return div.innerHTML;
   }
