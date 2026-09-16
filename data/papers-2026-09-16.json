@@ -291,6 +291,24 @@
     "ai_summary": "No abstract available."
   },
   {
+    "id": "crossref:10.56251/watu4873",
+    "title": "Machine Learning Application for SAIs",
+    "abstract": "",
+    "authors": [
+      "Tiare Rivera"
+    ],
+    "published": "2030",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.56251/watu4873",
+    "pdf_url": null,
+    "doi": "10.56251/watu4873",
+    "citations": 0,
+    "venue": "International Journal of Government Auditing",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
     "id": "crossref:10.56251/yxek7242",
     "title": "Evolution and Applications of Artificial Intelligence in SAIs",
     "abstract": "",
@@ -307,24 +325,6 @@
     "url": "https://doi.org/10.56251/yxek7242",
     "pdf_url": null,
     "doi": "10.56251/yxek7242",
-    "citations": 0,
-    "venue": "International Journal of Government Auditing",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "crossref:10.56251/watu4873",
-    "title": "Machine Learning Application for SAIs",
-    "abstract": "",
-    "authors": [
-      "Tiare Rivera"
-    ],
-    "published": "2030",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.56251/watu4873",
-    "pdf_url": null,
-    "doi": "10.56251/watu4873",
     "citations": 0,
     "venue": "International Journal of Government Auditing",
     "open_access": false,
@@ -403,50 +403,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.58524/jcss.v4i2.890",
-    "title": "Integration of Biomechanics and Digital Technology: Using Kinovea for Motion Analysis and Learning for Beginner Athletes",
-    "abstract": "<jats:p>Background: The integration of biomechanics with digital motion-analysis technologies has introduced new approaches for examining movement efficiency, kinematic characteristics, and technical patterns in walking and running activities. Kinovea, as an accessible motion-analysis software, provides both visual and quantitative feedback. However, its application in supporting technique development among beginner athletes remains insufficiently explored.\nAim: This study aims to describe the use of Kinovea in biomechanics training and examine its contribution to the awareness of kinematic characteristics and movement techniques among beginner athletes.\nMethods: A descriptive qualitative design involved 72 beginner athletes aged 18–25 years selected through purposive sampling. Data were collected over 16 weeks through interviews, field observations, and motion video recordings analyzed using Kinovea. Kinematic data focused on joint angles, stride behavior, and movement phases during walking, running, and the flight phase. Qualitative data were analyzed using content analysis with NVivo 12, while kinematic results were interpreted descriptively to identify performance patterns and areas for technical refinement.\nResult: Kinematic analysis showed coordinated joint-angle patterns across all phases. Walking analysis identified arm swing angles of 50.9°–58.8° and leg separation angles of 64.3°–67.2°, indicating a stable gait rhythm. The running analysis revealed knee angles of 68.8°–69.8° and elbow angles of 87.6°–89.1°, indicating efficient propulsive mechanics. The flight phase demonstrated knee angles of 81.2°–87.8° and elbow angles of 80.4°–88.3°, suggesting effective momentum use and postural stability. These measurements supported stride-efficiency assessment and technique evaluation. Qualitative findings revealed that Kinovea enabled athletes to interpret movement phases and identify technical inefficiencies through slow-motion and frame-by-frame visualization.\nConclusion: Kinovea supports basic motion analysis by providing clear kinematic information and helping beginner athletes observe and refine their movement techniques. The findings also offer practical value for coaches by enabling more precise identification of inefficient patterns and guiding targeted corrections during early-stage training.</jats:p>",
-    "authors": [
-      "Muhammad Nur Hudha",
-      "Riezky Maya Probosari",
-      "Annisa Nur Khasanah",
-      "Supurwoko",
-      "Salsabila Kholifahtun Nisa’",
-      "Gifran Rihla Gifarka Latief"
-    ],
-    "published": "2029",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.58524/jcss.v4i2.890",
-    "pdf_url": null,
-    "doi": "10.58524/jcss.v4i2.890",
-    "citations": 0,
-    "venue": "Journal of Coaching and Sports Science",
-    "open_access": false,
-    "ai_summary": "Kinovea is an accessible motion-analysis software . It provides both visual and quantitative feedback . However, its application in supporting technique development among beginner athletes remains insufficiently explored ."
-  },
-  {
-    "id": "crossref:10.5705/ss.202025.0314",
-    "title": "Transfer Learning for High-dimensional Regression with Compositional Covariates: Application to Microbiome Studies",
-    "abstract": "",
-    "authors": [
-      "Qinqin Hu",
-      "Xiaojing Luo",
-      "Chencheng Ma",
-      "Wang Zhou"
-    ],
-    "published": "2029",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.5705/ss.202025.0314",
-    "pdf_url": null,
-    "doi": "10.5705/ss.202025.0314",
-    "citations": 0,
-    "venue": "Statistica Sinica",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
     "id": "crossref:10.5705/ss.202025.0275",
     "title": "Efficient Learning of Sparse Differential Networks in Multi-Source Non-Paranormal Models",
     "abstract": "",
@@ -458,11 +414,11 @@
     "source": "Crossref",
     "category": "index",
     "url": "https://doi.org/10.5705/ss.202025.0275",
-    "pdf_url": "https://doi.org/10.5705/ss.202025.0275",
+    "pdf_url": null,
     "doi": "10.5705/ss.202025.0275",
     "citations": 0,
     "venue": "Statistica Sinica",
-    "open_access": true,
+    "open_access": false,
     "ai_summary": "No abstract available."
   },
   {
@@ -521,8 +477,52 @@
     "source": "Crossref",
     "category": "index",
     "url": "https://doi.org/10.5705/ss.202025.0457",
-    "pdf_url": null,
+    "pdf_url": "https://doi.org/10.5705/ss.202025.0457",
     "doi": "10.5705/ss.202025.0457",
+    "citations": 0,
+    "venue": "Statistica Sinica",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "crossref:10.58524/jcss.v4i2.890",
+    "title": "Integration of Biomechanics and Digital Technology: Using Kinovea for Motion Analysis and Learning for Beginner Athletes",
+    "abstract": "<jats:p>Background: The integration of biomechanics with digital motion-analysis technologies has introduced new approaches for examining movement efficiency, kinematic characteristics, and technical patterns in walking and running activities. Kinovea, as an accessible motion-analysis software, provides both visual and quantitative feedback. However, its application in supporting technique development among beginner athletes remains insufficiently explored.\nAim: This study aims to describe the use of Kinovea in biomechanics training and examine its contribution to the awareness of kinematic characteristics and movement techniques among beginner athletes.\nMethods: A descriptive qualitative design involved 72 beginner athletes aged 18–25 years selected through purposive sampling. Data were collected over 16 weeks through interviews, field observations, and motion video recordings analyzed using Kinovea. Kinematic data focused on joint angles, stride behavior, and movement phases during walking, running, and the flight phase. Qualitative data were analyzed using content analysis with NVivo 12, while kinematic results were interpreted descriptively to identify performance patterns and areas for technical refinement.\nResult: Kinematic analysis showed coordinated joint-angle patterns across all phases. Walking analysis identified arm swing angles of 50.9°–58.8° and leg separation angles of 64.3°–67.2°, indicating a stable gait rhythm. The running analysis revealed knee angles of 68.8°–69.8° and elbow angles of 87.6°–89.1°, indicating efficient propulsive mechanics. The flight phase demonstrated knee angles of 81.2°–87.8° and elbow angles of 80.4°–88.3°, suggesting effective momentum use and postural stability. These measurements supported stride-efficiency assessment and technique evaluation. Qualitative findings revealed that Kinovea enabled athletes to interpret movement phases and identify technical inefficiencies through slow-motion and frame-by-frame visualization.\nConclusion: Kinovea supports basic motion analysis by providing clear kinematic information and helping beginner athletes observe and refine their movement techniques. The findings also offer practical value for coaches by enabling more precise identification of inefficient patterns and guiding targeted corrections during early-stage training.</jats:p>",
+    "authors": [
+      "Muhammad Nur Hudha",
+      "Riezky Maya Probosari",
+      "Annisa Nur Khasanah",
+      "Supurwoko",
+      "Salsabila Kholifahtun Nisa’",
+      "Gifran Rihla Gifarka Latief"
+    ],
+    "published": "2029",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.58524/jcss.v4i2.890",
+    "pdf_url": null,
+    "doi": "10.58524/jcss.v4i2.890",
+    "citations": 0,
+    "venue": "Journal of Coaching and Sports Science",
+    "open_access": false,
+    "ai_summary": "Kinovea is an accessible motion-analysis software . It provides both visual and quantitative feedback . However, its application in supporting technique development among beginner athletes remains insufficiently explored ."
+  },
+  {
+    "id": "crossref:10.5705/ss.202025.0314",
+    "title": "Transfer Learning for High-dimensional Regression with Compositional Covariates: Application to Microbiome Studies",
+    "abstract": "",
+    "authors": [
+      "Qinqin Hu",
+      "Xiaojing Luo",
+      "Chencheng Ma",
+      "Wang Zhou"
+    ],
+    "published": "2029",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.5705/ss.202025.0314",
+    "pdf_url": null,
+    "doi": "10.5705/ss.202025.0314",
     "citations": 0,
     "venue": "Statistica Sinica",
     "open_access": false,
@@ -1014,25 +1014,6 @@
     "ai_summary": "FS-DeepRBFNet is a new model that uses a dual-layer adaptive radial basis function (RBF) network . This end-to-end approach effectively reduces noise and captures both linear allometric trends and nonlinear morphological relationships ."
   },
   {
-    "id": "pubmed:42747261",
-    "title": "Quantum optical properties of solid-state defects using stage scanning confocal microscopy.",
-    "abstract": "Solid-state quantum emitters (QEs) at room temperature are central to emerging technologies in quantum computing, communication, and sensing. These atomic-scale defects require high-resolution spatial and spectral characterisation to study their photophysical behaviour. To address this, we developed a stage-scanning confocal microscopy system optimised for nanoscale mapping and single photon level investigations of QEs in diverse host materials, fully automated and controlled via custom LabVIEW software. The system features high-precision three-axis translation stages with nanometre resolution, enabling accurate spatial scanning. A high numerical aperture (NA) objective lens ensures diffraction-limited optical resolution, while integrated photon-counting modules allow for sensitive detection of photoluminescence signals. The platform supports various spectroscopic measurements, including frequency-resolved and time-resolved photoluminescence. The system incorporates a Hanbury Brown and Twiss (HBT) interferometer for second-order temporal autocorrelation measurements to verify single photon emission. Designed for versatility, the system can accommodate a broad range of QE materials, including organic dye molecules, perovskites, and inorganic semiconductors. Furthermore, the setup enables the study of emission engineering through the manipulation of the local density of optical states, supported by the ability to collect large-scale statistical datasets. Overall, the flexibility and robustness of the platform make it ideal for quantum photonic, supporting fundamental studies and practical device development.",
-    "authors": [
-      "Nitesh Singh",
-      "Rajesh V Nair"
-    ],
-    "published": "2026-Sep-16",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42747261/",
-    "pdf_url": null,
-    "doi": "10.1111/jmi.70172",
-    "citations": 0,
-    "venue": "Journal of microscopy",
-    "open_access": false,
-    "ai_summary": "Solid-state quantum emitters (QEs) at room temperature are central to emerging technologies in quantum computing, communication, and sensing . The system features high-precision three-axis translation stages with nanometre resolution, enabling accurate spatial scanning ."
-  },
-  {
     "id": "pubmed:42747240",
     "title": "Non-Contact Photoplethysmography for In-Vehicle Health Monitoring With Seamlessly Integrated Photodetector Array and Hardware-Accelerated AI.",
     "abstract": "While non-contact physiological monitoring offers clear advantages over contact-based methods in dynamic environments such as intelligent vehicles, its practical deployment remains constrained by low signal-to-noise ratio (SNR) and susceptibility to motion artifacts. Here, we present an integrated in-vehicle photoplethysmography (PPG) health monitoring system that overcomes these limitations through two synergistic innovations. First, a well-developed, seamlessly integrated six-sector MXene-on-Si photodetector array (SI-PDs) with a high responsivity (∼0.72 A/W), paired with hardware-level signal conditioning, enables high-fidelity PPG acquisition under extremely weak signals. Second, a hardware-accelerated multi-scale convolutional neural network (CNN) performs robust, real-time extraction of blood pressure (BP) and heart rate (HR). Experimental validation demonstrates reliable PPG capture from challenging body sites, with beat-to-beat BP prediction achieving R",
@@ -1058,6 +1039,25 @@
     "venue": "Small (Weinheim an der Bergstrasse, Germany)",
     "open_access": false,
     "ai_summary": "A well-developed, seamlessly integrated six-sector MXene-on-Si photodetector array (SI-PDs) with a high responsivity (∼0.72 A/W), paired with hardware-level signal conditioning, enables high-fidelity PPG acquisition under extremely weak signals . A hardware-accelerated"
+  },
+  {
+    "id": "pubmed:42747261",
+    "title": "Quantum optical properties of solid-state defects using stage scanning confocal microscopy.",
+    "abstract": "Solid-state quantum emitters (QEs) at room temperature are central to emerging technologies in quantum computing, communication, and sensing. These atomic-scale defects require high-resolution spatial and spectral characterisation to study their photophysical behaviour. To address this, we developed a stage-scanning confocal microscopy system optimised for nanoscale mapping and single photon level investigations of QEs in diverse host materials, fully automated and controlled via custom LabVIEW software. The system features high-precision three-axis translation stages with nanometre resolution, enabling accurate spatial scanning. A high numerical aperture (NA) objective lens ensures diffraction-limited optical resolution, while integrated photon-counting modules allow for sensitive detection of photoluminescence signals. The platform supports various spectroscopic measurements, including frequency-resolved and time-resolved photoluminescence. The system incorporates a Hanbury Brown and Twiss (HBT) interferometer for second-order temporal autocorrelation measurements to verify single photon emission. Designed for versatility, the system can accommodate a broad range of QE materials, including organic dye molecules, perovskites, and inorganic semiconductors. Furthermore, the setup enables the study of emission engineering through the manipulation of the local density of optical states, supported by the ability to collect large-scale statistical datasets. Overall, the flexibility and robustness of the platform make it ideal for quantum photonic, supporting fundamental studies and practical device development.",
+    "authors": [
+      "Nitesh Singh",
+      "Rajesh V Nair"
+    ],
+    "published": "2026-Sep-16",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42747261/",
+    "pdf_url": null,
+    "doi": "10.1111/jmi.70172",
+    "citations": 0,
+    "venue": "Journal of microscopy",
+    "open_access": false,
+    "ai_summary": "Solid-state quantum emitters (QEs) at room temperature are central to emerging technologies in quantum computing, communication, and sensing . The system features high-precision three-axis translation stages with nanometre resolution, enabling accurate spatial scanning ."
   },
   {
     "id": "pubmed:42747289",
@@ -1422,7 +1422,7 @@
     "source": "OpenAlex",
     "category": "index",
     "url": "https://doi.org/10.1016/j.mex.2026.104106",
-    "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13563249/",
+    "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13563249/pdf/main.pdf",
     "doi": "10.1016/j.mex.2026.104106",
     "citations": 0,
     "venue": "PubMed",
@@ -1449,25 +1449,23 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "openalex:W7197039256",
-    "title": "Interpol review of gunshot residue, 2022 to 2024.",
+    "id": "openalex:W7211941274",
+    "title": "MiR-326 targets ETS1 to activate PI3K/Akt signaling and promote malignant phenotypes in gastric cancer cells.",
     "abstract": "",
     "authors": [
-      "S. Charles",
-      "Nadia Geusens",
-      "Clémence Tarenne",
-      "Florian Vanneste",
-      "Bart Nys"
+      "Kai Liang",
+      "Xiangyu Zhang",
+      "Yin Yang"
     ],
     "published": "2026-12-01",
     "source": "OpenAlex",
     "category": "index",
-    "url": "https://doi.org/10.1016/j.fsisyn.2026.100719",
-    "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13472029/",
-    "doi": "10.1016/j.fsisyn.2026.100719",
+    "url": "https://doi.org/10.36721/pjps.2026.39.12.335.1",
+    "pdf_url": null,
+    "doi": "10.36721/pjps.2026.39.12.335.1",
     "citations": 0,
     "venue": "PubMed",
-    "open_access": true,
+    "open_access": false,
     "ai_summary": "No abstract available."
   },
   {
@@ -1539,6 +1537,27 @@
     "doi": "10.5281/zenodo.22730300",
     "citations": 0,
     "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7162760937",
+    "title": "Simultaneous Cortical Responses to Multiple Written Words",
+    "abstract": "",
+    "authors": [
+      "Vassiki Chauhan",
+      "Krystal McCook",
+      "Mariam Latif",
+      "Alex White"
+    ],
+    "published": "2026-10-01",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.1162/jocn.a.2624",
+    "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13569480/pdf/jocn-38-10-1961.pdf",
+    "doi": "10.1162/jocn.a.2624",
+    "citations": 0,
+    "venue": "PubMed Central",
     "open_access": true,
     "ai_summary": "No abstract available."
   },
@@ -1642,6 +1661,129 @@
     "ai_summary": "No abstract available."
   },
   {
+    "id": "openalex:W4400480938",
+    "title": "Generative debunking of climate misinformation",
+    "abstract": "",
+    "authors": [
+      "Francisco Zanartu",
+      "Lea Frermann",
+      "Yulia Otmakhova",
+      "Markus Wagner",
+      "John Granger Cook"
+    ],
+    "published": "2026-09-16",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.1007/s10584-026-04279-1",
+    "pdf_url": "https://doi.org/10.1007/s10584-026-04279-1",
+    "doi": "10.1007/s10584-026-04279-1",
+    "citations": 1,
+    "venue": "Climatic Change",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7213252549",
+    "title": "Natural language processing in de urologische praktijk: van data naar besluitvorming",
+    "abstract": "",
+    "authors": [
+      "Saskia Weltings",
+      "David J. Vinkers"
+    ],
+    "published": "2026-09-16",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.1007/s13629-026-00512-9",
+    "pdf_url": "https://doi.org/10.1007/s13629-026-00512-9",
+    "doi": "10.1007/s13629-026-00512-9",
+    "citations": 0,
+    "venue": "Tijdschrift voor Urologie",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7213278947",
+    "title": "A multi-site benchmarking framework for scalable extraction of geriatric care constructs from electronic health records",
+    "abstract": "",
+    "authors": [
+      "Sunyang Fu",
+      "Min Ji Kwak",
+      "Jaerong Ahn",
+      "Qiuhao Lu",
+      "Zhiyi Yue",
+      "Nan Wang",
+      "Huipeng Liu",
+      "Huipeng Liu",
+      "Grace Giles",
+      "Alexa Cumming",
+      "Keziah M. Thomas",
+      "Shreyans Sanghvi",
+      "Jiang Jun",
+      "Ming Huang",
+      "Xiaoyang Ruan",
+      "Andrew Wen",
+      "Liwei Wang",
+      "Erin Hommel",
+      "Yanshan Wang",
+      "Lichao Sun",
+      "Huiwen Xu",
+      "Chan Mi Park",
+      "Jennifer St. Sauver",
+      "Jeffrey S. Wefel",
+      "Nahid Rianon",
+      "Dae Hyun Kim",
+      "Hongfang Liu",
+      "Hongfang Liu"
+    ],
+    "published": "2026-09-16",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.1038/s44401-026-00114-y",
+    "pdf_url": "https://doi.org/10.1038/s44401-026-00114-y",
+    "doi": "10.1038/s44401-026-00114-y",
+    "citations": 0,
+    "venue": "npj Health Systems",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7213340744",
+    "title": "Visual Representation of \"Chinoiserie\" in Western AI Image Models: A Case Study of Midjourney",
+    "abstract": "",
+    "authors": [
+      "Shurong Wang"
+    ],
+    "published": "2026-09-16",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.63313/ijsseh.9063",
+    "pdf_url": "https://doi.org/10.63313/ijsseh.9063",
+    "doi": "10.63313/ijsseh.9063",
+    "citations": 0,
+    "venue": "International Journal of Social Science Education and Humanities",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7213343975",
+    "title": "Bridging algorithm and narrative: natural language processing, narratology, and radical empathy as core competencies in medical education",
+    "abstract": "",
+    "authors": [
+      "Omar Dabash",
+      "Michael J. Daly"
+    ],
+    "published": "2026-09-16",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.1093/acamed/wvag289",
+    "pdf_url": null,
+    "doi": "10.1093/acamed/wvag289",
+    "citations": 0,
+    "venue": "Academic Medicine",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
     "id": "arxiv:2609.17527v1",
     "title": "Agentic Societies Need a Social Harness",
     "abstract": "An agentic society is a collection of AI agents that coordinate autonomously across trust boundaries, on behalf of different principals whose objectives may only partially align. We show experimentally that in agentic societies even honest, competent agents often fail to reach satisfactory outcomes with existing harnesses and messaging primitives, and that faulty or malicious agents can stall collaboration, influence outcomes, and pursue other harmful goals by exploiting vulnerabilities in communication (``speech''). We argue that agentic societies need a \\emph{social harness} for inter-agent interactions, in addition to each agent's \\emph{personal harness}, which manages its private context and communication with its principal. We propose a layered architecture for social harnesses which (i) prevents classes of failures outright, (ii) enables agents to detect invalid messages at runtime, and (iii) supports post-facto investigation and consequences, and highlight directions for future research to realize these capabilities.",
@@ -1664,34 +1806,43 @@
     "ai_summary": "An agentic society is a collection of AI agents that coordinate autonomously across trust boundaries . We show experimentally that in agentic societies even honest, competent agents often fail to reach satisfactory outcomes with existing harnesses and messaging primitives . We propose a layered architecture for social harnesses which (i) prevents classes of failures outright,"
   },
   {
-    "id": "arxiv:2609.17523v1",
-    "title": "ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents",
-    "abstract": "We introduce and release ScienceBuddy, an interactive scientific research workspace that brings continually improving scientific agents into researchers' everyday workflows. ScienceBuddy supports researchers in carrying out scientific tasks while transforming their requests, feedback, and execution evidence into tasks and evaluation rubrics for continual learning. At its core is recursive-in-recursive self-improvement, a paradigm that couples harness evolution with model reinforcement learning: the inner recursion improves the harness with the model fixed, while the outer recursion trains the model under the improved harness. Harness evolution shapes training experience, and model learning creates new opportunities for harness adaptation. We present case studies of researcher interaction, harness refinement, and model learning, with the benchmark cases spanning four scientific task families. By releasing ScienceBuddy as a research product, we make this paradigm available to the scientific community and take a step toward discovery intelligence: scientific AI that advances through sustained collaboration with researchers and evolves alongside the research it supports. Website: http://science-buddy.io",
+    "id": "arxiv:2609.17516v1",
+    "title": "When Should LLMs Abstain? Chain-of-Self-Questioning for Selective Risk Control",
+    "abstract": "Large language models can produce fluent answers when their factual support is weak. This paper introduces Chain-of-Self-Questioning (CoSQ), a prompt-only framework that makes answer commitment conditional on an explicit assessment of the information required to answer a question. We evaluate three CoSQ variants under seventeen conditions on the 817-item TruthfulQA multiple-choice validation set using eleven open-weight and hosted model families. In the final balanced-option protocol, Grounded-CoSQ at τ=0.90 reduces the mean unconditional wrong-commitment rate from 13.1% under chain-of-thought prompting to 8.9%, a 32.1% relative reduction, while increasing answered accuracy from 86.9% to 89.7% and answering 87.6% of questions. Both improvements hold for all eleven models and at every evaluated threshold. Critical-CoSQ and Adaptive-CoSQ provide neighboring operating points with 88.6% and 86.5% coverage, respectively, while remaining more reliable than the baseline. A secondary Natural Questions Short-Answer evaluation provides convergent open-form evidence. These findings show that self-assessment can support explicit, tunable answer-or-abstain decisions when an unsupported commitment is more costly than referral or review.",
     "authors": [
-      "Shuhan Xue",
-      "Jianyuan Zhong",
-      "Ziyuan Nan",
-      "Wenbin Li",
-      "Zhaochen Yu",
-      "Jinchao Ding",
-      "Qiang Gao",
-      "Pengyu Zhan",
-      "Yuntong Zhang",
-      "Tian Cheng",
-      "Zhenfei Yin",
-      "Yingcheng Wu",
-      "Ling Yang"
+      "Ali Şenol"
     ],
     "published": "2026-09-15",
     "source": "arXiv",
     "category": "preprint",
-    "url": "https://arxiv.org/abs/2609.17523v1",
-    "pdf_url": "https://arxiv.org/pdf/2609.17523v1",
+    "url": "https://arxiv.org/abs/2609.17516v1",
+    "pdf_url": "https://arxiv.org/pdf/2609.17516v1",
     "doi": null,
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "ScienceBuddy supports researchers in carrying out scientific tasks while transforming their requests, feedback, and execution evidence into tasks and evaluation rubrics for continual learning . At its core is recursive-in-recursive self-improvement, a paradigm that couples harness evolution with model reinforcement learning ."
+    "ai_summary": "Chain-of-Self-Questioning (CoSQ) is a prompt-only framework that makes answer commitment conditional on an explicit assessment of the information required to answer a question . Grounded-CoSZ reduces the mean unconditional wrong-commitment rate from 13.1% to 8.9% under chain-"
+  },
+  {
+    "id": "arxiv:2609.17515v1",
+    "title": "What Breaks Under Pruning in Smart Homes, and When? Evaluating LLM Degradation Across Architectures and Task Complexity",
+    "abstract": "Pruning can reduce the deployment cost of large language models (LLMs), but its impact on context-grounded tool calling remains poorly understood. We systematically study pruning-induced degradation in smart-home tool calling across four LLMs spanning dense Transformer, dense hybrid, and mixture-of-experts (MoE) architectures, together with depth, width, hybrid, and expert pruning methods. After post-pruning supervised fine-tuning (SFT), we evaluate more than 19,500 instances from three smart-home datasets. Beyond aggregate task accuracy, we characterize degradation along two dimensions: action components (i.e., operation, device, argument, and value) and task complexity. Our results show that dense models have narrow safe pruning regions followed by sharp degradation, while MoE models tolerate substantially more pruning. Pruning degrades grounded specificity before schema-level intent, and aggressive dense pruning can induce systematic over-refusal. These findings highlight the importance of evaluating pruning beyond aggregate accuracy when selecting pruned LLMs for reliable tool execution.",
+    "authors": [
+      "Congjing Zhang",
+      "Vashishtha Patil",
+      "Henning Lange",
+      "Usman Aleem"
+    ],
+    "published": "2026-09-15",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2609.17515v1",
+    "pdf_url": "https://arxiv.org/pdf/2609.17515v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "Pruning can reduce the deployment cost of large language models (LLMs) But its impact on context-grounded tool calling remains poorly understood . We systematically study pruning-induced degradation in smart-home tool calling ."
   },
   {
     "id": "arxiv:2609.17521v1",
@@ -1741,43 +1892,34 @@
     "ai_summary": "Tirith is an anti-cheat architecture that addresses this problem using two key ideas . Tirith executes video games in Protected Virtual Machines that naturally sandbox computations from untrusted admins . The idea is to monitor user behavior outside the sandbox ."
   },
   {
-    "id": "arxiv:2609.17516v1",
-    "title": "When Should LLMs Abstain? Chain-of-Self-Questioning for Selective Risk Control",
-    "abstract": "Large language models can produce fluent answers when their factual support is weak. This paper introduces Chain-of-Self-Questioning (CoSQ), a prompt-only framework that makes answer commitment conditional on an explicit assessment of the information required to answer a question. We evaluate three CoSQ variants under seventeen conditions on the 817-item TruthfulQA multiple-choice validation set using eleven open-weight and hosted model families. In the final balanced-option protocol, Grounded-CoSQ at τ=0.90 reduces the mean unconditional wrong-commitment rate from 13.1% under chain-of-thought prompting to 8.9%, a 32.1% relative reduction, while increasing answered accuracy from 86.9% to 89.7% and answering 87.6% of questions. Both improvements hold for all eleven models and at every evaluated threshold. Critical-CoSQ and Adaptive-CoSQ provide neighboring operating points with 88.6% and 86.5% coverage, respectively, while remaining more reliable than the baseline. A secondary Natural Questions Short-Answer evaluation provides convergent open-form evidence. These findings show that self-assessment can support explicit, tunable answer-or-abstain decisions when an unsupported commitment is more costly than referral or review.",
+    "id": "arxiv:2609.17523v1",
+    "title": "ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents",
+    "abstract": "We introduce and release ScienceBuddy, an interactive scientific research workspace that brings continually improving scientific agents into researchers' everyday workflows. ScienceBuddy supports researchers in carrying out scientific tasks while transforming their requests, feedback, and execution evidence into tasks and evaluation rubrics for continual learning. At its core is recursive-in-recursive self-improvement, a paradigm that couples harness evolution with model reinforcement learning: the inner recursion improves the harness with the model fixed, while the outer recursion trains the model under the improved harness. Harness evolution shapes training experience, and model learning creates new opportunities for harness adaptation. We present case studies of researcher interaction, harness refinement, and model learning, with the benchmark cases spanning four scientific task families. By releasing ScienceBuddy as a research product, we make this paradigm available to the scientific community and take a step toward discovery intelligence: scientific AI that advances through sustained collaboration with researchers and evolves alongside the research it supports. Website: http://science-buddy.io",
     "authors": [
-      "Ali Şenol"
+      "Shuhan Xue",
+      "Jianyuan Zhong",
+      "Ziyuan Nan",
+      "Wenbin Li",
+      "Zhaochen Yu",
+      "Jinchao Ding",
+      "Qiang Gao",
+      "Pengyu Zhan",
+      "Yuntong Zhang",
+      "Tian Cheng",
+      "Zhenfei Yin",
+      "Yingcheng Wu",
+      "Ling Yang"
     ],
     "published": "2026-09-15",
     "source": "arXiv",
     "category": "preprint",
-    "url": "https://arxiv.org/abs/2609.17516v1",
-    "pdf_url": "https://arxiv.org/pdf/2609.17516v1",
+    "url": "https://arxiv.org/abs/2609.17523v1",
+    "pdf_url": "https://arxiv.org/pdf/2609.17523v1",
     "doi": null,
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "Chain-of-Self-Questioning (CoSQ) is a prompt-only framework that makes answer commitment conditional on an explicit assessment of the information required to answer a question . Grounded-CoSZ reduces the mean unconditional wrong-commitment rate from 13.1% to 8.9% under chain-"
-  },
-  {
-    "id": "arxiv:2609.17515v1",
-    "title": "What Breaks Under Pruning in Smart Homes, and When? Evaluating LLM Degradation Across Architectures and Task Complexity",
-    "abstract": "Pruning can reduce the deployment cost of large language models (LLMs), but its impact on context-grounded tool calling remains poorly understood. We systematically study pruning-induced degradation in smart-home tool calling across four LLMs spanning dense Transformer, dense hybrid, and mixture-of-experts (MoE) architectures, together with depth, width, hybrid, and expert pruning methods. After post-pruning supervised fine-tuning (SFT), we evaluate more than 19,500 instances from three smart-home datasets. Beyond aggregate task accuracy, we characterize degradation along two dimensions: action components (i.e., operation, device, argument, and value) and task complexity. Our results show that dense models have narrow safe pruning regions followed by sharp degradation, while MoE models tolerate substantially more pruning. Pruning degrades grounded specificity before schema-level intent, and aggressive dense pruning can induce systematic over-refusal. These findings highlight the importance of evaluating pruning beyond aggregate accuracy when selecting pruned LLMs for reliable tool execution.",
-    "authors": [
-      "Congjing Zhang",
-      "Vashishtha Patil",
-      "Henning Lange",
-      "Usman Aleem"
-    ],
-    "published": "2026-09-15",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2609.17515v1",
-    "pdf_url": "https://arxiv.org/pdf/2609.17515v1",
-    "doi": null,
-    "citations": 0,
-    "venue": "arXiv preprint",
-    "open_access": true,
-    "ai_summary": "Pruning can reduce the deployment cost of large language models (LLMs) But its impact on context-grounded tool calling remains poorly understood . We systematically study pruning-induced degradation in smart-home tool calling ."
+    "ai_summary": "ScienceBuddy supports researchers in carrying out scientific tasks while transforming their requests, feedback, and execution evidence into tasks and evaluation rubrics for continual learning . At its core is recursive-in-recursive self-improvement, a paradigm that couples harness evolution with model reinforcement learning ."
   },
   {
     "id": "arxiv:2609.17509v1",
@@ -2297,7 +2439,7 @@
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "The paper investigates easy strategies to boost the performance of existing networks for lidar semantic scene completion (SSC) without requiring complex architectural redesigns . The paper also explores two priors used as simple ingredients (possibly noisy) to improve existing approaches ."
+    "ai_summary": "The paper investigates easy strategies to boost the performance of existing networks for lidar semantic scene completion (SSC) without requiring complex architectural redesigns . The paper explores two priors used as simple ingredients to improve existing approaches: semantic pseudo-labels and sensor visibility information ."
   },
   {
     "id": "arxiv:2609.17399v1",
@@ -2784,121 +2926,35 @@
     "ai_summary": "The paper presents a controlled MuJoCo evaluation of wingbeat counting from signed optical flow observed by virtual cameras mounted on Crazyflie vehicles . Three flapping-wing models were recorded at optical distances of 1.5 and 3.0 m, producing 1,440 clips ."
   },
   {
-    "id": "openalex:W7211907692",
-    "title": "Universal Intelligent Document Management System Using OCR, Retrieval-Augmented Generation, and Large Language Models",
+    "id": "conf:Conference:https://aclanthology.org/events/acl-2025/#2025acl-long",
+    "title": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
     "abstract": "",
-    "authors": [
-      "Dr. K R Shylaja",
-      "Praveen H"
-    ],
-    "published": "2026-09-15",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.5281/zenodo.22644649",
-    "pdf_url": "https://doi.org/10.5281/zenodo.22644649",
-    "doi": "10.5281/zenodo.22644649",
+    "authors": [],
+    "published": "",
+    "source": "Conference",
+    "category": "conference",
+    "url": "https://aclanthology.org/events/acl-2025/#2025acl-long",
+    "pdf_url": null,
+    "doi": null,
     "citations": 0,
-    "venue": "Journal of Zhejiang University(Science Edition)",
-    "open_access": true,
+    "venue": "Conference",
+    "open_access": false,
     "ai_summary": "No abstract available."
   },
   {
-    "id": "openalex:W7213059778",
-    "title": "Perancangan Sistem Pendeteksi Anomali Jaringan Berbasis ChatGPT",
+    "id": "conf:Conference:https://github.com/THUKElab/CLEME",
+    "title": "https://github.com/THUKElab/CLEME",
     "abstract": "",
-    "authors": [
-      "Shelvia Utary",
-      "Destiarini"
-    ],
-    "published": "2026-09-15",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.71200/tkk6rq18",
-    "pdf_url": "https://doi.org/10.71200/tkk6rq18",
-    "doi": "10.71200/tkk6rq18",
+    "authors": [],
+    "published": "",
+    "source": "Conference",
+    "category": "conference",
+    "url": "https://github.com/THUKElab/CLEME",
+    "pdf_url": null,
+    "doi": null,
     "citations": 0,
-    "venue": "Jurnal Inovasi Komputer (INOKOM)",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W7157146679",
-    "title": "Large language model-enabled automated data extraction for concrete materials informatics",
-    "abstract": "",
-    "authors": [
-      "Zhanzhao Li",
-      "Kengran Yang",
-      "Qiyao He",
-      "Kai Gong"
-    ],
-    "published": "2026-09-14",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.1038/s41524-026-02304-6",
-    "pdf_url": "https://www.nature.com/articles/s41524-026-02304-6_reference.pdf",
-    "doi": "10.1038/s41524-026-02304-6",
-    "citations": 0,
-    "venue": "npj Computational Materials",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W7212526668",
-    "title": "Ensemble-based feature selection and classification for ischemic stroke subtyping",
-    "abstract": "",
-    "authors": [
-      "Dina Saif",
-      "Amany Sarhan"
-    ],
-    "published": "2026-09-14",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.1186/s43067-026-00398-y",
-    "pdf_url": "https://link.springer.com/content/pdf/10.1186/s43067-026-00398-y.pdf",
-    "doi": "10.1186/s43067-026-00398-y",
-    "citations": 0,
-    "venue": "Journal of Electrical Systems and Information Technology",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W7212585954",
-    "title": "THE AI–QUANT NEXUS: A COMPREHENSIVE EMPIRICAL STUDY OF INVESTOR PERCEPTIONS AND ADOPTION OF QUANTITATIVE FUNDS",
-    "abstract": "",
-    "authors": [
-      "Ms. Radhika J",
-      "Dr.P.R.Brinda Kalyani"
-    ],
-    "published": "2026-09-14",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.36713/epra29004",
-    "pdf_url": "https://cdn.eprapublishing.org/article/1789364725922-40.EPRA29004.pdf",
-    "doi": "10.36713/epra29004",
-    "citations": 0,
-    "venue": "EPRA International Journal of Multidisciplinary Research (IJMR)",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W4415021962",
-    "title": "RT-APNN for Solving Gray Radiative Transfer Equations",
-    "abstract": "",
-    "authors": [
-      "Xizhe Xie",
-      "Wengu Chen",
-      "Zheng Ma",
-      "Han Wang"
-    ],
-    "published": "2026-09-14",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.4208/cicp.oa-2025-0140",
-    "pdf_url": "https://arxiv.org/pdf/2505.14144",
-    "doi": "10.4208/cicp.oa-2025-0140",
-    "citations": 0,
-    "venue": "Communications in Computational Physics",
-    "open_access": true,
+    "venue": "Conference",
+    "open_access": false,
     "ai_summary": "No abstract available."
   }
 ]
