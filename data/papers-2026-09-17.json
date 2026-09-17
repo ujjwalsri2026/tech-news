@@ -418,11 +418,11 @@
     "source": "Crossref",
     "category": "index",
     "url": "https://doi.org/10.58524/jcss.v4i2.890",
-    "pdf_url": null,
+    "pdf_url": "https://doi.org/10.58524/jcss.v4i2.890",
     "doi": "10.58524/jcss.v4i2.890",
-    "citations": 0,
+    "citations": 1,
     "venue": "Journal of Coaching and Sports Science",
-    "open_access": false,
+    "open_access": true,
     "ai_summary": "Kinovea is an accessible motion-analysis software . It provides both visual and quantitative feedback . However, its application in supporting technique development among beginner athletes remains insufficiently explored ."
   },
   {
@@ -466,27 +466,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.5705/ss.202025.0205",
-    "title": "Sparsity Learning via Structured Functional Factor Augmentation",
-    "abstract": "",
-    "authors": [
-      "Hanteng Ma",
-      "Ziliang Shen",
-      "Xingdong Feng",
-      "Xin Liu"
-    ],
-    "published": "2029",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.5705/ss.202025.0205",
-    "pdf_url": null,
-    "doi": "10.5705/ss.202025.0205",
-    "citations": 0,
-    "venue": "Statistica Sinica",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
     "id": "crossref:10.5705/ss.202026.0109",
     "title": "Inference for Extreme Value Index Through Individualized Fusion Learning",
     "abstract": "",
@@ -502,6 +481,27 @@
     "url": "https://doi.org/10.5705/ss.202026.0109",
     "pdf_url": null,
     "doi": "10.5705/ss.202026.0109",
+    "citations": 0,
+    "venue": "Statistica Sinica",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "crossref:10.5705/ss.202025.0205",
+    "title": "Sparsity Learning via Structured Functional Factor Augmentation",
+    "abstract": "",
+    "authors": [
+      "Hanteng Ma",
+      "Ziliang Shen",
+      "Xingdong Feng",
+      "Xin Liu"
+    ],
+    "published": "2029",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.5705/ss.202025.0205",
+    "pdf_url": null,
+    "doi": "10.5705/ss.202025.0205",
     "citations": 0,
     "venue": "Statistica Sinica",
     "open_access": false,
@@ -586,6 +586,24 @@
     "ai_summary": "No abstract available."
   },
   {
+    "id": "crossref:10.32628/cseit251116279",
+    "title": "Cyber Defense Digital Twins: A Federated Learning and Zero-Trust AI Architecture for Autonomous Threat Prediction and Response",
+    "abstract": "<jats:p>Modern enterprise networks operate under persistent threats that exploit cloud-native misconfigurations, identity sprawl, and API vulnerabilities at machine speed. Existing security operations center (SOC) architectures remain largely reactive, signature-dependent, and incapable of predicting multi-stage lateral movement. This paper proposes the Cognitive Cyber Defense Digital Twin (CCDT), a unified architecture integrating federated learning (FL), graph neural network (GNN)-based attack-path forecasting, adversarially hardened detection models, and autonomous Security Orchestration, Automation, and Response (SOAR) with deception engineering. The CCDT constructs a continuously synchronized digital replica of organizational assets and employs reinforcement learning-based red agents to stress-test detection models. A federated intelligence mesh enables cross-organizational privacy-preserving gradient sharing. Experimental evaluations against CICIDS-2018 and LANL datasets demonstrate 52% faster attack-path detection, 41% reduction in false positive rate, and 60% reduction in mean-time-to-respond (MTTR) compared to traditional SOC baselines. Integrated Explainable AI (XAI) modules using SHAP values enable audit-ready compliance reporting. The CCDT represents a paradigm shift from reactive monitoring to predictive, autonomous, and privacy-preserving cyber defense for hybrid cloud environments.</jats:p>",
+    "authors": [
+      "Sivaramakrishnan Narayanan"
+    ],
+    "published": "2028",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.32628/cseit251116279",
+    "pdf_url": null,
+    "doi": "10.32628/cseit251116279",
+    "citations": 0,
+    "venue": "International Journal of Scientific Research in Computer Science, Engineering and Information Technology",
+    "open_access": false,
+    "ai_summary": "The paper proposes the Cognitive Cyber Defense Digital Twin (CCDT) The CCDT constructs a continuously synchronized digital replica of organizational assets . It employs reinforcement learning-based red agents to stress-test detection models ."
+  },
+  {
     "id": "crossref:10.71126/nijre.v2i1.16",
     "title": "Transforming Education through Technology: The Case of COVID 19 Digital Learning in Nagaland",
     "abstract": "<jats:p>Through the perspective of the COVID-19 pandemic and the disruption and opportunity it engendered, this chapter follows a transformative effect of EdTech and Digital education in India particularly in Nagaland through analysis. Drawing upon national policy frameworks, conceptual literature on educational technology, and contextual evidence based on the case of Nagaland, the chapter considers the rapid migration to digital learning as an emergency strategy (in response to the ongoing institution closures) based on the stark shifts in pedagogical practice, access to education services, and preparedness. The findings show that, including the ability of national programmes such as NEP 2020, SWAYAM, DIKSHA, PM e-VIDYA, and others, to promote access to digital tools was low within periphery or hill areas (e.g., Nagaland), due to lack of infrastructural resources, digital divide, unprepared teachers and economic/social divides, and more. The pandemic exposed the deep social and infrastructure divides in connectivity, device availability, assessment and learner engagement, with implications that were especially grave in rural and tribal settings. Although it accelerated the pace of innovation and the application of blended and low-tech learning practices teachers have been experimenting with digital platforms and the post-COVID recovery process, including remedial programmes and hybrid instruction. The chapter also discusses that blended learning is the most fitting, viable and sustainable approach for reaching the technological level in the field of educational technology at Nagaland. It implies that technology-mediated education can improve equity, quality, and resilience, but only under the conditions of inclusive policy design, strong digital infrastructure, vigorous teacher capability building, and culturally appropriate digital content.\nKeywords: Educational technology, digital learning, COVID-19, Nagaland, online education, Challenges, blended learning</jats:p>",
@@ -604,22 +622,24 @@
     "ai_summary": "The chapter considers the rapid migration to digital learning as an emergency strategy . The findings show that the ability of national programmes such as NEP 2020, SWAYAM, DIKSHA, PM e-VIDYA, and others, to promote access to digital tools was low within periphery or hill areas ."
   },
   {
-    "id": "crossref:10.32628/cseit251116279",
-    "title": "Cyber Defense Digital Twins: A Federated Learning and Zero-Trust AI Architecture for Autonomous Threat Prediction and Response",
-    "abstract": "<jats:p>Modern enterprise networks operate under persistent threats that exploit cloud-native misconfigurations, identity sprawl, and API vulnerabilities at machine speed. Existing security operations center (SOC) architectures remain largely reactive, signature-dependent, and incapable of predicting multi-stage lateral movement. This paper proposes the Cognitive Cyber Defense Digital Twin (CCDT), a unified architecture integrating federated learning (FL), graph neural network (GNN)-based attack-path forecasting, adversarially hardened detection models, and autonomous Security Orchestration, Automation, and Response (SOAR) with deception engineering. The CCDT constructs a continuously synchronized digital replica of organizational assets and employs reinforcement learning-based red agents to stress-test detection models. A federated intelligence mesh enables cross-organizational privacy-preserving gradient sharing. Experimental evaluations against CICIDS-2018 and LANL datasets demonstrate 52% faster attack-path detection, 41% reduction in false positive rate, and 60% reduction in mean-time-to-respond (MTTR) compared to traditional SOC baselines. Integrated Explainable AI (XAI) modules using SHAP values enable audit-ready compliance reporting. The CCDT represents a paradigm shift from reactive monitoring to predictive, autonomous, and privacy-preserving cyber defense for hybrid cloud environments.</jats:p>",
+    "id": "crossref:10.55737/qjss.vii-i.26473",
+    "title": "The Nexus of Leadership and Learning: Exploring Female Principals' Influence on the Teaching-Learning Process in Secondary Schools",
+    "abstract": "<jats:p>The research paper will set out to debate the role played by the leadership competencies of principals in the teaching and learning process. The research will embrace a quantitative research design that will seek to answer the question concerning the relationship that exists between leadership skills of possessed by the  principals and the ongoing teaching-learning process in the female secondary schools using a co-relational study design. A survey instrument comprising of 37 items, which measured the leadership skills possessed by the selected principals and the prevailing teaching learning process, was used in the collection of data. Questionnaires for this study were administered to 108 male and female educators who were serving in secondary schools in Tehsil Wari, upper Dir and among them 100 questionnaires were submitted and were deemed to be useful in the analysis. The data in hand were calculated using Statistical Package of the Social Sciences (SPSS) version-27 and the obtained results indicated that the collected data was normally distributed. The findings revealed that all the variables of the study had great correlations. The analysis of the data was done through linear regression to measure the effect that the leadership skills of the principals had on the teaching learning process and this indicated that leadership skills of the principals have statistically significant effect on the teaching learning process. The policies derived out of this research can be a good guide to both the policymakers and organizational leaders because they can provide a good outline on how to empower the leaders in charge of the principals and as well as exert more influence on the effective teaching and learning processes.</jats:p>",
     "authors": [
-      "Sivaramakrishnan Narayanan"
+      "Muhammad Niqab",
+      "Salma Tabbasum",
+      "Shakil Ahmad"
     ],
     "published": "2028",
     "source": "Crossref",
     "category": "index",
-    "url": "https://doi.org/10.32628/cseit251116279",
+    "url": "https://doi.org/10.55737/qjss.vii-i.26473",
     "pdf_url": null,
-    "doi": "10.32628/cseit251116279",
+    "doi": "10.55737/qjss.vii-i.26473",
     "citations": 0,
-    "venue": "International Journal of Scientific Research in Computer Science, Engineering and Information Technology",
+    "venue": "Qlantic Journal of Social Sciences",
     "open_access": false,
-    "ai_summary": "The paper proposes the Cognitive Cyber Defense Digital Twin (CCDT) The CCDT constructs a continuously synchronized digital replica of organizational assets . It employs reinforcement learning-based red agents to stress-test detection models ."
+    "ai_summary": "Research paper will debate role played by principals in teaching and learning process . Research will embrace a quantitative research design that will seek to answer the question about the relationship between leadership skills of principals and teaching-learning process ."
   },
   {
     "id": "crossref:10.1504/ijims.2028.10076630",
@@ -641,26 +661,6 @@
     "venue": "International Journal of Internet Manufacturing and Services",
     "open_access": false,
     "ai_summary": "No abstract available."
-  },
-  {
-    "id": "crossref:10.55737/qjss.vii-i.26473",
-    "title": "The Nexus of Leadership and Learning: Exploring Female Principals' Influence on the Teaching-Learning Process in Secondary Schools",
-    "abstract": "<jats:p>The research paper will set out to debate the role played by the leadership competencies of principals in the teaching and learning process. The research will embrace a quantitative research design that will seek to answer the question concerning the relationship that exists between leadership skills of possessed by the  principals and the ongoing teaching-learning process in the female secondary schools using a co-relational study design. A survey instrument comprising of 37 items, which measured the leadership skills possessed by the selected principals and the prevailing teaching learning process, was used in the collection of data. Questionnaires for this study were administered to 108 male and female educators who were serving in secondary schools in Tehsil Wari, upper Dir and among them 100 questionnaires were submitted and were deemed to be useful in the analysis. The data in hand were calculated using Statistical Package of the Social Sciences (SPSS) version-27 and the obtained results indicated that the collected data was normally distributed. The findings revealed that all the variables of the study had great correlations. The analysis of the data was done through linear regression to measure the effect that the leadership skills of the principals had on the teaching learning process and this indicated that leadership skills of the principals have statistically significant effect on the teaching learning process. The policies derived out of this research can be a good guide to both the policymakers and organizational leaders because they can provide a good outline on how to empower the leaders in charge of the principals and as well as exert more influence on the effective teaching and learning processes.</jats:p>",
-    "authors": [
-      "Muhammad Niqab",
-      "Salma Tabbasum",
-      "Shakil Ahmad"
-    ],
-    "published": "2028",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.55737/qjss.vii-i.26473",
-    "pdf_url": null,
-    "doi": "10.55737/qjss.vii-i.26473",
-    "citations": 0,
-    "venue": "Qlantic Journal of Social Sciences",
-    "open_access": false,
-    "ai_summary": "Research paper will debate role played by principals in teaching and learning process . Research will embrace a quantitative research design that will seek to answer the question about the relationship between leadership skills of principals and teaching-learning process ."
   },
   {
     "id": "crossref:10.1504/ijil.2028.10079816",
@@ -721,6 +721,24 @@
     "ai_summary": "No abstract available."
   },
   {
+    "id": "crossref:10.1504/ijaac.2028.10080905",
+    "title": "Innovative deep learning computational approach for wheat disease detection employing faster region-based convolutional neural network",
+    "abstract": "",
+    "authors": [
+      "Shikai Zhou"
+    ],
+    "published": "2028",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.1504/ijaac.2028.10080905",
+    "pdf_url": null,
+    "doi": "10.1504/ijaac.2028.10080905",
+    "citations": 0,
+    "venue": "International Journal of Automation and Control",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
     "id": "crossref:10.1504/ijbpm.2028.10081045",
     "title": "Evaluating teaching methods for mature learners: a mixed-methods investigation of learning preferences in higher education",
     "abstract": "",
@@ -741,24 +759,6 @@
     "doi": "10.1504/ijbpm.2028.10081045",
     "citations": 0,
     "venue": "International Journal of Business Performance Management",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "crossref:10.1504/ijaac.2028.10080905",
-    "title": "Innovative deep learning computational approach for wheat disease detection employing faster region-based convolutional neural network",
-    "abstract": "",
-    "authors": [
-      "Shikai Zhou"
-    ],
-    "published": "2028",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.1504/ijaac.2028.10080905",
-    "pdf_url": null,
-    "doi": "10.1504/ijaac.2028.10080905",
-    "citations": 0,
-    "venue": "International Journal of Automation and Control",
     "open_access": false,
     "ai_summary": "No abstract available."
   },
@@ -878,141 +878,187 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "pubmed:42750730",
-    "title": "Integrating Conventional and Emerging Approaches in Cardiovascular Risk Assessment and Management.",
-    "abstract": "Cardiovascular diseases (CVDs) remain the leading cause of global mortality, and the burden is rising fastest in low- and middle-income countries (LMICs). Conventional risk calculators, such as Framingham and Systematic Coronary Risk Evaluation (SCORE), incorporate age, blood pressure, cholesterol, diabetes and smoking, yet they underperform in populations that differ from their derivation cohorts and leave substantial residual risk unexplained. This narrative review evaluates traditional risk factors alongside emerging tools, including coronary artery calcium (CAC) scoring, polygenic risk scores (PRS) and inflammatory biomarkers such as high-sensitivity C-reactive protein (hsCRP) and interleukin-6. It examines the contribution of lifestyle and environmental exposures-chronic stress, physical inactivity, and air pollution-to inflammatory and atherogenic pathways and considers the role of imaging, molecular biomarkers, and artificial intelligence (AI)-assisted algorithms in risk stratification. Management strategies combining pharmacological therapy (statins, antihypertensives and antidiabetic agents) with individualised de-escalation, lifestyle modification and precision medicine are summarised. Rather than describing each tool in isolation, this review compares them directly on incremental predictive value, cost, infrastructure requirements, equity implications and readiness for routine implementation, and proposes a stepwise pathway for integrating them into cardiovascular risk assessment. Particular attention is given to feasibility in resource-constrained health systems, where most of the global CVD burden now falls. We conclude that the near-term public health gain lies less in broad adoption of novel tests than in their selective use where they change management, coupled with stronger delivery of established, low-cost preventive care.",
+    "id": "pubmed:42752044",
+    "title": "A Phenotype Risk Score-Triggered E-Visit Pathway to Capture TTR V142I in a Heart Failure Population.",
+    "abstract": "Variant transthyretin amyloidosis (ATTRv) is an underdiagnosed cause of heart failure (HF), typically identified at later disease stages. The TTR p.Val142Ile (V142I) variant, found in ∼4% of African American (AA) individuals, is the most common cause of ATTRv in the United States and delayed diagnoses contribute to health disparities. Genetic testing is a guideline-directed step in diagnosing ATTRv but is performed in only ∼6% of patients. Improving identification of at-risk patients through genetic testing should accelerate diagnosis. A novel phenotype risk score (PheRS) that identifies patients at increased likelihood of harboring V142I is implemented in a health system. Using data from the electronic health records of AA patients ≥60 years old with HF, high-risk PheRS scores trigger clinician alerts recommending genetic testing through a new asynchronous, message-only (E-visit) pathway. A disease-specific PheRS paired with clinician prompts and a digital genetics care pathway can expedite genetic diagnoses in patients with HF at risk for ATTRv.",
     "authors": [
-      "Sana Rasheed",
-      "Azka Mujeeb",
-      "Misbah Sarfraz",
-      "Abedin Samadi",
-      "Ahmed Asad Raza"
+      "James W Johnson",
+      "Deepa Sarkar",
+      "Isabelle Kornblau",
+      "Juhyun R Baik",
+      "Melanie Besculides",
+      "Abena Gyasi",
+      "Naomi So",
+      "Noura S Abul-Husn",
+      "Vikas Pejaver",
+      "Amy R Kontorovich"
+    ],
+    "published": "2026-Sep-16",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42752044/",
+    "pdf_url": null,
+    "doi": "10.1016/j.jaccas.2026.110259",
+    "citations": 0,
+    "venue": "JACC. Case reports",
+    "open_access": false,
+    "ai_summary": "Variant transthyretin amyloidosis (ATTRv) is an underdiagnosed cause of heart failure . The TTR p.Val142Ile (V142I) variant, found in ∼4% of African American (AA) individuals, is the most common cause of ATTRv in the United States"
+  },
+  {
+    "id": "pubmed:42752016",
+    "title": "Reducing Diagnostic Variation With Hybrid AI Coronary CTA Interpretation.",
+    "abstract": "In hospitalized patients undergoing coronary computed tomography angiography (CCTA), variability in stenosis interpretation may contribute to missed obstructive coronary artery disease (CAD) or unnecessary invasive coronary angiography. We retrospectively evaluated inpatient CCTA interpretation workflows at a tertiary academic center between 2023 and 2025. Among 177 hospitalized patients undergoing CCTA, 139 had both artificial intelligence (AI)-assisted and physician interpretations available for comparison. Twenty patients underwent same-admission invasive coronary angiography, with 19 included in final invasive angiographic analysis. AI-assisted interpretation demonstrated higher agreement with invasive coronary angiography than physician interpretation within the exploratory invasive angiography subgroup (78.6% vs 55.0%). Discordance patterns were primarily driven by false-negative physician interpretations and AI-assisted stenosis overestimation. Significant CAD was identified in 73.7% of the invasive angiography subgroup, with 52.6% ultimately undergoing revascularization. Hybrid AI-physician interpretation workflows may support more consistent inpatient CAD evaluation while preserving physician-guided clinical decision making.",
+    "authors": [
+      "Barilee Abueh",
+      "Michael Beshara",
+      "Qwynton Johnson",
+      "Wing Lam Ho",
+      "Ryung San Lee",
+      "Brian John Page",
+      "Umesh Sharma"
+    ],
+    "published": "2026-Sep-16",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42752016/",
+    "pdf_url": null,
+    "doi": "10.1016/j.jaccas.2026.109115",
+    "citations": 0,
+    "venue": "JACC. Case reports",
+    "open_access": false,
+    "ai_summary": "In hospitalized patients undergoing CCTA, variability in stenosis interpretation may contribute to missed obstructive coronary artery disease (CAD) or unnecessary invasive coronary angiography ."
+  },
+  {
+    "id": "pubmed:42752015",
+    "title": "Development and Evaluation of Multimodal Universal CPR AI Assistance and Response Engine (U-CARE).",
+    "abstract": "Each year, 350,000 people in the United States experience out-of-hospital cardiac arrest, and 90% do not survive. Early cardiopulmonary resuscitation (CPR) can double or triple survival rates. Bystander CPR is performed correctly in fewer than 40% of cases, with major challenges persisting: lack of widespread training, decision paralysis, and recall bias during an emergency. Universal CPR Assistance and Response Engine (U-CARE) is a low-cost smartphone-based system that serves as a universal CPR guide to address these challenges. A large language model-powered verbal guidance system provides objective next-best steps multilingually, coupled with a computer vision model that continuously assesses CPR technique. U-CARE was evaluated using holistic large language model evaluation and computer vision metrics, and outperformed out-of-the-box frontier models on relevance and safety in human evaluation, demonstrating its viability for real-time feedback. U-CARE demonstrates the feasibility of a smartphone-based multimodal CPR feedback and response agent for emergency and training guidance.",
+    "authors": [
+      "Aarit Atreja",
+      "Utkarsh Contractor",
+      "Dharan Jaisankar",
+      "Piyush Mathur"
+    ],
+    "published": "2026-Sep-16",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42752015/",
+    "pdf_url": null,
+    "doi": "10.1016/j.jaccas.2026.110026",
+    "citations": 0,
+    "venue": "JACC. Case reports",
+    "open_access": false,
+    "ai_summary": "Universal CPR Assistance and Response Engine (U-CARE) is a low-cost smartphone-based system that serves as a universal CPR guide to address these challenges . Bystander CPR is performed correctly in fewer than 40% of cases ."
+  },
+  {
+    "id": "pubmed:42751973",
+    "title": "Association of Interleukin-17F Polymorphisms (rs763780, rs9382084, rs2397084, and rs12203582) With Gastric Cancer Susceptibility According to Helicobacter pylori Infection Status.",
+    "abstract": "Single nucleotide polymorphisms (SNPs) in the interleukin-17F (IL-17F) gene may modulate inflammatory responses, with distinct effects on inflammation and tumour progression. Helicobacter pylori infection, a Group 1 carcinogen, is strongly associated with gastric cancer (GC) development. This study investigated the influence of IL-17F SNPs rs763780 (T>C), rs2397084 (T>C), rs9382084 (G>T), and rs12203582 (G>A) on GC susceptibility, considering H. pylori infection status. A total of 301 gastric biopsy samples were classified into the control (n = 95), gastritis (n = 112), and cancer (n = 94) groups. Helicobacter pylori detection and SNP genotyping were performed by quantitative real-time PCR (qPCR). Statistical analyses included Hardy-Weinberg equilibrium (HWE), Fisher's exact test, haplotype analysis, and genetic models using the SNPStats software, with sensitivity analysis performed in G*Power. All SNPs conformed to HWE except for rs763780. The T/C genotype and C allele of rs763780 were more frequent in the control group, indicating a protective effect (OR = 0.35; 95% CI = 0.14-0.91; p = 0.04). In contrast, the G/G genotype of rs9382084 (OR = 2.29; 95% CI = 1.02-5.13; p = 0.039) and the A/A genotype of rs12203582 (OR = 3.01; 95% CI = 1.01-8.93; p = 0.047) were associated with increased GC risk. No significant association was found for rs2397084. Haplotype analysis identified the rs763780-C/rs2397084-T/rs9382084-T/rs12203582-G haplotype as protective against GC (OR = 0.30; 95% CI = 0.10-0.86; p = 0.026). Stratified analysis according to H. pylori infection status suggested specific associations between SNPs rs763780, rs2397084, and rs12203582 and the risk of GC. These findings suggest that IL-17F gene SNPs influence GC susceptibility, exerting protective or risk effects depending on the specific polymorphism and its interaction with H. pylori infection.",
+    "authors": [
+      "Mikaela Nagahara",
+      "Bruno Mari Fredi",
+      "Fabricio Abdalla Brandt",
+      "Alanis Dos Santos Fonseca",
+      "Milena Milani Coelho",
+      "Danielli Girolli",
+      "Elizabeth Suchi Chen",
+      "Monica Santiago Barbosa",
+      "Spencer Luiz Marques Payao",
+      "Lucas Trevizani Rasmussen"
+    ],
+    "published": "2026-Sep-17",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42751973/",
+    "pdf_url": null,
+    "doi": "10.1111/iji.70068",
+    "citations": 0,
+    "venue": "International journal of immunogenetics",
+    "open_access": false,
+    "ai_summary": "Helicobacter pylori infection, a Group 1 carcinogen, is strongly associated with gastric cancer (GC) development . Study investigated influence of IL-17F SNPs in the interleukin-17f (IL- 17F) gene ."
+  },
+  {
+    "id": "pubmed:42751969",
+    "title": "Establishment, Implementation, and Sustainability of Digital Dentistry in Dental Schools.",
+    "abstract": "Digital dentistry technology and its workflows offer important benefits, including advancements in patient care and diagnostic capabilities. Dental schools have been adopting and integrating these advanced technologies into their educational and patient care practices. This perspective paper explores the challenges and issues encountered by a sample of dental schools in their journey of planning, implementing, and sustaining digital dentistry technology. Through a questionnaire, administrators responsible for digital dentistry from nine dental schools participated in interviews to assess the inception, execution, and maintenance of digital dentistry within their institutions. Responses were scored, enabling the ranking and classification of dental schools based on their identified strengths and weaknesses. While most dental schools demonstrated sound planning during the initial investment and implementation phases of their digital dentistry programs, long-term maintenance planning was less developed. Notably, financial sustainability for maintaining and upgrading software and hardware, as well as faculty succession plans, appears uncertain or lacking a clear plan for most dental schools. As dental education transitions into the post-digital dentistry implementation phase, it is imperative for academic leadership to address these identified gaps in sustainability and maintenance planning. Financial and personnel resources should be strategically deployed to ensure the continued success of digital dentistry programs in dental schools. The findings underscore the need for a proactive approach to long-term planning, encompassing both financial sustainability and faculty succession, to maximize the benefits of digital dentistry in dental education.",
+    "authors": [
+      "Hiroe Ohyama",
+      "Mai-Ly Duong",
+      "Aaron E Yancoskie",
+      "Alayna B Smiley",
+      "Ali Syed",
+      "Michael S Reddy",
+      "Sompop Bencharit"
+    ],
+    "published": "2026-Sep-17",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42751969/",
+    "pdf_url": null,
+    "doi": "10.1002/jdd.70369",
+    "citations": 0,
+    "venue": "Journal of dental education",
+    "open_access": false,
+    "ai_summary": "Dental schools have been adopting and integrating these advanced technologies into their educational and patient care practices . This perspective paper explores the challenges and issues encountered by a sample of dental schools in their journey of planning, implementing, and sustaining digital dentistry technology ."
+  },
+  {
+    "id": "pubmed:42751957",
+    "title": "Re: Empowering Future Dentists: A Comprehensive Mixed-Methods Exploration of Artificial Intelligence in Personalizing Year 3 Clinical Dental Practice Education.",
+    "abstract": "",
+    "authors": [
+      "Carlos Fernando Mourão",
+      "Luiz Eduardo Juliasse"
+    ],
+    "published": "2026-Sep-17",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42751957/",
+    "pdf_url": null,
+    "doi": "10.1002/jdd.70372",
+    "citations": 0,
+    "venue": "Journal of dental education",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "pubmed:42751992",
+    "title": "Correlation of 2D Linear and 3D Volumetric Measurement Techniques for Subchondral Bone Sclerosis in the Equine Distal Limb Using Standing Computed Tomography.",
+    "abstract": "Subchondral bone sclerosis of the distal third palmar/plantar metacarpal/metatarsal condyles is a common radiographic finding in Thoroughbred racehorses. Traditionally, assessment has relied on two-dimensional (2D) linear measurements; however, advances in imaging software now allow three-dimensional (3D) volumetric quantification of subchondral bone. This study aimed to assess the relationship and agreement between computed tomography (CT)-derived 2D linear and volumetric measurements of condylar sclerosis and computer-generated 3D volumetric measurements and determine whether 2D measurements could provide a practical alternative to 3D analysis. A total of 62 Thoroughbred racehorses (96 fetlock joints; 59 forelimbs, and 37 hindlimbs) underwent standing fan-beam CT (FBCT). Retrospective image analysis was performed using Horos for 2D measurements and Volume Graphics Studio Max for 3D volumetric quantification. Associations between 2D and 3D measurements were assessed using Pearson's correlation (r) and coefficients of determination (R",
+    "authors": [
+      "Annabelle C Trainor",
+      "Benjamin J Ahern",
+      "Ekaterina V Strounina",
+      "Frederik E Pauwels",
+      "Alex C Young"
     ],
     "published": "2026-Sep",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42750730/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42751992/",
     "pdf_url": null,
-    "doi": "10.1002/puh2.70378",
+    "doi": "10.1111/vru.70246",
     "citations": 0,
-    "venue": "Public health challenges",
+    "venue": "Veterinary radiology & ultrasound : the official journal of the American College of Veterinary Radiology and the International Veterinary Radiology Association",
     "open_access": false,
-    "ai_summary": "Cardiovascular diseases (CVDs) remain the leading cause of global mortality . The burden is rising fastest in low- and middle-income countries (LMICs)"
+    "ai_summary": "Subchondral bone sclerosis of the distal third palmar/plantar metacarpal/metatarsal condyles is a common radiographic finding in Thoroughbred racehorses . The study aimed to assess the relationship and agreement between computed tomography (CT) and volumetric measurements of condylar"
   },
   {
-    "id": "pubmed:42750695",
-    "title": "Top 10 Public Health Challenges in 2025: Lessons and Priorities for 2025-2030.",
-    "abstract": "By 2025, global public health will be shaped by interconnected and intensifying threats that demand coordinated international action. Ten key public health challenges were identified and examined. This perspective reviews the challenges that shaped 2025 and the priorities set for the period 2025-2030, using evidence available up to July 2026; therefore, it is in part a retrospective assessment of that year rather than solely a prospective identification of challenges at its outset. The designation of the Top 10 denotes prominence and salience rather than a strict ordinal ranking. The challenges selected for this year include drug-resistant infections, health consequences of a warming planet, rising rates of psychological distress, persistent burden of long-term diseases and health inequities, preparedness for future disease outbreaks, widespread hunger and poor nutrition, shortages of doctors and nurses, harmful use of alcohol and drugs, barriers to reproductive and sexual well-being, and ethical questions raised by the growing role of computing and data-driven tools in medicine. Each challenge was examined in terms of its current scope, the populations most affected, and the strategies needed to mount an effective response to it. The analysis draws out the cross-cutting links among the 10 challenges and sets out a proposed agenda for action for 2025-2030. The adoption of the World Health Organization Pandemic Agreement by the World Health Assembly in May 2025 established an important framework for future cooperation, although the agreement had not been opened for signature and had not entered into force at the time of writing, and progress across most indicators continued to fall short of global targets. Pressures that intensified in 2025, notably the retrenchment of international health financing and the rapid clinical adoption of artificial intelligence ahead of rigorous evaluation, further sharpened several of these challenges.",
+    "id": "pubmed:42752054",
+    "title": "Radiation Oncology Device Recalls (2015-2025): Software and Artificial Intelligence as Emerging Drivers of Postmarket Safety.",
+    "abstract": "Radiation oncology (RO) relies on complex devices spanning simulation, planning, delivery, and verification, making postmarket surveillance critical. Prior analyses of U.S. Food and Drug Administration (FDA) recalls (2002-2015) demonstrated a high recall burden, predominantly driven by software-related failures. Following recent technological advances, including rapid expansion of software systems and artificial intelligence (AI)-enabled tools, we analyzed RO device recalls from 2015 to 2025 to investigate if this has resulted in a proportional increase in recalls. FDA recall data from 2015 to 2025 were queried, and RO devices were identified using product codes and device descriptions. Recalls were analyzed by device category (external beam, brachytherapy, software, or simulation), recall severity, FDA-determined root cause, and quantity in commerce. AI-enabled devices were identified by cross-referencing the FDA AI-enabled medical device list with product codes. RO-specific FDA approvals per year were assessed using the 510(k)-clearance database. Of the 30,648 FDA recalls from 2015 to 2025, 426 (1.39%) were RO-related. External beam systems accounted for 61.6% of recalls, and planning/software systems of 34.4%. Software issues were the most common root cause (45%), exceeding 50% in 6 of 11 years. Most recalls were class II (97.7%), indicating potential temporary or reversible health consequences. From 2018 onward, 1357 AI-enabled devices entered the market, with 70 (5.16%) identified as RO-related. Over this period, 68 AI-enabled RO devices were recalled, with 62 (91.18%) of those involving a single planning system. RO has rapidly adopted software-based and AI-enabled technologies, yet recall frequency has remained stable, which may potentially obscure software-related safety risks. These findings underscore the need for continued postmarket surveillance, rigorous commissioning and revalidation, lifecycle oversight, and clinician education. This study also provides a contemporary benchmark to inform patient safety strategies as the field continues to evolve.",
     "authors": [
-      "Don Eliseo Lucero Prisno",
-      "Mohamed Mustaf Ahmed",
-      "Zhinya Kawa Othman",
-      "Rahmatullah Nazari",
-      "Uthman Okikiola Adebayo",
-      "Olalekan John Okesanya",
-      "Shuaibu Saidu Musa",
-      "Francesco Branda",
-      "Abdullahi Hassan Elmi",
-      "Jerico Bautista Ogaya"
+      "Mariam Rowe",
+      "Dylan Rowe"
     ],
-    "published": "2026-Sep",
+    "published": "2026-Jun-22",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42750695/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42752054/",
     "pdf_url": null,
-    "doi": "10.1002/puh2.70372",
+    "doi": "10.1016/j.prro.2026.05.008",
     "citations": 0,
-    "venue": "Public health challenges",
+    "venue": "Practical radiation oncology",
     "open_access": false,
-    "ai_summary": "Ten key public health challenges were identified and examined . The challenges selected for this year include drug-resistant infections, health consequences of a warming planet, rising rates of psychological distress and persistent burden of long-term diseases ."
-  },
-  {
-    "id": "pubmed:42750739",
-    "title": "Artificial Intelligence-Driven Multiomics and Clinical Investigation Identify Macrophage Migration Inhibitory Factor as a Pan-Cancer Biomarker.",
-    "abstract": "Early cancer detection remains challenging due to the lack of reliable pan-cancer screening methods, particularly blood-based biomarkers. Using a novel three-tiered validation framework combining artificial intelligence (AI)-powered literature mining of 180,000 PubMed articles (1950-2024), multiomics integration across major databases, and extensive clinical validation, we identified macrophage migration inhibitory factor (MIF) as a promising blood-based biomarker for pan-cancer detection. Multiomics analysis revealed consistent MIF upregulation across 21 cancer types at the transcriptional level and across 12 cancer types at the protein level. Clinical validation in independent cohorts ( The online version contains supplementary material available at https://doi.org/10.1007/s43657-026-00322-4.",
-    "authors": [
-      "Fengsen Liu",
-      "Yu Ping",
-      "Miaomiao Li",
-      "Kaiyuan Guo",
-      "Lei Zhang",
-      "Peng Wu",
-      "Yijun Tian",
-      "Jinyan Liu",
-      "Yi Zhang"
-    ],
-    "published": "2026-Jun",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42750739/",
-    "pdf_url": null,
-    "doi": "10.1007/s43657-026-00322-4",
-    "citations": 0,
-    "venue": "Phenomics (Cham, Switzerland)",
-    "open_access": false,
-    "ai_summary": "Early cancer detection remains challenging due to the lack of reliable pan-cancer screening methods . We identified macrophage migration inhibitory factor (MIF) as a promising blood-based biomarker for pan- cancer detection . Multiomics analysis revealed consistent MIF upregulation across 21 cancer types ."
-  },
-  {
-    "id": "pubmed:42750774",
-    "title": "Design optimization and thermal analysis of C₂H₆O₂ hybrid nanofluid flow over solar plate under solar radiation using artificial neural network.",
-    "abstract": "This study, we investigate how solar radiation affects C₂H₆O₂ hybrid nanofluid over solar plate under LTNE (local thermal non-equilibrium effects). This study will be useful for applications pertaining to thermal management, renewable energy technologies, and industrial heating systems. The study of Stefan blowing and solar radiation effects on ethylene glycol-based hybrid nanofluids under LTNE conditions provides heat transport enhancement to advance the performance of solar thermal collectors, heat exchangers, electronic cooling devices, thermal storage units, and other manufacturing and chemical engineering processes. The HAM (Homotopy analysis method) is used to first obtain the analytical solution. Our model is unusual in that it uses artificial intelligence neural networks (AI-NN) in combination with the back-propagated Levenberg-Marquardt algorithm (BLM), resulting in a more sophisticated computational solution than traditional numerical methods. The resultant synthetic dataset is divided into three sections: testing (15%), validation (15%) and training (70%). The resultant PDE was converted into an ODE. The artificial neural networks (ANNs) are evaluated for accuracy, validity, and efficiency using regression analysis, MSE (mean-squared error), EH (error histograms), and an examination of the relationship between numerical repetitions using the stochastic (Levenberg-Marquardt) approach. As the Stefan blowing factor values rise, the velocity field improves while the temperature and concentration characteristics decrease.",
-    "authors": [
-      "Mohamed Abbas El-Naggar",
-      "Ahmed Najat Ahmed",
-      "Mustafa Inc",
-      "Abdulbasit A Darem",
-      "Munawar Abbas",
-      "Farkhod Alisherov",
-      "Saba Liaqat",
-      "Mohammad Saqlain Sajjad"
-    ],
-    "published": "2026-Dec",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42750774/",
-    "pdf_url": null,
-    "doi": "10.1016/j.mex.2026.104121",
-    "citations": 0,
-    "venue": "MethodsX",
-    "open_access": false,
-    "ai_summary": "Study will be useful for applications pertaining to thermal management, renewable energy technologies, and industrial heating systems . Study of Stefan blowing and solar radiation effects on ethylene glycol-based hybrid nanofluids under LTNE conditions ."
-  },
-  {
-    "id": "pubmed:42750765",
-    "title": "Gated triadic coupling in a Hopfield neural network: cooperative-competitive dynamics and synchronization.",
-    "abstract": "Inspired by the tripartite synapse, where a third element dynamically modulates the effective coupling between two neurons, this study abstracts that idea into a minimal three-neuron Hopfield neural network with multiplicative gated coupling. The third neuron acts as a dynamic modulator, adjusting the synaptic strength between the other two units without invoking auxiliary astrocytic dynamics. Through nonlinear analyses including bifurcation diagrams, Lyapunov exponent spectra, and two-parameter dynamical maps, we show that the three gated coupling strengths engage in both cooperative and competitive interactions, collectively governing transitions among chaotic, periodic, and globally coordinated firing patterns. Phase synchronization analysis shows that the three coupling strengths differentially regulate the transition from chaotic to phase-coordinated states. Circuit design and simulations validate the theoretical predictions and confirm the physical realizability of the model. This work elucidates the regulatory functions of gated triadic coupling in a minimal three-neuron motif and provides a circuit-realizable framework for developing tunable neuromorphic systems.",
-    "authors": [
-      "Jiangying Shao",
-      "Zhijun Li"
-    ],
-    "published": "2026-Dec",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42750765/",
-    "pdf_url": null,
-    "doi": "10.1007/s11571-026-10544-x",
-    "citations": 0,
-    "venue": "Cognitive neurodynamics",
-    "open_access": false,
-    "ai_summary": "The third neuron acts as a dynamic modulator, adjusting the synaptic strength between the other two units without invoking auxiliary astrocytic dynamics . The three coupling strengths engage in both cooperative and competitive interactions ."
-  },
-  {
-    "id": "pubmed:42750674",
-    "title": "The Invisible Human-in-the-Loop: An Evolutionary Concept Analysis of Artificial Intelligence in Nursing Assistant Practice.",
-    "abstract": "Artificial intelligence (AI) is rapidly entering long-term care (LTC) environments, but its significance for the workforce performing the vast majority of hands-on care tasks, certified nursing assistants (CNAs), remains unclear. CNAs remain underrepresented in the literature on AI in nursing, which has focused on registered nurses (RNs) as clinical decision-makers. The missing element inhibits the conceptualization process and thus the research, teaching, and policymaking processes. To define this concept in the age of generative AI, this paper conducts a concept analysis using Rodgers' evolutionary methodology. The analysis is based on the nursing, LTC, and direct care technology literature. It involves 65 sources (33 empirical and 32 conceptual, methodological, governance, and policy sources) found through systematic database search and purposive interdisciplinary sampling. The four defining attributes that came up include: deployment embedded into the task as opposed to the decision; augmentation of a person who has no clinical decision-making authority; mediated agency; and dependency on interfaces that can be used by a minimally trained, low-literacy workforce. The antecedents included an unstable workforce, top-down implementation, and lack of proper training; the consequences included improved documentation but also increased surveillance, yet the influence on care quality is unknown. As an analytical contribution, the analysis develops the construct of the invisible human-in-the-loop. The concept of AI in nursing assistant practice is nascent but developing rapidly, and clarifying it now is necessary for inclusive technology design and a health informatics agenda that includes the direct-care workforce.",
-    "authors": [
-      "Crissinee Sucharitrak"
-    ],
-    "published": "2026-Aug",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42750674/",
-    "pdf_url": null,
-    "doi": "10.7759/cureus.114621",
-    "citations": 0,
-    "venue": "Cureus",
-    "open_access": false,
-    "ai_summary": "Artificial intelligence (AI) is rapidly entering long-term care (LTC) environments . But its significance for the workforce performing the vast majority of hands-on care tasks, certified nursing assistants (CNAs) remains unclear . CNAs remain underrepresented in the literature on AI in nursing ."
+    "ai_summary": "Radiation oncology (RO) relies on complex devices spanning simulation, planning, delivery, and verification, making postmarket surveillance critical . Prior analyses of U.S. Food and Drug Administration (FDA) recalls (2002-2015) demonstrated a high recall burden, predominantly driven by software-related failures ."
   },
   {
     "id": "openalex:W7118720654",
@@ -1658,27 +1704,6 @@
     "ai_summary": "AgentLSD uses Capture the Flag (CTF) challenges as its experimental environment . We inject trap artifacts, such as fake flags, misleading hints, decoy endpoints, and hidden cues . In the clean condition, agents capture 41% of the flags, and no model solves every challenge ."
   },
   {
-    "id": "arxiv:2609.19144v1",
-    "title": "A Zeroth-Order Paradigm for LLM Preference Alignment",
-    "abstract": "Direct preference alignment methods are widely used to align large language models (LLMs) with human preferences because of their computational and memory efficiency. However, likelihood displacement motivates alternative ways to extract information from preference pairs with small likelihood margins. In this paper, we propose and analyze Comparison-based Preference Optimization (ComPO), a zeroth-order alignment method based on comparison oracles. ComPO extracts directional information from these pairs without directly optimizing a differentiable preference loss on them. We establish a convergence guarantee for its basic offline scheme under smoothness, gradient sparsity, and compatibility between the oracle and a latent objective. We further introduce online ComPO, which retains the offline comparison mechanism and uses unlabeled policy generations for reverse-KL control relative to a reference policy. Following the coverage perspective of preference fine-tuning, we establish a performance guarantee for a basic constrained scheme under local coverage and in-distribution pairwise reward accuracy. Experiments on Mistral, Llama, Gemma-2, Qwen3, and Gemma-3 models demonstrate improvements over existing direct alignment methods, including length-controlled win rates, with pair-level diagnostics providing evidence consistent with mitigating likelihood displacement.",
-    "authors": [
-      "Peter Chen",
-      "Xi Chen",
-      "Wotao Yin",
-      "Tianyi Lin"
-    ],
-    "published": "2026-09-16",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2609.19144v1",
-    "pdf_url": "https://arxiv.org/pdf/2609.19144v1",
-    "doi": null,
-    "citations": 0,
-    "venue": "arXiv preprint",
-    "open_access": true,
-    "ai_summary": "ComPO is a zeroth-order alignment method based on comparison oracles . ComPO extracts directional information from these pairs without directly optimizing a differentiable preference loss on them . We also introduce online ComPO, which retains the offline comparison mechanism ."
-  },
-  {
     "id": "arxiv:2609.19143v1",
     "title": "PANORAMA: Panoptic Grounded Captioning via Mask Proposal Selection",
     "abstract": "Intelligent systems that act in the world require image understanding that is both comprehensive and spatially grounded. Current vision-language models (VLMs) can generate fluent and detailed image captions, but reliably associating them with image pixels remains challenging. Existing methods that combine dense captioning with pixel-level grounding often produce either incomplete descriptions or inaccurate segmentation masks. We study this problem through panoptic grounded captioning, a task that requires a VLM to describe both foreground objects and background regions while grounding each referring phrase with pixel-level masks. We make three contributions. First, we introduce PanoCaps, a human-annotated benchmark constructed from panoptic segmentation datasets. It provides dense captions with near-complete pixel coverage and image-text alignments at the entity level, supporting both training and evaluation. We further propose a phrase-mask matching protocol and a generalized Panoptic Quality (gPQ) metric that jointly evaluates textual and mask agreement. Second, we formulate phrase grounding as selection from a phrase-conditioned pool of mask proposals and introduce PANORAMA, a VLM that conditions a pretrained segmenter on contextualized phrase representations to obtain candidate masks and learns to select those corresponding to each phrase. Training this interface jointly with caption generation enables PANORAMA to produce high-quality masks while allowing each phrase to refer to a single region or multiple instances. Third, PANORAMA achieves the best overall grounding on PanoCaps and matches or exceeds specialized models across several pixel-level grounding tasks. Experiments show that our method produces precise entity-level segmentations while maintaining detailed, mask-consistent captions. Code, data and models are available at https://www.di.ens.fr/willow/research/panorama/.",
@@ -1699,6 +1724,27 @@
     "venue": "arXiv preprint",
     "open_access": true,
     "ai_summary": "Current vision-language models can generate fluent and detailed image captions, but reliably associating them with image pixels remains challenging . Existing methods that combine dense captioning with pixel-level grounding often produce incomplete descriptions or inaccurate segmentation masks . We study this problem through panoptic grounded captioning, a task that requires a VLM to"
+  },
+  {
+    "id": "arxiv:2609.19144v1",
+    "title": "A Zeroth-Order Paradigm for LLM Preference Alignment",
+    "abstract": "Direct preference alignment methods are widely used to align large language models (LLMs) with human preferences because of their computational and memory efficiency. However, likelihood displacement motivates alternative ways to extract information from preference pairs with small likelihood margins. In this paper, we propose and analyze Comparison-based Preference Optimization (ComPO), a zeroth-order alignment method based on comparison oracles. ComPO extracts directional information from these pairs without directly optimizing a differentiable preference loss on them. We establish a convergence guarantee for its basic offline scheme under smoothness, gradient sparsity, and compatibility between the oracle and a latent objective. We further introduce online ComPO, which retains the offline comparison mechanism and uses unlabeled policy generations for reverse-KL control relative to a reference policy. Following the coverage perspective of preference fine-tuning, we establish a performance guarantee for a basic constrained scheme under local coverage and in-distribution pairwise reward accuracy. Experiments on Mistral, Llama, Gemma-2, Qwen3, and Gemma-3 models demonstrate improvements over existing direct alignment methods, including length-controlled win rates, with pair-level diagnostics providing evidence consistent with mitigating likelihood displacement.",
+    "authors": [
+      "Peter Chen",
+      "Xi Chen",
+      "Wotao Yin",
+      "Tianyi Lin"
+    ],
+    "published": "2026-09-16",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2609.19144v1",
+    "pdf_url": "https://arxiv.org/pdf/2609.19144v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "ComPO is a zeroth-order alignment method based on comparison oracles . ComPO extracts directional information from these pairs without directly optimizing a differentiable preference loss on them . We also introduce online ComPO, which retains the offline comparison mechanism ."
   },
   {
     "id": "arxiv:2609.19138v1",
@@ -2668,7 +2714,7 @@
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "Privacy evaluations of tool-using LLM agents often inspect a designated action, final response, or attacker report . These local proxies can miss unauthorized exposure elsewhere in a multi-step session and lack common ground truth across outlets, reports, and tool paths ."
+    "ai_summary": "Privacy evaluations of tool-using LLM agents often inspect a designated action, final response, or attacker report . Local proxies can miss unauthorized exposure elsewhere in a multi-step session and lack common ground truth across outlets, reports, and tool paths . An expected-outlet-only view misses 46.9% of exposure recovered by"
   },
   {
     "id": "arxiv:2609.18863v1",
@@ -2778,100 +2824,42 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "pubmed:42750764",
-    "title": "The portable wearBands resistance system increases exercise intensity during mixed-reality boxing without reducing enjoyment or flow.",
-    "abstract": "Physical activity in a mixed-reality (MR) environment may be an attractive exercise; however, its intensity depends on application characteristics and the extent of whole-body involvement. One method of increasing exercise load during activities based primarily on upper-limb movements may be additional elastic resistance. The aim of this study was to assess the effects of elastic resistance applied to the upper limbs on exercise intensity, perceived exertion, enjoyment, and flow state during boxing in MR. The study included 36 university students, comprising 20 women (age: 22.25 ± 1.52 years) and 16 men (age: 22.00 ± 1.46 years). Each participant completed three 10-minute simulated boxing bouts against an artificial intelligence-controlled opponent in the Golden Gloves application using a Meta Quest 3 headset in mixed-reality mode. Trials were performed without resistance and with lower or higher elastic resistance generated on the participant's body using the WearBands system. The order of conditions was counterbalanced. Exercise intensity was assessed based on the percentage of maximum heart rate (%HR Increasing elastic resistance resulted in a significant increase in mean heart rate, from 156.61 ± 15.26 beats/min without resistance to 164.97 ± 13.99 beats/min with lower resistance and 169.75 ± 13.42 beats/min with higher resistance ( The portable elastic resistance system for upper limbs progressively increased heart rate-based and perceived intensity during a 10-minute MR boxing bout without reducing enjoyment or flow in active university students. These findings suggest WearBands may practically manipulate MR exercise load; longitudinal studies are needed to assess safety, adherence, metabolic demand, and training effects.",
+    "id": "pubmed:42751946",
+    "title": "HY-EnYO: A dual-stream YOLO ensemble for deterministic spatial occupancy in seaport container yards.",
+    "abstract": "Real-time spatial coordination in high-density seaport container yards is a bottleneck in global supply chains. In these environments, GPS signal denial and severe visual occlusion render traditional theoretical scheduling models ineffective. To resolve this operational gap, this paper introduces HY-EnYO, a novel dual-stream ensemble architecture designed to automate the identification of vacant parking bays using monocular CCTV footage without requiring physical sensor infrastructure. Addressing a fundamental limitation of standard single-stream deep learning detectors, which suffer from severe cross-class feature confusion when mapping massive infrastructure alongside dynamic assets within a unified latent space, the proposed framework decouples visual extraction into parallel sub-networks specialized for yard cranes (",
     "authors": [
-      "Jacek Polechoński",
-      "Aleksandra Daniel",
-      "Małgorzata Dębska-Janus",
-      "Anna Witkowska",
-      "Jarosław Cholewa"
+      "Indranath Chatterjee",
+      "Hoon Lee",
+      "Gyusung Cho"
     ],
     "published": "2026",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42750764/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42751946/",
     "pdf_url": null,
-    "doi": "10.3389/fspor.2026.1938500",
+    "doi": "10.1177/00368504261485362",
     "citations": 0,
-    "venue": "Frontiers in sports and active living",
+    "venue": "Science progress",
     "open_access": false,
-    "ai_summary": "Study looked at effects of elastic resistance applied to the upper limbs on exercise intensity, perceived exertion, enjoyment, and flow state during boxing in MR . The study included 36 university students, comprising 20 women and 16 men ."
+    "ai_summary": "Real-time spatial coordination in high-density seaport container yards is a bottleneck in global supply chains . In these environments, GPS signal denial and severe visual occlusion render traditional theoretical scheduling models ineffective . To resolve this operational gap, this paper introduces HY-EnYO, a novel dual-stream ensemble architecture ."
   },
   {
-    "id": "pubmed:42750753",
-    "title": "Short-term associations between air pollution and nocturnal cough frequency.",
-    "abstract": "Air pollution remains a leading environmental risk factor for health, yet its short-term associations with early respiratory symptoms are not well characterized because population-scale symptom surveillance data are scarce. We aimed to quantify the association between short-term exposure to fine particulate matter (PM We analyzed nocturnal audio recordings from users of a widely used mobile sleep application (Sleep Cycle). An artificial intelligence-based cough detection model was applied to estimate nightly cough frequency. Data were aggregated at the city-day level across 32 cities in 12 countries over approximately 500 consecutive days. We used city-specific time-series models combined through random-effects meta-analysis and multi-city pooled models adjusting for meteorological conditions and influenza activity. In addition, we conducted an event-based analysis during a major wildfire episode to evaluate the acute respiratory impacts of extreme air pollution. Higher daily PM Short-term exposure to PM",
+    "id": "pubmed:42751909",
+    "title": "[Advances in the application of individualized white-matter functional networks in children and adolescents with attention-deficit/hyperactivity disorder].",
+    "abstract": "Individualized white-matter functional networks provide a new paradigm for parsing individual differences and neural mechanisms in attention-deficit/hyperactivity disorder (ADHD) among children and adolescents. This review summarizes construction approaches for such networks, including clustering analysis and independent component analysis, and synthesizes current progress. Group-level studies in children with ADHD have shown increased white-matter functional connectivity in the default mode and sensorimotor networks, but decreased white-matter functional connectivity in attention-related networks; these connectivity abnormalities are associated with core symptoms and impairments in executive function. However, group analyses can obscure inter-individual network heterogeneity and overlook gray-white matter functional coupling, limiting clinical translation. Individualized white-matter functional networks hold promise as potential neuroimaging markers for early screening and precision intervention in ADHD, yet challenges persist, including methodological inconsistency and the difficulty of acquiring pediatric data. 脑白质个体化功能网络为解析儿童青少年注意缺陷多动障碍的个体差异与神经机制提供了新范式。该文综述脑白质个体化功能网络构建方法（聚类分析、独立成分分析等）及研究进展。注意缺陷多动障碍的群体水平研究发现，患儿默认模式网络及感觉运动网络相关的脑白质功能连接增强，注意网络相关的脑白质功能连接减弱，且这些网络连接异常与核心症状及执行功能损害相关。但群体水平分析会掩盖个体间的网络异质性，忽视灰质-白质功能耦合，阻碍临床转化。脑白质个体化功能网络有望成为儿童青少年注意缺陷多动障碍早期筛查与精准干预的潜在神经影像学标志物，但仍面临方法学标准不一、儿童数据获取困难等挑战。.",
     "authors": [
-      "Tong Xia",
-      "Emil Carlsson",
-      "Mikael Kågebäck",
-      "Marco Montagna",
-      "John S Ji",
-      "Cecilia Mascolo"
+      "Hao-Han Yang",
+      "Jun-Lin Hou"
     ],
-    "published": "2026",
+    "published": "",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42750753/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42751909/",
     "pdf_url": null,
-    "doi": "10.1038/s44528-026-00030-5",
+    "doi": "10.7499/j.issn.1008-8830.2604025",
     "citations": 0,
-    "venue": "Communications health",
+    "venue": "Zhongguo dang dai er ke za zhi = Chinese journal of contemporary pediatrics",
     "open_access": false,
-    "ai_summary": "Air pollution remains a leading environmental risk factor for health, but short-term associations with early respiratory symptoms are not well characterized . We aimed to quantify the association between short- term exposure to fine particulate matter and PM . We analyzed nocturnal audio recordings from users of a widely used mobile sleep application (Sleep Cycle)"
-  },
-  {
-    "id": "pubmed:42750705",
-    "title": "Establishment of epidemiological cut-off values of cefotaxime-sulbactam against ",
-    "abstract": "To establish the epidemiological cut-off (ECOFF) value of cefotaxime-sulbactam against  A total of 1,770 non-duplicate clinical isolates were collected from five laboratories in four cities in China. Minimum inhibitory concentrations (MICs) of cefotaxime-sulbactam were determined independently using the broth microdilution method according to EUCAST standards. For  Statistical endpoints at 95%, 97.5%, 99%, 99.5%, and 99.9% were calculated. The final ECOFFs were assigned based on concordance between ECOFFinder-derived estimates and visual inspection, using the 99% endpoint as the primary statistical estimate. The ECOFFs were 0.25/4 mg/L for  ECOFFs of cefotaxime-sulbactam were established for seven clinically important bacterial species. These results provide essential reference values for distinguishing wild-type from non-wild-type isolates and support future breakpoint-setting and antimicrobial resistance surveillance.",
-    "authors": [
-      "Menglan Zhou",
-      "Yun Wu",
-      "Wei Kang",
-      "Qiwen Yang",
-      "Bo Zheng",
-      "Fupin Hu",
-      "Yunsong Yu",
-      "Chao Zhuo",
-      "Ge Zhang",
-      "Jingjia Zhang",
-      "Jin Li",
-      "Tong Wang",
-      "Haotian Gao",
-      "Yingchun Xu"
-    ],
-    "published": "2026",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42750705/",
-    "pdf_url": null,
-    "doi": "10.3389/fmicb.2026.1866137",
-    "citations": 0,
-    "venue": "Frontiers in microbiology",
-    "open_access": false,
-    "ai_summary": "1,770 non-duplicate clinical isolates were collected from five laboratories in four cities in China . Minimum inhibitory concentrations (MICs) of cefotaxime-sulbactam were determined independently using the broth microdilution method ."
-  },
-  {
-    "id": "pubmed:42750678",
-    "title": "Editorial: From black-box to clarity in lesion diagnostics: clinical causal cognition led interpretable diagnostic AI systems.",
-    "abstract": "",
-    "authors": [
-      "Dong Zhang",
-      "Yucheng Guo",
-      "Xiaoxi Liu",
-      "Luping Lin"
-    ],
-    "published": "2026",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42750678/",
-    "pdf_url": null,
-    "doi": "10.3389/fmed.2026.1962644",
-    "citations": 0,
-    "venue": "Frontiers in medicine",
-    "open_access": false,
-    "ai_summary": "No abstract available."
+    "ai_summary": "Review summarizes construction approaches for such networks, including clustering analysis and independent component analysis . Group-level studies in children with ADHD have shown increased white-matter functional connectivity in the default mode and sensorimotor networks ."
   }
 ]
