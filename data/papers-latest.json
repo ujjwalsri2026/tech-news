@@ -153,22 +153,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.3998/mjcsl.4120",
-    "title": "Title Pending 4120",
-    "abstract": "",
-    "authors": [],
-    "published": "2033",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.3998/mjcsl.4120",
-    "pdf_url": null,
-    "doi": "10.3998/mjcsl.4120",
-    "citations": 0,
-    "venue": "Michigan Journal of Community Service Learning",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
     "id": "crossref:10.3998/mjcsl.3643",
     "title": "Title Pending 3643",
     "abstract": "",
@@ -179,6 +163,22 @@
     "url": "https://doi.org/10.3998/mjcsl.3643",
     "pdf_url": null,
     "doi": "10.3998/mjcsl.3643",
+    "citations": 0,
+    "venue": "Michigan Journal of Community Service Learning",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "crossref:10.3998/mjcsl.4120",
+    "title": "Title Pending 4120",
+    "abstract": "",
+    "authors": [],
+    "published": "2033",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.3998/mjcsl.4120",
+    "pdf_url": null,
+    "doi": "10.3998/mjcsl.4120",
     "citations": 0,
     "venue": "Michigan Journal of Community Service Learning",
     "open_access": false,
@@ -466,27 +466,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.5705/ss.202026.0109",
-    "title": "Inference for Extreme Value Index Through Individualized Fusion Learning",
-    "abstract": "",
-    "authors": [
-      "Hongfang Sun",
-      "Yu Chen",
-      "Tao Xu",
-      "Zhengjun Zhang"
-    ],
-    "published": "2029",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.5705/ss.202026.0109",
-    "pdf_url": null,
-    "doi": "10.5705/ss.202026.0109",
-    "citations": 0,
-    "venue": "Statistica Sinica",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
     "id": "crossref:10.5705/ss.202025.0205",
     "title": "Sparsity Learning via Structured Functional Factor Augmentation",
     "abstract": "",
@@ -508,6 +487,27 @@
     "ai_summary": "No abstract available."
   },
   {
+    "id": "crossref:10.5705/ss.202026.0109",
+    "title": "Inference for Extreme Value Index Through Individualized Fusion Learning",
+    "abstract": "",
+    "authors": [
+      "Hongfang Sun",
+      "Yu Chen",
+      "Tao Xu",
+      "Zhengjun Zhang"
+    ],
+    "published": "2029",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.5705/ss.202026.0109",
+    "pdf_url": null,
+    "doi": "10.5705/ss.202026.0109",
+    "citations": 0,
+    "venue": "Statistica Sinica",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
     "id": "crossref:10.5705/ss.202025.0457",
     "title": "Sparse Additive Off-policy Evaluation for Reinforcement Learning with Potentially Limited Number of Trajectories",
     "abstract": "",
@@ -521,11 +521,11 @@
     "source": "Crossref",
     "category": "index",
     "url": "https://doi.org/10.5705/ss.202025.0457",
-    "pdf_url": null,
+    "pdf_url": "https://arxiv.org/pdf/2608.22595v1",
     "doi": "10.5705/ss.202025.0457",
     "citations": 0,
     "venue": "Statistica Sinica",
-    "open_access": false,
+    "open_access": true,
     "ai_summary": "No abstract available."
   },
   {
@@ -586,6 +586,24 @@
     "ai_summary": "No abstract available."
   },
   {
+    "id": "crossref:10.71126/nijre.v2i1.16",
+    "title": "Transforming Education through Technology: The Case of COVID 19 Digital Learning in Nagaland",
+    "abstract": "<jats:p>Through the perspective of the COVID-19 pandemic and the disruption and opportunity it engendered, this chapter follows a transformative effect of EdTech and Digital education in India particularly in Nagaland through analysis. Drawing upon national policy frameworks, conceptual literature on educational technology, and contextual evidence based on the case of Nagaland, the chapter considers the rapid migration to digital learning as an emergency strategy (in response to the ongoing institution closures) based on the stark shifts in pedagogical practice, access to education services, and preparedness. The findings show that, including the ability of national programmes such as NEP 2020, SWAYAM, DIKSHA, PM e-VIDYA, and others, to promote access to digital tools was low within periphery or hill areas (e.g., Nagaland), due to lack of infrastructural resources, digital divide, unprepared teachers and economic/social divides, and more. The pandemic exposed the deep social and infrastructure divides in connectivity, device availability, assessment and learner engagement, with implications that were especially grave in rural and tribal settings. Although it accelerated the pace of innovation and the application of blended and low-tech learning practices teachers have been experimenting with digital platforms and the post-COVID recovery process, including remedial programmes and hybrid instruction. The chapter also discusses that blended learning is the most fitting, viable and sustainable approach for reaching the technological level in the field of educational technology at Nagaland. It implies that technology-mediated education can improve equity, quality, and resilience, but only under the conditions of inclusive policy design, strong digital infrastructure, vigorous teacher capability building, and culturally appropriate digital content.\nKeywords: Educational technology, digital learning, COVID-19, Nagaland, online education, Challenges, blended learning</jats:p>",
+    "authors": [
+      "K Hinoca Assumi"
+    ],
+    "published": "2028",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.71126/nijre.v2i1.16",
+    "pdf_url": null,
+    "doi": "10.71126/nijre.v2i1.16",
+    "citations": 0,
+    "venue": "Naveen International Journal of Research in Education (NIJRE)",
+    "open_access": false,
+    "ai_summary": "The chapter considers the rapid migration to digital learning as an emergency strategy . The findings show that the ability of national programmes such as NEP 2020, SWAYAM, DIKSHA, PM e-VIDYA, and others, to promote access to digital tools was low within periphery or hill areas ."
+  },
+  {
     "id": "crossref:10.32628/cseit251116279",
     "title": "Cyber Defense Digital Twins: A Federated Learning and Zero-Trust AI Architecture for Autonomous Threat Prediction and Response",
     "abstract": "<jats:p>Modern enterprise networks operate under persistent threats that exploit cloud-native misconfigurations, identity sprawl, and API vulnerabilities at machine speed. Existing security operations center (SOC) architectures remain largely reactive, signature-dependent, and incapable of predicting multi-stage lateral movement. This paper proposes the Cognitive Cyber Defense Digital Twin (CCDT), a unified architecture integrating federated learning (FL), graph neural network (GNN)-based attack-path forecasting, adversarially hardened detection models, and autonomous Security Orchestration, Automation, and Response (SOAR) with deception engineering. The CCDT constructs a continuously synchronized digital replica of organizational assets and employs reinforcement learning-based red agents to stress-test detection models. A federated intelligence mesh enables cross-organizational privacy-preserving gradient sharing. Experimental evaluations against CICIDS-2018 and LANL datasets demonstrate 52% faster attack-path detection, 41% reduction in false positive rate, and 60% reduction in mean-time-to-respond (MTTR) compared to traditional SOC baselines. Integrated Explainable AI (XAI) modules using SHAP values enable audit-ready compliance reporting. The CCDT represents a paradigm shift from reactive monitoring to predictive, autonomous, and privacy-preserving cyber defense for hybrid cloud environments.</jats:p>",
@@ -604,22 +622,25 @@
     "ai_summary": "The paper proposes the Cognitive Cyber Defense Digital Twin (CCDT) The CCDT constructs a continuously synchronized digital replica of organizational assets . It employs reinforcement learning-based red agents to stress-test detection models ."
   },
   {
-    "id": "crossref:10.71126/nijre.v2i1.16",
-    "title": "Transforming Education through Technology: The Case of COVID 19 Digital Learning in Nagaland",
-    "abstract": "<jats:p>Through the perspective of the COVID-19 pandemic and the disruption and opportunity it engendered, this chapter follows a transformative effect of EdTech and Digital education in India particularly in Nagaland through analysis. Drawing upon national policy frameworks, conceptual literature on educational technology, and contextual evidence based on the case of Nagaland, the chapter considers the rapid migration to digital learning as an emergency strategy (in response to the ongoing institution closures) based on the stark shifts in pedagogical practice, access to education services, and preparedness. The findings show that, including the ability of national programmes such as NEP 2020, SWAYAM, DIKSHA, PM e-VIDYA, and others, to promote access to digital tools was low within periphery or hill areas (e.g., Nagaland), due to lack of infrastructural resources, digital divide, unprepared teachers and economic/social divides, and more. The pandemic exposed the deep social and infrastructure divides in connectivity, device availability, assessment and learner engagement, with implications that were especially grave in rural and tribal settings. Although it accelerated the pace of innovation and the application of blended and low-tech learning practices teachers have been experimenting with digital platforms and the post-COVID recovery process, including remedial programmes and hybrid instruction. The chapter also discusses that blended learning is the most fitting, viable and sustainable approach for reaching the technological level in the field of educational technology at Nagaland. It implies that technology-mediated education can improve equity, quality, and resilience, but only under the conditions of inclusive policy design, strong digital infrastructure, vigorous teacher capability building, and culturally appropriate digital content.\nKeywords: Educational technology, digital learning, COVID-19, Nagaland, online education, Challenges, blended learning</jats:p>",
+    "id": "crossref:10.1504/ijims.2028.10076630",
+    "title": "Left Ventricle Extraction Using a DENSENET-U-Net Integrated Deep Learning Approach",
+    "abstract": "",
     "authors": [
-      "K Hinoca Assumi"
+      "X. Ignatious Viola",
+      "R. Shoba Rani",
+      "G. Savitha",
+      "R. Surekha"
     ],
     "published": "2028",
     "source": "Crossref",
     "category": "index",
-    "url": "https://doi.org/10.71126/nijre.v2i1.16",
+    "url": "https://doi.org/10.1504/ijims.2028.10076630",
     "pdf_url": null,
-    "doi": "10.71126/nijre.v2i1.16",
+    "doi": "10.1504/ijims.2028.10076630",
     "citations": 0,
-    "venue": "Naveen International Journal of Research in Education (NIJRE)",
+    "venue": "International Journal of Internet Manufacturing and Services",
     "open_access": false,
-    "ai_summary": "The chapter considers the rapid migration to digital learning as an emergency strategy . The findings show that the ability of national programmes such as NEP 2020, SWAYAM, DIKSHA, PM e-VIDYA, and others, to promote access to digital tools was low within periphery or hill areas ."
+    "ai_summary": "No abstract available."
   },
   {
     "id": "crossref:10.55737/qjss.vii-i.26473",
@@ -642,23 +663,22 @@
     "ai_summary": "Research paper will debate role played by principals in teaching and learning process . Research will embrace a quantitative research design that will seek to answer the question about the relationship between leadership skills of principals and teaching-learning process ."
   },
   {
-    "id": "crossref:10.1504/ijims.2028.10076630",
-    "title": "Left Ventricle Extraction Using a DENSENET-U-Net Integrated Deep Learning Approach",
+    "id": "crossref:10.1504/ijil.2028.10079816",
+    "title": "Inserting science: an interdisciplinary, hands-on lesson to enhance scientific literacy in marketing education",
     "abstract": "",
     "authors": [
-      "X. Ignatious Viola",
-      "R. Shoba Rani",
-      "G. Savitha",
-      "R. Surekha"
+      "Emily M. Moscato",
+      "Ernest Baskin",
+      "Brian M. Forster"
     ],
     "published": "2028",
     "source": "Crossref",
     "category": "index",
-    "url": "https://doi.org/10.1504/ijims.2028.10076630",
+    "url": "https://doi.org/10.1504/ijil.2028.10079816",
     "pdf_url": null,
-    "doi": "10.1504/ijims.2028.10076630",
+    "doi": "10.1504/ijil.2028.10079816",
     "citations": 0,
-    "venue": "International Journal of Internet Manufacturing and Services",
+    "venue": "International Journal of Innovation and Learning",
     "open_access": false,
     "ai_summary": "No abstract available."
   },
@@ -701,24 +721,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.1504/ijaac.2028.10080905",
-    "title": "Innovative deep learning computational approach for wheat disease detection employing faster region-based convolutional neural network",
-    "abstract": "",
-    "authors": [
-      "Shikai Zhou"
-    ],
-    "published": "2028",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.1504/ijaac.2028.10080905",
-    "pdf_url": null,
-    "doi": "10.1504/ijaac.2028.10080905",
-    "citations": 0,
-    "venue": "International Journal of Automation and Control",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
     "id": "crossref:10.1504/ijbpm.2028.10081045",
     "title": "Evaluating teaching methods for mature learners: a mixed-methods investigation of learning preferences in higher education",
     "abstract": "",
@@ -743,6 +745,24 @@
     "ai_summary": "No abstract available."
   },
   {
+    "id": "crossref:10.1504/ijaac.2028.10080905",
+    "title": "Innovative deep learning computational approach for wheat disease detection employing faster region-based convolutional neural network",
+    "abstract": "",
+    "authors": [
+      "Shikai Zhou"
+    ],
+    "published": "2028",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.1504/ijaac.2028.10080905",
+    "pdf_url": null,
+    "doi": "10.1504/ijaac.2028.10080905",
+    "citations": 0,
+    "venue": "International Journal of Automation and Control",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
     "id": "crossref:10.1504/ijmlo.2028.10081000",
     "title": "Applications, immersion levels, research methods and findings on virtual reality for English-skill instruction: a systematic review and cross-tabulations analysis",
     "abstract": "",
@@ -760,26 +780,6 @@
     "doi": "10.1504/ijmlo.2028.10081000",
     "citations": 0,
     "venue": "International Journal of Mobile Learning and Organisation",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "crossref:10.1504/ijil.2028.10079816",
-    "title": "Inserting science: an interdisciplinary, hands-on lesson to enhance scientific literacy in marketing education",
-    "abstract": "",
-    "authors": [
-      "Emily M. Moscato",
-      "Ernest Baskin",
-      "Brian M. Forster"
-    ],
-    "published": "2028",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.1504/ijil.2028.10079816",
-    "pdf_url": null,
-    "doi": "10.1504/ijil.2028.10079816",
-    "citations": 0,
-    "venue": "International Journal of Innovation and Learning",
     "open_access": false,
     "ai_summary": "No abstract available."
   },
@@ -994,7 +994,7 @@
     "citations": 0,
     "venue": "Cognitive neurodynamics",
     "open_access": false,
-    "ai_summary": "The third neuron acts as a dynamic modulator, adjusting the synaptic strength between the other two units without invoking auxiliary astrocytic dynamics . The three gated coupling strengths engage in both cooperative and competitive interactions ."
+    "ai_summary": "The third neuron acts as a dynamic modulator, adjusting the synaptic strength between the other two units without invoking auxiliary astrocytic dynamics . The three coupling strengths engage in both cooperative and competitive interactions ."
   },
   {
     "id": "pubmed:42750674",
@@ -1591,6 +1591,51 @@
     "ai_summary": "No abstract available."
   },
   {
+    "id": "arxiv:2609.19145v1",
+    "title": "Objective vs. Search: Decomposing What Makes a Good Tokeniser",
+    "abstract": "Two dominant tokenisation algorithms are used by modern language models: byte-pair encoding (BPE) and UnigramLM. These differ along two orthogonal axes: their optimisation objective (compression vs. log-likelihood) and their search procedure (bottom-up merging vs. top-down pruning). Existing comparisons confound these axes, making it unclear whether their observed differences stem from what is being optimised vs. how it is being optimised. We disentangle the two by introducing two new tokenisation algorithms that complete this 2x2 design space: BottomUpLL, a bottom-up likelihood-based tokeniser, and TopDownComp, a top-down compression-based tokeniser. We train language models with tokenisers produced by each algorithm, varying: model size, vocabulary sizes, and domain (English-only vs. multilingual). Evaluating models on bits-per-byte, we find that the search procedure -- not the objective -- is the dominant factor: bottom-up tokenisers consistently achieve lower bits-per-byte in most settings. Evaluating models on the BLiMP task, however, shows no consistent relationship between design choice and performance. Overall, our results disentangle the effect of tokeniser design choices on language modelling performance, offering concrete guidance for their more principled construction.",
+    "authors": [
+      "Ahmetcan Yavuz",
+      "Clara Meister",
+      "Tiago Pimentel"
+    ],
+    "published": "2026-09-16",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2609.19145v1",
+    "pdf_url": "https://arxiv.org/pdf/2609.19145v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "Two dominant tokenisation algorithms are used by modern language models . They differ along two orthogonal axes: their optimisation objective (compression vs. log-likelihood) and their search procedure (bottom-up merging vs. top-down pruning)"
+  },
+  {
+    "id": "arxiv:2609.19142v1",
+    "title": "PointZero: 3D Point Track Completion for Learning Transferable 3D Dynamics",
+    "abstract": "World models endow perceptual systems with the ability to predict how scenes evolve under interaction. They are most beneficial when trained on diverse volumes of data, to instill a rich prior into downstream applications. Existing methods typically require robot action labels to learn action-conditioned 3D dynamics, which excludes web video data from the training pool. We study 3D point track completion as a pre-training objective for learning transferable 3D dynamics without robot data. Given a single RGB-D observation and sparse partial 3D trajectories (tracks), we predict future 3D tracks of all observed points. We show this objective produces a rich 3D dynamics prior, without requiring robot action labels. We contribute a diverse dataset of 2.9 million synthetic frames spanning deformable, articulated, and rigid objects, and use it to train PointZero. We show that a flexible and expressive transformer, PointZero, outperforms prior methods on the same data. We demonstrate the utility of our pre-training objective by post-training PointZero for two downstream applications: (1) action-conditioned 3D dynamics prediction and (2) imitation learning. When fine-tuned to condition on end-effector pose, PointZero outperforms the baselines on the recent PGND 3D dynamics benchmark. When fine-tuned to predict robot actions and 3D tracks, PointZero outperforms or matches the baselines on 6/7 simulated and real-world robot manipulation tasks. We furthermore evaluate training PointZero from scratch to isolate the benefits of our proposed architecture from those of our proposed pre-training objective and dataset. We release the dataset, checkpoints, and full training recipe.",
+    "authors": [
+      "Bardienus P. Duisterhof",
+      "Kaifeng Zhang",
+      "Adam Hung",
+      "Bowen Wen",
+      "Stan Birchfield",
+      "Yunzhu Li",
+      "Deva Ramanan",
+      "Jeffrey Ichnowski"
+    ],
+    "published": "2026-09-16",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2609.19142v1",
+    "pdf_url": "https://arxiv.org/pdf/2609.19142v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "3D point track completion as a pre-training objective for learning transferable 3D dynamics without robot data . We show that a flexible and expressive transformer, PointZero, outperforms prior methods on the same data ."
+  },
+  {
     "id": "arxiv:2609.19140v1",
     "title": "AgentLSD: Evaluating AI Security Agents Under Adversarial Task Contamination",
     "abstract": "AI agents for security inspect web pages, source code, logs, configuration files, and command outputs. These environments may contain deceptive artifacts that influence the agent's behavior. We call this adversarial task contamination. Whereas prompt injection relies on attacker-supplied instructions, task contamination also includes non-instructional evidence, such as fake results and decoy endpoints. We present AgentLSD, a controlled framework for studying adversarial task contamination. AgentLSD uses Capture the Flag (CTF) challenges as its experimental environment. We inject trap artifacts, such as fake flags, misleading hints, decoy endpoints, and hidden cues, while preserving the intended CTF solution. The framework supports paired clean and trap-augmented experiments with deterministic trap generation, runtime injection, telemetry, and delivery verification. We evaluate six models on 11 web CTF challenges. In the clean condition, agents capture 41% of the flags, and no model solves every challenge. We then measure the impact of task contamination. Even when the agent still recovers the flag, traps increase the number of turns (+20) and reasoning tokens (+2k). Solve-rate effects are more heterogeneous, as some model-challenge pairs are largely unaffected while others follow decoys or submit wrong flags. These results show that clean CTF performance understates vulnerability to deceptive task evidence. AgentLSD isolates this effect and provides a reproducible benchmark for studying it. We release the framework, configurations, trap specifications, and raw traces.",
@@ -1611,28 +1656,6 @@
     "venue": "arXiv preprint",
     "open_access": true,
     "ai_summary": "AgentLSD uses Capture the Flag (CTF) challenges as its experimental environment . We inject trap artifacts, such as fake flags, misleading hints, decoy endpoints, and hidden cues . In the clean condition, agents capture 41% of the flags, and no model solves every challenge ."
-  },
-  {
-    "id": "arxiv:2609.19143v1",
-    "title": "PANORAMA: Panoptic Grounded Captioning via Mask Proposal Selection",
-    "abstract": "Intelligent systems that act in the world require image understanding that is both comprehensive and spatially grounded. Current vision-language models (VLMs) can generate fluent and detailed image captions, but reliably associating them with image pixels remains challenging. Existing methods that combine dense captioning with pixel-level grounding often produce either incomplete descriptions or inaccurate segmentation masks. We study this problem through panoptic grounded captioning, a task that requires a VLM to describe both foreground objects and background regions while grounding each referring phrase with pixel-level masks. We make three contributions. First, we introduce PanoCaps, a human-annotated benchmark constructed from panoptic segmentation datasets. It provides dense captions with near-complete pixel coverage and image-text alignments at the entity level, supporting both training and evaluation. We further propose a phrase-mask matching protocol and a generalized Panoptic Quality (gPQ) metric that jointly evaluates textual and mask agreement. Second, we formulate phrase grounding as selection from a phrase-conditioned pool of mask proposals and introduce PANORAMA, a VLM that conditions a pretrained segmenter on contextualized phrase representations to obtain candidate masks and learns to select those corresponding to each phrase. Training this interface jointly with caption generation enables PANORAMA to produce high-quality masks while allowing each phrase to refer to a single region or multiple instances. Third, PANORAMA achieves the best overall grounding on PanoCaps and matches or exceeds specialized models across several pixel-level grounding tasks. Experiments show that our method produces precise entity-level segmentations while maintaining detailed, mask-consistent captions. Code, data and models are available at https://www.di.ens.fr/willow/research/panorama/.",
-    "authors": [
-      "Sara Pieri",
-      "Evangelos Kazakos",
-      "Shizhe Chen",
-      "Josef Sivic",
-      "Cordelia Schmid"
-    ],
-    "published": "2026-09-16",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2609.19143v1",
-    "pdf_url": "https://arxiv.org/pdf/2609.19143v1",
-    "doi": null,
-    "citations": 0,
-    "venue": "arXiv preprint",
-    "open_access": true,
-    "ai_summary": "Current vision-language models can generate fluent and detailed image captions, but reliably associating them with image pixels remains challenging . Existing methods that combine dense captioning with pixel-level grounding often produce incomplete descriptions or inaccurate segmentation masks . We study this problem through panoptic grounded captioning, a task that requires a VLM to"
   },
   {
     "id": "arxiv:2609.19144v1",
@@ -1656,24 +1679,26 @@
     "ai_summary": "ComPO is a zeroth-order alignment method based on comparison oracles . ComPO extracts directional information from these pairs without directly optimizing a differentiable preference loss on them . We also introduce online ComPO, which retains the offline comparison mechanism ."
   },
   {
-    "id": "arxiv:2609.19145v1",
-    "title": "Objective vs. Search: Decomposing What Makes a Good Tokeniser",
-    "abstract": "Two dominant tokenisation algorithms are used by modern language models: byte-pair encoding (BPE) and UnigramLM. These differ along two orthogonal axes: their optimisation objective (compression vs. log-likelihood) and their search procedure (bottom-up merging vs. top-down pruning). Existing comparisons confound these axes, making it unclear whether their observed differences stem from what is being optimised vs. how it is being optimised. We disentangle the two by introducing two new tokenisation algorithms that complete this 2x2 design space: BottomUpLL, a bottom-up likelihood-based tokeniser, and TopDownComp, a top-down compression-based tokeniser. We train language models with tokenisers produced by each algorithm, varying: model size, vocabulary sizes, and domain (English-only vs. multilingual). Evaluating models on bits-per-byte, we find that the search procedure -- not the objective -- is the dominant factor: bottom-up tokenisers consistently achieve lower bits-per-byte in most settings. Evaluating models on the BLiMP task, however, shows no consistent relationship between design choice and performance. Overall, our results disentangle the effect of tokeniser design choices on language modelling performance, offering concrete guidance for their more principled construction.",
+    "id": "arxiv:2609.19143v1",
+    "title": "PANORAMA: Panoptic Grounded Captioning via Mask Proposal Selection",
+    "abstract": "Intelligent systems that act in the world require image understanding that is both comprehensive and spatially grounded. Current vision-language models (VLMs) can generate fluent and detailed image captions, but reliably associating them with image pixels remains challenging. Existing methods that combine dense captioning with pixel-level grounding often produce either incomplete descriptions or inaccurate segmentation masks. We study this problem through panoptic grounded captioning, a task that requires a VLM to describe both foreground objects and background regions while grounding each referring phrase with pixel-level masks. We make three contributions. First, we introduce PanoCaps, a human-annotated benchmark constructed from panoptic segmentation datasets. It provides dense captions with near-complete pixel coverage and image-text alignments at the entity level, supporting both training and evaluation. We further propose a phrase-mask matching protocol and a generalized Panoptic Quality (gPQ) metric that jointly evaluates textual and mask agreement. Second, we formulate phrase grounding as selection from a phrase-conditioned pool of mask proposals and introduce PANORAMA, a VLM that conditions a pretrained segmenter on contextualized phrase representations to obtain candidate masks and learns to select those corresponding to each phrase. Training this interface jointly with caption generation enables PANORAMA to produce high-quality masks while allowing each phrase to refer to a single region or multiple instances. Third, PANORAMA achieves the best overall grounding on PanoCaps and matches or exceeds specialized models across several pixel-level grounding tasks. Experiments show that our method produces precise entity-level segmentations while maintaining detailed, mask-consistent captions. Code, data and models are available at https://www.di.ens.fr/willow/research/panorama/.",
     "authors": [
-      "Ahmetcan Yavuz",
-      "Clara Meister",
-      "Tiago Pimentel"
+      "Sara Pieri",
+      "Evangelos Kazakos",
+      "Shizhe Chen",
+      "Josef Sivic",
+      "Cordelia Schmid"
     ],
     "published": "2026-09-16",
     "source": "arXiv",
     "category": "preprint",
-    "url": "https://arxiv.org/abs/2609.19145v1",
-    "pdf_url": "https://arxiv.org/pdf/2609.19145v1",
+    "url": "https://arxiv.org/abs/2609.19143v1",
+    "pdf_url": "https://arxiv.org/pdf/2609.19143v1",
     "doi": null,
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "Two dominant tokenisation algorithms are used by modern language models . They differ along two orthogonal axes: their optimisation objective (compression vs. log-likelihood) and their search procedure (bottom-up merging vs. top-down pruning)"
+    "ai_summary": "Current vision-language models can generate fluent and detailed image captions, but reliably associating them with image pixels remains challenging . Existing methods that combine dense captioning with pixel-level grounding often produce incomplete descriptions or inaccurate segmentation masks . We study this problem through panoptic grounded captioning, a task that requires a VLM to"
   },
   {
     "id": "arxiv:2609.19138v1",
@@ -1706,31 +1731,6 @@
     "venue": "arXiv preprint",
     "open_access": true,
     "ai_summary": "GPT-Policy is a general-agent framework for in-context robot learning . It integrates a context compiler that preserves task-relevant visual transitions, a VLM that proposes robot-tool actions, and a constrained controlle ."
-  },
-  {
-    "id": "arxiv:2609.19142v1",
-    "title": "PointZero: 3D Point Track Completion for Learning Transferable 3D Dynamics",
-    "abstract": "World models endow perceptual systems with the ability to predict how scenes evolve under interaction. They are most beneficial when trained on diverse volumes of data, to instill a rich prior into downstream applications. Existing methods typically require robot action labels to learn action-conditioned 3D dynamics, which excludes web video data from the training pool. We study 3D point track completion as a pre-training objective for learning transferable 3D dynamics without robot data. Given a single RGB-D observation and sparse partial 3D trajectories (tracks), we predict future 3D tracks of all observed points. We show this objective produces a rich 3D dynamics prior, without requiring robot action labels. We contribute a diverse dataset of 2.9 million synthetic frames spanning deformable, articulated, and rigid objects, and use it to train PointZero. We show that a flexible and expressive transformer, PointZero, outperforms prior methods on the same data. We demonstrate the utility of our pre-training objective by post-training PointZero for two downstream applications: (1) action-conditioned 3D dynamics prediction and (2) imitation learning. When fine-tuned to condition on end-effector pose, PointZero outperforms the baselines on the recent PGND 3D dynamics benchmark. When fine-tuned to predict robot actions and 3D tracks, PointZero outperforms or matches the baselines on 6/7 simulated and real-world robot manipulation tasks. We furthermore evaluate training PointZero from scratch to isolate the benefits of our proposed architecture from those of our proposed pre-training objective and dataset. We release the dataset, checkpoints, and full training recipe.",
-    "authors": [
-      "Bardienus P. Duisterhof",
-      "Kaifeng Zhang",
-      "Adam Hung",
-      "Bowen Wen",
-      "Stan Birchfield",
-      "Yunzhu Li",
-      "Deva Ramanan",
-      "Jeffrey Ichnowski"
-    ],
-    "published": "2026-09-16",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2609.19142v1",
-    "pdf_url": "https://arxiv.org/pdf/2609.19142v1",
-    "doi": null,
-    "citations": 0,
-    "venue": "arXiv preprint",
-    "open_access": true,
-    "ai_summary": "3D point track completion as a pre-training objective for learning transferable 3D dynamics without robot data . We show that a flexible and expressive transformer, PointZero, outperforms prior methods on the same data ."
   },
   {
     "id": "arxiv:2609.19137v1",
@@ -2668,7 +2668,7 @@
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "Privacy evaluations of tool-using LLM agents often inspect a designated action, final response, or attacker report . Local proxies can miss unauthorized exposure elsewhere in a multi-step session and lack common ground truth across outlets, reports, and tool paths . An expected-outlet-only view misses 46.9% of exposure recovered by"
+    "ai_summary": "Privacy evaluations of tool-using LLM agents often inspect a designated action, final response, or attacker report . These local proxies can miss unauthorized exposure elsewhere in a multi-step session and lack common ground truth across outlets, reports, and tool paths ."
   },
   {
     "id": "arxiv:2609.18863v1",
