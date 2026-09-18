@@ -89,22 +89,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.21825/ewopinpractice.94702",
-    "title": "Title Pending 94702",
-    "abstract": "",
-    "authors": [],
-    "published": "2035",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.21825/ewopinpractice.94702",
-    "pdf_url": null,
-    "doi": "10.21825/ewopinpractice.94702",
-    "citations": 0,
-    "venue": "EWOP in Practice",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
     "id": "crossref:10.21825/ewopinpractice.94703",
     "title": "Title Pending 94703",
     "abstract": "",
@@ -118,6 +102,22 @@
     "citations": 0,
     "venue": "EWOP in Practice",
     "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "crossref:10.21825/ewopinpractice.94702",
+    "title": "Title Pending 94702",
+    "abstract": "",
+    "authors": [],
+    "published": "2035",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.21825/ewopinpractice.94702",
+    "pdf_url": "https://openjournals.ugent.be/ewopinpractice/article/id/94702/download/pdf/",
+    "doi": "10.21825/ewopinpractice.94702",
+    "citations": 0,
+    "venue": "EWOP in Practice",
+    "open_access": true,
     "ai_summary": "No abstract available."
   },
   {
@@ -426,6 +426,27 @@
     "ai_summary": "Kinovea is an accessible motion-analysis software . It provides both visual and quantitative feedback . However, its application in supporting technique development among beginner athletes remains insufficiently explored ."
   },
   {
+    "id": "crossref:10.5705/ss.202025.0314",
+    "title": "Transfer Learning for High-dimensional Regression with Compositional Covariates: Application to Microbiome Studies",
+    "abstract": "",
+    "authors": [
+      "Qinqin Hu",
+      "Xiaojing Luo",
+      "Chencheng Ma",
+      "Wang Zhou"
+    ],
+    "published": "2029",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.5705/ss.202025.0314",
+    "pdf_url": null,
+    "doi": "10.5705/ss.202025.0314",
+    "citations": 0,
+    "venue": "Statistica Sinica",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
     "id": "crossref:10.5705/ss.202025.0275",
     "title": "Efficient Learning of Sparse Differential Networks in Multi-Source Non-Paranormal Models",
     "abstract": "",
@@ -484,27 +505,6 @@
     "citations": 0,
     "venue": "Statistica Sinica",
     "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "crossref:10.5705/ss.202025.0314",
-    "title": "Transfer Learning for High-dimensional Regression with Compositional Covariates: Application to Microbiome Studies",
-    "abstract": "",
-    "authors": [
-      "Qinqin Hu",
-      "Xiaojing Luo",
-      "Chencheng Ma",
-      "Wang Zhou"
-    ],
-    "published": "2029",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.5705/ss.202025.0314",
-    "pdf_url": null,
-    "doi": "10.5705/ss.202025.0314",
-    "citations": 0,
-    "venue": "Statistica Sinica",
-    "open_access": false,
     "ai_summary": "No abstract available."
   },
   {
@@ -622,26 +622,6 @@
     "ai_summary": "The chapter considers the rapid migration to digital learning as an emergency strategy . The findings show that the ability of national programmes such as NEP 2020, SWAYAM, DIKSHA, PM e-VIDYA, and others, to promote access to digital tools was low within periphery or hill areas ."
   },
   {
-    "id": "crossref:10.55737/qjss.vii-i.26473",
-    "title": "The Nexus of Leadership and Learning: Exploring Female Principals' Influence on the Teaching-Learning Process in Secondary Schools",
-    "abstract": "<jats:p>The research paper will set out to debate the role played by the leadership competencies of principals in the teaching and learning process. The research will embrace a quantitative research design that will seek to answer the question concerning the relationship that exists between leadership skills of possessed by the  principals and the ongoing teaching-learning process in the female secondary schools using a co-relational study design. A survey instrument comprising of 37 items, which measured the leadership skills possessed by the selected principals and the prevailing teaching learning process, was used in the collection of data. Questionnaires for this study were administered to 108 male and female educators who were serving in secondary schools in Tehsil Wari, upper Dir and among them 100 questionnaires were submitted and were deemed to be useful in the analysis. The data in hand were calculated using Statistical Package of the Social Sciences (SPSS) version-27 and the obtained results indicated that the collected data was normally distributed. The findings revealed that all the variables of the study had great correlations. The analysis of the data was done through linear regression to measure the effect that the leadership skills of the principals had on the teaching learning process and this indicated that leadership skills of the principals have statistically significant effect on the teaching learning process. The policies derived out of this research can be a good guide to both the policymakers and organizational leaders because they can provide a good outline on how to empower the leaders in charge of the principals and as well as exert more influence on the effective teaching and learning processes.</jats:p>",
-    "authors": [
-      "Muhammad Niqab",
-      "Salma Tabbasum",
-      "Shakil Ahmad"
-    ],
-    "published": "2028",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.55737/qjss.vii-i.26473",
-    "pdf_url": null,
-    "doi": "10.55737/qjss.vii-i.26473",
-    "citations": 0,
-    "venue": "Qlantic Journal of Social Sciences",
-    "open_access": false,
-    "ai_summary": "Research paper will debate role played by principals in teaching and learning process . Research will embrace a quantitative research design that will seek to answer the question about the relationship between leadership skills of principals and teaching-learning process ."
-  },
-  {
     "id": "crossref:10.1504/ijims.2028.10076630",
     "title": "Left Ventricle Extraction Using a DENSENET-U-Net Integrated Deep Learning Approach",
     "abstract": "",
@@ -661,6 +641,26 @@
     "venue": "International Journal of Internet Manufacturing and Services",
     "open_access": false,
     "ai_summary": "No abstract available."
+  },
+  {
+    "id": "crossref:10.55737/qjss.vii-i.26473",
+    "title": "The Nexus of Leadership and Learning: Exploring Female Principals' Influence on the Teaching-Learning Process in Secondary Schools",
+    "abstract": "<jats:p>The research paper will set out to debate the role played by the leadership competencies of principals in the teaching and learning process. The research will embrace a quantitative research design that will seek to answer the question concerning the relationship that exists between leadership skills of possessed by the  principals and the ongoing teaching-learning process in the female secondary schools using a co-relational study design. A survey instrument comprising of 37 items, which measured the leadership skills possessed by the selected principals and the prevailing teaching learning process, was used in the collection of data. Questionnaires for this study were administered to 108 male and female educators who were serving in secondary schools in Tehsil Wari, upper Dir and among them 100 questionnaires were submitted and were deemed to be useful in the analysis. The data in hand were calculated using Statistical Package of the Social Sciences (SPSS) version-27 and the obtained results indicated that the collected data was normally distributed. The findings revealed that all the variables of the study had great correlations. The analysis of the data was done through linear regression to measure the effect that the leadership skills of the principals had on the teaching learning process and this indicated that leadership skills of the principals have statistically significant effect on the teaching learning process. The policies derived out of this research can be a good guide to both the policymakers and organizational leaders because they can provide a good outline on how to empower the leaders in charge of the principals and as well as exert more influence on the effective teaching and learning processes.</jats:p>",
+    "authors": [
+      "Muhammad Niqab",
+      "Salma Tabbasum",
+      "Shakil Ahmad"
+    ],
+    "published": "2028",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.55737/qjss.vii-i.26473",
+    "pdf_url": null,
+    "doi": "10.55737/qjss.vii-i.26473",
+    "citations": 0,
+    "venue": "Qlantic Journal of Social Sciences",
+    "open_access": false,
+    "ai_summary": "Research paper will debate role played by principals in teaching and learning process . Research will embrace a quantitative research design that will seek to answer the question about the relationship between leadership skills of principals and teaching-learning process ."
   },
   {
     "id": "crossref:10.1504/ijil.2028.10079816",
@@ -878,118 +878,224 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "pubmed:42755386",
-    "title": "Enhanced and Optimized Production of Cellulase Using Trichoderma harzianum through the Utilization of Pretreated Lignocellulosic Wastes: Purification, Characterization, and Industrial Applications.",
-    "abstract": "In the current study, various Aspergillus and Trichoderma strains were explored to produce cellulase using a variety of agricultural wastes as cheaper substrates. Among the tested strains, Trichoderma harzianum exhibited the highest enzyme activity (84.0 FPU/mL) when grown on alkali-pretreated sugarcane bagasse after purification. Out of three substrates, pretreated sugarcane bagasse consistently resulted in higher cellulase activity (42.05 FPU/mL) as compared to wheat straw (26.5 FPU/mL) and wheat bran (16.7 FPU/mL) across all tested strains due to its high cellulose/hemicellulose content and low lignin levels in proximate analysis. Central Composite Design Response Surface Methodology was employed in Minitab software to optimize solid-state fermentation parameters, achieving 76.2 FPU/mL activity in T. harzianum at pH 5.5, 28°C, 68% moisture, 0.5 mL inoculum, 5 g substrate with 5 days' incubation time as compared to Aspergillus fumigatus (57.2 FPU/mL). Stepwise ammonium sulfate precipitation (60%-80%) followed by dialysis and gel chromatography increased specific activity to 84.00 FPU/mg, with a purification fold of 5.51 and a 22.0% yield, whereas SDS-PAGE further confirmed enzyme homogeneity. The purified cellulase exhibited maximum relative activity at 50°C and pH 4 in the characterization study. The activity was strongly inhibited by Hg",
+    "id": "pubmed:42758144",
+    "title": "Integrating Multi-Modal Biological Knowledge via Contrastive Dual-View Graph Learning for Phosphorylation Site-Disease Association Prediction.",
+    "abstract": "Accurately characterizing the associations between phosphorylation sites (psites) and diseases is essential for elucidating pathogenic mechanisms and guiding therapeutic discovery. However, existing computational approaches for phosphorylation site-disease association (PDA) prediction remain limited, as they often overlook the integration of biological knowledge across multiple modalities. We propose CDVGL-PDA, a contrastive dual-view graph learning framework for PDA prediction. Specifically, we construct a multi-modal heterogeneous graph encompassing nine node types and ten edge types, enabling comprehensive representation of phosphorylation-centric biological networks. For phosphorylation site nodes, CDVGL-PDA incorporates sequence-derived embeddings, while disease nodes are initialized with semantic features from BioBERT. The framework then performs dual-view heterogeneous graph encoding, aligns representations through contrastive learning, and adaptively integrates them via attention-based fusion to capture informative embeddings. Extensive evaluations demonstrate CDVGL-PDA's strong predictive performance across balanced, imbalanced, and low-similarity datasets. Analysis of embeddings reveals that the model effectively captures latent biological relationships. Ablation and visualization studies validate the contributions of each module, while case studies highlight its ability to uncover potential PDAs, illustrating its promise for advancing disease mechanism research and therapeutic target discovery. The source code and datasets for CDVGL-PDA are publicly available in the GitHub repository at https://github.com/ljquanlab/CDVGL-PDA/. Supplementary data are available at Bioinformatics online.",
     "authors": [
-      "Hifza Rahat",
-      "Ieshmal M Hashmi",
-      "Sarwat Ismail",
-      "Duaa Qaiser",
-      "Sibtain Ahmed",
-      "Tahir Mehmood"
+      "Xiangyu Chen",
+      "Lijun Quan",
+      "Yexuan Mao",
+      "Siyuan Wang",
+      "Guozheng Zhang",
+      "Siqi Li",
+      "Yelu Jiang",
+      "Liangpeng Nie",
+      "Tingfang Wu",
+      "Qiang Lyu"
+    ],
+    "published": "2026-Sep-18",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42758144/",
+    "pdf_url": null,
+    "doi": "10.1093/bioinformatics/btag690",
+    "citations": 0,
+    "venue": "Bioinformatics (Oxford, England)",
+    "open_access": false,
+    "ai_summary": "PDA prediction is essential for elucidating pathogenic mechanisms and guiding therapeutic discovery . We propose CDVGL-PDA, a contrastive dual-view graph learning framework for PDA prediction ."
+  },
+  {
+    "id": "pubmed:42758138",
+    "title": "VirPLM: Antigenic prediction of influenza A/H3N2 viruses with a fine-tuned protein language model.",
+    "abstract": "Human influenza A/H3N2 viruses undergo rapid antigenic evolution primarily driven by the hemagglutinin subunit 1 (HA1). Within HA1, amino acid substitutions under immune pressure cause antigenic drift, necessitating frequent updates to vaccine strains. While hemagglutination inhibition (HI) assays remain the gold standard for assessing antigenic relationships, their labor-intensive and low-throughput nature limits scalability. Fortunately, the rapid accumulation of HA1 sequences enables sequence-based antigenic prediction, yet effectively extracting informative representations from these viral sequences remains challenging. In this study, we present VirPLM, a two-stage framework that adapts the ESM-2 protein language model to H3N2 HA1 sequences for antigenic prediction. VirPLM significantly outperforms representative methods and maintains robust performance under both cross-validation and retrospective time-split evaluations. Moreover, VirPLM identifies highly critical sites enriched in known regions related to antigenic evolution. In the season-specific coverage analysis, VirPLM-prioritized strains achieve higher estimated coverage rates than the corresponding historical strains recommended by the World Health Organization in most evaluated seasons, suggesting that VirPLM can provide complementary sequence-based evidence for candidate strain prioritization. The source code is available at https://github.com/xingyili/VirPLM, and the version used in this study is archived in Zenodo (DOI: 10.5281/zenodo.21650323). Supplementary information is available at Bioinformatics online.",
+    "authors": [
+      "Xingyi Li",
+      "Kexin Xiao",
+      "Chunyan Zhou",
+      "Xiangting Jia",
+      "Dongmin Zhao",
+      "Jialuo Xu",
+      "Xianying Zeng",
+      "Jianzhong Shi",
+      "Xuequn Shang",
+      "Junnan Zhu",
+      "Huihui Kong"
+    ],
+    "published": "2026-Sep-18",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42758138/",
+    "pdf_url": null,
+    "doi": "10.1093/bioinformatics/btag692",
+    "citations": 0,
+    "venue": "Bioinformatics (Oxford, England)",
+    "open_access": false,
+    "ai_summary": "Human influenza A/H3N2 viruses undergo rapid antigenic evolution . Within HA1, amino acid substitutions under immune pressure cause antigenic drift . While hemagglutination inhibition (HI) assays remain the gold standard for assessing antigenic relationships ."
+  },
+  {
+    "id": "pubmed:42758137",
+    "title": "Improving Lipid Identification and Quantification: Chromatogram Deconvolution for LC-MS/MS Workflows.",
+    "abstract": "Lipidomics relies on mass spectrometry-based workflows to identify and quantify complex lipid species. Due to the modular architecture of lipids, including headgroups, backbones, and fatty acyl chains, distinct precursor ions often produce isobaric or identical fragment ions. This problem is amplified in data-independent acquisition (DIA), where wide isolation windows (e.g., 25 Da) allow co-eluting precursors with different m/z values to generate highly chimeric MS/MS spectra. Consequently, fragments originating from multiple precursors, including isobars, isomers, and lipid-class-specific ions, are merged into a single MS/MS spectrum. Current lipid identification strategies often process such chimeric spectra in an uncontrolled manner, assigning them to one or more candidate lipids, thereby increasing false-positive identifications. Here, we introduce an algorithm that deconvolutes chimeric MS/MS spectra and chromatograms by exploiting their temporal correlation with associated precursor chromatographic profiles, independent of elution peak shape. Using simulated and real experimental lipidomics data, we demonstrate that this approach substantially improves lipid fragment assignment, reduces false-positive identifications, and enables more reliable fragment-level quantification, leading to more robust downstream statistical analyses and biological interpretations. Source code of the software library: GitLab (Apache 2.0 License): https://gitlab.com/computational-multiomics/mixture-model-deconvolution; Data: Zenodo (Apache 2.0 License): https://doi.org/10.5281/zenodo.21218594. Supplementary data are available at Bioinformatics online.",
+    "authors": [
+      "Felix Niedermaier",
+      "Denise Wolrab-Frühauf",
+      "Robert Ahrends",
+      "Dominik Kopczynski"
+    ],
+    "published": "2026-Sep-18",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42758137/",
+    "pdf_url": null,
+    "doi": "10.1093/bioinformatics/btag695",
+    "citations": 0,
+    "venue": "Bioinformatics (Oxford, England)",
+    "open_access": false,
+    "ai_summary": "Lipidomics relies on mass spectrometry-based workflows to identify and quantify complex lipid species . Due to the modular architecture of lipids, distinct precursor ions often produce isobaric or identical fragment ions . This problem is amplified in data-independent acquisition (DIA)"
+  },
+  {
+    "id": "pubmed:42758128",
+    "title": "The power of theory in the life sciences.",
+    "abstract": "The rapid growth of high-throughput biology and genomics over the past two decades has helped catalogue many different aspects of gene function in diverse cell types and conditions. More recently, advances in artificial intelligence and deep learning have shown tremendous promise in making accurate predictions of functional genomics measurements. These advances make it tempting to equate experimental cataloguing and accurate prediction with the growth of our theoretical understanding of biological processes - an equivalence we believe is ultimately misleading.",
+    "authors": [
+      "Jacob L Fine",
+      "Finn Creeggan",
+      "Joshua Gertsvolf",
+      "Purav Gupta",
+      "Adam M R Groh"
+    ],
+    "published": "2026-Sep-18",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42758128/",
+    "pdf_url": null,
+    "doi": "10.7554/eLife.112987",
+    "citations": 0,
+    "venue": "eLife",
+    "open_access": false,
+    "ai_summary": "The rapid growth of high-throughput biology and genomics over the past two decades has helped catalogue many different aspects of gene function in diverse cell types and conditions ."
+  },
+  {
+    "id": "pubmed:42758123",
+    "title": "Developing SCL2205: A Protein Sequence-based Spatial Modelling Dataset for the Protein Language Model Frontier.",
+    "abstract": "Deep learning (DL) has substantially advanced protein subcellular localisation (SCL) prediction, yet its potential remains constrained by suboptimal input preparation and limited high-quality reference data. Furthermore, existing state-of-the-art (SoTA) predictors suffer from performance metric inflation due to unmitigated training-to-testing data leakage during homology augmentation. We address these challenges by introducing SCL2205, a leak-minimised benchmark dataset and pipeline curated specifically to support trustworthy, scalable, and reproducible DL-based SCL modelling. SCL2205 was constructed from the universal protein knowledgebase (UniProtKB) using rigorous preprocessing, manual label mapping, and stringent partitioning. When evaluated on independent test sets, SCL2205 yielded up to a 10.8 percentage point improvement in macro area under the precision-recall curve (PR-AUC) over SoTA baselines (mean Δ  95% CI=0.07-0.12 ), with maximum benefits observed when paired with modern protein language models (PLMs). Crucially, we quantify for the first time a systemic 5.2%±0.32 data leakage rate in conventional homology augmentation workflows-even when restricting sequence similarity searches to just 10% of the training set. The dataset is openly available on Dryad under a CC0 1.0 Universal licence (https://doi.org/10.5061/dryad.2ngf1vj1t). The dataset interface is available as an installable Python package, p-scldata (v2026.2.0), under the MIT licence on the Python Package Index (PyPI). Full code and data repositories are hosted on GitHub (https://github.com/ousodaniel/scldata) and archived on Zenodo (https://doi.org/10.5281/zenodo.21796423). Supplementary File S1 contains code snippets, per-class PR-AUC breakdowns, class prevalence details, statistical comparison tests, and supplementary figures. Supplementary File S2 contains the exact mapping used in curation.",
+    "authors": [
+      "Daniel Ouso",
+      "Gianluca Pollastri"
+    ],
+    "published": "2026-Sep-18",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42758123/",
+    "pdf_url": null,
+    "doi": "10.1093/bioinformatics/btag666",
+    "citations": 0,
+    "venue": "Bioinformatics (Oxford, England)",
+    "open_access": false,
+    "ai_summary": "Deep learning (DL) has substantially advanced protein subcellular localisation (SCL) prediction, yet its potential remains constrained by suboptimal input preparation and limited high-quality reference data . SCL2205 was constructed from the universal protein knowledgebase (UniProtKB) using rigorous preprocessing, manual label mapping, and stringent partitioning"
+  },
+  {
+    "id": "pubmed:42758091",
+    "title": "Beyond the drug-centric view: Advancing AI virtual cell platforms for environmental perturbation modelling.",
+    "abstract": "Environmental exposures contribute substantially to global morbidity and mortality, with their biological effects shaped by factors such as dose, exposure duration, life-stage timing, and cumulative or sequential exposure patterns. With rapid advances in AI based virtual cell (VC) technologies, current frameworks emphasize genet-ic and pharmacological perturbations, leaving environmental perturbations insufficiently modelled. This imbal-ance is due to fundamental structural limitations in data availability, chemical space coverage, and representa-tional design, as well as lacking standardized annotation of dose, timing and mixtures, which are core deter-minants of environmental perturbations. This review argues that incorporating environmental perturbations as a foundational component of virtual cell development is necessary to extend these models toward environ-mental and public health applications. We review the evolution of these perturbation predictive models from mathematical models to deep learning and foundation model architectures, evaluate the status of virtual cell efforts across genomic, transcriptomic, proteomic, metabolomic and phenomic modalities, and show the sys-tematic gaps that currently limit their applicability to environmental health. We outline key challenges, includ-ing data scarcity and bias, inadequate representation of environmental perturbations, limited multimodal inte-gration, and weak benchmarking practices. To address these issues, we propose the development of stand-ardized environmental perturbation datasets, integrated and standalone multimodal architectures, uncertainty-aware evaluation metrics, and regulatory-aligned benchmarking frameworks which are all geared toward ad-vancing in silico perturbation and non-animal testing, promoting the 3Rs paradigm. Artificial intelligence (AI) is increasingly being used to create “virtual cells” that can predict how human cells respond to drugs and other biological changes. Most current efforts focus on pharmaceutical applications and largely overlook the environmental exposures that influence health throughout life. We discuss current ad-vances, key challenges, and opportunities for integrating environmental perturbations into AI-driven biological models. This article argues that future virtual cell systems should explicitly account for the domain-specific characteristics of environmental perturbations, including chemicals, pollutants, and other stressors. More predictive and human-relevant virtual cell platforms could reduce reliance on animal testing by complementing or replacing some traditional experimental approaches. Incorporating environmental exposures into virtual cells may therefore advance both public health protection and the 3Rs principles of replacement, reduction, and refinement of animal use in research.",
+    "authors": [
+      "Daniel Ukaegbu",
+      "Victor Curean",
+      "Andreas Bender",
+      "Alexandra Maertens"
     ],
     "published": "2026-Sep-17",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42755386/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42758091/",
     "pdf_url": null,
-    "doi": "10.1002/bab.70207",
+    "doi": "10.14573/altex.2606062",
     "citations": 0,
-    "venue": "Biotechnology and applied biochemistry",
+    "venue": "ALTEX",
     "open_access": false,
-    "ai_summary": "Trichoderma harzianum exhibited the highest enzyme activity (84.0 FPU/mL) when grown on alkali-pretreated sugarcane bagasse after purification ."
+    "ai_summary": "With rapid advances in AI based virtual cell (VC) technologies, current frameworks emphasize genet-ic and pharmacological perturbations . This is due to fundamental structural limitations in data availability, chemical space coverage, and representa-tional design, as well as lacking standardized annotation of dose, timing and mixtures ."
   },
   {
-    "id": "pubmed:42755371",
-    "title": "CiliaIO: Machine learning reveals spatial patterns of cilia beating dynamics in the zebrafish spinal cord.",
-    "abstract": "Motile cilia generate fluid flows that are essential for normal development and physiology. Cilia display diverse beating waveforms, and while pronounced defects are strongly associated with motile ciliopathies, subtler alterations also influence disease manifestations. Finer quantification of ciliary dynamics is therefore critical for understanding ciliopathies, but the heterogeneity of cilia beating makes accurate and robust characterization challenging. Here, we present CiliaIO, a machine learning-based tool for quantification of motile cilia morphodynamics. Using this platform, we discovered subtle but highly significant regional differences in ciliary waveforms in the zebrafish spinal cord. To demonstrate the tool's efficacy, we used CiliaIO to capture and quantify subtle ciliary defects in a novel bbs2 allele that causes a late-onset scoliosis phenotype. These results provide a workflow for additional fine-scale analyses of ciliary morphodynamics that will be important for understanding motile ciliopathy.",
+    "id": "pubmed:42758084",
+    "title": "Purpose in Life Among Older Adults: A Machine Learning Analysis of Potential Predictors.",
+    "abstract": "A sense of purpose is a central component of mental well-being in older adulthood. Although many predictors of purpose have been identified, most studies have considered a limited set, leaving their relative importance unclear. The present study addressed this gap by examining a large set of psychological, social, and demographic variables in a nationally representative sample of U.S. adults from the Health and Retirement Study. Extreme Gradient Boosting (XGBoost) was used to evaluate 47 predictors. Self-esteem emerged as the strongest predictor, followed by positive affect. The leading predictors were organized into six domains: adaptive self-related beliefs, affective well-being, perceived control, optimism, social engagement, and spirituality/religiosity. Demographic variables were less predictive overall. These findings indicate that individual differences in purpose are associated with a broad set of psychological resources involving self-regulation, interpersonal processes, optimism, and positive affect.",
     "authors": [
-      "Ece Atayeter",
-      "Jason Ho",
-      "Talon G Blottin",
-      "Ilyena B Joe",
-      "Ron Sistrunk",
-      "Bo Zhang",
-      "Lilianna Solnica Krezel",
-      "Andreas Gerstlauer",
-      "John B Wallingford",
-      "Ryan S Gray"
+      "Mohsen Joshanloo"
     ],
     "published": "2026-Sep-18",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42755371/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42758084/",
     "pdf_url": null,
-    "doi": "10.1242/dev.206057",
+    "doi": "10.1177/07334648261490460",
     "citations": 0,
-    "venue": "Development (Cambridge, England)",
+    "venue": "Journal of applied gerontology : the official journal of the Southern Gerontological Society",
     "open_access": false,
-    "ai_summary": "CiliaIO is a machine learning-based tool for quantification of motile cilia morphodynamics . It captures and quantify subtle ciliary defects in a novel bbs2 allele that causes a late-onset scoliosis phenotype ."
+    "ai_summary": "A sense of purpose is a central component of mental well-being in older adulthood . The study examined a large set of psychological, social, and demographic variables . Self-esteem emerged as the strongest predictor, followed by positive affect ."
   },
   {
-    "id": "pubmed:42755343",
-    "title": "Can't see the forest for the trees? Statistical considerations for disease macroecology.",
-    "abstract": "Disease macroecology relies on large, complex datasets to understand the biotic and abiotic factors shaping parasite distributions and emerging infectious disease risk. These datasets span local to global host-parasite interactions and often integrate diverse host or parasite traits across evolutionary histories. Selecting appropriate statistical approaches requires first asking key questions about the study system: How well is the system understood? How important is predictor accuracy? How much bias is present in the data? We outline three broad analytical pathways commonly used in disease macroecology (frequentist models, Bayesian approaches, and machine learning) and link them to typical data contexts, providing R coding examples using current packages. We emphasise that these pathways are intended as flexible guidelines rather than prescriptive frameworks. Although more advanced approaches have grown in popularity over the last three decades, traditional significance tests remain widely used. While these tests remain appropriate for well-controlled or small-scale experimental systems, they are often unsuitable for complex ecological datasets, where violations of assumptions, hierarchical structure, and sampling biases can lead to unstable or difficult-to-reproduce inferences. We advocate for reporting biologically meaningful predictors, effect sizes, measures of uncertainty, and transparent analytical workflows. By explicitly linking common data challenges in disease macroecology to their consequences for model choice and inference, we encourage more reproducible, transparent, and context-appropriate statistical practices for understanding and forecasting parasite distributions and emerging disease risks.",
+    "id": "pubmed:42758072",
+    "title": "Automated Classification of Radiation Oncology Safety Events Using Large Language Models: A Novel Approach to Streamline Reporting and Enable Retrospective Analysis.",
+    "abstract": "This study aims to evaluate the feasibility of using a large language model (LLM) to automate the classification of radiation oncology safety events and to outline a framework for future reporting systems that leverage artificial intelligence (AI)-assisted workflows. Retrospective safety event data were extracted from our institutional reporting system and processed using Python scripts for deidentification and formatting. GPT-5 (OpenAI) was accessed via an application programming interface and refined through iterative prompt engineering (a natural language process that does not modify model parameters) to classify incidents across multiple dimensions, including failure mode, severity, treatment type, discoverer's role, exclusion criteria, and occurring/discovering workflow stages. The model's performance was validated by three independent, blinded expert reviewers, with inter-rater agreement quantified using Cohen's κ. On a blinded 80-incident validation set, the model's classification fell within the experts' group-accepted answer in 67.9% of dimension-level comparisons on average (96.2% for the inclusion decision; 85.3% for treatment type and 76.6% for occurred workflow). Agreement between the model and individual reviewers (mean Cohen's κ = 0.31) was comparable to agreement among the reviewers themselves (mean κ = 0.42), indicating performance approaching that of an independent expert. Severity scoring showed the greatest variability for both the model and the human reviewers (model-reviewer κ = 0.14; inter-reviewer κ = 0.22), highlighting it as the primary area for improvement. The comparable model-expert and expert-expert agreement supported the application of the model to full data set analysis without further optimization. LLM-based classification demonstrates strong potential for automating retrospective safety event tagging and streamlining future reporting workflows. In a proposed future system, staff would only need to provide a detailed narrative description while the AI model performs classification and prompts for human validation when uncertainty arises. This hybrid approach can improve efficiency, consistency, and scalability in radiation oncology safety reporting. To our knowledge, this is the first study to apply an LLM for automated classification of radiation oncology safety events, introducing a proof-of-concept framework with potential for broader applicability for AI-assisted incident reporting and quality improvement.",
     "authors": [
-      "A Filion",
-      "J-F Doherty"
+      "Qiongge Li",
+      "Jian Liu",
+      "Xing Li",
+      "Wei Nie",
+      "Jiajin Fan"
     ],
-    "published": "2026-Sep-18",
+    "published": "2026-Sep-17",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42755343/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42758072/",
     "pdf_url": null,
-    "doi": "10.1017/S0022149X26101874",
+    "doi": "10.1016/j.prro.2026.08.001",
     "citations": 0,
-    "venue": "Journal of helminthology",
+    "venue": "Practical radiation oncology",
     "open_access": false,
-    "ai_summary": "Disease macroecology relies on large, complex datasets to understand the biotic and abiotic factors shaping parasite distributions . These datasets span local to global host-parasite interactions and often integrate diverse host or parasite traits across evolutionary histories ."
+    "ai_summary": "Study aims to use a large language model to automate the classification of radiation oncology safety events . The model's performance was validated by three independent, blinded expert reviewers ."
   },
   {
-    "id": "pubmed:42755363",
-    "title": "GenoME: a MoE-based generative model for individualized, multimodal prediction and perturbation of genomic profiles.",
-    "abstract": "The non-coding genome operates through a complex, multiscale regulatory system where regulated gene expressions are closely associated with cell-type-specific histone modifications, transcription factor binding, and 3D conformation. Developing computational models that can integrate these patterns to predict and interpret the regulatory system remains challenging. Here, we present GenoME, a Mixture of Experts (MoE)-based generative model that uses DNA sequence and cell-type-specific ATAC-seq signals to predict a unified genomic profiles encompassing epigenomics, transcriptomics, and chromatin architecture at base-pair to kilobase resolutions. GenoME enables multiscale predictions for held-out genomic regions and, critically, generalizes to predict the full regulatory landscape of unseen or individualized cell types from a single ATAC-seq input. We equip GenoME with an in silico perturbation framework that accurately forecasts the multimodal consequences of genetic perturbations and identifies functional enhancer-promoter connections, outperforming specialized models like Activity-by-Contact. These predictions can also be used to decipher the transcription factor grammar of cell-type-specific enhancers. GenoME thus provides a versatile, all-in-one platform for generative modeling, cross-cell-type generalization, and causal mechanistic investigation of the multiscale regulatory genome.",
+    "id": "pubmed:42758066",
+    "title": "Challenges, Advances, and Contemporary Developments in Trauma Care in Emergency Departments: A Scoping Review.",
+    "abstract": "Trauma is a leading cause of death worldwide, with emergency departments playing a pivotal role in the period from injury to emergency stabilization and treatment. Despite advances in trauma care, emergency department trauma management continues to face clinical, operational, and psychosocial challenges. This scoping review synthesizes evidence on challenges, innovations, and outcomes in emergency department-based trauma care, covering prehospital, in-hospital, system-level, and psychosocial aspects. We conducted a literature search PubMed, Scopus, and Web of Science (2020-May 2025) using MeSH and free-text terms. Eligible studies included original research and syntheses on emergency department trauma interventions, systems, and outcomes. Twelve studies were ultimately included. Persistent challenges include communication failures during handover, delayed airway or hemorrhage control, trauma-induced coagulopathy, under-triage of elderly or high-risk patients, and clinician burnout. Concurrent innovations include damage-control resuscitation, resuscitative endovascular balloon occlusion of the aorta, viscoelastic testing, hybrid emergency department models, early tranexamic acid administration, and enhanced triage. Trauma-informed and palliative care approaches may enhance patient-centeredness, while artificial intelligence, predictive analytics, and remote monitoring show promise for future applications. Despite these advances, implementation barriers and evidence gaps remain. Although emergency department trauma care has improved in efficiency and precision, gaps persist in communication, early stabilization, geriatric care, and provider well-being. Future research should prioritize multicenter trials, long-term functional outcomes, cost-effectiveness, and the equitable implementation of scalable models to strengthen global trauma systems.",
     "authors": [
-      "Jiachen Wei",
-      "Yue Xue",
-      "Hao Chai",
-      "Yi Qin Gao"
+      "Seyyed Hossein Shahcheragh",
+      "Mohammad Reza Moonesan",
+      "Hassan Babamohamadi"
     ],
-    "published": "2026-Sep-07",
+    "published": "2026-Sep-17",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42755363/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42758066/",
     "pdf_url": null,
-    "doi": "10.1093/nar/gkag902",
+    "doi": "10.1016/j.jen.2026.08.011",
     "citations": 0,
-    "venue": "Nucleic acids research",
+    "venue": "Journal of emergency nursing",
     "open_access": false,
-    "ai_summary": "The non-coding genome operates through a complex, multiscale regulatory system . Developing computational models that can integrate these patterns to predict and interpret the regulatory system remains challenging ."
+    "ai_summary": "Trauma is a leading cause of death worldwide, with emergency departments playing a pivotal role in the period from injury to emergency stabilization and treatment . Despite advances in trauma care, emergency department trauma management continues to face clinical, operational, and psychosocial challenges ."
   },
   {
-    "id": "pubmed:42755404",
-    "title": "Quality Difference Analysis of Raw and Wine-Processed Polygonati Rhizoma Based on Correlation Between Color and Component.",
-    "abstract": "The dried rhizome of Polygonati Rhizoma, known as Huangjing, is commonly used clinically in both its raw and wine-processed forms. However, the distinctions in quality between them remain unclear, and the methods for identifying them are considerably intricate. This study aimed to analyze the differences in color and changes in key components between raw and wine-processed Polygonati Rhizoma, to reveal the correlation between the color and chemical components of Polygonati Rhizoma before and after processing, and to provide a reference for the identification and quality evaluation of Polygonati Rhizoma processed products. Based on the subjective judgment of the external properties of raw and wine-processed Polygonati Rhizoma by the eyes, an electronic eye was used to quantify their color objectively. The contents of extractum and polysaccharide were determined, and HPLC fingerprint profiles of raw and wine-processed Polygonati Rhizoma were also established to represent their chemical composition characteristics systematically. Chemometric analysis was performed using SIMCA 14.1 to evaluate their quality differences, while SPSS 27.0 and Origin software were employed for correlation analysis between color and chemical components. From raw to wine-processed Polygonati Rhizoma, the color of the samples darkened. Polysaccharide showed a decreasing trend, while extractum increased. The results of the HPLC fingerprint indicated significant chemical differences between raw and processed samples. Peaks were identified as 5-HMF (Peak 10), DDMP (Peak 12), and polygonatine A (Peak 17). By comparing the peak areas of 18 chromatographic peaks of the samples, it was revealed that from raw to processed samples, the peak areas of seven chromatographic peaks increased, one decreased, seven new components were newly generated, and three components disappeared. Based on OPLS-DA analysis of peak areas, the samples could be classified into two groups clearly; there were five chromatographic peaks with a VIP value greater than 1.0. The chromatographic peaks were numbered in order of their value as 7, 10, 17, 16, and 8; these five components were the main factors that distinguished raw and processed samples. Correlation analysis showed that the polysaccharides were positively correlated with L*, b*, and E",
+    "id": "pubmed:42758103",
+    "title": "Neural Network Connection Characteristics Between Motor Cortex and Spinal Cord During Rat Bipedal Walking.",
+    "abstract": "Bipedal locomotion requires coordinated corticospinal interactions, yet how these networks dynamically reorganize across gait phases remains poorly understood. This study aimed to characterize the phase-dependent restructuring of corticospinal functional networks during rest, stance, and swing in healthy rats. Single-unit spiking activity was simultaneously recorded from the hindlimb motor cortex and lumbar spinal cord of healthy rats across three behavioral states: Rest, stance, and swing. Granger causality analysis was applied to local field potentials (LFPs) to assess directed functional connectivity. Total Spiking Probability Edges (TSPE) algorithm was used to estimate spike-train functional connectivity. Network topology was characterized by global efficiency and rich-club coefficient. Granger causality revealed that corticospinal connectivity was most prominent in the beta band (13-35 Hz) during active locomotion. Global efficiency rose from rest (0.33) to stance (0.53) and swing (0.51). TSPE confirmed rich-club topology in all conditions. Spinal hub neurons predominated during locomotion, comprising 81.13% ± 15.5% of rich-club hubs at stance and 60.48% ± 10.21% at swing, while cortical and spinal hubs were balanced at rest. Mean latency decreased from 29.60 ± 20.66 ms at rest to 9.67 ± 1.65 ms during stance. The central nervous system dynamically restructures corticospinal functional networks across gait phases, with spinal hub neurons assuming a dominant role during active locomotion. This framework provides a mechanistic reference for studying corticospinal disruptions in spinal cord injury, Parkinson's disease, and stroke, and identifies phase-specific beta-band coupling and rich-club hub dynamics as candidate targets for closed-loop neural interfaces in gait rehabilitation.",
     "authors": [
-      "Yuxin Feng",
-      "Tao Guo",
-      "Yingjie Xu",
-      "Binrong Ge",
-      "Miaomiao Zhao",
-      "Yijun Song",
-      "Desheng Zhang"
+      "Pengcheng Xi",
+      "Xiaodan Lyu",
+      "Jiping He",
+      "Rongyu Tang",
+      "Yiran Lang"
     ],
-    "published": "2026-Nov",
+    "published": "2026-Sep",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42755404/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42758103/",
     "pdf_url": null,
-    "doi": "10.1002/bmc.70621",
+    "doi": "10.1002/cns.71160",
     "citations": 0,
-    "venue": "Biomedical chromatography : BMC",
+    "venue": "CNS neuroscience & therapeutics",
     "open_access": false,
-    "ai_summary": "The dried rhizome of Polygonati Rhizoma, known as Huangjing, is commonly used clinically in both its raw and wine-processed forms . The distinctions in quality between them remain unclear, and the methods for identifying them are considerably intricate ."
+    "ai_summary": "Study aimed to characterize the restructuring of corticospinal functional networks during rest, stance, and swing in healthy rats . Single-unit spiking activity was simultaneously recorded from the hindlimb motor cortex and lumbar spinal cord of healthy rats across three behavioral states: Rest, stance and swing ."
   },
   {
     "id": "openalex:W7118720654",
@@ -1568,29 +1674,23 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "arxiv:2609.20817v1",
-    "title": "FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations",
-    "abstract": "Modeling articulated objects from sparse monocular views is challenging because each observation reveals only partial geometry and motion evidence. Most feed-forward methods infer articulation from a single observation and therefore rely heavily on learned category-level shape priors. We present FAMOS, a feed-forward model that predicts movable-part segmentation and joint parameters from a sparse, unordered set of partial point clouds. Our model jointly reasons over multiple observations and naturally supports a variable number of inputs, including a single view. To aggregate articulation cues across observations, we introduce a Multi-state Articulation Transformer with alternating state-wise and global attention. We further propose an observed articulation span objective that supervises the motion range each part exhibits across the input observations, encouraging the model to leverage the full observation set. To overcome the limited scale and diversity of existing datasets, we introduce a procedural data generator that synthesizes self-annotated assets during training. Experiments on PartNet-Mobility, ACD, and ArtiCraft-10K demonstrate consistent improvements over both feed-forward and optimization-based baselines. Project page: https://kevinqu7.github.io/famos",
+    "id": "arxiv:2609.20821v1",
+    "title": "Embedding Models Measure in Peculiar Ways",
+    "abstract": "Embedding spaces define notions of semantic similarity and distance. We study whether those embeddings reflect physical measurements of mass, distance, time and volume, which admit a unique, objective notion of semantic equivalence and distance. We find that physical measurement is only weakly modeled in the embedding space, and that instead quite peculiar measurement patterns can be observed. Further analysis indicates that embedding representations of physical measurements are strongly influenced by superficial string similarity, and recalibration of similarity does not substantially improve the alignment.",
     "authors": [
-      "Kevin Qu",
-      "Tao Sun",
-      "Massimiliano Viola",
-      "Liyuan Zhu",
-      "Zhizhuo Zhou",
-      "Sayan Deb Sarkar",
-      "Konrad Schindler",
-      "Iro Armeni"
+      "Juri Opitz",
+      "Andrianos Michail"
     ],
     "published": "2026-09-17",
     "source": "arXiv",
     "category": "preprint",
-    "url": "https://arxiv.org/abs/2609.20817v1",
-    "pdf_url": "https://arxiv.org/pdf/2609.20817v1",
+    "url": "https://arxiv.org/abs/2609.20821v1",
+    "pdf_url": "https://arxiv.org/pdf/2609.20821v1",
     "doi": null,
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "Modeling articulated objects from sparse monocular views is challenging because each observation reveals only partial geometry and motion evidence . We present FAMOS, a feed-forward model that predicts movable-part segmentation and joint parameters from a sparse, unordered set of partial point clouds ."
+    "ai_summary": "Embedding spaces define notions of semantic similarity and distance . We study whether those embeddings reflect physical measurements of mass, distance, time and volume . We find that physical measurement is only weakly modeled in the embedding space ."
   },
   {
     "id": "arxiv:2609.20822v1",
@@ -1614,25 +1714,6 @@
     "ai_summary": "A language model writes the robot controller as a program, and agents built in this way now operate robots without robot-specific training . Whether this paradigm is also safe has not been asked ."
   },
   {
-    "id": "arxiv:2609.20821v1",
-    "title": "Embedding Models Measure in Peculiar Ways",
-    "abstract": "Embedding spaces define notions of semantic similarity and distance. We study whether those embeddings reflect physical measurements of mass, distance, time and volume, which admit a unique, objective notion of semantic equivalence and distance. We find that physical measurement is only weakly modeled in the embedding space, and that instead quite peculiar measurement patterns can be observed. Further analysis indicates that embedding representations of physical measurements are strongly influenced by superficial string similarity, and recalibration of similarity does not substantially improve the alignment.",
-    "authors": [
-      "Juri Opitz",
-      "Andrianos Michail"
-    ],
-    "published": "2026-09-17",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2609.20821v1",
-    "pdf_url": "https://arxiv.org/pdf/2609.20821v1",
-    "doi": null,
-    "citations": 0,
-    "venue": "arXiv preprint",
-    "open_access": true,
-    "ai_summary": "Embedding spaces define notions of semantic similarity and distance . We study whether those embeddings reflect physical measurements of mass, distance, time and volume . We find that physical measurement is only weakly modeled in the embedding space ."
-  },
-  {
     "id": "arxiv:2609.20819v1",
     "title": "Can 4D Foundation Models Remember?",
     "abstract": "Perceiving and remembering the visual world is fundamental to navigating and interacting with our environment. Current 4D foundation models, such as camera-controllable video models or 4D reconstruction models, can perceive and reconstruct dynamic environments, but how well they remember what they have perceived remains an open question. Existing benchmarks largely rely on pixel-level metrics and lack ground truth for objects once they leave the field of view, making them unable to evaluate visual memory in an object-centric manner against references. To fill this gap, we introduce PersistBench, a dataset and metric suite that leverages 360° videos as omniscient ground truth and proposes three evaluation aspects: object permanence, motion continuity, and appearance preservation. Evaluating various models across diverse categories reveals that current models can only maintain short-term consistency that degrades significantly once objects leave the field of view. Our findings highlight the gap between current model capabilities and robust visual memory (\"seeing is not remembering\"), providing guidance for future development of 4D foundation models. Dataset and code are available on the project page: https://guangzhaohe.com/persistbench.",
@@ -1650,7 +1731,32 @@
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "Current 4D foundation models can perceive and reconstruct dynamic environments, but how well they remember what they have perceived remains an open question . Existing benchmarks rely on pixel-level metrics and lack ground truth for objects once they leave the field of view . To fill this gap, we introduce PersistBench, a dataset and metric suite that leverages"
+    "ai_summary": "Current 4D foundation models can perceive and reconstruct dynamic environments, but how well they remember what they have perceived remains an open question . Existing benchmarks largely rely on pixel-level metrics and lack ground truth for objects once they leave the field of view . To fill this gap, we introduce PersistBench, a dataset and metric suite"
+  },
+  {
+    "id": "arxiv:2609.20817v1",
+    "title": "FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations",
+    "abstract": "Modeling articulated objects from sparse monocular views is challenging because each observation reveals only partial geometry and motion evidence. Most feed-forward methods infer articulation from a single observation and therefore rely heavily on learned category-level shape priors. We present FAMOS, a feed-forward model that predicts movable-part segmentation and joint parameters from a sparse, unordered set of partial point clouds. Our model jointly reasons over multiple observations and naturally supports a variable number of inputs, including a single view. To aggregate articulation cues across observations, we introduce a Multi-state Articulation Transformer with alternating state-wise and global attention. We further propose an observed articulation span objective that supervises the motion range each part exhibits across the input observations, encouraging the model to leverage the full observation set. To overcome the limited scale and diversity of existing datasets, we introduce a procedural data generator that synthesizes self-annotated assets during training. Experiments on PartNet-Mobility, ACD, and ArtiCraft-10K demonstrate consistent improvements over both feed-forward and optimization-based baselines. Project page: https://kevinqu7.github.io/famos",
+    "authors": [
+      "Kevin Qu",
+      "Tao Sun",
+      "Massimiliano Viola",
+      "Liyuan Zhu",
+      "Zhizhuo Zhou",
+      "Sayan Deb Sarkar",
+      "Konrad Schindler",
+      "Iro Armeni"
+    ],
+    "published": "2026-09-17",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2609.20817v1",
+    "pdf_url": "https://arxiv.org/pdf/2609.20817v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "Modeling articulated objects from sparse monocular views is challenging because each observation reveals only partial geometry and motion evidence . We present FAMOS, a feed-forward model that predicts movable-part segmentation and joint parameters from a sparse, unordered set of partial point clouds ."
   },
   {
     "id": "arxiv:2609.20820v1",
@@ -1908,7 +2014,7 @@
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "Posteriorbench evaluates four physics-based inverse problems . It evaluates Darcy flow inversion, Poisson source recovery, carbon capture and storage . For each task, we construct high-fidelity reference posteriors using computationally heavy but established procedures ."
+    "ai_summary": "Posteriorbench evaluates four physics-based inverse problems . It can achieve strong pointwise accuracy while still failing to capture the true posterior through mode collapse ."
   },
   {
     "id": "arxiv:2609.20784v1",
@@ -2025,7 +2131,7 @@
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "Generative agents are increasingly used to select and narrate video highlights . They typically operate over unstructured or frame-level representations . We present the semantic action graph, a lightweight domain schema that represents a sports match as performer, action, recipient, moment, and state nodes connected by role, temporal, and outcome edges ."
+    "ai_summary": "Generative agents are increasingly used to select and narrate video highlights . They typically operate over unstructured or frame-level representations . We present a semantic action graph that represents a sports match as performer, action, recipient, moment, and state nodes ."
   },
   {
     "id": "arxiv:2609.20765v1",
@@ -2327,7 +2433,7 @@
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "Semantic cell annotation improves chunking interpretability for spreadsheets in LLM-driven RAG systems . We propose a novel framework of splitting any spreadsheet into interpretable chunks using cell role annotation ."
+    "ai_summary": "Spreadsheets are fundamentally two-dimensional unstructured data with continuous relationships and infinite potential cell roles . We propose a novel framework of splitting any spreadsheet into interpretable chunks using cell role annotation ."
   },
   {
     "id": "arxiv:2609.20723v1",
@@ -2759,133 +2865,5 @@
     "venue": "Artificial Intelligence and Law",
     "open_access": true,
     "ai_summary": "No abstract available."
-  },
-  {
-    "id": "pubmed:42755446",
-    "title": "Feasibility of explainable machine learning for analyzing drop landing strategies: effects of landing height and fatigue.",
-    "abstract": "The drop landing (DL) process is a complex neuromuscular control process influenced by multiple factors, among which fatigue state and landing height play significant roles. This study aimed to investigate the influence mechanisms of these two factors on lower-limb landing strategies and to examine the feasibility of explainable machine learning methods in analyzing landing strategies. Joint angles and joint moments of the hip, knee, and ankle in the sagittal plane, as well as vertical ground reaction force (vGRF), were collected under different landing conditions (40 cm and 80 cm heights and their corresponding fatigue states). Cohen's d effect size analysis was applied to examine group differences in each feature across the time series, and seven classification models were constructed based on multi-dimensional biomechanical features to identify different landing states. Meanwhile, SHapley Additive exPlanations (SHAP) method was employed to analyze feature importance and interactions. Results showed that the Light Gradient Boosting Machine achieved classification accuracies above 0.915 across all four tasks, verifying the feasibility of machine learning methods for landing strategy analysis. Temporal effect size analysis revealed that differences induced by changes in landing height were mainly concentrated in the early landing phase (0%-40%). In contrast, the fatigue effect resulted in a wider distribution and higher magnitude of regions with large effect sizes. SHAP analysis indicated that the knee joint moment had the highest importance across all classification tasks, vGRF contributed prominently in fatigue-related tasks, and feature interaction patterns differed significantly across tasks. In conclusion, explainable machine learning methods can effectively identify and explain differences in DL strategies under various landing conditions, providing a theoretical basis and methodological support for sports injury risk assessment and training strategy optimization.",
-    "authors": [
-      "Chenglin Liu",
-      "Xuan Liu",
-      "Siyan Mi",
-      "Yujie Liu",
-      "Yuan Tian",
-      "Youwei Zhang",
-      "Xiao Zhang",
-      "Lei Pang"
-    ],
-    "published": "2026",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42755446/",
-    "pdf_url": null,
-    "doi": "10.3389/fphys.2026.1911268",
-    "citations": 0,
-    "venue": "Frontiers in physiology",
-    "open_access": false,
-    "ai_summary": "Study aimed to investigate the influence mechanisms of these two factors on lower-limb landing strategies . Joint angles and joint moments of the hip, knee, and ankle in the sagittal plane were collected under different landing conditions ."
-  },
-  {
-    "id": "pubmed:42755437",
-    "title": "Prediction of overall survival in primary lung adenocarcinoma using machine learning and deep learning: a cohort study in Latin America country cancer center.",
-    "abstract": "Lung adenocarcinoma is the most common subtype of non-small cell lung cancer and a leading cause of cancer-related mortality worldwide. Its marked clinical heterogeneity results in variable outcomes and poor prognosis for many patients. This study aimed to develop and compare statistical, machine learning, and deep learning models for predicting overall survival (OS) in patients with primary lung adenocarcinoma. This retrospective cohort study included patients with primary lung adenocarcinoma. Missing data were handled using fold-specific multiple imputation by chained equations within a nested cross-validation framework. Predictor selection and hyperparameter tuning were performed within 5 outer and 3 inner folds using univariable Cox analysis, Elastic Net, XGBoost-based importance, and clinical criteria. Overall survival was modeled using penalized Cox regression, Random Survival Forest, DeepSurv, and DeepHit. Model performance was evaluated from out-of-fold predictions using concordance indices, time-dependent AUC, calibration and the integrated Brier score. Sensitivity analyses included propensity score-matched survival comparisons by biomarker status among patients with stage IV disease. The cohort included 254 patients, with a median overall survival of 12.8 months. Random Survival Forest showed the best performance (Harrell's C-index, 0.760; mean time-dependent AUC, 0.851; integrated Brier score, 0.160) and clearly separated high- and low-risk groups (p < 0.001). Clinical stage, ECOG status, systemic treatment, sex, and age were among the most influential predictors. Calibration was acceptable, with slight survival overestimation. Exploratory propensity score-matched analyses in stage IV subgroups suggested the highest apparent performance for RSF, although the small matched samples limited definitive conclusions. In this cohort, machine learning models showed potential for overall survival prediction in lung adenocarcinoma. RSF achieved the highest observed discrimination, while the penalized Cox model showed competitive performance with lower complexity. These findings suggest that RSF may complement conventional survival models; however, the retrospective single-center design, moderate sample size, missing data, and lack of external validation limit their generalizability.",
-    "authors": [
-      "Javier H Gil-Gómez",
-      "Carlos Carvajal-Fierro",
-      "Ricardo Bruges-Maya",
-      "Ixchel Rodríguez Parada",
-      "Andrés Mosquera-Zamudio",
-      "Julián Riaño-Moreno",
-      "José Fernando Polo",
-      "Marcela Gómez-Suárez",
-      "John Jaime Sprockel",
-      "Rafael Parra-Medina"
-    ],
-    "published": "2026",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42755437/",
-    "pdf_url": null,
-    "doi": "10.3389/fonc.2026.1917778",
-    "citations": 0,
-    "venue": "Frontiers in oncology",
-    "open_access": false,
-    "ai_summary": "Lung adenocarcinoma is the most common subtype of non-small cell lung cancer . It is a leading cause of cancer-related mortality worldwide ."
-  },
-  {
-    "id": "pubmed:42755436",
-    "title": "HK-DeepIV: heat-kernel geometric diagnostics and early-warning signals for curvature-induced interference in financial correlation networks.",
-    "abstract": "Financial correlation networks under infrastructure shocks undergo curvature-driven interference that standard estimators cannot detect. This study introduces Heat-Kernel Deep Instrumental Variables (HK-DeepIV), a geometric diagnostic and early-warning framework modeling shock propagation as heat diffusion on the Riemannian manifold of Johannesburg Stock Exchange (JSE) asset-return correlations. Three formal results underpin the architecture: a non-parametric identification result for the projection of the structural function onto the leading heat-kernel eigenfunction (",
-    "authors": [
-      "Ntebogang Dinah Moroke"
-    ],
-    "published": "2026",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42755436/",
-    "pdf_url": null,
-    "doi": "10.3389/fdata.2026.1925931",
-    "citations": 0,
-    "venue": "Frontiers in big data",
-    "open_access": false,
-    "ai_summary": "Financial correlation networks under infrastructure shocks undergo curvature-driven interference that standard estimators cannot detect . This study introduces Heat-Kernel Deep Instrumental Variables (HK-DeepIV), a geometric diagnostic and early-warning framework modeling shock propagation as heat diffusion on the Riemannian manifold of Johannesburg Stock Exchange ."
-  },
-  {
-    "id": "pubmed:42755427",
-    "title": "Fractal analysis of peri-implant trabecular bone complexity following transcrestal sinus floor elevation: a retrospective radiographic study.",
-    "abstract": "This retrospective radiographic study aimed to evaluate time- and region-dependent changes in peri-implant trabecular bone structural complexity using fractal dimension analysis after transcrestal sinus floor elevation (TSFE) with 3, 4, or 5 mm sinus membrane elevation. A total of 45 dental implants placed simultaneously with TSFE in 35 patients were categorized into three groups according to sinus membrane elevation height (3 mm, 4 mm, and 5 mm). Fractal dimension analysis was performed using ImageJ software on panoramic radiographs obtained at baseline and at 6 and 12 months postoperatively, in the apical, mesial, and distal peri-implant regions. No statistically significant difference was found among the 3 mm, 4 mm, and 5 mm groups in fractal dimension changes from baseline to 6 or 12 months postoperatively ( No statistically significant between-group differences in peri-implant trabecular bone structural complexity were detected among the 3 mm, 4 mm, and 5 mm TSFE groups over 12 months. These preliminary findings do not establish equivalence and require prospective confirmation; the transient distal change in the 3 mm group should be interpreted cautiously as a region-specific, hypothesis-generating observation.",
-    "authors": [
-      "Irfan Ustundag",
-      "Sevval Ilkyaz",
-      "Numan Dedeoglu",
-      "Selman Bolukbasi",
-      "Mehmet Sait Simsek",
-      "Yunus Çetiner",
-      "Bahadir Sancar"
-    ],
-    "published": "2026",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42755427/",
-    "pdf_url": null,
-    "doi": "10.3389/fmed.2026.1943053",
-    "citations": 0,
-    "venue": "Frontiers in medicine",
-    "open_access": false,
-    "ai_summary": "Study looked at time- and region-dependent changes in peri-implant trabecular bone structural complexity . 45 dental implants placed simultaneously with TSFE in 35 patients were categorized into three groups . No statistically significant difference was found among the 3 mm, 4"
-  },
-  {
-    "id": "pubmed:42755419",
-    "title": "Exploring the Potential of Peptides Derived from the Coelomic Fluid of ",
-    "abstract": "Placental syndromes-encompassing pregnancy loss, preterm birth, gestational diabetes mellitus, and preeclampsia-have been strongly linked to dysregulated inflammatory responses at the maternal-fetal interface. This study aims to explore the potential of peptides derived from the coelomic fluid of  The 3D molecular structure of peptides was modeled using the UCSF Chimera application. The absorption, distribution, metabolism, and excretion (ADMET) properties were analysed using SwissADME and the ProTox web server. The PerMM web server was used to estimate membrane permeability. Crystal structures of target proteins-including c-Met, Interleukin-1β (IL-1β), Interleukin-10 (IL-10), Macrophage Migration Inhibitory Factor (MIF), Platelet-Derived Growth Factor (PDGF), and TNF-Related Apoptosis-Inducing Ligand (TRAIL)-were obtained from the Protein Data Bank Japan (PDBj). Molecular docking and structural visualization were conducted using Molecular Operating Environment (MOE) software, while molecular dynamics simulations were subsequently performed using the YASARA Dynamics software to assess the stability and conformational behavior of the ligand-receptor complexes. Peptide A was selected based on favorable ADMET properties. Molecular docking results revealed that Peptide A exhibits low binding affinities toward pro-inflammatory mediators, including TRAIL (-10.02 kcal/mol), MIF (-9.32 kcal/mol), IL-1β (-8.29 kcal/mol), and PDGF (-10.44 kcal/mol). Furthermore, Peptide A showed potential agonistic interactions with IL-10 (-10.26 kcal/mol) and c-Met (-9.27 kcal/mol), indicating a possible role in restoring anti-inflammatory and angiogenic signaling. Molecular dynamics simulations supported the stability of the peptide-receptor complexes. Peptide A holds promise as a dual-function therapeutic agent in placental syndromes. However, experimental validation is necessary to confirm its biological efficacy and safety.",
-    "authors": [
-      "Defrin Defrin",
-      "Arif Birru",
-      "Kevin Cuandra",
-      "Ratna Puspita",
-      "I Widnyana",
-      "Nasya Aqilah",
-      "Arzita Fadhilla",
-      "Winka Suwardjo",
-      "Amanda Amalia",
-      "Kalaj Haq",
-      "Tirza Amaris",
-      "Feroz Aldino",
-      "Shabrina Ekitasari",
-      "Bernice Sirait",
-      "Nathania Kristaningtyas",
-      "Rizka Wilanda",
-      "Made Ananda"
-    ],
-    "published": "2025",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42755419/",
-    "pdf_url": null,
-    "doi": "10.12688/f1000research.166678.2",
-    "citations": 0,
-    "venue": "F1000Research",
-    "open_access": false,
-    "ai_summary": "The 3D molecular structure of peptides was modeled using the UCSF Chimera application . The absorption, distribution, metabolism, and excretion (ADMET) properties were analysed using SwissADME and the ProTox web server . The PerMM web server was used to estimate membrane permeability ."
   }
 ]
