@@ -487,27 +487,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.5705/ss.202025.0457",
-    "title": "Sparse Additive Off-policy Evaluation for Reinforcement Learning with Potentially Limited Number of Trajectories",
-    "abstract": "",
-    "authors": [
-      "Tuoyi Zhao",
-      "Chengchun Shi",
-      "Zhengling Qi",
-      "Lan Wang"
-    ],
-    "published": "2029",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.5705/ss.202025.0457",
-    "pdf_url": null,
-    "doi": "10.5705/ss.202025.0457",
-    "citations": 0,
-    "venue": "Statistica Sinica",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
     "id": "crossref:10.5705/ss.202025.0205",
     "title": "Sparsity Learning via Structured Functional Factor Augmentation",
     "abstract": "",
@@ -526,6 +505,27 @@
     "citations": 0,
     "venue": "Statistica Sinica",
     "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "crossref:10.5705/ss.202025.0457",
+    "title": "Sparse Additive Off-policy Evaluation for Reinforcement Learning with Potentially Limited Number of Trajectories",
+    "abstract": "",
+    "authors": [
+      "Tuoyi Zhao",
+      "Chengchun Shi",
+      "Zhengling Qi",
+      "Lan Wang"
+    ],
+    "published": "2029",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.5705/ss.202025.0457",
+    "pdf_url": "https://arxiv.org/pdf/2608.22595v1",
+    "doi": "10.5705/ss.202025.0457",
+    "citations": 0,
+    "venue": "Statistica Sinica",
+    "open_access": true,
     "ai_summary": "No abstract available."
   },
   {
@@ -642,6 +642,28 @@
     "ai_summary": "Research paper will debate role played by principals in teaching and learning process . Research will embrace a quantitative research design that will seek to answer the question about the relationship between leadership skills of principals and teaching-learning process ."
   },
   {
+    "id": "crossref:10.1504/ijims.2028.10081208",
+    "title": "Enhancements to the Deep Learning Architecture for Metaverse Integration in Medical Image Processing",
+    "abstract": "",
+    "authors": [
+      "Chandra Mani",
+      "Suman Avdhesh Yadav",
+      "Smita Sharma",
+      "S. Vikram Singh",
+      "Birendra Kumar Saraswat"
+    ],
+    "published": "2028",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.1504/ijims.2028.10081208",
+    "pdf_url": null,
+    "doi": "10.1504/ijims.2028.10081208",
+    "citations": 0,
+    "venue": "International Journal of Internet Manufacturing and Services",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
     "id": "crossref:10.1504/ijims.2028.10076630",
     "title": "Left Ventricle Extraction Using a DENSENET-U-Net Integrated Deep Learning Approach",
     "abstract": "",
@@ -721,24 +743,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.1504/ijaac.2028.10080905",
-    "title": "Innovative deep learning computational approach for wheat disease detection employing faster region-based convolutional neural network",
-    "abstract": "",
-    "authors": [
-      "Shikai Zhou"
-    ],
-    "published": "2028",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.1504/ijaac.2028.10080905",
-    "pdf_url": null,
-    "doi": "10.1504/ijaac.2028.10080905",
-    "citations": 0,
-    "venue": "International Journal of Automation and Control",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
     "id": "crossref:10.1504/ijbpm.2028.10081045",
     "title": "Evaluating teaching methods for mature learners: a mixed-methods investigation of learning preferences in higher education",
     "abstract": "",
@@ -763,23 +767,20 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.1504/ijmlo.2028.10081000",
-    "title": "Applications, immersion levels, research methods and findings on virtual reality for English-skill instruction: a systematic review and cross-tabulations analysis",
+    "id": "crossref:10.1504/ijaac.2028.10080905",
+    "title": "Innovative deep learning computational approach for wheat disease detection employing faster region-based convolutional neural network",
     "abstract": "",
     "authors": [
-      "Chien Li Sun",
-      "Gwo Jen Hwang",
-      "Pei Ying Chen",
-      "Yun Shan Lee"
+      "Shikai Zhou"
     ],
     "published": "2028",
     "source": "Crossref",
     "category": "index",
-    "url": "https://doi.org/10.1504/ijmlo.2028.10081000",
+    "url": "https://doi.org/10.1504/ijaac.2028.10080905",
     "pdf_url": null,
-    "doi": "10.1504/ijmlo.2028.10081000",
+    "doi": "10.1504/ijaac.2028.10080905",
     "citations": 0,
-    "venue": "International Journal of Mobile Learning and Organisation",
+    "venue": "International Journal of Automation and Control",
     "open_access": false,
     "ai_summary": "No abstract available."
   },
@@ -1543,6 +1544,47 @@
     "ai_summary": "Embedding spaces define notions of semantic similarity and distance . We study whether those embeddings reflect physical measurements of mass, distance, time and volume . We find that physical measurement is only weakly modeled in the embedding space ."
   },
   {
+    "id": "arxiv:2609.20819v1",
+    "title": "Can 4D Foundation Models Remember?",
+    "abstract": "Perceiving and remembering the visual world is fundamental to navigating and interacting with our environment. Current 4D foundation models, such as camera-controllable video models or 4D reconstruction models, can perceive and reconstruct dynamic environments, but how well they remember what they have perceived remains an open question. Existing benchmarks largely rely on pixel-level metrics and lack ground truth for objects once they leave the field of view, making them unable to evaluate visual memory in an object-centric manner against references. To fill this gap, we introduce PersistBench, a dataset and metric suite that leverages 360° videos as omniscient ground truth and proposes three evaluation aspects: object permanence, motion continuity, and appearance preservation. Evaluating various models across diverse categories reveals that current models can only maintain short-term consistency that degrades significantly once objects leave the field of view. Our findings highlight the gap between current model capabilities and robust visual memory (\"seeing is not remembering\"), providing guidance for future development of 4D foundation models. Dataset and code are available on the project page: https://guangzhaohe.com/persistbench.",
+    "authors": [
+      "Guangzhao He",
+      "Hadar Averbuch-Elor",
+      "Wei-Chiu Ma"
+    ],
+    "published": "2026-09-17",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2609.20819v1",
+    "pdf_url": "https://arxiv.org/pdf/2609.20819v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "Current 4D foundation models can perceive and reconstruct dynamic environments, but how well they remember what they have perceived remains an open question . Existing benchmarks rely on pixel-level metrics and lack ground truth for objects once they leave the field of view . To fill this gap, we introduce PersistBench, a dataset and metric suite that leverages"
+  },
+  {
+    "id": "arxiv:2609.20822v1",
+    "title": "Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation",
+    "abstract": "Coding agents have emerged as a promising paradigm for robot manipulation: a language model writes the robot controller as a program, and agents built in this way now operate robots without robot-specific training.Whether this paradigm is also safe, however, has not been asked. We evaluate coding agent under a safety constraint, where each task pairs a manipulation goal with an obstacle the robot must not touch. The agent pursues the goal but collides with the obstacle in most cases, treating task completion as its sole objective while neglecting safety. The agent reasons about the obstacle in its traces, and the prompt already forbids touching it, so neither perception nor instruction is at fault; the fault lies in the planning, where the stated constraint never becomes a priority. By decomposing manipulation into a route phase and a contact-rich moment, we locate the source of the failure. Along the route, the model cannot prioritize the safety constraint, having no notion of a clearing route and none of replanning once a chosen route becomes infeasible. At the contact, it is unaware that contact execution is bounded by the same constraint. To close this gap, we present SafeHarness, which equips the model with two obstacle-aware harnesses that enable it to prioritize the safety constraint. Obstacle-aware route planning grounds the objects as bounding boxes and draws candidate routes over them as sequences of waypoints. The agent then plans a route in advance, verifies it, replans when necessary, and only then executes it. Obstacle-aware contact execution instead selects the contact position so that the contact itself avoids the obstacle. SafeHarness attains 71.9% task success and 87.5% collision avoidance, surpassing the previous SOTA by 6.5% and 27.0%, respectively. These results are $2.3\\times$ and $1.5\\times$ those of the same agent without harnesses.",
+    "authors": [
+      "Bingxin Xu",
+      "Yuzhang Shang",
+      "Zhen Dong",
+      "Emilio Ferrara"
+    ],
+    "published": "2026-09-17",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2609.20822v1",
+    "pdf_url": "https://arxiv.org/pdf/2609.20822v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "A language model writes the robot controller as a program, and agents built in this way now operate robots without robot-specific training . Whether this paradigm is also safe has not been asked ."
+  },
+  {
     "id": "arxiv:2609.20817v1",
     "title": "FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations",
     "abstract": "Modeling articulated objects from sparse monocular views is challenging because each observation reveals only partial geometry and motion evidence. Most feed-forward methods infer articulation from a single observation and therefore rely heavily on learned category-level shape priors. We present FAMOS, a feed-forward model that predicts movable-part segmentation and joint parameters from a sparse, unordered set of partial point clouds. Our model jointly reasons over multiple observations and naturally supports a variable number of inputs, including a single view. To aggregate articulation cues across observations, we introduce a Multi-state Articulation Transformer with alternating state-wise and global attention. We further propose an observed articulation span objective that supervises the motion range each part exhibits across the input observations, encouraging the model to leverage the full observation set. To overcome the limited scale and diversity of existing datasets, we introduce a procedural data generator that synthesizes self-annotated assets during training. Experiments on PartNet-Mobility, ACD, and ArtiCraft-10K demonstrate consistent improvements over both feed-forward and optimization-based baselines. Project page: https://kevinqu7.github.io/famos",
@@ -1568,29 +1610,6 @@
     "ai_summary": "Modeling articulated objects from sparse monocular views is challenging because each observation reveals only partial geometry and motion evidence . We present FAMOS, a feed-forward model that predicts movable-part segmentation and joint parameters from a sparse, unordered set of partial point clouds ."
   },
   {
-    "id": "arxiv:2609.20818v1",
-    "title": "SplashSplat: Reconstructing Splashing Liquids from Real-World Multi-View Videos",
-    "abstract": "A splash lives for a fraction of a second: sheets tear into ligaments and droplets, appearance is view-dependent and nearly textureless, and little persists long enough to track. Reconstruction research has consequently focused on smoke, synthetic liquids, or gently deforming surfaces. To our knowledge, no synchronized multi-view dataset of splashing liquids exists. We therefore introduce a benchmark of 20 real scenes, from coherent streams to violent splashes, captured by seven synchronized, calibrated 4K cameras at 60 fps, with manually refined per-view liquid and container masks and fixed evaluation splits. We further present SplashSplat, built on a single principle: impose physical structure only where the observations can constrain it. Per-frame liquid SDFs fused from the masks provide the geometry, level-set transport between consecutive SDFs yields a coarse velocity field, and Lagrangian carriers advected along this flow, corrected against each new observation and reseeded where coverage is lost, decode local Gaussians for differentiable rendering. SplashSplat outperforms state-of-the-art dynamic Gaussian splatting methods on our real captures and on a synthetic benchmark, with physically more plausible motion and a lower training cost. The same representation supports temporal interpolation and style transfer without re-optimization.",
-    "authors": [
-      "Peiyu Liu",
-      "Dingxi Zhang",
-      "Federico Tombari",
-      "Marc Pollefeys",
-      "Christina Tsalicoglou",
-      "Daniel Barath"
-    ],
-    "published": "2026-09-17",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2609.20818v1",
-    "pdf_url": "https://arxiv.org/pdf/2609.20818v1",
-    "doi": null,
-    "citations": 0,
-    "venue": "arXiv preprint",
-    "open_access": true,
-    "ai_summary": "A splash lives for a fraction of a second: sheets tear into ligaments and droplets, appearance is view-dependent and nearly textureless . To our knowledge, no synchronized multi-view dataset of splashing liquids exists . We introduce a benchmark of 20 real scenes, from coherent streams to violent splashes ."
-  },
-  {
     "id": "arxiv:2609.20820v1",
     "title": "Workspace Models: Lightweight Robotic Memory via Saliency-Driven Supervision",
     "abstract": "Complex robotic manipulation tasks frequently require a long-term memory of past events and actions. As conditioning on full histories renders policies prone to spurious correlations and degrades performance, many approaches to policy memory involve compressing historical information through expensive VLM queries in-the-loop to process only task-salient information. In this paper, we propose an alternative approach in which computationally intensive VLM queries are made during train-time to learn a lightweight latent memory that can be efficiently queried at deployment time. Our representation, which we call the \\textbf{workspace token}, is trained by (1) using a VLM to identify current and historical information necessary for completing a task, then (2) distilling these into the workspace token using a set-reconstruction decoder loss. In both simulation and hardware, we show that the workspace token can be used as a drop-in replacement for observations during deployment, enabling policies to solve memory-intensive tasks without the need for VLM reasoning in-the-loop. Interestingly, we found that workspace tokens are not only more lightweight but also lead to better policy performance.",
@@ -1614,45 +1633,27 @@
     "ai_summary": "The work is based on the work of a team of researchers in the U.S. They say they can use a VLM to learn a lightweight latent memory that can be efficiently queried at deployment time . They say this could be used as a drop-in replacement for observations during deployment ."
   },
   {
-    "id": "arxiv:2609.20822v1",
-    "title": "Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation",
-    "abstract": "Coding agents have emerged as a promising paradigm for robot manipulation: a language model writes the robot controller as a program, and agents built in this way now operate robots without robot-specific training.Whether this paradigm is also safe, however, has not been asked. We evaluate coding agent under a safety constraint, where each task pairs a manipulation goal with an obstacle the robot must not touch. The agent pursues the goal but collides with the obstacle in most cases, treating task completion as its sole objective while neglecting safety. The agent reasons about the obstacle in its traces, and the prompt already forbids touching it, so neither perception nor instruction is at fault; the fault lies in the planning, where the stated constraint never becomes a priority. By decomposing manipulation into a route phase and a contact-rich moment, we locate the source of the failure. Along the route, the model cannot prioritize the safety constraint, having no notion of a clearing route and none of replanning once a chosen route becomes infeasible. At the contact, it is unaware that contact execution is bounded by the same constraint. To close this gap, we present SafeHarness, which equips the model with two obstacle-aware harnesses that enable it to prioritize the safety constraint. Obstacle-aware route planning grounds the objects as bounding boxes and draws candidate routes over them as sequences of waypoints. The agent then plans a route in advance, verifies it, replans when necessary, and only then executes it. Obstacle-aware contact execution instead selects the contact position so that the contact itself avoids the obstacle. SafeHarness attains 71.9% task success and 87.5% collision avoidance, surpassing the previous SOTA by 6.5% and 27.0%, respectively. These results are $2.3\\times$ and $1.5\\times$ those of the same agent without harnesses.",
+    "id": "arxiv:2609.20818v1",
+    "title": "SplashSplat: Reconstructing Splashing Liquids from Real-World Multi-View Videos",
+    "abstract": "A splash lives for a fraction of a second: sheets tear into ligaments and droplets, appearance is view-dependent and nearly textureless, and little persists long enough to track. Reconstruction research has consequently focused on smoke, synthetic liquids, or gently deforming surfaces. To our knowledge, no synchronized multi-view dataset of splashing liquids exists. We therefore introduce a benchmark of 20 real scenes, from coherent streams to violent splashes, captured by seven synchronized, calibrated 4K cameras at 60 fps, with manually refined per-view liquid and container masks and fixed evaluation splits. We further present SplashSplat, built on a single principle: impose physical structure only where the observations can constrain it. Per-frame liquid SDFs fused from the masks provide the geometry, level-set transport between consecutive SDFs yields a coarse velocity field, and Lagrangian carriers advected along this flow, corrected against each new observation and reseeded where coverage is lost, decode local Gaussians for differentiable rendering. SplashSplat outperforms state-of-the-art dynamic Gaussian splatting methods on our real captures and on a synthetic benchmark, with physically more plausible motion and a lower training cost. The same representation supports temporal interpolation and style transfer without re-optimization.",
     "authors": [
-      "Bingxin Xu",
-      "Yuzhang Shang",
-      "Zhen Dong",
-      "Emilio Ferrara"
+      "Peiyu Liu",
+      "Dingxi Zhang",
+      "Federico Tombari",
+      "Marc Pollefeys",
+      "Christina Tsalicoglou",
+      "Daniel Barath"
     ],
     "published": "2026-09-17",
     "source": "arXiv",
     "category": "preprint",
-    "url": "https://arxiv.org/abs/2609.20822v1",
-    "pdf_url": "https://arxiv.org/pdf/2609.20822v1",
+    "url": "https://arxiv.org/abs/2609.20818v1",
+    "pdf_url": "https://arxiv.org/pdf/2609.20818v1",
     "doi": null,
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "A language model writes the robot controller as a program, and agents built in this way now operate robots without robot-specific training . Whether this paradigm is also safe has not been asked ."
-  },
-  {
-    "id": "arxiv:2609.20819v1",
-    "title": "Can 4D Foundation Models Remember?",
-    "abstract": "Perceiving and remembering the visual world is fundamental to navigating and interacting with our environment. Current 4D foundation models, such as camera-controllable video models or 4D reconstruction models, can perceive and reconstruct dynamic environments, but how well they remember what they have perceived remains an open question. Existing benchmarks largely rely on pixel-level metrics and lack ground truth for objects once they leave the field of view, making them unable to evaluate visual memory in an object-centric manner against references. To fill this gap, we introduce PersistBench, a dataset and metric suite that leverages 360° videos as omniscient ground truth and proposes three evaluation aspects: object permanence, motion continuity, and appearance preservation. Evaluating various models across diverse categories reveals that current models can only maintain short-term consistency that degrades significantly once objects leave the field of view. Our findings highlight the gap between current model capabilities and robust visual memory (\"seeing is not remembering\"), providing guidance for future development of 4D foundation models. Dataset and code are available on the project page: https://guangzhaohe.com/persistbench.",
-    "authors": [
-      "Guangzhao He",
-      "Hadar Averbuch-Elor",
-      "Wei-Chiu Ma"
-    ],
-    "published": "2026-09-17",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2609.20819v1",
-    "pdf_url": "https://arxiv.org/pdf/2609.20819v1",
-    "doi": null,
-    "citations": 0,
-    "venue": "arXiv preprint",
-    "open_access": true,
-    "ai_summary": "Current 4D foundation models can perceive and reconstruct dynamic environments, but how well they remember what they have perceived remains an open question . Existing benchmarks rely on pixel-level metrics and lack ground truth for objects once they leave the field of view . To fill this gap, we introduce PersistBench, a dataset and metric suite that leverages"
+    "ai_summary": "A splash lives for a fraction of a second: sheets tear into ligaments and droplets, appearance is view-dependent and nearly textureless . To our knowledge, no synchronized multi-view dataset of splashing liquids exists . We introduce a benchmark of 20 real scenes, from coherent streams to violent splashes ."
   },
   {
     "id": "arxiv:2609.20816v1",
@@ -1864,7 +1865,7 @@
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "Posteriorbench evaluates four physics-based inverse problems . It can achieve strong pointwise accuracy while still failing to capture the true posterior through mode collapse ."
+    "ai_summary": "Posteriorbench evaluates four physics-based inverse problems . It evaluates Darcy flow inversion, Poisson source recovery, carbon capture and storage . For each task, we construct high-fidelity reference posteriors using computationally heavy but established procedures ."
   },
   {
     "id": "arxiv:2609.20784v1",
@@ -2137,7 +2138,7 @@
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "Adapting a pretrained autoregressive (AR) model is a cost-efficient route to a diffusion language model (DLM) While nearly all such adaptations start from a full-attention transformer, AR modeling has shifted toward hybrid architectures . This creates an obstacle for adaptation: unlike attention, RNNs are structurally causal and nontrivial to bidirectionalize"
+    "ai_summary": "Adapting a pretrained autoregressive (AR) model is a cost-efficient route to a diffusion language model (DLM) While nearly all such adaptations start from a full-attention transformer, AR modeling has shifted toward hybrid architectures that interleave attention and RNN layers . This creates an obstacle for adaptation: unlike attention, RNNs"
   },
   {
     "id": "arxiv:2609.20749v1",
@@ -2283,7 +2284,7 @@
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "Spreadsheets are fundamentally two-dimensional unstructured data with continuous relationships and infinite potential cell roles . We propose a novel framework of splitting any spreadsheet into interpretable chunks using cell role annotation ."
+    "ai_summary": "Semantic cell annotation improves chunking interpretability for spreadsheets in LLM-driven RAG systems . We propose a novel framework of splitting any spreadsheet into interpretable chunks using cell role annotation ."
   },
   {
     "id": "arxiv:2609.20723v1",
@@ -2695,25 +2696,6 @@
     "ai_summary": "Postpartum hemorrhage (PPH) is the leading cause of maternal mortality in women of advanced maternal age (AMA) This study aimed to develop and compare the performance of multiple machine learning algorithms for predicting PPH risk following vaginal delivery in AMA parturients ."
   },
   {
-    "id": "pubmed:42761043",
-    "title": "A robust privacy-preserving federated framework for kidney CT image classification using transfer learning models.",
-    "abstract": "Kidney abnormalities, including cysts, tumors, and stones, are the most common renal disorders that can lead to severe complications such as chronic kidney disease or renal failure. Deep learning-based medical image analysis offers an effective approach for the accurate classification of kidney abnormalities, aiding the early diagnosis of renal disorders. However, its centralized training leads to inadequate privacy protection. Considering the importance of ensuring individuals' data privacy, this study proposes a novel federated transfer learning framework for accurate classification of renal abnormalities using 12,446 kidney CT scan images and simultaneously preserves data privacy. CT scan images were preprocessed by resizing and normalization, followed by data augmentation techniques, including random rotations (±30°), horizontal flips, and color jitter, to address class imbalance and improve model generalization. Five pre-trained deep learning models such as MobileNetV2, EfficientNetV2-S, ResNet50, DenseNet121, and InceptionResNetV2 were trained across seven federated clients. Federated weighted averaging was employed for aggregation, and AES-256 encryption in CBC mode was applied to all model parameter transmissions between clients and the server. MobileNetV2 achieved the best performance, attaining 99.48% accuracy, 99.29% precision, 99.32% recall, 99.3% F1-score, 0.9999 AUC-ROC, and log loss of 0.0247. Cross-client validation produced an average accuracy of 98.85% with a generalization gap of only -0.0063, indicating strong generalization across client datasets. The proposed framework provides an effective balance between privacy preservation and communication efficiency, highlighting its potential for deployment in distributed clinical environments for kidney disease diagnosis.",
-    "authors": [
-      "Sai Sri Hemantha Konala",
-      "Srinivas Koppu"
-    ],
-    "published": "2026",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42761043/",
-    "pdf_url": null,
-    "doi": "10.3389/frai.2026.1840721",
-    "citations": 0,
-    "venue": "Frontiers in artificial intelligence",
-    "open_access": false,
-    "ai_summary": "Kidney abnormalities, including cysts, tumors, and stones, are the most common renal disorders . The study proposes a novel transfer learning framework for accurate classification of renal abnormalities using 12,446 kidney CT scan images ."
-  },
-  {
     "id": "pubmed:42761078",
     "title": "Machine learning-based risk prediction model for postoperative abdominal distension after spinal surgery under general anesthesia.",
     "abstract": "Early identification of patients at risk of postoperative abdominal distension after spinal surgery remains clinically difficult. Machine learning may improve risk prediction by integrating routinely available perioperative information. This study aimed to develop and internally validate an interpretable machine learning-based predictive model for postoperative abdominal distension after spinal surgery under general anesthesia and to identify clinically relevant predictors for early nursing risk stratification. This retrospective single-center prediction model study included 1,234 patients who underwent spinal surgery under general anesthesia. Seventeen routinely recorded perioperative and early postoperative variables were evaluated, including postoperative ADL category(ADL), PCA, and postoperative antibiotic use (yes/no). The data were split using stratified sampling into training (80%) and internal test (20%) sets. Missing-value imputation, scaling, five-fold cross-validated grid search, and model fitting were performed within the training workflow. Logistic regression(LR), RF, support vector machine(SVM), and gradient boosting (GB)models were evaluated using discrimination, calibration, Brier score, decision curve analysis, and permutation importance. Exact TreeSHAP analysis was used to interpret global and patient-specific contributions in the highest-AUC model. Postoperative abdominal distension occurred in 138 of 1,234 patients (11.18%). In the internal test set ( The models showed moderate internal discrimination but materially different sensitivity-specificity trade-offs. Permutation importance and TreeSHAP consistently identified PCA and drainage tube placement as leading random-forest predictors, while TreeSHAP additionally showed the direction and patient-specific magnitude of each contribution. These model explanations are predictive rather than causal. Prospective temporal validation, external validation, and threshold selection are required before bedside use.",
@@ -2731,12 +2713,31 @@
     "source": "PubMed",
     "category": "journal",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42761078/",
-    "pdf_url": "https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.1871136/pdf",
+    "pdf_url": null,
     "doi": "10.3389/fmed.2026.1871136",
     "citations": 0,
     "venue": "Frontiers in medicine",
-    "open_access": true,
+    "open_access": false,
     "ai_summary": "Study aimed to develop and internally validate an interpretable machine learning-based predictive model for postoperative abdominal distension after spinal surgery . The data were split using stratified sampling into training (80%) and internal test (20%) sets ."
+  },
+  {
+    "id": "pubmed:42761043",
+    "title": "A robust privacy-preserving federated framework for kidney CT image classification using transfer learning models.",
+    "abstract": "Kidney abnormalities, including cysts, tumors, and stones, are the most common renal disorders that can lead to severe complications such as chronic kidney disease or renal failure. Deep learning-based medical image analysis offers an effective approach for the accurate classification of kidney abnormalities, aiding the early diagnosis of renal disorders. However, its centralized training leads to inadequate privacy protection. Considering the importance of ensuring individuals' data privacy, this study proposes a novel federated transfer learning framework for accurate classification of renal abnormalities using 12,446 kidney CT scan images and simultaneously preserves data privacy. CT scan images were preprocessed by resizing and normalization, followed by data augmentation techniques, including random rotations (±30°), horizontal flips, and color jitter, to address class imbalance and improve model generalization. Five pre-trained deep learning models such as MobileNetV2, EfficientNetV2-S, ResNet50, DenseNet121, and InceptionResNetV2 were trained across seven federated clients. Federated weighted averaging was employed for aggregation, and AES-256 encryption in CBC mode was applied to all model parameter transmissions between clients and the server. MobileNetV2 achieved the best performance, attaining 99.48% accuracy, 99.29% precision, 99.32% recall, 99.3% F1-score, 0.9999 AUC-ROC, and log loss of 0.0247. Cross-client validation produced an average accuracy of 98.85% with a generalization gap of only -0.0063, indicating strong generalization across client datasets. The proposed framework provides an effective balance between privacy preservation and communication efficiency, highlighting its potential for deployment in distributed clinical environments for kidney disease diagnosis.",
+    "authors": [
+      "Sai Sri Hemantha Konala",
+      "Srinivas Koppu"
+    ],
+    "published": "2026",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42761043/",
+    "pdf_url": null,
+    "doi": "10.3389/frai.2026.1840721",
+    "citations": 0,
+    "venue": "Frontiers in artificial intelligence",
+    "open_access": false,
+    "ai_summary": "Kidney abnormalities, including cysts, tumors, and stones, are the most common renal disorders . The study proposes a novel transfer learning framework for accurate classification of renal abnormalities using 12,446 kidney CT scan images ."
   },
   {
     "id": "pubmed:42761024",
