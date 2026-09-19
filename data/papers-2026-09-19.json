@@ -89,22 +89,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.21825/ewopinpractice.94703",
-    "title": "Title Pending 94703",
-    "abstract": "",
-    "authors": [],
-    "published": "2035",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.21825/ewopinpractice.94703",
-    "pdf_url": null,
-    "doi": "10.21825/ewopinpractice.94703",
-    "citations": 0,
-    "venue": "EWOP in Practice",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
     "id": "crossref:10.21825/ewopinpractice.94702",
     "title": "Title Pending 94702",
     "abstract": "",
@@ -115,6 +99,22 @@
     "url": "https://doi.org/10.21825/ewopinpractice.94702",
     "pdf_url": null,
     "doi": "10.21825/ewopinpractice.94702",
+    "citations": 0,
+    "venue": "EWOP in Practice",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "crossref:10.21825/ewopinpractice.94703",
+    "title": "Title Pending 94703",
+    "abstract": "",
+    "authors": [],
+    "published": "2035",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.21825/ewopinpractice.94703",
+    "pdf_url": null,
+    "doi": "10.21825/ewopinpractice.94703",
     "citations": 0,
     "venue": "EWOP in Practice",
     "open_access": false,
@@ -193,11 +193,11 @@
     "source": "Crossref",
     "category": "index",
     "url": "https://doi.org/10.3998/mjcsl.2741",
-    "pdf_url": "https://doi.org/10.3998/mjcsl.2741",
+    "pdf_url": null,
     "doi": "10.3998/mjcsl.2741",
     "citations": 0,
     "venue": "Michigan Journal of Community Service Learning",
-    "open_access": true,
+    "open_access": false,
     "ai_summary": "No abstract available."
   },
   {
@@ -487,6 +487,27 @@
     "ai_summary": "No abstract available."
   },
   {
+    "id": "crossref:10.5705/ss.202025.0457",
+    "title": "Sparse Additive Off-policy Evaluation for Reinforcement Learning with Potentially Limited Number of Trajectories",
+    "abstract": "",
+    "authors": [
+      "Tuoyi Zhao",
+      "Chengchun Shi",
+      "Zhengling Qi",
+      "Lan Wang"
+    ],
+    "published": "2029",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.5705/ss.202025.0457",
+    "pdf_url": null,
+    "doi": "10.5705/ss.202025.0457",
+    "citations": 0,
+    "venue": "Statistica Sinica",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
     "id": "crossref:10.5705/ss.202025.0205",
     "title": "Sparsity Learning via Structured Functional Factor Augmentation",
     "abstract": "",
@@ -505,27 +526,6 @@
     "citations": 0,
     "venue": "Statistica Sinica",
     "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "crossref:10.5705/ss.202025.0457",
-    "title": "Sparse Additive Off-policy Evaluation for Reinforcement Learning with Potentially Limited Number of Trajectories",
-    "abstract": "",
-    "authors": [
-      "Tuoyi Zhao",
-      "Chengchun Shi",
-      "Zhengling Qi",
-      "Lan Wang"
-    ],
-    "published": "2029",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.5705/ss.202025.0457",
-    "pdf_url": "https://arxiv.org/pdf/2608.22595v1",
-    "doi": "10.5705/ss.202025.0457",
-    "citations": 0,
-    "venue": "Statistica Sinica",
-    "open_access": true,
     "ai_summary": "No abstract available."
   },
   {
@@ -642,6 +642,27 @@
     "ai_summary": "Research paper will debate role played by principals in teaching and learning process . Research will embrace a quantitative research design that will seek to answer the question about the relationship between leadership skills of principals and teaching-learning process ."
   },
   {
+    "id": "crossref:10.1504/ijims.2028.10076630",
+    "title": "Left Ventricle Extraction Using a DENSENET-U-Net Integrated Deep Learning Approach",
+    "abstract": "",
+    "authors": [
+      "X. Ignatious Viola",
+      "R. Shoba Rani",
+      "G. Savitha",
+      "R. Surekha"
+    ],
+    "published": "2028",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.1504/ijims.2028.10076630",
+    "pdf_url": null,
+    "doi": "10.1504/ijims.2028.10076630",
+    "citations": 0,
+    "venue": "International Journal of Internet Manufacturing and Services",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
     "id": "crossref:10.1504/ijil.2028.10079816",
     "title": "Inserting science: an interdisciplinary, hands-on lesson to enhance scientific literacy in marketing education",
     "abstract": "",
@@ -658,6 +679,25 @@
     "doi": "10.1504/ijil.2028.10079816",
     "citations": 0,
     "venue": "International Journal of Innovation and Learning",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "crossref:10.1504/ijmlo.2028.10080498",
+    "title": "Design and evaluation of AI-Driven personalised learning applications: a systematic review",
+    "abstract": "",
+    "authors": [
+      "Jashnil Kumar",
+      "Bimal Aklesh Kumar"
+    ],
+    "published": "2028",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.1504/ijmlo.2028.10080498",
+    "pdf_url": null,
+    "doi": "10.1504/ijmlo.2028.10080498",
+    "citations": 0,
+    "venue": "International Journal of Mobile Learning and Organisation",
     "open_access": false,
     "ai_summary": "No abstract available."
   },
@@ -699,27 +739,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.1504/ijims.2028.10076630",
-    "title": "Left Ventricle Extraction Using a DENSENET-U-Net Integrated Deep Learning Approach",
-    "abstract": "",
-    "authors": [
-      "X. Ignatious Viola",
-      "R. Shoba Rani",
-      "G. Savitha",
-      "R. Surekha"
-    ],
-    "published": "2028",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.1504/ijims.2028.10076630",
-    "pdf_url": null,
-    "doi": "10.1504/ijims.2028.10076630",
-    "citations": 0,
-    "venue": "International Journal of Internet Manufacturing and Services",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
     "id": "crossref:10.1504/ijbpm.2028.10081045",
     "title": "Evaluating teaching methods for mature learners: a mixed-methods investigation of learning preferences in higher education",
     "abstract": "",
@@ -740,25 +759,6 @@
     "doi": "10.1504/ijbpm.2028.10081045",
     "citations": 0,
     "venue": "International Journal of Business Performance Management",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "crossref:10.1504/ijmlo.2028.10080498",
-    "title": "Design and evaluation of AI-Driven personalised learning applications: a systematic review",
-    "abstract": "",
-    "authors": [
-      "Jashnil Kumar",
-      "Bimal Aklesh Kumar"
-    ],
-    "published": "2028",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.1504/ijmlo.2028.10080498",
-    "pdf_url": null,
-    "doi": "10.1504/ijmlo.2028.10080498",
-    "citations": 0,
-    "venue": "International Journal of Mobile Learning and Organisation",
     "open_access": false,
     "ai_summary": "No abstract available."
   },
@@ -876,243 +876,6 @@
     "venue": "PubMed",
     "open_access": false,
     "ai_summary": "No abstract available."
-  },
-  {
-    "id": "pubmed:42760271",
-    "title": "Workload and discomfort associated with pushing and pulling manual delivery trolleys.",
-    "abstract": "BackgroundCourier service workers transport diverse packages on delivery trolleys. The repetitive pushing and pulling tasks of manual delivery trolleys can increase the risk of work-related musculoskeletal disorders among courier workers.ObjectiveA comparison of different trolley types, task types, and transport directions was conducted to determine the physical workload and ergonomic demands of pushing and pulling tasks during last-mile deliveries.MethodsA within-subjects experiment was conducted with 23 professional male courier workers. Participants performed pushing and pulling tasks with three delivery trolleys: a hand truck, hand cart, and rolltainer. Trolley type, task type, and transport direction (straight and curved) were examined. Muscle activity was measured using electromyography (sEMG). Joint flexion angles were obtained from video recordings using the OpenPose Body-25 model. Lumbar compression and shear forces were estimated using the 3D Static Strength Prediction Program (3D SSPP).ResultsPulling generally induced greater activation of upper-limb muscles and greater flexion of the lower arms and neck than pushing, whereas pushing resulted in greater trunk flexion. Among the trolley types, the hand cart produced the highest muscle activity and the greatest lumbar compression and shear force. Hand trucks imposed the lowest biomechanical demands. Pulling a hand cart generated the greatest load on the lower back. Speeds of transport ranged from 0.66 to 1.15 m/s, with pushing and straight-line movements achieving significantly faster speeds than pulling and curved movements. Last-mile delivery caused the most subjective discomfort in the arms, followed by the lumbar region, while shoulders caused the least discomfort.ConclusionThe findings indicate that trolley type and handling method substantially influence courier delivery workload and biomechanical demands. In routine delivery tasks involving moderate loads, hand trucks may be an ergonomically beneficial option. The findings of this study provide practical evidence for improving trolley selection, work methods, and injury prevention strategies in the courier industry.",
-    "authors": [
-      "Jun Jie Deng",
-      "Qi Wang",
-      "Hong-In Cheng"
-    ],
-    "published": "2026-Sep-18",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42760271/",
-    "pdf_url": null,
-    "doi": "10.1177/10519815261487194",
-    "citations": 0,
-    "venue": "Work (Reading, Mass.)",
-    "open_access": false,
-    "ai_summary": "The repetitive pushing and pulling tasks of manual delivery trolleys can increase the risk of work-related musculoskeletal disorders among courier workers ."
-  },
-  {
-    "id": "pubmed:42760228",
-    "title": "Predicting High Variable Direct Cost in Burn Care: A Comparison of Logistic and Random Forest.",
-    "abstract": "Burn care is uniquely resource-intensive, and early identification of patients at risk for high hospital-incurred costs may enable proactive care coordination and more efficient resource allocation. This study uses the actual hospital cost data, rather than indirect billing metrics, to develop early prediction models for high-cost burn admissions. We performed a retrospective cohort study of 363 adult and pediatric burn patients admitted to a regional burn center between 2022 and 2023. High variable direct cost was defined as variable direct cost exceeding the 75th percentile of the study cohort. Two predictive models, logistic regression and Random forest, were developed using admission variables available early in the hospital course: age, total body surface area, inhalation injury, and burn mechanism. Model performance was evaluated using area under the receiver operating characteristic curve, calibration, and decision curve analysis (DCA) to assess clinical utility. High variable direct cost occurred in 24.8% of patients (90/363). Both models demonstrated similar discrimination (area under the receiver operating characteristic curve ≈ 0.74), with total body surface area as the most influential predictor. Logistic regression showed higher specificity (0.823) and more stable calibration, whereas the Random forest model demonstrated higher sensitivity (0.786) but greater calibration instability. On DCA, the Random forest model provided greater net benefit across clinically relevant threshold probabilities (0.05-0.25), indicating superior utility for identifying patients at risk for high costs. Admission-based prediction models can identify high-resource burn patients early in their hospitalization. Machine learning approaches, particularly Random forest modeling, may better support prospective resource planning, though calibration limitations warrant caution before use in patient-specific decision-making. Incorporating clinical utility metrics such as DCA helps align predictive performance with real-world operational decision-making in burn care.",
-    "authors": [
-      "Tony Zhao",
-      "Kaitlyn Malek",
-      "Anjay Khandelwal"
-    ],
-    "published": "2026-Sep-18",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42760228/",
-    "pdf_url": null,
-    "doi": "10.1016/j.jss.2026.08.039",
-    "citations": 0,
-    "venue": "The Journal of surgical research",
-    "open_access": false,
-    "ai_summary": "Study uses actual hospital cost data, rather than indirect billing metrics, to develop early prediction models for high-cost burn admissions . High variable direct cost was defined as variable direct costs exceeding 75th percentile of study cohort ."
-  },
-  {
-    "id": "pubmed:42760222",
-    "title": "Interpretable Acoustic Domains in Smoking-Status Prediction From Sustained Phonation: A Speaker-Independent Secondary Analysis.",
-    "abstract": "To determine whether a previously developed 208-variable smoking-status voice model could be compressed into interpretable acoustic domains without materially reducing speaker-independent discrimination, and to assess which domains remained stable across model, perturbation, and counterfactual analyses. A secondary analysis was performed on the previously reported cohort of 64 speakers (30 smokers and 34 nonsmokers), using one primary smartphone-recorded sustained /a/ phonation per speaker. The exact 208-variable prosody-spectral feature cache was grouped into 16 prespecified acoustic domains. Domain scores were constructed independently within each leave-one-speaker-out fold using training-only imputation, robust scaling, direction alignment, and median aggregation. A balanced logistic model was evaluated from raw out-of-fold scores. Full-pipeline permutation tests, demographic residualization, domain-only models, demographic-conditional domain replacement, one-speaker jackknife analysis, a secondary Explainable Boosting Machine, and empirical counterfactual searches were performed. The 16-domain model achieved an area under the receiver operating characteristic curve (AUC) of 0.753 (95% confidence interval [CI], 0.624-0.864), compared with 0.769 (95% CI, 0.645-0.878) for the recovered 208-variable model; the paired difference was -0.016 (95% CI, -0.129 to 0.095). Full-pipeline permutation tests were significant under both unrestricted permutation (P = 0.00599) and permutation restricted within age-by-gender strata (P = 0.00500). Spectral centroid, formant structure, and harmonicity/noise were significant as standalone domains after Holm correction. No single conditional-replacement test remained significant after correction. Spectral centroid ranked first in 49 of 64 jackknife analyses and appeared in 57.1% of minimal plausible counterfactuals. A plausible counterfactual was found for 98.4% of speakers, with one domain sufficient for 84.4%. Smoking-associated voice discrimination could be represented compactly through interpretable acoustic domains. The evidence favored a distributed, partially redundant spectral and resonance pattern rather than a single indispensable biomarker. The results describe model behavior in this cohort and require external validation before clinical interpretation.",
-    "authors": [
-      "Yiğit Aydoğan",
-      "İsmail Cantürk"
-    ],
-    "published": "2026-Sep-18",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42760222/",
-    "pdf_url": null,
-    "doi": "10.1016/j.jvoice.2026.08.044",
-    "citations": 0,
-    "venue": "Journal of voice : official journal of the Voice Foundation",
-    "open_access": false,
-    "ai_summary": "A previously developed 208-variable smoking-status voice model could be compressed into interpretable acoustic domains without materially reducing speaker-independent discrimination . A secondary analysis was performed on the previously reported cohort of 64 speakers ."
-  },
-  {
-    "id": "pubmed:42760213",
-    "title": "Artificial Intelligence in Respiratory Medicine: Applications, Methodological Challenges, and Clinical Translation.",
-    "abstract": "Artificial intelligence (AI) is rapidly transforming respiratory medicine by enabling the integration and analysis of complex multimodal data, including imaging, physiological signals, electronic health records, and patient-generated information. This invited state-of-the-art review synthesizes current evidence on AI applications across chronic airway diseases, lung imaging, thoracic surgery and oncology, and sleep medicine and non-invasive ventilation, with a strong focus on clinically meaningful use cases. We highlight how AI can support earlier and more accurate diagnosis, refined phenotyping and endotyping, improved risk stratification, and more individualized therapeutic strategies. Representative applications include AI-assisted spirometry interpretation, multimodal exacerbation prediction, advanced quantitative imaging, perioperative risk modelling, wearable-based sleep apnoea detection, and AI-assisted respiratory support decision-making. Alongside these opportunities, we discuss cross-cutting challenges that currently limit routine implementation, including data quality and representativeness, insufficient external validation and generalizability, algorithmic bias, limited explainability of complex models, and concerns regarding privacy and data governance. Throughout the review, we argue that AI should be conceived as a tool to augment, rather than replace clinical judgment, embedded within human-in-the-loop frameworks that preserve transparency, fairness, and accountability. We conclude by outlining priorities for future research and policy, such as prospective clinical evaluation, multicenter validation in diverse populations, and closer collaboration between clinicians, data scientists, and regulators, which will be essential to translate the promise of AI into tangible improvements in respiratory outcomes and patient-centered care.",
-    "authors": [
-      "Daniel López-Padilla",
-      "Sara Lumbreras",
-      "Àlvar Agustí",
-      "Joseph Jacob",
-      "Gaetano Rocco",
-      "Atul Malhotra",
-      "Joan B Soriano"
-    ],
-    "published": "2026-Sep-18",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42760213/",
-    "pdf_url": null,
-    "doi": "10.1016/j.arbres.2026.08.013",
-    "citations": 0,
-    "venue": "Archivos de bronconeumologia",
-    "open_access": false,
-    "ai_summary": "Artificial intelligence (AI) is rapidly transforming respiratory medicine by enabling the integration and analysis of complex multimodal data . This invited state-of-the-art review synthesizes current evidence on AI applications."
-  },
-  {
-    "id": "pubmed:42760195",
-    "title": "Cooler by cooler - Forecasting transfusion demand and volumes in trauma.",
-    "abstract": "Predictive algorithms may optimize the delivery of care by facilitating early identification of resource requirements. We hypothesize that injury patterns and vitals obtained early after trauma can predict blood volume requirements for blunt and penetrating trauma across a wide array of environments. Patients 18-60 years with blunt, penetrating and burn were included from the 2020 American College of Surgeons-Trauma Quality Improvement Program (TQIP) registry. Emergency Medical Services (EMS) and emergency department (ED) vital signs were analyzed. External injuries that could be easily noted in the field were curated from ICD codes. Blood volumes were treated as a continuous variable with probabilistic distributions predicted. Blood products characterized include packed red blood cells, plasma, platelets, cryoprecipitate and whole blood. The Field Artificial Intelligence Triage (FAIT) tool utilizes 10-fold cross validation using logistic regression and class-based weighting for predictions. The population was 401,337 patients; (314,790 blunt, 71,760 penetrating, and 5726 burn) patients. The median age was 37 (interquartile range (IQR), 27-50). Median injury severity score (ISS) of 6 (IQR, 4-12) with ISS of 26 (IQR, 17-35) for those receiving massive transfusion (>4 units/4 h). FAIT accurately predicted when patients did not require blood; 0.91 ± 0.00 (AUC). Overall predictive capabilities for transfusion volume across ranges corresponding to transfusion (>0 units/4 h), massive transfusion (>4 units/4 h), and ultra-massive transfusion (>10 units/4 h and >20 units/4 h) had an AUC of 0.91-0.95 for the EMS + ED and 0.87-0.91 for the EMS vitals alone. Overall survival for different transfusion thresholds was 71% for > 5 units, 62% for > 10 units and 35% for > 50 units (AUC 0.94-0.95 ± 0.01). The FAIT tool capably distinguishes patients who require transfusion from those who do not across a wide array of injury patterns, severity, and environments. With only limited pre-hospital inputs, the model predicts transfusion volumes within clinically relevant margins.",
-    "authors": [
-      "Allan E Stolarski",
-      "Kevin J Brady",
-      "Jonathan D Stallings",
-      "Dane Scantling",
-      "Crisanto Torres",
-      "Charlene Ong",
-      "Emanuele Lagazzi",
-      "Mark Seamon",
-      "Niels Martin",
-      "Brian A Telfer",
-      "Noelle Saillant"
-    ],
-    "published": "2026-Sep-14",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42760195/",
-    "pdf_url": null,
-    "doi": "10.1016/j.injury.2026.113719",
-    "citations": 0,
-    "venue": "Injury",
-    "open_access": false,
-    "ai_summary": "Predictive algorithms may optimize the delivery of care by facilitating early identification of resource requirements . Patients 18-60 years with blunt, penetrating and burn were included from the 2020 American College of Surgeons-Trauma Quality Improvement Program (TQIP) registry ."
-  },
-  {
-    "id": "pubmed:42760168",
-    "title": "Radiomics and Deep Learning Models Based on Manual and Semi-automatic Segmentation of Ultrasound Images for HER2 Prediction in Bladder Cancer.",
-    "abstract": "To evaluate semi-automatic segmentation of bladder ultrasound images and develop human epidermal growth factor receptor 2 (HER2) prediction models using radiomics and deep learning. We retrospectively analyzed patients with urothelial carcinoma of the bladder from January 2022 to May 2025. The regions of interest (ROIs) were delineated using both semi-automatic segmentation based on segment anything in medical images (MedSAM) and manual segmentation. Radiomic features were extracted and screened to construct radiomics models. ResNet18 was trained to extract deep transfer learning (DTL) features, and the reduced-dimensional features were employed to build DTL models. The radiomic features and DL features were combined to develop deep learning radiomics (DLR) models. Univariate analysis and multivariate analysis were conducted to identify clinical, pathological, and ultrasonic features, and the selected feature was integrated with the most suitable DLR model to develop a combined model. A total of 190 patients were enrolled (133 in the train set and 57 in the test set). The MedSAM-based semi-automatic segmentation achieved a dice similarity coefficient score of 0.824 ± 0.109. The random forest algorithm was selected for constructing both the radiomics signature and the DLR signature. In the manual segmentation group, the Rad, DTL, DLR, and combined signature achieved an area under curve (AUC) of 0.766 (0.638 - 0.894), 0.800 (0.681 - 0.920), 0.792 (0.676 - 0.908), and 0.805 (0.693 - 0.917) in the test set, respectively. In the semi-automatic segmentation group, the Rad, DTL, DLR, and combined signature achieved an AUC of 0.814 (0.700 - 0.930), 0.794 (0.673 - 0.915), 0.835 (0.725 - 0.945), and 0.842 (0.734 - 0.951) in the test set, respectively. MedSAM-based semi-automatic segmentation achieves segmentation performance approaching human experts. The model combining clinical, radiomics, and deep learning features showed promising performance in predicting HER2 status in urothelial carcinoma of the bladder.",
-    "authors": [
-      "Jiajing Zhuang",
-      "Yihan Xie",
-      "Yuefan Chen",
-      "Wenting Zheng",
-      "Guangtian Lian",
-      "Yifan Zhu",
-      "Huiping Zhang",
-      "Xiaoqing Fan",
-      "Fen Fu",
-      "Qin Ye"
-    ],
-    "published": "2026-Sep-18",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42760168/",
-    "pdf_url": null,
-    "doi": "10.1016/j.acra.2026.08.101",
-    "citations": 0,
-    "venue": "Academic radiology",
-    "open_access": false,
-    "ai_summary": "The regions of interest (ROIs) were delineated using both semi-automatic segmentation and manual segmentation . Radiomic features were extracted and screened to construct radiomics models . ResNet18 was trained to extract deep transfer learning (DTL) features, and the reduced-dimensional features were employed to build DTL models ."
-  },
-  {
-    "id": "pubmed:42760167",
-    "title": "Predicting Response to Somatostatin Analog Therapy in GEP-NET Liver Metastases: A Machine Learning Approach with ⁶⁸Ga-DOTATATE and ¹⁸F-FDG PET/CT.",
-    "abstract": "Predicting response to somatostatin analogs (SSAs) in gastroenteropancreatic neuroendocrine tumors (GEP-NETs) with liver metastases (LMs) remains challenging. This study aimed to develop and validate an interpretable machine learning (ML) model based on dual-tracer ( 32 GEP-NET patients with LMs who received first-line octreotide therapy were retrospectively enrolled. Quantitative PET/CT metrics, dual-tracer ratios, and lesion size were extracted from 202 hepatic lesions. Lesions were classified as disease-control (SD/PR) or disease-progression (PD) using size-change thresholds derived from RECIST 1.1. Patients were divided at the patient level into training and validation cohorts. LASSO regression was used for feature selection, followed by the construction of multiple ML models. Leave-one-patient-out cross-validation (LOPOCV) was performed to further assess model robustness, and SHAP analysis was applied for model interpretability. ⁶⁸Ga-DOTATATE TLR, rTLR, and primary size differed significantly between disease-control and disease-progression groups. LASSO identified six key predictive features. The XGBoost model showed the best performance in the patient-level validation cohort, with an AUC of 0.825 and an accuracy of 0.742. In LOPOCV, XGBoost achieved an AUC of 0.856 and an accuracy of 0.787. SHAP analysis revealed that ⁶⁸Ga-DOTATATE TLR, primary size, and ⁶⁸Ga-DOTATATE SUVmean were the three most important predictors. An interpretable ML model integrating dual-tracer PET/CT parameters can effectively predict octreotide response in GEP-NETs with LMs. This approach may provide a noninvasive tool for treatment-response stratification and individualized management.",
-    "authors": [
-      "Junhao Xu",
-      "Miao Yu",
-      "Jingrong Wang",
-      "Nanlin Huang",
-      "Rina Qu",
-      "Jinquan Yao",
-      "Rongxue Shan",
-      "Kezheng Wang",
-      "Jie Lian",
-      "Haibo Lu"
-    ],
-    "published": "2026-Sep-18",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42760167/",
-    "pdf_url": null,
-    "doi": "10.1016/j.acra.2026.08.115",
-    "citations": 0,
-    "venue": "Academic radiology",
-    "open_access": false,
-    "ai_summary": "Study aimed to develop and validate an interpretable machine learning (ML) model based on dual-tracer (GEP-NET patients with LMs) Patients were divided at the patient level into training and validation cohorts . LASSO regression was used for feature selection ."
-  },
-  {
-    "id": "pubmed:42760153",
-    "title": "Facial attractiveness and profile-based perceived orthognathic surgery need: comparative assessment among professionals, laypersons, and artificial intelligence models.",
-    "abstract": "This study evaluated the effect of controlled 2° sagittal profile modifications on facial attractiveness ratings and profile-based perceived orthognathic surgery need using one standardized female and one standardized male facial model. For each model, nine digitally manipulated profile images were generated from -8° to +8° relative to baseline and assessed by orthodontists, oral and maxillofacial surgeons (OMFS), and laypersons (n = 72). Two multimodal artificial intelligence systems, ChatGPT-4.0 and Gemini 1.5 Pro, independently generated attractiveness scores to provide an exploratory benchmark for human-AI agreement. The selected models showed distinct sagittal response patterns. For the female model, attractiveness ratings peaked within a mild retrusive range (-2° to -4°), whereas ratings for the male model increased with greater sagittal projection. Significant intergroup differences were observed at selected sagittal positions, with orthodontists generally showing narrower esthetic tolerance. Profile-based surgical recommendations differed significantly for the male model (P < 0.001), with OMFS specialists recommending intervention most frequently, while no significant overall group difference was found for the female model. Human-AI agreement was model-dependent: Gemini showed closer alignment with human ratings for the female model, whereas ChatGPT-4.0 aligned more closely with human ratings for the male model. Both AI systems declined to provide surgical recommendations because of built-in ethical restrictions. Within the limitations of a two-model, profile-based design, sagittal esthetic perception appeared to vary according to model sex, evaluator background, and AI system. These findings should be interpreted as model-specific and exploratory rather than as generalizable sex-based esthetic norms.",
-    "authors": [
-      "C Güzel",
-      "Y M Okumuş",
-      "I Türkan",
-      "H Yılancı"
-    ],
-    "published": "2026-Sep-18",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42760153/",
-    "pdf_url": null,
-    "doi": "10.1016/j.ijom.2026.09.006",
-    "citations": 0,
-    "venue": "International journal of oral and maxillofacial surgery",
-    "open_access": false,
-    "ai_summary": "The study evaluated the effect of controlled 2° sagittal profile modifications on facial attractiveness ratings . The selected models showed distinct sagittal response patterns . For the female model, attractiveness ratings peaked within a mild retrusive range (-2° to -4°), whereas ratings for the male model increased with greater sagittal projection ."
-  },
-  {
-    "id": "pubmed:42760143",
-    "title": "The value of machine learning inference to predict multidisciplinary discussion diagnosis of interstitial lung diseases.",
-    "abstract": "Multidisciplinary discussion (MDD) is the reference standard for diagnosing interstitial lung diseases (ILD), however, it requires considerable expertise, and up to 25% of patients remain unclassifiable. We evaluated whether machine learning (ML) models trained on multimodal data can accurately replicate MDD consensus ILD diagnoses. We retrospectively identified 428 patients with ILD confirmed by MDD consensus at a tertiary academic center from 2010 to 2021. Using comprehensive clinical and radiological data, we trained and cross-validated multiple ML models for three classifications: (1) three-level: connective tissue disease associated ILD (CTD-ILD), usual interstitial pneumonia (UIP), or unclassifiable; (2) UIP/IPF versus all other, and (3) unclassifiable versus all other. Logistic regression, random forest, and neural networks ML models were trained with five-fold cross-validation. Performance was compared via area under the curve (AUC) with 95% confidence intervals. MDD diagnoses were UIP/IPF in 131 patients (30.6%), CTD-ILD in 130 (30.4%), and unclassifiable ILD in 167 (39.0%). Clinical variables and CT imaging features were more predictive than PFTs. ML models achieved AUC values ranging from 0.66 to 0.92. For UIP/IPF vs. other, the neural network reached an AUC of 0.88. Notably, the Lasso regression model exhibited high specificity (0.966), suggesting utility as a high-confidence \"rule-in\" AI tool. ML classification closely approximated MDD diagnoses of ILD, especially for UIP/IPF, relying primarily on clinical and CT imaging features, even without pathology information, allowing expert-level diagnostic performance where MDD resources are not available.",
-    "authors": [
-      "Eduardo J Mortani Barbosa",
-      "Yohan Kim",
-      "Justin Shanahan",
-      "Alex Rupsee"
-    ],
-    "published": "2026-Sep-11",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42760143/",
-    "pdf_url": "https://www.sciencedirect.com/science/article/pii/S0363018826001611/pdf",
-    "doi": "10.1067/j.cpradiol.2026.09.002",
-    "citations": 0,
-    "venue": "Current problems in diagnostic radiology",
-    "open_access": true,
-    "ai_summary": "Up to 25% of patients with interstitial lung diseases remain unclassifiable . We evaluated whether machine learning (ML) models trained on multimodal data can accurately replicate MDD consensus ILD diagnoses ."
-  },
-  {
-    "id": "pubmed:42760178",
-    "title": "Highlights from the 2024 annual meeting of the fetal, infant, and Toddler Neuroimaging Group (FIT'NG).",
-    "abstract": "The Fetal, Infant, and Toddler Neuroimaging Group (FIT'NG) is a scientific society advancing research on fetal, perinatal, infant, and early childhood brain and behavioral development through neuroimaging, encompassing theoretical, technical, fundamental, and clinical dimensions. It unites researchers across physics, neuroscience, cognitive science, psychology, computer science, biomedical engineering, and medicine, fostering interdisciplinary collaboration among leading laboratories in the field. The annual FIT'NG conference serves as a key forum for exchanging new ideas and methods, addressing shared challenges, and promoting best practices. It supports the society's mission of connecting complementary expertise and training the next generation of scientists in the field. This special issue compiles articles highlighting work presented at the FIT'NG conference held in September 2024 in Baltimore, MD, USA, offering an overview of recent advances in fetal, neonatal, infant, and toddler neuroimaging and their applications. A central focus of the FIT'NG community is identifying early markers of atypical neurodevelopment to support translational research and inform preventive and intervention strategies. Prematurity and other perinatal adversities, including environmental factors, serve as key models of atypical cognitive and social development and strong candidates for translational work. This focus has driven notable progress in technological and analytical methods, including high-precision functional and structural connectivity imaging, statistical innovations for large cohorts supporting hypothesis-driven longitudinal designs, and integrative modeling combining physiological and metabolic data with neuroimaging. Notably, this year's meeting featured significant advances in fetal research, increasingly enabled by deep learning, which now support individual-level analyses, paving the way for precision neuroscience and clinically relevant applications.",
-    "authors": [
-      "Nadege Roche-Labarbe",
-      "Johanna Bick",
-      "M Catalina Camacho",
-      "Juliette Champaud",
-      "Haerin Chung",
-      "Lorenzo Fabrizi",
-      "Marta Korom",
-      "Emma T Margolis",
-      "Julia Moser",
-      "Paige M Nelson",
-      "Rebecca F Schwarzlose",
-      "Marisa Spann",
-      "Lilla Zöllei"
-    ],
-    "published": "2026-Sep-09",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42760178/",
-    "pdf_url": null,
-    "doi": "10.1016/j.dcn.2026.101814",
-    "citations": 0,
-    "venue": "Developmental cognitive neuroscience",
-    "open_access": false,
-    "ai_summary": "The Fetal, Infant, and Toddler Neuroimaging Group (FIT'NG) is a scientific society advancing research on fetal, perinatal, infant, and early childhood brain and behavioral development . It unites researchers across physics, neuroscience, cognitive science, psychology, computer science, biomedical engineering, and medicine, fostering interdisciplinary"
   },
   {
     "id": "openalex:W7118720654",
@@ -1549,6 +1312,30 @@
     "ai_summary": "No abstract available."
   },
   {
+    "id": "openalex:W7213591811",
+    "title": "PALYIM: A Modular, Open-Source Science Gateway for AI-Enabled Palynology Image Analysis",
+    "abstract": "",
+    "authors": [
+      "Sandeep Puthanveetil Satheesan",
+      "Luigi Marini",
+      "Shu Kong",
+      "Carlos Jaramillo",
+      "Kenton McHenry",
+      "Charless C. Fowlkes",
+      "Surangi W. Punyasena"
+    ],
+    "published": "2026-10-19",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.5281/zenodo.22820350",
+    "pdf_url": "https://doi.org/10.5281/zenodo.22820350",
+    "doi": "10.5281/zenodo.22820350",
+    "citations": 0,
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
     "id": "openalex:W7162760937",
     "title": "Simultaneous Cortical Responses to Multiple Written Words",
     "abstract": "",
@@ -1650,25 +1437,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "openalex:W7212377743",
-    "title": "Artificial Intelligence For Climate-Resilient Plants: Emerging Ai Approaches For Predicting Drought, Salinity And Temperature Stress.",
-    "abstract": "",
-    "authors": [
-      "Aruna Nangare",
-      "Vaishali Wankhede"
-    ],
-    "published": "2026-09-30",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.5281/zenodo.22724439",
-    "pdf_url": "https://doi.org/10.5281/zenodo.22724439",
-    "doi": "10.5281/zenodo.22724439",
-    "citations": 0,
-    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
     "id": "openalex:W4403048355",
     "title": "What is the Role of Small Models in the LLM Era: A Survey",
     "abstract": "",
@@ -1756,26 +1524,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "arxiv:2609.20819v1",
-    "title": "Can 4D Foundation Models Remember?",
-    "abstract": "Perceiving and remembering the visual world is fundamental to navigating and interacting with our environment. Current 4D foundation models, such as camera-controllable video models or 4D reconstruction models, can perceive and reconstruct dynamic environments, but how well they remember what they have perceived remains an open question. Existing benchmarks largely rely on pixel-level metrics and lack ground truth for objects once they leave the field of view, making them unable to evaluate visual memory in an object-centric manner against references. To fill this gap, we introduce PersistBench, a dataset and metric suite that leverages 360° videos as omniscient ground truth and proposes three evaluation aspects: object permanence, motion continuity, and appearance preservation. Evaluating various models across diverse categories reveals that current models can only maintain short-term consistency that degrades significantly once objects leave the field of view. Our findings highlight the gap between current model capabilities and robust visual memory (\"seeing is not remembering\"), providing guidance for future development of 4D foundation models. Dataset and code are available on the project page: https://guangzhaohe.com/persistbench.",
-    "authors": [
-      "Guangzhao He",
-      "Hadar Averbuch-Elor",
-      "Wei-Chiu Ma"
-    ],
-    "published": "2026-09-17",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2609.20819v1",
-    "pdf_url": "https://arxiv.org/pdf/2609.20819v1",
-    "doi": null,
-    "citations": 0,
-    "venue": "arXiv preprint",
-    "open_access": true,
-    "ai_summary": "Current 4D foundation models can perceive and reconstruct dynamic environments, but how well they remember what they have perceived remains an open question . Existing benchmarks largely rely on pixel-level metrics and lack ground truth for objects once they leave the field of view . To fill this gap, we introduce PersistBench, a dataset and metric suite"
-  },
-  {
     "id": "arxiv:2609.20821v1",
     "title": "Embedding Models Measure in Peculiar Ways",
     "abstract": "Embedding spaces define notions of semantic similarity and distance. We study whether those embeddings reflect physical measurements of mass, distance, time and volume, which admit a unique, objective notion of semantic equivalence and distance. We find that physical measurement is only weakly modeled in the embedding space, and that instead quite peculiar measurement patterns can be observed. Further analysis indicates that embedding representations of physical measurements are strongly influenced by superficial string similarity, and recalibration of similarity does not substantially improve the alignment.",
@@ -1793,29 +1541,6 @@
     "venue": "arXiv preprint",
     "open_access": true,
     "ai_summary": "Embedding spaces define notions of semantic similarity and distance . We study whether those embeddings reflect physical measurements of mass, distance, time and volume . We find that physical measurement is only weakly modeled in the embedding space ."
-  },
-  {
-    "id": "arxiv:2609.20820v1",
-    "title": "Workspace Models: Lightweight Robotic Memory via Saliency-Driven Supervision",
-    "abstract": "Complex robotic manipulation tasks frequently require a long-term memory of past events and actions. As conditioning on full histories renders policies prone to spurious correlations and degrades performance, many approaches to policy memory involve compressing historical information through expensive VLM queries in-the-loop to process only task-salient information. In this paper, we propose an alternative approach in which computationally intensive VLM queries are made during train-time to learn a lightweight latent memory that can be efficiently queried at deployment time. Our representation, which we call the \\textbf{workspace token}, is trained by (1) using a VLM to identify current and historical information necessary for completing a task, then (2) distilling these into the workspace token using a set-reconstruction decoder loss. In both simulation and hardware, we show that the workspace token can be used as a drop-in replacement for observations during deployment, enabling policies to solve memory-intensive tasks without the need for VLM reasoning in-the-loop. Interestingly, we found that workspace tokens are not only more lightweight but also lead to better policy performance.",
-    "authors": [
-      "Nitish Dashora",
-      "Douglas Chen",
-      "Idan Shenfeld",
-      "John Marangola",
-      "Pulkit Agrawal",
-      "Max Simchowitz"
-    ],
-    "published": "2026-09-17",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2609.20820v1",
-    "pdf_url": "https://arxiv.org/pdf/2609.20820v1",
-    "doi": null,
-    "citations": 0,
-    "venue": "arXiv preprint",
-    "open_access": true,
-    "ai_summary": "The work is based on the work of a team of researchers in the U.S. They say they can use a VLM to learn a lightweight latent memory that can be efficiently queried at deployment time . They say this could be used as a drop-in replacement for observations during deployment ."
   },
   {
     "id": "arxiv:2609.20817v1",
@@ -1843,27 +1568,6 @@
     "ai_summary": "Modeling articulated objects from sparse monocular views is challenging because each observation reveals only partial geometry and motion evidence . We present FAMOS, a feed-forward model that predicts movable-part segmentation and joint parameters from a sparse, unordered set of partial point clouds ."
   },
   {
-    "id": "arxiv:2609.20822v1",
-    "title": "Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation",
-    "abstract": "Coding agents have emerged as a promising paradigm for robot manipulation: a language model writes the robot controller as a program, and agents built in this way now operate robots without robot-specific training.Whether this paradigm is also safe, however, has not been asked. We evaluate coding agent under a safety constraint, where each task pairs a manipulation goal with an obstacle the robot must not touch. The agent pursues the goal but collides with the obstacle in most cases, treating task completion as its sole objective while neglecting safety. The agent reasons about the obstacle in its traces, and the prompt already forbids touching it, so neither perception nor instruction is at fault; the fault lies in the planning, where the stated constraint never becomes a priority. By decomposing manipulation into a route phase and a contact-rich moment, we locate the source of the failure. Along the route, the model cannot prioritize the safety constraint, having no notion of a clearing route and none of replanning once a chosen route becomes infeasible. At the contact, it is unaware that contact execution is bounded by the same constraint. To close this gap, we present SafeHarness, which equips the model with two obstacle-aware harnesses that enable it to prioritize the safety constraint. Obstacle-aware route planning grounds the objects as bounding boxes and draws candidate routes over them as sequences of waypoints. The agent then plans a route in advance, verifies it, replans when necessary, and only then executes it. Obstacle-aware contact execution instead selects the contact position so that the contact itself avoids the obstacle. SafeHarness attains 71.9% task success and 87.5% collision avoidance, surpassing the previous SOTA by 6.5% and 27.0%, respectively. These results are $2.3\\times$ and $1.5\\times$ those of the same agent without harnesses.",
-    "authors": [
-      "Bingxin Xu",
-      "Yuzhang Shang",
-      "Zhen Dong",
-      "Emilio Ferrara"
-    ],
-    "published": "2026-09-17",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2609.20822v1",
-    "pdf_url": "https://arxiv.org/pdf/2609.20822v1",
-    "doi": null,
-    "citations": 0,
-    "venue": "arXiv preprint",
-    "open_access": true,
-    "ai_summary": "A language model writes the robot controller as a program, and agents built in this way now operate robots without robot-specific training . Whether this paradigm is also safe has not been asked ."
-  },
-  {
     "id": "arxiv:2609.20818v1",
     "title": "SplashSplat: Reconstructing Splashing Liquids from Real-World Multi-View Videos",
     "abstract": "A splash lives for a fraction of a second: sheets tear into ligaments and droplets, appearance is view-dependent and nearly textureless, and little persists long enough to track. Reconstruction research has consequently focused on smoke, synthetic liquids, or gently deforming surfaces. To our knowledge, no synchronized multi-view dataset of splashing liquids exists. We therefore introduce a benchmark of 20 real scenes, from coherent streams to violent splashes, captured by seven synchronized, calibrated 4K cameras at 60 fps, with manually refined per-view liquid and container masks and fixed evaluation splits. We further present SplashSplat, built on a single principle: impose physical structure only where the observations can constrain it. Per-frame liquid SDFs fused from the masks provide the geometry, level-set transport between consecutive SDFs yields a coarse velocity field, and Lagrangian carriers advected along this flow, corrected against each new observation and reseeded where coverage is lost, decode local Gaussians for differentiable rendering. SplashSplat outperforms state-of-the-art dynamic Gaussian splatting methods on our real captures and on a synthetic benchmark, with physically more plausible motion and a lower training cost. The same representation supports temporal interpolation and style transfer without re-optimization.",
@@ -1885,6 +1589,70 @@
     "venue": "arXiv preprint",
     "open_access": true,
     "ai_summary": "A splash lives for a fraction of a second: sheets tear into ligaments and droplets, appearance is view-dependent and nearly textureless . To our knowledge, no synchronized multi-view dataset of splashing liquids exists . We introduce a benchmark of 20 real scenes, from coherent streams to violent splashes ."
+  },
+  {
+    "id": "arxiv:2609.20820v1",
+    "title": "Workspace Models: Lightweight Robotic Memory via Saliency-Driven Supervision",
+    "abstract": "Complex robotic manipulation tasks frequently require a long-term memory of past events and actions. As conditioning on full histories renders policies prone to spurious correlations and degrades performance, many approaches to policy memory involve compressing historical information through expensive VLM queries in-the-loop to process only task-salient information. In this paper, we propose an alternative approach in which computationally intensive VLM queries are made during train-time to learn a lightweight latent memory that can be efficiently queried at deployment time. Our representation, which we call the \\textbf{workspace token}, is trained by (1) using a VLM to identify current and historical information necessary for completing a task, then (2) distilling these into the workspace token using a set-reconstruction decoder loss. In both simulation and hardware, we show that the workspace token can be used as a drop-in replacement for observations during deployment, enabling policies to solve memory-intensive tasks without the need for VLM reasoning in-the-loop. Interestingly, we found that workspace tokens are not only more lightweight but also lead to better policy performance.",
+    "authors": [
+      "Nitish Dashora",
+      "Douglas Chen",
+      "Idan Shenfeld",
+      "John Marangola",
+      "Pulkit Agrawal",
+      "Max Simchowitz"
+    ],
+    "published": "2026-09-17",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2609.20820v1",
+    "pdf_url": "https://arxiv.org/pdf/2609.20820v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "The work is based on the work of a team of researchers in the U.S. They say they can use a VLM to learn a lightweight latent memory that can be efficiently queried at deployment time . They say this could be used as a drop-in replacement for observations during deployment ."
+  },
+  {
+    "id": "arxiv:2609.20822v1",
+    "title": "Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation",
+    "abstract": "Coding agents have emerged as a promising paradigm for robot manipulation: a language model writes the robot controller as a program, and agents built in this way now operate robots without robot-specific training.Whether this paradigm is also safe, however, has not been asked. We evaluate coding agent under a safety constraint, where each task pairs a manipulation goal with an obstacle the robot must not touch. The agent pursues the goal but collides with the obstacle in most cases, treating task completion as its sole objective while neglecting safety. The agent reasons about the obstacle in its traces, and the prompt already forbids touching it, so neither perception nor instruction is at fault; the fault lies in the planning, where the stated constraint never becomes a priority. By decomposing manipulation into a route phase and a contact-rich moment, we locate the source of the failure. Along the route, the model cannot prioritize the safety constraint, having no notion of a clearing route and none of replanning once a chosen route becomes infeasible. At the contact, it is unaware that contact execution is bounded by the same constraint. To close this gap, we present SafeHarness, which equips the model with two obstacle-aware harnesses that enable it to prioritize the safety constraint. Obstacle-aware route planning grounds the objects as bounding boxes and draws candidate routes over them as sequences of waypoints. The agent then plans a route in advance, verifies it, replans when necessary, and only then executes it. Obstacle-aware contact execution instead selects the contact position so that the contact itself avoids the obstacle. SafeHarness attains 71.9% task success and 87.5% collision avoidance, surpassing the previous SOTA by 6.5% and 27.0%, respectively. These results are $2.3\\times$ and $1.5\\times$ those of the same agent without harnesses.",
+    "authors": [
+      "Bingxin Xu",
+      "Yuzhang Shang",
+      "Zhen Dong",
+      "Emilio Ferrara"
+    ],
+    "published": "2026-09-17",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2609.20822v1",
+    "pdf_url": "https://arxiv.org/pdf/2609.20822v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "A language model writes the robot controller as a program, and agents built in this way now operate robots without robot-specific training . Whether this paradigm is also safe has not been asked ."
+  },
+  {
+    "id": "arxiv:2609.20819v1",
+    "title": "Can 4D Foundation Models Remember?",
+    "abstract": "Perceiving and remembering the visual world is fundamental to navigating and interacting with our environment. Current 4D foundation models, such as camera-controllable video models or 4D reconstruction models, can perceive and reconstruct dynamic environments, but how well they remember what they have perceived remains an open question. Existing benchmarks largely rely on pixel-level metrics and lack ground truth for objects once they leave the field of view, making them unable to evaluate visual memory in an object-centric manner against references. To fill this gap, we introduce PersistBench, a dataset and metric suite that leverages 360° videos as omniscient ground truth and proposes three evaluation aspects: object permanence, motion continuity, and appearance preservation. Evaluating various models across diverse categories reveals that current models can only maintain short-term consistency that degrades significantly once objects leave the field of view. Our findings highlight the gap between current model capabilities and robust visual memory (\"seeing is not remembering\"), providing guidance for future development of 4D foundation models. Dataset and code are available on the project page: https://guangzhaohe.com/persistbench.",
+    "authors": [
+      "Guangzhao He",
+      "Hadar Averbuch-Elor",
+      "Wei-Chiu Ma"
+    ],
+    "published": "2026-09-17",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2609.20819v1",
+    "pdf_url": "https://arxiv.org/pdf/2609.20819v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "Current 4D foundation models can perceive and reconstruct dynamic environments, but how well they remember what they have perceived remains an open question . Existing benchmarks rely on pixel-level metrics and lack ground truth for objects once they leave the field of view . To fill this gap, we introduce PersistBench, a dataset and metric suite that leverages"
   },
   {
     "id": "arxiv:2609.20816v1",
@@ -2144,7 +1912,7 @@
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "The pattern is most visible at GPT-5: Topic~5 (1,997~documents) frames breast cancer as a men's rights debate, while zero equivalent clusters appear in women-directed output . Three independent classifiers score this content as non-toxic ."
+    "ai_summary": "Safety evaluations for large language models rely on surface-form classifiers that report declining harm scores across model generations . We call this \\emph{harm laundering}. Analysing 450,000 gender-directed completions across 15 models spanning GPT-2 through to G PT-5 ."
   },
   {
     "id": "arxiv:2609.20776v1",
@@ -2515,7 +2283,7 @@
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "Semantic cell annotation improves chunking interpretability for spreadsheets in LLM-driven RAG systems . We propose a novel framework of splitting any spreadsheet into interpretable chunks using cell role annotation ."
+    "ai_summary": "Spreadsheets are fundamentally two-dimensional unstructured data with continuous relationships and infinite potential cell roles . We propose a novel framework of splitting any spreadsheet into interpretable chunks using cell role annotation ."
   },
   {
     "id": "arxiv:2609.20723v1",
@@ -2877,5 +2645,234 @@
     "venue": "arXiv preprint",
     "open_access": true,
     "ai_summary": "Large-scale vision-language-action (VLA) models provide powerful priors for robot manipulation . Supervised fine-tuning (SFT) on task-specific demonstrations provides a step toward deployment . HIL-UMI, a policy-guided Universal Manipulation Interface (UMI) framework for robot-free"
+  },
+  {
+    "id": "pubmed:42761085",
+    "title": "Development and external validation of an explainable machine learning model for in-hospital mortality risk stratification in intensive care unit patients with heart failure.",
+    "abstract": "Early risk stratification for in-hospital mortality remains challenging in intensive care unit (ICU) patients with heart failure (HF) because of substantial clinical heterogeneity and complex pathophysiological interactions. Explainable machine learning (ML) may offer a practical and transparent approach to prognostic assessment in this high-risk population. This retrospective dual-cohort study included 18,526 ICU patients with HF from the MIMIC-IV database (2008-2022) as the development cohort and 314 consecutive ICU patients with HF from an independent hospital-based cohort from August 1, 2023, to May 31, 2026, as the external validation cohort. Candidate predictors available within 24 h of ICU admission were screened using the Boruta algorithm and least absolute shrinkage and selection operator regression. Five ML algorithms were developed in the development cohort and compared using 5-fold nested cross-validation for internal validation. Model interpretability was assessed using Shapley Additive Explanations (SHAP). Nine routinely available predictors were retained for final model development. Among the candidate algorithms, Extreme Gradient Boosting (XGBoost) showed the most balanced overall performance and was selected as the final model. In internal validation using nested cross-validation, the XGBoost model achieved the highest validation area under the receiver operating characteristic curve (AUC), at 0.704 (95% CI 0.682-0.726). In the external validation cohort, the final model achieved an AUC of 0.877 (95% CI 0.820-0.933) and a Brier score of 0.079 (95% CI 0.061-0.099). However, this apparently stronger discrimination should be interpreted cautiously in light of cohort differences and the limited number of external events. SHAP analysis identified blood urea nitrogen, age, and white blood cell count as the most influential predictors. An explainable XGBoost-based model using nine routinely available early clinical variables showed promising performance for predicting in-hospital all-cause mortality in ICU patients with HF. This interpretable tool may support early risk stratification and individualized clinical management in critically ill patients with HF. Further large multicenter external validation is warranted.",
+    "authors": [
+      "Liusheng Xu",
+      "Wei Cao",
+      "Zefan Huang",
+      "Kefeng Lu",
+      "Yichen Fang",
+      "Jinhui Zhang",
+      "Ping Zhang",
+      "Tongbao Feng"
+    ],
+    "published": "2026",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42761085/",
+    "pdf_url": null,
+    "doi": "10.3389/fcvm.2026.1942393",
+    "citations": 0,
+    "venue": "Frontiers in cardiovascular medicine",
+    "open_access": false,
+    "ai_summary": "Explainable machine learning (ML) may offer a practical and transparent approach to prognostic assessment in this high-risk population . This retrospective dual-cohort study included 18,526 ICU patients with HF from the MIMIC-IV database ."
+  },
+  {
+    "id": "pubmed:42761061",
+    "title": "Development and validation of a postpartum hemorrhage risk prediction model for advanced maternal age women undergoing vaginal delivery: a comparison of multiple machine learning algorithms.",
+    "abstract": "Postpartum hemorrhage (PPH) is the leading cause of maternal mortality in women of advanced maternal age (AMA). Accurate antenatal prediction remains challenging. This study aimed to develop and compare the performance of multiple machine learning (ML) algorithms for predicting PPH risk following vaginal delivery in AMA parturients. A retrospective cohort study was conducted using data from 5,369 women who delivered vaginally at Shanghai First Maternity and Infant Hospital. LASSO regression was used to identify key predictors. Seven machine learning algorithms-logistic regression (LR), decision tree (DT), random forest (RF), XGBoost, LightGBM, support vector machine (SVM), and artificial neural network (ANN)-were employed to build prediction models. Model performance was evaluated on an independent validation set using the area under the receiver operating characteristic curve (AUC), sensitivity, specificity, and F1 score. The optimal model was selected based on a composite criterion prioritizing the highest sensitivity and best F1 score, while requiring a competitive AUC. Eight predictors were selected for model construction. Among the seven models, the SVM model achieved the highest sensitivity (0.482) and the highest F1 score (0.504), and was therefore selected as the clinically preferred model, while maintaining a competitive AUC of 0.782 (95%  Among seven machine learning models, the SVM model was selected as the clinically preferred predictor due to its highest sensitivity and F1-score. Its good discriminative ability and balanced performance make it suitable for clinical application as a screening tool. The integration of SHAP analysis can further enhance model interpretability and facilitate individualized risk assessment.",
+    "authors": [
+      "Yun Zhou",
+      "Xiao Yao",
+      "Jue Zhou",
+      "Yaoxiang Duan",
+      "Yi Yu",
+      "Xueer Ma"
+    ],
+    "published": "2026",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42761061/",
+    "pdf_url": null,
+    "doi": "10.3389/fmed.2026.1898119",
+    "citations": 0,
+    "venue": "Frontiers in medicine",
+    "open_access": false,
+    "ai_summary": "Postpartum hemorrhage (PPH) is the leading cause of maternal mortality in women of advanced maternal age (AMA) This study aimed to develop and compare the performance of multiple machine learning algorithms for predicting PPH risk following vaginal delivery in AMA parturients ."
+  },
+  {
+    "id": "pubmed:42761043",
+    "title": "A robust privacy-preserving federated framework for kidney CT image classification using transfer learning models.",
+    "abstract": "Kidney abnormalities, including cysts, tumors, and stones, are the most common renal disorders that can lead to severe complications such as chronic kidney disease or renal failure. Deep learning-based medical image analysis offers an effective approach for the accurate classification of kidney abnormalities, aiding the early diagnosis of renal disorders. However, its centralized training leads to inadequate privacy protection. Considering the importance of ensuring individuals' data privacy, this study proposes a novel federated transfer learning framework for accurate classification of renal abnormalities using 12,446 kidney CT scan images and simultaneously preserves data privacy. CT scan images were preprocessed by resizing and normalization, followed by data augmentation techniques, including random rotations (±30°), horizontal flips, and color jitter, to address class imbalance and improve model generalization. Five pre-trained deep learning models such as MobileNetV2, EfficientNetV2-S, ResNet50, DenseNet121, and InceptionResNetV2 were trained across seven federated clients. Federated weighted averaging was employed for aggregation, and AES-256 encryption in CBC mode was applied to all model parameter transmissions between clients and the server. MobileNetV2 achieved the best performance, attaining 99.48% accuracy, 99.29% precision, 99.32% recall, 99.3% F1-score, 0.9999 AUC-ROC, and log loss of 0.0247. Cross-client validation produced an average accuracy of 98.85% with a generalization gap of only -0.0063, indicating strong generalization across client datasets. The proposed framework provides an effective balance between privacy preservation and communication efficiency, highlighting its potential for deployment in distributed clinical environments for kidney disease diagnosis.",
+    "authors": [
+      "Sai Sri Hemantha Konala",
+      "Srinivas Koppu"
+    ],
+    "published": "2026",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42761043/",
+    "pdf_url": null,
+    "doi": "10.3389/frai.2026.1840721",
+    "citations": 0,
+    "venue": "Frontiers in artificial intelligence",
+    "open_access": false,
+    "ai_summary": "Kidney abnormalities, including cysts, tumors, and stones, are the most common renal disorders . The study proposes a novel transfer learning framework for accurate classification of renal abnormalities using 12,446 kidney CT scan images ."
+  },
+  {
+    "id": "pubmed:42761078",
+    "title": "Machine learning-based risk prediction model for postoperative abdominal distension after spinal surgery under general anesthesia.",
+    "abstract": "Early identification of patients at risk of postoperative abdominal distension after spinal surgery remains clinically difficult. Machine learning may improve risk prediction by integrating routinely available perioperative information. This study aimed to develop and internally validate an interpretable machine learning-based predictive model for postoperative abdominal distension after spinal surgery under general anesthesia and to identify clinically relevant predictors for early nursing risk stratification. This retrospective single-center prediction model study included 1,234 patients who underwent spinal surgery under general anesthesia. Seventeen routinely recorded perioperative and early postoperative variables were evaluated, including postoperative ADL category(ADL), PCA, and postoperative antibiotic use (yes/no). The data were split using stratified sampling into training (80%) and internal test (20%) sets. Missing-value imputation, scaling, five-fold cross-validated grid search, and model fitting were performed within the training workflow. Logistic regression(LR), RF, support vector machine(SVM), and gradient boosting (GB)models were evaluated using discrimination, calibration, Brier score, decision curve analysis, and permutation importance. Exact TreeSHAP analysis was used to interpret global and patient-specific contributions in the highest-AUC model. Postoperative abdominal distension occurred in 138 of 1,234 patients (11.18%). In the internal test set ( The models showed moderate internal discrimination but materially different sensitivity-specificity trade-offs. Permutation importance and TreeSHAP consistently identified PCA and drainage tube placement as leading random-forest predictors, while TreeSHAP additionally showed the direction and patient-specific magnitude of each contribution. These model explanations are predictive rather than causal. Prospective temporal validation, external validation, and threshold selection are required before bedside use.",
+    "authors": [
+      "Chanli Wu",
+      "Liju Xie",
+      "Shihao Zhou",
+      "Yingjie Hu",
+      "Xialin Li",
+      "Zheng Huang",
+      "Dazhi Yang",
+      "Xihong Mou"
+    ],
+    "published": "2026",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42761078/",
+    "pdf_url": "https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.1871136/pdf",
+    "doi": "10.3389/fmed.2026.1871136",
+    "citations": 0,
+    "venue": "Frontiers in medicine",
+    "open_access": true,
+    "ai_summary": "Study aimed to develop and internally validate an interpretable machine learning-based predictive model for postoperative abdominal distension after spinal surgery . The data were split using stratified sampling into training (80%) and internal test (20%) sets ."
+  },
+  {
+    "id": "pubmed:42761024",
+    "title": "Research on prognostic prediction of colorectal cancer based on multi-dimensional biomarker features and machine learning models.",
+    "abstract": "The traditional TNM staging system for colorectal cancer (CRC) prognosis has significant limitations, with prognostic differences exceeding 40% among patients with the same stage. This study aims to construct and validate a machine learning prognostic prediction model based on routinely available clinical, laboratory, inflammatory, nutritional, and treatment-related variables for hospitalized colorectal cancer patients. Given that the training cohort (MIMIC-IV) primarily comprises hospitalized and critically ill patients, the proposed model is intended for risk stratification in hospitalized CRC patients. A retrospective cohort study used the MIMIC-IV database (n = 2049) for training/internal validation and the Second Affiliated Hospital of Soochow University (n = 561) for external validation. The study integrated characteristics including clinical pathology, inflammatory response, immune function, nutritional status, tumor markers, and treatment information. Through correlation analysis, collinearity testing, and the Boruta algorithm, 16 core features were selected. Nine machine learning algorithms were employed to construct the model, with hyperparameters optimized via five-fold cross-validation and grid search. Model performance was evaluated using AUROC, AUPR, Brier score, survival consistency index, and decision curve analysis, with feature contribution explained by SHAP values. The RSF model achieved the highest normalized comprehensive score among the nine algorithms evaluated. In the external validation set, the RSF model achieved an average AUROC of 0.818 (95% CI: 0.761-0.866), ranking first in this composite metric. The full RSF model showed statistically significantly higher AUROC than TNM-only baseline models (DeLong test P < 0.001), suggesting potential for incremental prognostic information beyond traditional staging, pending prospective validation. Feature importance analysis revealed that age-corrected Charlson Comorbidity Index (ACCI), distant metastasis stage (Mstage), and surgical treatment were core prognostic factors, exhibiting time-dependent dynamic changes. Inflammatory markers (CRP), nutritional markers (ALB, TC), and tumor markers (CEA) also demonstrated significant predictive value. The RSF model demonstrated favorable discrimination and calibration in the evaluated cohorts; clinical utility requires prospective evaluation in the available cohorts, showing incremental prognostic value beyond TNM staging alone. These findings suggest potential for assisting risk stratification in similar hospitalized populations, although further prospective and multicenter validation remains necessary before clinical implementation.",
+    "authors": [
+      "Xiaoyang Zhang",
+      "Xiangyong Li",
+      "Bo Chen",
+      "Xinmeng Cheng",
+      "Yuee He",
+      "Chenxi Zhou",
+      "Jinquan Liu",
+      "Xiaodong Yang"
+    ],
+    "published": "2026",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42761024/",
+    "pdf_url": null,
+    "doi": "10.3389/fonc.2026.1855784",
+    "citations": 0,
+    "venue": "Frontiers in oncology",
+    "open_access": false,
+    "ai_summary": "The traditional TNM staging system for colorectal cancer (CRC) prognosis has significant limitations . Prognnostic differences exceeding 40% among patients with the same stage are expected to be greater ."
+  },
+  {
+    "id": "pubmed:42761011",
+    "title": "Beyond generic principles: a framework for the ethical analysis of artificial intelligence in organ transplantation.",
+    "abstract": "Artificial intelligence (AI) is increasingly entering clinical medicine, and organ transplantation is no exception. While a growing body of literature addresses the ethical challenges of AI in healthcare, systematic analysis of the specific ethical dimensions of AI use in organ transplantation is missing. This gap reflects a genuine analytical challenge: the transplantation process is ethically complex in ways that general AI ethics frameworks do not adequately capture. Transplantation medicine simultaneously bears ethical obligations to deceased donors, living donors, donor families, organ recipients, and the public at large. These obligations shift substantially across the stages of the transplantation process, from the patient-centred ethics of donor identification and listing decisions, through the distributive justice logic governing organ allocation, to the professional responsibility questions of the peri- and post-transplant phases. A rigorous ethical analysis of AI in organ transplantation therefore requires, first, a systematic mapping of AI use cases and models onto the transplantation process; second, an identification of the stakeholder-specific ethical obligations pertinent at each stage; and third, an in-depth analysis of how those obligations are specifically affected by the properties of the AI system in question. This paper proposes this framework and illustrates it using the example of AI-assisted organ allocation.",
+    "authors": [
+      "Nadia Primc"
+    ],
+    "published": "2026",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42761011/",
+    "pdf_url": null,
+    "doi": "10.3389/ti.2026.16525",
+    "citations": 0,
+    "venue": "Transplant international : official journal of the European Society for Organ Transplantation",
+    "open_access": false,
+    "ai_summary": "Artificial intelligence (AI) is increasingly entering clinical medicine, and organ transplantation is no exception . While a growing body of literature addresses the ethical challenges of AI in healthcare, systematic analysis of the specific ethical dimensions of AI use is missing . The transplantation process is eth"
+  },
+  {
+    "id": "pubmed:42760971",
+    "title": "Predicting unfavorable response to initial radioactive iodine therapy in differentiated thyroid cancer: an explainable machine learning and survival analysis approach.",
+    "abstract": "Early post-treatment prognostic assessment may facilitate individualized follow-up in patients with differentiated thyroid cancer (DTC) after initial radioactive iodine (RAI) therapy (RAIT).This study aimed to develop and internally validate a dual-mode machine-learning framework integrating clinical information available from the pre-RAI baseline through the early post-RAI assessment period to predict subsequent unfavorable treatment response and persistence/recurrence-free survival (PRFS). A retrospective cohort of 550 DTC patients who underwent total thyroidectomy followed by initial RAIT was included. Multidimensional clinical metrics, including demographic, pathological, imaging, and serum biochemical data, were collected. Post-therapy imaging and biochemical measurements obtained at the first follow-up approximately 1-3 months after RAIT were treated as early post-RAI predictors, whereas subsequent therapeutic response was evaluated dynamically during longitudinal follow-up according to the 2025 American Thyroid Association (ATA) dynamic risk stratification framework. Patients with excellent response (ER) or indeterminate response (IndR) were classified as having a favorable response, whereas those with biochemical incomplete response (BIR) or structural incomplete response (SIR) were classified as having an unfavorable response. PRFS was defined as the interval from initial RAIT to the first subsequent documentation of BIR or SIR; patients without such an event were censored at their last follow-up. Data were randomly split into training and testing cohorts at a 7:3 ratio. Boruta and Least Absolute Shrinkage and Selection Operator (LASSO) were utilized for feature selection in binary classification, while Random Survival Forest (RSF) feature importance ranking was applied for survival modeling. We developed Decision Tree (DT), Random Forest (RF), Light Gradient Boosting Machine (LightGBM), and Multi-Layer Perceptron (MLP)-based Artificial Neural Network (ANN) models for risk classification, alongside the Cox Proportional Hazards (Cox PH) model, Gradient Boosting Survival Analysis (GBSA), RSF, and Extra Survival Trees (EST) for survival prediction. Model performance was evaluated using the Area Under the ROC Curve (AUC), Concordance Index (C-index), calibration curves, and Decision Curve Analysis (DCA). The Shapley Additive exPlanations (SHAP) framework was employed to interpret the models' decision-making mechanisms. Among 550 patients, 113 (20.5%) were classified into the unfavorable response group. The ANN classification model demonstrated superior performance on the testing cohort, with an AUC of 0.932 (95% CI: 0.888-0.967), accuracy of 0.879, specificity of 0.947, F1-score of 0.677, and the lowest Brier Score (0.091). Its clinical net benefit, as assessed by DCA, exceeded that of other models. Key predictors in the ANN risk classification model included Extrathyroidal Extension (ETE), T-stage, iodine-avid lymph node status (iodine_LN), RAI Dose, Metastatic Lymph Nodes (MLN), pre-radioiodine therapy stimulated thyroglobulin (pre_sTg), and pre-radioiodine therapy thyroglobulin antibody (pre_TgAb). Regarding PRFS prediction, the RSF model achieved the highest C-index (0.886) and a mean time-dependent AUC of 0.910 (95% CI: 0.867-0.940), outperforming other models. The core prognostic factors for the RSF model included pre_sTg, thyroglobulin at first follow-up (Tg_FU1), Pre-radioiodine Therapy Thyroglobulin/TSH Ratio (Pre_RAI_Tg_TSH_Ratio), MLN, RAI Dose, Thyroid Stimulating Hormone at first follow-up (TSH_FU1), and Thyroglobulin Antibody Reduction Rate (TgAbRR). In this single-center cohort, the ANN and RSF models demonstrated favorable internal performance for unfavorable-response classification and PRFS prediction, respectively. These findings provide preliminary proof-of-concept evidence for an early post-RAI prognostic assessment framework; however, prospective multicenter external validation is required before its generalizability or clinical utility can be established.",
+    "authors": [
+      "Longxuan Gu",
+      "Guiwen Zheng",
+      "Yuechao Zhao",
+      "Jiyuan Wang",
+      "Lei Qu",
+      "Shuzhan Yao"
+    ],
+    "published": "2026",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42760971/",
+    "pdf_url": null,
+    "doi": "10.3389/fendo.2026.1943597",
+    "citations": 0,
+    "venue": "Frontiers in endocrinology",
+    "open_access": false,
+    "ai_summary": "Early post-treatment prognostic assessment may facilitate individualized follow-up in patients with differentiated thyroid cancer (DTC) after initial radioactive iodine (RAI) therapy (RAIT) Study aimed to develop and internally validate a dual-mode machine-learning framework ."
+  },
+  {
+    "id": "pubmed:42760964",
+    "title": "Transforming therapeutics through biomaterials: A comprehensive insight into biomaterials' role in effective drug delivery and healthcare advancement.",
+    "abstract": "Biomaterials are engineered substances designed to interact with biological systems for therapeutic or diagnostic purposes. Their inherent properties-including biocompatibility, biodegradability, and structural versatility-have driven major advancements in drug delivery technologies. The global biomaterials market size was estimated at USD 178.0 billion in 2023 and is projected to grow at a compound annual growth rate of 15.6% from 2024 to 2030. The growing incidence of musculoskeletal and chronic skeletal disorders is expected to drive demand for biomaterial-based implants, thereby contributing to market expansion. This review critically examines biomaterials, focusing on their classification into biobased, biodegradable, and biocompatible categories and analyzes their physicochemical properties and functional benefits. It highlights their applications in oncology, cardiovascular therapy, neurodegenerative diseases, and vaccination. Key challenges-including immunogenicity, cytotoxicity, and manufacturing complexities-are discussed, emphasizing the need for rigorous evaluation and adaptive regulatory frameworks. The review also explores recent advances in smart biomaterials for precision drug delivery, underscoring their potential to revolutionize personalized medicine through targeted, efficient, and patient-specific therapies.",
+    "authors": [
+      "Seeta Dewali",
+      "Netra Pal Sharma",
+      "Pankaj Bhatt",
+      "Neha Kathayat",
+      "Megha Bhandari",
+      "Deepak Chandra Melkani",
+      "Deepika Goswami",
+      "Suraj Suraj",
+      "Deepak Kumar Arya",
+      "Swetapadma Dash",
+      "Harish Chandra Singh Bisht",
+      "Satpal Singh Bisht"
+    ],
+    "published": "2026",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42760964/",
+    "pdf_url": null,
+    "doi": "10.12336/bmt.25.00029",
+    "citations": 0,
+    "venue": "Biomaterials translational",
+    "open_access": false,
+    "ai_summary": "Biomaterials are engineered substances designed to interact with biological systems for therapeutic or diagnostic purposes . The global biomaterials market size was estimated at USD 178.0 billion in 2023 . The growing incidence of musculoskeletal and chronic skeletal disorders is expected to drive demand for biomaterial-based implants ."
+  },
+  {
+    "id": "pubmed:42760963",
+    "title": "Glocalizing the theory of learning: a pluriversal perspective on health professions education.",
+    "abstract": "Glocalization has emerged as the preferred solution in health professions education (HPE) to the tension between globally recognized standards and local training practices. Its structure, however, is hub-and-spoke: theory is developed at a Western center, adaptation handled at the periphery. Curricula, accreditation, and assessment are adapted locally; learning theories are treated as universal and unchanging. This Perspective contends that the glocalization project remains incomplete and suggests how to finish it: by glocalizing the very theory of learning. Drawing on bibliometric evidence of concentrated knowledge production and thirty years of educational practice across four continents, I propose a pluriversal extension that integrates Islamic, Hindu, Confucian, Buddhist, and Ubuntu traditions as active sources of learning theory rather than as cultural contexts for imported ideas. To keep engagement rigorous rather than romantic, I outline a five-level comparison framework (vocabulary, phenomenon, mechanism, prescription, ontology), state its provenance and limits, and demonstrate its operation in worked examples and a complete supplementary application. The paper closes with theoretical and practical implications for curriculum, assessment, research capacity, and artificial intelligence, as well as an agenda for validating the framework.",
+    "authors": [
+      "Nabil Zary"
+    ],
+    "published": "2026",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42760963/",
+    "pdf_url": null,
+    "doi": "10.3389/fmed.2026.1929357",
+    "citations": 0,
+    "venue": "Frontiers in medicine",
+    "open_access": false,
+    "ai_summary": "Glocalization has emerged as the preferred solution to the tension between globally recognized standards and local training practices . This Perspective contends that the glocalization project remains incomplete ."
+  },
+  {
+    "id": "pubmed:42760953",
+    "title": "Interpretable machine learning for multiclass trajectory prediction in cardiovascular-kidney-metabolic syndrome stage: development and external validation.",
+    "abstract": "Cardiovascular-kidney-metabolic (CKM) syndrome imposes a substantial global burden, yet most studies reduce stage change to a binary outcome that cannot distinguish clinically meaningful trajectories. This study developed and externally validated a multiclass machine learning framework for predicting CKM stage trajectories. A longitudinal cohort of 2,971 adults with baseline CKM stages 0-3 was used for development, with trajectories classified as Improvement, Stable, Mild Progression and Rapid Progression. Six algorithms were compared by Macro-AUC and decision curve analysis. SHAP values identified consensus predictors for a parsimonious model, externally validated in an independent hospital-based cohort (N = 291). XGBoost achieved the highest Macro-AUC (0.786, 95% CI 0.757-0.813), with the six algorithms performing comparably. For rapid-progression screening, the primary model reached a sensitivity of 0.767, a specificity of 0.739 and a negative predictive value of 0.949 at a threshold of 0.23, and identified 41.9% of rapid progressors within the highest-risk 10%. Baseline CKM stage was the dominant prognostic determinant, with a stage-only benchmark reaching 0.689. Six consensus predictors were identified: baseline CKM stage, age, fasting glucose, TyG-BMI index, systolic blood pressure and triglycerides. The parsimonious model retained over 98% of full-model discrimination and reached a Macro-AUC of 0.752 externally without retraining. This framework distinguishes CKM trajectories and is intended for screening rapid progression rather than assigning individuals to a single trajectory. Baseline CKM stage is the principal prognostic determinant, and the six-predictor model preserves discrimination using routinely available measurements, supporting stratified follow-up pending confirmation in larger cohorts.",
+    "authors": [
+      "Tian Zhang",
+      "Zhenxu Ning",
+      "Yangwei Fan",
+      "Zhou Zidong",
+      "Jingyi Lei",
+      "Shuangxing Du",
+      "Shuzhen He"
+    ],
+    "published": "2026",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42760953/",
+    "pdf_url": null,
+    "doi": "10.3389/fendo.2026.1907821",
+    "citations": 0,
+    "venue": "Frontiers in endocrinology",
+    "open_access": false,
+    "ai_summary": "A longitudinal cohort of 2,971 adults with baseline CKM stages 0-3 was used for development . Six algorithms were compared by Macro-AUC and decision curve analysis . The primary model reached a sensitivity of 0.767, a specificity of0.739"
   }
 ]
