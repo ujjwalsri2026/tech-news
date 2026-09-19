@@ -145,11 +145,11 @@
     "source": "Crossref",
     "category": "index",
     "url": "https://doi.org/10.3998/mjcsl.5730",
-    "pdf_url": null,
+    "pdf_url": "https://journals.publishing.umich.edu/mjcsl/article/id/5730/download/pdf/",
     "doi": "10.3998/mjcsl.5730",
     "citations": 0,
     "venue": "Michigan Journal of Community Service Learning",
-    "open_access": false,
+    "open_access": true,
     "ai_summary": "No abstract available."
   },
   {
@@ -445,27 +445,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.5705/ss.202025.0314",
-    "title": "Transfer Learning for High-dimensional Regression with Compositional Covariates: Application to Microbiome Studies",
-    "abstract": "",
-    "authors": [
-      "Qinqin Hu",
-      "Xiaojing Luo",
-      "Chencheng Ma",
-      "Wang Zhou"
-    ],
-    "published": "2029",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.5705/ss.202025.0314",
-    "pdf_url": null,
-    "doi": "10.5705/ss.202025.0314",
-    "citations": 0,
-    "venue": "Statistica Sinica",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
     "id": "crossref:10.5705/ss.202026.0109",
     "title": "Inference for Extreme Value Index Through Individualized Fusion Learning",
     "abstract": "",
@@ -508,6 +487,27 @@
     "ai_summary": "No abstract available."
   },
   {
+    "id": "crossref:10.5705/ss.202025.0314",
+    "title": "Transfer Learning for High-dimensional Regression with Compositional Covariates: Application to Microbiome Studies",
+    "abstract": "",
+    "authors": [
+      "Qinqin Hu",
+      "Xiaojing Luo",
+      "Chencheng Ma",
+      "Wang Zhou"
+    ],
+    "published": "2029",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.5705/ss.202025.0314",
+    "pdf_url": null,
+    "doi": "10.5705/ss.202025.0314",
+    "citations": 0,
+    "venue": "Statistica Sinica",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
     "id": "crossref:10.5705/ss.202025.0457",
     "title": "Sparse Additive Off-policy Evaluation for Reinforcement Learning with Potentially Limited Number of Trajectories",
     "abstract": "",
@@ -521,11 +521,11 @@
     "source": "Crossref",
     "category": "index",
     "url": "https://doi.org/10.5705/ss.202025.0457",
-    "pdf_url": "https://arxiv.org/pdf/2608.22595v1",
+    "pdf_url": null,
     "doi": "10.5705/ss.202025.0457",
     "citations": 0,
     "venue": "Statistica Sinica",
-    "open_access": true,
+    "open_access": false,
     "ai_summary": "No abstract available."
   },
   {
@@ -743,6 +743,24 @@
     "ai_summary": "No abstract available."
   },
   {
+    "id": "crossref:10.1504/ijaac.2028.10080905",
+    "title": "Innovative deep learning computational approach for wheat disease detection employing faster region-based convolutional neural network",
+    "abstract": "",
+    "authors": [
+      "Shikai Zhou"
+    ],
+    "published": "2028",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.1504/ijaac.2028.10080905",
+    "pdf_url": null,
+    "doi": "10.1504/ijaac.2028.10080905",
+    "citations": 0,
+    "venue": "International Journal of Automation and Control",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
     "id": "crossref:10.1504/ijbpm.2028.10081045",
     "title": "Evaluating teaching methods for mature learners: a mixed-methods investigation of learning preferences in higher education",
     "abstract": "",
@@ -763,24 +781,6 @@
     "doi": "10.1504/ijbpm.2028.10081045",
     "citations": 0,
     "venue": "International Journal of Business Performance Management",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "crossref:10.1504/ijaac.2028.10080905",
-    "title": "Innovative deep learning computational approach for wheat disease detection employing faster region-based convolutional neural network",
-    "abstract": "",
-    "authors": [
-      "Shikai Zhou"
-    ],
-    "published": "2028",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.1504/ijaac.2028.10080905",
-    "pdf_url": null,
-    "doi": "10.1504/ijaac.2028.10080905",
-    "citations": 0,
-    "venue": "International Journal of Automation and Control",
     "open_access": false,
     "ai_summary": "No abstract available."
   },
@@ -1525,25 +1525,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "arxiv:2609.20821v1",
-    "title": "Embedding Models Measure in Peculiar Ways",
-    "abstract": "Embedding spaces define notions of semantic similarity and distance. We study whether those embeddings reflect physical measurements of mass, distance, time and volume, which admit a unique, objective notion of semantic equivalence and distance. We find that physical measurement is only weakly modeled in the embedding space, and that instead quite peculiar measurement patterns can be observed. Further analysis indicates that embedding representations of physical measurements are strongly influenced by superficial string similarity, and recalibration of similarity does not substantially improve the alignment.",
-    "authors": [
-      "Juri Opitz",
-      "Andrianos Michail"
-    ],
-    "published": "2026-09-17",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2609.20821v1",
-    "pdf_url": "https://arxiv.org/pdf/2609.20821v1",
-    "doi": null,
-    "citations": 0,
-    "venue": "arXiv preprint",
-    "open_access": true,
-    "ai_summary": "Embedding spaces define notions of semantic similarity and distance . We study whether those embeddings reflect physical measurements of mass, distance, time and volume . We find that physical measurement is only weakly modeled in the embedding space ."
-  },
-  {
     "id": "arxiv:2609.20819v1",
     "title": "Can 4D Foundation Models Remember?",
     "abstract": "Perceiving and remembering the visual world is fundamental to navigating and interacting with our environment. Current 4D foundation models, such as camera-controllable video models or 4D reconstruction models, can perceive and reconstruct dynamic environments, but how well they remember what they have perceived remains an open question. Existing benchmarks largely rely on pixel-level metrics and lack ground truth for objects once they leave the field of view, making them unable to evaluate visual memory in an object-centric manner against references. To fill this gap, we introduce PersistBench, a dataset and metric suite that leverages 360° videos as omniscient ground truth and proposes three evaluation aspects: object permanence, motion continuity, and appearance preservation. Evaluating various models across diverse categories reveals that current models can only maintain short-term consistency that degrades significantly once objects leave the field of view. Our findings highlight the gap between current model capabilities and robust visual memory (\"seeing is not remembering\"), providing guidance for future development of 4D foundation models. Dataset and code are available on the project page: https://guangzhaohe.com/persistbench.",
@@ -1564,25 +1545,27 @@
     "ai_summary": "Current 4D foundation models can perceive and reconstruct dynamic environments, but how well they remember what they have perceived remains an open question . Existing benchmarks rely on pixel-level metrics and lack ground truth for objects once they leave the field of view . To fill this gap, we introduce PersistBench, a dataset and metric suite that leverages"
   },
   {
-    "id": "arxiv:2609.20822v1",
-    "title": "Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation",
-    "abstract": "Coding agents have emerged as a promising paradigm for robot manipulation: a language model writes the robot controller as a program, and agents built in this way now operate robots without robot-specific training.Whether this paradigm is also safe, however, has not been asked. We evaluate coding agent under a safety constraint, where each task pairs a manipulation goal with an obstacle the robot must not touch. The agent pursues the goal but collides with the obstacle in most cases, treating task completion as its sole objective while neglecting safety. The agent reasons about the obstacle in its traces, and the prompt already forbids touching it, so neither perception nor instruction is at fault; the fault lies in the planning, where the stated constraint never becomes a priority. By decomposing manipulation into a route phase and a contact-rich moment, we locate the source of the failure. Along the route, the model cannot prioritize the safety constraint, having no notion of a clearing route and none of replanning once a chosen route becomes infeasible. At the contact, it is unaware that contact execution is bounded by the same constraint. To close this gap, we present SafeHarness, which equips the model with two obstacle-aware harnesses that enable it to prioritize the safety constraint. Obstacle-aware route planning grounds the objects as bounding boxes and draws candidate routes over them as sequences of waypoints. The agent then plans a route in advance, verifies it, replans when necessary, and only then executes it. Obstacle-aware contact execution instead selects the contact position so that the contact itself avoids the obstacle. SafeHarness attains 71.9% task success and 87.5% collision avoidance, surpassing the previous SOTA by 6.5% and 27.0%, respectively. These results are $2.3\\times$ and $1.5\\times$ those of the same agent without harnesses.",
+    "id": "arxiv:2609.20820v1",
+    "title": "Workspace Models: Lightweight Robotic Memory via Saliency-Driven Supervision",
+    "abstract": "Complex robotic manipulation tasks frequently require a long-term memory of past events and actions. As conditioning on full histories renders policies prone to spurious correlations and degrades performance, many approaches to policy memory involve compressing historical information through expensive VLM queries in-the-loop to process only task-salient information. In this paper, we propose an alternative approach in which computationally intensive VLM queries are made during train-time to learn a lightweight latent memory that can be efficiently queried at deployment time. Our representation, which we call the \\textbf{workspace token}, is trained by (1) using a VLM to identify current and historical information necessary for completing a task, then (2) distilling these into the workspace token using a set-reconstruction decoder loss. In both simulation and hardware, we show that the workspace token can be used as a drop-in replacement for observations during deployment, enabling policies to solve memory-intensive tasks without the need for VLM reasoning in-the-loop. Interestingly, we found that workspace tokens are not only more lightweight but also lead to better policy performance.",
     "authors": [
-      "Bingxin Xu",
-      "Yuzhang Shang",
-      "Zhen Dong",
-      "Emilio Ferrara"
+      "Nitish Dashora",
+      "Douglas Chen",
+      "Idan Shenfeld",
+      "John Marangola",
+      "Pulkit Agrawal",
+      "Max Simchowitz"
     ],
     "published": "2026-09-17",
     "source": "arXiv",
     "category": "preprint",
-    "url": "https://arxiv.org/abs/2609.20822v1",
-    "pdf_url": "https://arxiv.org/pdf/2609.20822v1",
+    "url": "https://arxiv.org/abs/2609.20820v1",
+    "pdf_url": "https://arxiv.org/pdf/2609.20820v1",
     "doi": null,
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "A language model writes the robot controller as a program, and agents built in this way now operate robots without robot-specific training . Whether this paradigm is also safe has not been asked ."
+    "ai_summary": "The work is based on the work of a team of researchers in the U.S. They say they can use a VLM to learn a lightweight latent memory that can be efficiently queried at deployment time . They say this could be used as a drop-in replacement for observations during deployment ."
   },
   {
     "id": "arxiv:2609.20817v1",
@@ -1610,27 +1593,44 @@
     "ai_summary": "Modeling articulated objects from sparse monocular views is challenging because each observation reveals only partial geometry and motion evidence . We present FAMOS, a feed-forward model that predicts movable-part segmentation and joint parameters from a sparse, unordered set of partial point clouds ."
   },
   {
-    "id": "arxiv:2609.20820v1",
-    "title": "Workspace Models: Lightweight Robotic Memory via Saliency-Driven Supervision",
-    "abstract": "Complex robotic manipulation tasks frequently require a long-term memory of past events and actions. As conditioning on full histories renders policies prone to spurious correlations and degrades performance, many approaches to policy memory involve compressing historical information through expensive VLM queries in-the-loop to process only task-salient information. In this paper, we propose an alternative approach in which computationally intensive VLM queries are made during train-time to learn a lightweight latent memory that can be efficiently queried at deployment time. Our representation, which we call the \\textbf{workspace token}, is trained by (1) using a VLM to identify current and historical information necessary for completing a task, then (2) distilling these into the workspace token using a set-reconstruction decoder loss. In both simulation and hardware, we show that the workspace token can be used as a drop-in replacement for observations during deployment, enabling policies to solve memory-intensive tasks without the need for VLM reasoning in-the-loop. Interestingly, we found that workspace tokens are not only more lightweight but also lead to better policy performance.",
+    "id": "arxiv:2609.20822v1",
+    "title": "Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation",
+    "abstract": "Coding agents have emerged as a promising paradigm for robot manipulation: a language model writes the robot controller as a program, and agents built in this way now operate robots without robot-specific training.Whether this paradigm is also safe, however, has not been asked. We evaluate coding agent under a safety constraint, where each task pairs a manipulation goal with an obstacle the robot must not touch. The agent pursues the goal but collides with the obstacle in most cases, treating task completion as its sole objective while neglecting safety. The agent reasons about the obstacle in its traces, and the prompt already forbids touching it, so neither perception nor instruction is at fault; the fault lies in the planning, where the stated constraint never becomes a priority. By decomposing manipulation into a route phase and a contact-rich moment, we locate the source of the failure. Along the route, the model cannot prioritize the safety constraint, having no notion of a clearing route and none of replanning once a chosen route becomes infeasible. At the contact, it is unaware that contact execution is bounded by the same constraint. To close this gap, we present SafeHarness, which equips the model with two obstacle-aware harnesses that enable it to prioritize the safety constraint. Obstacle-aware route planning grounds the objects as bounding boxes and draws candidate routes over them as sequences of waypoints. The agent then plans a route in advance, verifies it, replans when necessary, and only then executes it. Obstacle-aware contact execution instead selects the contact position so that the contact itself avoids the obstacle. SafeHarness attains 71.9% task success and 87.5% collision avoidance, surpassing the previous SOTA by 6.5% and 27.0%, respectively. These results are $2.3\\times$ and $1.5\\times$ those of the same agent without harnesses.",
     "authors": [
-      "Nitish Dashora",
-      "Douglas Chen",
-      "Idan Shenfeld",
-      "John Marangola",
-      "Pulkit Agrawal",
-      "Max Simchowitz"
+      "Bingxin Xu",
+      "Yuzhang Shang",
+      "Zhen Dong",
+      "Emilio Ferrara"
     ],
     "published": "2026-09-17",
     "source": "arXiv",
     "category": "preprint",
-    "url": "https://arxiv.org/abs/2609.20820v1",
-    "pdf_url": "https://arxiv.org/pdf/2609.20820v1",
+    "url": "https://arxiv.org/abs/2609.20822v1",
+    "pdf_url": "https://arxiv.org/pdf/2609.20822v1",
     "doi": null,
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "The work is based on the work of a team of researchers in the U.S. They say they can use a VLM to learn a lightweight latent memory that can be efficiently queried at deployment time . They say this could be used as a drop-in replacement for observations during deployment ."
+    "ai_summary": "A language model writes the robot controller as a program, and agents built in this way now operate robots without robot-specific training . Whether this paradigm is also safe has not been asked ."
+  },
+  {
+    "id": "arxiv:2609.20821v1",
+    "title": "Embedding Models Measure in Peculiar Ways",
+    "abstract": "Embedding spaces define notions of semantic similarity and distance. We study whether those embeddings reflect physical measurements of mass, distance, time and volume, which admit a unique, objective notion of semantic equivalence and distance. We find that physical measurement is only weakly modeled in the embedding space, and that instead quite peculiar measurement patterns can be observed. Further analysis indicates that embedding representations of physical measurements are strongly influenced by superficial string similarity, and recalibration of similarity does not substantially improve the alignment.",
+    "authors": [
+      "Juri Opitz",
+      "Andrianos Michail"
+    ],
+    "published": "2026-09-17",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2609.20821v1",
+    "pdf_url": "https://arxiv.org/pdf/2609.20821v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "Embedding spaces define notions of semantic similarity and distance . We study whether those embeddings reflect physical measurements of mass, distance, time and volume . We find that physical measurement is only weakly modeled in the embedding space ."
   },
   {
     "id": "arxiv:2609.20818v1",
@@ -1865,7 +1865,7 @@
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "Posteriorbench evaluates four physics-based inverse problems . It evaluates Darcy flow inversion, Poisson source recovery, carbon capture and storage . For each task, we construct high-fidelity reference posteriors using computationally heavy but established procedures ."
+    "ai_summary": "Posteriorbench evaluates four physics-based inverse problems . It can achieve strong pointwise accuracy while still failing to capture the true posterior through mode collapse ."
   },
   {
     "id": "arxiv:2609.20784v1",
@@ -2138,7 +2138,7 @@
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "Adapting a pretrained autoregressive (AR) model is a cost-efficient route to a diffusion language model (DLM) While nearly all such adaptations start from a full-attention transformer, AR modeling has shifted toward hybrid architectures that interleave attention and RNN layers . This creates an obstacle for adaptation: unlike attention, RNNs"
+    "ai_summary": "Adapting a pretrained autoregressive (AR) model is a cost-efficient route to a diffusion language model (DLM) While nearly all such adaptations start from a full-attention transformer, AR modeling has shifted toward hybrid architectures . This creates an obstacle for adaptation: unlike attention, RNNs are structurally causal and nontrivial to bidirectionalize"
   },
   {
     "id": "arxiv:2609.20749v1",
@@ -2284,7 +2284,7 @@
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "Semantic cell annotation improves chunking interpretability for spreadsheets in LLM-driven RAG systems . We propose a novel framework of splitting any spreadsheet into interpretable chunks using cell role annotation ."
+    "ai_summary": "Spreadsheets are fundamentally two-dimensional unstructured data with continuous relationships and infinite potential cell roles . We propose a novel framework of splitting any spreadsheet into interpretable chunks using cell role annotation ."
   },
   {
     "id": "arxiv:2609.20723v1",
@@ -2673,29 +2673,6 @@
     "ai_summary": "Explainable machine learning (ML) may offer a practical and transparent approach to prognostic assessment in this high-risk population . This retrospective dual-cohort study included 18,526 ICU patients with HF from the MIMIC-IV database ."
   },
   {
-    "id": "pubmed:42761061",
-    "title": "Development and validation of a postpartum hemorrhage risk prediction model for advanced maternal age women undergoing vaginal delivery: a comparison of multiple machine learning algorithms.",
-    "abstract": "Postpartum hemorrhage (PPH) is the leading cause of maternal mortality in women of advanced maternal age (AMA). Accurate antenatal prediction remains challenging. This study aimed to develop and compare the performance of multiple machine learning (ML) algorithms for predicting PPH risk following vaginal delivery in AMA parturients. A retrospective cohort study was conducted using data from 5,369 women who delivered vaginally at Shanghai First Maternity and Infant Hospital. LASSO regression was used to identify key predictors. Seven machine learning algorithms-logistic regression (LR), decision tree (DT), random forest (RF), XGBoost, LightGBM, support vector machine (SVM), and artificial neural network (ANN)-were employed to build prediction models. Model performance was evaluated on an independent validation set using the area under the receiver operating characteristic curve (AUC), sensitivity, specificity, and F1 score. The optimal model was selected based on a composite criterion prioritizing the highest sensitivity and best F1 score, while requiring a competitive AUC. Eight predictors were selected for model construction. Among the seven models, the SVM model achieved the highest sensitivity (0.482) and the highest F1 score (0.504), and was therefore selected as the clinically preferred model, while maintaining a competitive AUC of 0.782 (95%  Among seven machine learning models, the SVM model was selected as the clinically preferred predictor due to its highest sensitivity and F1-score. Its good discriminative ability and balanced performance make it suitable for clinical application as a screening tool. The integration of SHAP analysis can further enhance model interpretability and facilitate individualized risk assessment.",
-    "authors": [
-      "Yun Zhou",
-      "Xiao Yao",
-      "Jue Zhou",
-      "Yaoxiang Duan",
-      "Yi Yu",
-      "Xueer Ma"
-    ],
-    "published": "2026",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42761061/",
-    "pdf_url": null,
-    "doi": "10.3389/fmed.2026.1898119",
-    "citations": 0,
-    "venue": "Frontiers in medicine",
-    "open_access": false,
-    "ai_summary": "Postpartum hemorrhage (PPH) is the leading cause of maternal mortality in women of advanced maternal age (AMA) This study aimed to develop and compare the performance of multiple machine learning algorithms for predicting PPH risk following vaginal delivery in AMA parturients ."
-  },
-  {
     "id": "pubmed:42761078",
     "title": "Machine learning-based risk prediction model for postoperative abdominal distension after spinal surgery under general anesthesia.",
     "abstract": "Early identification of patients at risk of postoperative abdominal distension after spinal surgery remains clinically difficult. Machine learning may improve risk prediction by integrating routinely available perioperative information. This study aimed to develop and internally validate an interpretable machine learning-based predictive model for postoperative abdominal distension after spinal surgery under general anesthesia and to identify clinically relevant predictors for early nursing risk stratification. This retrospective single-center prediction model study included 1,234 patients who underwent spinal surgery under general anesthesia. Seventeen routinely recorded perioperative and early postoperative variables were evaluated, including postoperative ADL category(ADL), PCA, and postoperative antibiotic use (yes/no). The data were split using stratified sampling into training (80%) and internal test (20%) sets. Missing-value imputation, scaling, five-fold cross-validated grid search, and model fitting were performed within the training workflow. Logistic regression(LR), RF, support vector machine(SVM), and gradient boosting (GB)models were evaluated using discrimination, calibration, Brier score, decision curve analysis, and permutation importance. Exact TreeSHAP analysis was used to interpret global and patient-specific contributions in the highest-AUC model. Postoperative abdominal distension occurred in 138 of 1,234 patients (11.18%). In the internal test set ( The models showed moderate internal discrimination but materially different sensitivity-specificity trade-offs. Permutation importance and TreeSHAP consistently identified PCA and drainage tube placement as leading random-forest predictors, while TreeSHAP additionally showed the direction and patient-specific magnitude of each contribution. These model explanations are predictive rather than causal. Prospective temporal validation, external validation, and threshold selection are required before bedside use.",
@@ -2719,6 +2696,29 @@
     "venue": "Frontiers in medicine",
     "open_access": false,
     "ai_summary": "Study aimed to develop and internally validate an interpretable machine learning-based predictive model for postoperative abdominal distension after spinal surgery . The data were split using stratified sampling into training (80%) and internal test (20%) sets ."
+  },
+  {
+    "id": "pubmed:42761061",
+    "title": "Development and validation of a postpartum hemorrhage risk prediction model for advanced maternal age women undergoing vaginal delivery: a comparison of multiple machine learning algorithms.",
+    "abstract": "Postpartum hemorrhage (PPH) is the leading cause of maternal mortality in women of advanced maternal age (AMA). Accurate antenatal prediction remains challenging. This study aimed to develop and compare the performance of multiple machine learning (ML) algorithms for predicting PPH risk following vaginal delivery in AMA parturients. A retrospective cohort study was conducted using data from 5,369 women who delivered vaginally at Shanghai First Maternity and Infant Hospital. LASSO regression was used to identify key predictors. Seven machine learning algorithms-logistic regression (LR), decision tree (DT), random forest (RF), XGBoost, LightGBM, support vector machine (SVM), and artificial neural network (ANN)-were employed to build prediction models. Model performance was evaluated on an independent validation set using the area under the receiver operating characteristic curve (AUC), sensitivity, specificity, and F1 score. The optimal model was selected based on a composite criterion prioritizing the highest sensitivity and best F1 score, while requiring a competitive AUC. Eight predictors were selected for model construction. Among the seven models, the SVM model achieved the highest sensitivity (0.482) and the highest F1 score (0.504), and was therefore selected as the clinically preferred model, while maintaining a competitive AUC of 0.782 (95%  Among seven machine learning models, the SVM model was selected as the clinically preferred predictor due to its highest sensitivity and F1-score. Its good discriminative ability and balanced performance make it suitable for clinical application as a screening tool. The integration of SHAP analysis can further enhance model interpretability and facilitate individualized risk assessment.",
+    "authors": [
+      "Yun Zhou",
+      "Xiao Yao",
+      "Jue Zhou",
+      "Yaoxiang Duan",
+      "Yi Yu",
+      "Xueer Ma"
+    ],
+    "published": "2026",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42761061/",
+    "pdf_url": null,
+    "doi": "10.3389/fmed.2026.1898119",
+    "citations": 0,
+    "venue": "Frontiers in medicine",
+    "open_access": false,
+    "ai_summary": "Postpartum hemorrhage (PPH) is the leading cause of maternal mortality in women of advanced maternal age (AMA) This study aimed to develop and compare the performance of multiple machine learning algorithms for predicting PPH risk following vaginal delivery in AMA parturients ."
   },
   {
     "id": "pubmed:42761043",
@@ -2875,5 +2875,37 @@
     "venue": "Frontiers in endocrinology",
     "open_access": false,
     "ai_summary": "A longitudinal cohort of 2,971 adults with baseline CKM stages 0-3 was used for development . Six algorithms were compared by Macro-AUC and decision curve analysis . The primary model reached a sensitivity of 0.767, a specificity of0.739"
+  },
+  {
+    "id": "conf:Conference:https://github.com/THUKElab/CLEME",
+    "title": "https://github.com/THUKElab/CLEME",
+    "abstract": "",
+    "authors": [],
+    "published": "",
+    "source": "Conference",
+    "category": "conference",
+    "url": "https://github.com/THUKElab/CLEME",
+    "pdf_url": null,
+    "doi": null,
+    "citations": 0,
+    "venue": "Conference",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "conf:Conference:https://aclanthology.org/events/acl-2025/#2025acl-long",
+    "title": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    "abstract": "",
+    "authors": [],
+    "published": "",
+    "source": "Conference",
+    "category": "conference",
+    "url": "https://aclanthology.org/events/acl-2025/#2025acl-long",
+    "pdf_url": null,
+    "doi": null,
+    "citations": 0,
+    "venue": "Conference",
+    "open_access": false,
+    "ai_summary": "No abstract available."
   }
 ]
