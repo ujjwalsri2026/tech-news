@@ -97,11 +97,11 @@
     "source": "Crossref",
     "category": "index",
     "url": "https://doi.org/10.21825/ewopinpractice.94702",
-    "pdf_url": "https://openjournals.ugent.be/ewopinpractice/article/id/94702/download/pdf/",
+    "pdf_url": null,
     "doi": "10.21825/ewopinpractice.94702",
     "citations": 0,
     "venue": "EWOP in Practice",
-    "open_access": true,
+    "open_access": false,
     "ai_summary": "No abstract available."
   },
   {
@@ -113,11 +113,11 @@
     "source": "Crossref",
     "category": "index",
     "url": "https://doi.org/10.21825/ewopinpractice.94703",
-    "pdf_url": "https://openjournals.ugent.be/ewopinpractice/article/id/94703/download/pdf/",
+    "pdf_url": null,
     "doi": "10.21825/ewopinpractice.94703",
     "citations": 0,
     "venue": "EWOP in Practice",
-    "open_access": true,
+    "open_access": false,
     "ai_summary": "No abstract available."
   },
   {
@@ -145,24 +145,8 @@
     "source": "Crossref",
     "category": "index",
     "url": "https://doi.org/10.3998/mjcsl.5730",
-    "pdf_url": "https://journals.publishing.umich.edu/mjcsl/article/id/5730/download/pdf/",
-    "doi": "10.3998/mjcsl.5730",
-    "citations": 0,
-    "venue": "Michigan Journal of Community Service Learning",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "crossref:10.3998/mjcsl.4120",
-    "title": "Title Pending 4120",
-    "abstract": "",
-    "authors": [],
-    "published": "2033",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.3998/mjcsl.4120",
     "pdf_url": null,
-    "doi": "10.3998/mjcsl.4120",
+    "doi": "10.3998/mjcsl.5730",
     "citations": 0,
     "venue": "Michigan Journal of Community Service Learning",
     "open_access": false,
@@ -179,6 +163,22 @@
     "url": "https://doi.org/10.3998/mjcsl.3643",
     "pdf_url": null,
     "doi": "10.3998/mjcsl.3643",
+    "citations": 0,
+    "venue": "Michigan Journal of Community Service Learning",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "crossref:10.3998/mjcsl.4120",
+    "title": "Title Pending 4120",
+    "abstract": "",
+    "authors": [],
+    "published": "2033",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.3998/mjcsl.4120",
+    "pdf_url": null,
+    "doi": "10.3998/mjcsl.4120",
     "citations": 0,
     "venue": "Michigan Journal of Community Service Learning",
     "open_access": false,
@@ -586,6 +586,24 @@
     "ai_summary": "No abstract available."
   },
   {
+    "id": "crossref:10.32628/cseit251116279",
+    "title": "Cyber Defense Digital Twins: A Federated Learning and Zero-Trust AI Architecture for Autonomous Threat Prediction and Response",
+    "abstract": "<jats:p>Modern enterprise networks operate under persistent threats that exploit cloud-native misconfigurations, identity sprawl, and API vulnerabilities at machine speed. Existing security operations center (SOC) architectures remain largely reactive, signature-dependent, and incapable of predicting multi-stage lateral movement. This paper proposes the Cognitive Cyber Defense Digital Twin (CCDT), a unified architecture integrating federated learning (FL), graph neural network (GNN)-based attack-path forecasting, adversarially hardened detection models, and autonomous Security Orchestration, Automation, and Response (SOAR) with deception engineering. The CCDT constructs a continuously synchronized digital replica of organizational assets and employs reinforcement learning-based red agents to stress-test detection models. A federated intelligence mesh enables cross-organizational privacy-preserving gradient sharing. Experimental evaluations against CICIDS-2018 and LANL datasets demonstrate 52% faster attack-path detection, 41% reduction in false positive rate, and 60% reduction in mean-time-to-respond (MTTR) compared to traditional SOC baselines. Integrated Explainable AI (XAI) modules using SHAP values enable audit-ready compliance reporting. The CCDT represents a paradigm shift from reactive monitoring to predictive, autonomous, and privacy-preserving cyber defense for hybrid cloud environments.</jats:p>",
+    "authors": [
+      "Sivaramakrishnan Narayanan"
+    ],
+    "published": "2028",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.32628/cseit251116279",
+    "pdf_url": null,
+    "doi": "10.32628/cseit251116279",
+    "citations": 0,
+    "venue": "International Journal of Scientific Research in Computer Science, Engineering and Information Technology",
+    "open_access": false,
+    "ai_summary": "The paper proposes the Cognitive Cyber Defense Digital Twin (CCDT) The CCDT constructs a continuously synchronized digital replica of organizational assets . It employs reinforcement learning-based red agents to stress-test detection models ."
+  },
+  {
     "id": "crossref:10.71126/nijre.v2i1.16",
     "title": "Transforming Education through Technology: The Case of COVID 19 Digital Learning in Nagaland",
     "abstract": "<jats:p>Through the perspective of the COVID-19 pandemic and the disruption and opportunity it engendered, this chapter follows a transformative effect of EdTech and Digital education in India particularly in Nagaland through analysis. Drawing upon national policy frameworks, conceptual literature on educational technology, and contextual evidence based on the case of Nagaland, the chapter considers the rapid migration to digital learning as an emergency strategy (in response to the ongoing institution closures) based on the stark shifts in pedagogical practice, access to education services, and preparedness. The findings show that, including the ability of national programmes such as NEP 2020, SWAYAM, DIKSHA, PM e-VIDYA, and others, to promote access to digital tools was low within periphery or hill areas (e.g., Nagaland), due to lack of infrastructural resources, digital divide, unprepared teachers and economic/social divides, and more. The pandemic exposed the deep social and infrastructure divides in connectivity, device availability, assessment and learner engagement, with implications that were especially grave in rural and tribal settings. Although it accelerated the pace of innovation and the application of blended and low-tech learning practices teachers have been experimenting with digital platforms and the post-COVID recovery process, including remedial programmes and hybrid instruction. The chapter also discusses that blended learning is the most fitting, viable and sustainable approach for reaching the technological level in the field of educational technology at Nagaland. It implies that technology-mediated education can improve equity, quality, and resilience, but only under the conditions of inclusive policy design, strong digital infrastructure, vigorous teacher capability building, and culturally appropriate digital content.\nKeywords: Educational technology, digital learning, COVID-19, Nagaland, online education, Challenges, blended learning</jats:p>",
@@ -687,24 +705,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.32628/cseit251116279",
-    "title": "Cyber Defense Digital Twins: A Federated Learning and Zero-Trust AI Architecture for Autonomous Threat Prediction and Response",
-    "abstract": "<jats:p>Modern enterprise networks operate under persistent threats that exploit cloud-native misconfigurations, identity sprawl, and API vulnerabilities at machine speed. Existing security operations center (SOC) architectures remain largely reactive, signature-dependent, and incapable of predicting multi-stage lateral movement. This paper proposes the Cognitive Cyber Defense Digital Twin (CCDT), a unified architecture integrating federated learning (FL), graph neural network (GNN)-based attack-path forecasting, adversarially hardened detection models, and autonomous Security Orchestration, Automation, and Response (SOAR) with deception engineering. The CCDT constructs a continuously synchronized digital replica of organizational assets and employs reinforcement learning-based red agents to stress-test detection models. A federated intelligence mesh enables cross-organizational privacy-preserving gradient sharing. Experimental evaluations against CICIDS-2018 and LANL datasets demonstrate 52% faster attack-path detection, 41% reduction in false positive rate, and 60% reduction in mean-time-to-respond (MTTR) compared to traditional SOC baselines. Integrated Explainable AI (XAI) modules using SHAP values enable audit-ready compliance reporting. The CCDT represents a paradigm shift from reactive monitoring to predictive, autonomous, and privacy-preserving cyber defense for hybrid cloud environments.</jats:p>",
-    "authors": [
-      "Sivaramakrishnan Narayanan"
-    ],
-    "published": "2028",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.32628/cseit251116279",
-    "pdf_url": null,
-    "doi": "10.32628/cseit251116279",
-    "citations": 0,
-    "venue": "International Journal of Scientific Research in Computer Science, Engineering and Information Technology",
-    "open_access": false,
-    "ai_summary": "The paper proposes the Cognitive Cyber Defense Digital Twin (CCDT) The CCDT constructs a continuously synchronized digital replica of organizational assets . It employs reinforcement learning-based red agents to stress-test detection models ."
-  },
-  {
     "id": "crossref:10.1504/ijmlo.2028.10080498",
     "title": "Design and evaluation of AI-Driven personalised learning applications: a systematic review",
     "abstract": "",
@@ -743,24 +743,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.1504/ijaac.2028.10080905",
-    "title": "Innovative deep learning computational approach for wheat disease detection employing faster region-based convolutional neural network",
-    "abstract": "",
-    "authors": [
-      "Shikai Zhou"
-    ],
-    "published": "2028",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.1504/ijaac.2028.10080905",
-    "pdf_url": null,
-    "doi": "10.1504/ijaac.2028.10080905",
-    "citations": 0,
-    "venue": "International Journal of Automation and Control",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
     "id": "crossref:10.1504/ijbpm.2028.10081045",
     "title": "Evaluating teaching methods for mature learners: a mixed-methods investigation of learning preferences in higher education",
     "abstract": "",
@@ -785,26 +767,22 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "pubmed:42763696",
-    "title": "Artificial Intelligence-Driven Digital Tools for Diabetes Self-management in Children: A Scoping Review.",
-    "abstract": "Managing diabetes in children is challenging and requires continuous monitoring and structured self-care support. Artificial intelligence (AI)-driven digital tools may enhance self-management and improve health outcomes. This scoping review aimed to synthesize the existing evidence on AI-driven digital tools for pediatric diabetes self-management, focusing on their functionalities, benefits, and limitations. From an initial pool of 97 articles published between January 2010 and March 1, 2025, 19 studies met the predefined inclusion criteria. A systematic search was conducted in PubMed, Scopus, Web of Science, CINAHL, PsycINFO, and Embase using predefined keywords. Two independent reviewers performed screening and data extraction. Methodological quality was appraised using the Cochrane Risk of Bias Tool, the Newcastle-Ottawa Scale, and the Critical Appraisal Skills Programme (CASP) Checklist. Qualitative and quantitative findings were synthesized thematically. The 19 included studies addressed several overlapping application domains of AI-driven digital tools for pediatric diabetes self-management. Overall, 8 studies focused primarily on glucose prediction, glycemic monitoring, or pattern recognition; 4 studies evaluated insulin dosing optimization and clinical decision-support systems; 6 studies investigated personalized education, behavioral support, user engagement, or self-management learning interventions; 5 studies examined telemedicine, remote monitoring, or healthcare access; and 5 studies primarily addressed ethical, methodological, transparency, or implementation challenges. AI-based digital tools have considerable potential to support diabetes self-management in children. Future research should prioritize long-term evaluations, the inclusion of diverse populations, and rigorous assessments of clinical outcomes, data privacy, and algorithm performance.",
+    "id": "crossref:10.1504/ijaac.2028.10080905",
+    "title": "Innovative deep learning computational approach for wheat disease detection employing faster region-based convolutional neural network",
+    "abstract": "",
     "authors": [
-      "Maryam Nakhaee Moghadam",
-      "Sara Amini",
-      "Mojtaba Lotfi",
-      "Mehrnaz Nazari Rad",
-      "Jalal Nourmohammadi"
+      "Shikai Zhou"
     ],
-    "published": "2027-Jan-31",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42763696/",
+    "published": "2028",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.1504/ijaac.2028.10080905",
     "pdf_url": null,
-    "doi": "10.5812/ijem-169084",
+    "doi": "10.1504/ijaac.2028.10080905",
     "citations": 0,
-    "venue": "International journal of endocrinology and metabolism",
+    "venue": "International Journal of Automation and Control",
     "open_access": false,
-    "ai_summary": "Scoping review aimed to synthesize the existing evidence on AI-driven digital tools for pediatric diabetes self-management . 19 studies met the predefined inclusion criteria ."
+    "ai_summary": "No abstract available."
   },
   {
     "id": "openalex:W7171671418",
@@ -899,6 +877,52 @@
     "venue": "PubMed",
     "open_access": false,
     "ai_summary": "No abstract available."
+  },
+  {
+    "id": "pubmed:42763813",
+    "title": "Advances in MOF-Based Transdermal Drug Delivery Systems: Mechanisms, Applications, and Future Prospects.",
+    "abstract": "Transdermal drug delivery offers a noninvasive alternative to conventional administration by avoiding gastrointestinal degradation and hepatic first-pass metabolism. However, its broader clinical application remains limited by the barrier function of the stratum corneum and insufficient drug accumulation within target tissues. Metal-organic frameworks (MOFs), characterized by their high surface area, tunable pore structures, and versatile surface chemistry, have recently emerged as promising platforms for transdermal drug delivery. This review summarizes the key advantages of MOF-based transdermal systems, including high drug-loading capacity, particularly for hydrophobic compounds and macromolecules, programmable multidrug delivery, favorable biocompatibility, and the integration of diagnostic and therapeutic functions with complementary physical treatment modalities. We further discuss recent advances in the rational design of MOF-based transdermal platforms across major biomedical applications, including diabetic wound management, skin regeneration, skin cancer therapy, and cosmetic delivery. Despite these advances, clinical translation remains challenged by insufficient long-term biosafety evaluation, incomplete understanding of degradation behavior and biodistribution, limited manufacturing scalability, and regulatory requirements for complex multifunctional systems. Recent developments in artificial intelligence (AI) provide new opportunities to address several of these challenges by accelerating MOF design, predicting structure-property relationships, optimizing stimuli-responsive drug release, and supporting the development of personalized transdermal therapies. Overall, this review provides an integrated perspective on the design principles, therapeutic applications, and translational challenges of MOF-based transdermal systems, while outlining future directions for their successful clinical development.",
+    "authors": [
+      "Deyun Ma",
+      "Sirui Guo",
+      "Ruohan Liu",
+      "Yingzi Feng",
+      "Alireza Nezamzadeh-Ejhieh",
+      "Lu Lu",
+      "Ying Pan",
+      "Shuze Zhuang"
+    ],
+    "published": "2026-Sep-20",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42763813/",
+    "pdf_url": null,
+    "doi": "10.1007/s41061-026-00566-8",
+    "citations": 0,
+    "venue": "Topics in current chemistry (Cham)",
+    "open_access": false,
+    "ai_summary": "Metal-organic frameworks (MOFs) characterized by their high surface area, tunable pore structures, and versatile surface chemistry, have recently emerged as promising platforms for transdermal drug delivery . The broader clinical application remains limited by the barrier function of the stratum cor"
+  },
+  {
+    "id": "pubmed:42763812",
+    "title": "Multiscale model calibrated with a Bayesian algorithm predicts long-term outcomes of treatments for mitral valve regurgitation in animal models.",
+    "abstract": "In primary mitral valve regurgitation (MR), a failing valve induces volume overload (VO) of the left ventricle (LV), triggering neurohormonal responses and myocardial remodeling. Surgical valve repair is the most effective therapy for MR, improving symptoms and in some patients reversing cardiac hypertrophy. However, at least 20% of patients develop postoperative impairment of LV function with detrimental effects on long-term outcomes, with no known cause. Many MR patients receive pharmacological treatment to alleviate symptoms, with drugs that alter cardiac function, hemodynamics, and molecular pathways that influence cardiac remodeling. To support the advancement of medical management of MR, we developed a multiscale model of cardiac hypertrophy that links ventricular mechanics, cardiovascular hemodynamics, and cardiomyocyte molecular signaling. We calibrated the model using the Markov chain Monte Carlo algorithm, a machine learning method, to integrate data from 76 studies of experimental VO in animals. The model's predictions showed good agreement with experimental data on MR in dogs, including the chronic effects of four drugs on MR-induced hypertrophy. When simulating valve repair, our model suggests that full reversal of LV hypertrophy requires both the mechanical elimination of VO and the restoration of normal neurohormonal receptor activity. Finally, we explored selecting subsets of a large pool of pre-computed simulations to personalize model predictions for a small population or individual where insufficient data are available to refit the entire model.",
+    "authors": [
+      "Johane H Bracamonte",
+      "Lionel Watkins",
+      "Jeffrey J Saucerman",
+      "Jeffrey W Holmes"
+    ],
+    "published": "2026-Sep-20",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42763812/",
+    "pdf_url": null,
+    "doi": "10.1007/s10237-026-02123-0",
+    "citations": 0,
+    "venue": "Biomechanics and modeling in mechanobiology",
+    "open_access": false,
+    "ai_summary": "Surgical valve repair is the most effective therapy for MR, improving symptoms and in some patients reversing cardiac hypertrophy . At least 20% of patients develop postoperative impairment of LV function with detrimental effects on long-term outcomes ."
   },
   {
     "id": "pubmed:42763773",
@@ -1581,49 +1605,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "arxiv:2609.20820v1",
-    "title": "Workspace Models: Lightweight Robotic Memory via Saliency-Driven Supervision",
-    "abstract": "Complex robotic manipulation tasks frequently require a long-term memory of past events and actions. As conditioning on full histories renders policies prone to spurious correlations and degrades performance, many approaches to policy memory involve compressing historical information through expensive VLM queries in-the-loop to process only task-salient information. In this paper, we propose an alternative approach in which computationally intensive VLM queries are made during train-time to learn a lightweight latent memory that can be efficiently queried at deployment time. Our representation, which we call the \\textbf{workspace token}, is trained by (1) using a VLM to identify current and historical information necessary for completing a task, then (2) distilling these into the workspace token using a set-reconstruction decoder loss. In both simulation and hardware, we show that the workspace token can be used as a drop-in replacement for observations during deployment, enabling policies to solve memory-intensive tasks without the need for VLM reasoning in-the-loop. Interestingly, we found that workspace tokens are not only more lightweight but also lead to better policy performance.",
-    "authors": [
-      "Nitish Dashora",
-      "Douglas Chen",
-      "Idan Shenfeld",
-      "John Marangola",
-      "Pulkit Agrawal",
-      "Max Simchowitz"
-    ],
-    "published": "2026-09-17",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2609.20820v1",
-    "pdf_url": "https://arxiv.org/pdf/2609.20820v1",
-    "doi": null,
-    "citations": 0,
-    "venue": "arXiv preprint",
-    "open_access": true,
-    "ai_summary": "The work is based on the work of a team of researchers in the U.S. They say they can use a VLM to learn a lightweight latent memory that can be efficiently queried at deployment time . They say this could be used as a drop-in replacement for observations during deployment ."
-  },
-  {
-    "id": "arxiv:2609.20819v1",
-    "title": "Can 4D Foundation Models Remember?",
-    "abstract": "Perceiving and remembering the visual world is fundamental to navigating and interacting with our environment. Current 4D foundation models, such as camera-controllable video models or 4D reconstruction models, can perceive and reconstruct dynamic environments, but how well they remember what they have perceived remains an open question. Existing benchmarks largely rely on pixel-level metrics and lack ground truth for objects once they leave the field of view, making them unable to evaluate visual memory in an object-centric manner against references. To fill this gap, we introduce PersistBench, a dataset and metric suite that leverages 360° videos as omniscient ground truth and proposes three evaluation aspects: object permanence, motion continuity, and appearance preservation. Evaluating various models across diverse categories reveals that current models can only maintain short-term consistency that degrades significantly once objects leave the field of view. Our findings highlight the gap between current model capabilities and robust visual memory (\"seeing is not remembering\"), providing guidance for future development of 4D foundation models. Dataset and code are available on the project page: https://guangzhaohe.com/persistbench.",
-    "authors": [
-      "Guangzhao He",
-      "Hadar Averbuch-Elor",
-      "Wei-Chiu Ma"
-    ],
-    "published": "2026-09-17",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2609.20819v1",
-    "pdf_url": "https://arxiv.org/pdf/2609.20819v1",
-    "doi": null,
-    "citations": 0,
-    "venue": "arXiv preprint",
-    "open_access": true,
-    "ai_summary": "Current 4D foundation models can perceive and reconstruct dynamic environments, but how well they remember what they have perceived remains an open question . Existing benchmarks rely on pixel-level metrics and lack ground truth for objects once they leave the field of view . To fill this gap, we introduce PersistBench, a dataset and metric suite that leverages"
-  },
-  {
     "id": "arxiv:2609.20822v1",
     "title": "Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation",
     "abstract": "Coding agents have emerged as a promising paradigm for robot manipulation: a language model writes the robot controller as a program, and agents built in this way now operate robots without robot-specific training.Whether this paradigm is also safe, however, has not been asked. We evaluate coding agent under a safety constraint, where each task pairs a manipulation goal with an obstacle the robot must not touch. The agent pursues the goal but collides with the obstacle in most cases, treating task completion as its sole objective while neglecting safety. The agent reasons about the obstacle in its traces, and the prompt already forbids touching it, so neither perception nor instruction is at fault; the fault lies in the planning, where the stated constraint never becomes a priority. By decomposing manipulation into a route phase and a contact-rich moment, we locate the source of the failure. Along the route, the model cannot prioritize the safety constraint, having no notion of a clearing route and none of replanning once a chosen route becomes infeasible. At the contact, it is unaware that contact execution is bounded by the same constraint. To close this gap, we present SafeHarness, which equips the model with two obstacle-aware harnesses that enable it to prioritize the safety constraint. Obstacle-aware route planning grounds the objects as bounding boxes and draws candidate routes over them as sequences of waypoints. The agent then plans a route in advance, verifies it, replans when necessary, and only then executes it. Obstacle-aware contact execution instead selects the contact position so that the contact itself avoids the obstacle. SafeHarness attains 71.9% task success and 87.5% collision avoidance, surpassing the previous SOTA by 6.5% and 27.0%, respectively. These results are $2.3\\times$ and $1.5\\times$ those of the same agent without harnesses.",
@@ -1710,6 +1691,49 @@
     "venue": "arXiv preprint",
     "open_access": true,
     "ai_summary": "Embedding spaces define notions of semantic similarity and distance . We study whether those embeddings reflect physical measurements of mass, distance, time and volume . We find that physical measurement is only weakly modeled in the embedding space ."
+  },
+  {
+    "id": "arxiv:2609.20819v1",
+    "title": "Can 4D Foundation Models Remember?",
+    "abstract": "Perceiving and remembering the visual world is fundamental to navigating and interacting with our environment. Current 4D foundation models, such as camera-controllable video models or 4D reconstruction models, can perceive and reconstruct dynamic environments, but how well they remember what they have perceived remains an open question. Existing benchmarks largely rely on pixel-level metrics and lack ground truth for objects once they leave the field of view, making them unable to evaluate visual memory in an object-centric manner against references. To fill this gap, we introduce PersistBench, a dataset and metric suite that leverages 360° videos as omniscient ground truth and proposes three evaluation aspects: object permanence, motion continuity, and appearance preservation. Evaluating various models across diverse categories reveals that current models can only maintain short-term consistency that degrades significantly once objects leave the field of view. Our findings highlight the gap between current model capabilities and robust visual memory (\"seeing is not remembering\"), providing guidance for future development of 4D foundation models. Dataset and code are available on the project page: https://guangzhaohe.com/persistbench.",
+    "authors": [
+      "Guangzhao He",
+      "Hadar Averbuch-Elor",
+      "Wei-Chiu Ma"
+    ],
+    "published": "2026-09-17",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2609.20819v1",
+    "pdf_url": "https://arxiv.org/pdf/2609.20819v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "Current 4D foundation models can perceive and reconstruct dynamic environments, but how well they remember what they have perceived remains an open question . Existing benchmarks rely on pixel-level metrics and lack ground truth for objects once they leave the field of view . To fill this gap, we introduce PersistBench, a dataset and metric suite that leverages"
+  },
+  {
+    "id": "arxiv:2609.20820v1",
+    "title": "Workspace Models: Lightweight Robotic Memory via Saliency-Driven Supervision",
+    "abstract": "Complex robotic manipulation tasks frequently require a long-term memory of past events and actions. As conditioning on full histories renders policies prone to spurious correlations and degrades performance, many approaches to policy memory involve compressing historical information through expensive VLM queries in-the-loop to process only task-salient information. In this paper, we propose an alternative approach in which computationally intensive VLM queries are made during train-time to learn a lightweight latent memory that can be efficiently queried at deployment time. Our representation, which we call the \\textbf{workspace token}, is trained by (1) using a VLM to identify current and historical information necessary for completing a task, then (2) distilling these into the workspace token using a set-reconstruction decoder loss. In both simulation and hardware, we show that the workspace token can be used as a drop-in replacement for observations during deployment, enabling policies to solve memory-intensive tasks without the need for VLM reasoning in-the-loop. Interestingly, we found that workspace tokens are not only more lightweight but also lead to better policy performance.",
+    "authors": [
+      "Nitish Dashora",
+      "Douglas Chen",
+      "Idan Shenfeld",
+      "John Marangola",
+      "Pulkit Agrawal",
+      "Max Simchowitz"
+    ],
+    "published": "2026-09-17",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2609.20820v1",
+    "pdf_url": "https://arxiv.org/pdf/2609.20820v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "The work is based on the work of a team of researchers in the U.S. They say they can use a VLM to learn a lightweight latent memory that can be efficiently queried at deployment time . They say this could be used as a drop-in replacement for observations during deployment ."
   },
   {
     "id": "arxiv:2609.20816v1",
@@ -1921,7 +1945,7 @@
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "Posteriorbench evaluates four physics-based inverse problems . It evaluates Darcy flow inversion, Poisson source recovery, carbon capture and storage . For each task, we construct high-fidelity reference posteriors using computationally heavy but established procedures ."
+    "ai_summary": "Posteriorbench evaluates four physics-based inverse problems . It can achieve strong pointwise accuracy while still failing to capture the true posterior through mode collapse ."
   },
   {
     "id": "arxiv:2609.20784v1",
@@ -2194,7 +2218,7 @@
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "Adapting a pretrained autoregressive (AR) model is a cost-efficient route to a diffusion language model (DLM) While nearly all such adaptations start from a full-attention transformer, AR modeling has shifted toward hybrid architectures that interleave attention and RNN layers . This creates an obstacle for adaptation: unlike attention, RNNs"
+    "ai_summary": "Adapting a pretrained autoregressive (AR) model is a cost-efficient route to a diffusion language model (DLM) While nearly all such adaptations start from a full-attention transformer, AR modeling has shifted toward hybrid architectures . This creates an obstacle for adaptation: unlike attention, RNNs are structurally causal and nontrivial to bidirectionalize"
   },
   {
     "id": "arxiv:2609.20749v1",
@@ -2340,7 +2364,7 @@
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "Semantic cell annotation improves chunking interpretability for spreadsheets in LLM-driven RAG systems . We propose a novel framework of splitting any spreadsheet into interpretable chunks using cell role annotation ."
+    "ai_summary": "Spreadsheets are fundamentally two-dimensional unstructured data with continuous relationships and infinite potential cell roles . We propose a novel framework of splitting any spreadsheet into interpretable chunks using cell role annotation ."
   },
   {
     "id": "arxiv:2609.20723v1",
@@ -2704,6 +2728,25 @@
     "ai_summary": "Large-scale vision-language-action (VLA) models provide powerful priors for robot manipulation . Supervised fine-tuning (SFT) on task-specific demonstrations provides a step toward deployment . HIL-UMI, a policy-guided Universal Manipulation Interface (UMI) framework for robot-free"
   },
   {
+    "id": "pubmed:42763768",
+    "title": "The Role and Diagnostic Accuracy of Artificial Intelligence in Pulmonary Function Tests: A Systematic Review.",
+    "abstract": "The rapid advancement of artificial intelligence (AI) has highlighted its potential as a supportive tool in pulmonary function test (PFT) interpretation given the inherent biological variation, inter-rater variability, lack of confidence in result interpretation and restricted access within resource-constrained settings. This study aims to systematically review the published literature on the diagnostic accuracy of AI-based interpretation of PFTs and evaluate its implications for current and future clinical practice in healthcare. After screening, forty-seven publications met the inclusion criteria and were analysed to create a narrative summary. Four main over-arching themes were identified from the available literature. AI appears to consistently outperform non-specialists in diagnostic accuracy of PFTs and showed a synergistic effect when used as an adjunct in both specialist and non-specialist settings. Using AI software also had greater diagnostic accuracy than clinicians when presented with suboptimal or limited clinical information and investigations. It was also observed that the implementation of AI can address the issue of inter-rater variability by giving more consultant interpretations. Chronic obstructive pulmonary disease diagnosis saw the greatest accuracy with other conditions such as obstructive sleep apnoea showing limited evidence for the introduction of AI as a diagnostic tool. The evidence suggests that AI has the potential to play a significant role in the future of healthcare but should be used as an adjunctive tool as opposed to an independent diagnostic decision maker. One such way it could be utilised is as a triage/screening tool to help bridge the gap between primary and secondary care.",
+    "authors": [
+      "Thomas Orpwood",
+      "Irina-Lavinia Soica"
+    ],
+    "published": "2026",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42763768/",
+    "pdf_url": null,
+    "doi": "10.12865/CHSJ.51.02.141",
+    "citations": 0,
+    "venue": "Current health sciences journal",
+    "open_access": false,
+    "ai_summary": "The rapid advancement of artificial intelligence (AI) has highlighted its potential as a supportive tool in pulmonary function test (PFT) interpretation . The study aims to systematically review the published literature on the diagnostic accuracy of AI-based interpretation of PFTs and evaluate its implications for future clinical practice in healthcare ."
+  },
+  {
     "id": "pubmed:42763769",
     "title": "Evaluating the Role of Exosome Therapy in Reproductive Aging:A Narrative Review of Recent Advancements.",
     "abstract": "Exosome therapy shows promise as a non-hormonal treatment to restore ovarian function and combat reproductive aging. This review aims to explore recent advances, mechanisms, and clinical potential of exosome therapy in reproductive aging. This narrative review explored advancements in exosome therapy for reproductive aging through a comprehensive literature search of PubMed, Embase, Google Scholar, and ClinicalKey, covering studies from 2015 to 2025. Using a structured search strategy with relevant MeSH terms and keywords. After applying inclusion and exclusion criteria focused on human studies with therapeutic relevance, 13 articles were selected. Key data were extracted and synthesized to highlight mechanisms, clinical potential, and future directions of exosome-based interventions in ovarian aging. Thirteen human-focused studies were categorized into four themes: ovarian function restoration, exosomal biomarkers, therapeutic roles in reproductive diseases, and clinical applications. Exosomes especially MSC-derived enhanced ovarian regeneration through anti-apoptotic, anti-inflammatory, and metabolic pathways. Age-related changes in exosomal cargo showed strong diagnostic potential. Exosomes also demonstrated therapeutic effects in POI and PCOS and showed promise as low-immunogenic, cell-free nanocarriers for targeted reproductive-aging interventions. Exosome therapy is a promising, non-hormonal option for addressing reproductive aging, with potential for safe and effective clinical use.",
@@ -2721,25 +2764,6 @@
     "venue": "Current health sciences journal",
     "open_access": false,
     "ai_summary": "Exosome therapy shows promise as a non-hormonal treatment to restore ovarian function and combat reproductive aging . This review aims to explore recent advances, mechanisms, and clinical potential of exosome Therapy in reproductive aging."
-  },
-  {
-    "id": "pubmed:42763768",
-    "title": "The Role and Diagnostic Accuracy of Artificial Intelligence in Pulmonary Function Tests: A Systematic Review.",
-    "abstract": "The rapid advancement of artificial intelligence (AI) has highlighted its potential as a supportive tool in pulmonary function test (PFT) interpretation given the inherent biological variation, inter-rater variability, lack of confidence in result interpretation and restricted access within resource-constrained settings. This study aims to systematically review the published literature on the diagnostic accuracy of AI-based interpretation of PFTs and evaluate its implications for current and future clinical practice in healthcare. After screening, forty-seven publications met the inclusion criteria and were analysed to create a narrative summary. Four main over-arching themes were identified from the available literature. AI appears to consistently outperform non-specialists in diagnostic accuracy of PFTs and showed a synergistic effect when used as an adjunct in both specialist and non-specialist settings. Using AI software also had greater diagnostic accuracy than clinicians when presented with suboptimal or limited clinical information and investigations. It was also observed that the implementation of AI can address the issue of inter-rater variability by giving more consultant interpretations. Chronic obstructive pulmonary disease diagnosis saw the greatest accuracy with other conditions such as obstructive sleep apnoea showing limited evidence for the introduction of AI as a diagnostic tool. The evidence suggests that AI has the potential to play a significant role in the future of healthcare but should be used as an adjunctive tool as opposed to an independent diagnostic decision maker. One such way it could be utilised is as a triage/screening tool to help bridge the gap between primary and secondary care.",
-    "authors": [
-      "Thomas Orpwood",
-      "Irina-Lavinia Soica"
-    ],
-    "published": "2026",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42763768/",
-    "pdf_url": null,
-    "doi": "10.12865/CHSJ.51.02.141",
-    "citations": 0,
-    "venue": "Current health sciences journal",
-    "open_access": false,
-    "ai_summary": "AI appears to consistently outperform non-specialists in diagnostic accuracy of PFTs . Using AI software also had greater diagnostic accuracy than clinicians when presented with suboptimal o's ."
   },
   {
     "id": "pubmed:42763755",
@@ -2837,27 +2861,6 @@
     "venue": "Current health sciences journal",
     "open_access": false,
     "ai_summary": "Heart disease is the leading cause of morbidity and mortality worldwide . A retrospective analysis was performed on a dataset of 918 patients with complete clinical information ."
-  },
-  {
-    "id": "pubmed:42763706",
-    "title": "Machine Learning Prediction and Causal Forest Analysis of Severe Acute Kidney Injury in ICU Patients with COPD: A MIMIC-IV Study.",
-    "abstract": "Severe acute kidney injury (AKI) is frequent in critically ill patients with chronic obstructive pulmonary disease (COPD), but predictive importance does not establish causality. To model severe AKI (KDIGO stage 3), evaluate temporal robustness at a 24-hour ICU landmark, and explore adjusted exposure-effect estimates. This retrospective MIMIC-IV v3.1 cohort included 4,705 adults with COPD. The original modeling dataset was split into training (n = 3,294) and testing (n = 1,411) sets. Consensus features from LASSO, Boruta, and random-forest importance informed 15 classifiers; the highest observed test-set AUC was interpreted with SHAP. A 24-hour landmark analysis excluded earlier stage 3 AKI and used pre-landmark predictors for incident stage 3 AKI thereafter. CausalForestDML estimated exploratory adjusted effects of the most recent valid creatinine within 365 days before ICU admission. Severe AKI occurred in 1,085 patients (23.06%). The original six-feature CatBoost model included total ICU length of stay and had an AUC of 0.848 (95% CI, 0.825-0.872); it is interpreted as a retrospective trajectory model. The landmark cohort included 4,171 patients and 841 events. The temporal five-feature AUC was 0.679 (95% CI, 0.641-0.717); without pre-ICU creatinine it was 0.686 (95% CI, 0.648-0.724; paired difference, -0.0067; P = 0.293). The adjusted creatinine risk difference was 0.0547 per 1 mg/dL (95% CI, -0.0021 to 0.1115) and 0.0705 (95% CI, 0.0022-0.1387) after 1st-99th percentile trimming. This study establishes a COPD-specific benchmark showing that a parsimonious model can characterize severe-AKI trajectories and that temporal separation materially changes performance and interpretation. Integrating model comparison, SHAP, adjusted-effect estimation, and landmark validation provides a rigorous framework for distinguishing prognostic importance from causal relevance and defines priorities for external validation.",
-    "authors": [
-      "LiFeng Fang",
-      "Fei Wang",
-      "Junkang Chen",
-      "Yulong Zheng"
-    ],
-    "published": "2026",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42763706/",
-    "pdf_url": null,
-    "doi": "10.2147/COPD.S611985",
-    "citations": 0,
-    "venue": "International journal of chronic obstructive pulmonary disease",
-    "open_access": false,
-    "ai_summary": "Severe acute kidney injury (AKI) is frequent in critically ill patients with chronic obstructive pulmonary disease (COPD) Severe AKI occurred in 1,085 patients (23.06%) The original six-feature CatBoost model included total ICU length of stay and stay and the highest observed test-"
   },
   {
     "id": "conf:Conference:https://aclanthology.org/events/acl-2025/#2025acl-long",
