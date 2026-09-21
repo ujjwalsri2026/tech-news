@@ -145,11 +145,11 @@
     "source": "Crossref",
     "category": "index",
     "url": "https://doi.org/10.3998/mjcsl.6294",
-    "pdf_url": null,
+    "pdf_url": "https://journals.publishing.umich.edu/mjcsl/article/id/6294/download/pdf/",
     "doi": "10.3998/mjcsl.6294",
     "citations": 0,
     "venue": "Michigan Journal of Community Service Learning",
-    "open_access": false,
+    "open_access": true,
     "ai_summary": "No abstract available."
   },
   {
@@ -163,22 +163,6 @@
     "url": "https://doi.org/10.3998/mjcsl.5730",
     "pdf_url": null,
     "doi": "10.3998/mjcsl.5730",
-    "citations": 0,
-    "venue": "Michigan Journal of Community Service Learning",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "crossref:10.3998/mjcsl.4120",
-    "title": "Title Pending 4120",
-    "abstract": "",
-    "authors": [],
-    "published": "2033",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.3998/mjcsl.4120",
-    "pdf_url": null,
-    "doi": "10.3998/mjcsl.4120",
     "citations": 0,
     "venue": "Michigan Journal of Community Service Learning",
     "open_access": false,
@@ -201,6 +185,22 @@
     "ai_summary": "No abstract available."
   },
   {
+    "id": "crossref:10.3998/mjcsl.4120",
+    "title": "Title Pending 4120",
+    "abstract": "",
+    "authors": [],
+    "published": "2033",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.3998/mjcsl.4120",
+    "pdf_url": null,
+    "doi": "10.3998/mjcsl.4120",
+    "citations": 0,
+    "venue": "Michigan Journal of Community Service Learning",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
     "id": "crossref:10.3998/mjcsl.2741",
     "title": "Title Pending 2741",
     "abstract": "",
@@ -214,6 +214,96 @@
     "citations": 0,
     "venue": "Michigan Journal of Community Service Learning",
     "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7128405138",
+    "title": "Essays on Financial Machine Learning: Nonlinearity, Predictability and Data-Theory Integration",
+    "abstract": "",
+    "authors": [
+      "Yinuo Wang"
+    ],
+    "published": "2031-01-01",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.17638/03195315",
+    "pdf_url": "https://doi.org/10.17638/03195315",
+    "doi": "10.17638/03195315",
+    "citations": 0,
+    "venue": "University of Liverpool",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7128501788",
+    "title": "APPLICATION OF MACHINE LEARNING FOR MASS CYTOMETRY DATA ANALYSIS OF CHRONIC LYMPHOCYTIC LEUKAEMIA",
+    "abstract": "",
+    "authors": [
+      "Muizdeen Raji"
+    ],
+    "published": "2031-01-01",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.17638/03192789",
+    "pdf_url": "https://doi.org/10.17638/03192789",
+    "doi": "10.17638/03192789",
+    "citations": 0,
+    "venue": "University of Liverpool",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7128392690",
+    "title": "Antecedents and consequences of Green-tech FDI in emerging markets",
+    "abstract": "",
+    "authors": [
+      "Zhuoran Liu"
+    ],
+    "published": "2031-01-01",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.17638/03195308",
+    "pdf_url": "https://doi.org/10.17638/03195308",
+    "doi": "10.17638/03195308",
+    "citations": 0,
+    "venue": "University of Liverpool",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7128624139",
+    "title": "Combating Data and Target Shifts in Visual Tasks",
+    "abstract": "",
+    "authors": [
+      "Zhaorui Tan"
+    ],
+    "published": "2031-01-01",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.17638/03194353",
+    "pdf_url": "https://doi.org/10.17638/03194353",
+    "doi": "10.17638/03194353",
+    "citations": 0,
+    "venue": "University of Liverpool",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7116362194",
+    "title": "MODELING HOSPITALITY AND TOURISM STRATEGIES",
+    "abstract": "",
+    "authors": [
+      "Di Zhu"
+    ],
+    "published": "2030-01-01",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.7273/000007504",
+    "pdf_url": "https://doi.org/10.7273/000007504",
+    "doi": "10.7273/000007504",
+    "citations": 0,
+    "venue": "Washington State University",
+    "open_access": true,
     "ai_summary": "No abstract available."
   },
   {
@@ -254,6 +344,78 @@
     "citations": 0,
     "venue": "International Journal of Government Auditing",
     "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W4310005602",
+    "title": "Journal of GIS based Historical Studies",
+    "abstract": "",
+    "authors": [
+      "JANGIS"
+    ],
+    "published": "2029-05-06",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.5281/zenodo.7368979",
+    "pdf_url": "https://zenodo.org/record/7368979",
+    "doi": "10.5281/zenodo.7368979",
+    "citations": 0,
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7128551175",
+    "title": "Development of an Advanced Artificial Intelligence-based Model (Deep Business Analytics) for Managing and Improving Control and Decision Making in Modern Organisations: Application in a Hospital Clinical Laboratory",
+    "abstract": "",
+    "authors": [
+      "Mahdi Seify"
+    ],
+    "published": "2029-01-01",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.17638/03194278",
+    "pdf_url": "https://doi.org/10.17638/03194278",
+    "doi": "10.17638/03194278",
+    "citations": 0,
+    "venue": "University of Liverpool",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7128043696",
+    "title": "A UAV-Based Framework for Community-Scale Residential Building Energy Modelling in China",
+    "abstract": "",
+    "authors": [
+      "Mengfan Jin"
+    ],
+    "published": "2029-01-01",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.17638/03195460",
+    "pdf_url": "https://doi.org/10.17638/03195460",
+    "doi": "10.17638/03195460",
+    "citations": 0,
+    "venue": "University of Liverpool",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7128020427",
+    "title": "Data Augmentation Application in Deep Learning Drug Discovery by Utilizing Relationships Between Biological and Medical Entities",
+    "abstract": "",
+    "authors": [
+      "Tianjun Wang"
+    ],
+    "published": "2029-01-01",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.17638/03195452",
+    "pdf_url": "https://doi.org/10.17638/03195452",
+    "doi": "10.17638/03195452",
+    "citations": 0,
+    "venue": "University of Liverpool",
+    "open_access": true,
     "ai_summary": "No abstract available."
   },
   {
@@ -299,48 +461,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.5705/ss.202026.0109",
-    "title": "Inference for Extreme Value Index Through Individualized Fusion Learning",
-    "abstract": "",
-    "authors": [
-      "Hongfang Sun",
-      "Yu Chen",
-      "Tao Xu",
-      "Zhengjun Zhang"
-    ],
-    "published": "2029",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.5705/ss.202026.0109",
-    "pdf_url": null,
-    "doi": "10.5705/ss.202026.0109",
-    "citations": 0,
-    "venue": "Statistica Sinica",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "crossref:10.5705/ss.202025.0205",
-    "title": "Sparsity Learning via Structured Functional Factor Augmentation",
-    "abstract": "",
-    "authors": [
-      "Hanteng Ma",
-      "Ziliang Shen",
-      "Xingdong Feng",
-      "Xin Liu"
-    ],
-    "published": "2029",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.5705/ss.202025.0205",
-    "pdf_url": null,
-    "doi": "10.5705/ss.202025.0205",
-    "citations": 0,
-    "venue": "Statistica Sinica",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
     "id": "crossref:10.5705/ss.202025.0314",
     "title": "Transfer Learning for High-dimensional Regression with Compositional Covariates: Application to Microbiome Studies",
     "abstract": "",
@@ -356,6 +476,27 @@
     "url": "https://doi.org/10.5705/ss.202025.0314",
     "pdf_url": null,
     "doi": "10.5705/ss.202025.0314",
+    "citations": 0,
+    "venue": "Statistica Sinica",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "crossref:10.5705/ss.202026.0109",
+    "title": "Inference for Extreme Value Index Through Individualized Fusion Learning",
+    "abstract": "",
+    "authors": [
+      "Hongfang Sun",
+      "Yu Chen",
+      "Tao Xu",
+      "Zhengjun Zhang"
+    ],
+    "published": "2029",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.5705/ss.202026.0109",
+    "pdf_url": null,
+    "doi": "10.5705/ss.202026.0109",
     "citations": 0,
     "venue": "Statistica Sinica",
     "open_access": false,
@@ -380,6 +521,84 @@
     "citations": 0,
     "venue": "Statistica Sinica",
     "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "crossref:10.5705/ss.202025.0205",
+    "title": "Sparsity Learning via Structured Functional Factor Augmentation",
+    "abstract": "",
+    "authors": [
+      "Hanteng Ma",
+      "Ziliang Shen",
+      "Xingdong Feng",
+      "Xin Liu"
+    ],
+    "published": "2029",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.5705/ss.202025.0205",
+    "pdf_url": "https://doi.org/10.5705/ss.202025.0205",
+    "doi": "10.5705/ss.202025.0205",
+    "citations": 0,
+    "venue": "Statistica Sinica",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7128783899",
+    "title": "Advances in single-cell image cytometry enabled by nanowell imaging plates and machine learning",
+    "abstract": "",
+    "authors": [
+      "Samuel Guy Berryman"
+    ],
+    "published": "2028-01-01",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.14288/1.0451480",
+    "pdf_url": "https://doi.org/10.14288/1.0451480",
+    "doi": "10.14288/1.0451480",
+    "citations": 0,
+    "venue": "Open Collections",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7119928501",
+    "title": "Deep q-learning aided k-means clustering protocol for optimizing network lifetime in wireless sensor networks",
+    "abstract": "",
+    "authors": [
+      "Flynn Dowey"
+    ],
+    "published": "2028-01-01",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.14288/1.0451106",
+    "pdf_url": "https://doi.org/10.14288/1.0451106",
+    "doi": "10.14288/1.0451106",
+    "citations": 0,
+    "venue": "Open Collections",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7128502054",
+    "title": "Virtual Knapping (and Refitting) with Neural Networks: Proofs of Concept",
+    "abstract": "",
+    "authors": [
+      "F. Jordy Orellana",
+      "Jonathan Scott Reeves",
+      "Shannon P. McPherron",
+      "Claudio Tennie"
+    ],
+    "published": "2028-01-01",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.13140/rg.2.2.12669.63201",
+    "pdf_url": "https://doi.org/10.13140/rg.2.2.12669.63201",
+    "doi": "10.13140/rg.2.2.12669.63201",
+    "citations": 0,
+    "venue": "Unknown",
+    "open_access": true,
     "ai_summary": "No abstract available."
   },
   {
@@ -419,26 +638,6 @@
     "ai_summary": "The chapter considers the rapid migration to digital learning as an emergency strategy . The findings show that the ability of national programmes such as NEP 2020, SWAYAM, DIKSHA, PM e-VIDYA, and others, to promote access to digital tools was low within periphery or hill areas ."
   },
   {
-    "id": "crossref:10.55737/qjss.vii-i.26473",
-    "title": "The Nexus of Leadership and Learning: Exploring Female Principals' Influence on the Teaching-Learning Process in Secondary Schools",
-    "abstract": "<jats:p>The research paper will set out to debate the role played by the leadership competencies of principals in the teaching and learning process. The research will embrace a quantitative research design that will seek to answer the question concerning the relationship that exists between leadership skills of possessed by the  principals and the ongoing teaching-learning process in the female secondary schools using a co-relational study design. A survey instrument comprising of 37 items, which measured the leadership skills possessed by the selected principals and the prevailing teaching learning process, was used in the collection of data. Questionnaires for this study were administered to 108 male and female educators who were serving in secondary schools in Tehsil Wari, upper Dir and among them 100 questionnaires were submitted and were deemed to be useful in the analysis. The data in hand were calculated using Statistical Package of the Social Sciences (SPSS) version-27 and the obtained results indicated that the collected data was normally distributed. The findings revealed that all the variables of the study had great correlations. The analysis of the data was done through linear regression to measure the effect that the leadership skills of the principals had on the teaching learning process and this indicated that leadership skills of the principals have statistically significant effect on the teaching learning process. The policies derived out of this research can be a good guide to both the policymakers and organizational leaders because they can provide a good outline on how to empower the leaders in charge of the principals and as well as exert more influence on the effective teaching and learning processes.</jats:p>",
-    "authors": [
-      "Muhammad Niqab",
-      "Salma Tabbasum",
-      "Shakil Ahmad"
-    ],
-    "published": "2028",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.55737/qjss.vii-i.26473",
-    "pdf_url": null,
-    "doi": "10.55737/qjss.vii-i.26473",
-    "citations": 0,
-    "venue": "Qlantic Journal of Social Sciences",
-    "open_access": false,
-    "ai_summary": "Research paper will debate role played by principals in teaching and learning process . Research will embrace a quantitative research design that will seek to answer the question about the relationship between leadership skills of principals and teaching-learning process ."
-  },
-  {
     "id": "crossref:10.1504/ijims.2028.10081208",
     "title": "Enhancements to the Deep Learning Architecture for Metaverse Integration in Medical Image Processing",
     "abstract": "",
@@ -461,6 +660,26 @@
     "ai_summary": "No abstract available."
   },
   {
+    "id": "crossref:10.55737/qjss.vii-i.26473",
+    "title": "The Nexus of Leadership and Learning: Exploring Female Principals' Influence on the Teaching-Learning Process in Secondary Schools",
+    "abstract": "<jats:p>The research paper will set out to debate the role played by the leadership competencies of principals in the teaching and learning process. The research will embrace a quantitative research design that will seek to answer the question concerning the relationship that exists between leadership skills of possessed by the  principals and the ongoing teaching-learning process in the female secondary schools using a co-relational study design. A survey instrument comprising of 37 items, which measured the leadership skills possessed by the selected principals and the prevailing teaching learning process, was used in the collection of data. Questionnaires for this study were administered to 108 male and female educators who were serving in secondary schools in Tehsil Wari, upper Dir and among them 100 questionnaires were submitted and were deemed to be useful in the analysis. The data in hand were calculated using Statistical Package of the Social Sciences (SPSS) version-27 and the obtained results indicated that the collected data was normally distributed. The findings revealed that all the variables of the study had great correlations. The analysis of the data was done through linear regression to measure the effect that the leadership skills of the principals had on the teaching learning process and this indicated that leadership skills of the principals have statistically significant effect on the teaching learning process. The policies derived out of this research can be a good guide to both the policymakers and organizational leaders because they can provide a good outline on how to empower the leaders in charge of the principals and as well as exert more influence on the effective teaching and learning processes.</jats:p>",
+    "authors": [
+      "Muhammad Niqab",
+      "Salma Tabbasum",
+      "Shakil Ahmad"
+    ],
+    "published": "2028",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.55737/qjss.vii-i.26473",
+    "pdf_url": "https://qjss.com.pk/index.php/qjss/article/download/473/526",
+    "doi": "10.55737/qjss.vii-i.26473",
+    "citations": 0,
+    "venue": "Qlantic Journal of Social Sciences",
+    "open_access": true,
+    "ai_summary": "Research paper will debate role played by principals in teaching and learning process . Research will embrace a quantitative research design that will seek to answer the question about the relationship between leadership skills of principals and teaching-learning process ."
+  },
+  {
     "id": "crossref:10.1504/ijims.2028.10076630",
     "title": "Left Ventricle Extraction Using a DENSENET-U-Net Integrated Deep Learning Approach",
     "abstract": "",
@@ -478,6 +697,25 @@
     "doi": "10.1504/ijims.2028.10076630",
     "citations": 0,
     "venue": "International Journal of Internet Manufacturing and Services",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "crossref:10.1504/ijmlo.2028.10080498",
+    "title": "Design and evaluation of AI-Driven personalised learning applications: a systematic review",
+    "abstract": "",
+    "authors": [
+      "Jashnil Kumar",
+      "Bimal Aklesh Kumar"
+    ],
+    "published": "2028",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.1504/ijmlo.2028.10080498",
+    "pdf_url": null,
+    "doi": "10.1504/ijmlo.2028.10080498",
+    "citations": 0,
+    "venue": "International Journal of Mobile Learning and Organisation",
     "open_access": false,
     "ai_summary": "No abstract available."
   },
@@ -502,25 +740,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.1504/ijmlo.2028.10080498",
-    "title": "Design and evaluation of AI-Driven personalised learning applications: a systematic review",
-    "abstract": "",
-    "authors": [
-      "Jashnil Kumar",
-      "Bimal Aklesh Kumar"
-    ],
-    "published": "2028",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.1504/ijmlo.2028.10080498",
-    "pdf_url": null,
-    "doi": "10.1504/ijmlo.2028.10080498",
-    "citations": 0,
-    "venue": "International Journal of Mobile Learning and Organisation",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
     "id": "crossref:10.1504/ijims.2028.10076831",
     "title": "A Hybrid Huffman-CNN-AES Deep Learning Framework for Secure Medical Image Steganography: H-CADStego",
     "abstract": "",
@@ -540,273 +759,988 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.1504/ijbpm.2028.10081045",
-    "title": "Evaluating teaching methods for mature learners: a mixed-methods investigation of learning preferences in higher education",
+    "id": "crossref:10.1504/ijaac.2028.10080905",
+    "title": "Innovative deep learning computational approach for wheat disease detection employing faster region-based convolutional neural network",
     "abstract": "",
     "authors": [
-      "Nick Papé",
-      "Nazim Uddin",
-      "Rahaman Hasan",
-      "Tommie Anderson Jaquest",
-      "Ilias Mahmud",
-      "Gerry Takamura",
-      "Jonathan Liu"
+      "Shikai Zhou"
     ],
     "published": "2028",
     "source": "Crossref",
     "category": "index",
-    "url": "https://doi.org/10.1504/ijbpm.2028.10081045",
+    "url": "https://doi.org/10.1504/ijaac.2028.10080905",
     "pdf_url": null,
-    "doi": "10.1504/ijbpm.2028.10081045",
+    "doi": "10.1504/ijaac.2028.10080905",
     "citations": 0,
-    "venue": "International Journal of Business Performance Management",
+    "venue": "International Journal of Automation and Control",
     "open_access": false,
     "ai_summary": "No abstract available."
   },
   {
-    "id": "pubmed:42765175",
-    "title": "Identification of Gene Signatures and Molecular Mechanisms Underlying the Comorbidity of Alzheimer's Disease and Crohn's Disease Using Machine Learning.",
-    "abstract": "Alzheimer's disease (AD) and Crohn's disease (CD) both involve inflammation and immune dysregulation, yet the potential molecular mechanisms underlying their comorbidity remain unclear. We integrated transcriptomic data from AD and CD patients and applied differential expression analysis, weighted gene coexpression network analysis, protein-protein interaction networks, and multiple machine learning approaches to identify key comorbidity genes. Functional enrichment, single-cell sequencing validation, and virtual knockout analyses were used to explore their biological roles. Molecular docking was performed to evaluate the binding affinity of candidate small-molecule drugs to the identified core genes. CXCL1 and IGFBP5 were identified as core comorbidity genes. CXCL1 was associated with inflammatory signaling, including cytokine receptor binding, neutrophil migration, and NOD-like receptor signaling. IGFBP5 was linked to growth factor binding, smooth muscle cell proliferation, and extracellular matrix-receptor interactions. Single-cell and virtual knockout analyses indicated that these genes play pivotal roles in inflammation, immune regulation, cell migration, and tissue remodeling, potentially bridging central and peripheral inflammation via the gut-brain axis and IgSF CAM signaling. Candidate drug prediction and molecular docking suggested that small molecules such as Dasatinib, Mifepristone, and Retinoic acid may modulate these pathways. This study reveals the critical roles of CXCL1 and IGFBP5 in AD-CD comorbidity, providing a theoretical basis for exploring gut-brain axis mechanisms and potential targeted interventions.",
+    "id": "openalex:W7171671418",
+    "title": "Funding Innovation for Future-Ready Healthcare Systems",
+    "abstract": "",
     "authors": [
-      "Hongwei Liu",
-      "Zhaoxu Yin",
-      "Zhinan Ye",
-      "Hao Xu"
+      "Prof. Ramya HP Mr. Achhuth N"
+    ],
+    "published": "2027-07-29",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.5281/zenodo.21672368",
+    "pdf_url": "https://doi.org/10.5281/zenodo.21672368",
+    "doi": "10.5281/zenodo.21672368",
+    "citations": 0,
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7136156022",
+    "title": "MODELING AND CHARACTERIZATION OF ALGAL GROWTH IN ANAEROBIC DIGESTION WASTEWATER FOR PROCESS OPTIMIZATION",
+    "abstract": "",
+    "authors": [
+      "S M Hasan Shahriar Rahat"
+    ],
+    "published": "2027-01-01",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.7273/000008004",
+    "pdf_url": "https://doi.org/10.7273/000008004",
+    "doi": "10.7273/000008004",
+    "citations": 0,
+    "venue": "Washington State University",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7128090912",
+    "title": "From Sparse to Dense: Label-Efficient Weakly Supervised Segmentation for Images and Videos",
+    "abstract": "",
+    "authors": [
+      "J. Wang"
+    ],
+    "published": "2027-01-01",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.17638/03195330",
+    "pdf_url": "https://doi.org/10.17638/03195330",
+    "doi": "10.17638/03195330",
+    "citations": 0,
+    "venue": "University of Liverpool",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7128491580",
+    "title": "Unsupervised Deep-learning Methods for Low-dose Computed Tomography Reconstruction",
+    "abstract": "",
+    "authors": [
+      "Ran An"
+    ],
+    "published": "2027-01-01",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.17638/03194237",
+    "pdf_url": "https://doi.org/10.17638/03194237",
+    "doi": "10.17638/03194237",
+    "citations": 0,
+    "venue": "University of Liverpool",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7212699939",
+    "title": "Development and validation of a machine learning-based predictive model for prognosis in cerebral hemorrhage patients after hyperbaric oxygen therapy.",
+    "abstract": "",
+    "authors": [
+      "Congyi Ding",
+      "Jun Wu",
+      "Guangning Zhang",
+      "Xiaoming Feng",
+      "Jieyang Zhu"
+    ],
+    "published": "2027-01-01",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.4103/mgr.medgasres-d-25-00168",
+    "pdf_url": null,
+    "doi": "10.4103/mgr.medgasres-d-25-00168",
+    "citations": 0,
+    "venue": "PubMed",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "pubmed:42766848",
+    "title": "Diagnostic Performance of a Locally Deployed Vision Language Model for Bone Tumor Diagnosis Using Smartphone-Captured Images: Exploratory Retrospective Study.",
+    "abstract": "Vision language models (VLMs) show promise in medical imaging, yet their performance on high-noise smartphone-captured images-common in primary care referrals-remains untested. Furthermore, it remains controversial whether retrieval-augmented generation (RAG) using external expert guidelines actually improves diagnostic accuracy for rare bone tumors. This study aims to evaluate the diagnostic efficacy of a locally deployed, open-source VLM (Qwen3-VL) on high-noise bone tumor images. Specifically, we investigated how clinical persona prompts and RAG integration were associated with diagnostic performance and observed error patterns during multimodal reasoning. This retrospective study included 42 patients with biopsy-proven primary bone tumors and tumor-like lesions. To simulate real-world conditions, we captured the original DICOM (Digital Imaging and Communications in Medicine) images from a monitor using a handheld smartphone without stabilization, organically capturing ambient glare and Moiré patterns typical of real-world teleconsultations. Using a 2×2 factorial design, we compared the diagnostic performance of the base model versus the RAG-integrated model under 2 distinct system personas: \"radiologist\" and \"orthopedic oncologist.\" Primary outcomes were top-1 and top-3 diagnostic accuracy. We used the McNemar test for paired comparisons of diagnostic correctness before and after RAG integration, and conducted an exploratory analysis of AI hallucinations using model-generated reasoning traces. Without RAG, the top-3 accuracy showed no significant difference between the radiologist and orthopedic oncologist personas (15/42, 36% vs 14/42, 33%; P=.76). After RAG integration, top-1 accuracy in the radiologist persona decreased from 12 (29%, 95% CI 16%-45%) to 6 (14%, 95% CI 5%-29%; P=.03). In the orthopedic oncologist persona, no significant change was observed in top-1 or top-3 accuracy (P=.65 and P>.99, respectively). Exploratory review of model-generated reasoning traces identified several text-associated diagnostic error patterns, including demographic anchoring, trauma-related masking, and shifts toward rare diagnoses following RAG retrieval. In this exploratory study, adding the evaluated RAG configuration did not improve diagnostic accuracy and was associated with text-related diagnostic errors under smartphone-captured degraded imaging conditions. The findings suggest that persona design may influence the robustness of VLM responses to retrieved information, but this observation requires validation in larger, multimodel studies. Future studies should evaluate whether targeted visual fine-tuning on representative real-world degraded medical images can improve robustness under such conditions.",
+    "authors": [
+      "Yin Shi",
+      "Zhi-Chao Tong"
+    ],
+    "published": "2026-Sep-21",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42766848/",
+    "pdf_url": null,
+    "doi": "10.2196/99757",
+    "citations": 0,
+    "venue": "JMIR AI",
+    "open_access": false,
+    "ai_summary": "Vision language models (VLMs) show promise in medical imaging, yet their performance on high-noise smartphone-captured images-common in primary care referrals-remains untested . It remains controversial whether retrieval-augmented generation (RAG) using external expert guidelines actually improves diagnostic accuracy for rare bone tumors ."
+  },
+  {
+    "id": "pubmed:42766841",
+    "title": "The Usage Effects, Effect Modifiers, and Experiences of a Web-Based App for Healthy Habit Formation in Adults: Exploratory Analysis of a Quasi-Experimental Real-World Intervention.",
+    "abstract": "Digital interventions provide a scalable approach to promote healthy lifestyles, but at-scale evidence of their effects and effect modifiers is limited-even scarcer for habit-based digital interventions, although habits are promising lifestyle intervention targets. We conducted a 1-group pre-post effect and effect modification assessment of a web-based app designed to support the formation of health-promoting lifestyle habits by exploring the relationship between objective app use and subjective changes in behavioral outcomes. Three-month app access was offered to a subsample of the population-based Healthy Finland survey participants aged 20-74 years via SMS text messaging or mail. The app provided personalized behavioral suggestions that translated evidence-based lifestyle guidelines into simple, repeatable actions (\"habits\"). Users could browse and select these habits, and report and monitor their performances. The assessment used app log data, questionnaires collected through the app at baseline and at 45 and 90 days, and background information obtained from the national population register and the Healthy Finland Survey. Linear mixed effects models explored the (1) associations between app use and changes in self-reported diet quality (Healthy Diet Index), physical activity (metabolic equivalent of task hours per week), and BMI, and (2) modification of these associations by baseline characteristics related to sociodemographics, health, lifestyle, and e-service use. App use measures comprised the percentage of app use days (ie, days with logins/days of follow-up×100) and the number of reported habit performances (total, diet-related, physical activity-related, and BMI-related). Of 6975 invitees, 1282 (18.4%) accepted the invitation and 382 (5.5%; mean age 51, SD 15 y; women: n=263, 69%) completed the data collection required for the assessment. Over 90 days, the median percentage of app use days was 5.9% (IQR 3.3%-11%), and the total number of reported habit performances was 22 (IQR 3-68.5). A higher percentage of use days (by 10 percentage points) was associated with a 3.09 (95% CI 0.79-5.39) metabolic equivalent of task hours per week greater increase in physical activity and a 1-unit higher logarithmic number of reported performances with a 0.51 (95% CI 0.07-0.95) Healthy Diet Index point greater improvement in diet quality. Other associations between app use and outcomes were nonsignificant. Greater physical activity and a more positive attitude to e-services at baseline appeared to enhance the effect of app use on physical activity ( An inexpensive, low-intensity digital support for healthy habits could foster small beneficial lifestyle changes, but effects require user engagement and may depend on the individual. The findings warrant confirmation in more robust study designs and call for further research for identifying those most likely to benefit from such digital support.",
+    "authors": [
+      "Eeva Rantala",
+      "Mikko Valtanen",
+      "Adil Umer",
+      "Suvi Parikka",
+      "Jussi Pihlajamäki",
+      "Ilona Ruotsalainen",
+      "Jaana Lindström"
+    ],
+    "published": "2026-Sep-21",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42766841/",
+    "pdf_url": null,
+    "doi": "10.2196/84076",
+    "citations": 0,
+    "venue": "JMIR mHealth and uHealth",
+    "open_access": false,
+    "ai_summary": "Digital interventions provide a scalable approach to promote healthy lifestyles . But at-scale evidence of their effects and effect modifiers is limited-even scarcer for habit-based digital interventions ."
+  },
+  {
+    "id": "pubmed:42766840",
+    "title": "Implementation of the Personalized Automated Reading Delivery System as a Component of Precision Medical Education: Prospective Crossover Study.",
+    "abstract": "Precision medical education (PME) is an emerging concept that aims to improve physician education by tailoring curricula specifically to each learner. The basic framework behind PME requires collecting data on each individual learner, identifying gaps in knowledge, and then applying direct educational interventions. However, logistical difficulties in the delivery of such interventions hinder the implementation of PME in existing academic programs. We developed the Personalized Automated Reading Delivery System (PARDS) software application to support a potential PME intervention, aiming to increase the volume of relevant scientific literature read by resident physicians. The PARDS analyzes surgical case lists for the following day, selects relevant scientific articles according to predetermined keywords, and delivers each article via email to an anesthesiology resident physician. This technology may assist in the application of personalized educational interventions, and we evaluated the feasibility of implementing the PARDS in a population of medical learners. From July 2018 to December 2018, a pilot prospective crossover study was performed with N=10 postgraduate year 2 (PGY2) anesthesiology residents in an academic medical center (response rate 10/10, 100%). Residents were randomly assigned to the PARDS intervention group for 2 of the 4 months of the study period. The primary outcomes were organizational viability (evaluated by successful delivery of selected articles by the PARDS, required faculty hours, and total expenses) and acceptability in the study population (assessed by the number of reported weekly reading hours). An analysis using a linear mixed model for repeating measures was performed to compare weekly reading hours between intervention and nonintervention conditions. Total reported faculty time involvement for the study period was 24 hours. The cost estimate for implementation ranged from US $2360 to US $8360. The mean difference of recorded reading hours by residents while using the PARDS vs not using the PARDS for months 1, 2, 3, and 4 of the study was 2.56 (95% CI -0.03 to 5.15;  The PARDS was successfully implemented in an academic medical center. Calculated costs indicate that the PARDS is an inexpensive intervention compared to contemporary alternatives. The effect on resident reading requires further research.",
+    "authors": [
+      "William Gatenby",
+      "Sumeet R Gopwani",
+      "Glenn E Woodworth",
+      "McKenzie Hollon",
+      "Stacey Kaltman"
+    ],
+    "published": "2026-Sep-21",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42766840/",
+    "pdf_url": null,
+    "doi": "10.2196/81717",
+    "citations": 0,
+    "venue": "JMIR formative research",
+    "open_access": false,
+    "ai_summary": "Precision medical education (PME) is an emerging concept that aims to improve physician education by tailoring curricula specifically to each learner . PME requires collecting data on each individual learner, identifying gaps in knowledge, and then applying direct educational interventions ."
+  },
+  {
+    "id": "pubmed:42766834",
+    "title": "Participant Fraud: How Imposters and Bots Undermine Health Databases.",
+    "abstract": "Advances in technology are making scientific fraud easier, faster, and harder to detect-from fake papers and fake authors to fake participants. In this ",
+    "authors": [
+      "Cliff Dominy"
+    ],
+    "published": "2026-Sep-21",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42766834/",
+    "pdf_url": null,
+    "doi": "10.2196/112019",
+    "citations": 0,
+    "venue": "Journal of medical Internet research",
+    "open_access": false,
+    "ai_summary": "Advances in technology are making scientific fraud easier, faster, and harder to detect-from fake papers and fake authors to fake participants ."
+  },
+  {
+    "id": "pubmed:42766833",
+    "title": "Putting Digital Health Records in Patients' Hands: Savva and Health Information Exchange in Uganda.",
+    "abstract": "As health systems in low- and middle-income countries move from paper to digital records, many patients still struggle to access and manage their medical histories. In this ",
+    "authors": [
+      "Sharon Muzaki"
+    ],
+    "published": "2026-Sep-21",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42766833/",
+    "pdf_url": null,
+    "doi": "10.2196/111839",
+    "citations": 0,
+    "venue": "Journal of medical Internet research",
+    "open_access": false,
+    "ai_summary": "As health systems in low- and middle-income countries move from paper to digital records . Many patients still struggle to access and manage their medical histories ."
+  },
+  {
+    "id": "pubmed:42766823",
+    "title": "In Situ Construction of (Ni,Mn)O/MnO2 Heterostructures with Suppressed Jahn-Teller Distortion for Ultralong-Life Aqueous Zinc-Ion Batteries.",
+    "abstract": "Manganese dioxide (MnO2) is a promising cathode material for aqueous zinc-ion batteries due to its high theoretical capacity and low cost. However, its practical application is severely hindered by structural degradation caused by the Jahn-Teller distortion of Mn3+ ions and subsequent manganese dissolution. Herein, we propose an in situ constructed (Ni,Mn)O/MnO2 heterostructure to address these challenges. Experimental characterizations and density functional theory calculations reveal that the heterostructure can induce simultaneous upward shift of the Mn d-band center (εd) and O p-band center (εp), thereby optimizing Zn2+ adsorption kinetics and suppressing the detrimental Jahn-Teller distortion by restoring eg orbital degeneracy. Structurally, the larger ionic radius of Ni2+ introduces beneficial lattice strain, physically constraining the distortion of adjacent [MnO6] units. As a result, the NMO/MnO2-0.15 cathode delivers a high specific capacity of 606.2 mA h g-1 at 0.5 A g-1, good rate capability, and stable cycling stability with 79.2% capacity retention after 2000 cycles at 5 A g-1. This work demonstrates the effectiveness of in situ heterostructure engineering for stabilizing Mn-based cathodes.",
+    "authors": [
+      "Longfei Jiao",
+      "Xinyu Zhao",
+      "Hao Luo",
+      "Yongxia Kang",
+      "Yuan Zhou",
+      "Haiyang Wang",
+      "Zongcheng Miao",
+      "Chong Fu",
+      "Yanan Ma",
+      "Miaomiao Liang"
     ],
     "published": "2026-Sep-22",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42765175/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42766823/",
     "pdf_url": null,
-    "doi": "10.30773/pi.2026.0214",
+    "doi": "10.1021/acsami.6c11535",
     "citations": 0,
-    "venue": "Psychiatry investigation",
+    "venue": "ACS applied materials & interfaces",
     "open_access": false,
-    "ai_summary": "Alzheimer's disease (AD) and Crohn's disease both involve inflammation and immune dysregulation . The potential molecular mechanisms underlying their comorbidity remain unclear ."
+    "ai_summary": "Manganese dioxide (MnO2) is a promising cathode material for aqueous zinc-ion batteries . However, its practical application is severely hindered by structural degradation caused by the Jahn-Teller distortion of Mn3+ ions ."
   },
   {
-    "id": "pubmed:42765167",
-    "title": "Artificial Intelligence and Machine Learning in the Context of Hemophilia: A Scope Review.",
-    "abstract": "Advances in hemophilia treatment have improved life expectancy, yet challenges remain in disease management, predicting clinical complications, and optimizing healthcare resources. Artificial intelligence (AI) and machine learning (ML) have emerged as promising tools to support clinical decision-making and personalized care. To map the available evidence on AI and ML applications in hemophilia and summarize their contributions to clinical practice. A scoping review was conducted following the Joanna Briggs Institute methodology and reported according to PRISMA-ScR guidelines. Electronic databases were searched for studies published between January 2014 and December 2024. Two independent reviewers selected studies using predefined eligibility criteria. A total of 904 records were identified, with 98 duplicates removed. After title and abstract screening, 17 studies underwent full-text assessment. Eight were unavailable in full text, and five did not meet the criteria, resulting in four included studies. AI/ML applications included identification of hemophilia A cases in administrative databases, ultrasound-assisted diagnosis of hemarthrosis and synovitis, prediction of disease severity based on F8 gene mutations, and prediction of adverse clinical outcomes. Frequently used algorithms were Random Forest, support vector machines (SVM), logistic regression, convolutional neural networks, XGBoost, and CatBoost. Diagnostic models showed high predictive performance, whereas models for adverse outcomes demonstrated limited generalizability due to small and heterogeneous datasets. AI/ML have substantial potential to improve diagnosis, risk stratification, and personalized management in hemophilia. However, methodological heterogeneity, limited external validation, and the scarcity of studies, particularly in low- and middle-income countries, remain important barriers to routine clinical implementation.",
+    "id": "pubmed:42766822",
+    "title": "How Lifelike Patient Simulators Are Training US Rural Care Teams for Emergencies.",
+    "abstract": "Advanced robotics are not just in the operating theater or at the bedside-they're in the bed, helping rural clinicians rehearse high-stakes medical scenarios without real patient risk. In this ",
     "authors": [
-      "Tatyane Oliveira Rebouças",
-      "André Cardoso Tavares",
-      "Antônio Diego Costa",
-      "Cícera Jamille Caldas Rodrigues",
-      "Lucilane Maria Sales da Silva"
+      "Anika Nayak"
     ],
     "published": "2026-Sep-21",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42765167/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42766822/",
     "pdf_url": null,
-    "doi": "10.1111/hae.70405",
+    "doi": "10.2196/111658",
     "citations": 0,
-    "venue": "Haemophilia : the official journal of the World Federation of Hemophilia",
+    "venue": "Journal of medical Internet research",
     "open_access": false,
-    "ai_summary": "AI and machine learning (ML) have emerged as promising tools to support clinical decision-making and personalized care . A scoping review was conducted following the Joanna Briggs Institute methodology ."
+    "ai_summary": "Advanced robotics are not just in the operating theater or at the bedside-they're in the bed . They're helping rural clinicians rehearse high-stakes medical scenarios without real patient risk ."
   },
   {
-    "id": "pubmed:42765133",
-    "title": "Task-agnostic explainable contrastive learning model for malignant cell detection in urine cytology.",
-    "abstract": "Bladder cancer remains one of the most prevalent urological malignancies, where early detection is critical for improving patient outcomes. Urine cytology provides a non-invasive and cost-effective screening modality; however, the development of automated diagnostic systems is challenged by the scarcity of expert-annotated data and the limited interpretability of deep learning models. To address these challenges, we propose EnBCDet, an explainable self-supervised framework for malignant cell detection in urine cytology images. The proposed approach leverages contrastive self-supervised learning to learn discriminative cytological representations from limited annotations and incorporates a specialized backbone within a single-stage object detection architecture for efficient malignant cell localization. In addition, we introduce a novel entropy-based explanation framework that quantitatively evaluates the information content of activation maps, enabling gradient-free, class-agnostic, and task-independent interpretation of learned feature representations. Experimental evaluation on cytological samples collected from 150 individuals demonstrates that EnBCDet outperforms existing approaches, achieving a mean precision of 0.991 and a mean recall of 0.926 while maintaining computational efficiency. Clinical validation further shows over 90% agreement with expert annotations, highlighting the practical utility of the proposed system. To the best of our knowledge, this is among the first studies to systematically interpret encoder-level representations in self-supervised cytological analysis. The proposed entropy-based framework provides robust insights into backbone feature learning, advancing both diagnostic performance and explainability for computer-aided urine cytology. The analysis code supporting this study is publicly available on GitHub at.",
+    "id": "pubmed:42766803",
+    "title": "Development and Validation of an Interpretable Machine Learning Model to Predict Mortality in Patients With Sepsis-Induced Coagulopathy: Multicenter Cohort Study.",
+    "abstract": "Sepsis-induced coagulopathy (SIC) is a common and severe complication in patients with sepsis, characterized by microvascular thrombosis, systemic endothelial damage, and markedly increased short-term mortality. Existing traditional clinical risk scoring systems demonstrate limited accuracy and fail to capture complex, nonlinear physiological interactions, underscoring the urgent need for advanced prognostic tools. The objective of this study was to develop and validate an interpretable machine learning (ML) model using large-scale, multicenter databases to predict early mortality in intensive care unit (ICU) patients with SIC and to evaluate its predictive performance and clinical utility compared with traditional clinical risk scores. The study retrospectively analyzed clinical data of patients with SIC from the Medical Information Mart for Intensive Care IV (MIMIC-IV), the eICU Collaborative Research Database (eICU-CRD), and Tianjin Medical University General Hospital. Feature selection was performed using LASSO (least absolute shrinkage and selection operator) regression, the Boruta algorithm, and recursive feature elimination with cross-validation, combined with multivariable logistic regression. Twelve ML algorithms were trained and compared with 4 traditional clinical scoring systems (Sequential Organ Failure Assessment, Acute Physiology and Chronic Health Evaluation II, Simplified Acute Physiology Score II, and Oxford Acute Severity of Illness Score) to predict 28-day mortality after ICU admission. Model discrimination, calibration, and clinical utility were assessed using the area under the curve (AUC), calibration curves, and decision curve analysis. Furthermore, Shapley additive explanations (SHAP) values were used to ensure model interpretability and to identify individual pathophysiological drivers. A total of 7980 (66.3%) patients with SIC from the MIMIC-IV database, 3815 (31.7%) from the eICU-CRD database, and 235 (2.0%) from Tianjin Medical University General Hospital were included in the study. Ten independent predictors were identified to construct the model. The XGBoost (extreme gradient boosting) model performed the best, with an AUC of 0.899 (95% CI 0.889-0.909) in the internal validation set and 0.882 and 0.904 in the 2 external validation sets, significantly outperforming traditional scoring systems and demonstrating higher clinical net benefit. SHAP analysis identified that the top 5 critical features were anion gap, red blood cell distribution width, lactate, total bilirubin, and age. Furthermore, an easy-to-use online tool, SIC Predict Streamlit, was developed based on this model to enable clinicians to quickly assess patient risk. The ML model developed in this study demonstrated superior accuracy, robustness, and generalizability in predicting early mortality in patients with SIC. The model outperformed traditional clinical scoring tools, and the findings provide valuable insights for prognostic assessment and the individualized management of patients with SIC.",
     "authors": [
-      "Arathy Menon N P",
-      "Ram S Iyer",
-      "Pournami P N",
-      "Jayaraj P B",
-      "Pranab Dey"
+      "Jiaxuan Sun",
+      "Jingyuan Wang",
+      "Yuxin Dong",
+      "Jieyu Liu",
+      "Yiyun Ding",
+      "Shilin Fan",
+      "Dongyue Chen",
+      "Songtao Shou"
     ],
     "published": "2026-Sep-21",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42765133/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42766803/",
     "pdf_url": null,
-    "doi": "10.1088/2057-1976/aea429",
+    "doi": "10.2196/90285",
     "citations": 0,
-    "venue": "Biomedical physics & engineering express",
+    "venue": "JMIR medical informatics",
     "open_access": false,
-    "ai_summary": "Urine cytology provides a non-invasive and cost-effective screening modality . The development of automated diagnostic systems is challenged by the scarcity of expert-annotated data and the limited interpretability of deep learning models ."
+    "ai_summary": "Sepsis-induced coagulopathy (SIC) is a common and severe complication in patients with sepsis . The study retrospectively analyzed clinical data of patients with SIC from the Medical Information Mart for Intensive Care IV (MIMIC-IV) and Tianjin Medical University General Hospital ."
   },
   {
-    "id": "pubmed:42765250",
-    "title": "[Prediction of Ecosystem Service Evolution and Trade-off/Synergy Analysis in the Yangtze River Delta Region].",
-    "abstract": "Ecosystem services（ES） play a critical role in the context of high-quality ecological development in the new era. This study focuses on the Yangtze River Delta Region as the study area， employing the InVEST model to assess four key ecosystem services from 1990 to 2020， analyzing their spatiotemporal evolution patterns. Using the geographical detector model， we identify the dominant driving factors behind the spatial heterogeneity of these services. Additionally， GeoDa software is applied to conduct an in-depth analysis of the trade-offs and synergies among different ecosystem services. Finally， the PLUS model is utilized to simulate and predict the spatial distribution patterns of ecosystem services in 2030 under various development scenarios. The results showed： ① From 1990 to 2020， in the Yangtze River Delta Region， carbon storage and habitat quality were generally higher in the south and lower in the north and central areas. Food production， conversely， was higher in the north and lower in the south. Both habitat quality and soil conservation exhibited a distribution pattern with higher values in the south and southwest and lower values in the north. Water yield was primarily concentrated in the mountainous areas of Zhejiang and southern Anhui. ② Topography and elevation were the key factors influencing changes in carbon storage and soil conservation function， and population density was the key factor influencing changes in habitat quality， while annual precipitation was the primary driver influencing changes in water yield. Apart from topographic factors， precipitation and population density were the key factors influencing grain production. ③ Compared to the baseline year of 2020， the study area exhibited the following changes in ecosystem services under different scenarios： Under the natural development scenario， water yield and habitat quality increased， while carbon storage and soil retention decreased. Under the ecological protection scenario， carbon storage， water yield， and habitat quality all showed improvement. Finally， under the cropland protection scenario， carbon storage and soil retention increased， whereas water yield and habitat quality declined. This study provides valuable insights into the complex dynamics of ecosystem services in rapidly urbanizing regions， offering a scientific basis for regional ecological planning and sustainable development strategies.",
+    "id": "pubmed:42766802",
+    "title": "Deep Generative and Graph-Based Representation Learning for Multiomics Survival Stratification in Ovarian Cancer: Secondary Analysis.",
+    "abstract": "Ovarian cancer remains one of the most lethal gynecologic malignancies, largely due to pronounced molecular heterogeneity, nonspecific clinical presentation, and frequent diagnosis at advanced stages. Multiomics profiling-including genomics, transcriptomics, and epigenomics-offers a powerful avenue for characterizing this complexity and enabling more precise patient stratification. This study aimed to address key challenges in multiomics analysis, including high dimensionality, cross-modality heterogeneity, limited sample size, and the lack of effective approaches for survival stratification of patients with ovarian cancer through deep representation learning. We analyzed multiomics data from The Cancer Genome Atlas and developed a 5-stage deep learning pipeline centered on variational autoencoders (VAEs) for nonlinear dimensionality reduction and latent representation learning. A graph convolutional neural network component is described as a proposed extension for modeling interaction-aware representations but was not empirically evaluated in this study. Latent embeddings derived from the VAE were clustered using k-means, and their prognostic relevance was assessed using Cox proportional hazards modeling and Kaplan-Meier survival analysis. Following correction of a clinical-molecular harmonization issue, the final matched cohort comprised 291 patients. Silhouette analysis identified k=2 as the optimal clustering solution (silhouette=0.272). Kaplan-Meier analysis demonstrated significantly different overall survival between the two clusters (log-rank  The proposed VAE-based framework identified 2 prognostically distinct patient subgroups with significantly different overall survival. These findings demonstrate the potential of deep generative representation learning for multiomics-based survival stratification in ovarian cancer and provide a foundation for future validation in independent cohorts and the evaluation of graph-based extensions.",
     "authors": [
-      "Wei-Dong Zhang",
-      "Bin Dong",
-      "Pei-Zhen Zhu",
-      "Cong-Ge Peng",
-      "Hao Wang",
-      "Jian-Shen Qu",
-      "Yue-Xia Han"
+      "Carlos Marino",
+      "Claudia Diaz Paz"
     ],
-    "published": "2026-Sep-08",
+    "published": "2026-Sep-21",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42765250/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42766802/",
     "pdf_url": null,
-    "doi": "10.13227/j.hjkx.202505359",
+    "doi": "10.2196/89069",
     "citations": 0,
-    "venue": "Huan jing ke xue= Huanjing kexue",
+    "venue": "JMIR bioinformatics and biotechnology",
     "open_access": false,
-    "ai_summary": "Study focuses on Yangtze River Delta Region as the study area . Using the InVEST model to assess four key ecosystem services from 1990 to 2020 . The results showed carbon storage and habitat quality were generally higher in the south and lower in the north ."
+    "ai_summary": "Ovarian cancer remains one of the most lethal gynecologic malignancies, largely due to pronounced molecular heterogeneity, nonspecific clinical presentation, and frequent diagnosis at advanced stages . Study aimed to address key challenges in multiomics analysis, including high dimensionality, cross-modality heterogeneity, limited sample size, and lack of"
   },
   {
-    "id": "pubmed:42765236",
-    "title": "[Prediction of Global Warming Potential of Qilian Mountain Grassland Ecosystem Based on Ensemble Machine Learning].",
-    "abstract": "The Qilian Mountain grassland ecosystem serves as an important carbon reservoir， and accurate prediction of its global warming potential （GWP） is essential for climate-adaptive management. Based on multi-source data from 1980 to 2024， an ensemble machine learning model integrating XGBoost， LightGBM， CatBoost， and RF was developed to predict GWP dynamics under different climate scenarios during 2025-2060. The results indicate that： ① The ensemble machine learning model achieved the best performance， with a coefficient of determination （",
+    "id": "pubmed:42766793",
+    "title": "Objectively Measured Life Space Using Participants' Mobile Phones: Cross-Sectional Study.",
+    "abstract": "Measurement of life space characterizes people's engagement with their environment. Several studies have used GPS devices to capture life space. A challenge with device-based measures is that participants may forget to bring the device with them. Life-space measures that leverage the GPS data from participants' mobile phones may address this challenge, but few studies have leveraged this approach to date. Our objective was to assess the feasibility of implementing a mobile phone life-space assessment and characterize life space using Google Street View (GSV) imagery. We then aimed to evaluate the association of demographic data with life-space size and environmental features. We developed a mobile phone app to passively capture life space in older adults and sampled GSV images from participants' life space to characterize the environments where they spent their time. For this cross-sectional study, we recruited 82 participants (n=34, 41.5% men) aged 65 years and older (mean 74.5, SD 6.5 years) in 2023 to 2024 from the REGARDS (Reasons for Geographic and Racial Differences in Stroke) study. They were followed for 2 weeks and invited to complete nightly questionnaires on their phones. We measured features of the built environment that captured walkability (sidewalks, benches, and streetlights), neighborhoods (houses), and green space based on an image segmentation algorithm. Differences in life-space size and environmental features across participant characteristics were tested using the Wilcoxon rank sum test. Among 82 participants, 76 (92.7%) completed all 14 days of data collection. Median daily maximum distance from home was 6.6 (IQR 1.3-15.5) km. Median distance traveled over 2 weeks was 477.1 (IQR 234.4-817.13) km. Adults younger than 70 years, women, Black participants, and those with income more than US $75,000 per year had larger life space than those aged 70 years and older, men, White participants, and those with income less than US $75,000 (154.5 vs 58.1 km In this feasibility study, we demonstrated that personal mobile phones could be used to passively track older adults' life space based on a digital health app developed on an open-source platform. There was wide variation in objectively measured life space, and we found sociodemographic patterning of life-space movement. Objective measurement of life space with participants' mobile phones is feasible and should be evaluated in larger samples to better capture the relationship between health and time spent in different environments. Integration of a life-space assessment into older adults' daily lives may allow for the use of life space as a health measure.",
     "authors": [
-      "Han-Ying Wang",
-      "Mei-Ling Zhang",
-      "Yan-Jun Gong",
-      "Jia-Fang Cai"
+      "Michelle C Odden",
+      "Annabel X Tan",
+      "Sylvie Dobrota Lai",
+      "J David Rhodes",
+      "Suzanne Judd",
+      "Kyle Sargent",
+      "Sheila Mwanda",
+      "Sage Rowe",
+      "Jiajun Wu",
+      "Abby C King",
+      "Vishnu Ravi"
     ],
-    "published": "2026-Sep-08",
+    "published": "2026-Sep-21",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42765236/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42766793/",
     "pdf_url": null,
-    "doi": "10.13227/j.hjkx.202507231",
+    "doi": "10.2196/73128",
     "citations": 0,
-    "venue": "Huan jing ke xue= Huanjing kexue",
+    "venue": "JMIR formative research",
     "open_access": false,
-    "ai_summary": "The Qilian Mountain grassland ecosystem serves as an important carbon reservoir . It is essential for climate-adaptive management . Based on multi-source data from 1980 to 2024."
+    "ai_summary": "Measurement of life space characterizes people's engagement with their environment . A challenge with device-based measures is that participants may forget to bring the device with them . Life-space measures that leverage the GPS data from participants' mobile phones may address this challenge ."
   },
   {
-    "id": "pubmed:42765232",
-    "title": "[Analysis of Genus-level Algal Breakthrough Patterns and Odor Source Tracking in Drinking Water Treatment Processes Using Machine Learning Approach].",
-    "abstract": "To address heterogeneous algal removal efficacy at the genus level and synergistic odor control challenges in drinking water treatment processes， this study conducted comprehensive 8-month （April to November） full-process monitoring at a typical water treatment plant. By integrating random forest regression with SHAP interpretable machine learning， we systematically analyzed removal patterns of 32 algal genera across coagulation-sedimentation， filtration， and disinfection processes while achieving biological source tracking of algae-derived odorants. The results showed that coagulation-sedimentation effectively removed ",
+    "id": "openalex:W7118720654",
+    "title": "ETHICAL CONSIDERATIONS AND POLICY FRAMEWORKS FOR TEACHING WITH ARTIFICIAL INTELLIGENCE IN SECONDARY SCHOOL SETTINGS",
+    "abstract": "",
     "authors": [
-      "Ya Cheng",
-      "Yong-Peng Wu",
-      "Cai-Yun Ma",
-      "Gang Wen",
-      "Jun-Feng Wang",
-      "Feng-Lin Wang",
-      "Ting-Lin Huang"
+      "Asma Khalid,Dr. Naveed Azmat, Nafeesa Rani"
     ],
-    "published": "2026-Sep-08",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42765232/",
-    "pdf_url": null,
-    "doi": "10.13227/j.hjkx.202507045",
+    "published": "2026-12-31",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.5281/zenodo.18161737",
+    "pdf_url": "https://doi.org/10.5281/zenodo.18161737",
+    "doi": "10.5281/zenodo.18161737",
     "citations": 0,
-    "venue": "Huan jing ke xue= Huanjing kexue",
-    "open_access": false,
-    "ai_summary": "The study conducted comprehensive 8-month monitoring at a typical water treatment plant . The results showed that coagulation-sedimentation effectively removed  algae-derived odorants ."
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "open_access": true,
+    "ai_summary": "No abstract available."
   },
   {
-    "id": "pubmed:42765226",
-    "title": "[Impact of Artificial Intelligence on Synergistic Pollution and Carbon Reduction].",
-    "abstract": "With the rise of next-generation information technologies， artificial intelligence （AI） has demonstrated substantial potential in enhancing environmental governance and promoting green development. Using panel data from 267 prefecture-level cities in China spanning from 2014 to 2023， this study applies a variety of econometric models， including the two-way fixed effects model and spatial Durbin model， to explore the impact of AI on synergistic pollution and carbon reduction and its underlying mechanisms. The results indicate that： ① AI significantly promoted synergistic pollution and carbon reduction， with its impact exhibiting dynamic changes. ②Industrial structure upgrading， green technological innovation， and resource misallocation alleviation were key pathways through which AI drove synergistic pollution and carbon reduction. ③ The effect of AI on synergistic pollution and carbon reduction showed dual-threshold characteristics due to variations in digital infrastructure development. ④ The influence of AI on synergistic pollution and carbon reduction exhibited pronounced spatial spillover effects， which could foster regional synergistic pollution and carbon reduction through technological diffusion. This study not only uncovers the mechanisms through which AI influences synergistic pollution and carbon reduction but also provides empirical evidence for the construction of a cross-regional green collaborative governance system.",
+    "id": "openalex:W7118979476",
+    "title": "TRANSFORMING GOVERNMENT SERVICE DELIVERY THROUGH ARTIFICIAL INTELLIGENCE",
+    "abstract": "",
     "authors": [
-      "De-Shan Li",
-      "Zi-Xuan Jia"
+      "Muhammad Sohail Munir, Ibne Saud, Dr Naima Mubeen, Nida Anjum,Gulzar Ahmad"
     ],
-    "published": "2026-Sep-08",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42765226/",
-    "pdf_url": null,
-    "doi": "10.13227/j.hjkx.202510240",
+    "published": "2026-12-31",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.5281/zenodo.18162573",
+    "pdf_url": "https://doi.org/10.5281/zenodo.18162573",
+    "doi": "10.5281/zenodo.18162573",
     "citations": 0,
-    "venue": "Huan jing ke xue= Huanjing kexue",
-    "open_access": false,
-    "ai_summary": "The effect of AI on synergistic pollution and carbon reduction showed dual-threshold characteristics due to variations in digital infrastructure development . The influence of AI is shown to be significant in promoting green development ."
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "open_access": true,
+    "ai_summary": "No abstract available."
   },
   {
-    "id": "pubmed:42765218",
-    "title": "[Effects and Mechanisms of Artificial Intelligence Driving Agricultural Carbon Emission Reduction： A Synergistic Perspective of Green Finance and Industrial Structure Upgrading].",
-    "abstract": "As China advances its carbon peaking and carbon neutrality goals， agricultural low-carbon transition has become a critical priority for reconciling ecological security and food security. While artificial intelligence （AI） offers transformative potential to address bottlenecks in agricultural green transformation， its carbon reduction mechanisms， particularly the synergistic roles of green finance and industrial structure upgrading， remain underexplored in existing literature， which often lacks integrated analytical frameworks and long-term dynamic evidence. Based on the dual perspectives of green finance and industrial structure upgrading， this study uses the panel data of 31 provinces in China from 2000 to 2023 and constructs the two-way fixed effect model to empirically test the effect and mechanism of AI driving agricultural carbon emission reduction. The results show that： ① AI had a significant and robust inhibitory effect on agricultural carbon emissions， and this conclusion remained robust after a series of robustness tests. ② The mechanism test confirmed that AI could indirectly and synergistically promote agricultural carbon emission reduction by promoting the development of green finance and the upgrading of industrial structure. ③ Heterogeneity analysis showed that the effect of AI on agricultural carbon emission reduction was more prominent in the eastern region， regions with a medium level of urbanization， a low level of agricultural modernization， and non-major grain-producing areas. The study suggests promoting the application of AI technology in the agricultural field at the comprehensive policy level， build a coordinated path between green finance and agricultural structure transformation， and implementing differentiated support and key breakthrough strategies to help AI to empower agricultural green development and fully release its carbon emission reduction efficiency.",
+    "id": "openalex:W7154463656",
+    "title": "NUISS: A User-Centered Prototype for International Student Administrative Support",
+    "abstract": "",
     "authors": [
-      "Jie Hu",
-      "Jian-Chao Luo"
+      "Juanjuan Huang",
+      "Cuicui Li"
     ],
-    "published": "2026-Sep-08",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42765218/",
-    "pdf_url": null,
-    "doi": "10.13227/j.hjkx.202512128",
+    "published": "2026-12-31",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.17613/jddaq-h8321",
+    "pdf_url": "https://pub.respai.de/articles/1-1/is1-10.pdf",
+    "doi": "10.17613/jddaq-h8321",
     "citations": 0,
-    "venue": "Huan jing ke xue= Huanjing kexue",
-    "open_access": false,
-    "ai_summary": "As China advances its carbon peaking and carbon neutrality goals, agricultural low-carbon transition has become a critical priority for reconciling ecological security and food security . While artificial intelligence offers transformative potential to address bottlenecks in agricultural green transformation, its carbon reduction mechanisms remain underexplored in existing literature ."
+    "venue": "Unknown",
+    "open_access": true,
+    "ai_summary": "No abstract available."
   },
   {
-    "id": "pubmed:42765217",
-    "title": "[Scenario Prediction of Carbon Peak in Provincial Agriculture of China Based on Machine Learning].",
-    "abstract": "Accurately predicting the peak of agricultural carbon emissions and its timing is crucial for accelerating the development of an agricultural powerhouse and achieving the dual carbon goals at an early date. Based on provincial-level agricultural carbon emission data from China covering 2005 to 2023， this study employed Lasso regression models and principal component analysis to identify key factors influencing agricultural carbon emissions. Multiple machine learning prediction models were constructed， and the optimal model was selected to forecast the peak of agricultural carbon emissions. The results indicate： ① Nationally， agricultural carbon emissions showed a declining trend during the observation period； provincially， 16 provinces exhibited decreasing emissions， with Beijing demonstrating the largest reduction. ② Among five machine learning algorithms， the support vector machine model with Bayesian optimization parameter tuning under Lasso feature selection （LASSO-BO-SVR） performed best. ③ Under the baseline scenario， 23 provinces including Beijing have already achieved agricultural carbon peak， while Heilongjiang and Shaanxi are projected to peak before 2030. Conversely， Guangxi， Yunnan， Qinghai， Ningxia， and Xinjiang face challenges in meeting their peak targets on schedule. Under the policy and low-carbon scenarios， the peak levels for these five provinces declined， though the timing of peak attainment varied. This research provides decision-making references for future agricultural carbon emission reduction pathways across China's provinces.",
+    "id": "openalex:W7162399187",
+    "title": "Human vs machine judgment in safety-critical logistics: a philosophical inquiry into trust and control",
+    "abstract": "",
     "authors": [
-      "Jia-Xi Zheng",
-      "Yan-Wen Zeng",
-      "Yun Tian",
-      "Yi-Heng Lu"
+      "Martyna Bąchorek",
+      "Wiktoria Izdebska",
+      "Gustaw Krakowiak"
     ],
-    "published": "2026-Sep-08",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42765217/",
-    "pdf_url": null,
-    "doi": "10.13227/j.hjkx.202506197",
+    "published": "2026-12-31",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.5281/zenodo.20402506",
+    "pdf_url": "https://doi.org/10.5281/zenodo.20402506",
+    "doi": "10.5281/zenodo.20402506",
     "citations": 0,
-    "venue": "Huan jing ke xue= Huanjing kexue",
-    "open_access": false,
-    "ai_summary": "Based on provincial-level agricultural carbon emission data from China covering 2005 to 2023. 16 provinces exhibited decreasing emissions, with Beijing demonstrating the largest reduction ."
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "open_access": true,
+    "ai_summary": "No abstract available."
   },
   {
-    "id": "pubmed:42765287",
-    "title": "A Stakeholder-Informed Approach to the Development and Implementation of National Digital Registry and Learning Healthcare System (LHS) for Psychosis: Findings From the EPICare Platform.",
-    "abstract": "Early Intervention in Psychosis services were established throughout England over two decades ago, yet despite aiming to optimise care, less than 40% of patients achieve full clinical recovery and notable inequities persist in accessing NICE-recommended treatments. Fragmented electronic health record systems and limited systematic data capture conceal how disparities in care delivery and effectiveness affect recovery and remission. The Early Psychosis Informatics into Care, EPICare, programme aims to develop a national, learning healthcare system incorporating a standardised core dataset and clinician dashboard to support equitable, data-driven care. Our stakeholder co-design approach comprised three interlinked work packages delivered between 2021 and 2022. Using participatory co-design, we conducted four multi-stakeholder workshops and preparatory lived experience sessions with people with lived experience, clinicians, informaticians, academics, and policymakers. We identified essential data elements using adapted \"MoSCoW\" card sort methodology, refined content, and developed dashboard requirements. Parallel informatics and implementation research assessed technical feasibility, data maturity, and harmonisation requirements and evaluated anticipated barriers and facilitators to future adoption. Consensus was achieved on core EPICare dataset \"must haves\" including sociodemographic variables, routine treatment interventions, Patient- and Clinician-Reported Outcome Measures, and longitudinal symptom data. Stakeholders defined key dashboard features, prioritising usability and alignment with clinical workflow. Substantial variation in Trust-level data infrastructure informed flexible technical architecture to mitigate implementation risk. EPICare stakeholder engagement delivered the blueprint for a co-designed, technically feasible and nationally scalable specification for a psychosis learning healthcare system, enabling progression to platform development and piloting across five Early Intervention in Psychosis services in the NHS.",
+    "id": "openalex:W7161111530",
+    "title": "From Embedded Finance to Embedded Obligation: A Law-and-Economics Theory of Consumer Protection in Platform-Mediated Financial Services",
+    "abstract": "",
     "authors": [
-      "Rachel Upthegrove",
-      "Melanie Lafanechere",
-      "Megan A Pope",
-      "India Francis-Crossley",
-      "John Ainsworth",
-      "Sophie M Allan",
-      "Tumelo Bogatsu",
-      "Niyah Campbell",
-      "Richard J Drake",
-      "Sonia Johnson",
-      "Mohammad Zia Ul Haq Katshu",
-      "Graham K Murray",
-      "Sarah A Sullivan",
-      "Justin Waring",
-      "Pauline Whelan",
-      "Sian L Griffiths",
-      "James B Kirkbride"
+      "Yongxin Chen"
     ],
-    "published": "2026-Sep",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42765287/",
-    "pdf_url": null,
-    "doi": "10.1111/eip.70264",
+    "published": "2026-12-31",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.17613/sb76m-v2e23",
+    "pdf_url": "https://pub.respai.de/articles/1-2/is2-2.pdf",
+    "doi": "10.17613/sb76m-v2e23",
     "citations": 0,
-    "venue": "Early intervention in psychiatry",
-    "open_access": false,
-    "ai_summary": "Early Psychosis Informatics into Care, EPICare, programme aims to develop a national, learning healthcare system incorporating a standardised core dataset and clinician dashboard ."
+    "venue": "Unknown",
+    "open_access": true,
+    "ai_summary": "No abstract available."
   },
   {
-    "id": "arxiv:2609.22076v1",
-    "title": "APort Vault: Benchmarking AI Agent Payment Authorization with the Open Agent Passport",
-    "abstract": "APort Vault is a benchmark for payment authorization in tool-using AI agents. It replays 4,371 attacks written by humans against a live payment agent during a public capture-the-flag event, across 14 models from 8 labs, five policy configurations and two replay tracks, with and without a deterministic pre-action check implementing the Open Agent Passport (OAP) specification. 225,964 evaluations completed. We report five distinct events per evaluation, because collapsing them is how an agent benchmark produces a number that does not survive review. Requests are common and their rate differs far more across configurations than across models, though each attack exists at exactly one configuration so policy and attack cohort vary together: 10.9% of model-alone evaluations at Level 1, 3.0% at Level 2, 0.1% at Level 3, 79.4% at Level 4. On the 1,293 Level 4 prompts, each evaluated on every model, request rates run from 71.2% to 84.3%, and 809 prompts (62.6%) elicited a request from all fourteen models, each ending in a successful payment to the level's allowlisted recipient. The authorization boundary is where the conditions diverge. At Levels 2 to 4, transfers to recipients the passport did not permit number 140 of 76,842 with the model alone and 0 of 69,297 behind the layer, and 105 against 0 on 68,970 matched model, prompt and track triples. The zero spans 790 source sessions, giving a per-session upper bound of 0.38%. It was not obtained by refusing payments: 25,370 payments executed behind the layer, while the policy denied 187 of the 25,640 transfer calls it evaluated, 148 of them for a forbidden recipient. We release the 225,964 evaluations, the level passports, the scoring code and the analysis script at huggingface.co/datasets/aporthq/vault-benchmark-v1 .",
+    "id": "openalex:W7162095276",
+    "title": "SOAR: Smooth Online Activation Routing for Stable Neural Learning from Evolving Streams",
+    "abstract": "",
     "authors": [
-      "Uchi Uchibeke"
+      "Sizhen Niu"
     ],
-    "published": "2026-09-18",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2609.22076v1",
-    "pdf_url": "https://arxiv.org/pdf/2609.22076v1",
+    "published": "2026-12-31",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.17613/nzztb-q4520",
+    "pdf_url": "https://pub.respai.de/articles/1-2/is2-3.pdf",
+    "doi": "10.17613/nzztb-q4520",
+    "citations": 0,
+    "venue": "Unknown",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7164131933",
+    "title": "The Role of Generative Artificial Intelligence in Korean Language Learning: Applications, Challenges, and Instructional Strategies",
+    "abstract": "",
+    "authors": [
+      "Yundong Wu"
+    ],
+    "published": "2026-12-31",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.17613/g7mbr-1s626",
+    "pdf_url": "https://pub.respai.de/articles/1-2/is2-5.pdf",
+    "doi": "10.17613/g7mbr-1s626",
+    "citations": 0,
+    "venue": "Unknown",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7164183113",
+    "title": "The Sociolinguistics of Machine Identity: LLM Personality and Ideology Propagation",
+    "abstract": "",
+    "authors": [
+      "Guangni Li"
+    ],
+    "published": "2026-12-31",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.17613/fdwhn-ejz93",
+    "pdf_url": "https://pub.respai.de/articles/1-2/is2-4.pdf",
+    "doi": "10.17613/fdwhn-ejz93",
+    "citations": 0,
+    "venue": "Unknown",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7166006500",
+    "title": "Algorithmic Justice and Responsible AI Journalism: A Comparative Communication Policy Perspective in East Asia",
+    "abstract": "",
+    "authors": [
+      "Renxiudi Huang",
+      "Linjia Bai"
+    ],
+    "published": "2026-12-31",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.17613/d0ee4-h2e12",
+    "pdf_url": "https://philpapers.org/archive/HUAAJA.pdf",
+    "doi": "10.17613/d0ee4-h2e12",
+    "citations": 0,
+    "venue": "PhilPapers (PhilPapers Foundation)",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7118072583",
+    "title": "Identification of Meat Contamination using Deep Learning",
+    "abstract": "",
+    "authors": [
+      "Annual Methodological Archive Research Review"
+    ],
+    "published": "2026-12-31",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.5281/zenodo.18130809",
+    "pdf_url": "https://doi.org/10.5281/zenodo.18130809",
+    "doi": "10.5281/zenodo.18130809",
+    "citations": 0,
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7121465138",
+    "title": "DYNAMICS OF PORTFOLIO ASSESSMENT STRATEGY IN EVALUATING THE ENGLISH LANGUAGE SKILLS FOR PUPILS WITH HEARING IMPAIRMENTS IN FAKO DIVISION, SOUTH WEST REGION OF CAMEROON",
+    "abstract": "",
+    "authors": [
+      "Ngenwie Emilia Tanyie",
+      "Therese Mungah Shalo Tchombe"
+    ],
+    "published": "2026-12-31",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.5281/zenodo.18206766",
+    "pdf_url": "https://ubueajournals.org/index.php/IJDIEH/article/download/28/24",
+    "doi": "10.5281/zenodo.18206766",
+    "citations": 0,
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7170146433",
+    "title": "Regulating the Frontier: Model-Level Evidence from the EU AI Act",
+    "abstract": "",
+    "authors": [
+      "Han Li"
+    ],
+    "published": "2026-12-31",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.17613/8rga5-9wc04",
+    "pdf_url": "https://philpapers.org/archive/LIRTFO.pdf",
+    "doi": "10.17613/8rga5-9wc04",
+    "citations": 0,
+    "venue": "PhilPapers (PhilPapers Foundation)",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7166533473",
+    "title": "Research on Attention Guidance and User Autonomy in AI-Powered Immersive Environments",
+    "abstract": "",
+    "authors": [
+      "Mulin Qiao"
+    ],
+    "published": "2026-12-31",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.17613/vpe2q-5qg42",
+    "pdf_url": "https://philpapers.org/archive/QIAROA.pdf",
+    "doi": "10.17613/vpe2q-5qg42",
+    "citations": 0,
+    "venue": "PhilPapers (PhilPapers Foundation)",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7170437289",
+    "title": "A Study on the Mechanism and Ways to Improve New-Quality Productivity of Enterprises Driven by AI and the Digital Economy",
+    "abstract": "",
+    "authors": [
+      "Changhong Dong",
+      "Songwei Pan",
+      "Jingyao WANG"
+    ],
+    "published": "2026-12-31",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.17613/v53h3-s4978",
+    "pdf_url": "https://philpapers.org/archive/DONASO-4.pdf",
+    "doi": "10.17613/v53h3-s4978",
+    "citations": 0,
+    "venue": "PhilPapers (PhilPapers Foundation)",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7203902930",
+    "title": "HF-CAM: A Hard Prototype Anchored Concept Activation Mapping for Interpretable Deep Learning",
+    "abstract": "",
+    "authors": [
+      "Yuan Liu"
+    ],
+    "published": "2026-12-31",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.17613/x2pvf-hn714",
+    "pdf_url": "https://works.hcommons.org:x2pvf-hn714",
+    "doi": "10.17613/x2pvf-hn714",
+    "citations": 0,
+    "venue": "Unknown",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7158836996",
+    "title": "Beyond GDPR: The Architectural Challenge of Data Sovereignty and Confidential Computing in the Post-2024 Era",
+    "abstract": "",
+    "authors": [
+      "Mr. Tayabur Rahman Laskar"
+    ],
+    "published": "2026-12-18",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.5281/zenodo.19918373",
+    "pdf_url": "https://doi.org/10.5281/zenodo.19918373",
+    "doi": "10.5281/zenodo.19918373",
+    "citations": 0,
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7197044566",
+    "title": "Sequence-based artificial intelligence-guided inhibitory peptides to counteract AAV neutralizing antibodies in gene therapy.",
+    "abstract": "",
+    "authors": [
+      "Bingqi Xu",
+      "Xin Zhang",
+      "Dandan Yu",
+      "Panjing Wang",
+      "Ying Chi",
+      "Wei Liu",
+      "Feng Xue",
+      "Lingling Chen",
+      "Huiyuan Li",
+      "Wentian Wang",
+      "Yunfei Chen",
+      "Xiaofan Liu",
+      "Rongfeng Fu",
+      "Renchi Yang",
+      "Wenwei Shao",
+      "Siwei Yu",
+      "Xiaolei Pei",
+      "Lei Zhang"
+    ],
+    "published": "2026-12-10",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.1016/j.omta.2026.201832",
+    "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13572001/pdf/main.pdf",
+    "doi": "10.1016/j.omta.2026.201832",
+    "citations": 0,
+    "venue": "PubMed",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7212381432",
+    "title": "Complexity and Entropy Trade-offs in Deep Neural Network Representations",
+    "abstract": "",
+    "authors": [
+      "Peter Malek",
+      "Michaela Zeman",
+      "Andrej Havel"
+    ],
+    "published": "2026-12-03",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.5281/zenodo.22698616",
+    "pdf_url": "https://doi.org/10.5281/zenodo.22698616",
+    "doi": "10.5281/zenodo.22698616",
+    "citations": 0,
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7212447837",
+    "title": "Averrhoa bilimbi L. Juice: An efficient natural acid catalyst for the green synthesis of dihydropyrimidinone-1,2,3-triazole.",
+    "abstract": "",
+    "authors": [
+      "Bayu Ardiansah",
+      "Jonathan Evan",
+      "Jumina",
+      "Mardi Santoso",
+      "Hiroki Tanimoto",
+      "Nur Rohman",
+      "Antonius Herry Cahyana"
+    ],
+    "published": "2026-12-01",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.1016/j.mex.2026.104106",
+    "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13563249/pdf/main.pdf",
+    "doi": "10.1016/j.mex.2026.104106",
+    "citations": 0,
+    "venue": "PubMed",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7213350615",
+    "title": "TinZr: A compact wireless ESP32-C3 platform for multi-modal physiological sensor integration and data acquisition.",
+    "abstract": "",
+    "authors": [
+      "Ludvik Alkhoury",
+      "Tony Moore",
+      "Petras Swissler",
+      "N Jeremy Hill",
+      "Sudhin A. Shah",
+      "Moshe Kam"
+    ],
+    "published": "2026-12-01",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.1016/j.ohx.2026.e00833",
+    "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13572519/pdf/main.pdf",
+    "doi": "10.1016/j.ohx.2026.e00833",
+    "citations": 0,
+    "venue": "PubMed",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7131071032",
+    "title": "Future of AI in English Language Education: Trends and Predictions",
+    "abstract": "",
+    "authors": [
+      "Prof. Jagadeesh Nerlekar",
+      "K Munianjinappa"
+    ],
+    "published": "2026-12-01",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.5281/zenodo.18739462",
+    "pdf_url": "https://doi.org/10.5281/zenodo.18739462",
+    "doi": "10.5281/zenodo.18739462",
+    "citations": 0,
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7212247679",
+    "title": "Navigating the Code Review Process as a Team: A Case Study",
+    "abstract": "",
+    "authors": [
+      "Abbey Joy Roelofs"
+    ],
+    "published": "2026-10-19",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.5281/zenodo.22711702",
+    "pdf_url": "https://doi.org/10.5281/zenodo.22711702",
+    "doi": "10.5281/zenodo.22711702",
+    "citations": 0,
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7212355112",
+    "title": "Scientific Agentic Engineering: A Framework for Reliable AI Agents in Research Software",
+    "abstract": "",
+    "authors": [
+      "Victor Weeks"
+    ],
+    "published": "2026-10-19",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.5281/zenodo.22715841",
+    "pdf_url": "https://doi.org/10.5281/zenodo.22715841",
+    "doi": "10.5281/zenodo.22715841",
+    "citations": 0,
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7213591811",
+    "title": "PALYIM: A Modular, Open-Source Science Gateway for AI-Enabled Palynology Image Analysis",
+    "abstract": "",
+    "authors": [
+      "Sandeep Puthanveetil Satheesan",
+      "Luigi Marini",
+      "Shu Kong",
+      "Carlos Jaramillo",
+      "Kenton McHenry",
+      "Charless C. Fowlkes",
+      "Surangi W. Punyasena"
+    ],
+    "published": "2026-10-19",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.5281/zenodo.22820350",
+    "pdf_url": "https://doi.org/10.5281/zenodo.22820350",
+    "doi": "10.5281/zenodo.22820350",
+    "citations": 0,
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7213274592",
+    "title": "Big data research: the importance of the data-generating process and domain expertise.",
+    "abstract": "",
+    "authors": [
+      "Jordan W. Smoller"
+    ],
+    "published": "2026-10-01",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.1002/wps.70086",
+    "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13576976/pdf/WPS-25-415.pdf",
+    "doi": "10.1002/wps.70086",
+    "citations": 0,
+    "venue": "PubMed",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7213712552",
+    "title": "Learning Opportunities 2026/2027",
+    "abstract": "",
+    "authors": [
+      "Illinois Math and Science Academy"
+    ],
+    "published": "2026-10-01",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://openalex.org/W7213712552",
+    "pdf_url": "https://digitalcommons.imsa.edu/cgi/viewcontent.cgi?article=1029&context=course_catalogs",
     "doi": null,
     "citations": 0,
-    "venue": "arXiv preprint",
+    "venue": "DigitalCommons-IMSA (Illinois Mathematics and Science Academy)",
     "open_access": true,
-    "ai_summary": "APort Vault is a benchmark for payment authorization in tool-using AI agents . It replays 4,371 attacks written by humans against a live payment agent during a public capture-the-flag event ."
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7162760937",
+    "title": "Simultaneous Cortical Responses to Multiple Written Words",
+    "abstract": "",
+    "authors": [
+      "Vassiki Chauhan",
+      "Krystal McCook",
+      "Mariam Latif",
+      "Alex White"
+    ],
+    "published": "2026-10-01",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.1162/jocn.a.2624",
+    "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13569480/pdf/jocn-38-10-1961.pdf",
+    "doi": "10.1162/jocn.a.2624",
+    "citations": 0,
+    "venue": "PubMed Central",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7203800451",
+    "title": "Ethical agency and worker precarity amid polycrisis: a protest narrative analysis",
+    "abstract": "",
+    "authors": [
+      "Zhangzhong Huang",
+      "Zaheer Abbas",
+      "Talib Hussain",
+      "Seung Won Lee"
+    ],
+    "published": "2026-10-01",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://openalex.org/W7203800451",
+    "pdf_url": "http://www.scielo.cl/pdf/abioeth/v32n2/1726-569X-abioeth-32-02-377.pdf",
+    "doi": null,
+    "citations": 0,
+    "venue": "Scientific Electronic Library Online (Scientific Electronic Library Online)",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7203802238",
+    "title": "Oil, light, gift, and trust: a comparative analysis of metaphor relating to human biomedical data",
+    "abstract": "",
+    "authors": [
+      "Yifan Peng"
+    ],
+    "published": "2026-10-01",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://openalex.org/W7203802238",
+    "pdf_url": "http://www.scielo.cl/pdf/abioeth/v32n2/1726-569X-abioeth-32-02-213.pdf",
+    "doi": null,
+    "citations": 0,
+    "venue": "Scientific Electronic Library Online (Scientific Electronic Library Online)",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7204678146",
+    "title": "Extending SDN control for programmable data planes in advanced 6G network scenarios",
+    "abstract": "",
+    "authors": [
+      "Manuel Álvarez-Campana Fernández-Corredor",
+      "Diego Rivera Pinto",
+      "Marta Blanco Caamaño",
+      "Jose Ignacio Moreno Novella",
+      "Silvia Mauleón Hortelano",
+      "Georgios P. Katsikas"
+    ],
+    "published": "2026-10-01",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://openalex.org/W7204678146",
+    "pdf_url": "https://oa.upm.es/97517/1/1-s2.0-S1389128626006912-main.pdf",
+    "doi": null,
+    "citations": 0,
+    "venue": "Archivo Digital UPM (Universidad Politécnica de Madrid)",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7212276099",
+    "title": "Artificial Intelligence in Interior Design: Opportunities, Challenges and Future Perspectives",
+    "abstract": "",
+    "authors": [
+      "Trushna S. Kalambe"
+    ],
+    "published": "2026-09-30",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.5281/zenodo.22705656",
+    "pdf_url": "https://doi.org/10.5281/zenodo.22705656",
+    "doi": "10.5281/zenodo.22705656",
+    "citations": 0,
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7213670956",
+    "title": "Developing meta-FM machine learning model with application for personalized language learning environment",
+    "abstract": "",
+    "authors": [
+      "Qian Li",
+      "Y. Zhang"
+    ],
+    "published": "2026-09-20",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.1038/s41598-026-71932-1",
+    "pdf_url": "https://www.nature.com/articles/s41598-026-71932-1_reference.pdf",
+    "doi": "10.1038/s41598-026-71932-1",
+    "citations": 0,
+    "venue": "Scientific Reports",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7213756246",
+    "title": "A course recommendation method based on bidirectional fusion of graph convolution using knowledge graphs",
+    "abstract": "",
+    "authors": [
+      "Jingyi Hu",
+      "Yiwen Zhang",
+      "Xiqin Ao",
+      "Simeng Zhang",
+      "Yilin Zhu"
+    ],
+    "published": "2026-09-20",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.1038/s41598-026-72215-5",
+    "pdf_url": "https://www.nature.com/articles/s41598-026-72215-5_reference.pdf",
+    "doi": "10.1038/s41598-026-72215-5",
+    "citations": 0,
+    "venue": "Scientific Reports",
+    "open_access": true,
+    "ai_summary": "No abstract available."
   },
   {
     "id": "arxiv:2609.22083v1",
@@ -840,27 +1774,6 @@
     "ai_summary": "M MintAct models match the performance of per-domain specialists across all of these capabilities . They are trained at 2B, 4B, and 8B scales . MintAct achieves state-of-the-art performance across a wide range of benchmarks ."
   },
   {
-    "id": "arxiv:2609.22081v1",
-    "title": "Cross-sector generalization of accident-process role classification in occupational accident narratives",
-    "abstract": "Occupational accident narratives contain valuable information about work situations, unfavourable conditions, accident events, and their consequences. Automatically structuring these narratives can facilitate large-scale accident analysis and support occupational risk prevention. However, the terminology and writing styles used to describe accidents vary considerably across sectors and organisations, raising questions about the ability of automated coding systems to generalize beyond their training domain. In this paper, we evaluate the cross-sector generalization of accident-process role classification in French occupational accident narratives. We construct an expert-annotated corpus in which factual units are classified into four roles: work situation (A0), explicitly reported unfavourable condition (A1), accident event or deviation (B), and reported consequence (C). The role classifiers are developed and selected exclusively on 42,244 factual units extracted from 6,040 construction-sector narratives and are then evaluated on unseen corpora from the metallurgy and chemistry--plastics sectors, as well as on an independently collected company corpus, without retraining or target-domain tuning of the role classifier. We compare frozen pretrained representations with task-specific fine-tuning and supervised representation-learning strategies. The results show that task-specific adaptation consistently improves cross-domain transfer over frozen representations. Across repeated training runs, the three leading task-adapted strategies achieved average balanced accuracies between 85.6% and 85.8% across the three target corpora. These findings support the development of transferable assisted-coding systems capable of consistently structuring heterogeneous occupational accident narratives for expert review and cross-sector prevention analysis.",
-    "authors": [
-      "Aho Yapi",
-      "Pierre Latouche",
-      "Arnaud Guillin",
-      "Yan Bailly"
-    ],
-    "published": "2026-09-18",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2609.22081v1",
-    "pdf_url": "https://arxiv.org/pdf/2609.22081v1",
-    "doi": null,
-    "citations": 0,
-    "venue": "arXiv preprint",
-    "open_access": true,
-    "ai_summary": "Occupational accident narratives contain valuable information about work situations, unfavourable conditions, accident events, and their consequences . Automatically structuring these narratives can facilitate large-scale accident analysis and support occupational risk prevention ."
-  },
-  {
     "id": "arxiv:2609.22086v1",
     "title": "Designer-RSI: Evolving Procedural Memory from User Traffic for Agentic Graphic Design",
     "abstract": "Professional graphic design is a long-horizon agentic task in which structured, editable artifacts emerge from many interdependent actions, yet outcomes admit no reliable programmatic oracle. We introduce a continual adaptation framework in which a frozen frontier model operates professional design software through more than 230 tools, while an external procedural memory of natural-language skills accumulates and refines reusable design procedures from experience. The memory widens by acquiring procedures for recurring uncovered subtasks and deepens by revising existing procedures against their own successful and failed executions, while a matched replay gate admits only changes that repair failures without regressing observed successes. Five rounds over 1,406 real user briefs and 1,869 automatically graded trajectories, with no weight updates and no human labels, grow the bank from 76 documentation-derived skills to 139 and raise GenEval2 execution success on Claude-Sonnet-4 from 72.7% to 99.3% (+11.99 points in generation quality), with 61.8% and 67.6% win rates against the no-skill agent across four specialized design benchmarks on Claude-Sonnet-4 and Claude-Opus-4.6. We further show the two mechanisms are effective in combination: on 200 held-out briefs from user-traffic benchmark, widening or deepening alone reaches a 49.4% / 48.6% win rate over the no-skill agent, while their combination reaches 58.5% (p = 0.025). Procedural memory offers a practical route to continual adaptation of agents under noisy, unverifiable feedback.",
@@ -882,6 +1795,45 @@
     "ai_summary": "Professional graphic design is a long-horizon agentic task in which structured, editable artifacts emerge from many interdependent actions, yet outcomes admit no reliable programmatic oracle . Five rounds over 1,406 real user briefs and 1,869 automatically graded trajectories, with no weight updates and no human labels, grow the"
   },
   {
+    "id": "arxiv:2609.22076v1",
+    "title": "APort Vault: Benchmarking AI Agent Payment Authorization with the Open Agent Passport",
+    "abstract": "APort Vault is a benchmark for payment authorization in tool-using AI agents. It replays 4,371 attacks written by humans against a live payment agent during a public capture-the-flag event, across 14 models from 8 labs, five policy configurations and two replay tracks, with and without a deterministic pre-action check implementing the Open Agent Passport (OAP) specification. 225,964 evaluations completed. We report five distinct events per evaluation, because collapsing them is how an agent benchmark produces a number that does not survive review. Requests are common and their rate differs far more across configurations than across models, though each attack exists at exactly one configuration so policy and attack cohort vary together: 10.9% of model-alone evaluations at Level 1, 3.0% at Level 2, 0.1% at Level 3, 79.4% at Level 4. On the 1,293 Level 4 prompts, each evaluated on every model, request rates run from 71.2% to 84.3%, and 809 prompts (62.6%) elicited a request from all fourteen models, each ending in a successful payment to the level's allowlisted recipient. The authorization boundary is where the conditions diverge. At Levels 2 to 4, transfers to recipients the passport did not permit number 140 of 76,842 with the model alone and 0 of 69,297 behind the layer, and 105 against 0 on 68,970 matched model, prompt and track triples. The zero spans 790 source sessions, giving a per-session upper bound of 0.38%. It was not obtained by refusing payments: 25,370 payments executed behind the layer, while the policy denied 187 of the 25,640 transfer calls it evaluated, 148 of them for a forbidden recipient. We release the 225,964 evaluations, the level passports, the scoring code and the analysis script at huggingface.co/datasets/aporthq/vault-benchmark-v1 .",
+    "authors": [
+      "Uchi Uchibeke"
+    ],
+    "published": "2026-09-18",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2609.22076v1",
+    "pdf_url": "https://arxiv.org/pdf/2609.22076v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "APort Vault is a benchmark for payment authorization in tool-using AI agents . It replays 4,371 attacks written by humans against a live payment agent during a public capture-the-flag event ."
+  },
+  {
+    "id": "arxiv:2609.22081v1",
+    "title": "Cross-sector generalization of accident-process role classification in occupational accident narratives",
+    "abstract": "Occupational accident narratives contain valuable information about work situations, unfavourable conditions, accident events, and their consequences. Automatically structuring these narratives can facilitate large-scale accident analysis and support occupational risk prevention. However, the terminology and writing styles used to describe accidents vary considerably across sectors and organisations, raising questions about the ability of automated coding systems to generalize beyond their training domain. In this paper, we evaluate the cross-sector generalization of accident-process role classification in French occupational accident narratives. We construct an expert-annotated corpus in which factual units are classified into four roles: work situation (A0), explicitly reported unfavourable condition (A1), accident event or deviation (B), and reported consequence (C). The role classifiers are developed and selected exclusively on 42,244 factual units extracted from 6,040 construction-sector narratives and are then evaluated on unseen corpora from the metallurgy and chemistry--plastics sectors, as well as on an independently collected company corpus, without retraining or target-domain tuning of the role classifier. We compare frozen pretrained representations with task-specific fine-tuning and supervised representation-learning strategies. The results show that task-specific adaptation consistently improves cross-domain transfer over frozen representations. Across repeated training runs, the three leading task-adapted strategies achieved average balanced accuracies between 85.6% and 85.8% across the three target corpora. These findings support the development of transferable assisted-coding systems capable of consistently structuring heterogeneous occupational accident narratives for expert review and cross-sector prevention analysis.",
+    "authors": [
+      "Aho Yapi",
+      "Pierre Latouche",
+      "Arnaud Guillin",
+      "Yan Bailly"
+    ],
+    "published": "2026-09-18",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2609.22081v1",
+    "pdf_url": "https://arxiv.org/pdf/2609.22081v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "Occupational accident narratives contain valuable information about work situations, unfavourable conditions, accident events, and their consequences . Automatically structuring these narratives can facilitate large-scale accident analysis and support occupational risk prevention ."
+  },
+  {
     "id": "arxiv:2609.22069v1",
     "title": "OmniVBench: A Benchmark and Large-Scale Dataset for Omni Reference-to-Video Generation",
     "abstract": "Reference-to-video (R2V) generation is evolving toward increasingly general and versatile reference control, giving rise to the emerging paradigm of omni R2V generation. However, existing benchmarks fall short of these emerging capabilities: their test cases cover limited reference types and compositions, and their evaluation protocols largely assess holistic reference consistency, overlooking whether reference factors are properly preserved, disentangled, and routed. Meanwhile, the high cost of constructing omni R2V training data makes suitable training resources scarce. To address these gaps, we introduce OmniVBench and the Omni-R2V Dataset for evaluating and training omni R2V models. OmniVBench expands R2V evaluation across broader reference types, fine-grained control tasks, and richer reference compositions, covering 7 task families and 18 fine-grained tasks spanning content, motion, style, structure, narrative, and multi-reference settings. We introduce factor-grounded evaluation with 12,172 case-specific checklist items, assessing whether intended reference factors are faithfully preserved, correctly disentangled and bound to their targets, and properly realized according to the instruction. We further introduce the Omni-R2V Dataset, bringing industrial-grade training resources for diverse R2V tasks to the broader research community. Drawing primarily on a large-scale corpus of professional video footage, it comprises 340K processed training samples spanning diverse reference types and multi-reference compositions. We develop task-specific pipelines for reference-target pair construction, offering a practical and scalable recipe for omni R2V data construction. Extensive evaluation of advanced open- and closed-source R2V models reveals clear performance gaps across task families and evaluation dimensions on OmniVBench, highlighting remaining limitations of current R2V models.",
@@ -893,6 +1845,7 @@
       "Hualuo Liu",
       "Chunjie Zhang",
       "Chong Guan",
+      "Kai Huang",
       "Songlian Li",
       "Taiyi Wu",
       "Yongjian Yu",
@@ -1030,7 +1983,7 @@
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "BrainWidebench is a benchmark for evaluating across-animal transfer on multi-region neural recordings . It is built on the International Brain Laboratory Brainwide Map dataset of neural and behavioral recordings . The benchmark is organized around three complementary task suites that evaluate whether learned representations support downstream decoding of behavior ."
+    "ai_summary": "BrainWideBench is a benchmark for evaluating across-animal transfer on multi-region neural recordings . It is built on the International Brain Laboratory Brainwide Map dataset of neural and behavioral recordings . The benchmark is organized around three complementary task suites that evaluate whether learned representations support downstream decoding of behavior ."
   },
   {
     "id": "arxiv:2609.22060v1",
