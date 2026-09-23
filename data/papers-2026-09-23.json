@@ -105,22 +105,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.21825/ewopinpractice.94702",
-    "title": "Title Pending 94702",
-    "abstract": "",
-    "authors": [],
-    "published": "2035",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.21825/ewopinpractice.94702",
-    "pdf_url": null,
-    "doi": "10.21825/ewopinpractice.94702",
-    "citations": 0,
-    "venue": "EWOP in Practice",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
     "id": "crossref:10.21825/ewopinpractice.94703",
     "title": "Title Pending 94703",
     "abstract": "",
@@ -131,6 +115,22 @@
     "url": "https://doi.org/10.21825/ewopinpractice.94703",
     "pdf_url": null,
     "doi": "10.21825/ewopinpractice.94703",
+    "citations": 0,
+    "venue": "EWOP in Practice",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "crossref:10.21825/ewopinpractice.94702",
+    "title": "Title Pending 94702",
+    "abstract": "",
+    "authors": [],
+    "published": "2035",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.21825/ewopinpractice.94702",
+    "pdf_url": null,
+    "doi": "10.21825/ewopinpractice.94702",
     "citations": 0,
     "venue": "EWOP in Practice",
     "open_access": false,
@@ -209,11 +209,11 @@
     "source": "Crossref",
     "category": "index",
     "url": "https://doi.org/10.3998/mjcsl.2741",
-    "pdf_url": null,
+    "pdf_url": "https://doi.org/10.3998/mjcsl.2741",
     "doi": "10.3998/mjcsl.2741",
     "citations": 0,
     "venue": "Michigan Journal of Community Service Learning",
-    "open_access": false,
+    "open_access": true,
     "ai_summary": "No abstract available."
   },
   {
@@ -461,27 +461,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.5705/ss.202025.0314",
-    "title": "Transfer Learning for High-dimensional Regression with Compositional Covariates: Application to Microbiome Studies",
-    "abstract": "",
-    "authors": [
-      "Qinqin Hu",
-      "Xiaojing Luo",
-      "Chencheng Ma",
-      "Wang Zhou"
-    ],
-    "published": "2029",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.5705/ss.202025.0314",
-    "pdf_url": null,
-    "doi": "10.5705/ss.202025.0314",
-    "citations": 0,
-    "venue": "Statistica Sinica",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
     "id": "crossref:10.5705/ss.202026.0109",
     "title": "Inference for Extreme Value Index Through Individualized Fusion Learning",
     "abstract": "",
@@ -503,27 +482,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.5705/ss.202025.0457",
-    "title": "Sparse Additive Off-policy Evaluation for Reinforcement Learning with Potentially Limited Number of Trajectories",
-    "abstract": "",
-    "authors": [
-      "Tuoyi Zhao",
-      "Chengchun Shi",
-      "Zhengling Qi",
-      "Lan Wang"
-    ],
-    "published": "2029",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.5705/ss.202025.0457",
-    "pdf_url": null,
-    "doi": "10.5705/ss.202025.0457",
-    "citations": 0,
-    "venue": "Statistica Sinica",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
     "id": "crossref:10.5705/ss.202025.0205",
     "title": "Sparsity Learning via Structured Functional Factor Augmentation",
     "abstract": "",
@@ -539,6 +497,48 @@
     "url": "https://doi.org/10.5705/ss.202025.0205",
     "pdf_url": null,
     "doi": "10.5705/ss.202025.0205",
+    "citations": 0,
+    "venue": "Statistica Sinica",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "crossref:10.5705/ss.202025.0314",
+    "title": "Transfer Learning for High-dimensional Regression with Compositional Covariates: Application to Microbiome Studies",
+    "abstract": "",
+    "authors": [
+      "Qinqin Hu",
+      "Xiaojing Luo",
+      "Chencheng Ma",
+      "Wang Zhou"
+    ],
+    "published": "2029",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.5705/ss.202025.0314",
+    "pdf_url": null,
+    "doi": "10.5705/ss.202025.0314",
+    "citations": 0,
+    "venue": "Statistica Sinica",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "crossref:10.5705/ss.202025.0457",
+    "title": "Sparse Additive Off-policy Evaluation for Reinforcement Learning with Potentially Limited Number of Trajectories",
+    "abstract": "",
+    "authors": [
+      "Tuoyi Zhao",
+      "Chengchun Shi",
+      "Zhengling Qi",
+      "Lan Wang"
+    ],
+    "published": "2029",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.5705/ss.202025.0457",
+    "pdf_url": null,
+    "doi": "10.5705/ss.202025.0457",
     "citations": 0,
     "venue": "Statistica Sinica",
     "open_access": false,
@@ -640,6 +640,24 @@
     "ai_summary": "Research paper will debate role played by principals in teaching and learning process . Research will embrace a quantitative research design that will seek to answer the question about the relationship between leadership skills of principals and teaching-learning process ."
   },
   {
+    "id": "crossref:10.71126/nijre.v2i1.16",
+    "title": "Transforming Education through Technology: The Case of COVID 19 Digital Learning in Nagaland",
+    "abstract": "<jats:p>Through the perspective of the COVID-19 pandemic and the disruption and opportunity it engendered, this chapter follows a transformative effect of EdTech and Digital education in India particularly in Nagaland through analysis. Drawing upon national policy frameworks, conceptual literature on educational technology, and contextual evidence based on the case of Nagaland, the chapter considers the rapid migration to digital learning as an emergency strategy (in response to the ongoing institution closures) based on the stark shifts in pedagogical practice, access to education services, and preparedness. The findings show that, including the ability of national programmes such as NEP 2020, SWAYAM, DIKSHA, PM e-VIDYA, and others, to promote access to digital tools was low within periphery or hill areas (e.g., Nagaland), due to lack of infrastructural resources, digital divide, unprepared teachers and economic/social divides, and more. The pandemic exposed the deep social and infrastructure divides in connectivity, device availability, assessment and learner engagement, with implications that were especially grave in rural and tribal settings. Although it accelerated the pace of innovation and the application of blended and low-tech learning practices teachers have been experimenting with digital platforms and the post-COVID recovery process, including remedial programmes and hybrid instruction. The chapter also discusses that blended learning is the most fitting, viable and sustainable approach for reaching the technological level in the field of educational technology at Nagaland. It implies that technology-mediated education can improve equity, quality, and resilience, but only under the conditions of inclusive policy design, strong digital infrastructure, vigorous teacher capability building, and culturally appropriate digital content.\nKeywords: Educational technology, digital learning, COVID-19, Nagaland, online education, Challenges, blended learning</jats:p>",
+    "authors": [
+      "K Hinoca Assumi"
+    ],
+    "published": "2028",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.71126/nijre.v2i1.16",
+    "pdf_url": null,
+    "doi": "10.71126/nijre.v2i1.16",
+    "citations": 0,
+    "venue": "Naveen International Journal of Research in Education (NIJRE)",
+    "open_access": false,
+    "ai_summary": "The chapter considers the rapid migration to digital learning as an emergency strategy . The findings show that the ability of national programmes such as NEP 2020, SWAYAM, DIKSHA, PM e-VIDYA, and others, to promote access to digital tools was low within periphery or hill areas ."
+  },
+  {
     "id": "crossref:10.1504/ijims.2028.10081208",
     "title": "Enhancements to the Deep Learning Architecture for Metaverse Integration in Medical Image Processing",
     "abstract": "",
@@ -656,45 +674,6 @@
     "url": "https://doi.org/10.1504/ijims.2028.10081208",
     "pdf_url": null,
     "doi": "10.1504/ijims.2028.10081208",
-    "citations": 0,
-    "venue": "International Journal of Internet Manufacturing and Services",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "crossref:10.71126/nijre.v2i1.16",
-    "title": "Transforming Education through Technology: The Case of COVID 19 Digital Learning in Nagaland",
-    "abstract": "<jats:p>Through the perspective of the COVID-19 pandemic and the disruption and opportunity it engendered, this chapter follows a transformative effect of EdTech and Digital education in India particularly in Nagaland through analysis. Drawing upon national policy frameworks, conceptual literature on educational technology, and contextual evidence based on the case of Nagaland, the chapter considers the rapid migration to digital learning as an emergency strategy (in response to the ongoing institution closures) based on the stark shifts in pedagogical practice, access to education services, and preparedness. The findings show that, including the ability of national programmes such as NEP 2020, SWAYAM, DIKSHA, PM e-VIDYA, and others, to promote access to digital tools was low within periphery or hill areas (e.g., Nagaland), due to lack of infrastructural resources, digital divide, unprepared teachers and economic/social divides, and more. The pandemic exposed the deep social and infrastructure divides in connectivity, device availability, assessment and learner engagement, with implications that were especially grave in rural and tribal settings. Although it accelerated the pace of innovation and the application of blended and low-tech learning practices teachers have been experimenting with digital platforms and the post-COVID recovery process, including remedial programmes and hybrid instruction. The chapter also discusses that blended learning is the most fitting, viable and sustainable approach for reaching the technological level in the field of educational technology at Nagaland. It implies that technology-mediated education can improve equity, quality, and resilience, but only under the conditions of inclusive policy design, strong digital infrastructure, vigorous teacher capability building, and culturally appropriate digital content.\nKeywords: Educational technology, digital learning, COVID-19, Nagaland, online education, Challenges, blended learning</jats:p>",
-    "authors": [
-      "K Hinoca Assumi"
-    ],
-    "published": "2028",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.71126/nijre.v2i1.16",
-    "pdf_url": "https://doi.org/10.71126/nijre.v2i1.16",
-    "doi": "10.71126/nijre.v2i1.16",
-    "citations": 0,
-    "venue": "Naveen International Journal of Research in Education (NIJRE)",
-    "open_access": true,
-    "ai_summary": "The chapter considers the rapid migration to digital learning as an emergency strategy . The findings show that the ability of national programmes such as NEP 2020, SWAYAM, DIKSHA, PM e-VIDYA, and others, to promote access to digital tools was low within periphery or hill areas ."
-  },
-  {
-    "id": "crossref:10.1504/ijims.2028.10076630",
-    "title": "Left Ventricle Extraction Using a DENSENET-U-Net Integrated Deep Learning Approach",
-    "abstract": "",
-    "authors": [
-      "X. Ignatious Viola",
-      "R. Shoba Rani",
-      "G. Savitha",
-      "R. Surekha"
-    ],
-    "published": "2028",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.1504/ijims.2028.10076630",
-    "pdf_url": null,
-    "doi": "10.1504/ijims.2028.10076630",
     "citations": 0,
     "venue": "International Journal of Internet Manufacturing and Services",
     "open_access": false,
@@ -736,6 +715,27 @@
     "doi": "10.1504/ijmlo.2028.10080498",
     "citations": 0,
     "venue": "International Journal of Mobile Learning and Organisation",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "crossref:10.1504/ijims.2028.10076630",
+    "title": "Left Ventricle Extraction Using a DENSENET-U-Net Integrated Deep Learning Approach",
+    "abstract": "",
+    "authors": [
+      "X. Ignatious Viola",
+      "R. Shoba Rani",
+      "G. Savitha",
+      "R. Surekha"
+    ],
+    "published": "2028",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.1504/ijims.2028.10076630",
+    "pdf_url": null,
+    "doi": "10.1504/ijims.2028.10076630",
+    "citations": 0,
+    "venue": "International Journal of Internet Manufacturing and Services",
     "open_access": false,
     "ai_summary": "No abstract available."
   },
@@ -849,6 +849,28 @@
     "ai_summary": "No abstract available."
   },
   {
+    "id": "openalex:W7212699939",
+    "title": "Development and validation of a machine learning-based predictive model for prognosis in cerebral hemorrhage patients after hyperbaric oxygen therapy.",
+    "abstract": "",
+    "authors": [
+      "Congyi Ding",
+      "Jun Wu",
+      "Guangning Zhang",
+      "Xiaoming Feng",
+      "Jieyang Zhu"
+    ],
+    "published": "2027-01-01",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.4103/mgr.medgasres-d-25-00168",
+    "pdf_url": null,
+    "doi": "10.4103/mgr.medgasres-d-25-00168",
+    "citations": 0,
+    "venue": "PubMed",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
     "id": "openalex:W7211975381",
     "title": "Application and feasibility analysis of random Forest models in safety prediction for transition metal-doped Na3V2(PO4)3 sodium-ion batteries.",
     "abstract": "",
@@ -877,274 +899,181 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "openalex:W7212699939",
-    "title": "Development and validation of a machine learning-based predictive model for prognosis in cerebral hemorrhage patients after hyperbaric oxygen therapy.",
-    "abstract": "",
+    "id": "pubmed:42776086",
+    "title": "120-Channel High-Fidelity Optical Multiplexing Using a Minimal Meta-Atom Set.",
+    "abstract": "High-capacity optical multiplexing is crucial for next-generation intelligent information systems, spanning high-speed communications, optical computing, and immersive displays. A fundamental challenge is to maximize the number of independent channels while maintaining high fidelity, compact footprint, and low structural complexity, constraints that severely limit existing diffractive optical elements. Here, we overcome these long-standing trade-offs by introducing a multi-dimensional reconfigurable diffractive neural network (MRDNN) that enables high-capacity, high-fidelity optical multiplexing within an exceptionally compact and simple architecture through the co-design of predictive neural optimization and multi-physical-dimension multiplexing. Experimentally, a dual-layer MRDNN realizes 24 independent channels for distinct functionalities, including focusing, beam steering, and holographic image reconstruction. Owing to its excellent scalability, only four metasurface layers comprising a minimal library of 200",
     "authors": [
-      "Congyi Ding",
-      "Jun Wu",
-      "Guangning Zhang",
-      "Xiaoming Feng",
-      "Jieyang Zhu"
-    ],
-    "published": "2027-01-01",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.4103/mgr.medgasres-d-25-00168",
-    "pdf_url": null,
-    "doi": "10.4103/mgr.medgasres-d-25-00168",
-    "citations": 0,
-    "venue": "PubMed",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "pubmed:42773852",
-    "title": "Integrative Multi-Omics and Machine Learning Reveal Senescent Fibroblast-Associated ADAMTS2 as a Critical Indicator of Intestinal Inflammation in IBD.",
-    "abstract": "Although cellular senescence contributes to tissue dysfunction in inflammatory bowel disease (IBD), the heterogeneity of senescence at the single-cell resolution remains poorly defined. In this study, we systematically characterized the senescence landscape within the IBD microenvironment, with particular emphasis on fibroblast subpopulations and their systemic consequences. Single-cell RNA sequencing (scRNA-seq) dataset was applied to profile senescence-associated feature heterogeneity. Fibroblasts were classified into high-senescence (HS-Fibro) and low-senescence (LS-Fibro) groups according to senescence scores. HS-Fibro-specific gene signatures were identified and functionally annotated. Intercellular communication networks were constructed using CellChat to delineate the HS-Fibro interactome atlas, with emphasis on identifying cellular targets responsive to senescence-associated secretory phenotype (SASP) signals. Integrated microarray datasets were employed to elucidate the systemic impact of HS-Fibro in IBD. Through the integration of differential expression analysis, Weighted Gene Co-expression Network Analysis (WGCNA), and an ensemble of 113 machine learning algorithms, seven hub genes implicated in IBD progression were systematically identified and prioritized. In the IBD microenvironment, fibroblasts exhibited enhanced senescence activity. HS-Fibro displayed potent pro-inflammatory properties and enhanced communicative capacity. IBD patients with high HS-Fibro infiltration showed sustained immune-inflammatory activity. Systematic bioinformatic analysis and immunohistochemistry validation identified ADAMTS2 as a robust diagnostic indicator for IBD, with substantially elevated expression in patients relative to controls. The human colon fibroblast cell line CCD-18Co was treated with H",
-    "authors": [
-      "Yueqi Liu",
-      "Minggui Chen",
-      "Yueyuan Pan",
-      "Weiting Wang"
-    ],
-    "published": "2026-Sep-30",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42773852/",
-    "pdf_url": null,
-    "doi": "10.1096/fj.202602171RR",
-    "citations": 0,
-    "venue": "FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
-    "open_access": false,
-    "ai_summary": "The heterogeneity of senescence at the single-cell resolution remains poorly defined . In this study, we systematically characterized the senescENCE landscape within the IBD microenvironment ."
-  },
-  {
-    "id": "pubmed:42773994",
-    "title": "Prior-Guided SEM Image Segmentation Enables Quantitative Morphology Assessment and Process Optimization in Perovskite Solar Cells.",
-    "abstract": "Perovskite film morphology strongly affects charge transport, nonradiative recombination, and power conversion efficiency, yet scanning electron microscopy (SEM) remains largely qualitative. Here, a prior-guided SEM analysis framework converts routine micrographs into class-resolved masks, quantitative morphology descriptors, and a compact SEM-Derived Morphology Quality Index (MQI). YOLO-derived grain-center priors guide U-MambaBot segmentation, while Class-Probability TV Regularization improves local coherence. Six descriptors are extracted from the segmented ",
-    "authors": [
-      "Yixi Wang",
-      "Wei Chen",
-      "Liyang Cai",
-      "Haoyang Zhang",
-      "Lin Wang",
-      "Lin Yang",
-      "Hang Wang",
-      "Jing Dai",
-      "Chunchen Wang",
-      "Zhekai Yin",
-      "Xin Zhang",
-      "Xia Cai",
-      "Guangzheng Wu",
-      "Yuanjun Ma",
-      "Hongzhou Zhao",
-      "Qiang Guo",
-      "Yao Sun",
-      "Xiaojie Sun",
-      "Yu Han",
-      "Xugang Wang",
-      "Shanzheng Feng",
-      "Xinsheng Cao",
-      "Dalong Zhong",
-      "Anran Yu",
-      "Yiqiang Zhan"
+      "Zhiyu Tan",
+      "Xiaofei Zang",
+      "Zhe Gao",
+      "Jianshu Miao",
+      "Alexander P Shkurinov",
+      "Fei Ding",
+      "Yiming Zhu",
+      "Songlin Zhuang"
     ],
     "published": "2026-Sep-23",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42773994/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42776086/",
     "pdf_url": null,
-    "doi": "10.1002/adma.74893",
+    "doi": "10.1002/adma.75132",
     "citations": 0,
     "venue": "Advanced materials (Deerfield Beach, Fla.)",
     "open_access": false,
-    "ai_summary": "Perovskite film morphology strongly affects charge transport, nonradiative recombination, and power conversion efficiency, yet scanning electron microscopy remains largely qualitative ."
+    "ai_summary": "High-capacity optical multiplexing is crucial for next-generation intelligent information systems . A dual-layer MRDNN realizes 24 independent channels for distinct functionalities, including focusing, beam steering, and holographic image reconstruction ."
   },
   {
-    "id": "pubmed:42773935",
-    "title": "Aerogel-Like Bioinspired Multiscale Hierarchies Enable Self-Powered Sensing and Physiological Comfort for Biodegradable Nanofiber Meta-Membranes.",
-    "abstract": "Nanofiber membrane-based flexible sensing devices are appealing for advanced multi-protective equipment. Here, inspired by the fluid-regulating grooved topology of whale baleen, we unravel an electro-induced multiphase separation spinning (EMSS) approach to engender ultralight aerogel-like bioinspired poly(lactic acid) (AB-PLA) nanofiber meta-membranes. Driven by engineered thermodynamic instability, distinct axial micro-grooves are created at AB-PLA nanofibers that assemble into a highly porous network (over 97% porosity). This unique architecture is ready to trigger robust output performance (66.37 V, 93.12 nA), conferring the self-powered real-time respiratory monitoring and 100% accuracy for the deep learning-assisted breathing pattern recognition. It is further accompanied by excellent PM-capturing mechanisms, achieving 99.1% removal of PM",
+    "id": "pubmed:42776068",
+    "title": "Artificial Intelligence in Echocardiography: Five Clinical Challenges and a Roadmap Toward Responsible Integration by 2030.",
+    "abstract": "Artificial intelligence (AI)-enabled echocardiography has demonstrated strong agreement with expert measurements across a broad range of cardiac functional parameters. However, the transition from technical validation to clinical impact remains incomplete. This structured narrative review employed a systematic literature search to identify the principal structural barriers to AI integration in echocardiography and to develop an expert-informed, evidence-grounded perspective on the priorities for responsible implementation by 2030. The methodological heterogeneity of the included studies, including retrospective and prospective designs, diverse outcome measures ranging from measurement agreement to workflow implementation, and multiple AI application domains, precluded quantitative pooling. Therefore, qualitative synthesis was selected as the primary prespecified analytical approach. PubMed/MEDLINE was searched for studies published between January 2015 and January 2026 addressing clinical AI applications, real-world validation, implementation science, and governance. Forty-six studies meeting predefined inclusion criteria underwent qualitative synthesis. Five interdependent domains were identified: reproducibility across clinical settings, generalizability beyond development datasets, the lack of outcome-focused evidence, regulatory and governance immaturity, and insufficient trust among clinicians and patients. Automated measurements of left ventricular function, strain, and valvular disease severity demonstrate close agreement with expert assessments. However, few studies have shown that AI-assisted echocardiography translates into improved patient outcomes. Based on the available evidence, the principal translational barrier appears to be not algorithmic capability itself, but rather the structural requirements necessary for accountable clinical integration. An expert-informed, evidence-grounded roadmap emphasizing decision-level reproducibility, rigorous external validation, outcome-linked evidence generation, continuous lifecycle governance, and human-centered design is proposed to guide the integration of AI into echocardiography and to support the development of a more durable and accountable clinical infrastructure by 2030.",
     "authors": [
-      "Xiang Li",
-      "Xing-Hua Wei",
-      "Zhiyang Liu",
-      "Dianyu Zhu",
-      "Shao-Zhen Wang",
-      "Xiuhui Qu",
-      "Gang Zhou",
-      "Hao-Ran Yang",
-      "Huan Xu",
-      "Minna Hakkarainen",
-      "Mengbao Fan",
-      "Wenyu Cui",
-      "Wulin Shang",
-      "Peizhong Feng",
-      "Hongwei Zhao"
+      "Fatih Aydın"
     ],
     "published": "2026-Sep-23",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42773935/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42776068/",
     "pdf_url": null,
-    "doi": "10.1002/smll.75856",
+    "doi": "10.5543/tkda.2026.30071",
     "citations": 0,
-    "venue": "Small (Weinheim an der Bergstrasse, Germany)",
+    "venue": "Turk Kardiyoloji Dernegi arsivi : Turk Kardiyoloji Derneginin yayin organidir",
     "open_access": false,
-    "ai_summary": "Nanofiber membrane-based flexible sensing devices are appealing for advanced multi-protective equipment . The devices are inspired by the fluid-regulating topology of whale baleen ."
+    "ai_summary": "Artificial intelligence (AI)-enabled echocardiography has demonstrated strong agreement with expert measurements across a broad range of cardiac functional parameters . This structured narrative review employed a systematic literature search to identify the principal structural barriers to AI integration in echOCardiography ."
   },
   {
-    "id": "pubmed:42773890",
-    "title": "Design of a high-affinity IL-21 decoy receptor as a novel therapeutic strategy for autoimmune disorders.",
-    "abstract": "Elevated levels of the pro-inflammatory cytokine Interleukin 21 (IL-21) contribute to the progression of autoimmune and inflammatory diseases by binding to its receptor (IL-21R) and activating detrimental signaling pathways in immune cells. Consequently, we developed a recombinant decoy receptor protein designed to competitively inhibit IL-21 binding to its receptor. Using the extracellular domain of IL-21R as a scaffold, five key binding-site residues (33, 38, 70, 94, and 130) were mutated with OSPREY software. Computational analyses with GROMACS selected the Q33S, E38D, M70T, L94N, and M130S mutant for its superior structural stability and high binding affinity to IL-21, with binding energy calculations confirming that the mutant successfully maintains the high baseline binding affinity of the wild-type complex. The decoy receptor protein was subsequently expressed recombinantly in  The decoy receptor protein, the mutant e.d.IL21R, contains five point mutations: Q33S, E38D, M70T, L94N, and M130S.The recombinant mutant e.d.IL21R exhibits a secondary structure similar to that of the wild-type e.d.IL21R.The recombinant mutant e.d.IL21R demonstrated a higher binding affinity for IL-21 than the wild-type protein.A novel therapeutic approach for autoimmune disorders using the recombinant mutant e.d.IL21R is proposed.",
+    "id": "pubmed:42776039",
+    "title": "Predicting relapse in pediatric IgA vasculitis in the era of machine learning: an explainable hybrid ensemble model.",
+    "abstract": "This study aimed to develop an explainable hybrid ensemble machine learning (ML) model to predict relapse in pediatric IgA vasculitis (IgAV) using routine clinical and laboratory data. This retrospective cohort study included 653 children diagnosed with IgAV according to EULAR/PRINTO/PRES criteria. Demographic, clinical, laboratory data, and the Pediatric Vasculitis Activity Score (PVAS) at diagnosis were evaluated. Several tree-based ML algorithms were evaluated and combined using a soft voting strategy. The hybrid ensemble model combining Random Forest, AdaBoost, and Extra Trees was selected as the final model. SHapley Additive exPlanations (SHAP)-based explainability analysis was performed, and a nomogram was developed for individualized risk prediction. Conventional logistic regression analyses were also performed to identify independent predictors of relapse. Relapses were observed in 117 (17.9%) patients during follow-up. The hybrid ensemble model achieved the highest area under the receiver operating characteristic curve (AUC-ROC) (0.7504 ± 0.0856) with competitive area under the precision-recall curve (AUC-PR) (0.4540 ± 0.1308) and Brier score (0.1315 ± 0.0130). SHAP analysis identified older age at diagnosis, higher PVAS, female sex and abnormal urinalysis findings as the most influential predictors of relapse. On conventional regression analysis, PVAS was strongly associated with relapse. In addition, female sex, older age at diagnosis, rash involving the face, and abnormal urinalysis findings were independent predictors. Disease relapse in pediatric IgAV can be predicted using clinical and laboratory data with an explainable hybrid ensemble ML approach. The predictive model and nomogram may support risk stratification and targeted follow-up in children with IgAV.",
     "authors": [
-      "Sara Vazifeshenas",
-      "Zahra Hajihassan",
-      "Seyed Shahriar Arab",
-      "Ali Najafyar"
+      "Eda Nur Dizman",
+      "Zeynep Turgut",
+      "Sema Yildirim",
+      "Feray Kaya",
+      "Elif Kucuk",
+      "Lutfiye Koru",
+      "Zelal Aydin",
+      "Hatice Kubra Dursun",
+      "Merve Ozen Balci",
+      "Ufuk Furkan Ozdemir",
+      "Serpil Meric Toprak",
+      "Khatıra Guluzade",
+      "Muferet Erguven",
+      "Kubra Ozturk",
+      "Fatih Haslak"
     ],
     "published": "2026-Sep-23",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42773890/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42776039/",
     "pdf_url": null,
-    "doi": "10.1080/07391102.2026.2733932",
+    "doi": "10.1093/rheumatology/keag533",
     "citations": 0,
-    "venue": "Journal of biomolecular structure & dynamics",
+    "venue": "Rheumatology (Oxford, England)",
     "open_access": false,
-    "ai_summary": "Elevated levels of the pro-inflammatory cytokine Interleukin 21 (IL-21) contribute to the progression of autoimmune and inflammatory diseases by binding to its receptor . The decoy receptor protein, the mutant e.d.IL21R, contains five point mutations ."
+    "ai_summary": "Study aimed to develop an explainable hybrid ensemble machine learning (ML) model to predict relapse in pediatric IgA vasculitis (IgAV) using routine clinical and laboratory data . The hybrid ensemble model achieved the highest area under the receiver operating c. operating c ."
   },
   {
-    "id": "pubmed:42773866",
-    "title": "Generative AI in pharmacology publishing: Detection is necessary; governance of disclosure and equity is the harder task.",
-    "abstract": "",
+    "id": "pubmed:42776062",
+    "title": "The Next Frontier in Quantitative Co-Clinical Imaging to Advance Functional Precision Oncology.",
+    "abstract": "Precision oncology seeks to transform cancer treatment into one tailored for individual patients. Genomic alterations have been the dominant drivers of patient-specific therapeutic strategies. While genomic insights can guide treatment planning, genotype-directed therapies do not guarantee response to therapy. Functional confirmation of target expression, target engagement, and downstream biological effects is essential to defining therapeutic endpoints. Translational imaging can play a central role in closing the loop between genome and function to operationalize functional precision medicine (FPM). Quantitative co-clinical imaging provides a powerful framework to link genotype with function by confirming drug delivery, target engagement, pharmacodynamic effects, tumor function and heterogeneity across animal models and patients to advance FPM. Over the past decade, the Co-Clinical Imaging Research Resource Program (CIRP) of the National Cancer Institute (NCI) has made considerable progress in advancing quantitative imaging biomarker development. However, critical gaps remain in the integration and standardization of co-clinical imaging biomarkers. The next frontier requires moving beyond quantitative endpoints toward predictive oncology. This includes validating imaging-aware models, developing quantitative imaging strategies to support new precision medicine trials, and embedding co-clinical data into computational and in silico frameworks such as radiomics, cross-species mathematical modeling, digital twins, and virtual imaging trials. Equally important is the development of a domain-specific repository that vertically integrates imaging with multi-modal data to enable reproducible, artificial intelligence-ready pipelines. These advances will accelerate the translation of co-clinical imaging biomarkers into decision models that complement genomics, improve patient stratification, and guide selection and personalization of therapies-advancing the promise of FPM.",
     "authors": [
-      "Răzvan M Cherecheș"
+      "Kooresh I Shoghi",
+      "Cristian T Badea",
+      "Donna M Peehl",
+      "Thomas L Chenevert",
+      "Heike E Daldrup-Link",
+      "Douglas S Hawkins",
+      "A McGarry Houghton",
+      "Paul E Kinahan",
+      "Michael T Lewis",
+      "Cynthia X Ma",
+      "H Charles Manning",
+      "Robert S Miyaoka",
+      "Yvonne M Mowery",
+      "James Pb O'Connor",
+      "Peter J O'Dwyer",
+      "Brian D Ross",
+      "Renuka Sriram",
+      "Thomas E Yankeelov",
+      "Rong Zhou",
+      "John Kurhanewicz",
+      "David A Mankoff"
     ],
     "published": "2026-Sep-23",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42773866/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42776062/",
     "pdf_url": null,
-    "doi": "10.1111/bph.70684",
+    "doi": "10.1158/1078-0432.CCR-26-0275",
     "citations": 0,
-    "venue": "British journal of pharmacology",
+    "venue": "Clinical cancer research : an official journal of the American Association for Cancer Research",
     "open_access": false,
-    "ai_summary": "No abstract available."
+    "ai_summary": "Genomic alterations have been the dominant drivers of patient-specific therapeutic strategies . Genomic alterations are the dominant driver of patient specific therapeutic strategies. Genotype-directed therapies do not guarantee response to therapy ."
   },
   {
-    "id": "pubmed:42773861",
-    "title": "Artificial Intelligence-Driven Care Plans: Enhancing Nursing Care Efficiency in Kenya's National Referral Hospital Critical Care Unit: Quasi-Experimental Study.",
-    "abstract": "The application of artificial intelligence (AI) in nursing care has surfaced as a revolutionary method for improving the quality and efficiency of patient care. Examining AI-driven care plans could yield valuable insights for improving nursing care. A pretest-posttest quasi-experimental study with 43 participants compared manual and AI-generated care plans in performance expectancy, effort expectancy, user satisfaction, and efficiency, before and after the intervention. AI-driven care plans were produced through www.careplans.com in line with NANDA taxonomy. Participants were selected consecutively and completed a self-administered questionnaire. Data analysis was conducted using R (v4.1.2), utilizing the Wilcoxon signed-rank test for paired data. Results were illustrated in box plots, with differences deemed significant at P-values <.05. Care plans generated by AI consistently demonstrated superior performance compared to those developed manually across all evaluated criteria. The median scores for AI-generated plans were 91.67%, 93.75%, 91.67%, and 92.86% in perceived efficiency. In contrast, the manually written plans achieved scores of 58.33%, 56.25%, 50%, and 45%, respectively. Wilcoxon signed-rank test indicated that these differences were statistically significant (P< .001). Utilising efficient AI-generated care plans enhances nursing care, allowing for the reallocation of time saved to focus on direct patient care.",
+    "id": "pubmed:42776019",
+    "title": "CrossMol: Cross-Modal Mask-Predict Pre-training For 3D Molecular Data.",
+    "abstract": "Self-supervised pre-training models for molecular data have demonstrated notable results across many downstream tasks. The inherent multimodal properties of molecules have also motivated efforts to capture information from different modalities. However, current multimodal molecular pre-training models usually treat these modalities as equal and independent, despite differences in their information content. Three-dimensional (3D) molecular structures generally contain finer-grained information than the simplified molecular-input line-entry system (SMILES), which primarily captures higher-level semantic information, such as molecular topology. We designed a cross-modal mask-predict pre-training model, CrossMol, to capture semantic associations between modalities with unequal information volumes. The model completes missing 3D structure using higher-level semantic information from another modality, such as SMILES. This allows it to learn cross-modal associations and better understand fine-grained 3D structural information. We also introduce a reweighted distance prediction loss to improve the modelling of short-range structural information. Experiments show that CrossMol achieves large performance gains on multiple downstream molecular tasks, attaining state-of-the-art results. The source code and training data are available at https://github.com/zhengkangjie/crossmol. The code is archived at https://doi.org/10.5281/zenodo.19653204. Supplementary material contains the task-specific hyperparameters.",
     "authors": [
-      "Sammy A Kimanzi",
-      "Lucy W Kivuti-Bitok",
-      "Dorcas W Maina",
-      "Eunice A Omondi"
+      "Kangjie Zheng",
+      "Junwei Yang",
+      "Siyu Long",
+      "Wei Ju",
+      "Wei-Ying Ma",
+      "Hao Zhou",
+      "Ming Zhang"
     ],
-    "published": "2026-Sep-22",
+    "published": "2026-Sep-23",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42773861/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42776019/",
     "pdf_url": null,
-    "doi": "10.1097/CIN.0000000000001628",
+    "doi": "10.1093/bioinformatics/btag702",
     "citations": 0,
-    "venue": "Computers, informatics, nursing : CIN",
+    "venue": "Bioinformatics (Oxford, England)",
     "open_access": false,
-    "ai_summary": "AI-driven care plans were produced through www.careplans.com in line with NANDA taxonomy . A pretest-posttest quasi-experimental study with 43 participants compared manual and AI-generated care plans . Care plans generated by AI consistently demonstrated superior performance ."
+    "ai_summary": "Self-supervised pre-training models for molecular data have demonstrated notable results across many downstream tasks . The inherent multimodal properties of molecules have also motivated efforts to capture information from different modalities ."
   },
   {
-    "id": "pubmed:42774009",
-    "title": "A Multicenter, Mixed Methods Study of United States Heart Teams and Health Policy: The EVOLVE Study Design and Protocol.",
-    "abstract": "The management of patients with aortic stenosis is rapidly evolving, along with the \"heart team,\" a multidisciplinary group collaborating in program management. There is scant research providing rigorous data on the variability in heart teams' approach to optimal patient care delivery. This investigation aimed to describe the current health care delivery strategies and attitudes of contemporary heart teams at diverse hospitals across the United States and provide key insight into future health policy and guideline directions. We will conduct a convergent parallel design mixed methods study integrating quantitative (survey) and qualitative (semistructured interviews, coded using qualitative research software) data to develop a deeper understanding of heart valve team roles, functions, health care delivery strategies, and clinician perceptions of the impacts of health policy mandates on team and patient experience. Guided by a grounded theory approach, we will generate themes inductively from perspectives expressed by the participants. Heart valve teams will be recruited until saturation of themes and to maximize variation in practice settings (academic status, geographical location, transcatheter aortic valve replacement program volume, program tenure). We anticipate 8 to 20 programs and 40 to 100 participants. This study is approved by the Western Copernicus Group Institutional Review Board and adheres to Good Reporting of a Mixed Methods Study guidelines for mixed methods research. This study is designed to be the largest investigation to date of United States heart teams focused on aortic stenosis, aimed to inform health policy and guideline efforts to streamline care, address continued inequities and undertreatment, and optimize patient outcomes.",
+    "id": "pubmed:42776032",
+    "title": "Cooperative spreading between information and epidemics in metapopulation networks with quarantine interventions.",
+    "abstract": "In the era of Information 2.0, the intricate coupling between information diffusion and human behavioral patterns is reshaping the spatiotemporal dynamics of disease transmission, thereby posing substantial challenges to containing the cross-regional spread of epidemics. To address this issue, we modify the classical movement-interaction-return model by incorporating mobility-based detection and then investigate the effects of heterogeneity in mobility patterns, induced by information diffusion and quarantine strategies, on the dynamic behaviors of epidemic spreading in multiplex metapopulation networks. The derived epidemic threshold indicates that epidemic prevention and control measures become ineffective in the thermodynamic limit. Moreover, we identify a counterintuitive paradox that mobility-based detection strategies in metapopulations have little impact on the final prevalence of epidemics. In addition, we discover that controlling the diffusion process of the disease is more effective than controlling its reaction process. Our framework offers a new perspective on the spatiotemporal transmission of diseases in metapopulation networks, which might assist policymakers in designing more effective public health strategies.",
     "authors": [
-      "Megan Coylewright",
-      "Dhaval Kolte",
-      "Gina Kruse",
-      "Rakesh M Suri",
-      "Sammy Elmariah",
-      "Susan R Strong",
-      "Elizabeth M Perpetua"
+      "Congying Liu",
+      "Xiaoqun Wu",
+      "Xiaoyang Liu",
+      "Su Zhong",
+      "Zhu Liu"
     ],
-    "published": "2026-Sep",
+    "published": "2026-Sep-01",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42774009/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42776032/",
     "pdf_url": null,
-    "doi": "10.1016/j.jscai.2026.105512",
+    "doi": "10.1063/5.0347364",
     "citations": 0,
-    "venue": "Journal of the Society for Cardiovascular Angiography & Interventions",
+    "venue": "Chaos (Woodbury, N.Y.)",
     "open_access": false,
-    "ai_summary": "Aortic stenosis management is rapidly evolving, along with the \"heart team,\" a multidisciplinary group collaborating in program management . There is scant research providing rigorous data on the variability in heart teams' approach to optimal patient care delivery . This investigation aimed to describe the current health care delivery strategies and attitudes of contemporary heart teams"
+    "ai_summary": "In the era of Information 2.0, the intricate coupling between information diffusion and human behavioral patterns is reshaping the spatiotemporal dynamics of disease transmission . To address this issue, we modify the classical movement-interaction-return model by incorporating mobility-based detection and then investigate the effects of heterogeneity in mobility patterns ."
   },
   {
-    "id": "pubmed:42773945",
-    "title": "Artificial Intelligence-Based Echocardiographic Assessment of Diastolic Dysfunction: A Systematic Review.",
-    "abstract": "Accurate non-invasive assessment of left ventricular diastolic dysfunction and filling pressures is central to the diagnosis and management of heart failure, particularly heart failure with preserved ejection fraction (HFpEF). Despite widespread use of transthoracic echocardiography, guideline-based algorithms are frequently indeterminate, variably reproducible, and difficult to apply consistently in routine practice. Artificial intelligence (AI) has emerged as a potential strategy to standardize measurement, integrate multiparametric echocardiographic data, and reduce diagnostic uncertainty. We performed a systematic review of diagnostic accuracy studies evaluating AI or machine-learning approaches applied to echocardiography for automated assessment of diastolic function or estimation of left ventricular filling pressures. Databases were searched from inception to July 7, 2026. Reference standards included invasive hemodynamics or guideline-based diastolic classification. Risk of bias and applicability were assessed using QUADAS-3. Fourteen studies were included, with development samples and validation or test cohorts reported separately. Validation ranged from small held-out invasive cohorts to large independent external datasets. Against invasive hemodynamic reference standards, reported AUCs ranged from 0.761 to 0.883, reflecting heterogeneous hemodynamic targets, thresholds, and validation designs. Studies evaluating agreement with guideline- or expert-derived classifications and automated replication of individual diastolic parameters generally reported high discrimination, although these represented distinct clinical tasks and varied substantially in the independence and scale of validation. Several studies demonstrated external or prospective validation, but robust evaluation against invasive hemodynamics remained limited. Given substantial methodological and clinical heterogeneity, findings were synthesized descriptively and no summary estimate was calculated. Despite promising diagnostic discrimination in retrospective studies, AI-based echocardiographic diastolic assessment remains limited by heterogeneous reference standards, variable validation approaches, and an absence of prospective interventional clinical-impact studies and limited prospective multicenter validation against invasive hemodynamics, precluding routine implementation at this stage.",
+    "id": "pubmed:42776123",
+    "title": "On the SHELX, PLATON and IUCr/checkCIF crystal structure validation platform.",
+    "abstract": "With checkCIF the IUCr has created a unique platform for the validation and archiving of the result of a small-molecule crystal structure study. That information, supplied in CIF (crystallographic information file) format, should include not only the numerical results of that study but also much of the supporting experimental data and details of the procedures used during the structural investigation. This not only allows for a proper validation of a structure report but also provides an option for a future re-evaluation or use of the data for an unrelated study. The experimental data might be difficult to obtain again or even unique. George Sheldrick's SHELX software was an early adopter of CIF and with that has played a major role in the success of the IUCr validation effort. IUCr/checkCIF initially started out with tests that check for the completeness of the supplied data, along with tests that check whether their values are within the expected range. Currently, the PLATON software carries out most of the tests in the IUCr/checkCIF software framework. Validation issues are reported as a set of ALERTS along with a short clarification. All ALERT messages should be inspected, addressed with a correction where applicable or a short explanation of a special situation. Some ALERT messages are informative but do not necessarily need a comment. More detailed information about a reported issue, such as warnings about missed twinning, missed additional symmetry or voids, might be obtained with a locally installed version of the PLATON software using the same tools on which those ALERTS are based. As an example of this, the use of the PLATON/TwinRotMat tool for the detection of twinning is discussed along with some details about the underlying algorithm. Three twinning examples are presented, covering merohedral, pseudomerohedral and non-merohedral twins, to illustrate the additional twinning information that can be obtained beyond what is shown as an ALERT in the IUCr/checkCIF report.",
     "authors": [
-      "Cian P Murray",
-      "Hugo C Temperley",
-      "Rob S Doyle",
-      "Abdullahi Khair",
-      "Michal Jagiello",
-      "Amal John",
-      "Patrick O'Callaghan"
+      "Anthony L Spek"
     ],
-    "published": "2026-Sep",
+    "published": "2026-Oct-01",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42773945/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42776123/",
     "pdf_url": null,
-    "doi": "10.1111/echo.70630",
+    "doi": "10.1107/S2053229626009319",
     "citations": 0,
-    "venue": "Echocardiography (Mount Kisco, N.Y.)",
+    "venue": "Acta crystallographica. Section C, Structural chemistry",
     "open_access": false,
-    "ai_summary": "Accurate non-invasive assessment of left ventricular diastolic dysfunction and filling pressures is central to the diagnosis and management of heart failure . Despite widespread use of transthoracic echocardiography, guideline-based algorithms are frequently indeterminate, variably reproducible, and difficult to apply consistently."
-  },
-  {
-    "id": "pubmed:42773930",
-    "title": "Appropriateness of digital vending machines and mobile phone applications in increasing access to HIV testing among adolescents and young people aged 18-24 in an urban community in Zambia: insights from adolescents, young people and healthcare providers.",
-    "abstract": "Despite several initiatives aimed at increasing HIV testing among young people in Zambia, testing uptake remains low, highlighting the need for innovative approaches. This paper aimed to explore perceptions of the appropriateness of a proposed digital HIV testing pathway, comprising digital vending machines and a mobile phone application for improving access to HIV self-testing among adolescents and young people in Lusaka, Zambia. This was a formative qualitative study conducted in an urban community of Lusaka district. Purposive sampling was used to recruit adolescents, young people and healthcare providers. Participants were invited to reflect on a conceptual description of a proposed digital HIV testing pathway during in-depth interviews and focus group discussions. Data were analysed thematically, guided by Rogers' diffusion of innovations. Participants perceived the concept of using digital vending machines as convenient and capable of facilitating quick access to HIV self-testing kits while promoting a culture of testing. However, concerns were raised regarding the need for emotional support following a positive result. The accompanying mobile phone application was perceived as potentially appropriate for linkage to emotional support although barriers related to smartphone access, digital literacy and usability were highlighted. Our study suggests that digital vending machines and mobile phone applications may offer a promising approach to expanding HIV testing among adolescents and young people. However, considerations related to digital access, privacy, user-friendly design and strengthened linkage to care mechanisms are critical to enhance their potential appropriateness in this context.",
-    "authors": [
-      "Sarah Mukimba",
-      "Joseph Mumba Zulu",
-      "Choolwe Jacobs",
-      "Patricia Maritim",
-      "Jaime H Vera",
-      "Mary Darking",
-      "Adam Silumbwe",
-      "Musonda Simwinga"
-    ],
-    "published": "2026-Dec",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42773930/",
-    "pdf_url": null,
-    "doi": "10.1080/16549716.2026.2702213",
-    "citations": 0,
-    "venue": "Global health action",
-    "open_access": false,
-    "ai_summary": "Paper aimed to explore perceptions of the appropriateness of a proposed digital HIV testing pathway . It was a formative qualitative study conducted in an urban community of Lusaka district . Participants perceived the concept of using digital vending machines as convenient and capable of facilitating quick access to HIV self-testing kits ."
-  },
-  {
-    "id": "pubmed:42774013",
-    "title": "Iterative Development of an AI-Assisted Data Extraction Tool for Literature Synthesis in Oncology.",
-    "abstract": "As oncology research continues to advance, the synthesis of clinical trial evidence is becoming more demanding for healthcare professionals, yet it remains critical for improving the provision of care. While sometimes inconsistent, large language models (LLMs) have emerged as a potential solution to automate literature screening and data extraction. This technical report describes the iterative development of an AI-assisted literature synthesis tool for radiation oncology research. A screening and data extraction tool was developed in three phases using ChatGPT-4o. In Phase 1, prompts were iteratively refined to screen 840 abstracts for Phase 2/3 radiotherapy trials in small cell lung cancer (SCLC). Screening performance was compared against manual reviewer consensus using sensitivity and specificity. In Phase 2, 13 clinical trial variables were extracted from 18 eligible studies and evaluated against a manual extraction reference with a weighted scoring rubric. In Phase 3, a web-based application was developed using the optimized prompts from the first two phases and pilot-tested on eight healthcare professionals for usability and workflow relevance. In the first two phases, the initial prompts had many false positives and inconsistent extractions. Iterative prompt refinement across the second and third batches of studies improved both screening accuracy and extraction consistency. In the validation batch, the final screening model achieved 100% sensitivity and specificity, and the data extraction prompts obtained a mean score of 12.0 (SD: 0.5) out of 13. During Phase 3, pilot testers reported that the application helped them read and compare clinical trial data through concise, structured tables. Users also provided suggestions for future development, including role-dependent personalization and visualization tools. Prompt-engineered LLM models show potential for improving efficiency and accessibility of literature screening and data extraction in oncology research. Future work will integrate the feedback obtained and externally validate the tool using larger independent datasets and multidisciplinary user cohorts.",
-    "authors": [
-      "Anne Liu",
-      "Faisal Alfadli",
-      "Philip Wong"
-    ],
-    "published": "2026-Aug",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42774013/",
-    "pdf_url": null,
-    "doi": "10.7759/cureus.114999",
-    "citations": 0,
-    "venue": "Cureus",
-    "open_access": false,
-    "ai_summary": "A screening and data extraction tool was developed in three phases using ChatGPT-4o . Screening performance was compared against manual reviewer consensus using sensitivity and specificity . In Phase 2, 13 clinical trial variables were extracted from 18 eligible studies and evaluated against a manual extraction"
+    "ai_summary": "IUCr has created a unique platform for the validation and archiving of the result of a small-molecule crystal structure study . This allows for a proper validation of a structure report but also provides an option for a future re-evaluation ."
   },
   {
     "id": "openalex:W7118720654",
@@ -1772,28 +1701,24 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "arxiv:2609.26792v1",
-    "title": "DreamStream: Towards Policy-Oriented Generative Simulation for End-to-End Driving",
-    "abstract": "Faithfully evaluating end-to-end driving policies in simulation requires observations that are not merely photo-realistic, but preserve the scene features a policy relies on to make decisions. Existing platforms, however, exhibit a sim-to-real visual gap that corrupts policy perception, undermining their ability to assess a policy's closed-loop decision-making. To this end, we propose DreamStream, a generative, closed-loop simulator that achieves policy-oriented fidelity using a simulator-grounded autoregressive video model. Our video model is distilled from a large pretrained video model via traffic layout guidance, varying visual appearance while preserving policy-relevant features such as scenario layout and the temporal consistency of dynamic objects. We further observe that perceptual metrics like FID misrank how well these features are preserved. To tackle this, we introduce FD$π$, a new multi-representation metric that measures the sim-to-real gap as the Fréchet distance over scene-context features from public E2E policies. Under FD$π$, DreamStream improves over the strongest prior closed-loop simulator by $1.6\\times$ on nuScenes and $4.7\\times$ on NAVSIM, and induces the least perturbation to policy's perceptual observability. Based on DreamStream, we construct Navhard-CL benchmark, which turns non-reactive real-world benchmark NAVSIM into interactive testing environments with adversarial driving behaviors and weather variations. This benchmark exposes many failure modes of driving policies, such as scorer bias and lack of recovery behaviors, that prior closed-loop benchmarks overlook. Code and data are available at https://github.com/VAIL-UCLA/DreamStream.",
+    "id": "arxiv:2609.26788v1",
+    "title": "Quantum Advantage for Distributed Symmetry Breaking",
+    "abstract": "We present a distributed quantum algorithm that $3$-colors cycles in $O(1)$ rounds, with high probability. It follows that all locally checkable labeling problems (LCLs) that have round complexity $O(\\log^* n)$ in the classical LOCAL model can be solved in $O(1)$ rounds in the quantum-LOCAL model, with high probability; this includes problems such as maximal independent set and maximal matching in bounded-degree graphs. This presents the first natural examples of graph problems with an asymptotic distributed quantum advantage for the LOCAL model; all prior examples that separate LOCAL and quantum-LOCAL are artificial problems constructed merely for the sake of demonstrating quantum advantage.",
     "authors": [
-      "Ziyang Leng",
-      "Sicheng Mo",
-      "Seth Z. Zhao",
-      "Haoyuan Cai",
-      "Yu Zeng",
-      "Rowan McAllister",
-      "Bolei Zhou"
+      "Maxime Flin",
+      "Longcheng Li",
+      "Jukka Suomela"
     ],
     "published": "2026-09-22",
     "source": "arXiv",
     "category": "preprint",
-    "url": "https://arxiv.org/abs/2609.26792v1",
-    "pdf_url": "https://arxiv.org/pdf/2609.26792v1",
+    "url": "https://arxiv.org/abs/2609.26788v1",
+    "pdf_url": "https://arxiv.org/pdf/2609.26788v1",
     "doi": null,
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "DreamStream is a generative, closed-loop simulator that achieves policy-oriented fidelity using a simulator-grounded autoregressive video model . Existing platforms exhibit a sim-to-real visual gap that corrupts policy perception, undermining their ability to assess a policy's closed- loop decision-making ."
+    "ai_summary": "We present a distributed quantum algorithm that $3$-colors cycles in $O(1)$ rounds with high probability . This presents the first natural examples of graph problems with an asymptotic distributed quantum advantage for the LOCAL model ."
   },
   {
     "id": "arxiv:2609.26793v1",
@@ -1818,44 +1743,24 @@
     "ai_summary": "Harmmony is a hierarchical chain-of-thought framework that leverages both agentic reasoning and visual geometry foundation . HARMONY uses agentic VLM reasoning to recover the 3D room layout and an initial placement order . It then places the objects in a hierarchical order, from wall-mounted elements ."
   },
   {
-    "id": "arxiv:2609.26796v1",
-    "title": "Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fast, Memory-Efficient Diffusion LLMs",
-    "abstract": "Diffusion Large Language Models (dLLMs) have recently emerged as a promising alternative to autoregressive LLMs by enabling non-autoregressive text generation. However, their practical deployment remains limited by inefficient inference, largely due to the absence of effective Key-Value (KV) caching and scalable parallel decoding mechanisms. Existing acceleration methods typically study KV caching and parallel decoding in isolation, overlooking the I/O bottlenecks that arise when cache reuse and parallel token verification are jointly applied. In this work, we introduce $\\textbf{Flash-dLLM}$, a training-free inference acceleration framework for fast and memory-efficient dLLMs. Flash-dLLM first identifies GPU memory I/O as a dominant bottleneck in KV-cache-enabled dLLM inference and addresses it with an I/O-aware fused KV-cache kernel that reduces redundant memory movement. Building on this optimized cache mechanism, Flash-dLLM further proposes an efficient KV-cache-driven draft-and-verify decoding strategy, where the dLLM itself serves as both drafter and verifier without requiring an auxiliary model. This unified design enables faster decoding while preserving generation quality and improving scalability to longer sequences and larger batch size. Extensive experiments on mathematical reasoning and code-generation benchmarks demonstrate that Flash-dLLM consistently outperforms existing state-of-the-art dLLM acceleration methods in both inference speed and memory efficiency. In particular, it achieves $5.1\\times$ and $11.0\\times$ speedups over prior strongest baseline Elastic-Cache on GSM8K and HumanEval, respectively.",
+    "id": "arxiv:2609.26783v1",
+    "title": "A Decentralized Partially Observable Team Decision Methodology with Delayed Information Sharing",
+    "abstract": "We study decentralized partially observable team decision problems with low-rank latent dynamics and unknown system models. The proposed framework combines team-theoretic equivalence with low-rank model representations to address cooperative decision-making in partially observable Markov decision processes without prior knowledge of the transition model. Each team member makes decisions based on local private information and delayed common information shared across the team. Using only this available information, each member learns an approximate low-rank Markov decision process and applies least-squares value iteration to compute its policy. This yields a fully decentralized learning and planning algorithm that requires neither a centralized coordinator nor centralized training. We show that the resulting member-side solutions approximate the centralized team solution: despite partial observability, unknown dynamics, and delayed common information, each member recovers the corresponding component of an approximate team-optimal policy. We further establish finite-sample performance guarantees and derive a corresponding sample-complexity bound for the proposed algorithm.",
     "authors": [
-      "Quan Nguyen-Tri",
-      "Mukul Ranjan",
-      "Zhiqiang Shen"
+      "Xiaoxing Ren",
+      "Thomas Parisini",
+      "Andreas A. Malikopoulos"
     ],
     "published": "2026-09-22",
     "source": "arXiv",
     "category": "preprint",
-    "url": "https://arxiv.org/abs/2609.26796v1",
-    "pdf_url": "https://arxiv.org/pdf/2609.26796v1",
+    "url": "https://arxiv.org/abs/2609.26783v1",
+    "pdf_url": "https://arxiv.org/pdf/2609.26783v1",
     "doi": null,
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "Diffusion Large Language Models (dLLMs) have recently emerged as a promising alternative to autoregressive LLMs . They are a promising option for non-autoregressive text generation . But their practical deployment remains limited by inefficient inference, largely due to the absence of effective Key-Value (KV) caching and scalable parallel decoding"
-  },
-  {
-    "id": "arxiv:2609.26788v1",
-    "title": "Quantum Advantage for Distributed Symmetry Breaking",
-    "abstract": "We present a distributed quantum algorithm that $3$-colors cycles in $O(1)$ rounds, with high probability. It follows that all locally checkable labeling problems (LCLs) that have round complexity $O(\\log^* n)$ in the classical LOCAL model can be solved in $O(1)$ rounds in the quantum-LOCAL model, with high probability; this includes problems such as maximal independent set and maximal matching in bounded-degree graphs. This presents the first natural examples of graph problems with an asymptotic distributed quantum advantage for the LOCAL model; all prior examples that separate LOCAL and quantum-LOCAL are artificial problems constructed merely for the sake of demonstrating quantum advantage.",
-    "authors": [
-      "Maxime Flin",
-      "Longcheng Li",
-      "Jukka Suomela"
-    ],
-    "published": "2026-09-22",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2609.26788v1",
-    "pdf_url": "https://arxiv.org/pdf/2609.26788v1",
-    "doi": null,
-    "citations": 0,
-    "venue": "arXiv preprint",
-    "open_access": true,
-    "ai_summary": "We present a distributed quantum algorithm that $3$-colors cycles in $O(1)$ rounds with high probability . This presents the first natural examples of graph problems with an asymptotic distributed quantum advantage for the LOCAL model ."
+    "ai_summary": "The proposed framework combines team-theoretic equivalence with low-rank model representations to address cooperative decision-making in partially observable Markov decision processes without prior knowledge of the transition model . Each team member makes decisions based on local private information and delayed common information shared across the team ."
   },
   {
     "id": "arxiv:2609.26795v1",
@@ -1884,24 +1789,48 @@
     "ai_summary": "3D Gaussian Splatting (3DGS) can reconstruct a captured scene photorealistically, but the resulting representation does not by itself support physical interaction . This gap arises because object appearance may remain entangled with the background, while hidden object geometry and occluded background content may be unobserved ."
   },
   {
-    "id": "arxiv:2609.26783v1",
-    "title": "A Decentralized Partially Observable Team Decision Methodology with Delayed Information Sharing",
-    "abstract": "We study decentralized partially observable team decision problems with low-rank latent dynamics and unknown system models. The proposed framework combines team-theoretic equivalence with low-rank model representations to address cooperative decision-making in partially observable Markov decision processes without prior knowledge of the transition model. Each team member makes decisions based on local private information and delayed common information shared across the team. Using only this available information, each member learns an approximate low-rank Markov decision process and applies least-squares value iteration to compute its policy. This yields a fully decentralized learning and planning algorithm that requires neither a centralized coordinator nor centralized training. We show that the resulting member-side solutions approximate the centralized team solution: despite partial observability, unknown dynamics, and delayed common information, each member recovers the corresponding component of an approximate team-optimal policy. We further establish finite-sample performance guarantees and derive a corresponding sample-complexity bound for the proposed algorithm.",
+    "id": "arxiv:2609.26796v1",
+    "title": "Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fast, Memory-Efficient Diffusion LLMs",
+    "abstract": "Diffusion Large Language Models (dLLMs) have recently emerged as a promising alternative to autoregressive LLMs by enabling non-autoregressive text generation. However, their practical deployment remains limited by inefficient inference, largely due to the absence of effective Key-Value (KV) caching and scalable parallel decoding mechanisms. Existing acceleration methods typically study KV caching and parallel decoding in isolation, overlooking the I/O bottlenecks that arise when cache reuse and parallel token verification are jointly applied. In this work, we introduce $\\textbf{Flash-dLLM}$, a training-free inference acceleration framework for fast and memory-efficient dLLMs. Flash-dLLM first identifies GPU memory I/O as a dominant bottleneck in KV-cache-enabled dLLM inference and addresses it with an I/O-aware fused KV-cache kernel that reduces redundant memory movement. Building on this optimized cache mechanism, Flash-dLLM further proposes an efficient KV-cache-driven draft-and-verify decoding strategy, where the dLLM itself serves as both drafter and verifier without requiring an auxiliary model. This unified design enables faster decoding while preserving generation quality and improving scalability to longer sequences and larger batch size. Extensive experiments on mathematical reasoning and code-generation benchmarks demonstrate that Flash-dLLM consistently outperforms existing state-of-the-art dLLM acceleration methods in both inference speed and memory efficiency. In particular, it achieves $5.1\\times$ and $11.0\\times$ speedups over prior strongest baseline Elastic-Cache on GSM8K and HumanEval, respectively.",
     "authors": [
-      "Xiaoxing Ren",
-      "Thomas Parisini",
-      "Andreas A. Malikopoulos"
+      "Quan Nguyen-Tri",
+      "Mukul Ranjan",
+      "Zhiqiang Shen"
     ],
     "published": "2026-09-22",
     "source": "arXiv",
     "category": "preprint",
-    "url": "https://arxiv.org/abs/2609.26783v1",
-    "pdf_url": "https://arxiv.org/pdf/2609.26783v1",
+    "url": "https://arxiv.org/abs/2609.26796v1",
+    "pdf_url": "https://arxiv.org/pdf/2609.26796v1",
     "doi": null,
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "The proposed framework combines team-theoretic equivalence with low-rank model representations to address cooperative decision-making in partially observable Markov decision processes without prior knowledge of the transition model . Each team member makes decisions based on local private information and delayed common information shared across the team ."
+    "ai_summary": "Diffusion Large Language Models (dLLMs) have recently emerged as a promising alternative to autoregressive LLMs . They are a promising option for non-autoregressive text generation . But their practical deployment remains limited by inefficient inference, largely due to the absence of effective Key-Value (KV) caching and scalable parallel decoding"
+  },
+  {
+    "id": "arxiv:2609.26792v1",
+    "title": "DreamStream: Towards Policy-Oriented Generative Simulation for End-to-End Driving",
+    "abstract": "Faithfully evaluating end-to-end driving policies in simulation requires observations that are not merely photo-realistic, but preserve the scene features a policy relies on to make decisions. Existing platforms, however, exhibit a sim-to-real visual gap that corrupts policy perception, undermining their ability to assess a policy's closed-loop decision-making. To this end, we propose DreamStream, a generative, closed-loop simulator that achieves policy-oriented fidelity using a simulator-grounded autoregressive video model. Our video model is distilled from a large pretrained video model via traffic layout guidance, varying visual appearance while preserving policy-relevant features such as scenario layout and the temporal consistency of dynamic objects. We further observe that perceptual metrics like FID misrank how well these features are preserved. To tackle this, we introduce FD$π$, a new multi-representation metric that measures the sim-to-real gap as the Fréchet distance over scene-context features from public E2E policies. Under FD$π$, DreamStream improves over the strongest prior closed-loop simulator by $1.6\\times$ on nuScenes and $4.7\\times$ on NAVSIM, and induces the least perturbation to policy's perceptual observability. Based on DreamStream, we construct Navhard-CL benchmark, which turns non-reactive real-world benchmark NAVSIM into interactive testing environments with adversarial driving behaviors and weather variations. This benchmark exposes many failure modes of driving policies, such as scorer bias and lack of recovery behaviors, that prior closed-loop benchmarks overlook. Code and data are available at https://github.com/VAIL-UCLA/DreamStream.",
+    "authors": [
+      "Ziyang Leng",
+      "Sicheng Mo",
+      "Seth Z. Zhao",
+      "Haoyuan Cai",
+      "Yu Zeng",
+      "Rowan McAllister",
+      "Bolei Zhou"
+    ],
+    "published": "2026-09-22",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2609.26792v1",
+    "pdf_url": "https://arxiv.org/pdf/2609.26792v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "DreamStream is a generative, closed-loop simulator that achieves policy-oriented fidelity using a simulator-grounded autoregressive video model . Existing platforms exhibit a sim-to-real visual gap that corrupts policy perception, undermining their ability to assess a policy's closed- loop decision-making ."
   },
   {
     "id": "arxiv:2609.26781v1",
@@ -2205,7 +2134,7 @@
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "Detection of overlapping communities is essential for modelling networks in which nodes participate simultaneously in multiple structural or functional groups . The prior identifies candidate interactions beyond immediate graph neighbours and biases attention according to their structural proximity ."
+    "ai_summary": "Detection of overlapping communities is essential for modelling networks in which nodes participate simultaneously in multiple structural or functional groups . The prior identifies candidate interactions beyond immediate graph neighbours and biases attention according to their structural proximity . A Bernoulli-Poisson edge-reconstruction objective enables overlapping community inference from node attributes and structural profiles ."
   },
   {
     "id": "arxiv:2609.26733v1",
@@ -2268,7 +2197,7 @@
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "GAD-MambaUNet is a lightweight medical image segmentation network . It combines efficient local modeling, direction--group state-space interaction, and training-time foundation-model supervision ."
+    "ai_summary": "GAD-MambaUNet is a lightweight medical image segmentation network that combines efficient local modeling, direction--group state-space interaction, and training-time foundation-model supervision ."
   },
   {
     "id": "arxiv:2609.26725v1",
@@ -2842,5 +2771,65 @@
     "venue": "arXiv preprint",
     "open_access": true,
     "ai_summary": "Knowledge Pull Requests (KPRs) are a framework for continual document authoring that makes each change interpretable . KPRs integrate more information and better preserve existing content than rewriting from sources or regenerating from scratch . A KPR-revised article also grounds question answering better than a frontier model with search ."
+  },
+  {
+    "id": "pubmed:42776160",
+    "title": "Cardiovascular Screening: Results and Analysis of Behavioural Risk Factors in AULSS5 Polesana.",
+    "abstract": "Cardiovascular diseases (CVDs) represent the leading cause of morbidity and mortality worldwide, in Europe, and in Italy. Their onset can be prevented through a healthy lifestyle, including a balanced diet, regular physical activity, and abstention from smoking and alcohol consumption. The proactive cardiovascular screening program \"Cardio50\", provided for by the 2020-2025 Regional Prevention Plan of the Veneto Region, is positioned as a primary and secondary prevention intervention aimed at the early identification of modifiable risk factors in an apparently healthy population. The study analysed the results of the \"Cardio50\" screening program conducted by the Prevention Department of AULSS 5 Polesana during the 2024-2025 two-year period on the cohort of subjects born in 1974-1975. Results were compared with data from the PASSI surveillance system relating to the same territory. During the session of the cardiovascular screening, participants' lifestyle habits are investigated and anthropometric, blood pressure, and blood chemistry parameters are recorded, on the basis of which the software assigns a specific risk class (A, B1, B2, C, C1, D). Subjects in Class B2 are recalled for a six-month follow-up. Out of 5481 potential participants, 2107 subjects (38.4%) took part, including 1109 women and 998 men. The distribution of risk classes showed a clear predominance of Class B2 (44.8%), followed by Class C (25.2%); overall, 85.2% of subjects required targeted interventions to address their risk factors. Six-month follow-up participation among subjects in Class B2 was 13.6%. Of the participants, 24.1% were smokers, 64.1% led a physically active lifestyle, 52.4% presented excess body weight and 12% consumed alcohol in a manner defined as higher-risk for health. The clear predominance of subjects in Class B2, nearly one in two participants, highlights how a substantial proportion of the population exhibits at-risk behaviours despite the absence of overt clinical abnormalities, identifying a priority target for primary prevention. The low follow-up return rate represents a significant critical issue, as the sole initial detection of risk factors does not guarantee a genuine public health benefit without continuity of the preventive pathway. Comparison with PASSI showed consistency for smoking and excess body weight, a modest difference in physical activity levels and a discrepancy regarding alcohol consumption. The study confirms the usefulness of the \"Cardio50\" program in the early detection of modifiable cardiovascular risk factors, but highlights the need to strengthen patient retention strategies during follow-up, including through greater involvement of general practitioners and local healthcare networks, in order to transform screening into a genuine long-term cardiovascular prevention pathway through integrated care.",
+    "authors": [
+      "Paolo Portesan",
+      "Eleonora Penzo",
+      "Cosimo Cangiano",
+      "Francesco Bumma",
+      "Federica Fenzi"
+    ],
+    "published": "2026",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42776160/",
+    "pdf_url": null,
+    "doi": null,
+    "citations": 0,
+    "venue": "Igiene e sanita pubblica",
+    "open_access": false,
+    "ai_summary": "Cardiovascular diseases (CVDs) represent the leading cause of morbidity and mortality worldwide . Their onset can be prevented through a healthy lifestyle, including a balanced diet, regular physical activity, and abstention from smoking and alcohol consumption ."
+  },
+  {
+    "id": "pubmed:42776119",
+    "title": "Review of \"Imaging-based Surgical Site Infection Detection Using Artificial Intelligence\" by Muaddi H, Choudhary A, Lee F, et al. Annals of Surgery 2025;282:419-428.",
+    "abstract": "",
+    "authors": [
+      "Sam P Griffin",
+      "Larry H Hollier"
+    ],
+    "published": "",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42776119/",
+    "pdf_url": null,
+    "doi": "10.1097/SCS.0000000000012033",
+    "citations": 0,
+    "venue": "The Journal of craniofacial surgery",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "pubmed:42776120",
+    "title": "Review of \"Educational Strategies for Clinical Supervision of Artificial Intelligence Use\" by Abdulnour R, Gin B, Boscardin C. The New England Journal of Medicine 2025;393:786-97.",
+    "abstract": "",
+    "authors": [
+      "Sam P Griffin",
+      "Larry H Hollier"
+    ],
+    "published": "",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42776120/",
+    "pdf_url": null,
+    "doi": "10.1097/SCS.0000000000012076",
+    "citations": 0,
+    "venue": "The Journal of craniofacial surgery",
+    "open_access": false,
+    "ai_summary": "No abstract available."
   }
 ]
