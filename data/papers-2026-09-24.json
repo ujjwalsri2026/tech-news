@@ -97,11 +97,11 @@
     "source": "Crossref",
     "category": "index",
     "url": "https://doi.org/10.3998/mjcsl.8122",
-    "pdf_url": "https://doi.org/10.3998/mjcsl.8122",
+    "pdf_url": null,
     "doi": "10.3998/mjcsl.8122",
     "citations": 0,
     "venue": "Michigan Journal of Community Service Learning",
-    "open_access": true,
+    "open_access": false,
     "ai_summary": "No abstract available."
   },
   {
@@ -129,11 +129,11 @@
     "source": "Crossref",
     "category": "index",
     "url": "https://doi.org/10.21825/ewopinpractice.94703",
-    "pdf_url": null,
+    "pdf_url": "https://openjournals.ugent.be/ewopinpractice/article/id/94703/download/pdf/",
     "doi": "10.21825/ewopinpractice.94703",
     "citations": 0,
     "venue": "EWOP in Practice",
-    "open_access": false,
+    "open_access": true,
     "ai_summary": "No abstract available."
   },
   {
@@ -217,6 +217,96 @@
     "ai_summary": "No abstract available."
   },
   {
+    "id": "openalex:W7128405138",
+    "title": "Essays on Financial Machine Learning: Nonlinearity, Predictability and Data-Theory Integration",
+    "abstract": "",
+    "authors": [
+      "Yinuo Wang"
+    ],
+    "published": "2031-01-01",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.17638/03195315",
+    "pdf_url": "https://doi.org/10.17638/03195315",
+    "doi": "10.17638/03195315",
+    "citations": 0,
+    "venue": "University of Liverpool",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7128501788",
+    "title": "APPLICATION OF MACHINE LEARNING FOR MASS CYTOMETRY DATA ANALYSIS OF CHRONIC LYMPHOCYTIC LEUKAEMIA",
+    "abstract": "",
+    "authors": [
+      "Muizdeen Raji"
+    ],
+    "published": "2031-01-01",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.17638/03192789",
+    "pdf_url": "https://doi.org/10.17638/03192789",
+    "doi": "10.17638/03192789",
+    "citations": 0,
+    "venue": "University of Liverpool",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7128392690",
+    "title": "Antecedents and consequences of Green-tech FDI in emerging markets",
+    "abstract": "",
+    "authors": [
+      "Zhuoran Liu"
+    ],
+    "published": "2031-01-01",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.17638/03195308",
+    "pdf_url": "https://doi.org/10.17638/03195308",
+    "doi": "10.17638/03195308",
+    "citations": 0,
+    "venue": "University of Liverpool",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7128624139",
+    "title": "Combating Data and Target Shifts in Visual Tasks",
+    "abstract": "",
+    "authors": [
+      "Zhaorui Tan"
+    ],
+    "published": "2031-01-01",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.17638/03194353",
+    "pdf_url": "https://doi.org/10.17638/03194353",
+    "doi": "10.17638/03194353",
+    "citations": 0,
+    "venue": "University of Liverpool",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7116362194",
+    "title": "MODELING HOSPITALITY AND TOURISM STRATEGIES",
+    "abstract": "",
+    "authors": [
+      "Di Zhu"
+    ],
+    "published": "2030-01-01",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.7273/000007504",
+    "pdf_url": "https://doi.org/10.7273/000007504",
+    "doi": "10.7273/000007504",
+    "citations": 0,
+    "venue": "Washington State University",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
     "id": "crossref:10.56251/watu4873",
     "title": "Machine Learning Application for SAIs",
     "abstract": "",
@@ -254,6 +344,78 @@
     "citations": 0,
     "venue": "International Journal of Government Auditing",
     "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W4310005602",
+    "title": "Journal of GIS based Historical Studies",
+    "abstract": "",
+    "authors": [
+      "JANGIS"
+    ],
+    "published": "2029-05-06",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.5281/zenodo.7368979",
+    "pdf_url": "https://zenodo.org/record/7368979",
+    "doi": "10.5281/zenodo.7368979",
+    "citations": 0,
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7128551175",
+    "title": "Development of an Advanced Artificial Intelligence-based Model (Deep Business Analytics) for Managing and Improving Control and Decision Making in Modern Organisations: Application in a Hospital Clinical Laboratory",
+    "abstract": "",
+    "authors": [
+      "Mahdi Seify"
+    ],
+    "published": "2029-01-01",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.17638/03194278",
+    "pdf_url": "https://doi.org/10.17638/03194278",
+    "doi": "10.17638/03194278",
+    "citations": 0,
+    "venue": "University of Liverpool",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7128043696",
+    "title": "A UAV-Based Framework for Community-Scale Residential Building Energy Modelling in China",
+    "abstract": "",
+    "authors": [
+      "Mengfan Jin"
+    ],
+    "published": "2029-01-01",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.17638/03195460",
+    "pdf_url": "https://doi.org/10.17638/03195460",
+    "doi": "10.17638/03195460",
+    "citations": 0,
+    "venue": "University of Liverpool",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7128020427",
+    "title": "Data Augmentation Application in Deep Learning Drug Discovery by Utilizing Relationships Between Biological and Medical Entities",
+    "abstract": "",
+    "authors": [
+      "Tianjun Wang"
+    ],
+    "published": "2029-01-01",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.17638/03195452",
+    "pdf_url": "https://doi.org/10.17638/03195452",
+    "doi": "10.17638/03195452",
+    "citations": 0,
+    "venue": "University of Liverpool",
+    "open_access": true,
     "ai_summary": "No abstract available."
   },
   {
@@ -320,27 +482,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.5705/ss.202026.0109",
-    "title": "Inference for Extreme Value Index Through Individualized Fusion Learning",
-    "abstract": "",
-    "authors": [
-      "Hongfang Sun",
-      "Yu Chen",
-      "Tao Xu",
-      "Zhengjun Zhang"
-    ],
-    "published": "2029",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.5705/ss.202026.0109",
-    "pdf_url": null,
-    "doi": "10.5705/ss.202026.0109",
-    "citations": 0,
-    "venue": "Statistica Sinica",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
     "id": "crossref:10.5705/ss.202025.0205",
     "title": "Sparsity Learning via Structured Functional Factor Augmentation",
     "abstract": "",
@@ -362,6 +503,27 @@
     "ai_summary": "No abstract available."
   },
   {
+    "id": "crossref:10.5705/ss.202026.0109",
+    "title": "Inference for Extreme Value Index Through Individualized Fusion Learning",
+    "abstract": "",
+    "authors": [
+      "Hongfang Sun",
+      "Yu Chen",
+      "Tao Xu",
+      "Zhengjun Zhang"
+    ],
+    "published": "2029",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.5705/ss.202026.0109",
+    "pdf_url": null,
+    "doi": "10.5705/ss.202026.0109",
+    "citations": 0,
+    "venue": "Statistica Sinica",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
     "id": "crossref:10.5705/ss.202025.0457",
     "title": "Sparse Additive Off-policy Evaluation for Reinforcement Learning with Potentially Limited Number of Trajectories",
     "abstract": "",
@@ -375,10 +537,67 @@
     "source": "Crossref",
     "category": "index",
     "url": "https://doi.org/10.5705/ss.202025.0457",
-    "pdf_url": "https://arxiv.org/pdf/2608.22595v1",
+    "pdf_url": null,
     "doi": "10.5705/ss.202025.0457",
     "citations": 0,
     "venue": "Statistica Sinica",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7128783899",
+    "title": "Advances in single-cell image cytometry enabled by nanowell imaging plates and machine learning",
+    "abstract": "",
+    "authors": [
+      "Samuel Guy Berryman"
+    ],
+    "published": "2028-01-01",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.14288/1.0451480",
+    "pdf_url": "https://doi.org/10.14288/1.0451480",
+    "doi": "10.14288/1.0451480",
+    "citations": 0,
+    "venue": "Open Collections",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7119928501",
+    "title": "Deep q-learning aided k-means clustering protocol for optimizing network lifetime in wireless sensor networks",
+    "abstract": "",
+    "authors": [
+      "Flynn Dowey"
+    ],
+    "published": "2028-01-01",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.14288/1.0451106",
+    "pdf_url": "https://doi.org/10.14288/1.0451106",
+    "doi": "10.14288/1.0451106",
+    "citations": 0,
+    "venue": "Open Collections",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7128502054",
+    "title": "Virtual Knapping (and Refitting) with Neural Networks: Proofs of Concept",
+    "abstract": "",
+    "authors": [
+      "F. Jordy Orellana",
+      "Jonathan Scott Reeves",
+      "Shannon Patrick McPherron",
+      "Claudio Tennie"
+    ],
+    "published": "2028-01-01",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.13140/rg.2.2.12669.63201",
+    "pdf_url": "https://doi.org/10.13140/rg.2.2.12669.63201",
+    "doi": "10.13140/rg.2.2.12669.63201",
+    "citations": 0,
+    "venue": "Unknown",
     "open_access": true,
     "ai_summary": "No abstract available."
   },
@@ -439,6 +658,27 @@
     "ai_summary": "Research paper will debate role played by principals in teaching and learning process . Research will embrace a quantitative research design that will seek to answer the question about the relationship between leadership skills of principals and teaching-learning process ."
   },
   {
+    "id": "crossref:10.1504/ijims.2028.10076630",
+    "title": "Left Ventricle Extraction Using a DENSENET-U-Net Integrated Deep Learning Approach",
+    "abstract": "",
+    "authors": [
+      "X. Ignatious Viola",
+      "R. Shoba Rani",
+      "G. Savitha",
+      "R. Surekha"
+    ],
+    "published": "2028",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.1504/ijims.2028.10076630",
+    "pdf_url": null,
+    "doi": "10.1504/ijims.2028.10076630",
+    "citations": 0,
+    "venue": "International Journal of Internet Manufacturing and Services",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
     "id": "crossref:10.1504/ijims.2028.10081208",
     "title": "Enhancements to the Deep Learning Architecture for Metaverse Integration in Medical Image Processing",
     "abstract": "",
@@ -461,23 +701,22 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.1504/ijims.2028.10076630",
-    "title": "Left Ventricle Extraction Using a DENSENET-U-Net Integrated Deep Learning Approach",
+    "id": "crossref:10.1504/ijil.2028.10079816",
+    "title": "Inserting science: an interdisciplinary, hands-on lesson to enhance scientific literacy in marketing education",
     "abstract": "",
     "authors": [
-      "X. Ignatious Viola",
-      "R. Shoba Rani",
-      "G. Savitha",
-      "R. Surekha"
+      "Emily M. Moscato",
+      "Ernest Baskin",
+      "Brian M. Forster"
     ],
     "published": "2028",
     "source": "Crossref",
     "category": "index",
-    "url": "https://doi.org/10.1504/ijims.2028.10076630",
+    "url": "https://doi.org/10.1504/ijil.2028.10079816",
     "pdf_url": null,
-    "doi": "10.1504/ijims.2028.10076630",
+    "doi": "10.1504/ijil.2028.10079816",
     "citations": 0,
-    "venue": "International Journal of Internet Manufacturing and Services",
+    "venue": "International Journal of Innovation and Learning",
     "open_access": false,
     "ai_summary": "No abstract available."
   },
@@ -501,6 +740,24 @@
     "ai_summary": "No abstract available."
   },
   {
+    "id": "crossref:10.1504/ijaac.2028.10080905",
+    "title": "Innovative deep learning computational approach for wheat disease detection employing faster region-based convolutional neural network",
+    "abstract": "",
+    "authors": [
+      "Shikai Zhou"
+    ],
+    "published": "2028",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.1504/ijaac.2028.10080905",
+    "pdf_url": null,
+    "doi": "10.1504/ijaac.2028.10080905",
+    "citations": 0,
+    "venue": "International Journal of Automation and Control",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
     "id": "crossref:10.1504/ijims.2028.10076831",
     "title": "A Hybrid Huffman-CNN-AES Deep Learning Framework for Secure Medical Image Steganography: H-CADStego",
     "abstract": "",
@@ -520,46 +777,124 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.1504/ijbpm.2028.10081045",
-    "title": "Evaluating teaching methods for mature learners: a mixed-methods investigation of learning preferences in higher education",
+    "id": "openalex:W7171671418",
+    "title": "Funding Innovation for Future-Ready Healthcare Systems",
     "abstract": "",
     "authors": [
-      "Nick Papé",
-      "Nazim Uddin",
-      "Rahaman Hasan",
-      "Tommie Anderson Jaquest",
-      "Ilias Mahmud",
-      "Gerry Takamura",
-      "Jonathan Liu"
+      "Prof. Ramya HP Mr. Achhuth N"
     ],
-    "published": "2028",
-    "source": "Crossref",
+    "published": "2027-07-29",
+    "source": "OpenAlex",
     "category": "index",
-    "url": "https://doi.org/10.1504/ijbpm.2028.10081045",
-    "pdf_url": null,
-    "doi": "10.1504/ijbpm.2028.10081045",
+    "url": "https://doi.org/10.5281/zenodo.21672368",
+    "pdf_url": "https://doi.org/10.5281/zenodo.21672368",
+    "doi": "10.5281/zenodo.21672368",
     "citations": 0,
-    "venue": "International Journal of Business Performance Management",
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7136156022",
+    "title": "MODELING AND CHARACTERIZATION OF ALGAL GROWTH IN ANAEROBIC DIGESTION WASTEWATER FOR PROCESS OPTIMIZATION",
+    "abstract": "",
+    "authors": [
+      "S. M. Hasan Shahriar Rahat"
+    ],
+    "published": "2027-01-01",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.7273/000008004",
+    "pdf_url": "https://doi.org/10.7273/000008004",
+    "doi": "10.7273/000008004",
+    "citations": 0,
+    "venue": "Washington State University",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7128090912",
+    "title": "From Sparse to Dense: Label-Efficient Weakly Supervised Segmentation for Images and Videos",
+    "abstract": "",
+    "authors": [
+      "Jian Wang"
+    ],
+    "published": "2027-01-01",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.17638/03195330",
+    "pdf_url": "https://doi.org/10.17638/03195330",
+    "doi": "10.17638/03195330",
+    "citations": 0,
+    "venue": "University of Liverpool",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7128491580",
+    "title": "Unsupervised Deep-learning Methods for Low-dose Computed Tomography Reconstruction",
+    "abstract": "",
+    "authors": [
+      "Ran An"
+    ],
+    "published": "2027-01-01",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.17638/03194237",
+    "pdf_url": "https://doi.org/10.17638/03194237",
+    "doi": "10.17638/03194237",
+    "citations": 0,
+    "venue": "University of Liverpool",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7211975381",
+    "title": "Application and feasibility analysis of random Forest models in safety prediction for transition metal-doped Na3V2(PO4)3 sodium-ion batteries.",
+    "abstract": "",
+    "authors": [
+      "Que Huang",
+      "Rui Du",
+      "Xu Yang",
+      "Yanwu Yu",
+      "Zirui Guo",
+      "Guohui Li",
+      "Qinpei Chen",
+      "Jianghui Xie",
+      "Hongyuan Ding",
+      "Junchao Zhao",
+      "Changcheng Liu"
+    ],
+    "published": "2027-01-01",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.1016/j.jcis.2026.141499",
+    "pdf_url": null,
+    "doi": "10.1016/j.jcis.2026.141499",
+    "citations": 0,
+    "venue": "PubMed",
     "open_access": false,
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.1504/ijil.2028.10079816",
-    "title": "Inserting science: an interdisciplinary, hands-on lesson to enhance scientific literacy in marketing education",
+    "id": "openalex:W7212699939",
+    "title": "Development and validation of a machine learning-based predictive model for prognosis in cerebral hemorrhage patients after hyperbaric oxygen therapy.",
     "abstract": "",
     "authors": [
-      "Emily M. Moscato",
-      "Ernest Baskin",
-      "Brian M. Forster"
+      "Congyi Ding",
+      "Jun Wu",
+      "Guangning Zhang",
+      "Xiaoming Feng",
+      "Jieyang Zhu"
     ],
-    "published": "2028",
-    "source": "Crossref",
+    "published": "2027-01-01",
+    "source": "OpenAlex",
     "category": "index",
-    "url": "https://doi.org/10.1504/ijil.2028.10079816",
+    "url": "https://doi.org/10.4103/mgr.medgasres-d-25-00168",
     "pdf_url": null,
-    "doi": "10.1504/ijil.2028.10079816",
+    "doi": "10.4103/mgr.medgasres-d-25-00168",
     "citations": 0,
-    "venue": "International Journal of Innovation and Learning",
+    "venue": "PubMed",
     "open_access": false,
     "ai_summary": "No abstract available."
   },
@@ -697,61 +1032,629 @@
     "ai_summary": "Formaldehyde (HCHO) is a globally distributed ambient air pollutant associated with respiratory disease, cancer, and premature mortality . HCHO is strongly affected by natural sources such as vegetation and wildfires, which are highly sensitive to temperature and drought ."
   },
   {
-    "id": "arxiv:2609.28459v1",
-    "title": "Even Sharper Bounds for Transductive Learning and Its Applications",
-    "abstract": "We introduce Sharper Transductive Local Complexity (STLC), a localized complexity method for transductive learning under uniform sampling without replacement. The construction starts from a Bernstein-type concentration inequality for the supremum of the test--train empirical process. Its proof uses the modified log-Sobolev inequality for the swap walk and a two-parameter entropy closure. A peeling argument with a surrogate localization functional then gives excess-risk bounds with the same fixed-point and confidence terms as the classical inductive local Rademacher-complexity bounds, without the additional logarithmic confidence factor in earlier transductive results. For realizable learning over a binary class of VC dimension $\\dVC$, with training size $m$, test size $u$, and $u\\ge m\\ge\\dVC$, STLC yields $\\cO\\{\\dVC\\log(me/\\dVC)/m\\}$. This matches the standard inductive rate and, when $m\\ge9$, is within a logarithmic factor of the transductive minimax lower bound of order $\\dVC/m$. For transductive kernel learning, STLC gives a spectrum-adaptive excess-risk bound without the multiplicative imbalance factors appearing in the earlier local-complexity bound.",
+    "id": "openalex:W7118720654",
+    "title": "ETHICAL CONSIDERATIONS AND POLICY FRAMEWORKS FOR TEACHING WITH ARTIFICIAL INTELLIGENCE IN SECONDARY SCHOOL SETTINGS",
+    "abstract": "",
     "authors": [
-      "Yingzhen Yang"
+      "Asma Khalid,Dr. Naveed Azmat, Nafeesa Rani"
     ],
-    "published": "2026-09-23",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2609.28459v1",
-    "pdf_url": "https://arxiv.org/pdf/2609.28459v1",
-    "doi": null,
+    "published": "2026-12-31",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.5281/zenodo.18161737",
+    "pdf_url": "https://doi.org/10.5281/zenodo.18161737",
+    "doi": "10.5281/zenodo.18161737",
     "citations": 0,
-    "venue": "arXiv preprint",
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
     "open_access": true,
-    "ai_summary": "Sharper Transductive Local Complexity (STLC) is a localized complexity method for transductive learning under uniform sampling without replacement . The construction starts from a Bernstein-type concentration inequality for the supremum of the test--train empirical process ."
+    "ai_summary": "No abstract available."
   },
   {
-    "id": "arxiv:2609.28467v1",
-    "title": "Where Should I Join? Robot Group Joining via Language-Guided Goal Prediction",
-    "abstract": "Social navigation typically assumes a specified goal and focuses on reaching it while respecting social conventions, whereas robot group joining requires predicting where to join based on the group's real-time activity and formation. This is a highly semantic task, yet an important capability for applications such as robotic guide dogs and autonomous mobility scooters. We formulate language-grounded robot group joining: given an observation and a natural-language description of a target group, the robot identifies the relevant group members and predicts socially compliant joining poses. For grounding, we generate structured candidate subsets through recursive spectral partitioning and rank them with a language-conditioned image--geometry model. Given the grounded group, a goal predictor leverages human-formation priors to produce a multimodal energy--orientation map over feasible robot poses. Experiments on conversations, queues, and audiences across varying group sizes, crowd densities, and visual ambiguities show that our method achieves competitive grounding accuracy with sub-second inference and outperforms all baselines in joining-pose prediction. Real-robot experiments further demonstrate group joining in both static and dynamically changing interactions.",
+    "id": "openalex:W7118979476",
+    "title": "TRANSFORMING GOVERNMENT SERVICE DELIVERY THROUGH ARTIFICIAL INTELLIGENCE",
+    "abstract": "",
     "authors": [
-      "Zilin Fang",
-      "Zishuo Wang",
-      "Gim Hee Lee",
-      "David Hsu"
+      "Muhammad Sohail Munir, Ibne Saud, Dr Naima Mubeen, Nida Anjum,Gulzar Ahmad"
     ],
-    "published": "2026-09-23",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2609.28467v1",
-    "pdf_url": "https://arxiv.org/pdf/2609.28467v1",
-    "doi": null,
+    "published": "2026-12-31",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.5281/zenodo.18162573",
+    "pdf_url": "https://doi.org/10.5281/zenodo.18162573",
+    "doi": "10.5281/zenodo.18162573",
     "citations": 0,
-    "venue": "arXiv preprint",
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
     "open_access": true,
-    "ai_summary": "Social navigation typically assumes a specified goal and focuses on reaching it while respecting social conventions . We formulate language-grounded robot group joining: given an observation and a natural-language description of a target group, the robot identifies the relevant group members and predicts socially compliant joining poses ."
+    "ai_summary": "No abstract available."
   },
   {
-    "id": "arxiv:2609.28471v1",
-    "title": "Contrastive Learning for Authorship Verification",
-    "abstract": "Our results show that contrastive learning outperforms a classification-based approach to authorship verification under the tested settings. We identify loss function, batch size, training duration, pre-trained model, input context length, and random text span data augmentation as important factors of model performance. Based on these considerations, we develop a ModernBERT Bi-Encoder model that achieves 98.4% accuracy on the PAN21 authorship verification task.",
+    "id": "openalex:W7154463656",
+    "title": "NUISS: A User-Centered Prototype for International Student Administrative Support",
+    "abstract": "",
     "authors": [
-      "Peter Kirby"
+      "Juanjuan Huang",
+      "Cuicui Li"
     ],
-    "published": "2026-09-23",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2609.28471v1",
-    "pdf_url": "https://arxiv.org/pdf/2609.28471v1",
+    "published": "2026-12-31",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.17613/jddaq-h8321",
+    "pdf_url": "https://pub.respai.de/articles/1-1/is1-10.pdf",
+    "doi": "10.17613/jddaq-h8321",
+    "citations": 0,
+    "venue": "Unknown",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7162399187",
+    "title": "Human vs machine judgment in safety-critical logistics: a philosophical inquiry into trust and control",
+    "abstract": "",
+    "authors": [
+      "Martyna Bąchorek",
+      "Wiktoria Izdebska",
+      "Gustaw Krakowiak"
+    ],
+    "published": "2026-12-31",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.5281/zenodo.20402506",
+    "pdf_url": "https://doi.org/10.5281/zenodo.20402506",
+    "doi": "10.5281/zenodo.20402506",
+    "citations": 0,
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7161111530",
+    "title": "From Embedded Finance to Embedded Obligation: A Law-and-Economics Theory of Consumer Protection in Platform-Mediated Financial Services",
+    "abstract": "",
+    "authors": [
+      "Yongxin Chen"
+    ],
+    "published": "2026-12-31",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.17613/sb76m-v2e23",
+    "pdf_url": "https://pub.respai.de/articles/1-2/is2-2.pdf",
+    "doi": "10.17613/sb76m-v2e23",
+    "citations": 0,
+    "venue": "Unknown",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7162095276",
+    "title": "SOAR: Smooth Online Activation Routing for Stable Neural Learning from Evolving Streams",
+    "abstract": "",
+    "authors": [
+      "Sizhen Niu"
+    ],
+    "published": "2026-12-31",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.17613/nzztb-q4520",
+    "pdf_url": "https://pub.respai.de/articles/1-2/is2-3.pdf",
+    "doi": "10.17613/nzztb-q4520",
+    "citations": 0,
+    "venue": "Unknown",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7164131933",
+    "title": "The Role of Generative Artificial Intelligence in Korean Language Learning: Applications, Challenges, and Instructional Strategies",
+    "abstract": "",
+    "authors": [
+      "Yundong Wu"
+    ],
+    "published": "2026-12-31",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.17613/g7mbr-1s626",
+    "pdf_url": "https://pub.respai.de/articles/1-2/is2-5.pdf",
+    "doi": "10.17613/g7mbr-1s626",
+    "citations": 0,
+    "venue": "Unknown",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7164183113",
+    "title": "The Sociolinguistics of Machine Identity: LLM Personality and Ideology Propagation",
+    "abstract": "",
+    "authors": [
+      "Guangni Li"
+    ],
+    "published": "2026-12-31",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.17613/fdwhn-ejz93",
+    "pdf_url": "https://pub.respai.de/articles/1-2/is2-4.pdf",
+    "doi": "10.17613/fdwhn-ejz93",
+    "citations": 0,
+    "venue": "Unknown",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7118072583",
+    "title": "Identification of Meat Contamination using Deep Learning",
+    "abstract": "",
+    "authors": [
+      "Annual Methodological Archive Research Review"
+    ],
+    "published": "2026-12-31",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.5281/zenodo.18130809",
+    "pdf_url": "https://doi.org/10.5281/zenodo.18130809",
+    "doi": "10.5281/zenodo.18130809",
+    "citations": 0,
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7121465138",
+    "title": "DYNAMICS OF PORTFOLIO ASSESSMENT STRATEGY IN EVALUATING THE ENGLISH LANGUAGE SKILLS FOR PUPILS WITH HEARING IMPAIRMENTS IN FAKO DIVISION, SOUTH WEST REGION OF CAMEROON",
+    "abstract": "",
+    "authors": [
+      "Ngenwie Emilia Tanyie",
+      "Therese Mungah Shalo Tchombe"
+    ],
+    "published": "2026-12-31",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.5281/zenodo.18206766",
+    "pdf_url": "https://ubueajournals.org/index.php/IJDIEH/article/download/28/24",
+    "doi": "10.5281/zenodo.18206766",
+    "citations": 0,
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7170146433",
+    "title": "Regulating the Frontier: Model-Level Evidence from the EU AI Act",
+    "abstract": "",
+    "authors": [
+      "Han Li"
+    ],
+    "published": "2026-12-31",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.17613/8rga5-9wc04",
+    "pdf_url": "https://philpapers.org/archive/LIRTFO.pdf",
+    "doi": "10.17613/8rga5-9wc04",
+    "citations": 0,
+    "venue": "PhilPapers (PhilPapers Foundation)",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7203455470",
+    "title": "Digital-Twin-Driven Predictive Maintenance and Fault-Tolerant Control for Electrified Agricultural Machinery: A Multiphysics and Deep Reinforcement Learning Framework for PMSM In-Wheel Drives",
+    "abstract": "",
+    "authors": [
+      "Hongyu Xia"
+    ],
+    "published": "2026-12-31",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.17613/765dw-e3t58",
+    "pdf_url": "https://philpapers.org/archive/XIADPM.pdf",
+    "doi": "10.17613/765dw-e3t58",
+    "citations": 0,
+    "venue": "PhilPapers (PhilPapers Foundation)",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7166533473",
+    "title": "Research on Attention Guidance and User Autonomy in AI-Powered Immersive Environments",
+    "abstract": "",
+    "authors": [
+      "Mulin Qiao"
+    ],
+    "published": "2026-12-31",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.17613/vpe2q-5qg42",
+    "pdf_url": "https://philpapers.org/archive/QIAROA.pdf",
+    "doi": "10.17613/vpe2q-5qg42",
+    "citations": 0,
+    "venue": "PhilPapers (PhilPapers Foundation)",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7170437289",
+    "title": "A Study on the Mechanism and Ways to Improve New-Quality Productivity of Enterprises Driven by AI and the Digital Economy",
+    "abstract": "",
+    "authors": [
+      "Changhong Dong",
+      "Songwei Pan",
+      "Jingyao WANG"
+    ],
+    "published": "2026-12-31",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.17613/v53h3-s4978",
+    "pdf_url": "https://philpapers.org/archive/DONASO-4.pdf",
+    "doi": "10.17613/v53h3-s4978",
+    "citations": 0,
+    "venue": "PhilPapers (PhilPapers Foundation)",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7203902930",
+    "title": "HF-CAM: A Hard Prototype Anchored Concept Activation Mapping for Interpretable Deep Learning",
+    "abstract": "",
+    "authors": [
+      "Yuan Liu"
+    ],
+    "published": "2026-12-31",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.17613/x2pvf-hn714",
+    "pdf_url": "https://works.hcommons.org:x2pvf-hn714",
+    "doi": "10.17613/x2pvf-hn714",
+    "citations": 0,
+    "venue": "Unknown",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7158836996",
+    "title": "Beyond GDPR: The Architectural Challenge of Data Sovereignty and Confidential Computing in the Post-2024 Era",
+    "abstract": "",
+    "authors": [
+      "Mr. Tayabur Rahman Laskar"
+    ],
+    "published": "2026-12-18",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.5281/zenodo.19918373",
+    "pdf_url": "https://doi.org/10.5281/zenodo.19918373",
+    "doi": "10.5281/zenodo.19918373",
+    "citations": 0,
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7197044566",
+    "title": "Sequence-based artificial intelligence-guided inhibitory peptides to counteract AAV neutralizing antibodies in gene therapy.",
+    "abstract": "",
+    "authors": [
+      "Bingqi Xu",
+      "Xin Zhang",
+      "Dandan Yu",
+      "Panjing Wang",
+      "Ying Chi",
+      "Wei Liu",
+      "Feng Xue",
+      "Lingling Chen",
+      "Huiyuan Li",
+      "Wentian Wang",
+      "Yunfei Chen",
+      "Xiaofan Liu",
+      "Rongfeng Fu",
+      "Renchi Yang",
+      "Wenwei Shao",
+      "Siwei Yu",
+      "Xiaolei Pei",
+      "Lei Zhang"
+    ],
+    "published": "2026-12-10",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.1016/j.omta.2026.201832",
+    "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13572001/pdf/main.pdf",
+    "doi": "10.1016/j.omta.2026.201832",
+    "citations": 0,
+    "venue": "PubMed",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7212381432",
+    "title": "Complexity and Entropy Trade-offs in Deep Neural Network Representations",
+    "abstract": "",
+    "authors": [
+      "Peter Malek",
+      "Michaela Zeman",
+      "Andrej Havel"
+    ],
+    "published": "2026-12-03",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.5281/zenodo.22698616",
+    "pdf_url": "https://doi.org/10.5281/zenodo.22698616",
+    "doi": "10.5281/zenodo.22698616",
+    "citations": 0,
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7212447837",
+    "title": "Averrhoa bilimbi L. Juice: An efficient natural acid catalyst for the green synthesis of dihydropyrimidinone-1,2,3-triazole.",
+    "abstract": "",
+    "authors": [
+      "Bayu Ardiansah",
+      "Jonathan Evan",
+      "Jumina",
+      "Mardi Santoso",
+      "Hiroki Tanimoto",
+      "Nur Rohman",
+      "Antonius Herry Cahyana"
+    ],
+    "published": "2026-12-01",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.1016/j.mex.2026.104106",
+    "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13563249/pdf/main.pdf",
+    "doi": "10.1016/j.mex.2026.104106",
+    "citations": 0,
+    "venue": "PubMed",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7213350615",
+    "title": "TinZr: A compact wireless ESP32-C3 platform for multi-modal physiological sensor integration and data acquisition.",
+    "abstract": "",
+    "authors": [
+      "Ludvik Alkhoury",
+      "Tony Moore",
+      "Petras Swissler",
+      "N Jeremy Hill",
+      "Sudhin A. Shah",
+      "Moshe Kam"
+    ],
+    "published": "2026-12-01",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.1016/j.ohx.2026.e00833",
+    "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13572519/pdf/main.pdf",
+    "doi": "10.1016/j.ohx.2026.e00833",
+    "citations": 0,
+    "venue": "PubMed",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7131071032",
+    "title": "Future of AI in English Language Education: Trends and Predictions",
+    "abstract": "",
+    "authors": [
+      "Prof. Jagadeesh Nerlekar",
+      "K Munianjinappa"
+    ],
+    "published": "2026-12-01",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.5281/zenodo.18739462",
+    "pdf_url": "https://doi.org/10.5281/zenodo.18739462",
+    "doi": "10.5281/zenodo.18739462",
+    "citations": 0,
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7212247679",
+    "title": "Navigating the Code Review Process as a Team: A Case Study",
+    "abstract": "",
+    "authors": [
+      "Abbey Joy Roelofs"
+    ],
+    "published": "2026-10-19",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.5281/zenodo.22711702",
+    "pdf_url": "https://doi.org/10.5281/zenodo.22711702",
+    "doi": "10.5281/zenodo.22711702",
+    "citations": 0,
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7213591811",
+    "title": "PALYIM: A Modular, Open-Source Science Gateway for AI-Enabled Palynology Image Analysis",
+    "abstract": "",
+    "authors": [
+      "Sandeep Puthanveetil Satheesan",
+      "Luigi Marini",
+      "Shu Kong",
+      "Carlos Alberto Jaramillo",
+      "Kenton G. McHenry",
+      "Charless C. Fowlkes",
+      "Surangi W. Punyasena"
+    ],
+    "published": "2026-10-19",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.5281/zenodo.22820350",
+    "pdf_url": "https://doi.org/10.5281/zenodo.22820350",
+    "doi": "10.5281/zenodo.22820350",
+    "citations": 0,
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7213274592",
+    "title": "Big data research: the importance of the data-generating process and domain expertise.",
+    "abstract": "",
+    "authors": [
+      "Jordan W. Smoller"
+    ],
+    "published": "2026-10-01",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.1002/wps.70086",
+    "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13576976/pdf/WPS-25-415.pdf",
+    "doi": "10.1002/wps.70086",
+    "citations": 0,
+    "venue": "PubMed",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7213712552",
+    "title": "Learning Opportunities 2026/2027",
+    "abstract": "",
+    "authors": [
+      "Illinois Math and Science Academy"
+    ],
+    "published": "2026-10-01",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://openalex.org/W7213712552",
+    "pdf_url": "https://digitalcommons.imsa.edu/cgi/viewcontent.cgi?article=1029&context=course_catalogs",
     "doi": null,
     "citations": 0,
-    "venue": "arXiv preprint",
+    "venue": "DigitalCommons-IMSA (Illinois Mathematics and Science Academy)",
     "open_access": true,
-    "ai_summary": "A ModernBERT Bi-Encoder model achieves 98.4% accuracy on the PAN21 authorship verification task . We identify loss function, batch size, training duration, pre-trained model, input context length, and random text span data augmentation ."
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7162760937",
+    "title": "Simultaneous Cortical Responses to Multiple Written Words",
+    "abstract": "",
+    "authors": [
+      "Vassiki Chauhan",
+      "Krystal McCook",
+      "Mariam Latif",
+      "Alex White"
+    ],
+    "published": "2026-10-01",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.1162/jocn.a.2624",
+    "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13569480/pdf/jocn-38-10-1961.pdf",
+    "doi": "10.1162/jocn.a.2624",
+    "citations": 0,
+    "venue": "PubMed Central",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7203800451",
+    "title": "Ethical agency and worker precarity amid polycrisis: a protest narrative analysis",
+    "abstract": "",
+    "authors": [
+      "Zhangzhong Huang",
+      "Zaheer Abbas",
+      "Talib Hussain",
+      "Seung Won Lee"
+    ],
+    "published": "2026-10-01",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://openalex.org/W7203800451",
+    "pdf_url": "http://www.scielo.cl/pdf/abioeth/v32n2/1726-569X-abioeth-32-02-377.pdf",
+    "doi": null,
+    "citations": 0,
+    "venue": "Scientific Electronic Library Online (Scientific Electronic Library Online)",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7203802238",
+    "title": "Oil, light, gift, and trust: a comparative analysis of metaphor relating to human biomedical data",
+    "abstract": "",
+    "authors": [
+      "Yifan Peng"
+    ],
+    "published": "2026-10-01",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://openalex.org/W7203802238",
+    "pdf_url": "http://www.scielo.cl/pdf/abioeth/v32n2/1726-569X-abioeth-32-02-213.pdf",
+    "doi": null,
+    "citations": 0,
+    "venue": "Scientific Electronic Library Online (Scientific Electronic Library Online)",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7204678146",
+    "title": "Extending SDN control for programmable data planes in advanced 6G network scenarios",
+    "abstract": "",
+    "authors": [
+      "Manuel Álvarez-Campana Fernández-Corredor",
+      "Diego Rivera Pinto",
+      "Marta Blanco Caamaño",
+      "Jose Ignacio Moreno Novella",
+      "Silvia Mauleón Hortelano",
+      "Georgios P. Katsikas"
+    ],
+    "published": "2026-10-01",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://openalex.org/W7204678146",
+    "pdf_url": "https://oa.upm.es/97517/1/1-s2.0-S1389128626006912-main.pdf",
+    "doi": null,
+    "citations": 0,
+    "venue": "Archivo Digital UPM (Universidad Politécnica de Madrid)",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7213331983",
+    "title": "Big data and psychiatry: advances, constraints and future directions.",
+    "abstract": "",
+    "authors": [
+      "Dan J Stein",
+      "Ronald C Kessler",
+      "John Torous",
+      "Hugh Garavan",
+      "Odile A. van den Heuvel",
+      "Eske M. Derks",
+      "Carol Mathews",
+      "Pim Cuijpers",
+      "Giovanni A Salum",
+      "Ole A Andreassen",
+      "Paul M Thompson",
+      "Brenda W J Penninx",
+      "John J McGrath"
+    ],
+    "published": "2026-10-01",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.1002/wps.70113",
+    "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13576980/pdf/WPS-25-388.pdf",
+    "doi": "10.1002/wps.70113",
+    "citations": 0,
+    "venue": "PubMed",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7214045002",
+    "title": "हद भष क वकस म कतरम बदधमतत और समरट तकनक क भमक",
+    "abstract": "",
+    "authors": [
+      "प्राजक्ता प्रकाश कोळेकर",
+      "वंदना प्रकाश पाटील"
+    ],
+    "published": "2026-09-30",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.5281/zenodo.22894162",
+    "pdf_url": "https://doi.org/10.5281/zenodo.22894162",
+    "doi": "10.5281/zenodo.22894162",
+    "citations": 0,
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "open_access": true,
+    "ai_summary": "No abstract available."
   },
   {
     "id": "arxiv:2609.28470v1",
@@ -775,6 +1678,90 @@
     "venue": "arXiv preprint",
     "open_access": true,
     "ai_summary": "StudentBench is a suite of AI teaching evaluations and a public platform that enables large-scale data collection . It was used to study whether large language models produce learning gains equivalent to human tutoring . In five of the seven GRE domains, the best performing AI tutor surpassed the human tutor, on average ."
+  },
+  {
+    "id": "arxiv:2609.28459v1",
+    "title": "Even Sharper Bounds for Transductive Learning and Its Applications",
+    "abstract": "We introduce Sharper Transductive Local Complexity (STLC), a localized complexity method for transductive learning under uniform sampling without replacement. The construction starts from a Bernstein-type concentration inequality for the supremum of the test--train empirical process. Its proof uses the modified log-Sobolev inequality for the swap walk and a two-parameter entropy closure. A peeling argument with a surrogate localization functional then gives excess-risk bounds with the same fixed-point and confidence terms as the classical inductive local Rademacher-complexity bounds, without the additional logarithmic confidence factor in earlier transductive results. For realizable learning over a binary class of VC dimension $\\dVC$, with training size $m$, test size $u$, and $u\\ge m\\ge\\dVC$, STLC yields $\\cO\\{\\dVC\\log(me/\\dVC)/m\\}$. This matches the standard inductive rate and, when $m\\ge9$, is within a logarithmic factor of the transductive minimax lower bound of order $\\dVC/m$. For transductive kernel learning, STLC gives a spectrum-adaptive excess-risk bound without the multiplicative imbalance factors appearing in the earlier local-complexity bound.",
+    "authors": [
+      "Yingzhen Yang"
+    ],
+    "published": "2026-09-23",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2609.28459v1",
+    "pdf_url": "https://arxiv.org/pdf/2609.28459v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "Sharper Transductive Local Complexity (STLC) is a localized complexity method for transductive learning under uniform sampling without replacement . The construction starts from a Bernstein-type concentration inequality for the supremum of the test--train empirical process ."
+  },
+  {
+    "id": "arxiv:2609.28471v1",
+    "title": "Contrastive Learning for Authorship Verification",
+    "abstract": "Our results show that contrastive learning outperforms a classification-based approach to authorship verification under the tested settings. We identify loss function, batch size, training duration, pre-trained model, input context length, and random text span data augmentation as important factors of model performance. Based on these considerations, we develop a ModernBERT Bi-Encoder model that achieves 98.4% accuracy on the PAN21 authorship verification task.",
+    "authors": [
+      "Peter Kirby"
+    ],
+    "published": "2026-09-23",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2609.28471v1",
+    "pdf_url": "https://arxiv.org/pdf/2609.28471v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "A ModernBERT Bi-Encoder model achieves 98.4% accuracy on the PAN21 authorship verification task . We identify loss function, batch size, training duration, pre-trained model, input context length, and random text span data augmentation ."
+  },
+  {
+    "id": "arxiv:2609.28467v1",
+    "title": "Where Should I Join? Robot Group Joining via Language-Guided Goal Prediction",
+    "abstract": "Social navigation typically assumes a specified goal and focuses on reaching it while respecting social conventions, whereas robot group joining requires predicting where to join based on the group's real-time activity and formation. This is a highly semantic task, yet an important capability for applications such as robotic guide dogs and autonomous mobility scooters. We formulate language-grounded robot group joining: given an observation and a natural-language description of a target group, the robot identifies the relevant group members and predicts socially compliant joining poses. For grounding, we generate structured candidate subsets through recursive spectral partitioning and rank them with a language-conditioned image--geometry model. Given the grounded group, a goal predictor leverages human-formation priors to produce a multimodal energy--orientation map over feasible robot poses. Experiments on conversations, queues, and audiences across varying group sizes, crowd densities, and visual ambiguities show that our method achieves competitive grounding accuracy with sub-second inference and outperforms all baselines in joining-pose prediction. Real-robot experiments further demonstrate group joining in both static and dynamically changing interactions.",
+    "authors": [
+      "Zilin Fang",
+      "Zishuo Wang",
+      "Gim Hee Lee",
+      "David Hsu"
+    ],
+    "published": "2026-09-23",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2609.28467v1",
+    "pdf_url": "https://arxiv.org/pdf/2609.28467v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "Social navigation typically assumes a specified goal and focuses on reaching it while respecting social conventions . We formulate language-grounded robot group joining: given an observation and a natural-language description of a target group, the robot identifies the relevant group members and predicts socially compliant joining poses ."
+  },
+  {
+    "id": "arxiv:2609.28473v1",
+    "title": "On the Diffusibility of High-Dimensional Latents",
+    "abstract": "Representation Autoencoders (RAEs) enable diffusion models to operate in the feature spaces of pretrained visual encoders. However, many off-the-shelf encoders are not optimized for faithful reconstruction, discarding fine-grained visual details. As expected, finetuning these encoders for image reconstruction recovers such details. However, perhaps counterintuitively, this procedure reduces the effective dimensionality of the resulting representation, and the altered geometry has downstream effects on generation. Specifically, we show that using the standard velocity prediction in flow matching in this high-dimensional space requires the model to fit orthogonal noise directions outside the low-dimensional signal manifold, making optimization inefficient. This motivates using the clean data parameterization ($\\boldsymbol{x}_{0}$-prediction) instead, which focuses learning on the underlying signal manifold. Across experiments with multiple strong-reconstruction encoders, we show that $\\boldsymbol{x}_{0}$-prediction consistently improves text-to-image generation performance.",
+    "authors": [
+      "Chao Feng",
+      "Zhiyang Xu",
+      "Bowei Chen",
+      "Yuanjun Xiong",
+      "Xiyao Wang",
+      "Jui-Hsien Wang",
+      "Richard Zhang",
+      "Zhe Lin",
+      "Andrew Owens",
+      "Yijun Li"
+    ],
+    "published": "2026-09-23",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2609.28473v1",
+    "pdf_url": "https://arxiv.org/pdf/2609.28473v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "Many off-the-shelf encoders are not optimized for faithful reconstruction, discarding fine-grained visual details . As expected, finetuning these encoder for image reconstruction recovers such details . This procedure reduces the effective dimensionality of the resulting representation ."
   },
   {
     "id": "arxiv:2609.28466v1",
@@ -817,33 +1804,6 @@
     "venue": "arXiv preprint",
     "open_access": true,
     "ai_summary": "Advances in generative models have improved video fidelity, enabling long-horizon generation, interactive world modeling, and evolving visual environments . But as the generated sequence expands, practical models must operate under strictly bounded context windows ."
-  },
-  {
-    "id": "arxiv:2609.28473v1",
-    "title": "On the Diffusibility of High-Dimensional Latents",
-    "abstract": "Representation Autoencoders (RAEs) enable diffusion models to operate in the feature spaces of pretrained visual encoders. However, many off-the-shelf encoders are not optimized for faithful reconstruction, discarding fine-grained visual details. As expected, finetuning these encoders for image reconstruction recovers such details. However, perhaps counterintuitively, this procedure reduces the effective dimensionality of the resulting representation, and the altered geometry has downstream effects on generation. Specifically, we show that using the standard velocity prediction in flow matching in this high-dimensional space requires the model to fit orthogonal noise directions outside the low-dimensional signal manifold, making optimization inefficient. This motivates using the clean data parameterization ($\\boldsymbol{x}_{0}$-prediction) instead, which focuses learning on the underlying signal manifold. Across experiments with multiple strong-reconstruction encoders, we show that $\\boldsymbol{x}_{0}$-prediction consistently improves text-to-image generation performance.",
-    "authors": [
-      "Chao Feng",
-      "Zhiyang Xu",
-      "Bowei Chen",
-      "Yuanjun Xiong",
-      "Xiyao Wang",
-      "Jui-Hsien Wang",
-      "Richard Zhang",
-      "Zhe Lin",
-      "Andrew Owens",
-      "Yijun Li"
-    ],
-    "published": "2026-09-23",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2609.28473v1",
-    "pdf_url": "https://arxiv.org/pdf/2609.28473v1",
-    "doi": null,
-    "citations": 0,
-    "venue": "arXiv preprint",
-    "open_access": true,
-    "ai_summary": "Many off-the-shelf encoders are not optimized for faithful reconstruction, discarding fine-grained visual details . As expected, finetuning these encoder for image reconstruction recovers such details . This procedure reduces the effective dimensionality of the resulting representation ."
   },
   {
     "id": "arxiv:2609.28449v1",
@@ -1301,7 +2261,7 @@
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "Large Language Models (LLMs) are used to track pricing cues for AI shopping agents . Under zero cost, pricing cues rarely mislead, they say . LLMs omit diagnostic attributes required to compute unit price and choose suboptimal choices ."
+    "ai_summary": "Large Language Models (LLMs) are used to track product attributes behind costly tool calls . Under zero cost, pricing cues rarely mislead, authors say . They say a vague goal prompt under constraints creates a search-mediated vulnerability ."
   },
   {
     "id": "arxiv:2609.28371v1",
@@ -1795,11 +2755,11 @@
     "source": "PubMed",
     "category": "journal",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42780336/",
-    "pdf_url": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2026.1852694/pdf",
+    "pdf_url": null,
     "doi": "10.3389/fphar.2026.1852694",
     "citations": 0,
     "venue": "Frontiers in pharmacology",
-    "open_access": true,
+    "open_access": false,
     "ai_summary": "Candidate genes were prioritized using disease databases, protein-protein interaction analysis, 113 machine-learning algorithm combinations, and SHAP analysis . Model performance was evaluated in GSE30529 and GSE99339 ."
   },
   {
@@ -1819,11 +2779,11 @@
     "source": "PubMed",
     "category": "journal",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42780335/",
-    "pdf_url": null,
+    "pdf_url": "https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2026.1887134/pdf",
     "doi": "10.3389/fendo.2026.1887134",
     "citations": 0,
     "venue": "Frontiers in endocrinology",
-    "open_access": false,
+    "open_access": true,
     "ai_summary": "The combination of CEUS and CEUS with other techniques was assessed for accuracy by R4.5.1 and ANOVA-based NMA . CEUS-ultrasound elastography (UE) demonstrated favorable diagnostic performance in differentiating benign and malignant TNs ."
   },
   {
