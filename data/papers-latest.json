@@ -307,6 +307,24 @@
     "ai_summary": "No abstract available."
   },
   {
+    "id": "crossref:10.56251/watu4873",
+    "title": "Machine Learning Application for SAIs",
+    "abstract": "",
+    "authors": [
+      "Tiare Rivera"
+    ],
+    "published": "2030",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.56251/watu4873",
+    "pdf_url": null,
+    "doi": "10.56251/watu4873",
+    "citations": 0,
+    "venue": "International Journal of Government Auditing",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
     "id": "crossref:10.56251/yxek7242",
     "title": "Evolution and Applications of Artificial Intelligence in SAIs",
     "abstract": "",
@@ -323,24 +341,6 @@
     "url": "https://doi.org/10.56251/yxek7242",
     "pdf_url": null,
     "doi": "10.56251/yxek7242",
-    "citations": 0,
-    "venue": "International Journal of Government Auditing",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "crossref:10.56251/watu4873",
-    "title": "Machine Learning Application for SAIs",
-    "abstract": "",
-    "authors": [
-      "Tiare Rivera"
-    ],
-    "published": "2030",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.56251/watu4873",
-    "pdf_url": null,
-    "doi": "10.56251/watu4873",
     "citations": 0,
     "venue": "International Journal of Government Auditing",
     "open_access": false,
@@ -461,27 +461,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.5705/ss.202025.0314",
-    "title": "Transfer Learning for High-dimensional Regression with Compositional Covariates: Application to Microbiome Studies",
-    "abstract": "",
-    "authors": [
-      "Qinqin Hu",
-      "Xiaojing Luo",
-      "Chencheng Ma",
-      "Wang Zhou"
-    ],
-    "published": "2029",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.5705/ss.202025.0314",
-    "pdf_url": null,
-    "doi": "10.5705/ss.202025.0314",
-    "citations": 0,
-    "venue": "Statistica Sinica",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
     "id": "crossref:10.5705/ss.202025.0205",
     "title": "Sparsity Learning via Structured Functional Factor Augmentation",
     "abstract": "",
@@ -503,27 +482,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.5705/ss.202026.0109",
-    "title": "Inference for Extreme Value Index Through Individualized Fusion Learning",
-    "abstract": "",
-    "authors": [
-      "Hongfang Sun",
-      "Yu Chen",
-      "Tao Xu",
-      "Zhengjun Zhang"
-    ],
-    "published": "2029",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.5705/ss.202026.0109",
-    "pdf_url": null,
-    "doi": "10.5705/ss.202026.0109",
-    "citations": 0,
-    "venue": "Statistica Sinica",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
     "id": "crossref:10.5705/ss.202025.0457",
     "title": "Sparse Additive Off-policy Evaluation for Reinforcement Learning with Potentially Limited Number of Trajectories",
     "abstract": "",
@@ -539,6 +497,48 @@
     "url": "https://doi.org/10.5705/ss.202025.0457",
     "pdf_url": null,
     "doi": "10.5705/ss.202025.0457",
+    "citations": 0,
+    "venue": "Statistica Sinica",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "crossref:10.5705/ss.202025.0314",
+    "title": "Transfer Learning for High-dimensional Regression with Compositional Covariates: Application to Microbiome Studies",
+    "abstract": "",
+    "authors": [
+      "Qinqin Hu",
+      "Xiaojing Luo",
+      "Chencheng Ma",
+      "Wang Zhou"
+    ],
+    "published": "2029",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.5705/ss.202025.0314",
+    "pdf_url": null,
+    "doi": "10.5705/ss.202025.0314",
+    "citations": 0,
+    "venue": "Statistica Sinica",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "crossref:10.5705/ss.202026.0109",
+    "title": "Inference for Extreme Value Index Through Individualized Fusion Learning",
+    "abstract": "",
+    "authors": [
+      "Hongfang Sun",
+      "Yu Chen",
+      "Tao Xu",
+      "Zhengjun Zhang"
+    ],
+    "published": "2029",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.5705/ss.202026.0109",
+    "pdf_url": null,
+    "doi": "10.5705/ss.202026.0109",
     "citations": 0,
     "venue": "Statistica Sinica",
     "open_access": false,
@@ -602,22 +602,22 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.32628/cseit251116279",
-    "title": "Cyber Defense Digital Twins: A Federated Learning and Zero-Trust AI Architecture for Autonomous Threat Prediction and Response",
-    "abstract": "<jats:p>Modern enterprise networks operate under persistent threats that exploit cloud-native misconfigurations, identity sprawl, and API vulnerabilities at machine speed. Existing security operations center (SOC) architectures remain largely reactive, signature-dependent, and incapable of predicting multi-stage lateral movement. This paper proposes the Cognitive Cyber Defense Digital Twin (CCDT), a unified architecture integrating federated learning (FL), graph neural network (GNN)-based attack-path forecasting, adversarially hardened detection models, and autonomous Security Orchestration, Automation, and Response (SOAR) with deception engineering. The CCDT constructs a continuously synchronized digital replica of organizational assets and employs reinforcement learning-based red agents to stress-test detection models. A federated intelligence mesh enables cross-organizational privacy-preserving gradient sharing. Experimental evaluations against CICIDS-2018 and LANL datasets demonstrate 52% faster attack-path detection, 41% reduction in false positive rate, and 60% reduction in mean-time-to-respond (MTTR) compared to traditional SOC baselines. Integrated Explainable AI (XAI) modules using SHAP values enable audit-ready compliance reporting. The CCDT represents a paradigm shift from reactive monitoring to predictive, autonomous, and privacy-preserving cyber defense for hybrid cloud environments.</jats:p>",
+    "id": "crossref:10.71126/nijre.v2i1.16",
+    "title": "Transforming Education through Technology: The Case of COVID 19 Digital Learning in Nagaland",
+    "abstract": "<jats:p>Through the perspective of the COVID-19 pandemic and the disruption and opportunity it engendered, this chapter follows a transformative effect of EdTech and Digital education in India particularly in Nagaland through analysis. Drawing upon national policy frameworks, conceptual literature on educational technology, and contextual evidence based on the case of Nagaland, the chapter considers the rapid migration to digital learning as an emergency strategy (in response to the ongoing institution closures) based on the stark shifts in pedagogical practice, access to education services, and preparedness. The findings show that, including the ability of national programmes such as NEP 2020, SWAYAM, DIKSHA, PM e-VIDYA, and others, to promote access to digital tools was low within periphery or hill areas (e.g., Nagaland), due to lack of infrastructural resources, digital divide, unprepared teachers and economic/social divides, and more. The pandemic exposed the deep social and infrastructure divides in connectivity, device availability, assessment and learner engagement, with implications that were especially grave in rural and tribal settings. Although it accelerated the pace of innovation and the application of blended and low-tech learning practices teachers have been experimenting with digital platforms and the post-COVID recovery process, including remedial programmes and hybrid instruction. The chapter also discusses that blended learning is the most fitting, viable and sustainable approach for reaching the technological level in the field of educational technology at Nagaland. It implies that technology-mediated education can improve equity, quality, and resilience, but only under the conditions of inclusive policy design, strong digital infrastructure, vigorous teacher capability building, and culturally appropriate digital content.\nKeywords: Educational technology, digital learning, COVID-19, Nagaland, online education, Challenges, blended learning</jats:p>",
     "authors": [
-      "Sivaramakrishnan Narayanan"
+      "K Hinoca Assumi"
     ],
     "published": "2028",
     "source": "Crossref",
     "category": "index",
-    "url": "https://doi.org/10.32628/cseit251116279",
+    "url": "https://doi.org/10.71126/nijre.v2i1.16",
     "pdf_url": null,
-    "doi": "10.32628/cseit251116279",
+    "doi": "10.71126/nijre.v2i1.16",
     "citations": 0,
-    "venue": "International Journal of Scientific Research in Computer Science, Engineering and Information Technology",
+    "venue": "Naveen International Journal of Research in Education (NIJRE)",
     "open_access": false,
-    "ai_summary": "The paper proposes the Cognitive Cyber Defense Digital Twin (CCDT) The CCDT constructs a continuously synchronized digital replica of organizational assets . It employs reinforcement learning-based red agents to stress-test detection models ."
+    "ai_summary": "The chapter considers the rapid migration to digital learning as an emergency strategy . The findings show that the ability of national programmes such as NEP 2020, SWAYAM, DIKSHA, PM e-VIDYA, and others, to promote access to digital tools was low within periphery or hill areas ."
   },
   {
     "id": "crossref:10.55737/qjss.vii-i.26473",
@@ -640,22 +640,22 @@
     "ai_summary": "Research paper will debate role played by principals in teaching and learning process . Research will embrace a quantitative research design that will seek to answer the question about the relationship between leadership skills of principals and teaching-learning process ."
   },
   {
-    "id": "crossref:10.71126/nijre.v2i1.16",
-    "title": "Transforming Education through Technology: The Case of COVID 19 Digital Learning in Nagaland",
-    "abstract": "<jats:p>Through the perspective of the COVID-19 pandemic and the disruption and opportunity it engendered, this chapter follows a transformative effect of EdTech and Digital education in India particularly in Nagaland through analysis. Drawing upon national policy frameworks, conceptual literature on educational technology, and contextual evidence based on the case of Nagaland, the chapter considers the rapid migration to digital learning as an emergency strategy (in response to the ongoing institution closures) based on the stark shifts in pedagogical practice, access to education services, and preparedness. The findings show that, including the ability of national programmes such as NEP 2020, SWAYAM, DIKSHA, PM e-VIDYA, and others, to promote access to digital tools was low within periphery or hill areas (e.g., Nagaland), due to lack of infrastructural resources, digital divide, unprepared teachers and economic/social divides, and more. The pandemic exposed the deep social and infrastructure divides in connectivity, device availability, assessment and learner engagement, with implications that were especially grave in rural and tribal settings. Although it accelerated the pace of innovation and the application of blended and low-tech learning practices teachers have been experimenting with digital platforms and the post-COVID recovery process, including remedial programmes and hybrid instruction. The chapter also discusses that blended learning is the most fitting, viable and sustainable approach for reaching the technological level in the field of educational technology at Nagaland. It implies that technology-mediated education can improve equity, quality, and resilience, but only under the conditions of inclusive policy design, strong digital infrastructure, vigorous teacher capability building, and culturally appropriate digital content.\nKeywords: Educational technology, digital learning, COVID-19, Nagaland, online education, Challenges, blended learning</jats:p>",
+    "id": "crossref:10.32628/cseit251116279",
+    "title": "Cyber Defense Digital Twins: A Federated Learning and Zero-Trust AI Architecture for Autonomous Threat Prediction and Response",
+    "abstract": "<jats:p>Modern enterprise networks operate under persistent threats that exploit cloud-native misconfigurations, identity sprawl, and API vulnerabilities at machine speed. Existing security operations center (SOC) architectures remain largely reactive, signature-dependent, and incapable of predicting multi-stage lateral movement. This paper proposes the Cognitive Cyber Defense Digital Twin (CCDT), a unified architecture integrating federated learning (FL), graph neural network (GNN)-based attack-path forecasting, adversarially hardened detection models, and autonomous Security Orchestration, Automation, and Response (SOAR) with deception engineering. The CCDT constructs a continuously synchronized digital replica of organizational assets and employs reinforcement learning-based red agents to stress-test detection models. A federated intelligence mesh enables cross-organizational privacy-preserving gradient sharing. Experimental evaluations against CICIDS-2018 and LANL datasets demonstrate 52% faster attack-path detection, 41% reduction in false positive rate, and 60% reduction in mean-time-to-respond (MTTR) compared to traditional SOC baselines. Integrated Explainable AI (XAI) modules using SHAP values enable audit-ready compliance reporting. The CCDT represents a paradigm shift from reactive monitoring to predictive, autonomous, and privacy-preserving cyber defense for hybrid cloud environments.</jats:p>",
     "authors": [
-      "K Hinoca Assumi"
+      "Sivaramakrishnan Narayanan"
     ],
     "published": "2028",
     "source": "Crossref",
     "category": "index",
-    "url": "https://doi.org/10.71126/nijre.v2i1.16",
+    "url": "https://doi.org/10.32628/cseit251116279",
     "pdf_url": null,
-    "doi": "10.71126/nijre.v2i1.16",
+    "doi": "10.32628/cseit251116279",
     "citations": 0,
-    "venue": "Naveen International Journal of Research in Education (NIJRE)",
+    "venue": "International Journal of Scientific Research in Computer Science, Engineering and Information Technology",
     "open_access": false,
-    "ai_summary": "The chapter considers the rapid migration to digital learning as an emergency strategy . The findings show that the ability of national programmes such as NEP 2020, SWAYAM, DIKSHA, PM e-VIDYA, and others, to promote access to digital tools was low within periphery or hill areas ."
+    "ai_summary": "The paper proposes the Cognitive Cyber Defense Digital Twin (CCDT) The CCDT constructs a continuously synchronized digital replica of organizational assets . It employs reinforcement learning-based red agents to stress-test detection models ."
   },
   {
     "id": "crossref:10.1504/ijims.2028.10081208",
@@ -740,24 +740,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.1504/ijaac.2028.10080905",
-    "title": "Innovative deep learning computational approach for wheat disease detection employing faster region-based convolutional neural network",
-    "abstract": "",
-    "authors": [
-      "Shikai Zhou"
-    ],
-    "published": "2028",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.1504/ijaac.2028.10080905",
-    "pdf_url": null,
-    "doi": "10.1504/ijaac.2028.10080905",
-    "citations": 0,
-    "venue": "International Journal of Automation and Control",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
     "id": "crossref:10.1504/ijims.2028.10076831",
     "title": "A Hybrid Huffman-CNN-AES Deep Learning Framework for Secure Medical Image Steganography: H-CADStego",
     "abstract": "",
@@ -773,6 +755,30 @@
     "doi": "10.1504/ijims.2028.10076831",
     "citations": 0,
     "venue": "International Journal of Internet Manufacturing and Services",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "crossref:10.1504/ijbpm.2028.10081045",
+    "title": "Evaluating teaching methods for mature learners: a mixed-methods investigation of learning preferences in higher education",
+    "abstract": "",
+    "authors": [
+      "Nick Papé",
+      "Nazim Uddin",
+      "Rahaman Hasan",
+      "Tommie Anderson Jaquest",
+      "Ilias Mahmud",
+      "Gerry Takamura",
+      "Jonathan Liu"
+    ],
+    "published": "2028",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.1504/ijbpm.2028.10081045",
+    "pdf_url": null,
+    "doi": "10.1504/ijbpm.2028.10081045",
+    "citations": 0,
+    "venue": "International Journal of Business Performance Management",
     "open_access": false,
     "ai_summary": "No abstract available."
   },
@@ -899,27 +905,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "pubmed:42788947",
-    "title": "Automated grading of short-answer image-based assessments using a hybrid natural language processing-AI framework: validation in radiology education.",
-    "abstract": "Efficient and reliable assessment is essential in medical education. Manual grading of short-answer radiology quizzes is resource-intensive and variable. Automated marking systems can alleviate these challenges. This study introduces a novel automated grading system leveraging techniques in natural language processing (NLP) and generative artificial intelligence. Our objective was to assess the system's agreement against human grading and to analyse how response length influences grading concordance. We obtained 840 responses from 28 radiology residents to 30 X-ray quiz questions. The system employed string-matching algorithms and rule-based logic for anatomical and laterality mismatches. A ChatGPT-created synonym dictionary was used to recognise acceptable alternative answers. Cohen's κ was used to assess inter-rater agreement across answer lengths, and logistic regression was used to examine the response length's relationship with grading disagreement. To establish a reference standard, two independent human raters graded the responses, achieving near-perfect inter-rater reliability (κ = 0.985). Evaluated against human consensus, the system achieved 97.5% raw agreement (816/837). Perfect agreement (κ = 1.00) was observed for one-word responses (n = 429), with near-perfect agreement for two-word responses (κ = 0.927, n = 75). Agreement decreased as response length increased, with each additional word increasing the odds of disagreement by 51.9% (odds ratio 1.519; 95% confidence interval 1.227-1.879). The automated grading system, enhanced by NLP techniques and ChatGPT-assisted synonym expansion, demonstrated strong concordance with human grading, particularly for one- and two-word answers. This hybrid approach offers a scalable solution for short-answer assessment, with strong potential in radiology and other medical education contexts.",
-    "authors": [
-      "Xu Hao Isaac Tan",
-      "Zhen Li Samantha Lee",
-      "Thida Win",
-      "Phua Hwee Tang"
-    ],
-    "published": "2026-Sep-25",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42788947/",
-    "pdf_url": null,
-    "doi": "10.4103/singaporemedj.SMJ-2025-302",
-    "citations": 0,
-    "venue": "Singapore medical journal",
-    "open_access": false,
-    "ai_summary": "A new system was developed to assess the agreement against human grading . The system employed string-matching algorithms and rule-based logic for anatomical and laterality mismatches . A ChatGPT-created synonym dictionary was used to recognise acceptable alternative answers ."
-  },
-  {
     "id": "pubmed:42788933",
     "title": "Safeguarding academic integrity in the age of generative artificial intelligence across dental research, publishing, and clinical practice: Are we prepared to uphold ethics while embracing innovation?",
     "abstract": "",
@@ -996,6 +981,27 @@
     "venue": "Applied neuropsychology. Adult",
     "open_access": false,
     "ai_summary": "The aim of this study was to investigate the predictive roles of visuospatial episodic memory and fluid intelligence on functionality in adult teacher candidates in early childhood education in Saudi Arabia . Of the group members, 210 (52.5%) are female and 190 (47.5%) are male . The highest participation is from Senior"
+  },
+  {
+    "id": "pubmed:42788947",
+    "title": "Automated grading of short-answer image-based assessments using a hybrid natural language processing-AI framework: validation in radiology education.",
+    "abstract": "Efficient and reliable assessment is essential in medical education. Manual grading of short-answer radiology quizzes is resource-intensive and variable. Automated marking systems can alleviate these challenges. This study introduces a novel automated grading system leveraging techniques in natural language processing (NLP) and generative artificial intelligence. Our objective was to assess the system's agreement against human grading and to analyse how response length influences grading concordance. We obtained 840 responses from 28 radiology residents to 30 X-ray quiz questions. The system employed string-matching algorithms and rule-based logic for anatomical and laterality mismatches. A ChatGPT-created synonym dictionary was used to recognise acceptable alternative answers. Cohen's κ was used to assess inter-rater agreement across answer lengths, and logistic regression was used to examine the response length's relationship with grading disagreement. To establish a reference standard, two independent human raters graded the responses, achieving near-perfect inter-rater reliability (κ = 0.985). Evaluated against human consensus, the system achieved 97.5% raw agreement (816/837). Perfect agreement (κ = 1.00) was observed for one-word responses (n = 429), with near-perfect agreement for two-word responses (κ = 0.927, n = 75). Agreement decreased as response length increased, with each additional word increasing the odds of disagreement by 51.9% (odds ratio 1.519; 95% confidence interval 1.227-1.879). The automated grading system, enhanced by NLP techniques and ChatGPT-assisted synonym expansion, demonstrated strong concordance with human grading, particularly for one- and two-word answers. This hybrid approach offers a scalable solution for short-answer assessment, with strong potential in radiology and other medical education contexts.",
+    "authors": [
+      "Xu Hao Isaac Tan",
+      "Zhen Li Samantha Lee",
+      "Thida Win",
+      "Phua Hwee Tang"
+    ],
+    "published": "2026-Sep-25",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42788947/",
+    "pdf_url": null,
+    "doi": "10.4103/singaporemedj.SMJ-2025-302",
+    "citations": 0,
+    "venue": "Singapore medical journal",
+    "open_access": false,
+    "ai_summary": "A new system was developed to assess the agreement against human grading . The system employed string-matching algorithms and rule-based logic for anatomical and laterality mismatches . A ChatGPT-created synonym dictionary was used to recognise acceptable alternative answers ."
   },
   {
     "id": "pubmed:42788980",
@@ -1737,26 +1743,26 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "arxiv:2609.30258v1",
-    "title": "Temporal Gradient Inversion for Private Trajectory Reconstruction in Embodied Reinforcement Learning",
-    "abstract": "Distributed learning in embodied reinforcement-learning agents offers a degree of privacy by retaining raw sensor data on-device and transmitting only policy gradients to the server. Yet temporal structure can amplify this leakage beyond single-frame attacks. We introduce Temporal Reconstruction Attack on Consecutive Encodings (TRACE), an amortized temporal gradient-inversion attack that autoregressively reconstructs the sequence of private observation-action trajectories from per-step policy-learning gradients. The attack exploits two structural signals ignored by prior single-frame methods: (i) cross-time correlation between successive embodied gradients, which we formalize via a conditional mutual-information bound, and (ii) closed-form action recovery from policy-head gradient structure, which we prove exact when standard entropy regularization is sufficiently small. On held-out embodied scenes, TRACE reaches $18.8$ dB PSNR with near-perfect action recovery at $3$-$4.5$ ms per reconstructed frame, dominating the learning-based baseline across all reconstruction metrics and exceeding optimization attacks while running orders of magnitude faster. Further evaluation demonstrates TRACE's broader applicability across recurrent, residual, and compact transformer victim architectures, multi-modal inputs, and larger discrete action spaces. Defense experiments suggest that protecting temporal gradient streams may require sequence-aware privacy mechanisms.",
+    "id": "arxiv:2609.30249v1",
+    "title": "RAPID: Robot Agentic Programming from Demonstrations",
+    "abstract": "Coding agents have demonstrated enormous success in solving complex programming problems. To leverage their potential for robot systems, this work introduces Robot Agentic Programming from Demonstrations (RAPID), which automatically generates, verifies, and refines robot programs, given a single visual human demonstration. The iterative agentic loop of code refinement requires several key ingredients: (i) a testable task specification, (ii) action primitives for robot execution, and (iii) an interactive environment for program execution and verification. RAPID infers all three from the demonstration automatically. To make the resulting program reusable beyond the demonstration setting, RAPID uses an object-centric relational program representation that focuses on the underlying structure of the demonstrated strategy rather than the specific motion per se: it expresses the action primitives as trajectory-optimization programs that realize object-level motion effects, while composing them through relational constraints that capture scene-specific geometry at run time. We evaluated RAPID in simulation on eight challenging contact-rich nonprehensile manipulation tasks as well as general prehensile manipulation tasks in the LIBERO-Pro benchmark. We also successfully deployed it on a real Franka arm and evaluated on all eight nonprehensile tasks. In all experiments, RAPID demonstrated strong performance, with generalization over object pose, shape, material, and environment. Website: https://yuyaoliu.me/projects/rapid.",
     "authors": [
-      "Sudip Bhujel",
-      "Shanghao Shi",
-      "Ruiquan Huang",
-      "Ning Zhang",
-      "Yang Xiao"
+      "Yuyao Liu",
+      "Jiayuan Mao",
+      "David Hsu",
+      "Leslie Pack Kaelbling",
+      "Tomás Lozano-Pérez"
     ],
     "published": "2026-09-24",
     "source": "arXiv",
     "category": "preprint",
-    "url": "https://arxiv.org/abs/2609.30258v1",
-    "pdf_url": "https://arxiv.org/pdf/2609.30258v1",
+    "url": "https://arxiv.org/abs/2609.30249v1",
+    "pdf_url": "https://arxiv.org/pdf/2609.30249v1",
     "doi": null,
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "Temporal Reconstruction Attack on Consecutive Encodings (TRACE) is an amortized temporal gradient-inversion attack . The attack exploits two structural signals ignored by prior single-frame methods . On held-out embodied scenes, TRACE reaches $18"
+    "ai_summary": "Robot Agentic Programming from Demonstrations (RAPID) automatically generates, verifies, and refines robot programs . RAPID infers all three from the demonstration automatically ."
   },
   {
     "id": "arxiv:2609.30250v1",
@@ -1796,49 +1802,26 @@
     "ai_summary": "Forte is a sensitivity type system for Rust whose soundness rests on ownership . The program that compute differentially private statistics in deployment are Rust, and they mutate through borrows ."
   },
   {
-    "id": "arxiv:2609.30249v1",
-    "title": "RAPID: Robot Agentic Programming from Demonstrations",
-    "abstract": "Coding agents have demonstrated enormous success in solving complex programming problems. To leverage their potential for robot systems, this work introduces Robot Agentic Programming from Demonstrations (RAPID), which automatically generates, verifies, and refines robot programs, given a single visual human demonstration. The iterative agentic loop of code refinement requires several key ingredients: (i) a testable task specification, (ii) action primitives for robot execution, and (iii) an interactive environment for program execution and verification. RAPID infers all three from the demonstration automatically. To make the resulting program reusable beyond the demonstration setting, RAPID uses an object-centric relational program representation that focuses on the underlying structure of the demonstrated strategy rather than the specific motion per se: it expresses the action primitives as trajectory-optimization programs that realize object-level motion effects, while composing them through relational constraints that capture scene-specific geometry at run time. We evaluated RAPID in simulation on eight challenging contact-rich nonprehensile manipulation tasks as well as general prehensile manipulation tasks in the LIBERO-Pro benchmark. We also successfully deployed it on a real Franka arm and evaluated on all eight nonprehensile tasks. In all experiments, RAPID demonstrated strong performance, with generalization over object pose, shape, material, and environment. Website: https://yuyaoliu.me/projects/rapid.",
+    "id": "arxiv:2609.30258v1",
+    "title": "Temporal Gradient Inversion for Private Trajectory Reconstruction in Embodied Reinforcement Learning",
+    "abstract": "Distributed learning in embodied reinforcement-learning agents offers a degree of privacy by retaining raw sensor data on-device and transmitting only policy gradients to the server. Yet temporal structure can amplify this leakage beyond single-frame attacks. We introduce Temporal Reconstruction Attack on Consecutive Encodings (TRACE), an amortized temporal gradient-inversion attack that autoregressively reconstructs the sequence of private observation-action trajectories from per-step policy-learning gradients. The attack exploits two structural signals ignored by prior single-frame methods: (i) cross-time correlation between successive embodied gradients, which we formalize via a conditional mutual-information bound, and (ii) closed-form action recovery from policy-head gradient structure, which we prove exact when standard entropy regularization is sufficiently small. On held-out embodied scenes, TRACE reaches $18.8$ dB PSNR with near-perfect action recovery at $3$-$4.5$ ms per reconstructed frame, dominating the learning-based baseline across all reconstruction metrics and exceeding optimization attacks while running orders of magnitude faster. Further evaluation demonstrates TRACE's broader applicability across recurrent, residual, and compact transformer victim architectures, multi-modal inputs, and larger discrete action spaces. Defense experiments suggest that protecting temporal gradient streams may require sequence-aware privacy mechanisms.",
     "authors": [
-      "Yuyao Liu",
-      "Jiayuan Mao",
-      "David Hsu",
-      "Leslie Pack Kaelbling",
-      "Tomás Lozano-Pérez"
+      "Sudip Bhujel",
+      "Shanghao Shi",
+      "Ruiquan Huang",
+      "Ning Zhang",
+      "Yang Xiao"
     ],
     "published": "2026-09-24",
     "source": "arXiv",
     "category": "preprint",
-    "url": "https://arxiv.org/abs/2609.30249v1",
-    "pdf_url": "https://arxiv.org/pdf/2609.30249v1",
+    "url": "https://arxiv.org/abs/2609.30258v1",
+    "pdf_url": "https://arxiv.org/pdf/2609.30258v1",
     "doi": null,
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "Robot Agentic Programming from Demonstrations (RAPID) automatically generates, verifies, and refines robot programs . RAPID infers all three from the demonstration automatically ."
-  },
-  {
-    "id": "arxiv:2609.30266v1",
-    "title": "LLM Agents Can Easily Tamper With Their Own Traces",
-    "abstract": "Asynchronous monitoring, incident investigations, and compliance audits primarily rely on agent traces to reconstruct what happened. These analyses assume that LLM agents cannot tamper with their own execution traces. We show that local LLM agents such as Claude Code, Codex, Antigravity, Open Code and Grok Build fail to enforce this boundary. All tested harnesses, except Muse Code, allowed agents to delete their traces when asked, without triggering monitor guardrails. We also validate that external attackers can exploit this gap to induce trace deletion. Finally, we show that trace tampering behavior emerges naturally in frontier models, when agents try to improve their rewards. We advise practitioners to ensure trace logging happens through an independent interception mechanism outside of the agent's control, preserving trace integrity even in cases of full host compromise. Overall, our findings identify a concrete failure of trace integrity in agent infrastructure which can be used to conceal misaligned behaviors like scheming or sabotage.",
-    "authors": [
-      "Jeremy Qin",
-      "David Schmotz",
-      "Derck Prinzhorn",
-      "Luca Beurer-Kellner",
-      "Ameya Prabhu",
-      "Maksym Andriushchenko"
-    ],
-    "published": "2026-09-24",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2609.30266v1",
-    "pdf_url": "https://arxiv.org/pdf/2609.30266v1",
-    "doi": null,
-    "citations": 0,
-    "venue": "arXiv preprint",
-    "open_access": true,
-    "ai_summary": "Asynchronous monitoring, incident investigations, and compliance audits rely on agent traces to reconstruct what happened . We show that local LLM agents such as Claude Code, Codex, Antigravity, Open Code and Grok Build fail to enforce this boundary . All tested harnesses, except Muse Code, allowed agents to delete their traces when asked"
+    "ai_summary": "Temporal Reconstruction Attack on Consecutive Encodings (TRACE) is an amortized temporal gradient-inversion attack . The attack exploits two structural signals ignored by prior single-frame methods . On held-out embodied scenes, TRACE reaches $18"
   },
   {
     "id": "arxiv:2609.30264v1",
@@ -1862,6 +1845,29 @@
     "venue": "arXiv preprint",
     "open_access": true,
     "ai_summary": "Latent world models are typically trained to predict factual transitions . But model predictive control (MPC) must compare alternative actions from the same state . A model can achieve low factual prediction error yet poorly distinguish candidate actions ."
+  },
+  {
+    "id": "arxiv:2609.30266v1",
+    "title": "LLM Agents Can Easily Tamper With Their Own Traces",
+    "abstract": "Asynchronous monitoring, incident investigations, and compliance audits primarily rely on agent traces to reconstruct what happened. These analyses assume that LLM agents cannot tamper with their own execution traces. We show that local LLM agents such as Claude Code, Codex, Antigravity, Open Code and Grok Build fail to enforce this boundary. All tested harnesses, except Muse Code, allowed agents to delete their traces when asked, without triggering monitor guardrails. We also validate that external attackers can exploit this gap to induce trace deletion. Finally, we show that trace tampering behavior emerges naturally in frontier models, when agents try to improve their rewards. We advise practitioners to ensure trace logging happens through an independent interception mechanism outside of the agent's control, preserving trace integrity even in cases of full host compromise. Overall, our findings identify a concrete failure of trace integrity in agent infrastructure which can be used to conceal misaligned behaviors like scheming or sabotage.",
+    "authors": [
+      "Jeremy Qin",
+      "David Schmotz",
+      "Derck Prinzhorn",
+      "Luca Beurer-Kellner",
+      "Ameya Prabhu",
+      "Maksym Andriushchenko"
+    ],
+    "published": "2026-09-24",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2609.30266v1",
+    "pdf_url": "https://arxiv.org/pdf/2609.30266v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "Asynchronous monitoring, incident investigations, and compliance audits rely on agent traces to reconstruct what happened . We show that local LLM agents such as Claude Code, Codex, Antigravity, Open Code and Grok Build fail to enforce this boundary . All tested harnesses, except Muse Code, allowed agents to delete their traces when asked"
   },
   {
     "id": "arxiv:2609.30247v1",
