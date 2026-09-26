@@ -461,21 +461,21 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.5705/ss.202025.0205",
-    "title": "Sparsity Learning via Structured Functional Factor Augmentation",
+    "id": "crossref:10.5705/ss.202025.0314",
+    "title": "Transfer Learning for High-dimensional Regression with Compositional Covariates: Application to Microbiome Studies",
     "abstract": "",
     "authors": [
-      "Hanteng Ma",
-      "Ziliang Shen",
-      "Xingdong Feng",
-      "Xin Liu"
+      "Qinqin Hu",
+      "Xiaojing Luo",
+      "Chencheng Ma",
+      "Wang Zhou"
     ],
     "published": "2029",
     "source": "Crossref",
     "category": "index",
-    "url": "https://doi.org/10.5705/ss.202025.0205",
+    "url": "https://doi.org/10.5705/ss.202025.0314",
     "pdf_url": null,
-    "doi": "10.5705/ss.202025.0205",
+    "doi": "10.5705/ss.202025.0314",
     "citations": 0,
     "venue": "Statistica Sinica",
     "open_access": false,
@@ -503,6 +503,27 @@
     "ai_summary": "No abstract available."
   },
   {
+    "id": "crossref:10.5705/ss.202025.0205",
+    "title": "Sparsity Learning via Structured Functional Factor Augmentation",
+    "abstract": "",
+    "authors": [
+      "Hanteng Ma",
+      "Ziliang Shen",
+      "Xingdong Feng",
+      "Xin Liu"
+    ],
+    "published": "2029",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.5705/ss.202025.0205",
+    "pdf_url": null,
+    "doi": "10.5705/ss.202025.0205",
+    "citations": 0,
+    "venue": "Statistica Sinica",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
     "id": "crossref:10.5705/ss.202025.0457",
     "title": "Sparse Additive Off-policy Evaluation for Reinforcement Learning with Potentially Limited Number of Trajectories",
     "abstract": "",
@@ -518,27 +539,6 @@
     "url": "https://doi.org/10.5705/ss.202025.0457",
     "pdf_url": null,
     "doi": "10.5705/ss.202025.0457",
-    "citations": 0,
-    "venue": "Statistica Sinica",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "crossref:10.5705/ss.202025.0314",
-    "title": "Transfer Learning for High-dimensional Regression with Compositional Covariates: Application to Microbiome Studies",
-    "abstract": "",
-    "authors": [
-      "Qinqin Hu",
-      "Xiaojing Luo",
-      "Chencheng Ma",
-      "Wang Zhou"
-    ],
-    "published": "2029",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.5705/ss.202025.0314",
-    "pdf_url": null,
-    "doi": "10.5705/ss.202025.0314",
     "citations": 0,
     "venue": "Statistica Sinica",
     "open_access": false,
@@ -602,24 +602,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.32628/cseit251116279",
-    "title": "Cyber Defense Digital Twins: A Federated Learning and Zero-Trust AI Architecture for Autonomous Threat Prediction and Response",
-    "abstract": "<jats:p>Modern enterprise networks operate under persistent threats that exploit cloud-native misconfigurations, identity sprawl, and API vulnerabilities at machine speed. Existing security operations center (SOC) architectures remain largely reactive, signature-dependent, and incapable of predicting multi-stage lateral movement. This paper proposes the Cognitive Cyber Defense Digital Twin (CCDT), a unified architecture integrating federated learning (FL), graph neural network (GNN)-based attack-path forecasting, adversarially hardened detection models, and autonomous Security Orchestration, Automation, and Response (SOAR) with deception engineering. The CCDT constructs a continuously synchronized digital replica of organizational assets and employs reinforcement learning-based red agents to stress-test detection models. A federated intelligence mesh enables cross-organizational privacy-preserving gradient sharing. Experimental evaluations against CICIDS-2018 and LANL datasets demonstrate 52% faster attack-path detection, 41% reduction in false positive rate, and 60% reduction in mean-time-to-respond (MTTR) compared to traditional SOC baselines. Integrated Explainable AI (XAI) modules using SHAP values enable audit-ready compliance reporting. The CCDT represents a paradigm shift from reactive monitoring to predictive, autonomous, and privacy-preserving cyber defense for hybrid cloud environments.</jats:p>",
-    "authors": [
-      "Sivaramakrishnan Narayanan"
-    ],
-    "published": "2028",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.32628/cseit251116279",
-    "pdf_url": null,
-    "doi": "10.32628/cseit251116279",
-    "citations": 0,
-    "venue": "International Journal of Scientific Research in Computer Science, Engineering and Information Technology",
-    "open_access": false,
-    "ai_summary": "The paper proposes the Cognitive Cyber Defense Digital Twin (CCDT) The CCDT constructs a continuously synchronized digital replica of organizational assets . It employs reinforcement learning-based red agents to stress-test detection models ."
-  },
-  {
     "id": "crossref:10.71126/nijre.v2i1.16",
     "title": "Transforming Education through Technology: The Case of COVID 19 Digital Learning in Nagaland",
     "abstract": "<jats:p>Through the perspective of the COVID-19 pandemic and the disruption and opportunity it engendered, this chapter follows a transformative effect of EdTech and Digital education in India particularly in Nagaland through analysis. Drawing upon national policy frameworks, conceptual literature on educational technology, and contextual evidence based on the case of Nagaland, the chapter considers the rapid migration to digital learning as an emergency strategy (in response to the ongoing institution closures) based on the stark shifts in pedagogical practice, access to education services, and preparedness. The findings show that, including the ability of national programmes such as NEP 2020, SWAYAM, DIKSHA, PM e-VIDYA, and others, to promote access to digital tools was low within periphery or hill areas (e.g., Nagaland), due to lack of infrastructural resources, digital divide, unprepared teachers and economic/social divides, and more. The pandemic exposed the deep social and infrastructure divides in connectivity, device availability, assessment and learner engagement, with implications that were especially grave in rural and tribal settings. Although it accelerated the pace of innovation and the application of blended and low-tech learning practices teachers have been experimenting with digital platforms and the post-COVID recovery process, including remedial programmes and hybrid instruction. The chapter also discusses that blended learning is the most fitting, viable and sustainable approach for reaching the technological level in the field of educational technology at Nagaland. It implies that technology-mediated education can improve equity, quality, and resilience, but only under the conditions of inclusive policy design, strong digital infrastructure, vigorous teacher capability building, and culturally appropriate digital content.\nKeywords: Educational technology, digital learning, COVID-19, Nagaland, online education, Challenges, blended learning</jats:p>",
@@ -636,6 +618,24 @@
     "venue": "Naveen International Journal of Research in Education (NIJRE)",
     "open_access": false,
     "ai_summary": "The chapter considers the rapid migration to digital learning as an emergency strategy . The findings show that the ability of national programmes such as NEP 2020, SWAYAM, DIKSHA, PM e-VIDYA, and others, to promote access to digital tools was low within periphery or hill areas ."
+  },
+  {
+    "id": "crossref:10.32628/cseit251116279",
+    "title": "Cyber Defense Digital Twins: A Federated Learning and Zero-Trust AI Architecture for Autonomous Threat Prediction and Response",
+    "abstract": "<jats:p>Modern enterprise networks operate under persistent threats that exploit cloud-native misconfigurations, identity sprawl, and API vulnerabilities at machine speed. Existing security operations center (SOC) architectures remain largely reactive, signature-dependent, and incapable of predicting multi-stage lateral movement. This paper proposes the Cognitive Cyber Defense Digital Twin (CCDT), a unified architecture integrating federated learning (FL), graph neural network (GNN)-based attack-path forecasting, adversarially hardened detection models, and autonomous Security Orchestration, Automation, and Response (SOAR) with deception engineering. The CCDT constructs a continuously synchronized digital replica of organizational assets and employs reinforcement learning-based red agents to stress-test detection models. A federated intelligence mesh enables cross-organizational privacy-preserving gradient sharing. Experimental evaluations against CICIDS-2018 and LANL datasets demonstrate 52% faster attack-path detection, 41% reduction in false positive rate, and 60% reduction in mean-time-to-respond (MTTR) compared to traditional SOC baselines. Integrated Explainable AI (XAI) modules using SHAP values enable audit-ready compliance reporting. The CCDT represents a paradigm shift from reactive monitoring to predictive, autonomous, and privacy-preserving cyber defense for hybrid cloud environments.</jats:p>",
+    "authors": [
+      "Sivaramakrishnan Narayanan"
+    ],
+    "published": "2028",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.32628/cseit251116279",
+    "pdf_url": null,
+    "doi": "10.32628/cseit251116279",
+    "citations": 0,
+    "venue": "International Journal of Scientific Research in Computer Science, Engineering and Information Technology",
+    "open_access": false,
+    "ai_summary": "The paper proposes the Cognitive Cyber Defense Digital Twin (CCDT) The CCDT constructs a continuously synchronized digital replica of organizational assets . It employs reinforcement learning-based red agents to stress-test detection models ."
   },
   {
     "id": "crossref:10.55737/qjss.vii-i.26473",
@@ -658,27 +658,6 @@
     "ai_summary": "Research paper will debate role played by principals in teaching and learning process . Research will embrace a quantitative research design that will seek to answer the question about the relationship between leadership skills of principals and teaching-learning process ."
   },
   {
-    "id": "crossref:10.1504/ijims.2028.10076630",
-    "title": "Left Ventricle Extraction Using a DENSENET-U-Net Integrated Deep Learning Approach",
-    "abstract": "",
-    "authors": [
-      "X. Ignatious Viola",
-      "R. Shoba Rani",
-      "G. Savitha",
-      "R. Surekha"
-    ],
-    "published": "2028",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.1504/ijims.2028.10076630",
-    "pdf_url": null,
-    "doi": "10.1504/ijims.2028.10076630",
-    "citations": 0,
-    "venue": "International Journal of Internet Manufacturing and Services",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
     "id": "crossref:10.1504/ijims.2028.10081208",
     "title": "Enhancements to the Deep Learning Architecture for Metaverse Integration in Medical Image Processing",
     "abstract": "",
@@ -695,6 +674,27 @@
     "url": "https://doi.org/10.1504/ijims.2028.10081208",
     "pdf_url": null,
     "doi": "10.1504/ijims.2028.10081208",
+    "citations": 0,
+    "venue": "International Journal of Internet Manufacturing and Services",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "crossref:10.1504/ijims.2028.10076630",
+    "title": "Left Ventricle Extraction Using a DENSENET-U-Net Integrated Deep Learning Approach",
+    "abstract": "",
+    "authors": [
+      "X. Ignatious Viola",
+      "R. Shoba Rani",
+      "G. Savitha",
+      "R. Surekha"
+    ],
+    "published": "2028",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.1504/ijims.2028.10076630",
+    "pdf_url": null,
+    "doi": "10.1504/ijims.2028.10076630",
     "citations": 0,
     "venue": "International Journal of Internet Manufacturing and Services",
     "open_access": false,
@@ -759,26 +759,20 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.1504/ijbpm.2028.10081045",
-    "title": "Evaluating teaching methods for mature learners: a mixed-methods investigation of learning preferences in higher education",
+    "id": "crossref:10.1504/ijaac.2028.10080905",
+    "title": "Innovative deep learning computational approach for wheat disease detection employing faster region-based convolutional neural network",
     "abstract": "",
     "authors": [
-      "Nick Papé",
-      "Nazim Uddin",
-      "Rahaman Hasan",
-      "Tommie Anderson Jaquest",
-      "Ilias Mahmud",
-      "Gerry Takamura",
-      "Jonathan Liu"
+      "Shikai Zhou"
     ],
     "published": "2028",
     "source": "Crossref",
     "category": "index",
-    "url": "https://doi.org/10.1504/ijbpm.2028.10081045",
+    "url": "https://doi.org/10.1504/ijaac.2028.10080905",
     "pdf_url": null,
-    "doi": "10.1504/ijbpm.2028.10081045",
+    "doi": "10.1504/ijaac.2028.10080905",
     "citations": 0,
-    "venue": "International Journal of Business Performance Management",
+    "venue": "International Journal of Automation and Control",
     "open_access": false,
     "ai_summary": "No abstract available."
   },
@@ -1449,9 +1443,9 @@
     "abstract": "",
     "authors": [
       "Vassiki S. Chauhan",
-      "Krystal McCook",
+      "Krystal C. McCook",
       "Mariam Latif",
-      "Alex White"
+      "Alex L. White"
     ],
     "published": "2026-10-01",
     "source": "OpenAlex",
@@ -1533,17 +1527,17 @@
     "authors": [
       "Dan J. Stein",
       "Ronald C. Kessler",
-      "John Torous",
-      "Hugh Garavan",
+      "John Blake Torous",
+      "Hugh P Garavan",
       "Odile A. van den Heuvel",
       "Eske M. Derks",
       "Carol Mathews",
       "Pim Cuijpers",
-      "Giovanni A Salum",
-      "Ole A Andreassen",
-      "Paul M Thompson",
+      "Giovanni Salum",
+      "Ole A. Andreassen",
+      "Paul M. Thompson",
       "Brenda W.J.H. Penninx",
-      "John J McGrath"
+      "John Joseph McGrath"
     ],
     "published": "2026-10-01",
     "source": "OpenAlex",
@@ -1576,26 +1570,26 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "arxiv:2609.30258v1",
-    "title": "Temporal Gradient Inversion for Private Trajectory Reconstruction in Embodied Reinforcement Learning",
-    "abstract": "Distributed learning in embodied reinforcement-learning agents offers a degree of privacy by retaining raw sensor data on-device and transmitting only policy gradients to the server. Yet temporal structure can amplify this leakage beyond single-frame attacks. We introduce Temporal Reconstruction Attack on Consecutive Encodings (TRACE), an amortized temporal gradient-inversion attack that autoregressively reconstructs the sequence of private observation-action trajectories from per-step policy-learning gradients. The attack exploits two structural signals ignored by prior single-frame methods: (i) cross-time correlation between successive embodied gradients, which we formalize via a conditional mutual-information bound, and (ii) closed-form action recovery from policy-head gradient structure, which we prove exact when standard entropy regularization is sufficiently small. On held-out embodied scenes, TRACE reaches $18.8$ dB PSNR with near-perfect action recovery at $3$-$4.5$ ms per reconstructed frame, dominating the learning-based baseline across all reconstruction metrics and exceeding optimization attacks while running orders of magnitude faster. Further evaluation demonstrates TRACE's broader applicability across recurrent, residual, and compact transformer victim architectures, multi-modal inputs, and larger discrete action spaces. Defense experiments suggest that protecting temporal gradient streams may require sequence-aware privacy mechanisms.",
+    "id": "arxiv:2609.30249v1",
+    "title": "RAPID: Robot Agentic Programming from Demonstrations",
+    "abstract": "Coding agents have demonstrated enormous success in solving complex programming problems. To leverage their potential for robot systems, this work introduces Robot Agentic Programming from Demonstrations (RAPID), which automatically generates, verifies, and refines robot programs, given a single visual human demonstration. The iterative agentic loop of code refinement requires several key ingredients: (i) a testable task specification, (ii) action primitives for robot execution, and (iii) an interactive environment for program execution and verification. RAPID infers all three from the demonstration automatically. To make the resulting program reusable beyond the demonstration setting, RAPID uses an object-centric relational program representation that focuses on the underlying structure of the demonstrated strategy rather than the specific motion per se: it expresses the action primitives as trajectory-optimization programs that realize object-level motion effects, while composing them through relational constraints that capture scene-specific geometry at run time. We evaluated RAPID in simulation on eight challenging contact-rich nonprehensile manipulation tasks as well as general prehensile manipulation tasks in the LIBERO-Pro benchmark. We also successfully deployed it on a real Franka arm and evaluated on all eight nonprehensile tasks. In all experiments, RAPID demonstrated strong performance, with generalization over object pose, shape, material, and environment. Website: https://yuyaoliu.me/projects/rapid.",
     "authors": [
-      "Sudip Bhujel",
-      "Shanghao Shi",
-      "Ruiquan Huang",
-      "Ning Zhang",
-      "Yang Xiao"
+      "Yuyao Liu",
+      "Jiayuan Mao",
+      "David Hsu",
+      "Leslie Pack Kaelbling",
+      "Tomás Lozano-Pérez"
     ],
     "published": "2026-09-24",
     "source": "arXiv",
     "category": "preprint",
-    "url": "https://arxiv.org/abs/2609.30258v1",
-    "pdf_url": "https://arxiv.org/pdf/2609.30258v1",
+    "url": "https://arxiv.org/abs/2609.30249v1",
+    "pdf_url": "https://arxiv.org/pdf/2609.30249v1",
     "doi": null,
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "Temporal Reconstruction Attack on Consecutive Encodings (TRACE) is an amortized temporal gradient-inversion attack . The attack exploits two structural signals ignored by prior single-frame methods . On held-out embodied scenes, TRACE reaches $18"
+    "ai_summary": "Robot Agentic Programming from Demonstrations (RAPID) automatically generates, verifies, and refines robot programs . RAPID infers all three from the demonstration automatically ."
   },
   {
     "id": "arxiv:2609.30266v1",
@@ -1621,28 +1615,6 @@
     "ai_summary": "Asynchronous monitoring, incident investigations, and compliance audits rely on agent traces to reconstruct what happened . We show that local LLM agents such as Claude Code, Codex, Antigravity, Open Code and Grok Build fail to enforce this boundary . All tested harnesses, except Muse Code, allowed agents to delete their traces when asked"
   },
   {
-    "id": "arxiv:2609.30249v1",
-    "title": "RAPID: Robot Agentic Programming from Demonstrations",
-    "abstract": "Coding agents have demonstrated enormous success in solving complex programming problems. To leverage their potential for robot systems, this work introduces Robot Agentic Programming from Demonstrations (RAPID), which automatically generates, verifies, and refines robot programs, given a single visual human demonstration. The iterative agentic loop of code refinement requires several key ingredients: (i) a testable task specification, (ii) action primitives for robot execution, and (iii) an interactive environment for program execution and verification. RAPID infers all three from the demonstration automatically. To make the resulting program reusable beyond the demonstration setting, RAPID uses an object-centric relational program representation that focuses on the underlying structure of the demonstrated strategy rather than the specific motion per se: it expresses the action primitives as trajectory-optimization programs that realize object-level motion effects, while composing them through relational constraints that capture scene-specific geometry at run time. We evaluated RAPID in simulation on eight challenging contact-rich nonprehensile manipulation tasks as well as general prehensile manipulation tasks in the LIBERO-Pro benchmark. We also successfully deployed it on a real Franka arm and evaluated on all eight nonprehensile tasks. In all experiments, RAPID demonstrated strong performance, with generalization over object pose, shape, material, and environment. Website: https://yuyaoliu.me/projects/rapid.",
-    "authors": [
-      "Yuyao Liu",
-      "Jiayuan Mao",
-      "David Hsu",
-      "Leslie Pack Kaelbling",
-      "Tomás Lozano-Pérez"
-    ],
-    "published": "2026-09-24",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2609.30249v1",
-    "pdf_url": "https://arxiv.org/pdf/2609.30249v1",
-    "doi": null,
-    "citations": 0,
-    "venue": "arXiv preprint",
-    "open_access": true,
-    "ai_summary": "Robot Agentic Programming from Demonstrations (RAPID) automatically generates, verifies, and refines robot programs . RAPID infers all three from the demonstration automatically ."
-  },
-  {
     "id": "arxiv:2609.30254v1",
     "title": "Forte: A sensitivity type system for imperative Rust",
     "abstract": "We introduce Forte, a sensitivity type system for Rust whose soundness rests on ownership. The graded sensitivity type systems, from Fuzz's linear grading to Solo's environment indices, are pure calculi: a claim about a value holds for the value's whole lifetime because nothing can mutate it. The imperative sensitivity analyses admit assignment to first-order variables and no references, so no question of aliasing arises in them. The programs that compute differentially private statistics in deployment are Rust, and they mutate through borrows. Forte closes this gap. Its central rules strongly update a sensitivity environment through an exclusive borrow, at a primitive call and across a checked function boundary; its soundness theorem is metric preservation over an operational semantics with a store, in which the exclusivity of &mut alone licenses framing across a mutating call, and two aliased borrows suffice to refute the theorem without it. Verus mechanizes the theorem, the function rule, and the refutation. Flux checks Forte as an ordinary library, with no fork of the compiler; a machine-checked theorem backs every deterministic primitive signature, and a correspondence theorem transports metric preservation to the programs the checker accepts. We evaluate Forte on mechanism kernels from OpenDP with genuine in-place mutation, matching the library's trusted stability maps with checked constants, covering the constructors that have no proof document, rejecting off-by-one diameters, tightened bounds, miscalibrated releases, and overspent budgets, and deriving one trusted constant as an inferred loop invariant.",
@@ -1659,6 +1631,25 @@
     "venue": "arXiv preprint",
     "open_access": true,
     "ai_summary": "Forte is a sensitivity type system for Rust whose soundness rests on ownership . The program that compute differentially private statistics in deployment are Rust, and they mutate through borrows ."
+  },
+  {
+    "id": "arxiv:2609.30250v1",
+    "title": "Agentic Detection of Online Conspiracies",
+    "abstract": "Conspiratorial discourse on social media is not always expressed through explicit claims or stable lexical markers. The same surface content may express endorsement, legitimate concerns, criticism, satire, or mockery. The main challenge is therefore not only recognizing conspiracy-related claims, but inferring the speaker's intent -- the utterance's illocutionary force. We argue that this can be achieved through the use of relevant social contexts and propose an agentic framework, equipped with a set of tools supporting social queries. We demonstrate the benefits of our approach on a unique dataset of Hebrew tweets, covering 80\\%--90\\% of the public Hebrew tweets published over a four-year span (late 2018-- early 2023), encompassing several election cycles as well as the COVID pandemic years and related vaccination campaigns. This extensive coverage can be used in recovering different social contexts. Evaluating our framework on a manually-annotated adversarial dataset, we find that context-aware workflows consistently outperform text-only classification and that the agentic framework performs significantly better than other frameworks and settings, including a non-agentic model exposed to the same contexts available to the agent. We further provide an analysis of the results, the errors and efficiency (token economy) tradeoffs. These findings support viewing the task of conspiracy detection as a socially embedded interpretation task, in which effective classification depends not only on access to contexts, but also on adaptive reasoning in which the agent uses tools on a per-case basis, asking only for evidence relevant to its current reasoning step.",
+    "authors": [
+      "Lior Biton",
+      "Oren Tsur"
+    ],
+    "published": "2026-09-24",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2609.30250v1",
+    "pdf_url": "https://arxiv.org/pdf/2609.30250v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "Conspiratorial discourse on social media is not always expressed through explicit claims or stable lexical markers . The main challenge is not only recognizing conspiracy-related claims, but inferring the speaker's intent -- the utterance's illocutionary force . We argue that this can be achieved through the use of relevant social contexts ."
   },
   {
     "id": "arxiv:2609.30264v1",
@@ -1684,23 +1675,26 @@
     "ai_summary": "Latent world models are typically trained to predict factual transitions . But model predictive control (MPC) must compare alternative actions from the same state . A model can achieve low factual prediction error yet poorly distinguish candidate actions ."
   },
   {
-    "id": "arxiv:2609.30250v1",
-    "title": "Agentic Detection of Online Conspiracies",
-    "abstract": "Conspiratorial discourse on social media is not always expressed through explicit claims or stable lexical markers. The same surface content may express endorsement, legitimate concerns, criticism, satire, or mockery. The main challenge is therefore not only recognizing conspiracy-related claims, but inferring the speaker's intent -- the utterance's illocutionary force. We argue that this can be achieved through the use of relevant social contexts and propose an agentic framework, equipped with a set of tools supporting social queries. We demonstrate the benefits of our approach on a unique dataset of Hebrew tweets, covering 80\\%--90\\% of the public Hebrew tweets published over a four-year span (late 2018-- early 2023), encompassing several election cycles as well as the COVID pandemic years and related vaccination campaigns. This extensive coverage can be used in recovering different social contexts. Evaluating our framework on a manually-annotated adversarial dataset, we find that context-aware workflows consistently outperform text-only classification and that the agentic framework performs significantly better than other frameworks and settings, including a non-agentic model exposed to the same contexts available to the agent. We further provide an analysis of the results, the errors and efficiency (token economy) tradeoffs. These findings support viewing the task of conspiracy detection as a socially embedded interpretation task, in which effective classification depends not only on access to contexts, but also on adaptive reasoning in which the agent uses tools on a per-case basis, asking only for evidence relevant to its current reasoning step.",
+    "id": "arxiv:2609.30258v1",
+    "title": "Temporal Gradient Inversion for Private Trajectory Reconstruction in Embodied Reinforcement Learning",
+    "abstract": "Distributed learning in embodied reinforcement-learning agents offers a degree of privacy by retaining raw sensor data on-device and transmitting only policy gradients to the server. Yet temporal structure can amplify this leakage beyond single-frame attacks. We introduce Temporal Reconstruction Attack on Consecutive Encodings (TRACE), an amortized temporal gradient-inversion attack that autoregressively reconstructs the sequence of private observation-action trajectories from per-step policy-learning gradients. The attack exploits two structural signals ignored by prior single-frame methods: (i) cross-time correlation between successive embodied gradients, which we formalize via a conditional mutual-information bound, and (ii) closed-form action recovery from policy-head gradient structure, which we prove exact when standard entropy regularization is sufficiently small. On held-out embodied scenes, TRACE reaches $18.8$ dB PSNR with near-perfect action recovery at $3$-$4.5$ ms per reconstructed frame, dominating the learning-based baseline across all reconstruction metrics and exceeding optimization attacks while running orders of magnitude faster. Further evaluation demonstrates TRACE's broader applicability across recurrent, residual, and compact transformer victim architectures, multi-modal inputs, and larger discrete action spaces. Defense experiments suggest that protecting temporal gradient streams may require sequence-aware privacy mechanisms.",
     "authors": [
-      "Lior Biton",
-      "Oren Tsur"
+      "Sudip Bhujel",
+      "Shanghao Shi",
+      "Ruiquan Huang",
+      "Ning Zhang",
+      "Yang Xiao"
     ],
     "published": "2026-09-24",
     "source": "arXiv",
     "category": "preprint",
-    "url": "https://arxiv.org/abs/2609.30250v1",
-    "pdf_url": "https://arxiv.org/pdf/2609.30250v1",
+    "url": "https://arxiv.org/abs/2609.30258v1",
+    "pdf_url": "https://arxiv.org/pdf/2609.30258v1",
     "doi": null,
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "Conspiratorial discourse on social media is not always expressed through explicit claims or stable lexical markers . The main challenge is not only recognizing conspiracy-related claims, but inferring the speaker's intent -- the utterance's illocutionary force . We argue that this can be achieved through the use of relevant social contexts ."
+    "ai_summary": "Temporal Reconstruction Attack on Consecutive Encodings (TRACE) is an amortized temporal gradient-inversion attack . The attack exploits two structural signals ignored by prior single-frame methods . On held-out embodied scenes, TRACE reaches $18"
   },
   {
     "id": "arxiv:2609.30247v1",
@@ -1770,7 +1764,7 @@
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "Jev maps unstructured language to probability distributions over finite choices . In 229 cases, Jev assigns at least 0.7 probability to the fixed wrong option for each initially correct item ."
+    "ai_summary": "Jev maps unstructured language to probability distributions over finite choices . The model uses the model's option probabilities to refine fluent context additions while preserving the source, question, choices, and gold answer ."
   },
   {
     "id": "arxiv:2609.30238v1",
@@ -2510,7 +2504,7 @@
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "Future quantum networks will make use of entanglement to perform numerous tasks, such as sending quantum information over long distances . In general, these tasks will need to be performed simultaneously in various regions of a network, while minimizing resources and latency . We will require policies for scheduling link-level entanglements resources, and using the"
+    "ai_summary": "Future quantum networks will make use of entanglement to perform numerous tasks, such as sending quantum information over long distances . In general, these tasks will need to be performed simultaneously in various regions of a network, while minimizing resources and latency ."
   },
   {
     "id": "arxiv:2609.30151v1",
@@ -2840,27 +2834,6 @@
     "ai_summary": "Predicting individual periodontal treatment response remains clinically unresolved . Existing machine-learning models are predominantly cross-sectional, lack a longitudinal response- vector design ."
   },
   {
-    "id": "pubmed:42798367",
-    "title": "Artificial intelligence literacy in Somali education: balancing opportunities, risks, and policy directions.",
-    "abstract": "Somalia's education system continues to face severe constraints, including weak infrastructure, limited teacher support, and unequal access to learning resources. At the same time, generative artificial intelligence is increasingly entering educational practice through tools that can translate language, support writing, generate explanations, and extend tutoring beyond classroom hours. This Perspective argues that Somalia should respond neither by banning AI nor by adopting it without safeguards. Instead, AI literacy should be integrated as a foundational competency across secondary and tertiary education. Such an approach would help students use AI for language support, academic drafting, research planning, and personalized learning while also enabling them to identify hallucinations, bias, plagiarism risks, and privacy concerns. Drawing on a critical synthesis of recent peer-reviewed literature and policy documents, the article outlines the opportunities, risks, and implementation priorities for responsible AI adoption in Somalia. It shows that effective integration requires teacher professional development, curriculum revision, assessment reform, and clear ethical guidance. By combining opportunity with preparedness, Somalia can turn AI into a tool for educational inclusion and future readiness rather than a source of inequality or academic harm.",
-    "authors": [
-      "Ismail Mahad Hersi",
-      "Osman Elmi Omar",
-      "Abdinor Abukar Ahmed",
-      "Kowsar Osman Barre"
-    ],
-    "published": "2026",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42798367/",
-    "pdf_url": null,
-    "doi": "10.3389/frai.2026.1925433",
-    "citations": 0,
-    "venue": "Frontiers in artificial intelligence",
-    "open_access": false,
-    "ai_summary": "Somalia's education system continues to face severe constraints, including weak infrastructure, limited teacher support, and unequal access to learning resources . This Perspective argues that Somalia should respond neither by banning AI nor by adopting it without safeguards . Instead, AI literacy should be integrated as a"
-  },
-  {
     "id": "pubmed:42798349",
     "title": "Multimodal deep learning integrating ultrasonographic and clinical data for enhanced rotator cuff tear identification.",
     "abstract": "Ultrasonography (US) represents a practical and accessible imaging modality for rotator cuff tear (RCT) evaluation, yet diagnostic accuracy remains constrained by operator experience and the sonographic ambiguity of partial-thickness tears. Deep learning (DL) models applied to US imaging and machine learning models derived from clinical variables have each demonstrated independent promise, yet their integration within a unified diagnostic framework has not been systematically explored. This study aimed to develop and validate a multimodal DL model integrating US imaging with structured clinical examination data for RCT detection. A retrospective cohort of 947 patients presenting with shoulder pain who underwent both shoulder US and MRI was partitioned into training and testing sets at a 7:3 ratio. Patients with MRI-confirmed supraspinatus RCT were designated RCT-positive, while those with supraspinatus tendinopathy or subacromial bursitis were designated RCT-negative. Four model configurations were developed: a clinical-only model, a single-view US model, a dual-view US model, and a full multimodal model (MM) combining dual-view US with clinical variables through feature-level fusion. All models were trained using five-fold cross-validation and evaluated on the testing set for discriminative performance, calibration, and clinical utility. Model interpretability was assessed using Gradient-weighted Class Activation Mapping (Grad-CAM) for the image encoder and SHapley Additive exPlanations (SHAP) for the clinical encoder. Among 947 patients, 370 (39.1%) were RCT-positive and 577 (60.9%) were RCT-negative. MM achieved the highest area under the receiver operating characteristic curve (AUROC) of 0.935, with sensitivity of 0.946, specificity of 0.786, and F1 score of 0.830, significantly outperforming all unimodal configurations. Decision curve analysis confirmed superior net benefit of MM across clinically relevant threshold probabilities. Grad-CAM heatmaps demonstrated anatomically coherent attention within the supraspinatus tendon, while SHAP analysis identified the drop arm test, external rotation lag sign, and empty can test as the dominant clinical predictors. The proposed multimodal DL framework offers a validated and interpretable tool for MRI-independent RCT diagnosis, with potential applicability in resource-constrained clinical settings.",
@@ -2882,6 +2855,27 @@
     "venue": "Frontiers in physiology",
     "open_access": false,
     "ai_summary": "Ultrasonography (US) represents a practical and accessible imaging modality for rotator cuff tear (RCT) evaluation . But diagnostic accuracy remains constrained by operator experience and sonographic ambiguity of partial-thickness tears ."
+  },
+  {
+    "id": "pubmed:42798367",
+    "title": "Artificial intelligence literacy in Somali education: balancing opportunities, risks, and policy directions.",
+    "abstract": "Somalia's education system continues to face severe constraints, including weak infrastructure, limited teacher support, and unequal access to learning resources. At the same time, generative artificial intelligence is increasingly entering educational practice through tools that can translate language, support writing, generate explanations, and extend tutoring beyond classroom hours. This Perspective argues that Somalia should respond neither by banning AI nor by adopting it without safeguards. Instead, AI literacy should be integrated as a foundational competency across secondary and tertiary education. Such an approach would help students use AI for language support, academic drafting, research planning, and personalized learning while also enabling them to identify hallucinations, bias, plagiarism risks, and privacy concerns. Drawing on a critical synthesis of recent peer-reviewed literature and policy documents, the article outlines the opportunities, risks, and implementation priorities for responsible AI adoption in Somalia. It shows that effective integration requires teacher professional development, curriculum revision, assessment reform, and clear ethical guidance. By combining opportunity with preparedness, Somalia can turn AI into a tool for educational inclusion and future readiness rather than a source of inequality or academic harm.",
+    "authors": [
+      "Ismail Mahad Hersi",
+      "Osman Elmi Omar",
+      "Abdinor Abukar Ahmed",
+      "Kowsar Osman Barre"
+    ],
+    "published": "2026",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42798367/",
+    "pdf_url": null,
+    "doi": "10.3389/frai.2026.1925433",
+    "citations": 0,
+    "venue": "Frontiers in artificial intelligence",
+    "open_access": false,
+    "ai_summary": "Somalia's education system continues to face severe constraints, including weak infrastructure, limited teacher support, and unequal access to learning resources . This Perspective argues that Somalia should respond neither by banning AI nor by adopting it without safeguards . Instead, AI literacy should be integrated as a"
   },
   {
     "id": "pubmed:42798335",
@@ -2912,5 +2906,37 @@
     "venue": "Frontiers in oncology",
     "open_access": false,
     "ai_summary": "Postoperative recurrence remains a major challenge in early-stage non-small cell lung cancer (NSCLC) and pathological TNM staging does not fully capture within-stage heterogeneity ."
+  },
+  {
+    "id": "conf:Conference:https://aclanthology.org/events/acl-2025/#2025acl-long",
+    "title": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    "abstract": "",
+    "authors": [],
+    "published": "",
+    "source": "Conference",
+    "category": "conference",
+    "url": "https://aclanthology.org/events/acl-2025/#2025acl-long",
+    "pdf_url": null,
+    "doi": null,
+    "citations": 0,
+    "venue": "Conference",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "conf:Conference:https://github.com/THUKElab/CLEME",
+    "title": "https://github.com/THUKElab/CLEME",
+    "abstract": "",
+    "authors": [],
+    "published": "",
+    "source": "Conference",
+    "category": "conference",
+    "url": "https://github.com/THUKElab/CLEME",
+    "pdf_url": null,
+    "doi": null,
+    "citations": 0,
+    "venue": "Conference",
+    "open_access": false,
+    "ai_summary": "No abstract available."
   }
 ]
