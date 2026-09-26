@@ -461,48 +461,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.5705/ss.202025.0314",
-    "title": "Transfer Learning for High-dimensional Regression with Compositional Covariates: Application to Microbiome Studies",
-    "abstract": "",
-    "authors": [
-      "Qinqin Hu",
-      "Xiaojing Luo",
-      "Chencheng Ma",
-      "Wang Zhou"
-    ],
-    "published": "2029",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.5705/ss.202025.0314",
-    "pdf_url": null,
-    "doi": "10.5705/ss.202025.0314",
-    "citations": 0,
-    "venue": "Statistica Sinica",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "crossref:10.5705/ss.202026.0109",
-    "title": "Inference for Extreme Value Index Through Individualized Fusion Learning",
-    "abstract": "",
-    "authors": [
-      "Hongfang Sun",
-      "Yu Chen",
-      "Tao Xu",
-      "Zhengjun Zhang"
-    ],
-    "published": "2029",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.5705/ss.202026.0109",
-    "pdf_url": null,
-    "doi": "10.5705/ss.202026.0109",
-    "citations": 0,
-    "venue": "Statistica Sinica",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
     "id": "crossref:10.5705/ss.202025.0205",
     "title": "Sparsity Learning via Structured Functional Factor Augmentation",
     "abstract": "",
@@ -539,6 +497,48 @@
     "url": "https://doi.org/10.5705/ss.202025.0457",
     "pdf_url": null,
     "doi": "10.5705/ss.202025.0457",
+    "citations": 0,
+    "venue": "Statistica Sinica",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "crossref:10.5705/ss.202025.0314",
+    "title": "Transfer Learning for High-dimensional Regression with Compositional Covariates: Application to Microbiome Studies",
+    "abstract": "",
+    "authors": [
+      "Qinqin Hu",
+      "Xiaojing Luo",
+      "Chencheng Ma",
+      "Wang Zhou"
+    ],
+    "published": "2029",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.5705/ss.202025.0314",
+    "pdf_url": null,
+    "doi": "10.5705/ss.202025.0314",
+    "citations": 0,
+    "venue": "Statistica Sinica",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "crossref:10.5705/ss.202026.0109",
+    "title": "Inference for Extreme Value Index Through Individualized Fusion Learning",
+    "abstract": "",
+    "authors": [
+      "Hongfang Sun",
+      "Yu Chen",
+      "Tao Xu",
+      "Zhengjun Zhang"
+    ],
+    "published": "2029",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.5705/ss.202026.0109",
+    "pdf_url": null,
+    "doi": "10.5705/ss.202026.0109",
     "citations": 0,
     "venue": "Statistica Sinica",
     "open_access": false,
@@ -630,11 +630,11 @@
     "source": "Crossref",
     "category": "index",
     "url": "https://doi.org/10.32628/cseit251116279",
-    "pdf_url": null,
+    "pdf_url": "https://ijsrcseit.com/index.php/home/article/download/CSEIT251116279/CSEIT251116279",
     "doi": "10.32628/cseit251116279",
     "citations": 0,
     "venue": "International Journal of Scientific Research in Computer Science, Engineering and Information Technology",
-    "open_access": false,
+    "open_access": true,
     "ai_summary": "The paper proposes the Cognitive Cyber Defense Digital Twin (CCDT) The CCDT constructs a continuously synchronized digital replica of organizational assets . It employs reinforcement learning-based red agents to stress-test detection models ."
   },
   {
@@ -656,28 +656,6 @@
     "venue": "Qlantic Journal of Social Sciences",
     "open_access": false,
     "ai_summary": "Research paper will debate role played by principals in teaching and learning process . Research will embrace a quantitative research design that will seek to answer the question about the relationship between leadership skills of principals and teaching-learning process ."
-  },
-  {
-    "id": "crossref:10.1504/ijims.2028.10081208",
-    "title": "Enhancements to the Deep Learning Architecture for Metaverse Integration in Medical Image Processing",
-    "abstract": "",
-    "authors": [
-      "Chandra Mani",
-      "Suman Avdhesh Yadav",
-      "Smita Sharma",
-      "S. Vikram Singh",
-      "Birendra Kumar Saraswat"
-    ],
-    "published": "2028",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.1504/ijims.2028.10081208",
-    "pdf_url": null,
-    "doi": "10.1504/ijims.2028.10081208",
-    "citations": 0,
-    "venue": "International Journal of Internet Manufacturing and Services",
-    "open_access": false,
-    "ai_summary": "No abstract available."
   },
   {
     "id": "crossref:10.1504/ijims.2028.10076630",
@@ -773,6 +751,28 @@
     "doi": "10.1504/ijaac.2028.10080905",
     "citations": 0,
     "venue": "International Journal of Automation and Control",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "crossref:10.1504/ijims.2028.10081208",
+    "title": "Enhancements to the Deep Learning Architecture for Metaverse Integration in Medical Image Processing",
+    "abstract": "",
+    "authors": [
+      "Chandra Mani",
+      "Suman Avdhesh Yadav",
+      "Smita Sharma",
+      "S. Vikram Singh",
+      "Birendra Kumar Saraswat"
+    ],
+    "published": "2028",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.1504/ijims.2028.10081208",
+    "pdf_url": null,
+    "doi": "10.1504/ijims.2028.10081208",
+    "citations": 0,
+    "venue": "International Journal of Internet Manufacturing and Services",
     "open_access": false,
     "ai_summary": "No abstract available."
   },
@@ -1570,6 +1570,28 @@
     "ai_summary": "No abstract available."
   },
   {
+    "id": "arxiv:2609.30258v1",
+    "title": "Temporal Gradient Inversion for Private Trajectory Reconstruction in Embodied Reinforcement Learning",
+    "abstract": "Distributed learning in embodied reinforcement-learning agents offers a degree of privacy by retaining raw sensor data on-device and transmitting only policy gradients to the server. Yet temporal structure can amplify this leakage beyond single-frame attacks. We introduce Temporal Reconstruction Attack on Consecutive Encodings (TRACE), an amortized temporal gradient-inversion attack that autoregressively reconstructs the sequence of private observation-action trajectories from per-step policy-learning gradients. The attack exploits two structural signals ignored by prior single-frame methods: (i) cross-time correlation between successive embodied gradients, which we formalize via a conditional mutual-information bound, and (ii) closed-form action recovery from policy-head gradient structure, which we prove exact when standard entropy regularization is sufficiently small. On held-out embodied scenes, TRACE reaches $18.8$ dB PSNR with near-perfect action recovery at $3$-$4.5$ ms per reconstructed frame, dominating the learning-based baseline across all reconstruction metrics and exceeding optimization attacks while running orders of magnitude faster. Further evaluation demonstrates TRACE's broader applicability across recurrent, residual, and compact transformer victim architectures, multi-modal inputs, and larger discrete action spaces. Defense experiments suggest that protecting temporal gradient streams may require sequence-aware privacy mechanisms.",
+    "authors": [
+      "Sudip Bhujel",
+      "Shanghao Shi",
+      "Ruiquan Huang",
+      "Ning Zhang",
+      "Yang Xiao"
+    ],
+    "published": "2026-09-24",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2609.30258v1",
+    "pdf_url": "https://arxiv.org/pdf/2609.30258v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "Temporal Reconstruction Attack on Consecutive Encodings (TRACE) is an amortized temporal gradient-inversion attack . The attack exploits two structural signals ignored by prior single-frame methods . On held-out embodied scenes, TRACE reaches $18"
+  },
+  {
     "id": "arxiv:2609.30249v1",
     "title": "RAPID: Robot Agentic Programming from Demonstrations",
     "abstract": "Coding agents have demonstrated enormous success in solving complex programming problems. To leverage their potential for robot systems, this work introduces Robot Agentic Programming from Demonstrations (RAPID), which automatically generates, verifies, and refines robot programs, given a single visual human demonstration. The iterative agentic loop of code refinement requires several key ingredients: (i) a testable task specification, (ii) action primitives for robot execution, and (iii) an interactive environment for program execution and verification. RAPID infers all three from the demonstration automatically. To make the resulting program reusable beyond the demonstration setting, RAPID uses an object-centric relational program representation that focuses on the underlying structure of the demonstrated strategy rather than the specific motion per se: it expresses the action primitives as trajectory-optimization programs that realize object-level motion effects, while composing them through relational constraints that capture scene-specific geometry at run time. We evaluated RAPID in simulation on eight challenging contact-rich nonprehensile manipulation tasks as well as general prehensile manipulation tasks in the LIBERO-Pro benchmark. We also successfully deployed it on a real Franka arm and evaluated on all eight nonprehensile tasks. In all experiments, RAPID demonstrated strong performance, with generalization over object pose, shape, material, and environment. Website: https://yuyaoliu.me/projects/rapid.",
@@ -1590,6 +1612,29 @@
     "venue": "arXiv preprint",
     "open_access": true,
     "ai_summary": "Robot Agentic Programming from Demonstrations (RAPID) automatically generates, verifies, and refines robot programs . RAPID infers all three from the demonstration automatically ."
+  },
+  {
+    "id": "arxiv:2609.30264v1",
+    "title": "AD-WM: Action-Discriminative World Models for Counterfactual Model Predictive Control",
+    "abstract": "Latent world models are typically trained to predict factual transitions, whereas model predictive control (MPC) must compare alternative actions from the same state. A model can therefore achieve low factual prediction error yet poorly distinguish candidate actions. We introduce AD-WM, an action-discriminative joint-embedding world model for counterfactual MPC. AD-WM combines residual latent dynamics with predictor-level action-recovery regularization, using inverse dynamics and a normalized recovery objective motivated by conditional mutual information. Both objectives encourage planning transitions to preserve action information; their auxiliary heads are discarded at test time, leaving MPC unchanged. On OGBench-Cube, AD-WM improves hard-start success from 3.7% to 52.0% over a matched LeWM baseline and improves mean success over the reproduced baseline in four of five simulation environments. Planning diagnostics show that factual prediction error and whole-bank action ranking do not follow the closed-loop success ordering, whereas CEM-aligned elite regret tracks success more closely. With a frozen V-JEPA 2 encoder and matched DROID post-training, AD-WM also improves zero-shot transfer to our Franka setup, increasing basic pick-and-place success from 42.2% to 71.1% without lab-specific adaptation. These results suggest that world models for planning should preserve action-dependent differences needed for counterfactual selection, rather than optimize factual prediction accuracy alone. More videos and code are available at https://ad-wm.github.io/.",
+    "authors": [
+      "Jiabin Qiu",
+      "Zixuan Chen",
+      "Hongye Cao",
+      "Jieqi Shi",
+      "Jing Huo",
+      "Yang Gao"
+    ],
+    "published": "2026-09-24",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2609.30264v1",
+    "pdf_url": "https://arxiv.org/pdf/2609.30264v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "Latent world models are typically trained to predict factual transitions . But model predictive control (MPC) must compare alternative actions from the same state . A model can achieve low factual prediction error yet poorly distinguish candidate actions ."
   },
   {
     "id": "arxiv:2609.30266v1",
@@ -1650,51 +1695,6 @@
     "venue": "arXiv preprint",
     "open_access": true,
     "ai_summary": "Conspiratorial discourse on social media is not always expressed through explicit claims or stable lexical markers . The main challenge is not only recognizing conspiracy-related claims, but inferring the speaker's intent -- the utterance's illocutionary force . We argue that this can be achieved through the use of relevant social contexts ."
-  },
-  {
-    "id": "arxiv:2609.30264v1",
-    "title": "AD-WM: Action-Discriminative World Models for Counterfactual Model Predictive Control",
-    "abstract": "Latent world models are typically trained to predict factual transitions, whereas model predictive control (MPC) must compare alternative actions from the same state. A model can therefore achieve low factual prediction error yet poorly distinguish candidate actions. We introduce AD-WM, an action-discriminative joint-embedding world model for counterfactual MPC. AD-WM combines residual latent dynamics with predictor-level action-recovery regularization, using inverse dynamics and a normalized recovery objective motivated by conditional mutual information. Both objectives encourage planning transitions to preserve action information; their auxiliary heads are discarded at test time, leaving MPC unchanged. On OGBench-Cube, AD-WM improves hard-start success from 3.7% to 52.0% over a matched LeWM baseline and improves mean success over the reproduced baseline in four of five simulation environments. Planning diagnostics show that factual prediction error and whole-bank action ranking do not follow the closed-loop success ordering, whereas CEM-aligned elite regret tracks success more closely. With a frozen V-JEPA 2 encoder and matched DROID post-training, AD-WM also improves zero-shot transfer to our Franka setup, increasing basic pick-and-place success from 42.2% to 71.1% without lab-specific adaptation. These results suggest that world models for planning should preserve action-dependent differences needed for counterfactual selection, rather than optimize factual prediction accuracy alone. More videos and code are available at https://ad-wm.github.io/.",
-    "authors": [
-      "Jiabin Qiu",
-      "Zixuan Chen",
-      "Hongye Cao",
-      "Jieqi Shi",
-      "Jing Huo",
-      "Yang Gao"
-    ],
-    "published": "2026-09-24",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2609.30264v1",
-    "pdf_url": "https://arxiv.org/pdf/2609.30264v1",
-    "doi": null,
-    "citations": 0,
-    "venue": "arXiv preprint",
-    "open_access": true,
-    "ai_summary": "Latent world models are typically trained to predict factual transitions . But model predictive control (MPC) must compare alternative actions from the same state . A model can achieve low factual prediction error yet poorly distinguish candidate actions ."
-  },
-  {
-    "id": "arxiv:2609.30258v1",
-    "title": "Temporal Gradient Inversion for Private Trajectory Reconstruction in Embodied Reinforcement Learning",
-    "abstract": "Distributed learning in embodied reinforcement-learning agents offers a degree of privacy by retaining raw sensor data on-device and transmitting only policy gradients to the server. Yet temporal structure can amplify this leakage beyond single-frame attacks. We introduce Temporal Reconstruction Attack on Consecutive Encodings (TRACE), an amortized temporal gradient-inversion attack that autoregressively reconstructs the sequence of private observation-action trajectories from per-step policy-learning gradients. The attack exploits two structural signals ignored by prior single-frame methods: (i) cross-time correlation between successive embodied gradients, which we formalize via a conditional mutual-information bound, and (ii) closed-form action recovery from policy-head gradient structure, which we prove exact when standard entropy regularization is sufficiently small. On held-out embodied scenes, TRACE reaches $18.8$ dB PSNR with near-perfect action recovery at $3$-$4.5$ ms per reconstructed frame, dominating the learning-based baseline across all reconstruction metrics and exceeding optimization attacks while running orders of magnitude faster. Further evaluation demonstrates TRACE's broader applicability across recurrent, residual, and compact transformer victim architectures, multi-modal inputs, and larger discrete action spaces. Defense experiments suggest that protecting temporal gradient streams may require sequence-aware privacy mechanisms.",
-    "authors": [
-      "Sudip Bhujel",
-      "Shanghao Shi",
-      "Ruiquan Huang",
-      "Ning Zhang",
-      "Yang Xiao"
-    ],
-    "published": "2026-09-24",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2609.30258v1",
-    "pdf_url": "https://arxiv.org/pdf/2609.30258v1",
-    "doi": null,
-    "citations": 0,
-    "venue": "arXiv preprint",
-    "open_access": true,
-    "ai_summary": "Temporal Reconstruction Attack on Consecutive Encodings (TRACE) is an amortized temporal gradient-inversion attack . The attack exploits two structural signals ignored by prior single-frame methods . On held-out embodied scenes, TRACE reaches $18"
   },
   {
     "id": "arxiv:2609.30247v1",
@@ -1764,7 +1764,7 @@
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "Jev maps unstructured language to probability distributions over finite choices . The model uses the model's option probabilities to refine fluent context additions while preserving the source, question, choices, and gold answer ."
+    "ai_summary": "Jev maps unstructured language to probability distributions over finite choices . In 229 cases, Jev assigns at least 0.7 probability to the fixed wrong option for each initially correct item ."
   },
   {
     "id": "arxiv:2609.30238v1",
@@ -2504,7 +2504,7 @@
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "Future quantum networks will make use of entanglement to perform numerous tasks, such as sending quantum information over long distances . In general, these tasks will need to be performed simultaneously in various regions of a network, while minimizing resources and latency ."
+    "ai_summary": "Future quantum networks will make use of entanglement to perform numerous tasks, such as sending quantum information over long distances . In general, these tasks will need to be performed simultaneously in various regions of a network, while minimizing resources and latency . We will require policies for scheduling link-level entanglements resources, and using the"
   },
   {
     "id": "arxiv:2609.30151v1",
@@ -2766,29 +2766,6 @@
     "ai_summary": "Early identification of Stage B2 myxomatous mitral valve disease in dogs is critical for initiating appropriate treatment to delay the onset of heart failure . The model achieved an accuracy of 0.825 [95% confidence interval (CI): 0.738-0"
   },
   {
-    "id": "pubmed:42798415",
-    "title": "NeuroTrustNet: a cost-effective multimodal ensemble framework for brain tumor classification under cross-dataset variability.",
-    "abstract": "Accurate brain tumor classification from Magnetic Resonance Imaging (MRI) remains challenging due to dataset heterogeneity, class imbalance, and limited interpretability, while practical deployment further requires models that balance predictive performance with computational efficiency. In this work, we propose ",
-    "authors": [
-      "Ferdaus Ibne Aziz",
-      "Insoo Koo",
-      "Tumennast Erdenebold",
-      "Jubayer A Hossain",
-      "Asle Fagerstrøm",
-      "Debasish Ghose"
-    ],
-    "published": "2026",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42798415/",
-    "pdf_url": null,
-    "doi": "10.3389/frai.2026.1900160",
-    "citations": 0,
-    "venue": "Frontiers in artificial intelligence",
-    "open_access": false,
-    "ai_summary": "Accurate brain tumor classification from Magnetic Resonance Imaging (MRI) remains challenging due to dataset heterogeneity, class imbalance, and limited interpretability . In this work, we propose  proposals that balance predictive performance with computational efficiency ."
-  },
-  {
     "id": "pubmed:42798396",
     "title": "The value of machine learning models in predicting lung metastasis in papillary thyroid carcinoma.",
     "abstract": "To construct a machine learning (ML) model to predict the risk of lung metastasis in papillary thyroid carcinoma (PTC). This retrospective study included 681 PTC patients who received radioactive iodine (RAI) treatment for the first time. Among them, 71 patients were diagnosed with lung metastasis (10.4%). The patients' age, sex, stimulated thyroglobulin (s-Tg) level ahead of  The selected features in the final model included \"maximum tumor diameter\", \"number of invading tumors\", and \"s-Tg\". The RF model had the highest area under the curve (AUC) of 0.935, whereas the SVM had the lowest generalization ability (AUC = 0.863). In the testing of all models, LR achieved an AUC of 0.928. Although the RF model had a slightly higher AUC of 0.935, the LR model was ultimately chosen due to its superior generalization ability as indicated by its highest performance in AUPRC of 0.74 in cross-validation. DCA showed that under most threshold probabilities, the net benefit of the LR model exceeded other models. A nomogram was used to display the LR results. LASSO regression analysis identified that large primary tumor, high number of invading tumors, high s-Tg level ahead of ",
@@ -2814,6 +2791,29 @@
     "venue": "Frontiers in endocrinology",
     "open_access": false,
     "ai_summary": "Study included 681 PTC patients who received radioactive iodine (RAI) treatment for the first time . Among them, 71 patients were diagnosed with lung metastasis (10.4%) The patients' age, sex, stimulated thyroglobulin (s-Tg) level ahead of   the final model ."
+  },
+  {
+    "id": "pubmed:42798415",
+    "title": "NeuroTrustNet: a cost-effective multimodal ensemble framework for brain tumor classification under cross-dataset variability.",
+    "abstract": "Accurate brain tumor classification from Magnetic Resonance Imaging (MRI) remains challenging due to dataset heterogeneity, class imbalance, and limited interpretability, while practical deployment further requires models that balance predictive performance with computational efficiency. In this work, we propose ",
+    "authors": [
+      "Ferdaus Ibne Aziz",
+      "Insoo Koo",
+      "Tumennast Erdenebold",
+      "Jubayer A Hossain",
+      "Asle Fagerstrøm",
+      "Debasish Ghose"
+    ],
+    "published": "2026",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42798415/",
+    "pdf_url": null,
+    "doi": "10.3389/frai.2026.1900160",
+    "citations": 0,
+    "venue": "Frontiers in artificial intelligence",
+    "open_access": false,
+    "ai_summary": "Accurate brain tumor classification from Magnetic Resonance Imaging (MRI) remains challenging due to dataset heterogeneity, class imbalance, and limited interpretability . In this work, we propose  proposals that balance predictive performance with computational efficiency ."
   },
   {
     "id": "pubmed:42798377",
@@ -2906,37 +2906,5 @@
     "venue": "Frontiers in oncology",
     "open_access": false,
     "ai_summary": "Postoperative recurrence remains a major challenge in early-stage non-small cell lung cancer (NSCLC) and pathological TNM staging does not fully capture within-stage heterogeneity ."
-  },
-  {
-    "id": "conf:Conference:https://aclanthology.org/events/acl-2025/#2025acl-long",
-    "title": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
-    "abstract": "",
-    "authors": [],
-    "published": "",
-    "source": "Conference",
-    "category": "conference",
-    "url": "https://aclanthology.org/events/acl-2025/#2025acl-long",
-    "pdf_url": null,
-    "doi": null,
-    "citations": 0,
-    "venue": "Conference",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "conf:Conference:https://github.com/THUKElab/CLEME",
-    "title": "https://github.com/THUKElab/CLEME",
-    "abstract": "",
-    "authors": [],
-    "published": "",
-    "source": "Conference",
-    "category": "conference",
-    "url": "https://github.com/THUKElab/CLEME",
-    "pdf_url": null,
-    "doi": null,
-    "citations": 0,
-    "venue": "Conference",
-    "open_access": false,
-    "ai_summary": "No abstract available."
   }
 ]
