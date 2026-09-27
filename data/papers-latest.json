@@ -137,6 +137,22 @@
     "ai_summary": "No abstract available."
   },
   {
+    "id": "crossref:10.3998/mjcsl.5730",
+    "title": "Title Pending 5730",
+    "abstract": "",
+    "authors": [],
+    "published": "2034",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.3998/mjcsl.5730",
+    "pdf_url": null,
+    "doi": "10.3998/mjcsl.5730",
+    "citations": 0,
+    "venue": "Michigan Journal of Community Service Learning",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
     "id": "crossref:10.3998/mjcsl.6294",
     "title": "Title Pending 6294",
     "abstract": "",
@@ -153,16 +169,16 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.3998/mjcsl.5730",
-    "title": "Title Pending 5730",
+    "id": "crossref:10.3998/mjcsl.3643",
+    "title": "Title Pending 3643",
     "abstract": "",
     "authors": [],
-    "published": "2034",
+    "published": "2033",
     "source": "Crossref",
     "category": "index",
-    "url": "https://doi.org/10.3998/mjcsl.5730",
+    "url": "https://doi.org/10.3998/mjcsl.3643",
     "pdf_url": null,
-    "doi": "10.3998/mjcsl.5730",
+    "doi": "10.3998/mjcsl.3643",
     "citations": 0,
     "venue": "Michigan Journal of Community Service Learning",
     "open_access": false,
@@ -182,22 +198,6 @@
     "citations": 0,
     "venue": "Michigan Journal of Community Service Learning",
     "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "crossref:10.3998/mjcsl.3643",
-    "title": "Title Pending 3643",
-    "abstract": "",
-    "authors": [],
-    "published": "2033",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.3998/mjcsl.3643",
-    "pdf_url": "https://doi.org/10.3998/mjcsl.3643",
-    "doi": "10.3998/mjcsl.3643",
-    "citations": 0,
-    "venue": "Michigan Journal of Community Service Learning",
-    "open_access": true,
     "ai_summary": "No abstract available."
   },
   {
@@ -482,27 +482,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.5705/ss.202026.0109",
-    "title": "Inference for Extreme Value Index Through Individualized Fusion Learning",
-    "abstract": "",
-    "authors": [
-      "Hongfang Sun",
-      "Yu Chen",
-      "Tao Xu",
-      "Zhengjun Zhang"
-    ],
-    "published": "2029",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.5705/ss.202026.0109",
-    "pdf_url": null,
-    "doi": "10.5705/ss.202026.0109",
-    "citations": 0,
-    "venue": "Statistica Sinica",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
     "id": "crossref:10.5705/ss.202025.0205",
     "title": "Sparsity Learning via Structured Functional Factor Augmentation",
     "abstract": "",
@@ -537,11 +516,32 @@
     "source": "Crossref",
     "category": "index",
     "url": "https://doi.org/10.5705/ss.202025.0457",
-    "pdf_url": "https://arxiv.org/pdf/2608.22595v1",
+    "pdf_url": null,
     "doi": "10.5705/ss.202025.0457",
     "citations": 0,
     "venue": "Statistica Sinica",
-    "open_access": true,
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "crossref:10.5705/ss.202026.0109",
+    "title": "Inference for Extreme Value Index Through Individualized Fusion Learning",
+    "abstract": "",
+    "authors": [
+      "Hongfang Sun",
+      "Yu Chen",
+      "Tao Xu",
+      "Zhengjun Zhang"
+    ],
+    "published": "2029",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.5705/ss.202026.0109",
+    "pdf_url": null,
+    "doi": "10.5705/ss.202026.0109",
+    "citations": 0,
+    "venue": "Statistica Sinica",
+    "open_access": false,
     "ai_summary": "No abstract available."
   },
   {
@@ -602,6 +602,24 @@
     "ai_summary": "No abstract available."
   },
   {
+    "id": "crossref:10.32628/cseit251116279",
+    "title": "Cyber Defense Digital Twins: A Federated Learning and Zero-Trust AI Architecture for Autonomous Threat Prediction and Response",
+    "abstract": "<jats:p>Modern enterprise networks operate under persistent threats that exploit cloud-native misconfigurations, identity sprawl, and API vulnerabilities at machine speed. Existing security operations center (SOC) architectures remain largely reactive, signature-dependent, and incapable of predicting multi-stage lateral movement. This paper proposes the Cognitive Cyber Defense Digital Twin (CCDT), a unified architecture integrating federated learning (FL), graph neural network (GNN)-based attack-path forecasting, adversarially hardened detection models, and autonomous Security Orchestration, Automation, and Response (SOAR) with deception engineering. The CCDT constructs a continuously synchronized digital replica of organizational assets and employs reinforcement learning-based red agents to stress-test detection models. A federated intelligence mesh enables cross-organizational privacy-preserving gradient sharing. Experimental evaluations against CICIDS-2018 and LANL datasets demonstrate 52% faster attack-path detection, 41% reduction in false positive rate, and 60% reduction in mean-time-to-respond (MTTR) compared to traditional SOC baselines. Integrated Explainable AI (XAI) modules using SHAP values enable audit-ready compliance reporting. The CCDT represents a paradigm shift from reactive monitoring to predictive, autonomous, and privacy-preserving cyber defense for hybrid cloud environments.</jats:p>",
+    "authors": [
+      "Sivaramakrishnan Narayanan"
+    ],
+    "published": "2028",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.32628/cseit251116279",
+    "pdf_url": null,
+    "doi": "10.32628/cseit251116279",
+    "citations": 0,
+    "venue": "International Journal of Scientific Research in Computer Science, Engineering and Information Technology",
+    "open_access": false,
+    "ai_summary": "The paper proposes the Cognitive Cyber Defense Digital Twin (CCDT) The CCDT constructs a continuously synchronized digital replica of organizational assets . It employs reinforcement learning-based red agents to stress-test detection models ."
+  },
+  {
     "id": "crossref:10.71126/nijre.v2i1.16",
     "title": "Transforming Education through Technology: The Case of COVID 19 Digital Learning in Nagaland",
     "abstract": "<jats:p>Through the perspective of the COVID-19 pandemic and the disruption and opportunity it engendered, this chapter follows a transformative effect of EdTech and Digital education in India particularly in Nagaland through analysis. Drawing upon national policy frameworks, conceptual literature on educational technology, and contextual evidence based on the case of Nagaland, the chapter considers the rapid migration to digital learning as an emergency strategy (in response to the ongoing institution closures) based on the stark shifts in pedagogical practice, access to education services, and preparedness. The findings show that, including the ability of national programmes such as NEP 2020, SWAYAM, DIKSHA, PM e-VIDYA, and others, to promote access to digital tools was low within periphery or hill areas (e.g., Nagaland), due to lack of infrastructural resources, digital divide, unprepared teachers and economic/social divides, and more. The pandemic exposed the deep social and infrastructure divides in connectivity, device availability, assessment and learner engagement, with implications that were especially grave in rural and tribal settings. Although it accelerated the pace of innovation and the application of blended and low-tech learning practices teachers have been experimenting with digital platforms and the post-COVID recovery process, including remedial programmes and hybrid instruction. The chapter also discusses that blended learning is the most fitting, viable and sustainable approach for reaching the technological level in the field of educational technology at Nagaland. It implies that technology-mediated education can improve equity, quality, and resilience, but only under the conditions of inclusive policy design, strong digital infrastructure, vigorous teacher capability building, and culturally appropriate digital content.\nKeywords: Educational technology, digital learning, COVID-19, Nagaland, online education, Challenges, blended learning</jats:p>",
@@ -640,40 +658,23 @@
     "ai_summary": "Research paper will debate role played by principals in teaching and learning process . Research will embrace a quantitative research design that will seek to answer the question about the relationship between leadership skills of principals and teaching-learning process ."
   },
   {
-    "id": "crossref:10.32628/cseit251116279",
-    "title": "Cyber Defense Digital Twins: A Federated Learning and Zero-Trust AI Architecture for Autonomous Threat Prediction and Response",
-    "abstract": "<jats:p>Modern enterprise networks operate under persistent threats that exploit cloud-native misconfigurations, identity sprawl, and API vulnerabilities at machine speed. Existing security operations center (SOC) architectures remain largely reactive, signature-dependent, and incapable of predicting multi-stage lateral movement. This paper proposes the Cognitive Cyber Defense Digital Twin (CCDT), a unified architecture integrating federated learning (FL), graph neural network (GNN)-based attack-path forecasting, adversarially hardened detection models, and autonomous Security Orchestration, Automation, and Response (SOAR) with deception engineering. The CCDT constructs a continuously synchronized digital replica of organizational assets and employs reinforcement learning-based red agents to stress-test detection models. A federated intelligence mesh enables cross-organizational privacy-preserving gradient sharing. Experimental evaluations against CICIDS-2018 and LANL datasets demonstrate 52% faster attack-path detection, 41% reduction in false positive rate, and 60% reduction in mean-time-to-respond (MTTR) compared to traditional SOC baselines. Integrated Explainable AI (XAI) modules using SHAP values enable audit-ready compliance reporting. The CCDT represents a paradigm shift from reactive monitoring to predictive, autonomous, and privacy-preserving cyber defense for hybrid cloud environments.</jats:p>",
-    "authors": [
-      "Sivaramakrishnan Narayanan"
-    ],
-    "published": "2028",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.32628/cseit251116279",
-    "pdf_url": null,
-    "doi": "10.32628/cseit251116279",
-    "citations": 0,
-    "venue": "International Journal of Scientific Research in Computer Science, Engineering and Information Technology",
-    "open_access": false,
-    "ai_summary": "The paper proposes the Cognitive Cyber Defense Digital Twin (CCDT) The CCDT constructs a continuously synchronized digital replica of organizational assets . It employs reinforcement learning-based red agents to stress-test detection models ."
-  },
-  {
-    "id": "crossref:10.1504/ijil.2028.10079816",
-    "title": "Inserting science: an interdisciplinary, hands-on lesson to enhance scientific literacy in marketing education",
+    "id": "crossref:10.1504/ijims.2028.10076630",
+    "title": "Left Ventricle Extraction Using a DENSENET-U-Net Integrated Deep Learning Approach",
     "abstract": "",
     "authors": [
-      "Emily M. Moscato",
-      "Ernest Baskin",
-      "Brian M. Forster"
+      "X. Ignatious Viola",
+      "R. Shoba Rani",
+      "G. Savitha",
+      "R. Surekha"
     ],
     "published": "2028",
     "source": "Crossref",
     "category": "index",
-    "url": "https://doi.org/10.1504/ijil.2028.10079816",
+    "url": "https://doi.org/10.1504/ijims.2028.10076630",
     "pdf_url": null,
-    "doi": "10.1504/ijil.2028.10079816",
+    "doi": "10.1504/ijims.2028.10076630",
     "citations": 0,
-    "venue": "International Journal of Innovation and Learning",
+    "venue": "International Journal of Internet Manufacturing and Services",
     "open_access": false,
     "ai_summary": "No abstract available."
   },
@@ -700,23 +701,22 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.1504/ijims.2028.10076630",
-    "title": "Left Ventricle Extraction Using a DENSENET-U-Net Integrated Deep Learning Approach",
+    "id": "crossref:10.1504/ijil.2028.10079816",
+    "title": "Inserting science: an interdisciplinary, hands-on lesson to enhance scientific literacy in marketing education",
     "abstract": "",
     "authors": [
-      "X. Ignatious Viola",
-      "R. Shoba Rani",
-      "G. Savitha",
-      "R. Surekha"
+      "Emily M. Moscato",
+      "Ernest Baskin",
+      "Brian M. Forster"
     ],
     "published": "2028",
     "source": "Crossref",
     "category": "index",
-    "url": "https://doi.org/10.1504/ijims.2028.10076630",
+    "url": "https://doi.org/10.1504/ijil.2028.10079816",
     "pdf_url": null,
-    "doi": "10.1504/ijims.2028.10076630",
+    "doi": "10.1504/ijil.2028.10079816",
     "citations": 0,
-    "venue": "International Journal of Internet Manufacturing and Services",
+    "venue": "International Journal of Innovation and Learning",
     "open_access": false,
     "ai_summary": "No abstract available."
   },
@@ -759,20 +759,26 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.1504/ijaac.2028.10080905",
-    "title": "Innovative deep learning computational approach for wheat disease detection employing faster region-based convolutional neural network",
+    "id": "crossref:10.1504/ijbpm.2028.10081045",
+    "title": "Evaluating teaching methods for mature learners: a mixed-methods investigation of learning preferences in higher education",
     "abstract": "",
     "authors": [
-      "Shikai Zhou"
+      "Nick Papé",
+      "Nazim Uddin",
+      "Rahaman Hasan",
+      "Tommie Anderson Jaquest",
+      "Ilias Mahmud",
+      "Gerry Takamura",
+      "Jonathan Liu"
     ],
     "published": "2028",
     "source": "Crossref",
     "category": "index",
-    "url": "https://doi.org/10.1504/ijaac.2028.10080905",
+    "url": "https://doi.org/10.1504/ijbpm.2028.10081045",
     "pdf_url": null,
-    "doi": "10.1504/ijaac.2028.10080905",
+    "doi": "10.1504/ijbpm.2028.10081045",
     "citations": 0,
-    "venue": "International Journal of Automation and Control",
+    "venue": "International Journal of Business Performance Management",
     "open_access": false,
     "ai_summary": "No abstract available."
   },
@@ -817,7 +823,7 @@
     "title": "From Sparse to Dense: Label-Efficient Weakly Supervised Segmentation for Images and Videos",
     "abstract": "",
     "authors": [
-      "Jian Wang"
+      "Wang, Jian"
     ],
     "published": "2027-01-01",
     "source": "OpenAlex",
@@ -897,6 +903,57 @@
     "venue": "PubMed",
     "open_access": false,
     "ai_summary": "No abstract available."
+  },
+  {
+    "id": "pubmed:42801146",
+    "title": "Plasma circulating tumor deoxyribonucleic acid methylation enables noninvasive disease stratification beyond prostate-specific antigen in prostate cancer.",
+    "abstract": "Accurate discrimination between localized and metastatic prostate cancer (PCa) remains a critical unmet need in clinical practice, particularly in patients with equivocal imaging findings or biologically high-risk disease. Circulating tumor DNA (ctDNA) methylation represents a stable epigenetic signal that may reflect tumor burden and disease state. We aimed to evaluate whether plasma ctDNA methylation markers can accurately discriminate disease state beyond conventional clinical parameters. A total of 174 patients were included, comprising localized PCa ( Plasma methylation levels of C2orf88 and HAPLN3 increased significantly with advancing disease stage ( A two-marker ctDNA methylation signature enables accurate discrimination between localized and metastatic PCa. This plasma-based epigenetic biomarker captures clinically meaningful disease biology and offers a scalable, noninvasive approach for refined disease stratification.",
+    "authors": [
+      "Da-Won Kim",
+      "Min-Hyeok Jung",
+      "Hyungseok Cho",
+      "Jiwon Cha",
+      "Ki-Ho Han",
+      "Jae Heon Choi",
+      "Mungchan Park",
+      "Sang Hyun Park",
+      "Cheol Kyu Oh",
+      "Seung-Taek Lee",
+      "Young-Joon Kim",
+      "Jae-Seung Chung"
+    ],
+    "published": "2026-Sep",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42801146/",
+    "pdf_url": null,
+    "doi": "10.1016/j.prnil.2026.05.002",
+    "citations": 0,
+    "venue": "Prostate international",
+    "open_access": false,
+    "ai_summary": "Accurate discrimination between localized and metastatic prostate cancer (PCa) remains a critical unmet need in clinical practice . Circulating tumor DNA (ctDNA) methylation represents a stable epigenetic signal that may reflect tumor burden and disease state ."
+  },
+  {
+    "id": "pubmed:42801264",
+    "title": "Three Large Language Models (LLMs), One Heart: A Comparative Evaluation of ChatGPT, Claude, and DeepSeek in Cardiac Imaging Patient Education.",
+    "abstract": "Introduction Clear, accurate, and accessible patient education is central to informed decision-making and high-quality cardiovascular care. Large language models (LLMs) are increasingly being used to generate health information, offering the potential to rapidly produce patient education materials. However, concerns remain regarding the readability, quality, clinical accuracy, and adherence to evidence-based recommendations of AI-generated content. This study compared the performance of ChatGPT (OpenAI, San Francisco, CA), Claude (Anthropic PBC, San Francisco, CA), and DeepSeek (DeepSeek Artificial Intelligence Co., Ltd., Hangzhou, China) in generating patient education leaflets for three commonly performed cardiac imaging procedures. Methodology A cross-sectional study was conducted using standardized prompts to generate patient education leaflets for cardiac magnetic resonance imaging (CMR), coronary computed tomography angiography (CTCA), and invasive coronary angiography (ICA) using ChatGPT, Claude, and DeepSeek. Nine leaflets were evaluated for readability using Flesch-Kincaid Grade Level, Gunning Fog Index, Simple Measure of Gobbledygook (SMOG), Flesch Reading Ease, word count, and sentence count. Information quality was assessed using the modified DISCERN (mDISCERN) instrument. Guideline adherence was assessed using investigator-developed checklists based on recommendations from relevant professional societies and patient education resources. Expert clinical assessment was independently performed by two reviewers using a structured 16-point scoring system. Comparisons among the three models were performed using the Kruskal-Wallis test. Results DeepSeek demonstrated the most favorable overall readability profile, with the highest Flesch Reading Ease score (70.73 ± 1.74) compared with ChatGPT (50.70 ± 7.88) and Claude (60.93 ± 5.51; H(2) = 7.20, p = 0.027). DeepSeek achieved the highest mean mDISCERN score (3.83 ± 0.29), followed by ChatGPT (3.50 ± 0.50) and Claude (2.67 ± 0.29), although the difference was not statistically significant (H(2) = 5.593, p = 0.061). ChatGPT demonstrated the highest mean guideline adherence (91.54 ± 3.39%), followed by DeepSeek (89.33 ± 3.41%) and Claude (88.07 ± 6.48%; H(2) = 0.707, p = 0.702). DeepSeek achieved the highest expert clinical assessment score (16.00 ± 0.00), followed by ChatGPT (15.67 ± 0.58) and Claude (14.33 ± 0.58), with no statistically significant difference (H(2) = 5.394, p = 0.067). A significant difference was also observed in total word count (H(2) = 7.20, p = 0.027). Conclusions All three LLMs generated high-quality patient education leaflets for common cardiac imaging procedures, with each model demonstrating distinct strengths across different evaluation domains. DeepSeek showed the most favorable readability and achieved the highest information quality and expert clinical assessment scores, whereas ChatGPT demonstrated the greatest guideline adherence. However, all three models produced content above recommended patient health-literacy standards. LLMs may therefore serve as valuable clinician-assisted tools for developing cardiac imaging education materials, but expert review and readability optimization remain essential before clinical implementation.",
+    "authors": [
+      "Tooba Fatima Iram",
+      "Haroon Abdullah",
+      "Naazira Begum",
+      "Suraiya Begum",
+      "Shaheed Antlee"
+    ],
+    "published": "2026-Aug",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42801264/",
+    "pdf_url": null,
+    "doi": "10.7759/cureus.115285",
+    "citations": 0,
+    "venue": "Cureus",
+    "open_access": false,
+    "ai_summary": "Large language models (LLMs) are increasingly being used to generate health information . However, concerns remain regarding the readability, quality, clinical accuracy, and adherence to evidence-based recommendations of AI-generated content ."
   },
   {
     "id": "openalex:W7118720654",
@@ -1392,6 +1449,24 @@
     "ai_summary": "No abstract available."
   },
   {
+    "id": "openalex:W7214509296",
+    "title": "GUIDED BY INNOVATION: A PHENOMENOLOGICAL STUDY OF VIRTUAL ELEMENTARY TEACHERS’ PERCEPTIONS OF GENERATIVE ARTIFICIAL INTELLIGENCE INTEGRATION",
+    "abstract": "",
+    "authors": [
+      "Lisa Marie Berry"
+    ],
+    "published": "2026-10-01",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://openalex.org/W7214509296",
+    "pdf_url": "https://firescholars.seu.edu/context/coe/article/1198/viewcontent/Berry_Dissertation.pdf",
+    "doi": null,
+    "citations": 0,
+    "venue": "SEU FIRE Scholars (Southeastern University)",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
     "id": "openalex:W7162760937",
     "title": "Simultaneous Cortical Responses to Multiple Written Words",
     "abstract": "",
@@ -1524,6 +1599,47 @@
     "ai_summary": "No abstract available."
   },
   {
+    "id": "arxiv:2609.30249v1",
+    "title": "RAPID: Robot Agentic Programming from Demonstrations",
+    "abstract": "Coding agents have demonstrated enormous success in solving complex programming problems. To leverage their potential for robot systems, this work introduces Robot Agentic Programming from Demonstrations (RAPID), which automatically generates, verifies, and refines robot programs, given a single visual human demonstration. The iterative agentic loop of code refinement requires several key ingredients: (i) a testable task specification, (ii) action primitives for robot execution, and (iii) an interactive environment for program execution and verification. RAPID infers all three from the demonstration automatically. To make the resulting program reusable beyond the demonstration setting, RAPID uses an object-centric relational program representation that focuses on the underlying structure of the demonstrated strategy rather than the specific motion per se: it expresses the action primitives as trajectory-optimization programs that realize object-level motion effects, while composing them through relational constraints that capture scene-specific geometry at run time. We evaluated RAPID in simulation on eight challenging contact-rich nonprehensile manipulation tasks as well as general prehensile manipulation tasks in the LIBERO-Pro benchmark. We also successfully deployed it on a real Franka arm and evaluated on all eight nonprehensile tasks. In all experiments, RAPID demonstrated strong performance, with generalization over object pose, shape, material, and environment. Website: https://yuyaoliu.me/projects/rapid.",
+    "authors": [
+      "Yuyao Liu",
+      "Jiayuan Mao",
+      "David Hsu",
+      "Leslie Pack Kaelbling",
+      "Tomás Lozano-Pérez"
+    ],
+    "published": "2026-09-24",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2609.30249v1",
+    "pdf_url": "https://arxiv.org/pdf/2609.30249v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "Robot Agentic Programming from Demonstrations (RAPID) automatically generates, verifies, and refines robot programs . RAPID infers all three from the demonstration automatically ."
+  },
+  {
+    "id": "arxiv:2609.30250v1",
+    "title": "Agentic Detection of Online Conspiracies",
+    "abstract": "Conspiratorial discourse on social media is not always expressed through explicit claims or stable lexical markers. The same surface content may express endorsement, legitimate concerns, criticism, satire, or mockery. The main challenge is therefore not only recognizing conspiracy-related claims, but inferring the speaker's intent -- the utterance's illocutionary force. We argue that this can be achieved through the use of relevant social contexts and propose an agentic framework, equipped with a set of tools supporting social queries. We demonstrate the benefits of our approach on a unique dataset of Hebrew tweets, covering 80\\%--90\\% of the public Hebrew tweets published over a four-year span (late 2018-- early 2023), encompassing several election cycles as well as the COVID pandemic years and related vaccination campaigns. This extensive coverage can be used in recovering different social contexts. Evaluating our framework on a manually-annotated adversarial dataset, we find that context-aware workflows consistently outperform text-only classification and that the agentic framework performs significantly better than other frameworks and settings, including a non-agentic model exposed to the same contexts available to the agent. We further provide an analysis of the results, the errors and efficiency (token economy) tradeoffs. These findings support viewing the task of conspiracy detection as a socially embedded interpretation task, in which effective classification depends not only on access to contexts, but also on adaptive reasoning in which the agent uses tools on a per-case basis, asking only for evidence relevant to its current reasoning step.",
+    "authors": [
+      "Lior Biton",
+      "Oren Tsur"
+    ],
+    "published": "2026-09-24",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2609.30250v1",
+    "pdf_url": "https://arxiv.org/pdf/2609.30250v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "Conspiratorial discourse on social media is not always expressed through explicit claims or stable lexical markers . The main challenge is not only recognizing conspiracy-related claims, but inferring the speaker's intent -- the utterance's illocutionary force . We argue that this can be achieved through the use of relevant social contexts ."
+  },
+  {
     "id": "arxiv:2609.30258v1",
     "title": "Temporal Gradient Inversion for Private Trajectory Reconstruction in Embodied Reinforcement Learning",
     "abstract": "Distributed learning in embodied reinforcement-learning agents offers a degree of privacy by retaining raw sensor data on-device and transmitting only policy gradients to the server. Yet temporal structure can amplify this leakage beyond single-frame attacks. We introduce Temporal Reconstruction Attack on Consecutive Encodings (TRACE), an amortized temporal gradient-inversion attack that autoregressively reconstructs the sequence of private observation-action trajectories from per-step policy-learning gradients. The attack exploits two structural signals ignored by prior single-frame methods: (i) cross-time correlation between successive embodied gradients, which we formalize via a conditional mutual-information bound, and (ii) closed-form action recovery from policy-head gradient structure, which we prove exact when standard entropy regularization is sufficiently small. On held-out embodied scenes, TRACE reaches $18.8$ dB PSNR with near-perfect action recovery at $3$-$4.5$ ms per reconstructed frame, dominating the learning-based baseline across all reconstruction metrics and exceeding optimization attacks while running orders of magnitude faster. Further evaluation demonstrates TRACE's broader applicability across recurrent, residual, and compact transformer victim architectures, multi-modal inputs, and larger discrete action spaces. Defense experiments suggest that protecting temporal gradient streams may require sequence-aware privacy mechanisms.",
@@ -1546,45 +1662,27 @@
     "ai_summary": "Temporal Reconstruction Attack on Consecutive Encodings (TRACE) is an amortized temporal gradient-inversion attack . The attack exploits two structural signals ignored by prior single-frame methods . On held-out embodied scenes, TRACE reaches $18"
   },
   {
-    "id": "arxiv:2609.30250v1",
-    "title": "Agentic Detection of Online Conspiracies",
-    "abstract": "Conspiratorial discourse on social media is not always expressed through explicit claims or stable lexical markers. The same surface content may express endorsement, legitimate concerns, criticism, satire, or mockery. The main challenge is therefore not only recognizing conspiracy-related claims, but inferring the speaker's intent -- the utterance's illocutionary force. We argue that this can be achieved through the use of relevant social contexts and propose an agentic framework, equipped with a set of tools supporting social queries. We demonstrate the benefits of our approach on a unique dataset of Hebrew tweets, covering 80\\%--90\\% of the public Hebrew tweets published over a four-year span (late 2018-- early 2023), encompassing several election cycles as well as the COVID pandemic years and related vaccination campaigns. This extensive coverage can be used in recovering different social contexts. Evaluating our framework on a manually-annotated adversarial dataset, we find that context-aware workflows consistently outperform text-only classification and that the agentic framework performs significantly better than other frameworks and settings, including a non-agentic model exposed to the same contexts available to the agent. We further provide an analysis of the results, the errors and efficiency (token economy) tradeoffs. These findings support viewing the task of conspiracy detection as a socially embedded interpretation task, in which effective classification depends not only on access to contexts, but also on adaptive reasoning in which the agent uses tools on a per-case basis, asking only for evidence relevant to its current reasoning step.",
+    "id": "arxiv:2609.30266v1",
+    "title": "LLM Agents Can Easily Tamper With Their Own Traces",
+    "abstract": "Asynchronous monitoring, incident investigations, and compliance audits primarily rely on agent traces to reconstruct what happened. These analyses assume that LLM agents cannot tamper with their own execution traces. We show that local LLM agents such as Claude Code, Codex, Antigravity, Open Code and Grok Build fail to enforce this boundary. All tested harnesses, except Muse Code, allowed agents to delete their traces when asked, without triggering monitor guardrails. We also validate that external attackers can exploit this gap to induce trace deletion. Finally, we show that trace tampering behavior emerges naturally in frontier models, when agents try to improve their rewards. We advise practitioners to ensure trace logging happens through an independent interception mechanism outside of the agent's control, preserving trace integrity even in cases of full host compromise. Overall, our findings identify a concrete failure of trace integrity in agent infrastructure which can be used to conceal misaligned behaviors like scheming or sabotage.",
     "authors": [
-      "Lior Biton",
-      "Oren Tsur"
+      "Jeremy Qin",
+      "David Schmotz",
+      "Derck Prinzhorn",
+      "Luca Beurer-Kellner",
+      "Ameya Prabhu",
+      "Maksym Andriushchenko"
     ],
     "published": "2026-09-24",
     "source": "arXiv",
     "category": "preprint",
-    "url": "https://arxiv.org/abs/2609.30250v1",
-    "pdf_url": "https://arxiv.org/pdf/2609.30250v1",
+    "url": "https://arxiv.org/abs/2609.30266v1",
+    "pdf_url": "https://arxiv.org/pdf/2609.30266v1",
     "doi": null,
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "Conspiratorial discourse on social media is not always expressed through explicit claims or stable lexical markers . The main challenge is not only recognizing conspiracy-related claims, but inferring the speaker's intent -- the utterance's illocutionary force . We argue that this can be achieved through the use of relevant social contexts ."
-  },
-  {
-    "id": "arxiv:2609.30249v1",
-    "title": "RAPID: Robot Agentic Programming from Demonstrations",
-    "abstract": "Coding agents have demonstrated enormous success in solving complex programming problems. To leverage their potential for robot systems, this work introduces Robot Agentic Programming from Demonstrations (RAPID), which automatically generates, verifies, and refines robot programs, given a single visual human demonstration. The iterative agentic loop of code refinement requires several key ingredients: (i) a testable task specification, (ii) action primitives for robot execution, and (iii) an interactive environment for program execution and verification. RAPID infers all three from the demonstration automatically. To make the resulting program reusable beyond the demonstration setting, RAPID uses an object-centric relational program representation that focuses on the underlying structure of the demonstrated strategy rather than the specific motion per se: it expresses the action primitives as trajectory-optimization programs that realize object-level motion effects, while composing them through relational constraints that capture scene-specific geometry at run time. We evaluated RAPID in simulation on eight challenging contact-rich nonprehensile manipulation tasks as well as general prehensile manipulation tasks in the LIBERO-Pro benchmark. We also successfully deployed it on a real Franka arm and evaluated on all eight nonprehensile tasks. In all experiments, RAPID demonstrated strong performance, with generalization over object pose, shape, material, and environment. Website: https://yuyaoliu.me/projects/rapid.",
-    "authors": [
-      "Yuyao Liu",
-      "Jiayuan Mao",
-      "David Hsu",
-      "Leslie Pack Kaelbling",
-      "Tomás Lozano-Pérez"
-    ],
-    "published": "2026-09-24",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2609.30249v1",
-    "pdf_url": "https://arxiv.org/pdf/2609.30249v1",
-    "doi": null,
-    "citations": 0,
-    "venue": "arXiv preprint",
-    "open_access": true,
-    "ai_summary": "Robot Agentic Programming from Demonstrations (RAPID) automatically generates, verifies, and refines robot programs . RAPID infers all three from the demonstration automatically ."
+    "ai_summary": "Asynchronous monitoring, incident investigations, and compliance audits rely on agent traces to reconstruct what happened . We show that local LLM agents such as Claude Code, Codex, Antigravity, Open Code and Grok Build fail to enforce this boundary . All tested harnesses, except Muse Code, allowed agents to delete their traces when asked"
   },
   {
     "id": "arxiv:2609.30254v1",
@@ -1626,29 +1724,6 @@
     "venue": "arXiv preprint",
     "open_access": true,
     "ai_summary": "Latent world models are typically trained to predict factual transitions . But model predictive control (MPC) must compare alternative actions from the same state . A model can achieve low factual prediction error yet poorly distinguish candidate actions ."
-  },
-  {
-    "id": "arxiv:2609.30266v1",
-    "title": "LLM Agents Can Easily Tamper With Their Own Traces",
-    "abstract": "Asynchronous monitoring, incident investigations, and compliance audits primarily rely on agent traces to reconstruct what happened. These analyses assume that LLM agents cannot tamper with their own execution traces. We show that local LLM agents such as Claude Code, Codex, Antigravity, Open Code and Grok Build fail to enforce this boundary. All tested harnesses, except Muse Code, allowed agents to delete their traces when asked, without triggering monitor guardrails. We also validate that external attackers can exploit this gap to induce trace deletion. Finally, we show that trace tampering behavior emerges naturally in frontier models, when agents try to improve their rewards. We advise practitioners to ensure trace logging happens through an independent interception mechanism outside of the agent's control, preserving trace integrity even in cases of full host compromise. Overall, our findings identify a concrete failure of trace integrity in agent infrastructure which can be used to conceal misaligned behaviors like scheming or sabotage.",
-    "authors": [
-      "Jeremy Qin",
-      "David Schmotz",
-      "Derck Prinzhorn",
-      "Luca Beurer-Kellner",
-      "Ameya Prabhu",
-      "Maksym Andriushchenko"
-    ],
-    "published": "2026-09-24",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2609.30266v1",
-    "pdf_url": "https://arxiv.org/pdf/2609.30266v1",
-    "doi": null,
-    "citations": 0,
-    "venue": "arXiv preprint",
-    "open_access": true,
-    "ai_summary": "Asynchronous monitoring, incident investigations, and compliance audits rely on agent traces to reconstruct what happened . We show that local LLM agents such as Claude Code, Codex, Antigravity, Open Code and Grok Build fail to enforce this boundary . All tested harnesses, except Muse Code, allowed agents to delete their traces when asked"
   },
   {
     "id": "arxiv:2609.30247v1",
@@ -2673,5 +2748,197 @@
     "venue": "arXiv preprint",
     "open_access": true,
     "ai_summary": "AD system uses large language models to propose and ground visual elements, estimate their salience to the narrative, and generate compressed realizations . A mixed-integer linear program then jointly selects and schedules descriptions across a scene subject to temporal constraints ."
+  },
+  {
+    "id": "pubmed:42801248",
+    "title": "Advances in Drug Delivery Systems for Breast Cancer: From Microenvironment Barriers and Smart Carriers to Clinical Translation Strategies.",
+    "abstract": "Breast cancer heterogeneity and its complex tumor microenvironment (TME) are key drivers of therapeutic failure and multidrug resistance (MDR). Drug delivery systems (DDS) provide an important approach, but their clinical translation remains limited by biological variability, formulation complexity, and manufacturing challenges. This review delineates the evolution of breast cancer DDS from passive carriers to increasingly functional and responsive platforms, focusing on three core dimensions. First, regarding decisive barriers, we dissect the constraints imposed by the three-dimensional collagen network, pH/glutathione (GSH) gradients, and tumor-associated macrophages (TAMs) on drug penetration. These factors not only act as physical and biochemical obstacles but can also be harnessed as endogenous triggers for responsive design. Second, in terms of diversified platforms, we critically evaluate liposomes, polymeric nanoparticles, hydrogels, extracellular vesicles, and antibody-drug conjugates (ADCs). We highlight the potential of solid lipid nanoparticles to address drug resistance, the development of carrier-free delivery enabled by prodrug self-assembly, and the clinical significance of ADCs (eg, T-DXd) in expanding treatment options for HER2-low breast cancer. Third, we examine inter- and intratumoral heterogeneity, metastatic site-specific delivery barriers in the brain, bone, and lung, the multilayered resistance network from efflux pumps to cancer stem cells, and the sequential barriers nanomedicines must traverse from systemic circulation to intracellular targets. We propose three strategic directions: personalized precision delivery integrating liquid biopsy, organoids, and functional imaging to support patient stratification and treatment adaptation; AI-assisted formulation optimization using machine learning to develop material-structure-function predictive models and support data-driven formulation design; and multi-responsive systems leveraging endogenous signals such as pH, GSH, and enzymes, together with exogenous stimuli including light, magnetism, and ultrasound, for spatiotemporally controlled combination therapy. This review summarizes key considerations from biological barriers to clinical translation, emphasizing that alignment of tumor subtype, metastatic site, microenvironmental characteristics, and patient-specific factors may improve the clinical applicability of drug delivery strategies.",
+    "authors": [
+      "Guiwen Liang",
+      "Chuli Zhu",
+      "Hualin Sun",
+      "Yanan Ji",
+      "Haiyan Jiang"
+    ],
+    "published": "2026",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42801248/",
+    "pdf_url": null,
+    "doi": "10.2147/DDDT.S638939",
+    "citations": 0,
+    "venue": "Drug design, development and therapy",
+    "open_access": false,
+    "ai_summary": "Breast cancer heterogeneity and its complex tumor microenvironment (TME) are key drivers of therapeutic failure and multidrug resistance (MDR) Drug delivery systems (DDS) provide an important approach, but their clinical translation remains limited by biological variability, formulation complexity, and manufacturing challenges ."
+  },
+  {
+    "id": "pubmed:42801234",
+    "title": "Ecological Correlates of Depressive Symptoms among Chinese Adolescents: A Random Forest and Nomogram Analysis of CFPS Data.",
+    "abstract": "Adolescence represents a critical developmental stage characterized by complex stressors, including academic pressure and interpersonal challenges, which significantly elevate the risk of depressive symptoms. While conventional research predominantly relies on linear methodologies focusing on isolated environmental determinants, the multi-level interactive effects of ecological environments on adolescent depressive symptoms remain under-explored. Utilizing longitudinal data from the 2020 and 2022 China Family Panel Studies (CFPS), this study included a sample of 971 adolescents (aged 10-15). Baseline ecological variables and covariates were measured in 2020, while the outcome-depressive symptoms-was assessed in 2022 using the 8-item Center for Epidemiologic Studies Depression Scale (CES-D8). We integrated a machine learning framework (Random Forest, RF) to predict continuous CES-D8 scores and a nomogram model to predict binary depression risk (CES-D8 ≥ 9). The nomogram was internally validated using 1000 bootstrap resamples. Ecological environments demonstrated significant associations with adolescent depressive symptoms. In the RF model (Out-of-Bag Mean Squared Error = 12.72), the predictor s ranked in descending order of their contribution were social trust, interpersonal relationships, parent-child conflict, teacher satisfaction, and age. The developed visual nomogram demonstrated modest discrimination (AUC = 0.614) but excellent calibration (Mean Absolute Error = 0.011) for quantifying individualized risk probabilities. These findings highlight specific environmental correlates and underscore the necessity of transitioning from single-factor management to integrated, multi-systemic approaches. While the predictive model requires further external validation before clinical application, it offers a preliminary epidemiological tool to identify potential intervention targets and facilitate coordinated family, school, community, and governmental interventions.",
+    "authors": [
+      "Songli Mei",
+      "Yaning Su",
+      "Jingyi Yue",
+      "Kai Liu",
+      "Tongshuang Yuan",
+      "Chengbin Zheng",
+      "Liru Pan",
+      "Liqiang Zhang",
+      "Yujie Cui",
+      "Chaofan Zhang",
+      "Fangfang Ding",
+      "Wanyue Chen",
+      "Qiannan Tian",
+      "Xusheng Wu"
+    ],
+    "published": "2026",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42801234/",
+    "pdf_url": null,
+    "doi": "10.2147/PRBM.S632599",
+    "citations": 0,
+    "venue": "Psychology research and behavior management",
+    "open_access": false,
+    "ai_summary": "Adolescence represents a critical developmental stage characterized by complex stressors, including academic pressure and interpersonal challenges . The multi-level interactive effects of ecological environments on adolescent depressive symptoms remain under-explored ."
+  },
+  {
+    "id": "pubmed:42801211",
+    "title": "Integrated Transcriptomic and Machine Learning Analyses Identify KCNN3 and TLR10 as Candidate Cell-Type-Associated Molecules in Idiopathic Membranous Nephropathy.",
+    "abstract": "Idiopathic membranous nephropathy (IMN) is a common immune-mediated glomerular disease, but the key molecules driving its progression remain unclear. This study integrated bulk RNA sequencing (RNA-seq), machine learning, and single-cell RNA sequencing (scRNA-seq) to screen and preliminarily validate key molecules, providing a basis for subsequent research. We analyzed our published urinary bulk RNA-seq data, as well as IMN kidney datasets obtained from the GEO database. Differentially expressed genes were identified and subjected to enrichment analysis. Three machine learning algorithms screened key genes. ScRNA-seq data were used to identify the cell types expressing the key genes and to perform CellChat analysis. Immunohistochemistry validated key gene expression, and immunofluorescence explored their cellular localization. External GEO datasets validated expression differences and diagnostic performance. We identified 94 genes commonly upregulated in both urine and kidney tissues, enriched in transmembrane transport pathways. Two key genes, KCNN3 and TLR10, were identified by machine learning. Single-cell analysis suggested KCNN3 enrichment in podocytes and TLR10 in dendritic cells (DCs), and CellChat analysis predicted potential crosstalk between these cell types through the CXCL12-CXCR4 axis. Immunohistochemistry confirmed their elevated expression in IMN kidneys. Immunofluorescence showed spatial associations of KCNN3 with podocytes and TLR10 with DCs. External validation showed expression trends of KCNN3 and TLR10 were not entirely consistent across datasets, with combined AUCs of 0.705 and 0.748 in two validation sets, showing no significant improvement over single-gene models. KCNN3 and TLR10 may serve as cell type-associated candidate molecules in IMN, warranting further investigation into their functions and underlying mechanisms.",
+    "authors": [
+      "Binran Zhao",
+      "Fugang Liu",
+      "Boji Xie",
+      "Shuting Pang",
+      "Qiuyan Tan",
+      "Shanshan Li",
+      "Mingxing Wei",
+      "Yian Huang",
+      "Yuting Wei",
+      "Wenqi Luo",
+      "Peng Wang",
+      "Jinxia Su",
+      "Bijun Li",
+      "Rirong Yang",
+      "Wei Li"
+    ],
+    "published": "2026",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42801211/",
+    "pdf_url": null,
+    "doi": "10.2147/IJGM.S633417",
+    "citations": 0,
+    "venue": "International journal of general medicine",
+    "open_access": false,
+    "ai_summary": "Idiopathic nephropathy (IMN) is a common immune-mediated glomerular disease, but the key molecules driving its progression remain unclear . This study integrated bulk RNA sequencing (RNA-seq), machine learning, and single-cell RNA sequencing ."
+  },
+  {
+    "id": "pubmed:42801195",
+    "title": "Early Prediction of Postoperative Urinary Retention After General Anesthesia Using Explainable Machine Learning.",
+    "abstract": "Postoperative urinary retention (POUR) is a common and clinically important perioperative complication associated with pharmacological effects and autonomic dysfunction, which may lead to increased patient discomfort and delayed recovery. Its multifactorial etiology makes early clinical identification challenging. This study investigated the feasibility of using machine learning to predict early POUR after general anesthesia using readily available, non-invasive perioperative data. Model interpretation techniques were further applied to improve transparency and identify key clinical features contributing to risk stratification. This retrospective single-center cohort study included 522 adult inpatients from Cathay General Hospital who underwent surgery under general anesthesia with endotracheal intubation and were subsequently admitted to the post-anesthesia care unit (PACU). Early POUR was defined as postoperative urinary retention occurring during the PACU stay, generally within approximately one hour after extubation. A total of 11 routinely available non-invasive clinical features were used to develop and evaluate multiple machine learning models for predicting early POUR. These machine learning models included conventional classifiers, neural network-based models, and ensemble learning algorithms, including LightGBM, a gradient boosting-based ensemble learning algorithm. SHapley Additive exPlanations (SHAP) analysis was performed to interpret model predictions and identify key clinical features associated with early POUR. Early POUR occurred in 58 of 522 patients (11.1%). Among the evaluated machine learning models, LightGBM demonstrated favorable overall classification performance in predicting early POUR, with an accuracy of 81.03% and an F1 score of 81.50%. Logistic Regression achieved the highest area under the receiver operating characteristic curve (AUC) among the evaluated models (AUC = 0.7099). SHAP analysis identified several key predictors, including glycopyrrolate use, age, ASA class, anesthesia duration, and postoperative pain. This study suggests that machine learning may be a feasible approach for early POUR risk prediction. Interpretable approaches may facilitate individualized anesthetic planning and support clinical decision-making in the PACU, particularly in guiding early bladder monitoring and catheterization decisions for patients at risk of POUR.",
+    "authors": [
+      "Hsiao-Cheng Chang",
+      "Li-Yun Chen",
+      "Yu-Shiang Lin"
+    ],
+    "published": "2026",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42801195/",
+    "pdf_url": null,
+    "doi": "10.2147/JMDH.S623704",
+    "citations": 0,
+    "venue": "Journal of multidisciplinary healthcare",
+    "open_access": false,
+    "ai_summary": "Postoperative urinary retention (POUR) is a common and clinically important perioperative complication associated with pharmacological effects and autonomic dysfunction . Early POUR was defined as postoperative urinary retraction occurring during the PACU stay ."
+  },
+  {
+    "id": "pubmed:42801184",
+    "title": "MuscleExpert: a semi-automated tool delivering ImageJ-comparable measurements of muscle thickness, area, and quality.",
+    "abstract": "Most image-analysis software programs were not designed specifically for ultrasound-based measurements, resulting in irrelevant general-purpose features that force users to navigate through multiple menus and making the analysis time-consuming and increasing the likelihood of error. The aim of this study was to present and validate the semi-automated MuscleExpert software against the widely used ImageJ by comparing muscle thickness (MT), cross-sectional area (CSA), and muscle quality (MQ-measured as echo intensity). Ten volunteers (five males; age: 44.9 ± 23.5 years) participated in this cross-sectional study. Ultrasound images of the tibialis anterior and medial gastrocnemius muscles were acquired using 2D B-mode ultrasonography and analyzed in both software programs. Equivalence of means was evaluated  The TOST for MT, CSA, and MQ were within their respective equivalence margins. The ICC was excellent for all measures (MT: ICC = 0.999; CSA: ICC = 0.999; MQ: ICC = 1.000). Precision was similarly high, with CVs of 0.49% (MT), 0.54% (CSA), and 0.33% (MQ), demonstrating minimal variability between the two methods. SEM values were low across all outcomes, corresponding to 0.49% (MT), 0.53% (CSA), and 0.23% (MQ). Finally, the Bland-Altman analysis demonstrated minimal systematic differences and no proportional bias between ImageJ and MuscleExpert for all metrics. The present findings indicate that MuscleExpert and ImageJ produce nearly identical results for MT, CSA, and MQ. These findings support the integration of MuscleExpert into clinical and research workflows, offering a more efficient solution for muscle assessment without compromising measurement integrity.",
+    "authors": [
+      "Zongpan Li",
+      "Li-Qun Zhang",
+      "Marcel Bahia Lanza"
+    ],
+    "published": "2026",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42801184/",
+    "pdf_url": "https://doi.org/10.7717/peerj.21757",
+    "doi": "10.7717/peerj.21757",
+    "citations": 0,
+    "venue": "PeerJ",
+    "open_access": true,
+    "ai_summary": "Ultrasound images of the tibialis anterior and medial gastrocnemius muscles were acquired using 2D B-mode ultrasonography and analyzed in both software programs . Equivalence of means was evaluated  The TOST for MT, CSA, and MQ were within their respective equivalence margins ."
+  },
+  {
+    "id": "pubmed:42801171",
+    "title": "A Hypoxia Associated STC2 High Endothelial Subpopulation is Linked to Lipid Metabolic Reprogramming, Pathological Angiogenesis, and Immune Remodeling in Head and Neck Squamous Cell Carcinoma.",
+    "abstract": "Hypoxia drives malignant advancement and immune escape in HNSCC, but its cell‑type‑specific regulatory circuitry within the TME remains insufficiently elucidated. This study systematically characterizes hypoxia‑associated molecular programs and identifies core genes with relevance to prognosis and therapeutic response. Bulk, single‑cell, and spatial transcriptomic datasets from independent patient cohorts were integrated. Hypoxia‑associated gene signatures and two molecular subtypes were constructed through unsupervised clustering. A consensus of eight machine‑learning algorithms identified STC2 as the key hypoxia mediator. Bioinformatics analyses encompassing enrichment, CellChat, scMetabolism, and scTenifoldKnk were conducted. STC2 expression was confirmed by RT‑qPCR, immunohistochemistry, and multiplex immunofluorescence. Functional experiments using STC2‑silenced HUVECs included scratch wound‑healing, CCK‑8, and immunofluorescence staining to assess endothelial migration, viability, and cytoskeletal organization. Candidate drugs were explored through pharmacogenomic databases, molecular docking, and molecular dynamics simulations. The hypoxia‑derived signature predicted reduced survival, enhanced angiogenesis, and an immunosuppressive TME. STC2 was predominantly enriched in a distinct endothelial subpopulation marked by active hypoxia‑driven fatty acid metabolism and ANGPT2‑expressing angiogenic signaling. In silico knockout of STC2 weakened hypoxia‑induced angiogenic and immune‑related pathways. CellChat analysis revealed altered GALECTIN‑ and ANGPTL‑mediated communication between this endothelial subset and immune populations. High STC2 levels were associated with immunotherapy resistance and with increased sensitivity to four candidate compounds. PLX4032 and Midostaurin demonstrated stable binding interactions with STC2 in computational analyses. STC2 is preferentially expressed in a hypoxia‑associated endothelial subpopulation characterized by lipid metabolic activity, angiogenic features, and immune‑regulatory crosstalk. Functional assays support a role for STC2 in endothelial viability, migration, and angiogenic function, while its involvement in lipid metabolism and immune modulation requires further investigation. These findings highlight the potential value of STC2 for patient stratification and as a target for future therapeutic exploration in HNSCC.",
+    "authors": [
+      "Kangying Chen",
+      "Luying Qin",
+      "Zhichao Liu",
+      "Jiani Zhu",
+      "Jin Li",
+      "Tao Qiu",
+      "Shiyu Xu",
+      "Kai Ying",
+      "Liaoxiang Zhu",
+      "Fan Wang",
+      "Mouyuan Sun"
+    ],
+    "published": "2026",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42801171/",
+    "pdf_url": null,
+    "doi": "10.2147/IJGM.S619908",
+    "citations": 0,
+    "venue": "International journal of general medicine",
+    "open_access": false,
+    "ai_summary": "Hypoxia drives malignant advancement and immune escape in HNSCC, but its cell‑type‑specific regulatory circuitry within the TME remains insufficiently elucidated . This study systematically characterizes hypoxia‑associated molecular programs and identifies core genes with relevance to prognosis and therapeutic response ."
+  },
+  {
+    "id": "pubmed:42801128",
+    "title": "Causal Inference, Statistical Assumptions, and Natural-Language-Processing Artefacts in Evaluating Medical Students' Use of Generative Artificial Intelligence [Letter].",
+    "abstract": "",
+    "authors": [
+      "Zhanyi Feng"
+    ],
+    "published": "2026",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42801128/",
+    "pdf_url": null,
+    "doi": "10.2147/AMEP.S656599",
+    "citations": 0,
+    "venue": "Advances in medical education and practice",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "pubmed:42801104",
+    "title": "Biophysical modeling of thalamocortical circuit dynamics: species-specific insights into neural synchrony, sleep spindles, and circuit mechanisms.",
+    "abstract": "Thalamocortical circuits play a central role in sensory processing, attention, and sleep spindles. Here, we used a biophysically-grounded computational model with single-compartment neurons and species-inspired thalamocortical architectures to investigate how core and matrix pathways, thalamic interneurons, and open, closed, or hybrid thalamic reticular nucleus-thalamic loop configurations influence synchrony, spatiotemporal signal propagation, and spindle-like activity. The model incorporated both core versus matrix thalamocortical projections, with core pathways providing focal, driving input to middle cortical layers and matrix pathways providing more widespread, modulatory signaling across superficial layers, along with pathway-specific receptor dynamics and rodent-like versus primate-like circuit configurations that differed primarily in the presence of thalamic interneurons, as these cells are sparse in rodents but comprise up to a third of the thalamic neurons in primates. Across the tested conditions, the rodent-like circuits were more sensitive to parameter changes in core and matrix thalamocortical connectivity strength, while primate-like circuits maintained relatively stable spatiotemporal patterns across parameter variations, exhibiting greater stability and synchrony. Spindle analyses further suggested greater variability in event structure and timing in rodent-like networks and more regular spindles in primate-like networks. These findings provide insights into how species-inspired architectural differences may shape thalamocortical dynamics, thereby affecting spindle generation and network synchronization.",
+    "authors": [
+      "Basilis Zikopoulos",
+      "Natalia Matuk",
+      "Irina Romanova",
+      "Arash Yazdanbakhsh"
+    ],
+    "published": "2026",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42801104/",
+    "pdf_url": null,
+    "doi": "10.1093/sleepadvances/zpag100",
+    "citations": 0,
+    "venue": "Sleep advances : a journal of the Sleep Research Society",
+    "open_access": false,
+    "ai_summary": "Thalamocortical circuits play a central role in sensory processing, attention, and sleep spindles . A biophysically-grounded computational model used single-compartment neurons and species-inspired thalamocortsical architectures ."
   }
 ]
