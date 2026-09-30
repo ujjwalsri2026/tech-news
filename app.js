@@ -365,6 +365,10 @@
       "SitePoint": "blog", "freeCodeCamp News": "blog", "The New Stack": "enterprise",
       "InfoQ": "research", "DZone": "enterprise", "Habr": "blog",
       "arXiv CS": "research", "Nature Technology": "research",
+      "Google DeepMind": "research", "OpenAI": "research",
+      "Anthropic": "research", "Neuralink": "research",
+      "Berkeley AI Research (BAIR)": "research",
+      "Hugging Face Blog": "research", "Stanford HAI": "research",
     };
     return rssTypeMap[name] || "news";
   }

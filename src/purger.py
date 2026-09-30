@@ -33,16 +33,3 @@ def purge():
                 print(f"[purger] Removed research: {f.name}")
         except ValueError:
             pass
-
-    # ─── Legacy: purge data/history/ if exists ───
-    history_dir = DATA_DIR / "history"
-    if history_dir.exists():
-        cutoff_legacy = datetime.now(timezone.utc) - timedelta(days=NEWS_RETENTION_DAYS)
-        for f in history_dir.glob("*.json"):
-            try:
-                file_date = datetime.strptime(f.stem, "%Y-%m-%d").replace(tzinfo=timezone.utc)
-                if file_date < cutoff_legacy:
-                    f.unlink()
-                    print(f"[purger] Removed legacy: {f.name}")
-            except ValueError:
-                f.unlink()

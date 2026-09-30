@@ -1,8 +1,44 @@
 """
-PDF resolver: Unpaywall -> arXiv search -> Semantic Scholar fallback.
+PDF resolver: Unpaywall -> Europe PMC -> arXiv -> Semantic Scholar.
+
+Europe PMC is keyless and authoritative for biomed, and its open-access subset
+is large, so it is worth a lookup before the two slower title-search fallbacks.
 """
 import time
 import requests
+
+EUROPE_PMC = "https://www.ebi.ac.uk/europepmc/webservices/rest/search"
+
+
+def _resolve_europe_pmc(paper) -> bool:
+    """Look up PubMed Central via Europe PMC. Sets pdf_url on success."""
+    doi = paper.get("doi")
+    if not doi:
+        return False
+    try:
+        resp = requests.get(
+            EUROPE_PMC,
+            params={"query": f'DOI:"{doi}"', "format": "json", "pageSize": 1},
+            timeout=15
+        )
+        if resp.status_code != 200:
+            return False
+        results = resp.json().get("resultList", {}).get("result", [])
+        if not results:
+            return False
+        rec = results[0]
+        if str(rec.get("isOpenAccess", "N")).upper() != "Y":
+            return False
+        pmcid = rec.get("pmcid")
+        if not pmcid:
+            return False
+        paper["pdf_url"] = f"https://www.ncbi.nlm.nih.gov/pmc/articles/{pmcid}/pdf/"
+        paper["open_access"] = True
+        if not paper.get("abstract"):
+            paper["abstract"] = rec.get("abstractText", "") or ""
+        return True
+    except Exception:
+        return False
 
 
 def resolve_pdf(paper, email="techpulse@example.com"):
@@ -29,7 +65,11 @@ def resolve_pdf(paper, email="techpulse@example.com"):
         except Exception:
             pass
 
-    # Step 2: arXiv search by title
+    # Step 2: Europe PMC / PubMed Central
+    if doi and _resolve_europe_pmc(paper):
+        return paper
+
+    # Step 3: arXiv search by title
     try:
         title = paper.get("title", "")
         if title:
@@ -51,7 +91,7 @@ def resolve_pdf(paper, email="techpulse@example.com"):
     except Exception:
         pass
 
-    # Step 3: Semantic Scholar
+    # Step 4: Semantic Scholar
     try:
         title = paper.get("title", "")
         if title:

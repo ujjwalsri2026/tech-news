@@ -343,11 +343,21 @@ def fetch_pubmed(config: dict) -> list[dict]:
 
 
 def fetch_zenodo(config: dict) -> list[dict]:
-    """Zenodo REST API — no key."""
+    """Zenodo REST API — no key.
+
+    ``.get`` throughout: this fetcher is registered in the aggregator but its
+    config block is optional, and a hard ``config["max_results"]`` raised
+    KeyError on every run when the block was absent.
+    """
+    queries = config.get("queries") or ["artificial intelligence OR machine learning"]
+    query = " OR ".join(f'"{q}"' for q in queries)
     resp = requests.get(
         "https://zenodo.org/api/records",
-        params={"q": "artificial intelligence OR machine learning",
-                "sort": "mostrecent", "size": config["max_results"]},
+        params={
+            "q": query,
+            "sort": config.get("sort_by", "mostrecent"),
+            "size": config.get("max_results", 30),
+        },
         timeout=30
     )
     resp.raise_for_status()

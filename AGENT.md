@@ -11,7 +11,7 @@ Build a complete, production-ready web application called **TechPulse** that:
 - Scrapes 50 tech news/market websites
 - Uses an LLM API to generate 2–3 line summaries of each site's latest content
 - Stores ALL data in JSON files (NO database)
-- Retains ONLY the last 7 days of summaries (auto-purge older files)
+- Keeps only the latest summaries snapshot (`data/summaries.json`, overwritten each run); dated research files auto-purge past 30 days
 - Is hosted entirely on **GitHub Pages** (zero backend, zero server)
 - Uses **GitHub Actions** as the scheduled "backend" (cron every 6 hours)
 - Features a **Memphis Design** UI (1980s postmodern: bold clashing colors, geometric shapes, squiggles, zigzags, abstract patterns, asymmetric layouts)
@@ -29,13 +29,12 @@ techpulse/
 │   ├── __init__.py
 │   ├── scraper.py              # Fetch + extract text (requests + BeautifulSoup + Jina fallback)
 │   ├── summarizer.py           # LLM call (OpenAI gpt-4o-mini)
-│   ├── saver.py                # Write JSON + auto-purge files older than 7 days
+│   ├── saver.py                # Write JSON + auto-purge dated files past retention
 │   ├── loader.py               # Load URLs + summaries from disk
-│   └── purger.py               # Delete data/history/*.json older than 7 days
+│   └── purger.py               # Delete dated data files past retention (7d news / 30d research)
 ├── data/
 │   ├── urls.json               # 50 source definitions
-│   ├── summaries.json          # Latest run output (served to frontend)
-│   └── history/                # One file per day: YYYY-MM-DD.json (max 7 files)
+│   └── summaries.json          # Latest run output (served to frontend, overwritten each run)
 ├── main.py                     # Orchestrator (ThreadPoolExecutor, 5 workers)
 ├── requirements.txt
 ├── index.html                  # Frontend (Memphis Design)
@@ -146,12 +145,11 @@ tenacity
     ]
   }
   ```
-- Also writes `data/history/YYYY-MM-DD.json` (same structure)
 - Calls `purger.purge()` after saving
 
 ### `src/purger.py`
-- `purge()` → scan `data/history/`, delete any `.json` file whose filename date is older than 7 days from today (UTC)
-- Log each deleted file
+- `purge()` → scan `data/digest-*.json` (7d retention) and `data/papers-YYYY-MM-DD.json` (30d retention), deleting any whose filename date is older than its cutoff (UTC)
+- Log each deleted file; skip filenames that don't match the expected pattern
 
 ### `src/loader.py`
 - `load_urls(path="data/urls.json")` → list of dicts
@@ -266,7 +264,7 @@ jobs:
 ┌─────────────────────────────────────────────────┐
 │  HEADER                                         │
 │  "TECHPULSE" (huge, weight 900, with squiggle) │
-│  Subtitle: "50 sources · 7 days · zero noise"  │
+│  Subtitle: "50 sources · N articles · live"   │
 │  Last updated timestamp (monospace, small)      │
 │  [Decorative: floating triangle top-right,      │
 │   circle bottom-left, zigzag line]              │
@@ -340,32 +338,41 @@ jobs:
 
 ---
 
-## 7-DAY RETENTION LOGIC
+## RETENTION LOGIC
 
 In `src/purger.py`:
 ```python
-import os
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
-HISTORY_DIR = Path("data/history")
-RETENTION_DAYS = 7
+DATA_DIR = Path("data")
+NEWS_RETENTION_DAYS = 7
+RESEARCH_RETENTION_DAYS = 30
 
 def purge():
-    if not HISTORY_DIR.exists():
+    if not DATA_DIR.exists():
         return
-    cutoff = datetime.now(timezone.utc) - timedelta(days=RETENTION_DAYS)
-    for f in HISTORY_DIR.glob("*.json"):
+    cutoff_news = datetime.now(timezone.utc) - timedelta(days=NEWS_RETENTION_DAYS)
+    for f in DATA_DIR.glob("digest-*.json"):
         try:
-            file_date = datetime.strptime(f.stem, "%Y-%m-%d").replace(tzinfo=timezone.utc)
-            if file_date < cutoff:
+            file_date = datetime.strptime(f.stem, "digest-%Y-%m-%d").replace(tzinfo=timezone.utc)
+            if file_date < cutoff_news:
                 f.unlink()
-                print(f"Purged: {f.name}")
+                print(f"[purger] Removed news: {f.name}")
         except ValueError:
-            f.unlink()  # Malformed filename, delete
+            pass  # Malformed filename, keep
+    cutoff_research = datetime.now(timezone.utc) - timedelta(days=RESEARCH_RETENTION_DAYS)
+    for f in DATA_DIR.glob("papers-????-??-??.json"):
+        try:
+            file_date = datetime.strptime(f.stem, "papers-%Y-%m-%d").replace(tzinfo=timezone.utc)
+            if file_date < cutoff_research:
+                f.unlink()
+                print(f"[purger] Removed research: {f.name}")
+        except ValueError:
+            pass  # Malformed filename, keep
 ```
 
-This runs automatically after every `save()`. The `data/history/` folder will NEVER contain more than 8 files (today + 7 previous days).
+This runs automatically after every `save()`. `data/summaries.json` and `data/papers-latest.json` are mirrors, never purged — each run overwrites them in place. The news side writes no dated snapshots, so there is nothing to accumulate.
 
 ---
 

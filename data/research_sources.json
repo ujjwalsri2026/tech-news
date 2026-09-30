@@ -2,7 +2,18 @@
   "api_sources": {
     "arxiv": {
       "enabled": true,
-      "categories": ["cs.LG", "cs.AI", "cs.CL", "cs.CV", "cs.CR", "cs.DC", "cs.SE", "cs.PL", "cs.DB", "stat.ML"],
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.CL",
+        "cs.CV",
+        "cs.CR",
+        "cs.DC",
+        "cs.SE",
+        "cs.PL",
+        "cs.DB",
+        "stat.ML"
+      ],
       "max_results": 50,
       "sort_by": "submittedDate"
     },
@@ -67,20 +78,50 @@
     },
     "papers_with_code": {
       "enabled": true,
-      "tasks": ["image-classification", "object-detection", "text-classification", "machine-translation", "code-generation", "software-defect-detection"],
+      "tasks": [
+        "image-classification",
+        "object-detection",
+        "text-classification",
+        "machine-translation",
+        "code-generation",
+        "software-defect-detection"
+      ],
       "max_results_per_task": 5
     },
     "openreview": {
       "enabled": true,
-      "venues": ["NeurIPS", "ICML", "ICLR", "AAAI", "CVPR", "ACL"],
+      "venues": [
+        "NeurIPS",
+        "ICML",
+        "ICLR",
+        "AAAI",
+        "CVPR",
+        "ACL"
+      ],
       "max_results_per_venue": 5,
       "stage": "accepted"
     },
     "pubmed": {
       "enabled": true,
-      "search_terms": ["artificial intelligence", "machine learning", "deep learning", "neural network", "software engineering"],
+      "search_terms": [
+        "artificial intelligence",
+        "machine learning",
+        "deep learning",
+        "neural network",
+        "software engineering"
+      ],
       "max_results": 10,
       "sort": "date"
+    },
+    "zenodo": {
+      "enabled": true,
+      "queries": [
+        "artificial intelligence",
+        "machine learning",
+        "deep learning"
+      ],
+      "max_results": 30,
+      "sort_by": "mostrecent"
     }
   },
   "scrape_sources": {
@@ -244,32 +285,6 @@
       "selector": ".preprint-card",
       "max_results": 10,
       "use_jina": true
-    },
-    "zenodo": {
-      "enabled": true,
-      "url": "https://zenodo.org/api/records?q=artificial+intelligence+OR+machine+learning&sort=mostrecent&size=10",
-      "api": true,
-      "max_results": 10
-    },
-    "core": {
-      "enabled": true,
-      "url": "https://core.ac.uk/search?q=artificial+intelligence&sort=relevance",
-      "selector": ".result-item",
-      "max_results": 10,
-      "use_jina": true
-    },
-    "citeseerx": {
-      "enabled": true,
-      "url": "https://citeseerx.ist.psu.edu/search?q=artificial+intelligence&sort=rlv",
-      "selector": ".result",
-      "max_results": 10,
-      "use_jina": true
-    },
-    "cogprints": {
-      "enabled": true,
-      "url": "http://cogprints.org/cgi/latest.pl",
-      "selector": "table tr",
-      "max_results": 10
     },
     "expert_systems": {
       "enabled": true,

@@ -5,6 +5,12 @@ on:
     - cron: "0 */6 * * *"
   workflow_dispatch: {}
 
+# Queue overlapping runs instead of letting them race on push. Never cancel a
+# run mid-commit, or a half-finished push can wedge the branch.
+concurrency:
+  group: techpulse
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
@@ -26,16 +32,49 @@ jobs:
       - name: Run scraper
         run: python main.py
 
+      - name: Prune retired dated snapshots
+        run: |
+          # data/history/ was retired: save() no longer writes per-day news copies
+          # and purge() no longer cleans them. Self-heal any checkout that still
+          # carries the directory so it can't be re-committed or deployed.
+          if [ -d data/history ]; then
+            rm -rf data/history
+            echo "Removed stale data/history/ from checkout"
+          fi
+
+      - name: Validate snapshot
+        run: |
+          # summaries.json is now the only news data the site serves, so a
+          # truncated or empty write would deploy a silently empty frontend.
+          test -s data/summaries.json
+          python -c "
+          import json, sys
+          d = json.load(open('data/summaries.json'))
+          assert d.get('items'), 'summaries.json has no items'
+          print(f\"validated {len(d['items'])} items from {d.get('generated_at')}\")
+          "
+
       - name: Commit results
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git stash
-          git pull --rebase origin main
-          git stash pop
-          git add data/
-          git diff --staged --quiet || git commit -m "TechPulse: $(date -u +%Y-%m-%d\ %H:%M)Z"
-          git push
+          # -A so purge() deletions under data/ are staged, not just new files
+          git add -A data/
+          if git diff --cached --quiet; then
+            echo "No data changes to commit; skipping push."
+            exit 0
+          fi
+          git commit -m "TechPulse: $(date -u +%Y-%m-%d\ %H:%M)Z"
+          for attempt in 1 2 3; do
+            if git pull --rebase origin main && git push; then
+              echo "Pushed on attempt $attempt."
+              exit 0
+            fi
+            echo "Push attempt $attempt failed; retrying..." >&2
+            sleep 10
+          done
+          echo "Failed to push after 3 attempts." >&2
+          exit 1
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v5

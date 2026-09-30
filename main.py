@@ -54,7 +54,7 @@ def process_source(source: dict, rss_map: dict) -> list[dict]:
     base_url = f"{urlparse(url).scheme}://{urlparse(url).netloc}"
     try:
         html = fetch_raw(url, use_jina)
-        articles = extract_articles(html, base_url)
+        articles = extract_articles(html, base_url, source.get("path_prefix", ""))
     except Exception as e:
         return [{
             "source": name,
