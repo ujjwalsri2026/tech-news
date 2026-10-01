@@ -124,22 +124,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.21825/ewopinpractice.94703",
-    "title": "Title Pending 94703",
-    "abstract": "",
-    "authors": [],
-    "published": "2035",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.21825/ewopinpractice.94703",
-    "pdf_url": null,
-    "doi": "10.21825/ewopinpractice.94703",
-    "citations": 0,
-    "venue": "EWOP in Practice",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
     "id": "crossref:10.21825/ewopinpractice.94702",
     "title": "Title Pending 94702",
     "abstract": "",
@@ -156,6 +140,22 @@
     "ai_summary": "No abstract available."
   },
   {
+    "id": "crossref:10.21825/ewopinpractice.94703",
+    "title": "Title Pending 94703",
+    "abstract": "",
+    "authors": [],
+    "published": "2035",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.21825/ewopinpractice.94703",
+    "pdf_url": null,
+    "doi": "10.21825/ewopinpractice.94703",
+    "citations": 0,
+    "venue": "EWOP in Practice",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
     "id": "crossref:10.3998/mjcsl.6294",
     "title": "Title Pending 6294",
     "abstract": "",
@@ -164,11 +164,11 @@
     "source": "Crossref",
     "category": "index",
     "url": "https://doi.org/10.3998/mjcsl.6294",
-    "pdf_url": null,
+    "pdf_url": "https://journals.publishing.umich.edu/mjcsl/article/id/6294/download/pdf/",
     "doi": "10.3998/mjcsl.6294",
     "citations": 0,
     "venue": "Michigan Journal of Community Service Learning",
-    "open_access": false,
+    "open_access": true,
     "ai_summary": "No abstract available."
   },
   {
@@ -196,11 +196,11 @@
     "source": "Crossref",
     "category": "index",
     "url": "https://doi.org/10.3998/mjcsl.3643",
-    "pdf_url": null,
+    "pdf_url": "https://doi.org/10.3998/mjcsl.3643",
     "doi": "10.3998/mjcsl.3643",
     "citations": 0,
     "venue": "Michigan Journal of Community Service Learning",
-    "open_access": false,
+    "open_access": true,
     "ai_summary": "No abstract available."
   },
   {
@@ -453,11 +453,11 @@
     "source": "Crossref",
     "category": "index",
     "url": "https://doi.org/10.58524/jcss.v4i2.890",
-    "pdf_url": "https://doi.org/10.58524/jcss.v4i2.890",
+    "pdf_url": null,
     "doi": "10.58524/jcss.v4i2.890",
     "citations": 1,
     "venue": "Journal of Coaching and Sports Science",
-    "open_access": true,
+    "open_access": false,
     "ai_summary": "Kinovea is an accessible motion-analysis software . It provides both visual and quantitative feedback . However, its application in supporting technique development among beginner athletes remains insufficiently explored ."
   },
   {
@@ -474,27 +474,6 @@
     "url": "https://doi.org/10.5705/ss.202025.0275",
     "pdf_url": null,
     "doi": "10.5705/ss.202025.0275",
-    "citations": 0,
-    "venue": "Statistica Sinica",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "crossref:10.5705/ss.202025.0314",
-    "title": "Transfer Learning for High-dimensional Regression with Compositional Covariates: Application to Microbiome Studies",
-    "abstract": "",
-    "authors": [
-      "Qinqin Hu",
-      "Xiaojing Luo",
-      "Chencheng Ma",
-      "Wang Zhou"
-    ],
-    "published": "2029",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.5705/ss.202025.0314",
-    "pdf_url": null,
-    "doi": "10.5705/ss.202025.0314",
     "citations": 0,
     "venue": "Statistica Sinica",
     "open_access": false,
@@ -557,6 +536,27 @@
     "url": "https://doi.org/10.5705/ss.202025.0205",
     "pdf_url": null,
     "doi": "10.5705/ss.202025.0205",
+    "citations": 0,
+    "venue": "Statistica Sinica",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "crossref:10.5705/ss.202025.0314",
+    "title": "Transfer Learning for High-dimensional Regression with Compositional Covariates: Application to Microbiome Studies",
+    "abstract": "",
+    "authors": [
+      "Qinqin Hu",
+      "Xiaojing Luo",
+      "Chencheng Ma",
+      "Wang Zhou"
+    ],
+    "published": "2029",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.5705/ss.202025.0314",
+    "pdf_url": null,
+    "doi": "10.5705/ss.202025.0314",
     "citations": 0,
     "venue": "Statistica Sinica",
     "open_access": false,
@@ -641,6 +641,24 @@
     "ai_summary": "No abstract available."
   },
   {
+    "id": "crossref:10.32628/cseit251116279",
+    "title": "Cyber Defense Digital Twins: A Federated Learning and Zero-Trust AI Architecture for Autonomous Threat Prediction and Response",
+    "abstract": "<jats:p>Modern enterprise networks operate under persistent threats that exploit cloud-native misconfigurations, identity sprawl, and API vulnerabilities at machine speed. Existing security operations center (SOC) architectures remain largely reactive, signature-dependent, and incapable of predicting multi-stage lateral movement. This paper proposes the Cognitive Cyber Defense Digital Twin (CCDT), a unified architecture integrating federated learning (FL), graph neural network (GNN)-based attack-path forecasting, adversarially hardened detection models, and autonomous Security Orchestration, Automation, and Response (SOAR) with deception engineering. The CCDT constructs a continuously synchronized digital replica of organizational assets and employs reinforcement learning-based red agents to stress-test detection models. A federated intelligence mesh enables cross-organizational privacy-preserving gradient sharing. Experimental evaluations against CICIDS-2018 and LANL datasets demonstrate 52% faster attack-path detection, 41% reduction in false positive rate, and 60% reduction in mean-time-to-respond (MTTR) compared to traditional SOC baselines. Integrated Explainable AI (XAI) modules using SHAP values enable audit-ready compliance reporting. The CCDT represents a paradigm shift from reactive monitoring to predictive, autonomous, and privacy-preserving cyber defense for hybrid cloud environments.</jats:p>",
+    "authors": [
+      "Sivaramakrishnan Narayanan"
+    ],
+    "published": "2028",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.32628/cseit251116279",
+    "pdf_url": null,
+    "doi": "10.32628/cseit251116279",
+    "citations": 0,
+    "venue": "International Journal of Scientific Research in Computer Science, Engineering and Information Technology",
+    "open_access": false,
+    "ai_summary": "The paper proposes the Cognitive Cyber Defense Digital Twin (CCDT) The CCDT constructs a continuously synchronized digital replica of organizational assets . It employs reinforcement learning-based red agents to stress-test detection models ."
+  },
+  {
     "id": "crossref:10.71126/nijre.v2i1.16",
     "title": "Transforming Education through Technology: The Case of COVID 19 Digital Learning in Nagaland",
     "abstract": "<jats:p>Through the perspective of the COVID-19 pandemic and the disruption and opportunity it engendered, this chapter follows a transformative effect of EdTech and Digital education in India particularly in Nagaland through analysis. Drawing upon national policy frameworks, conceptual literature on educational technology, and contextual evidence based on the case of Nagaland, the chapter considers the rapid migration to digital learning as an emergency strategy (in response to the ongoing institution closures) based on the stark shifts in pedagogical practice, access to education services, and preparedness. The findings show that, including the ability of national programmes such as NEP 2020, SWAYAM, DIKSHA, PM e-VIDYA, and others, to promote access to digital tools was low within periphery or hill areas (e.g., Nagaland), due to lack of infrastructural resources, digital divide, unprepared teachers and economic/social divides, and more. The pandemic exposed the deep social and infrastructure divides in connectivity, device availability, assessment and learner engagement, with implications that were especially grave in rural and tribal settings. Although it accelerated the pace of innovation and the application of blended and low-tech learning practices teachers have been experimenting with digital platforms and the post-COVID recovery process, including remedial programmes and hybrid instruction. The chapter also discusses that blended learning is the most fitting, viable and sustainable approach for reaching the technological level in the field of educational technology at Nagaland. It implies that technology-mediated education can improve equity, quality, and resilience, but only under the conditions of inclusive policy design, strong digital infrastructure, vigorous teacher capability building, and culturally appropriate digital content.\nKeywords: Educational technology, digital learning, COVID-19, Nagaland, online education, Challenges, blended learning</jats:p>",
@@ -659,22 +677,24 @@
     "ai_summary": "The chapter considers the rapid migration to digital learning as an emergency strategy . The findings show that the ability of national programmes such as NEP 2020, SWAYAM, DIKSHA, PM e-VIDYA, and others, to promote access to digital tools was low within periphery or hill areas ."
   },
   {
-    "id": "crossref:10.32628/cseit251116279",
-    "title": "Cyber Defense Digital Twins: A Federated Learning and Zero-Trust AI Architecture for Autonomous Threat Prediction and Response",
-    "abstract": "<jats:p>Modern enterprise networks operate under persistent threats that exploit cloud-native misconfigurations, identity sprawl, and API vulnerabilities at machine speed. Existing security operations center (SOC) architectures remain largely reactive, signature-dependent, and incapable of predicting multi-stage lateral movement. This paper proposes the Cognitive Cyber Defense Digital Twin (CCDT), a unified architecture integrating federated learning (FL), graph neural network (GNN)-based attack-path forecasting, adversarially hardened detection models, and autonomous Security Orchestration, Automation, and Response (SOAR) with deception engineering. The CCDT constructs a continuously synchronized digital replica of organizational assets and employs reinforcement learning-based red agents to stress-test detection models. A federated intelligence mesh enables cross-organizational privacy-preserving gradient sharing. Experimental evaluations against CICIDS-2018 and LANL datasets demonstrate 52% faster attack-path detection, 41% reduction in false positive rate, and 60% reduction in mean-time-to-respond (MTTR) compared to traditional SOC baselines. Integrated Explainable AI (XAI) modules using SHAP values enable audit-ready compliance reporting. The CCDT represents a paradigm shift from reactive monitoring to predictive, autonomous, and privacy-preserving cyber defense for hybrid cloud environments.</jats:p>",
+    "id": "crossref:10.55737/qjss.vii-i.26473",
+    "title": "The Nexus of Leadership and Learning: Exploring Female Principals' Influence on the Teaching-Learning Process in Secondary Schools",
+    "abstract": "<jats:p>The research paper will set out to debate the role played by the leadership competencies of principals in the teaching and learning process. The research will embrace a quantitative research design that will seek to answer the question concerning the relationship that exists between leadership skills of possessed by the  principals and the ongoing teaching-learning process in the female secondary schools using a co-relational study design. A survey instrument comprising of 37 items, which measured the leadership skills possessed by the selected principals and the prevailing teaching learning process, was used in the collection of data. Questionnaires for this study were administered to 108 male and female educators who were serving in secondary schools in Tehsil Wari, upper Dir and among them 100 questionnaires were submitted and were deemed to be useful in the analysis. The data in hand were calculated using Statistical Package of the Social Sciences (SPSS) version-27 and the obtained results indicated that the collected data was normally distributed. The findings revealed that all the variables of the study had great correlations. The analysis of the data was done through linear regression to measure the effect that the leadership skills of the principals had on the teaching learning process and this indicated that leadership skills of the principals have statistically significant effect on the teaching learning process. The policies derived out of this research can be a good guide to both the policymakers and organizational leaders because they can provide a good outline on how to empower the leaders in charge of the principals and as well as exert more influence on the effective teaching and learning processes.</jats:p>",
     "authors": [
-      "Sivaramakrishnan Narayanan"
+      "Muhammad Niqab",
+      "Salma Tabbasum",
+      "Shakil Ahmad"
     ],
     "published": "2028",
     "source": "Crossref",
     "category": "index",
-    "url": "https://doi.org/10.32628/cseit251116279",
+    "url": "https://doi.org/10.55737/qjss.vii-i.26473",
     "pdf_url": null,
-    "doi": "10.32628/cseit251116279",
+    "doi": "10.55737/qjss.vii-i.26473",
     "citations": 0,
-    "venue": "International Journal of Scientific Research in Computer Science, Engineering and Information Technology",
+    "venue": "Qlantic Journal of Social Sciences",
     "open_access": false,
-    "ai_summary": "The paper proposes the Cognitive Cyber Defense Digital Twin (CCDT) The CCDT constructs a continuously synchronized digital replica of organizational assets . It employs reinforcement learning-based red agents to stress-test detection models ."
+    "ai_summary": "Research paper will debate role played by principals in teaching and learning process . Research will embrace a quantitative research design that will seek to answer the question about the relationship between leadership skills of principals and teaching-learning process ."
   },
   {
     "id": "crossref:10.1504/ijims.2028.10081208",
@@ -697,26 +717,6 @@
     "venue": "International Journal of Internet Manufacturing and Services",
     "open_access": false,
     "ai_summary": "No abstract available."
-  },
-  {
-    "id": "crossref:10.55737/qjss.vii-i.26473",
-    "title": "The Nexus of Leadership and Learning: Exploring Female Principals' Influence on the Teaching-Learning Process in Secondary Schools",
-    "abstract": "<jats:p>The research paper will set out to debate the role played by the leadership competencies of principals in the teaching and learning process. The research will embrace a quantitative research design that will seek to answer the question concerning the relationship that exists between leadership skills of possessed by the  principals and the ongoing teaching-learning process in the female secondary schools using a co-relational study design. A survey instrument comprising of 37 items, which measured the leadership skills possessed by the selected principals and the prevailing teaching learning process, was used in the collection of data. Questionnaires for this study were administered to 108 male and female educators who were serving in secondary schools in Tehsil Wari, upper Dir and among them 100 questionnaires were submitted and were deemed to be useful in the analysis. The data in hand were calculated using Statistical Package of the Social Sciences (SPSS) version-27 and the obtained results indicated that the collected data was normally distributed. The findings revealed that all the variables of the study had great correlations. The analysis of the data was done through linear regression to measure the effect that the leadership skills of the principals had on the teaching learning process and this indicated that leadership skills of the principals have statistically significant effect on the teaching learning process. The policies derived out of this research can be a good guide to both the policymakers and organizational leaders because they can provide a good outline on how to empower the leaders in charge of the principals and as well as exert more influence on the effective teaching and learning processes.</jats:p>",
-    "authors": [
-      "Muhammad Niqab",
-      "Salma Tabbasum",
-      "Shakil Ahmad"
-    ],
-    "published": "2028",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.55737/qjss.vii-i.26473",
-    "pdf_url": null,
-    "doi": "10.55737/qjss.vii-i.26473",
-    "citations": 0,
-    "venue": "Qlantic Journal of Social Sciences",
-    "open_access": false,
-    "ai_summary": "Research paper will debate role played by principals in teaching and learning process . Research will embrace a quantitative research design that will seek to answer the question about the relationship between leadership skills of principals and teaching-learning process ."
   },
   {
     "id": "crossref:10.1504/ijims.2028.10076630",
@@ -851,6 +851,28 @@
     "ai_summary": "No abstract available."
   },
   {
+    "id": "openalex:W7212699939",
+    "title": "Development and validation of a machine learning-based predictive model for prognosis in cerebral hemorrhage patients after hyperbaric oxygen therapy.",
+    "abstract": "",
+    "authors": [
+      "Congyi Ding",
+      "Jun Wu",
+      "Guangning Zhang",
+      "Xiaoming Feng",
+      "Jieyang Zhu"
+    ],
+    "published": "2027-01-01",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.4103/mgr.medgasres-d-25-00168",
+    "pdf_url": null,
+    "doi": "10.4103/mgr.medgasres-d-25-00168",
+    "citations": 0,
+    "venue": "PubMed",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
     "id": "openalex:W7211975381",
     "title": "Application and feasibility analysis of random Forest models in safety prediction for transition metal-doped Na3V2(PO4)3 sodium-ion batteries.",
     "abstract": "",
@@ -879,144 +901,220 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "openalex:W7212699939",
-    "title": "Development and validation of a machine learning-based predictive model for prognosis in cerebral hemorrhage patients after hyperbaric oxygen therapy.",
+    "id": "pubmed:42817761",
+    "title": "[SIMULTANEOUS ROBOT-ASSISTED RADICAL PROSTATECTOMY AND INGUINAL HERNIA REPAIR : TWO CASE REPORTS].",
+    "abstract": "We report two cases in which inguinal hernia repair was performed concurrently with robot-assisted radical prostatectomy (RARP). Case 1 was in a 74-year-old male with a history of right inguinal hernia repair. He noticed a bulge in his left groin. He was diagnosed with localised prostate cancer. Inguinal hernia repair was performed concurrently withRARP. Case 2 was in a 65-year-old male witha left inguinal hernia that had been managed with observation. He was diagnosed with localised prostate cancer. Simultaneous inguinal hernia repair was performed during RARP and pelvic lymph node dissection. Both cases progressed without perioperative complications or recurrence of the inguinal hernia. In patients with symptomatic inguinal hernia, simultaneous RARP and inguinal hernia repair may be a useful option.",
+    "authors": [
+      "Wataru Tanaka",
+      "Tadashi Ohnishi",
+      "Yoshitaka Motoki",
+      "Hidekazu Takiuchi",
+      "Yasuo Ueda"
+    ],
+    "published": "2026-Sep",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42817761/",
+    "pdf_url": null,
+    "doi": "10.82687/actaurojp.72.9_273",
+    "citations": 0,
+    "venue": "Hinyokika kiyo. Acta urologica Japonica",
+    "open_access": false,
+    "ai_summary": "Two cases in which inguinal hernia repair was performed concurrently with robot-assisted radical prostatectomy (RARP) Both cases progressed without perioperative complications or recurrence of the inguinals hernia ."
+  },
+  {
+    "id": "pubmed:42817693",
+    "title": "Comparative Analysis of Prognostic Scoring Systems for Survival Prediction in Patients Undergoing Surgery for Spinal Metastases: A GRADE-approached Systematic Review and Meta-Analysis.",
+    "abstract": "Accurate estimation of survival is fundamental to guiding surgical decision-making in patients with spinal metastases. Several prognostic scoring systems have been developed, yet their relative accuracy remains uncertain. This review aimed to compare the discriminatory performance of six widely used models, Revised Tokuhashi, Tomita, Modified Bauer, Skeletal Oncology Research Group (SORG) Machine Learning, SORG Classic, and SORG Nomogram, in predicting postoperative survival. This review adhered to the PRISMA 2020 guidelines and was prospectively registered with PROSPERO (CRD420251056914). PubMed, Scopus, and Web of Science were systematically searched to identify studies from 2014 until July/2025 and researched on 26th/January/2026, involving adults with spinal metastases treated surgically that reported time-specific AUROC or concordance index (C-index) for at least two of the aforementioned prognostic models. Data extraction and quality assessment were independently performed using the QUADS-2 tool. Random-effects meta-analyses (REML) of logit-transformed AUROCs were conducted at 3, 6, and 12 months intervals. Seventeen studies encompassing 4465 patients published between 2014 and 2025 were included. Tomita, Revised Tokuhashi, Modified Bauer scores demonstrated moderate discriminatory performance (pooled AUROC 0.60-0.69) across all time intervals, while the SORG Nomogram achieved the highest pooled performance with AUROC values of 0.72 (95% CI, 0.68-0.76) at 3 months and 0.73 (95% CI, 0.68-0.79) at 12 months while high heterogeneity (I² = 52-96%) indicated variable performance across studies. As prognostic models exhibit only moderate accuracy in survival prediction, with the SORG Nomogram performing best. Integration of such models within multidisciplinary frameworks like LMNOP may improve individualized surgical planning and optimize patient outcomes with metastatic spine disease.",
+    "authors": [
+      "Kanchan Chaudhary",
+      "Mohammad A Zaied",
+      "Abdallah Shawwa",
+      "Hamza Ahabbane",
+      "Mira Alnaser Khashman",
+      "Moath Naser"
+    ],
+    "published": "2026-Sep",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42817693/",
+    "pdf_url": null,
+    "doi": "10.47391/JPMA-7ANOS-ABS-30",
+    "citations": 0,
+    "venue": "JPMA. The Journal of the Pakistan Medical Association",
+    "open_access": false,
+    "ai_summary": "Review aimed to compare the discriminatory performance of six widely used models . It looked at the performance of the six widely-used models ."
+  },
+  {
+    "id": "pubmed:42817688",
+    "title": "Hybrid Quantum-Classical Predictive Modelling for Glioblastoma Survival: Addressing Data Scarcity in Resource-Constrained Neuro-Oncology.",
+    "abstract": "A hybrid quantum-classical machine learning framework was proposed to evaluate whether quantum mechanics could extract high-dimensional patterns from small, localized patient registries, bypassing the small-data bottleneck entirely. An algorithmic pipeline bridging classical preprocessing with quantum state manipulation was designed. Eight core features comprising four structural MRI parameters (tumour volume, oedema index, necrotic core ratio, and perfusion intensity) and four molecular markers were mapped into a low-dimensional Hilbert space using quantum amplitude encoding. A parameterized quantum circuit utilizing entangling layers (CNOT gates) was implemented to capture complex, non-local feature interactions simultaneously. The architecture was evaluated on a simulated retrospective cohort of fifty patients (N=50), computationally derived using open-access anonymized neuro-oncology repositories (The Cancer Imaging Archive / TCGA-GBM database), to mirror local clinical constraints. While standard classical models (multi-layer perceptrons and random forests) failed to generalize due to severe overfitting on the small training sample, the HQCNN pipeline demonstrated robust convergence. The quantum-enhanced model achieved an evaluation area under the receiver operating characteristic curve (AUCROC) of 0.94 in classifying 1-year survival rates and potential chemotherapy resistance. This framework demonstrates that shifting the clinical focus from massive data accumulation to quantum-inspired algorithmic efficiency offers a scalable, low-cost path to personalized neuro-oncological care. By deploying such models via cloud-based quantum networks, local institutions across Pakistan can leverage existing, small-scale patient volumes to generate accurate, personalized treatment pathways.",
+    "authors": [
+      "Wajeeh Ahmed Khan",
+      "Mubashir Amjad",
+      "Arsalan Khan",
+      "Fawad Sarwar",
+      "Haroon Ahmed"
+    ],
+    "published": "2026-Sep",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42817688/",
+    "pdf_url": null,
+    "doi": "10.47391/JPMA-7ANOS-ABS-25",
+    "citations": 0,
+    "venue": "JPMA. The Journal of the Pakistan Medical Association",
+    "open_access": false,
+    "ai_summary": "A hybrid quantum-classical machine learning framework was proposed to evaluate whether quantum mechanics could extract high-dimensional patterns from small, localized patient registries . The architecture was evaluated on a simulated retrospective cohort of fifty patients (N=50)"
+  },
+  {
+    "id": "pubmed:42817797",
+    "title": "Smoking cessation policy gaps in South Korea: an MPOWER Framework analysis with AI-assisted multi-source evidence synthesis (2021-2026).",
+    "abstract": "Smoking remains the leading preventable cause of death in South Korea, accounting for 58,000-68,000 deaths annually and socioeconomic costs of approximately ₩15 trillion. Despite demonstrated cessation program effectiveness, participation has declined 62% since 2017, and Korea's tobacco landscape is undergoing rapid transformation-including a decade-long cigarette price freeze, one of the world's highest heated tobacco product market shares (18.4%), and the widening gap between total tobacco product use and cigarette-only prevalence. This review applies the World Health Organization Framework Convention on Tobacco Control MPOWER framework to identify policy gaps and strategic priorities for Korean smoking cessation during 2021-2026. We synthesized evidence from PubMed, Cochrane Library, Embase, KoreaMed, and RISS, supplemented by an artificial intelligence-assisted multi-source corroboration protocol using four independent platforms with primary-source verification of all cited claims. Four strategic priorities emerge, ranked by anticipated population-level impact. First, price and packaging policy reform: the 10-year price freeze at ₩4,500 (fifth lowest among Organization for Economic Cooperation and Development countries) represents the most significant modifiable barrier, with expert consensus recommending ₩8,000-10,000 with inflation indexation. Second, evidence-based novel product regulation: marked divergence among international guidelines on e-cigarettes demands a calibrated Korean approach balancing adult cessation benefits against youth initiation risks. Third, product-specific monitoring: total tobacco product use should replace cigarette-only prevalence as the primary national indicator. Fourth, pharmacotherapy optimization and digital integration: combination nicotine replacement therapy showed no clear difference versus varenicline in network meta-analysis (odds ratio, 1.06; 95% credible interval, 0.75-1.48), and digital cessation interventions (relative risk, 1.86) warrant consideration for integration into Korean cessation services. The December 2025 Tobacco Business Act amendment creates a legislative window to address these gaps comprehensively.",
+    "authors": [
+      "Sang Hyun Ahn",
+      "Yoo-Seock Cheong"
+    ],
+    "published": "2026-Oct-01",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42817797/",
+    "pdf_url": null,
+    "doi": "10.4082/kjfm.26.0104",
+    "citations": 0,
+    "venue": "Korean journal of family medicine",
+    "open_access": false,
+    "ai_summary": "Smoking remains the leading preventable cause of death in South Korea, accounting for 58,000-68,000 deaths annually . Despite demonstrated cessation program effectiveness, participation has declined 62% since 2017 . Korea's tobacco landscape is undergoing rapid transformation, including a decade-long cigarette price freeze ."
+  },
+  {
+    "id": "pubmed:42817755",
+    "title": "Stimuli-Responsive Smart Bandages for Chronic Wound Management: From Sensing Platforms to AI-Driven Closed-Loop Systems.",
+    "abstract": "Chronic wounds remain a major healthcare challenge because persistent inflammation, biofilm formation, oxidative stress, protease imbalance, hypoxia, and impaired angiogenesis prevent progression through normal healing. Conventional wound dressings provide passive protection but cannot continuously monitor the dynamic wound microenvironment or deliver adaptive therapy. Unlike previous reviews that independently summarize wound biosensors, responsive biomaterials, or drug-delivery systems, this review critically integrates the complete closed-loop paradigm of intelligent wound management, from single- and multi-stimuli-responsive sensing to AI-assisted autonomous therapeutic intervention. Chemical and physical sensing modalities are comparatively evaluated based on analytical performance, selectivity, clinical readiness, and translational limitations, while multi-responsive logic-gated platforms are assessed against conventional single-stimulus systems. The review further synthesizes available human clinical evidence, compares fabrication strategies and manufacturing scalability, and discusses regulatory pathways governing combination products, Software as a Medical Device, and AI-enabled wound care. Particular emphasis is placed on AI model development, data quality, validation, bias mitigation, and cybersecurity requirements for safe clinical deployment. Finally, major barriers including material scalability, long-term biocompatibility, sensor robustness, standardized clinical validation, and regulatory governance are critically analyzed to establish a translational framework for developing clinically reliable, intelligent smart bandages capable of precision management of chronic wounds.",
+    "authors": [
+      "Mohamed Nawfal Ibraheam",
+      "Vijayabharathi Saravanan",
+      "Lavanya N",
+      "Soji Soman",
+      "Farhath Sherin"
+    ],
+    "published": "2026-Oct-01",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42817755/",
+    "pdf_url": null,
+    "doi": "10.1002/adhm.71786",
+    "citations": 0,
+    "venue": "Advanced healthcare materials",
+    "open_access": false,
+    "ai_summary": "Chronic wounds remain a major healthcare challenge because persistent inflammation, biofilm formation, oxidative stress, protease imbalance, hypoxia, and impaired angiogenesis prevent progression through normal healing . Conventional wound dressings provide passive protection but cannot continuously monitor the dynamic wound microenvironment ."
+  },
+  {
+    "id": "pubmed:42817736",
+    "title": "Response to Letter to the Editor on \"Artificial Intelligence Large Language Models for Pelvic Floor Rehabilitation: Readability, Usability and Consistency\".",
     "abstract": "",
     "authors": [
-      "Congyi Ding",
-      "Jun Wu",
-      "Guangning Zhang",
-      "Xiaoming Feng",
-      "Jieyang Zhu"
+      "Ayse Naz Kalem Ozgen",
+      "Esra Celik Karbancioglu",
+      "Nihal Tezel"
     ],
-    "published": "2027-01-01",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.4103/mgr.medgasres-d-25-00168",
+    "published": "2026-Oct-01",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42817736/",
     "pdf_url": null,
-    "doi": "10.4103/mgr.medgasres-d-25-00168",
+    "doi": "10.1002/nau.70472",
     "citations": 0,
-    "venue": "PubMed",
+    "venue": "Neurourology and urodynamics",
     "open_access": false,
     "ai_summary": "No abstract available."
   },
   {
-    "id": "pubmed:42816434",
-    "title": "Bioinspired Interlocking Hierarchical Heterostructures Endow Iontronic Pressure Sensors With Superior Strain Insensitivity, Air Permeability, and Sensing Performance for Neurodegenerative Disease Assessment.",
-    "abstract": "Pressure sensors, with their immense potential for detecting fine physiological activities and monitoring neurological disease-related signals, face significant challenges, including the occurrence of signal artifacts during stretching and low comfort due to poor breathability. Here, a bioinspired interlocking hierarchical heterostructure (BIHH) is synergistically designed by anchoring a porous textile-microstructured ionogel to stretchable laser-induced graphene electrodes to simultaneously enhance strain insensitivity, pressure sensing performance, and wearable comfort. This modulus-gradient heterogeneous mechanical network induces interfacial strain partitioning: tensile strain dissipates along porous Ecoflex frameworks, while the pressure-sensitive domains are mechanically locked against deformation. Consequently, the sensor exhibits a mere 2% signal variation under 100% strain, maintaining consistent sensing capability even under severe stretching. Meanwhile, the hierarchical porous microstructure reconciles high-performance iontronic pressure sensing with skin-conformable breathability for array-based touch and human physiological signal perception. Furthermore, by integrating artificial intelligence recognition algorithms, a five-channel finger tapping assessment system achieves an accuracy of 97% in distinguishing different tapping patterns for the early auxiliary screening and rehabilitation of neurodegenerative diseases. This effective strategy opens a promising path for designing devices that reduce motion artifact interference while enhancing pressure sensing performance and comfort for on-skin physiological activity monitoring.",
+    "id": "pubmed:42817705",
+    "title": "Tooth Dimensions, Arch Width, and Treatment Outcomes after Mandibular Incisor Extraction.",
+    "abstract": "To evaluate treatment-related changes in tooth widths, ratios, and dental arch changes in patients treated with mandibular incisor extraction treatment (MIET). Pre- (T1) and post-treatment (T2) digital dental casts of 24 patients (13 female, 11 male; mean age: 16.58±3.81 years) who underwent MIET were examined. Mesiodistal tooth widths, transverse dental arch widths, overjet, and overbite were measured, and the Bolton ratios were calculated using OrthoCAD software. Pre- and post-treatment values were compared. Correlations between post-treatment overjet and related parameters were analyzed. Mesiodistal widths of the maxillary incisors decreased from T1 to T2, with a statistically significant decrease in the upper right lateral (-0.18±0.32 mm, p=0.010) and upper left central incisors (-0.20±0.36 mm, p=0.011). Mandibular intercanine width decreased (-2.56±3.39 mm; p<0.001), whereas maxillary and mandibular interpremolar width (2.91±2.06 mm, p<0.001; 1.57±2.68 mm, p=0.008) and mandibular intermolar width (1.09±1.94 mm, p=0.013) increased significantly. Overbite (-1.00±1.52 mm, p=0.004), the anterior Bolton ratio (-10.51±2.40%, p<0.001), and the overall Bolton ratio (-4.89±1.83, p<0.001) decreased during treatment. Post-treatment overjet was negatively correlated with the pre-treatment anterior and overall Bolton ratios and positively correlated with the pre-treatment arch length, the difference in intercanine width (T2-T1), and the pre-treatment overbite. MIET caused a decrease in mandibular intercanine width and the anterior Bolton ratio, despite the interproximal reduction performed on the upper incisors. Given the potential consequences of these results on anterior and canine guidance, greater interproximal reduction in the maxilla and close attention to the torque and final positions of the mandibular canines may be recommended.",
     "authors": [
-      "Dijie Yao",
-      "Qiuhua Yu",
-      "Yifan Zheng",
-      "Huizhi Chen",
-      "Cheng Shen",
-      "Jiajia Yang",
-      "Zhenwen Liang",
-      "Kai Tao",
-      "Gang Chen",
-      "Fei Liu",
-      "Fengwei Huo",
-      "Junyou Yang",
-      "Jin Wu"
+      "Başak Arslan Avan",
+      "İrem Kar",
+      "Burcu Baloş Tuncer",
+      "Nehir Canıgür Bavbek"
     ],
-    "published": "2026-Sep-30",
+    "published": "2026-Oct-01",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42816434/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42817705/",
     "pdf_url": null,
-    "doi": "10.1002/adma.75211",
+    "doi": "10.4274/TurkJOrthod.2026.2026.43",
     "citations": 0,
-    "venue": "Advanced materials (Deerfield Beach, Fla.)",
+    "venue": "Turkish journal of orthodontics",
     "open_access": false,
-    "ai_summary": "Pressure sensors face significant challenges, including the occurrence of signal artifacts during stretching and low comfort due to poor breathability . The sensor exhibits a mere 2% signal variation under 100% strain ."
+    "ai_summary": "The Bolton ratios were calculated using OrthoCAD software . Mesiodistal tooth widths, transverse dental arch widths and overjet were measured . Correlations between post-treatment overjet and related parameters were analyzed ."
   },
   {
-    "id": "pubmed:42816345",
-    "title": "Effect of disk thickness on sintering distortion of fixed dental prostheses fabricated from unshaded multi-composition layered zirconia disks.",
-    "abstract": "To evaluate the effect of disk thickness on sintering distortion in four-unit fixed dental prostheses (FDPs) fabricated from unshaded multi-composition layered (MCL) zirconia disks. Unshaded MCL disks with different thicknesses (14, 18, 22, and 26 mm) were used to fabricate simplified four-unit FDPs. For each thickness, FDPs were milled from three vertical regions within the disk. Areas I, II, and III corresponded to the enamel side, central region, and cervical side, respectively. Seven FDPs were prepared under each condition. The FDPs were scanned before and after final sintering under manufacturer-recommended conditions. Using computer-aided design software, this study analyzed buccolingual midline cross-sections to quantify pre- to post-sintering changes in the external angle α. The disk thickness and milling area significantly affected the sintering distortion, with a significant interaction, indicating that the milling area effect differed according to the disk thickness. Area I showed increased angle α, whereas Area II showed decreased α across all disk thicknesses. Area III showed the greatest increase in α in the 26 mm group. The 14 mm disk, closest to the prosthesis height, showed a smaller area-dependent variation than the 18 and 22 mm disks. The disk thickness influenced the magnitude and direction of sintering distortion in the four-unit FDPs fabricated from unshaded MCL disks. This pattern may be associated with the differences in the range and relative proportions of compositional layers incorporated into the prosthesis. A disk thickness close to the prosthesis height was associated with a smaller area-dependent variation.",
+    "id": "pubmed:42817814",
+    "title": "The Growth and Trends in Cancer-Induced Cachexia Research: A Bibliometric and AI-Guided Visualization Analysis.",
+    "abstract": "Over the past several decades, advances in basic and clinical research have increasingly established cancer-induced cachexia as a distinct pathophysiological syndrome that warrants targeted therapeutic approaches alongside conventional anticancer treatments. Despite its high prevalence and substantial impact on morbidity, mortality, and quality of life, the condition remains underrecognized and inadequately managed in clinical practice. Correspondingly, scientific activity in the field has expanded rapidly, spanning molecular mechanisms, clinical characterization, and emerging interventional strategies. This bibliometric analysis aims to provide a comprehensive, quantitative overview of evolving research in cancer-induced cachexia over the past 25 years. We conducted a bibliometric analysis of cancer cachexia research published between 2001 and 2025 using the Web of Science Core Collection. A total of 5775 English-language primary research articles were retrieved using the search terms \"cancer AND cachexia,\" and including papers in English of the types articles, letters, and proceedings papers. Data were analyzed using the Bibliometrix R package and its web interface, BiblioShiny, to assess publication trends, author productivity, collaboration networks, and keyword co-occurrence. Additional visualizations were generated using the R programming language and AI-guided analyses to explore trends and bursts in the evolution of cachexia research. Cancer cachexia publications increased at an annual rate of 6.7%, exceeding the overall growth rate of scientific literature. In terms of number of papers and citation indices, the Journal of Cachexia, Sarcopenia and Muscle is the dominant journal in the field. Research is characterized by high levels of international collaboration, though research networks remain geographically clustered. Keywords were analyzed using co-occurrence networks to reveal specific connections and clusters of research topics. Trend analyses of keywords showed the progression of research in the areas of metabolism and the role of inflammatory mediators. Burst analysis revealed research \"hotspots\" over the last 25 years including studies of specific interventions such as immunotherapy, gastrointestinal cancers, and metabolic dysregulation. Cancer cachexia research has expanded significantly over the past two decades but remains limited in scale and fragmented across geographic and disciplinary boundaries. A shift toward investigating biological mechanisms and therapeutics indicates a maturing field with growing translational potential. Growing trends and recent research bursts in immune function and inflammation suggest an important role of these areas in further therapeutic development. Continued integration of clinical, nutritional, and molecular research will be essential to advance effective interventions. This bibliometric analysis offers a data-driven foundation to inform future research priorities and collaboration strategies in cancer-induced cachexia.",
     "authors": [
-      "Syuntaro Nomoto",
-      "Mizuho Hirano",
-      "Hideshi Sekine"
-    ],
-    "published": "2026-Sep-30",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42816345/",
-    "pdf_url": null,
-    "doi": "10.2186/jpr.JPR_D_26_00205",
-    "citations": 0,
-    "venue": "Journal of prosthodontic research",
-    "open_access": false,
-    "ai_summary": "Four-unit fixed dental prostheses (FDPs) fabricated from unshaded multi-composition layered (MCL) zirconia disks . FDPs were scanned before and after final sintering under manufacturer-recommended conditions ."
-  },
-  {
-    "id": "pubmed:42816452",
-    "title": "PyOrbb-Automated Analyses of Orbital-Interaction Mechanisms.",
-    "abstract": "We present PyOrbb, an open-source, user-friendly Python-based program that automates the analysis and visualization of orbital interaction mechanisms between molecular fragments or reactants, based on quantum-chemical computations with the Amsterdam Density Functional (ADF) program. PyOrbb extracts the essential mixing patterns, presents them in an interactively adjustable orbital interaction diagram, and summarizes all relevant quantitative data in a convenient Excel spreadsheet for further analysis. The tool enables efficient interpretation of chemical bonding across a broad range of systems, including examples from organic, inorganic, and supramolecular chemistry. The application runs on macOS and Windows operating systems. PyOrbb is shown to accurately and rapidly visualize relevant bonding mechanisms from the often-overwhelming output of density functional computations.",
-    "authors": [
-      "Yuman Hordijk",
-      "Steven E Beutick",
-      "Xiaobo Sun",
-      "Laurens Groot",
-      "Tori Gijzen",
-      "Jordi Poater",
-      "Trevor A Hamlin",
-      "F Matthias Bickelhaupt",
-      "Célia Fonseca Guerra"
-    ],
-    "published": "2026-Oct-05",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42816452/",
-    "pdf_url": null,
-    "doi": "10.1002/jcc.70512",
-    "citations": 0,
-    "venue": "Journal of computational chemistry",
-    "open_access": false,
-    "ai_summary": "PyOrbb is an open-source, user-friendly Python-based program that automates the analysis and visualization of orbital interaction mechanisms between molecular fragments or reactants . The application runs on macOS and Windows operating systems ."
-  },
-  {
-    "id": "pubmed:42816425",
-    "title": "CAML-RNA: Commutative Algebra Machine Learning for RNA-Ligand Binding Affinity Prediction.",
-    "abstract": "We introduce commutative algebra machine learning for RNA (CAML-RNA), a framework that combines bipartite persistent homology (PH) and persistent Stanley-Reisner theory (PSRT) for predicting RNA-small-molecule binding affinities. RNA-ligand interactions are represented as bipartite atom-pair point clouds, enabling element-specific (ES, 36 pairs, 4 RNA × 9 ligand elements) and category-specific (CS, 36 pairs, 4 RNA structural categories × 9 ligand elements) Vietoris-Rips filtrations that extract β",
-    "authors": [
-      "Stalin Arulsamy",
-      "Yashwanth Krishna",
-      "Rajesh Kumar",
-      "Vanktesh Kumar"
-    ],
-    "published": "2026-Oct-05",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42816425/",
-    "pdf_url": null,
-    "doi": "10.1002/jcc.70511",
-    "citations": 0,
-    "venue": "Journal of computational chemistry",
-    "open_access": false,
-    "ai_summary": "RNA-ligand interactions are represented as bipartite atom-pair point clouds . They are represented by bipartites atom- Pair point clouds, enabling element-specific (ES, 36 pairs, 4 RNA × 9 ligand elements) and category-specific ."
-  },
-  {
-    "id": "pubmed:42816444",
-    "title": "Challenges in Providing End-of-Life Nursing Care: A Qualitative Content Analysis.",
-    "abstract": "To explore the challenges of providing end-of-life nursing care in Iran. Qualitative content analysis. Fifteen participants, including seven nurses, two head nurses, two educational supervisors, two academic staff, one nursing service manager and one critical care physician, were purposively selected from across Iran from October to December 2023. Data were collected through in-depth semi-structured interviews in person and by telephone and analyzed using MAXQDA 2020 software using the inductive content analysis approach of Elo and Kingas. We also examined trustworthiness using Elo et al.'s checklist and Lincoln and Guba's criteria. Four main themes emerged: (1) Emotional burden of caring for dying patients (fear and anxiety, compassion fatigue, moral distress and grief responses); (2) Systemic neglect of end-of-life care (educational gaps, lack of national standards and absence of a palliative care organization); (3) Fragmented interdisciplinary care and communication gaps (poor teamwork, physician-centred system, unclear role definitions and cultural and religious barriers); and (4) Absence of supportive infrastructure (economic, social and technological constraints). Participants believed that these themes were related and mutually reinforcing. End-of-life nursing care in Iran faces serious, interconnected challenges. Therefore, it requires comprehensive institutionalization, planning and educational and clinical interventions. To improve care quality, nurses need appropriate policies and specific clinical protocols for end-of-life care. This study examines an important gap in understanding the challenges of end-of-life care in Iran and provides evidence for policymaking, education and health system management. The study report was guided by the COREQ checklist. No patient or public contribution.",
-    "authors": [
-      "Zahra Taheri-Ezbarami",
-      "Fateme Jafaraghaee",
-      "Ali Karimian Sighlani",
-      "Seyed Kazem Mousavi"
+      "Thomas M O'Connell",
+      "Radhika Gedela",
+      "Fabrizio Pin"
     ],
     "published": "2026-Oct",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42816444/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42817814/",
     "pdf_url": null,
-    "doi": "10.1002/nop2.70866",
+    "doi": "10.1002/cnr2.70690",
     "citations": 0,
-    "venue": "Nursing open",
+    "venue": "Cancer reports (Hoboken, N.J.)",
     "open_access": false,
-    "ai_summary": "Fifteen participants were selected from across Iran from October to December 2023 . Data were collected through in-depth semi-structured interviews in person and by telephone . Four main themes emerged: Emotional burden of caring for dying patients ."
+    "ai_summary": "The condition remains underrecognized and inadequately managed in clinical practice . The study was conducted using the Web of Science Core Collection ."
+  },
+  {
+    "id": "pubmed:42817756",
+    "title": "Uncovering Placental Endocrine Dysregulation in Gestational Diabetes Mellitus Using Bioinformatics and Machine Learning.",
+    "abstract": "Gestational diabetes mellitus (GDM) is a common metabolic disorder, posing serious health risks to both mother and fetus. This study aims to explore the placental endocrine mechanisms involved in GDM. The training dataset GSE203346 and endocrine-related gene sets from the Molecular Signatures Database were used to identify endocrine-related differentially expressed genes (ER-DEGs). Support vector machine recursive feature elimination (SVM-RFE) and Boruta algorithms were employed to identify hub genes. Diagnostic performance was analyzed using the receiver operating characteristic (ROC) curves. Immune cell infiltration was evaluated using the CIBERSORT algorithm, followed by single-gene gene set enrichment analysis (GSEA). A total of 57 ER-DEGs were identified in the GDM placental samples. Machine learning identified nine important genes, of which CACNA1C, CCDC102B, and KIF21A exhibited high diagnostic performance (AUC > 0.80) in two external validation datasets (GSE154414 and GSE255075). Immune infiltration analysis revealed potential differences in several immune cell proportions between high- and low-expression groups of the hub genes. High expression of CACNA1C, CCDC102B, and KIF21A was associated with the Notch pathway, mTOR pathway, and autophagy. CACNA1C, CCDC102B, and KIF21A may be the potential biomarkers and therapeutic targets for GDM.",
+    "authors": [
+      "Lijun Deng",
+      "Mo Yang",
+      "Xin Wang",
+      "Ning Gong",
+      "Ning Zhang",
+      "Qing Yang",
+      "Chengmin Gu"
+    ],
+    "published": "2026-Oct",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42817756/",
+    "pdf_url": null,
+    "doi": "10.1111/aji.70325",
+    "citations": 0,
+    "venue": "American journal of reproductive immunology (New York, N.Y. : 1989)",
+    "open_access": false,
+    "ai_summary": "Gestational diabetes mellitus (GDM) is a common metabolic disorder, posing serious health risks to both mother and fetus . This study aims to explore the placental endocrine mechanisms involved in GDM ."
+  },
+  {
+    "id": "pubmed:42817723",
+    "title": "User Beware: Inaccuracy and Inconsistency of Large Language Models in Providing Precision Dosing Recommendations for Patients With Kidney Impairment-A Case Series.",
+    "abstract": "Evidence-based dosing guidance for medications in critically ill patients with acute kidney injury (AKI) and receiving continuous kidney replacement therapy (CKRT) is limited. Freely available large language models (LLMs) can generate confident, human-like outputs. The accuracy and reproducibility of LLMs in providing precision drug dosing recommendations in the setting of AKI and CKRT have not been evaluated. We sought to characterize literature concordance and internal consistency of LLM-generated dosing recommendations for cefepime and meropenem in patients with AKI and receiving CKRT. Six investigators queried the freely available versions of six LLMs (ChatGPT, Claude, Google Gemini, Microsoft Copilot, OpenEvidence, and Perplexity) from July to September 2025 using three standardized vignettes asking for dosing recommendations and rationale to meet prespecified pharmacodynamic targets: (i) adult with AKI not on dialysis receiving cefepime, (ii) child receiving CKRT and cefepime, and (iii) toddler receiving high-effluent CKRT and meropenem. To assess inter-iteration consistency, each investigator also prompted one LLM three times for each vignette. Responses were parsed for concordance with recommendations in primary literature. LLM \"reasoning\" was evaluated for use of pharmacokinetic (PK) equations, citation accuracy versus confabulation, acknowledgment of uncertainty, and recommendations for therapeutic drug monitoring (TDM) for efficacy or safety. LLM-generated dosing recommendations varied widely. Mean concordance with literature-based recommendations was 63% (range: 28%-94%). LLMs produced variable responses to the same user upon multiple iterations, with variance in daily maintenance doses recommended ranging from 0 to 1000%. OpenEvidence universally cited relevant sources, whereas other LLMs leveraged sources inconsistently or confabulated them. Each recommended TDM, though only Claude consistently acknowledged its own uncertainty. Freely available LLMs produce highly variable and often discordant antibiotic dosing recommendations for patients with AKI and receiving CKRT. Although valuable for hypothesis generation and literature retrieval, LLM outputs should not be used in isolation for drug dosing in critically ill patients with kidney dysfunction.",
+    "authors": [
+      "H Rhodes Hambrick",
+      "Samuel Dubinsky",
+      "Danica Quickfall",
+      "Shannon Reinert",
+      "Sonya Tang Girdwood",
+      "Gideon Stitt"
+    ],
+    "published": "2026-Oct",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42817723/",
+    "pdf_url": null,
+    "doi": "10.1002/phar.70207",
+    "citations": 0,
+    "venue": "Pharmacotherapy",
+    "open_access": false,
+    "ai_summary": "Evidence-based dosing guidance for medications in critically ill patients with acute kidney injury (AKI) and receiving continuous kidney replacement therapy (CKRT) is limited . Freely available large language models (LLMs) can generate confident, human-like outputs ."
   },
   {
     "id": "openalex:W7118720654",
@@ -1608,6 +1706,47 @@
     "ai_summary": "No abstract available."
   },
   {
+    "id": "openalex:W7214928558",
+    "title": "More, shorter, newer? How monetization reshapes creator strategy on YouTube Shorts",
+    "abstract": "",
+    "authors": [
+      "Soyeong Kwon",
+      "Kitae Kim",
+      "Sung-Hyuk Park"
+    ],
+    "published": "2026-10-01",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.1108/intr-07-2025-1078",
+    "pdf_url": null,
+    "doi": "10.1108/intr-07-2025-1078",
+    "citations": 0,
+    "venue": "Internet Research",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7214988544",
+    "title": "ACM for segmenting intensity inhomogeneity images corrupted by a mixture of AGMG noise",
+    "abstract": "",
+    "authors": [
+      "Nurhuda Ismail",
+      "Abdul Kadir Jumaat",
+      "Rizauddin Saian",
+      "Akmal Shafiq Badarul Azam"
+    ],
+    "published": "2026-10-01",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.11591/eei.v15i5.12549",
+    "pdf_url": "https://doi.org/10.11591/eei.v15i5.12549",
+    "doi": "10.11591/eei.v15i5.12549",
+    "citations": 0,
+    "venue": "Bulletin of Electrical Engineering and Informatics",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
     "id": "arxiv:2609.40359v1",
     "title": "Removing Timing Shortcuts Improves Non-Invasive Brain-to-Text",
     "abstract": "We find that major reported improvements in decoding words from non-invasive brain recordings are largely reproducible without any brain data. In the influential work of d'Ascoli et al. (2025), time series of brain activity from subjects perceiving continuous speech are segmented into fixed-length windows starting at each word. A neural network then generates predictions for all of the words in a sentence together. Neighbouring windows partially overlap, implicitly revealing the interval between words. Since these intervals indicate the duration of the words spoken, and different words tend to have different durations - for example, \"the\" is much shorter than \"supercalifragilisticexpialidocious\" - the neural network can improve its predictions of words without relying on the underlying brain activity. Consistent with this, the method reaches 22.0% balanced accuracy on synthetic signals containing no brain information, compared with 22.3% on real brain recordings. To prevent the network from learning this shortcut, we make a single, simple change. Instead of jointly encoding all windows in a sentence, we process each independently. As a result, the neural network achieves better performance by learning underlying word-specific information from brain recordings. This makes two existing strategies become much more effective than before. Both aggregating predictions from distinct neural responses to the same word and using a pretrained LLM as a linguistic prior now substantially improve results. On our perceived speech benchmark, this simple recipe (SimpleB2T) achieves a word error rate of 36.6% with five observations per word, approaching past invasive speech decoding performance, albeit under different conditions. The results in this work expose an important shortcut in brain-to-text decoding and show that removing it leads to a simple and considerably more effective strategy.",
@@ -1625,67 +1764,6 @@
     "venue": "arXiv preprint",
     "open_access": true,
     "ai_summary": "Time series of brain activity from subjects perceiving continuous speech are segmented into fixed-length windows starting at each word . A neural network then generates predictions for all of the words in a sentence together . The method reaches 22.0% balanced accuracy on synthetic signals containing no brain information ."
-  },
-  {
-    "id": "arxiv:2609.40358v1",
-    "title": "Physis-Lang: Self-Evolving Language as a Physical Representation for Video World Model",
-    "abstract": "Video world models are expected to predict how the physical world evolves, yet they often produce visually plausible videos that violate basic physical principles. Existing approaches commonly assume that natural language is insufficient to represent the physical knowledge required for reliable generation, and therefore introduce additional visual, latent, numerical, or planning-based signals. We revisit this assumption and introduce Physis-Lang, a self-evolving framework that treats physical language as a shared and optimizable representation across data curation, model training, and video generation. Physis-Lang represents physical processes through language that describes their relevant entities, causes, interactions, governing principles, temporal evolution, and effects. To improve this representation, we construct PhysCapBench, which decomposes physical processes into atomic assertions and evaluates captions using recall and precision. An agentic loop iteratively analyzes assertion-level errors and refines the instruction used to produce physical captions. Physis-Lang further converts model deficiencies into textual descriptions and uses language-guided retrieval to identify visually diverse videos that cover missing physical processes. Experiments on four widely used physical video benchmarks with Wan and Cosmos backbones demonstrate consistent improvements in physical plausibility. Notably, starting from open-source Cosmos3-Nano backbones, our Physis-Lang-enhanced models surpass the leading proprietary Veo 3.1 model.",
-    "authors": [
-      "Liming Lu",
-      "Xianzheng Ma",
-      "Wenkun He",
-      "Guanqi Zhan",
-      "Yilin Zhao",
-      "Junyu Chen",
-      "Mengyao Xu",
-      "Jiaojiao Fan",
-      "Wenhang Ge",
-      "Yuchao Gu",
-      "Yunze Liu",
-      "Boyi Li",
-      "Zhen Dong",
-      "Victor Prisacariu",
-      "Ming-Yu Liu",
-      "Song Han",
-      "Han Cai"
-    ],
-    "published": "2026-09-30",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2609.40358v1",
-    "pdf_url": "https://arxiv.org/pdf/2609.40358v1",
-    "doi": null,
-    "citations": 0,
-    "venue": "arXiv preprint",
-    "open_access": true,
-    "ai_summary": "Video world models are expected to predict how the physical world evolves, yet they often produce visually plausible videos that violate basic physical principles . We introduce Physis-Lang, a self-evolving framework that treats physical language as a shared and optimizable representation ."
-  },
-  {
-    "id": "arxiv:2609.40362v1",
-    "title": "Multimodal Flow: Unified Flow Modeling of Language and Vision in Embedding Spaces",
-    "abstract": "We present Multimodal Flow, a fully continuous generative model of language and vision. Most unified multimodal models either model both language and quantized images as discrete tokens or combine discrete language prediction with continuous image generation. The former introduces a visual quantization bottleneck. The latter requires modality-dependent objectives and sampling procedures. Fully continuous modeling avoids these trade-offs and enables a shared generative process, but remains underexplored for multimodal pretraining. Multimodal Flow introduces a unified continuous architecture that integrates multimodal continuous representations with a shared chunk-causal flow backbone. It organizes text blocks and images as ordered continuous hyperchunks, preserving textual token order and visual spatial structure. The backbone learns a single vector field over these hyperchunks through Flow Matching. Joint attention enables cross-modal interaction, while modality-specific feed-forward networks process each modality. The model predicts multiple target chunks in parallel during training and generates hyperchunks sequentially at inference. We instantiate MF-1 and pretrain it on multimodal data. Across 0.6B, 1.2B, and 1.6B scales, continued pretraining consistently improves multimodal modeling. With only 150B pretraining tokens, MF-1 achieves an average score of 82.8 across GenEval and DPG-Bench and 75.3 across VQAv2, MMBench, and POPE, remaining competitive with unified models trained on substantially more data. Under matched data, optimization, and parameter budgets, Multimodal Flow further outperforms representative hybrid and discrete models. These results establish continuous chunk-based embedding flow modeling as a new fully continuous paradigm for unified multimodal modeling. The related code and model are publicly released at https://github.com/hustvl/Multimodal-Flow.",
-    "authors": [
-      "Hongyuan Tao",
-      "Xinggang Wang",
-      "Lianghui Zhu",
-      "Yongkang Li",
-      "Yunchao Wei",
-      "Bin Feng",
-      "Shaoyu Chen",
-      "Qian Zhang",
-      "Chang Huang",
-      "Kai Yu"
-    ],
-    "published": "2026-09-30",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2609.40362v1",
-    "pdf_url": "https://arxiv.org/pdf/2609.40362v1",
-    "doi": null,
-    "citations": 0,
-    "venue": "arXiv preprint",
-    "open_access": true,
-    "ai_summary": "Multimodal Flow is a fully continuous generative model of language and vision . It organizes text blocks and images as ordered continuous hyperchunks . The backbone learns a single vector field over these hyperchunk through Flow Matching ."
   },
   {
     "id": "arxiv:2609.40356v1",
@@ -1735,6 +1813,33 @@
     "ai_summary": "Reinforcement learning with verifiable rewards (RLVR) has improved the reasoning capabilities of large language models . But their predictions remain sensitive to task-irrelevant prompt features . We investigate this sensitivity through semifactual prompt interventions that preserve the underlying problem and its answer ."
   },
   {
+    "id": "arxiv:2609.40362v1",
+    "title": "Multimodal Flow: Unified Flow Modeling of Language and Vision in Embedding Spaces",
+    "abstract": "We present Multimodal Flow, a fully continuous generative model of language and vision. Most unified multimodal models either model both language and quantized images as discrete tokens or combine discrete language prediction with continuous image generation. The former introduces a visual quantization bottleneck. The latter requires modality-dependent objectives and sampling procedures. Fully continuous modeling avoids these trade-offs and enables a shared generative process, but remains underexplored for multimodal pretraining. Multimodal Flow introduces a unified continuous architecture that integrates multimodal continuous representations with a shared chunk-causal flow backbone. It organizes text blocks and images as ordered continuous hyperchunks, preserving textual token order and visual spatial structure. The backbone learns a single vector field over these hyperchunks through Flow Matching. Joint attention enables cross-modal interaction, while modality-specific feed-forward networks process each modality. The model predicts multiple target chunks in parallel during training and generates hyperchunks sequentially at inference. We instantiate MF-1 and pretrain it on multimodal data. Across 0.6B, 1.2B, and 1.6B scales, continued pretraining consistently improves multimodal modeling. With only 150B pretraining tokens, MF-1 achieves an average score of 82.8 across GenEval and DPG-Bench and 75.3 across VQAv2, MMBench, and POPE, remaining competitive with unified models trained on substantially more data. Under matched data, optimization, and parameter budgets, Multimodal Flow further outperforms representative hybrid and discrete models. These results establish continuous chunk-based embedding flow modeling as a new fully continuous paradigm for unified multimodal modeling. The related code and model are publicly released at https://github.com/hustvl/Multimodal-Flow.",
+    "authors": [
+      "Hongyuan Tao",
+      "Xinggang Wang",
+      "Lianghui Zhu",
+      "Yongkang Li",
+      "Yunchao Wei",
+      "Bin Feng",
+      "Shaoyu Chen",
+      "Qian Zhang",
+      "Chang Huang",
+      "Kai Yu"
+    ],
+    "published": "2026-09-30",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2609.40362v1",
+    "pdf_url": "https://arxiv.org/pdf/2609.40362v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "Multimodal Flow is a fully continuous generative model of language and vision . It organizes text blocks and images as ordered continuous hyperchunks . The backbone learns a single vector field over these hyperchunk through Flow Matching ."
+  },
+  {
     "id": "arxiv:2609.40361v1",
     "title": "Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis",
     "abstract": "Multimodal large language models (MLLMs) are rapidly advancing clinical diagnosis, yet their adaptation pipelines remain anchored to accuracy-based objectives. Clinical data are heavily class-imbalanced: a constant-majority predictor can score above 90% accuracy while being clinically useless. We therefore evaluate and optimize for AUROC, a threshold-free score that ranks positives above negatives and is invariant to class balance. We focus on prompt optimization in MLLMs. Reflective methods such as GEPA use a binary scores matrix with one row per evaluation instance and one column per candidate prompt; cells record per-instance correctness, so the column average is accuracy and drives candidate selection. We introduce pair-level Pareto prompt evolution (Ranking-PE), which replaces each correctness row with a pairwise-ordering row over (positive, negative) instance pairs: the cell is 1 if the candidate scores the positive higher than the paired negative. The column average then equals empirical AUROC (by the Wilcoxon-Mann-Whitney identity). We apply this swap at all three layers the prompt evolution search reads from - the scores matrix that decides Pareto dominance, the per-example feedback to the reflection LM, and final candidate selection - at no extra model calls and with no surrogate loss. Across three diseases on MIMIC, accuracy-based prompt evolution can degrade ranking; Ranking-PE reverses this, beating the accuracy-based recipe by +5.8 AUROC pp on fine-tuned Qwen3-VL-8B and +16.2 pp on MedGemma-4B. Ablations examine each design component and show that a medical-grade visual backbone - via vision-encoder-tuned SFT or medical pretraining - is a prerequisite that prompt search cannot replace - our recipe extends reflective prompt evolution from text-only data to multimodal clinical decision-making.",
@@ -1754,7 +1859,41 @@
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "Multimodal large language models (MLLMs) are rapidly advancing clinical diagnosis . But their adaptation pipelines remain anchored to accuracy-based objectives . A constant-majority predictor can score above 90% accuracy while being clinically useless ."
+    "ai_summary": "Multimodal large language models (MLLMs) are rapidly advancing clinical diagnosis, but their adaptation pipelines remain anchored to accuracy-based objectives . We focus on prompt optimization in MLLMs."
+  },
+  {
+    "id": "arxiv:2609.40358v1",
+    "title": "Physis-Lang: Self-Evolving Language as a Physical Representation for Video World Model",
+    "abstract": "Video world models are expected to predict how the physical world evolves, yet they often produce visually plausible videos that violate basic physical principles. Existing approaches commonly assume that natural language is insufficient to represent the physical knowledge required for reliable generation, and therefore introduce additional visual, latent, numerical, or planning-based signals. We revisit this assumption and introduce Physis-Lang, a self-evolving framework that treats physical language as a shared and optimizable representation across data curation, model training, and video generation. Physis-Lang represents physical processes through language that describes their relevant entities, causes, interactions, governing principles, temporal evolution, and effects. To improve this representation, we construct PhysCapBench, which decomposes physical processes into atomic assertions and evaluates captions using recall and precision. An agentic loop iteratively analyzes assertion-level errors and refines the instruction used to produce physical captions. Physis-Lang further converts model deficiencies into textual descriptions and uses language-guided retrieval to identify visually diverse videos that cover missing physical processes. Experiments on four widely used physical video benchmarks with Wan and Cosmos backbones demonstrate consistent improvements in physical plausibility. Notably, starting from open-source Cosmos3-Nano backbones, our Physis-Lang-enhanced models surpass the leading proprietary Veo 3.1 model.",
+    "authors": [
+      "Liming Lu",
+      "Xianzheng Ma",
+      "Wenkun He",
+      "Guanqi Zhan",
+      "Yilin Zhao",
+      "Junyu Chen",
+      "Mengyao Xu",
+      "Jiaojiao Fan",
+      "Wenhang Ge",
+      "Yuchao Gu",
+      "Yunze Liu",
+      "Boyi Li",
+      "Zhen Dong",
+      "Victor Prisacariu",
+      "Ming-Yu Liu",
+      "Song Han",
+      "Han Cai"
+    ],
+    "published": "2026-09-30",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2609.40358v1",
+    "pdf_url": "https://arxiv.org/pdf/2609.40358v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "Video world models are expected to predict how the physical world evolves, yet they often produce visually plausible videos that violate basic physical principles . We introduce Physis-Lang, a self-evolving framework that treats physical language as a shared and optimizable representation ."
   },
   {
     "id": "arxiv:2609.40353v1",
@@ -2602,7 +2741,7 @@
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "A fine-tuned open-weight model (Gemma-3-12B) can match GPT-4o at multi-label intracranial hemorrhage (ICH) acuity extraction from non-contrast head-CT reports, and which ingredients matter ."
+    "ai_summary": "A fine-tuned open-weight model (Gemma-3-12B) can match GPT-4o at multi-label intracranial hemorrhage (ICH) acuity extraction from non-contrast head-CT reports, and which ingredients matter . The distilled instruction-tuning model (DIFT"
   },
   {
     "id": "arxiv:2609.40235v1",
@@ -2746,167 +2885,5 @@
     "venue": "arXiv preprint",
     "open_access": true,
     "ai_summary": "Study compared classifiers that differentiate between urbanized and non-urbanized areas based on unmanned aerial vehicle (UAV)-acquired RGB imagery . The tested solutions in-cluded numerous vegetation indices (VIs) thresholding and neural networks (NNs) The analysis was conducted for two study areas for which surveys were carried out"
-  },
-  {
-    "id": "openalex:W4394007245",
-    "title": "Delaunay Weighted Two-sample Test for High-dimensional Data by Incorporating Geometric Information",
-    "abstract": "",
-    "authors": [
-      "Jiaqi Gu",
-      "Ruoxu Tan",
-      "Guosheng Yin"
-    ],
-    "published": "2026-09-30",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.5705/ss.202025.0280",
-    "pdf_url": "https://arxiv.org/pdf/2404.03198",
-    "doi": "10.5705/ss.202025.0280",
-    "citations": 0,
-    "venue": "Statistica Sinica",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W7160577466",
-    "title": "High-Level Synthesis for Approximate Computing: A Survey",
-    "abstract": "",
-    "authors": [
-      "Yuqin Dou",
-      "Yang Wang",
-      "Jian-Xu Wei",
-      "Ming-Lu Xu",
-      "Haroon Waris",
-      "Roger; id_orcid 0000-0001-6201-4270 Woods",
-      "Weiqiang Liu"
-    ],
-    "published": "2026-09-30",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.1007/s11390-026-6176-y",
-    "pdf_url": null,
-    "doi": "10.1007/s11390-026-6176-y",
-    "citations": 0,
-    "venue": "Journal of Computer Science and Technology",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "pubmed:42816411",
-    "title": "Retained epcoritamab activity despite routine CD20 assay negativity approximately one terminal half-life after mosunetuzumab in B-cell lymphoma.",
-    "abstract": "CD20 testing shortly after CD20-directed therapy can be difficult to interpret. We report an 89-year-old woman with multiply relapsed B-cell lymphoma who underwent excisional biopsy of an enlarging right axillary lymph node 17 days after the last dose of mosunetuzumab. A prior lymph node biopsy showed follicular lymphoma grade 3A with preserved CD20 expression. The relapse specimen showed diffuse large B-cell lymphoma of the germinal center B-cell subtype. Immunohistochemistry using the CD20 clone L26 failed to detect CD20 expression, whereas PAX5 and CD79a remained positive. Flow cytometry showed undetectable CD20 with clone L27; the large-cell gate contained CD19-positive B cells and showed kappa light-chain restriction. No morphologic findings of a lineage switch were observed. IGH and IGK rearrangement analyses demonstrated identical monoclonal peaks in the specimens obtained at the follicular lymphoma stage and relapse, supporting clonal continuity. Positron emission tomography/computed tomography revealed a 40-mm right axillary lymph node with a maximum standardized uptake value of 26.7. Epcoritamab was started as the seventh-line treatment despite negativity on routine assays for CD20. During step-up dosing, grade 1 cytokine release syndrome resolved after one dose of tocilizumab. Computed tomography on day 22 revealed a reduction in the size of the right axillary lymph node from 40 to 20 mm. The lesion remained 20 mm on days 41 and 51, with decreases in lactate dehydrogenase and soluble interleukin-2 receptor. Disease progression was documented on day 83. These findings suggest that negative CD20 results by routine assays shortly after mosunetuzumab therapy do not necessarily reflect true target loss. Integrated interpretation of histopathology, flow cytometry, and clonality studies may help guide subsequent CD20-directed treatment decisions.",
-    "authors": [
-      "Seiji Kakiuchi",
-      "Hiroaki Akiyama",
-      "Naru Tomigaki",
-      "Akimasa Sakamoto",
-      "Shutaro Fujioka",
-      "Isamu Harima",
-      "Ryotaro Niwa",
-      "Ikumi Takagi",
-      "Yoko Kozuki",
-      "Yoshiharu Miyata",
-      "Nobuko Iwata",
-      "Kyoko Otani"
-    ],
-    "published": "2026",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42816411/",
-    "pdf_url": null,
-    "doi": "10.3960/jslrt.26029",
-    "citations": 0,
-    "venue": "Journal of clinical and experimental hematopathology : JCEH",
-    "open_access": false,
-    "ai_summary": "A prior lymph node biopsy showed follicular lymphoma grade 3A with preserved CD20 expression . The relapse specimen showed diffuse large B-cell lymphoma of the germinal center B- cells ."
-  },
-  {
-    "id": "pubmed:42816378",
-    "title": "Incremental Value of 24-Hour Ambulatory Electrocardiogram-Derived Heart Rate Variability in Machine-Learning Prognostic Models for Heart Failure.",
-    "abstract": "To determine whether heart rate variability (HRV) indices derived from 24-hour ambulatory electrocardiography provide complementary prognostic information in machine-learning prognostic models using conventional clinical variables in patients with heart failure, particularly with regard to calibration and threshold-based performance.We analyzed 353 patients with heart failure. The primary endpoint was cardiovascular death or hospitalization for worsening heart failure. Patients were randomly divided into training and test cohorts in a 3:2 ratio. Two gradient boosting models were developed: one using clinical variables and HRV indices, and the other incorporating clinical variables only. To ensure a fair comparison and limit model complexity, the number of selected predictors was restricted to five in both models.The primary endpoint occurred in 49 patients (14%) during a median follow-up of 740 days (interquartile range 566-870 days). In the independent test cohort (n = 141), discrimination (AUC) was similar between the two models (0.77 versus 0.71; DeLong P = 0.263). However, the HRV model showed higher threshold-based classification performance (higher F1 score and accuracy) and a calibration slope closer to 1.0 (slope 1.01 versus 0.73).In machine-learning-based prognostic modeling for heart failure, Holter-derived HRV indices may be associated with clinically relevant classification performance and a calibration slope closer to 1.0, although the improvement in discrimination as assessed by AUC was not statistically significant. These findings suggest that heart rate variability may provide complementary prognostic information not fully captured by standard clinical variables alone.",
-    "authors": [
-      "Yuji Matsuwaki",
-      "Junichiro Hayano",
-      "Hideki Kawai",
-      "Yusuke Funato",
-      "Masanobu Yanase",
-      "Masahide Harada",
-      "Eiichi Watanabe",
-      "Norihiro Ueda",
-      "Masatoshi Yamazaki",
-      "Naoki Tomii",
-      "Ichiro Sakuma",
-      "Hideo Izawa"
-    ],
-    "published": "2026",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42816378/",
-    "pdf_url": null,
-    "doi": "10.1536/ihj.26-215",
-    "citations": 0,
-    "venue": "International heart journal",
-    "open_access": false,
-    "ai_summary": "The primary endpoint was cardiovascular death or hospitalization for worsening heart failure . Patients were randomly divided into training and test cohorts in a 3:2 ratio . Two gradient boosting models were developed ."
-  },
-  {
-    "id": "pubmed:42816377",
-    "title": "Explainable Machine Learning Identifies Red Blood Cell Distribution Width as a Key Prognostic Biomarker in Cardiogenic Shock.",
-    "abstract": "Cardiogenic shock (CS) is a life-threatening syndrome characterized by severe pump failure and systemic hypoperfusion, with persistently high mortality. Red blood cell distribution width (RDW) has been associated with adverse outcomes in several cardiovascular conditions, but its prognostic role in CS, particularly for long-term mortality and machine learning-based risk stratification, remains incompletely defined. We aimed to investigate the association between RDW and mortality in patients with CS and to evaluate its value in interpretable machine learning models for 1-year mortality prediction.We identified 2,014 patients with CS from the MIMIC-IV database (2008-2019). Associations between RDW and in-hospital mortality were assessed using logistic regression, and associations with 1-year mortality were evaluated using Cox regression. RDW was analyzed both as a continuous variable and by tertiles (T1 ≤ 14.40%, T2 14.40-16.27%, T3 > 16.27%). Kaplan-Meier curves and restricted cubic splines (RCS) were used to examine survival patterns and dose-response relationships. Patients were randomly divided into training and test cohorts (8:2). Feature selection was performed using Boruta and random forest-derived importance metrics. Six machine learning models (LR, DT, RF, SVM, XGBoost, and TabPFN) were developed for 1-year mortality prediction and evaluated by area under the receiver operating characteristic curve (AUC), sensitivity, specificity, accuracy, F1 score, and decision curve analysis (DCA). Model interpretability was assessed using SHapley Additive exPlanations (SHAP).Among 2,014 patients with CS, 1-year mortality was 53.2%. Higher RDW was independently associated with increased 1-year mortality after multivariable adjustment (HR = 1.043, 95% CI: 1.015-1.071). For in-hospital mortality, the association remained significant in fully adjusted analysis but was attenuated (OR = 1.055, 95% CI: 1.001-1.112). Compared with T1, patients in T3 had a significantly higher risk of 1-year mortality (HR = 1.626, 95% CI: 1.376-1.921; P for trend = 0.004). RCS analysis showed a significant overall association between RDW and 1-year mortality, with risk increasing above approximately 14.4%, although the test for nonlinearity was not statistically significant. Among the evaluated models, TabPFN achieved the highest observed AUC for 1-year mortality prediction (AUC = 0.861), with sensitivity of 0.80 and specificity of 0.72, and showed the most favorable net benefit on DCA. SHAP analysis indicated that model predictions were driven by multiple clinically meaningful domains, including treatment-related variables, shock severity, metabolic disturbance, cardiovascular substrate, and RDW.Elevated RDW is an independent predictor of 1-year mortality in patients with CS. An RDW level above approximately 14.4% may serve as a practical marker of increased risk. Integrating RDW into interpretable machine learning-based risk assessment, particularly with TabPFN, may improve early prognostic stratification in CS. Prospective external validation is warranted.",
-    "authors": [
-      "Xueqian Shen",
-      "Haosheng Wu",
-      "Feng Gai",
-      "Xue Jiang",
-      "Caixia Guo"
-    ],
-    "published": "2026",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42816377/",
-    "pdf_url": null,
-    "doi": "10.1536/ihj.25-604",
-    "citations": 0,
-    "venue": "International heart journal",
-    "open_access": false,
-    "ai_summary": "Cardiogenic shock (CS) is a life-threatening syndrome characterized by severe pump failure and systemic hypoperfusion . Red blood cell distribution width (RDW) has been associated with adverse outcomes in several cardiovascular conditions . But its prognostic role in CS remains incomplete"
-  },
-  {
-    "id": "pubmed:42816351",
-    "title": "[Pharmacokinetics and Metabolic Activations of Drugs in Pharmacology and Toxicology].",
-    "abstract": "The parameters for the absorption, distribution, and metabolic clearance of a wide array of chemicals can be calculated and integrated into a physiologically based pharmacokinetic (PBPK) model that simulates plasma drug concentration over time. Typically, pharmacological and toxicological assessments of chemicals involve estimating human clearance through allometric extrapolation from in vivo rat profiles using empirical compartmental and PBPK models. For patients with genetically impaired cytochrome P450 (P450 or CYP) enzymes who are prescribed only certain drugs, moderate plasma exposure should be noted as a precaution on drug labels, as genetic variants can cause changes in blood concentrations similar to those caused by drug-drug interactions. Many drug oxidations are facilitated by species-specific and polymorphic P450 enzymes and flavin-containing monooxygenases (FMOs). Although interaction study alerts are triggered by a 1.25-fold increase in the clearance of the object drug or the metabolite/parent concentration ratio, such increases may fall within the range of intrinsic baseline variation in vivo of cytochrome CYP3A-dependent phenotypes. The metabolic capacity of polymorphic FMO3 was assessed through urine testing for the levels of food-derived trimethylamine N-oxide. Human PBPK model input parameters for various compounds have been effectively estimated using in silico-generated chemical descriptors and machine learning tools to assess internal exposure in humans without relying on experimental data. This pharmacokinetic modeling approach, which incorporates polymorphic drug-metabolizing enzyme information, can be applied in clinical settings and during computational data-driven evaluations of the potential risks associated with a broad spectrum of chemicals.",
-    "authors": [
-      "Hiroshi Yamazaki"
-    ],
-    "published": "2026",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42816351/",
-    "pdf_url": null,
-    "doi": "10.1248/yakushi.26-00112",
-    "citations": 0,
-    "venue": "Yakugaku zasshi : Journal of the Pharmaceutical Society of Japan",
-    "open_access": false,
-    "ai_summary": "The parameters for the absorption, distribution, and metabolic clearance of a wide array of chemicals can be calculated and integrated into a physiologically based pharmacokinetic (PBPK) model that simulates plasma drug concentration over time . For patients with genetically impaired cytochrome P450 (P450 or CYP) enzymes who are prescribed"
-  },
-  {
-    "id": "pubmed:42816373",
-    "title": "Integration of QSAR modeling and in vitro validation for identification of food-derived Nrf2 activators against arsenic-induced toxicity.",
-    "abstract": "Arsenic exposure is a major public health concern due to its toxicity and carcinogenicity, largely mediated by oxidative stress, and activation of the Nrf2 signaling pathway is considered a promising strategy to mitigate such damage. In this study, a quantitative structure-activity relationship (QSAR) model was developed to identify potential Nrf2 activators from food-derived compounds. Machine learning algorithms, including Random Forest (RF), Support Vector Machine (SVM), Linear Discriminant Analysis (LDA), and a stacking model, were developed and optimized. The optimized RF, SVM, and LDA models were subsequently integrated into a stacking framework, which was selected as the final predictive model for virtual screening based on its robust and balanced predictive performance. The stacking model achieved the highest accuracy during five-fold cross-validation (0.77) and demonstrated competitive performance on the independent test set (0.742 ± 0.040), with balanced precision, sensitivity, and F-measure. Consequently, the stacking model was selected as the final model for virtual screening. A total of 70,926 compounds retrieved from a food-derived database were filtered based on physicochemical criteria, and QSAR-based virtual screening predicted 920 compounds as potential activators of the Nrf2 signaling pathway, from which 5,7-Dimethylchrysin (FooDB ID: FDB015537) and Demethylvestitol (FooDB ID: FDB012218) were selected for experimental validation. In vitro assays using HepG2 cells demonstrated that 5,7-Dimethylchrysin significantly enhanced cell viability against sodium arsenite (150 μM)-induced cytotoxicity, with an effective concentration (EC50) of 0.54 μM, whereas Demethylvestitol exhibited only limited protective effects. Furthermore, luciferase reporter assays confirmed that 5,7-Dimethylchrysin activated antioxidant response element (ARE)-driven transcription in a concentration-dependent manner, producing a 1.5 to 2.4-fold increase at concentrations ranging from 0.78 to 6.25 μM. Overall, these findings highlight the effectiveness of integrating QSAR modeling with experimental validation to identify food-derived compounds with protective potential against arsenic-induced toxicity, with 5,7-Dimethylchrysin emerging as a promising candidate for further investigation.",
-    "authors": [
-      "Ngo Thanh Huong",
-      "Susumu Kodama",
-      "Atsushi Ono"
-    ],
-    "published": "2026",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42816373/",
-    "pdf_url": null,
-    "doi": "10.2131/jts.51.533",
-    "citations": 0,
-    "venue": "The Journal of toxicological sciences",
-    "open_access": false,
-    "ai_summary": "Arsenic exposure is a major public health concern due to its toxicity and carcinogenicity . activation of the Nrf2 signaling pathway is considered a promising strategy to mitigate such damage . A quantitative structure-activity relationship (QSAR) model was developed to identify potential NRF2 activators from food-derived compounds ."
   }
 ]
