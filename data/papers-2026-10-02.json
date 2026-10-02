@@ -480,27 +480,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.5705/ss.202025.0314",
-    "title": "Transfer Learning for High-dimensional Regression with Compositional Covariates: Application to Microbiome Studies",
-    "abstract": "",
-    "authors": [
-      "Qinqin Hu",
-      "Xiaojing Luo",
-      "Chencheng Ma",
-      "Wang Zhou"
-    ],
-    "published": "2029",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.5705/ss.202025.0314",
-    "pdf_url": null,
-    "doi": "10.5705/ss.202025.0314",
-    "citations": 0,
-    "venue": "Statistica Sinica",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
     "id": "crossref:10.5705/ss.202025.0406",
     "title": "Distributed Learning of Single Index Model with Differential Privacy and Massive Data",
     "abstract": "",
@@ -584,6 +563,27 @@
     "ai_summary": "No abstract available."
   },
   {
+    "id": "crossref:10.5705/ss.202025.0314",
+    "title": "Transfer Learning for High-dimensional Regression with Compositional Covariates: Application to Microbiome Studies",
+    "abstract": "",
+    "authors": [
+      "Qinqin Hu",
+      "Xiaojing Luo",
+      "Chencheng Ma",
+      "Wang Zhou"
+    ],
+    "published": "2029",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.5705/ss.202025.0314",
+    "pdf_url": null,
+    "doi": "10.5705/ss.202025.0314",
+    "citations": 0,
+    "venue": "Statistica Sinica",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
     "id": "openalex:W7128783899",
     "title": "Advances in single-cell image cytometry enabled by nanowell imaging plates and machine learning",
     "abstract": "",
@@ -641,24 +641,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.32628/cseit251116279",
-    "title": "Cyber Defense Digital Twins: A Federated Learning and Zero-Trust AI Architecture for Autonomous Threat Prediction and Response",
-    "abstract": "<jats:p>Modern enterprise networks operate under persistent threats that exploit cloud-native misconfigurations, identity sprawl, and API vulnerabilities at machine speed. Existing security operations center (SOC) architectures remain largely reactive, signature-dependent, and incapable of predicting multi-stage lateral movement. This paper proposes the Cognitive Cyber Defense Digital Twin (CCDT), a unified architecture integrating federated learning (FL), graph neural network (GNN)-based attack-path forecasting, adversarially hardened detection models, and autonomous Security Orchestration, Automation, and Response (SOAR) with deception engineering. The CCDT constructs a continuously synchronized digital replica of organizational assets and employs reinforcement learning-based red agents to stress-test detection models. A federated intelligence mesh enables cross-organizational privacy-preserving gradient sharing. Experimental evaluations against CICIDS-2018 and LANL datasets demonstrate 52% faster attack-path detection, 41% reduction in false positive rate, and 60% reduction in mean-time-to-respond (MTTR) compared to traditional SOC baselines. Integrated Explainable AI (XAI) modules using SHAP values enable audit-ready compliance reporting. The CCDT represents a paradigm shift from reactive monitoring to predictive, autonomous, and privacy-preserving cyber defense for hybrid cloud environments.</jats:p>",
-    "authors": [
-      "Sivaramakrishnan Narayanan"
-    ],
-    "published": "2028",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.32628/cseit251116279",
-    "pdf_url": null,
-    "doi": "10.32628/cseit251116279",
-    "citations": 0,
-    "venue": "International Journal of Scientific Research in Computer Science, Engineering and Information Technology",
-    "open_access": false,
-    "ai_summary": "The paper proposes the Cognitive Cyber Defense Digital Twin (CCDT) The CCDT constructs a continuously synchronized digital replica of organizational assets . It employs reinforcement learning-based red agents to stress-test detection models ."
-  },
-  {
     "id": "crossref:10.71126/nijre.v2i1.16",
     "title": "Transforming Education through Technology: The Case of COVID 19 Digital Learning in Nagaland",
     "abstract": "<jats:p>Through the perspective of the COVID-19 pandemic and the disruption and opportunity it engendered, this chapter follows a transformative effect of EdTech and Digital education in India particularly in Nagaland through analysis. Drawing upon national policy frameworks, conceptual literature on educational technology, and contextual evidence based on the case of Nagaland, the chapter considers the rapid migration to digital learning as an emergency strategy (in response to the ongoing institution closures) based on the stark shifts in pedagogical practice, access to education services, and preparedness. The findings show that, including the ability of national programmes such as NEP 2020, SWAYAM, DIKSHA, PM e-VIDYA, and others, to promote access to digital tools was low within periphery or hill areas (e.g., Nagaland), due to lack of infrastructural resources, digital divide, unprepared teachers and economic/social divides, and more. The pandemic exposed the deep social and infrastructure divides in connectivity, device availability, assessment and learner engagement, with implications that were especially grave in rural and tribal settings. Although it accelerated the pace of innovation and the application of blended and low-tech learning practices teachers have been experimenting with digital platforms and the post-COVID recovery process, including remedial programmes and hybrid instruction. The chapter also discusses that blended learning is the most fitting, viable and sustainable approach for reaching the technological level in the field of educational technology at Nagaland. It implies that technology-mediated education can improve equity, quality, and resilience, but only under the conditions of inclusive policy design, strong digital infrastructure, vigorous teacher capability building, and culturally appropriate digital content.\nKeywords: Educational technology, digital learning, COVID-19, Nagaland, online education, Challenges, blended learning</jats:p>",
@@ -675,6 +657,24 @@
     "venue": "Naveen International Journal of Research in Education (NIJRE)",
     "open_access": false,
     "ai_summary": "The chapter considers the rapid migration to digital learning as an emergency strategy . The findings show that the ability of national programmes such as NEP 2020, SWAYAM, DIKSHA, PM e-VIDYA, and others, to promote access to digital tools was low within periphery or hill areas ."
+  },
+  {
+    "id": "crossref:10.32628/cseit251116279",
+    "title": "Cyber Defense Digital Twins: A Federated Learning and Zero-Trust AI Architecture for Autonomous Threat Prediction and Response",
+    "abstract": "<jats:p>Modern enterprise networks operate under persistent threats that exploit cloud-native misconfigurations, identity sprawl, and API vulnerabilities at machine speed. Existing security operations center (SOC) architectures remain largely reactive, signature-dependent, and incapable of predicting multi-stage lateral movement. This paper proposes the Cognitive Cyber Defense Digital Twin (CCDT), a unified architecture integrating federated learning (FL), graph neural network (GNN)-based attack-path forecasting, adversarially hardened detection models, and autonomous Security Orchestration, Automation, and Response (SOAR) with deception engineering. The CCDT constructs a continuously synchronized digital replica of organizational assets and employs reinforcement learning-based red agents to stress-test detection models. A federated intelligence mesh enables cross-organizational privacy-preserving gradient sharing. Experimental evaluations against CICIDS-2018 and LANL datasets demonstrate 52% faster attack-path detection, 41% reduction in false positive rate, and 60% reduction in mean-time-to-respond (MTTR) compared to traditional SOC baselines. Integrated Explainable AI (XAI) modules using SHAP values enable audit-ready compliance reporting. The CCDT represents a paradigm shift from reactive monitoring to predictive, autonomous, and privacy-preserving cyber defense for hybrid cloud environments.</jats:p>",
+    "authors": [
+      "Sivaramakrishnan Narayanan"
+    ],
+    "published": "2028",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.32628/cseit251116279",
+    "pdf_url": null,
+    "doi": "10.32628/cseit251116279",
+    "citations": 0,
+    "venue": "International Journal of Scientific Research in Computer Science, Engineering and Information Technology",
+    "open_access": false,
+    "ai_summary": "The paper proposes the Cognitive Cyber Defense Digital Twin (CCDT) The CCDT constructs a continuously synchronized digital replica of organizational assets . It employs reinforcement learning-based red agents to stress-test detection models ."
   },
   {
     "id": "crossref:10.55737/qjss.vii-i.26473",
@@ -695,28 +695,6 @@
     "venue": "Qlantic Journal of Social Sciences",
     "open_access": false,
     "ai_summary": "Research paper will debate role played by principals in teaching and learning process . Research will embrace a quantitative research design that will seek to answer the question about the relationship between leadership skills of principals and teaching-learning process ."
-  },
-  {
-    "id": "crossref:10.1504/ijims.2028.10081208",
-    "title": "Enhancements to the Deep Learning Architecture for Metaverse Integration in Medical Image Processing",
-    "abstract": "",
-    "authors": [
-      "Chandra Mani",
-      "Suman Avdhesh Yadav",
-      "Smita Sharma",
-      "S. Vikram Singh",
-      "Birendra Kumar Saraswat"
-    ],
-    "published": "2028",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.1504/ijims.2028.10081208",
-    "pdf_url": null,
-    "doi": "10.1504/ijims.2028.10081208",
-    "citations": 0,
-    "venue": "International Journal of Internet Manufacturing and Services",
-    "open_access": false,
-    "ai_summary": "No abstract available."
   },
   {
     "id": "crossref:10.1504/ijims.2028.10076630",
@@ -756,6 +734,28 @@
     "doi": "10.1504/ijil.2028.10079816",
     "citations": 0,
     "venue": "International Journal of Innovation and Learning",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "crossref:10.1504/ijims.2028.10081208",
+    "title": "Enhancements to the Deep Learning Architecture for Metaverse Integration in Medical Image Processing",
+    "abstract": "",
+    "authors": [
+      "Chandra Mani",
+      "Suman Avdhesh Yadav",
+      "Smita Sharma",
+      "S. Vikram Singh",
+      "Birendra Kumar Saraswat"
+    ],
+    "published": "2028",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.1504/ijims.2028.10081208",
+    "pdf_url": null,
+    "doi": "10.1504/ijims.2028.10081208",
+    "citations": 0,
+    "venue": "International Journal of Internet Manufacturing and Services",
     "open_access": false,
     "ai_summary": "No abstract available."
   },
@@ -851,28 +851,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "openalex:W7212699939",
-    "title": "Development and validation of a machine learning-based predictive model for prognosis in cerebral hemorrhage patients after hyperbaric oxygen therapy.",
-    "abstract": "",
-    "authors": [
-      "Congyi Ding",
-      "Jun Wu",
-      "Guangning Zhang",
-      "Xiaoming Feng",
-      "Jieyang Zhu"
-    ],
-    "published": "2027-01-01",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.4103/mgr.medgasres-d-25-00168",
-    "pdf_url": null,
-    "doi": "10.4103/mgr.medgasres-d-25-00168",
-    "citations": 0,
-    "venue": "PubMed",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
     "id": "openalex:W7211975381",
     "title": "Application and feasibility analysis of random Forest models in safety prediction for transition metal-doped Na3V2(PO4)3 sodium-ion batteries.",
     "abstract": "",
@@ -901,177 +879,224 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "pubmed:42823920",
-    "title": "Authors' response (July 16, 2026) to the Letter to the Editor concerning the paper \"Psychosocial working conditions and mental well-being of remote and stationary employees: a longitudinal study\".",
+    "id": "openalex:W7212699939",
+    "title": "Development and validation of a machine learning-based predictive model for prognosis in cerebral hemorrhage patients after hyperbaric oxygen therapy.",
     "abstract": "",
     "authors": [
-      "Dorota Żołnierczyk-Zreda",
-      "Łukasz Kapica",
-      "Andrzej Najmiec",
-      "Joanna Kamińska",
-      "Joanna Mazur-Różycka",
-      "Joanna Bugajska"
+      "Congyi Ding",
+      "Jun Wu",
+      "Guangning Zhang",
+      "Xiaoming Feng",
+      "Jieyang Zhu"
     ],
-    "published": "2026-Sep-21",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42823920/",
+    "published": "2027-01-01",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.4103/mgr.medgasres-d-25-00168",
     "pdf_url": null,
-    "doi": "10.13075/ijomeh.1896.02947",
+    "doi": "10.4103/mgr.medgasres-d-25-00168",
     "citations": 0,
-    "venue": "International journal of occupational medicine and environmental health",
+    "venue": "PubMed",
     "open_access": false,
     "ai_summary": "No abstract available."
   },
   {
-    "id": "pubmed:42823974",
-    "title": "A systematic transcriptomic atlas and predictive framework for metabolite-driven T cell state transitions.",
-    "abstract": "Gut microbial and endogenous metabolites are key regulators at the interface of host metabolism and immunity, yet their global effects on human T cell states remain poorly defined. Here, we profile primary human T cell responses to 364 endogenous and microbiota-derived metabolites using high-throughput digital RNA with perturbation of genes sequencing (DRUG-seq), revealing structured transcriptional trajectories spanning baseline, metabolically primed, and highly activated states. We develop DRUG-seq-PerturbFormer, a multi-task deep learning framework that quantitatively captures perturbation magnitude and directionality across these states. This analysis identifies a subset of metabolites that robustly reprogram T cell transcriptional programs. In a dextran sulfate sodium (DSS)-induced colitis model, representative candidates attenuated disease severity and were associated with suppression of inflammatory programs and partial restoration of immune homeostasis. Collectively, these findings show that metabolites act as signals shaping T cell function via transcription, nominating immunomodulatory targets for inflammatory diseases.",
+    "id": "pubmed:42826377",
+    "title": "Gamified Assessment of Medication Literacy in School-Aged Children: Instrument Development and Validation Study.",
+    "abstract": "Assessing medication literacy in children is essential for evaluating school-based health education, yet traditional measurement tools often fail to engage children, compromising data quality. Gamified assessments offer an alternative, but their psychometric properties, comparability to conventional formats, and responsiveness to intervention effects require systematic evaluation. This study developed and evaluated a gamified assessment tool for measuring medication literacy across 4 domains (knowledge, attitude, perceived behavioral control, and behavioral intention) in elementary school children through 3 sequential phases: psychometric validation, methodological comparison with a paper-based questionnaire, and application to interventions. Three independent cohorts were recruited from a single elementary school in Nanjing, China, using cluster random sampling of intact classes (grades 4-6). We adapted the CHERRIES (Checklist for Reporting Results of Internet E-Surveys) framework. Phase 1 (40/81, 49.4% female) includes content validity via 2 rounds of expert review, construct validity using Rasch analysis, and 1-month test-retest reliability. Phase 2 (42/85, 49.4% female) includes a randomized crossover design (10-minute washout), equivalence assessed with an intraclass correlation coefficient (ICC), Bland-Altman analysis, decision consistency, and superiority using the chi-square test (data quality) and 2-tailed independent t tests (enjoyment and preference on 5-point Likert scales). Phase 3 (41/85, 48.2% female) includes a single-group pre-post design, with responsiveness evaluated using generalized linear mixed models (GLMMs) with random intercepts. Analyses used R software with an α of .05. Phase 1 had perfect content validity (scale-level content validity index/average [S-CVI/Ave]=1.00), and the Rasch analysis supported unidimensionality (eigenvalues 2.14-2.25, ratios 0.34-0.40) and item fit (mean infit/outfit mean-square [MNSQ] 0.83-1.23). The test-retest ICCs were 0.76 to 0.92 (95% CI 0.64-0.95). Phase 2 equivalence was confirmed (ICC 0.94-0.99, 95% CI 0.90-0.99; κ=0.87-0.97). Validity rates were 100% (42/42, 95% CI 91.6%-100%) for gamified vs 90.7% (39/43, 95% CI 77.4%-96.9%) for paper (P=.13). The gamified tool yielded higher enjoyment (mean 4.26, SD 0.94 vs mean 2.46, SD 0.85; Cohen d=2.00, 95% CI 1.46-2.55; P<.001) and preference (mean 4.29, SD 0.83 vs mean 2.82, SD 0.97; Cohen d=1.62, 95% CI 1.11-2.13; P<.001). Phase 3 GLMMs showed time effects for attitude (β=1.74, 95% CI 1.25-2.22; P<.001), perceived behavioral control (β=2.86, 95% CI 2.18-3.53; P<.001), behavioral intention (β=2.33, 95% CI 1.51-3.15; P<.001), and knowledge (incidence rate ratio [IRR]=1.52, 95% CI 1.22-1.89; P<.001); time × class interactions were nonsignificant (all P≥.19), indicating consistent changes across classes. Effect sizes were moderate to large (Cohen d=0.70-1.53, 95% CI 0.36-1.97). This study develops and validates a gamified assessment tool for children's medication literacy across 3 independent phases, including a randomized crossover comparison with a paper-based format. Unlike child health measures relying on adult proxy reports or adapted adult scales, our child-centered tool was directly validated with students and designed to enhance engagement. The psychometrically sound tool achieves measurement equivalence while offering a pediatric health-promotion outcome measure. The tool can support school-based medication literacy programs and advance health equity by detecting consistent improvements across diverse classrooms.",
     "authors": [
-      "Yiyang Xu",
-      "Yiheng Zhao",
-      "Sizhe Yang",
-      "Huimin Li",
-      "Xiangrong Diao",
-      "Qianqian Zhang",
-      "Shuting Yu",
-      "Shuai Wang",
-      "Fangying Jiang",
-      "Qiang Wang",
-      "Yuhua Ma",
-      "Bo Jiao",
-      "Yun Tan",
-      "Yabin Liu"
-    ],
-    "published": "2026-Oct-16",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42823974/",
-    "pdf_url": null,
-    "doi": "10.1016/j.isci.2026.117527",
-    "citations": 0,
-    "venue": "iScience",
-    "open_access": false,
-    "ai_summary": "Gut microbial and endogenous metabolites are key regulators at the interface of host metabolism and immunity . But their global effects on human T cell states remain poorly defined ."
-  },
-  {
-    "id": "pubmed:42823934",
-    "title": "Identification of glycoproteins as candidate biomarkers for nasopharyngeal carcinoma using Fe",
-    "abstract": "Protein biomarkers have great significance for the early diagnosis of diseases. However, the discovery and validation of novel biomarkers in mass spectrometry-based proteomics remain challenging due to the inherently low abundance of glycoproteins and the presence of interfering substances. Efficient glycopeptide enrichment strategies enable the identification of glycoproteins from complex biological samples, thereby laying the foundation for biomarker discovery. This research proposed concise pre-treatment and two types of associated data processing methods for identifying potential protein biomarkers, leveraging glycopeptide enrichment using nanomaterials with different enrichment specificities obtained through diverse material design strategies. As the foundation for implementing this method, the microporous structured nanomaterial Fe",
-    "authors": [
-      "Linyan Tan",
-      "Chengrun Du",
-      "Yifan Zhou",
-      "Hongli Zhao",
-      "Yunfan Lin",
-      "Fangfang Kong",
-      "Hongmei Ying",
-      "Minbo Lan"
+      "Qingqing Liu",
+      "Lihua Cheng",
+      "Guanfu Liu",
+      "Jieli Peng",
+      "Zhiyu Wang"
     ],
     "published": "2026-Oct-02",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42823934/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42826377/",
     "pdf_url": null,
-    "doi": "10.1039/d6ay01497f",
+    "doi": "10.2196/95114",
     "citations": 0,
-    "venue": "Analytical methods : advancing methods and applications",
+    "venue": "JMIR serious games",
     "open_access": false,
-    "ai_summary": "Protein biomarkers have great significance for the early diagnosis of diseases . However, the discovery and validation of novel biomarkers in mass spectrometry-based proteomics remain challenging due to the inherently low abundance of glycoproteins and the presence of interfering substances ."
+    "ai_summary": "Gamified assessments offer an alternative, but their psychometric properties, comparability to conventional formats, and responsiveness to intervention effects require systematic evaluation . Three independent cohorts were recruited from a single elementary school in Nanjing, China, using cluster random sampling of intact classes ."
   },
   {
-    "id": "pubmed:42823878",
-    "title": "Epitaxial Growth of Metal-Organic Framework Thin-Film Scintillators for Temperature-Adaptive, High-Resolution X-Ray Imaging.",
-    "abstract": "Solution-processed scintillators are attractive for large-area X-ray imaging. However, their performance in thin-film architectures is constrained by low effective density, severe light scattering, and insufficient thermal stability. Here, we report a solution-processed epitaxial growth strategy to fabricate large-area, monolithic metal-organic framework (MOF) thin-film scintillators for temperature-adaptive, high-resolution X-ray imaging. Mechanistic investigation reveals that surface hydroxyl-mediated, molecularly oriented epitaxial growth reconstructs the interfacial energy landscape, enabling optically continuous, densely packed terbium-terephthalate (Tb-BDC) films on solid substrates. The Tb-BDC scintillator demonstrates a light yield of 44,380 photons MeV",
+    "id": "pubmed:42826381",
+    "title": "Machine Learning for Human-Autonomy Teaming in Surgical Skill Assessment: Scoping Review.",
+    "abstract": "Human-autonomy teaming (HAT) has the potential to reshape surgical practice by fostering true partnership between surgeons and intelligent systems. To achieve this, AI must move beyond static scoring to provide adaptive, real-time guidance based on reliable skill assessment. This scoping review aims to map the current landscape of machine learning methods for surgical skill assessment and evaluate their technical readiness for integration into functional HAT systems. Following PRISMA-ScR (Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews) guidelines, we conducted a systematic search across 3 major scientific databases (PubMed, IEEE Xplore, and Web of Science). We identified and analyzed 92 peer-reviewed studies published between 2019 and 2025. The review focused on data modalities (kinematics, video, and biosignals), model architectures, and validation environments. To assess translational maturity, each study was evaluated using the NASA technology readiness level (TRL) scale and mapped to the Yang et al levels of autonomy for surgical robotics, alongside 6 additional dimensions: real-time capability, interpretability, adaptivity, validation environment, external validation, and clinical integration. Our analysis of the 92 included studies reveals a dominant shift toward multimodal data integration and deep learning architectures. While high performance is frequently reported on benchmark datasets, significant barriers to HAT integration persist. The TRL analysis shows that 77.2% (71/92) of studies remain at TRL 3 (proof-of-concept), with only 2.2% (2/92) reaching TRL 5 or above. Furthermore, 96.7% (89/92) of studies operate at Yang autonomy level 0, providing no autonomous functionality beyond classification. We identified that 91.3% (84/92) of models are static, with no user-specific adaptation, 38% (35/92) lack any external validation, and validation practices remain inconsistent across the field. Current AI techniques provide a robust foundation for objective skill assessment, but they are not yet ready for autonomous teaming. Future development must prioritize model robustness, interpretability, and seamless integration into clinical environments to transition from stand-alone assessment tools to effective surgical teammates. OSF Registries 10.17605/OSF.IO/PQWS5; https://osf.io/pqws5.",
     "authors": [
-      "Xiaoze Wang",
-      "Xiaokun Li",
-      "Peng Zhang",
-      "Zhiqiang Hu",
-      "Tianshu Li",
-      "Yang Zhou",
-      "Shuheng Dai",
-      "Xiaoling Chen",
-      "Xiaofeng Chen",
-      "Zhenzhen Zhang",
-      "Yu He",
-      "Lili Xie",
-      "Huanghao Yang",
-      "Sanyang Han",
-      "Qiushui Chen"
+      "Kamal Barati",
+      "Michael S Ramirez Campos",
+      "Thomas E Doyle"
     ],
     "published": "2026-Oct-02",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42823878/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42826381/",
     "pdf_url": null,
-    "doi": "10.1002/adma.75236",
+    "doi": "10.2196/94109",
     "citations": 0,
-    "venue": "Advanced materials (Deerfield Beach, Fla.)",
+    "venue": "JMIR AI",
     "open_access": false,
-    "ai_summary": "The Tb-BDC scintillator demonstrates a light yield of 44,380 photons MeV MeV ."
+    "ai_summary": "Scoping review aims to map the current landscape of machine learning methods for surgical skill assessment . The review focused on data modalities (kinematics, video, and biosignals), model architectures, and validation environments ."
   },
   {
-    "id": "pubmed:42823834",
-    "title": "Brain Dynamics Underlying Reaching Movements Under Uncertainty.",
-    "abstract": "Motor responses are influenced by inferred predictability, but it remains unclear how uncertainty, or its inverse, precision, is encoded within motor control networks. In this study, we combined computational modeling of reaching movement response speed with functional magnetic resonance imaging (fMRI). We used a cueing paradigm with changing cue predictability (~50%, ~70%, and ~90%) to test how predictive inference about left/right reaching responses affected cortical activity and network connectivity in 28 healthy young adults. Behavioral results showed that the response speed differences between invalid and valid cueing increased with a higher model-derived probability that the cue will be valid. The fMRI results revealed that activity in the bilateral intraparietal sulcus (IPS), the caudal part of dorsal premotor cortex (cPMd), and the cerebellum increased with higher uncertainty during valid trials. Moreover, the activation in the premotor cortex, bilateral inferior parietal lobe (IPL), IPS, and temporoparietal cortex was enhanced when reaching to invalidly cued targets (i.e., during motor reprogramming). Dynamic causal modeling revealed that uncertainty increased the connectivity from left to right IPS, from left IPS to cPMd, and from cPMd to primary motor cortex (M1) during valid trials. Motor reprogramming during invalid trials increased the coupling between bilateral IPL and strengthened pathways from IPL to M1 and from IPS to PMd, while decreasing connectivity from right to left IPS. These findings provide the first evidence of uncertainty-dependent network dynamics during reaching movements in the human brain and shed light on distinct neural mechanisms underlying precision-dependent motor control and motor reprogramming, with potential implications for psychiatric and neurological disorders characterized by aberrant precision control.",
+    "id": "pubmed:42826375",
+    "title": "Clinician Trust and Human Factors in AI-Enabled Clinical Decision Support in Acute Care: Mixed Methods Study.",
+    "abstract": "AI has the potential to enhance clinical decision-making in high-acuity settings such as intensive care units (ICUs) and emergency departments (EDs). However, despite promising performance, many AI-driven clinical decision support systems (AI-CDSSs) face poor adoption due to issues of trust, workflow disruption, and alert fatigue. Understanding the human factors that shape clinician acceptance is critical to guide safe and effective implementation of AI-CDSS in acute care. Theoretical frameworks, including the Systems Engineering Initiative for Patient Safety (SEIPS) 2.0 model and the technology acceptance model (TAM), suggest that successful adoption requires addressing sociotechnical interactions among clinician trust, system design, organizational readiness, and task complexity, yet few empirical studies have applied these frameworks to AI-CDSSs in acute care settings. This study aimed to evaluate emergency medicine and critical care clinicians' perceptions of AI-CDSSs and to identify key factors influencing adoption, including trust, design preferences, and workflow integration. A SEIPS 2.0-informed mixed methods study evaluated ICU and ED clinicians from Emory Healthcare on perceptions of AI in clinical practice. An expert-reviewed survey (N=57) assessed clinician perceptions, trust, and implementation preferences. Semistructured interviews (n=11) included A/B testing of AI-CDSSs and clinical sepsis scenarios to explore decision-making in context. Transcripts were thematically analyzed using the Braun and Clarke framework in ATLAS.ti (version 26, ATLAS.ti Scientific Software Development). Quantitative data were analyzed descriptively. This study assessed clinician perceptions using mock alerts and hypothetical scenarios rather than real-world AI-CDSS deployment. Trust in AI varied significantly by patient acuity (Cochran Q=30.40,  Adoption of AI-CDSSs in critical care is not solely a technical issue but a human-factors challenge centered on trust, transparency, and workflow compatibility. These findings support future testing of a phased implementation approach-beginning with lower-acuity applications where clinician trust is highest, then gradually extending to higher-acuity scenarios with enhanced transparency and override mechanisms. This graduated strategy addresses the critical interdependencies among people (trust), tools (design), organizations (training), and tasks (clinical complexity) identified in this study.",
     "authors": [
-      "Nan Liu",
-      "Adam Zabicki",
-      "Gereon R Fink",
-      "Paola Mengotti",
-      "Simone Vossel"
+      "Meghana Darla",
+      "Danielle Miltz",
+      "Khushboo Chandnani",
+      "Saptarshi Purkayastha",
+      "John W Diehl",
+      "Sivasubramanium V Bhavani"
     ],
-    "published": "2026-Oct-01",
+    "published": "2026-Oct-02",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42823834/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42826375/",
     "pdf_url": null,
-    "doi": "10.1002/hbm.70643",
+    "doi": "10.2196/95472",
     "citations": 0,
-    "venue": "Human brain mapping",
+    "venue": "JMIR human factors",
     "open_access": false,
-    "ai_summary": "Motor responses are influenced by inferred predictability, but it remains unclear how uncertainty, or its inverse, precision, is encoded within motor control networks . In this study, we combined computational modeling of reaching movement response speed with functional magnetic resonance imaging (fMRI)"
+    "ai_summary": "AI has the potential to enhance clinical decision-making in high-acuity settings such as intensive care units (ICUs) and emergency departments (EDs) Despite promising performance, many AI-driven clinical decision support systems (AI-CDSSs) face poor adoption due to issues of trust, workflow disruption, and alert fatigue ."
   },
   {
-    "id": "pubmed:42823828",
-    "title": "Benchmarking Large Language Models (LLMs) Against Medical Students Using Psychometrically Evaluated Authentic Clinically Oriented Anatomy Multiple-Choice Questions (MCQs) at the Apply and Analyze Levels of Bloom's Taxonomy.",
-    "abstract": "Large language models (LLMs) are increasingly used by medical students as study aids, yet evidence regarding their performance on higher-order, clinically oriented anatomy questions relative to that of students-particularly at the Apply and Analyze levels of Bloom's Taxonomy-remains limited. This study aimed to compare the accuracy of five LLMs (ChatGPT-5, Gemini 2.5 Pro, Claude, Microsoft Copilot, and DeepSeek R1) with that of medical students on authentic, psychometrically evaluated anatomy multiple-choice questions (MCQs) at the Apply and Analyze cognitive levels, and to qualitatively assess LLM response quality using a structured rubric. In this retrospective, cross-sectional study, 20 clinically oriented anatomy MCQs (10 Apply-level and 10 Analyze-level) administered at Bursa Uludag University Faculty of Medicine during the 2025-2026 academic year were identified from a pool of 397 questions and analyzed together with anonymized, aggregated student examination records. Each MCQ was presented once to all five LLMs using a standardized prompt. LLM and student accuracy were compared using Fisher's exact test. Item difficulty and discrimination indices were compared between Apply- and Analyze-level questions using independent-samples t-tests. LLM response quality was additionally scored using a six-domain LLM Anatomy Performance Assessment Rubric by two human observers and, in a cross-evaluation design, by peer LLMs. All five LLMs achieved perfect accuracy (100%, 20/20), significantly outperforming students, whose overall accuracy was 67.95% (p < 0.001). Student accuracy declined from the Apply level (74.79% ± 14.87%) to the Analyze level (61.13% ± 9.30%; p = 0.02), while LLM accuracy remained at ceiling across both levels (p < 0.001 for all comparisons). Analyze-level items showed significantly greater discrimination than Apply-level items (0.446 ± 0.070 vs. 0.248 ± 0.055; p < 0.001), despite being answered correctly by all LLMs regardless of difficulty. Because LLM accuracy showed zero variance, inter-model statistical comparisons were not applicable. Qualitative rubric evaluation showed all LLMs scored maximally on 4 of 6 domains (correct answer selection, Bloom's taxonomy appropriateness, scientific consistency, and absence of hallucination); differentiation emerged only in Anatomical Accuracy and Anatomical Reasoning, where Gemini 2.5 Pro and Claude scored highest (10.0/10) and Microsoft Copilot scored lowest (8.0/10) among human observers. Peer LLM evaluators rated model output as good as or better than human observers did across all comparisons, never lower (Spearman's ρ = 0.825, p = 0.086). Current-generation LLMs achieved uniform, ceiling-level accuracy on clinically oriented anatomy MCQs at both the Apply and Analyze cognitive levels, significantly exceeding student performance, and were unaffected by the item difficulty and discrimination properties that meaningfully differentiated student performance. However, a leniency bias among peer LLM evaluators raises concerns about the reliability of LLM-based peer assessment. These findings support the potential of LLMs as supplementary anatomy education tools while underscoring the continued need for expert oversight.",
+    "id": "pubmed:42826373",
+    "title": "Empathy Cuts Both Ways in Clinical AI.",
+    "abstract": "",
     "authors": [
-      "Serdar Babacan"
+      "Vera Sorin",
+      "Eyal Klang"
     ],
-    "published": "2026-Oct-01",
+    "published": "2026-Oct-02",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42823828/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42826373/",
     "pdf_url": null,
-    "doi": "10.1002/ca.70240",
+    "doi": "10.2196/108778",
     "citations": 0,
-    "venue": "Clinical anatomy (New York, N.Y.)",
+    "venue": "JMIR human factors",
     "open_access": false,
-    "ai_summary": "Large language models (LLMs) are increasingly used by medical students as study aids . Study aimed to compare accuracy of five LLMs (ChatGPT-5, Gemini 2.5 Pro, Claude, Microsoft Copilot, and DeepSeek R1)"
+    "ai_summary": "No abstract available."
   },
   {
-    "id": "pubmed:42823833",
-    "title": "Temporal Interference Modulates Medial Temporal and Frontoparietal Activity During Mnemonic Discrimination: A High-Resolution Whole-Brain fMRI Investigation.",
-    "abstract": "Mnemonic discrimination-the ability to distinguish between existing memories and similar new inputs-supports accurate memory in the face of interference (e.g., in a card game, recognizing that the card you are currently seeing, the King of Hearts, is distinct from the King of Diamonds you encountered earlier in the same hand). Although hippocampal pattern separation has been emphasized as a key mechanism for this process, recent theoretical frameworks and empirical findings suggest that surrounding medial temporal lobe and cortical regions also contribute by resolving interference. An important source of interference in everyday life is temporal interference: similar events may compete not only because they overlap perceptually, but also because they are separated by intervening experiences (e.g., distinguishing the King of Hearts you are currently holding in your hand from the King of Diamonds you encountered earlier in the game becomes increasingly difficult as additional cards are played and additional hands intervene between the two episodes). Here, we examined how temporal interference impacts mnemonic discrimination and its neural correlates using high-resolution fMRI and a continuous recognition task in which the lag between an item's first presentation and its subsequent target or similar lure was systematically manipulated (10, 60, or 140 intervening trials). Behaviorally, increasing lag impaired both mnemonic discrimination and target recognition. At the neural level, lag effects were not observed in hippocampal subfields. Instead, temporal interference modulated activity in extrahippocampal MTL regions including parahippocampal and perirhinal cortex, as well as distributed cortical regions including frontoparietal control areas. Importantly, lag-related modulation was process-specific, with partially dissociable patterns for successful mnemonic discrimination and target recognition. Together, these findings demonstrate that temporal interference engages a distributed MTL-cortical network that supports interference resolution during mnemonic discrimination.",
+    "id": "pubmed:42826372",
+    "title": "Authors' Reply: Empathy Cuts Both Ways in Clinical AI.",
+    "abstract": "",
     "authors": [
-      "Min Sung Seo",
-      "Rebecca L Wagner",
-      "Jordan D Chamberlain",
-      "Kelsey L Canada",
-      "Nancy A Dennis"
+      "Sang Won Bae",
+      "Tongze Zhang",
+      "Tammy Chung",
+      "Anind Dey"
     ],
-    "published": "2026-Nov",
+    "published": "2026-Oct-02",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42823833/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42826372/",
     "pdf_url": null,
-    "doi": "10.1002/hipo.70137",
+    "doi": "10.2196/110739",
     "citations": 0,
-    "venue": "Hippocampus",
+    "venue": "JMIR human factors",
     "open_access": false,
-    "ai_summary": "Mnemonic discrimination-the ability to distinguish between existing memories and similar new inputs-supports accurate memory in the face of interference . An important source of interference in everyday life is temporal interference ."
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "pubmed:42826371",
+    "title": "Biomedical Research Images Manipulated by Generative AI to Alter Scientific Outcomes: Diagnostic Study of Human and Automated Detection.",
+    "abstract": "In a diagnostic study of 104 western blot and subcutaneous xenograft tumor images, a high-fidelity generative model produced forgeries that could alter the conclusions of a study; 24 PhD-level expert reviewers could not reliably distinguish the forgeries from authentic figures (mean accuracy 50.5%, SD 6.9%), while the best-performing commercial AI detector achieved only moderate discrimination (area under the curve 0.790, 95% CI 0.695-0.885), revealing critical vulnerabilities in current research-integrity safeguards.",
+    "authors": [
+      "Shuhang Luo",
+      "Runhua Tang",
+      "Ziyin Chen",
+      "Jianye Wang",
+      "Ming Liu",
+      "Jianfeng Wang",
+      "Li Ma"
+    ],
+    "published": "2026-Oct-02",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42826371/",
+    "pdf_url": null,
+    "doi": "10.2196/100710",
+    "citations": 0,
+    "venue": "Journal of medical Internet research",
+    "open_access": false,
+    "ai_summary": "A high-fidelity generative model produced forgeries that could alter the conclusions of a study . 24 PhD-level expert reviewers could not reliably distinguish the forgeries from authentic figures . The best-performing commercial AI detector achieved only moderate discrimination ."
+  },
+  {
+    "id": "pubmed:42826354",
+    "title": "Utility of Augmented Reality Glasses With Waveguide Optics and Facial Recognition Technology for Patient Verification in a Simulated Outpatient Setting: Physician Questionnaire Survey Study.",
+    "abstract": "Augmented reality (AR) glasses with waveguide optics and facial recognition may enhance patient identification and clinical workflows. However, their usability among physicians has not yet been evaluated. The objective of this study was to assess the usability and acceptability of prototype AR glasses with facial recognition in a simulated outpatient setting. In May 2025, 14 urologists from a single institution tested prototype AR glasses developed by Cellid Inc. The device incorporates waveguide-based optical displays, a miniature camera, and deep learning-based facial recognition software. Physicians identified preregistered mock patients, with demographic and clinical data displayed on the right lens. After the trial, participants completed an anonymous questionnaire on usability, comfort, visibility, and self-reported symptoms using 3- or 5-point Likert scales. Eleven participants (79%; 95% CI 52%-92%) found the device helpful in performing clinical procedures, and 12 (86%; 95% CI 60%-96%) believed it improved patient safety. Most participants adapted quickly to wearing the device, and 79% (95% CI 52%-92%) expressed a willingness to use it in future practice. Four of 13 respondents (31%; 95% CI 13%-58%) selected \"somewhat tired\" for eye fatigue, and only 1 participant experienced minor and transient physical symptoms including headache and nausea. Three of 13 respondents (23%; 95% CI 8%-50%) rated the glasses as slightly heavy, and among the 5 participants who wore prescription glasses, 4 (80%; 95% CI 38%-96%) reported difficulty wearing the prototype over their glasses. Surrounding-environment visibility and perceived facial recognition responsiveness were generally favorable; however, 8 of 13 respondents (62%; 95% CI 36%-82%) rated the displayed patient information as slightly difficult to see. In this pilot study, AR glasses with facial recognition were well accepted by physicians. This technology has demonstrated perceived clinical utility and has the potential to assist medical professionals, though further refinement and larger clinical evaluations are needed.",
+    "authors": [
+      "Ryo Andy Ogasawara",
+      "Soichiro Yoshida",
+      "Kentaro Okamoto",
+      "Eiki Nagaoka",
+      "Hirotaka Sagawa",
+      "Kazutaka Sumita",
+      "Hajime Tanaka",
+      "Satoshi Shiraga",
+      "Tomohiro Amemiya",
+      "Yasuhisa Fujii"
+    ],
+    "published": "2026-Oct-02",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42826354/",
+    "pdf_url": null,
+    "doi": "10.2196/95664",
+    "citations": 0,
+    "venue": "JMIR human factors",
+    "open_access": false,
+    "ai_summary": "Augmented reality (AR) glasses with waveguide optics and facial recognition may enhance patient identification and clinical workflows . The objective of this study was to assess the usability and acceptability of prototype AR glasses with facial recognition in a simulated outpatient setting ."
+  },
+  {
+    "id": "pubmed:42826351",
+    "title": "Extended Parental Investment Effects on Population Dynamics: From AI Agent Modeling to Real World Demographics.",
+    "abstract": "Parental care is prevalent, especially among mammals. A long-lasting research question lies in whether Post-Maturity Parental Investment (PMPI) has any behavioral or physical population effect. However, it is ethically inconceivable to directly experiment on real mammals in a sizable manner. Therefore, AI agent populations with and without PMPI are proposed to examine the population-scale consequences under different scenarios. Specifically, both multi-agent reinforcement learning (MARL) experiments and multi-agent simulation (MAS) experiments are proposed for investigating the PMPI effects on population dynamics. MARL tests the behavioral aspect (learning) while MAS tests the physical aspect (survival). Based on millions of simulated steps, the results suggest that PMPI secures lineage successions and leads to family-dominated formations at individual level. However, at population level, PMPI is negatively correlated with population size and total wealth, while being positively correlated with wealth inequality (as measured by the Gini index). Both experiments suggest that extended parental investment (e.g., PMPI) imposes systemic constraints on population dynamics. On the other hand, those simulated results can be corroborated by real world demographic data from global authoritative sources. The MAS source code, executable, and web version is available for scientific reproducibility at https://www.cs.toronto.edu/∼wkc/ParentalCaresOnline.html.",
+    "authors": [
+      "Ka-Chun Wong"
+    ],
+    "published": "2026-Oct-02",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42826351/",
+    "pdf_url": null,
+    "doi": "10.1162/ARTL.a.492",
+    "citations": 0,
+    "venue": "Artificial life",
+    "open_access": false,
+    "ai_summary": "Parental care is prevalent, especially among mammals, especially in mammals . A long-lasting research question lies in whether Post-Maturity Parental Investment (PMPI) has any behavioral or physical population effect ."
+  },
+  {
+    "id": "pubmed:42826308",
+    "title": "Applications and recent advances of 3D printing technology in bone diseases: A bibliometric analysis.",
+    "abstract": "Bone diseases, including osteoporosis, arthritis, and spinal disorders, pose significant global health challenges, especially with an aging population. Traditional treatment methods often fall short in addressing the complexity and variability of these conditions. Three-dimensional (3D) printing technology has emerged as a transformative tool in orthopedics, enabling the creation of patient-specific implants, surgical guides, and anatomical models that enhance precision and personalization in treatment. Despite its potential, challenges such as regulatory barriers, high costs, and limited scalability hinder widespread clinical adoption. This study aims to conduct a bibliometric analysis of the research landscape surrounding the application of 3D printing in bone diseases, identifying emerging trends, influential contributors, and knowledge gaps to inform future research and clinical translation. This study analyzed publications on 3D printing in bone diseases from 2005 to 2024 using data from the Web of Science Core Collection. We performed co-occurrence mapping, keyword clustering, and citation analysis using CiteSpace, R Bibliometrix, and GraphPad Prism. We examined trends in research output, collaboration among countries and institutions, and thematic developments. Between 2005 and 2024, 544 relevant publications were identified, with a rapid growth phase observed post-2016. China and the USA emerged as leading contributors, collectively accounting for over 50% of global research output. Key application areas included scaffolds for bone regeneration, tissue engineering integrating stem cell technology, and drug delivery systems. Keyword analysis highlighted \"scaffolds,\" \"tissue engineering,\" and \"additive manufacturing\" as central themes. Despite progress, challenges in standardization, material biocompatibility, and cost-effective manufacturing persist. 3D printing is reshaping research and clinical applications in bone diseases by offering innovative solutions for bone regeneration, surgical precision, and personalized treatment. Overcoming challenges such as regulatory complexities, scalability, and interdisciplinary collaboration is critical for full clinical integration. Future research should focus on advancing bioprinting techniques, optimizing hybrid manufacturing, and leveraging artificial intelligence -driven design for enhanced patient-specific outcomes.",
+    "authors": [
+      "Yin-Yao Gou",
+      "Li-Kun Wei",
+      "Ren-Song Li",
+      "Zhi-Gang Xiao",
+      "Xin Zhao",
+      "Lian-Shan Qi",
+      "Hao Liu"
+    ],
+    "published": "2026-Oct-02",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42826308/",
+    "pdf_url": null,
+    "doi": "10.1097/MD.0000000000050939",
+    "citations": 0,
+    "venue": "Medicine",
+    "open_access": false,
+    "ai_summary": "3D printing technology has emerged as a transformative tool in orthopedics, enabling the creation of patient-specific implants, surgical guides, and anatomical models . Despite its potential, challenges such as regulatory barriers, high costs, and limited scalability hinder widespread clinical adoption ."
   },
   {
     "id": "openalex:W7118720654",
@@ -1629,6 +1654,96 @@
     "ai_summary": "No abstract available."
   },
   {
+    "id": "arxiv:2610.02206v1",
+    "title": "KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards",
+    "abstract": "LLMs are increasingly applied to cybersecurity workflows, where they are expected to translate analysts' intent into tool invocations. However, existing evaluations focus on knowledge-based assessments or end-to-end agentic tasks, and do not directly measure LLMs' ability to generate executable commands for real-world cybersecurity tools. This gap is critical because cybersecurity operations rely on strict command-line interfaces (CLIs), where minor syntax errors, incorrect flag--value bindings, or argument misordering can invalidate execution. We introduce KaliBench, a fine-grained benchmark and dataset for natural-language--to--CLI translation on Kali Linux, comprising 8,504 query--command pairs spanning 1,642 tools across 23 capability dimensions and 5 security phases. KaliBench is constructed via a manuscript-grounded pipeline with deterministic canonicalization and alias-aware evaluation, enabling precise and reproducible assessment of tool selection and argument construction. To ensure both semantic correctness and practical executability, we develop a multi-stage verification pipeline that combines LLM-based validation, sandboxed terminal execution, and human-in-the-loop refinement. Building on these fine-grained, deterministic signals, KaliBench further enables runtime-free verifiable rewards for training. Across three evaluation modes and 24 configurations of general-purpose and security-focused open-weight models, no open-weight model exceeds 42% exact-command accuracy in the unrestricted setting, highlighting the difficulty of accurate CLI-based cybersecurity tool use without explicit tool hints. We further show that supervised fine-tuning and reinforcement learning with verifiable rewards derived from KaliBench significantly improve an 8B model and achieve performance comparable to a 685B MoE model.",
+    "authors": [
+      "Pengfei Li",
+      "Naufal Suryanto",
+      "Sicheng Zhang",
+      "Muzammal Naseer"
+    ],
+    "published": "2026-10-01",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2610.02206v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.02206v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "LLMs are increasingly applied to cybersecurity workflows, where they are expected to translate analysts' intent into tool invocations . But existing evaluations focus on knowledge-based assessments or end-to-end agentic tasks ."
+  },
+  {
+    "id": "arxiv:2610.02208v1",
+    "title": "Sphere Encoder 2",
+    "abstract": "Sphere Encoder is an autoencoder that generates images by decoding random points from a high-dimensional latent sphere. We identify two limitations of the original formulation that reduce its generation quality. First, random points concentrate near the equator relative to the pole on an encoded latent, but the training rotation never reaches this region, leaving a gap that limits one-step generation. Second, training for generation with pixel-wise reconstruction loss encourages the decoder to average over plausible images, producing blurry images that lack high-frequency details. We present Sphere Encoder 2 to address both limitations, substantially improving image generation quality while maintaining the speed and simplicity of a autoencoder. Models are released at \\href{https://github.com/kaiyuyue/sphere2}{github.com/kaiyuyue/sphere2}.",
+    "authors": [
+      "Kaiyu Yue",
+      "Sean McLeish",
+      "Ruchit Rawal",
+      "Brian Bartoldson",
+      "Menglin Jia",
+      "Tom Goldstein"
+    ],
+    "published": "2026-10-01",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2610.02208v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.02208v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "Sphere Encoder is an autoencoder that generates images by decoding random points from a high-dimensional latent sphere . We present Sphere Encoder 2 to address both limitations of the original formulation and improve image generation quality ."
+  },
+  {
+    "id": "arxiv:2610.02204v1",
+    "title": "Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents",
+    "abstract": "Building reliable robot capabilities across diverse tasks requires substantial human effort to develop and maintain skills, design rewards, and integrate perception with control. We present Reconstruct, Practice, Go Real (RPG), a framework for autonomous improvement of robot execution systems without updating model weights. RPG identifies manipulation capabilities in an offline dataset and constructs related practice tasks in simulation. During practice, RPG uses execution feedback, privileged simulator state, and available dataset videos to diagnose failures. It develops new reusable symbolic skills, refines existing skills, and revises the system prompt based on these diagnoses. Cross-task evaluation tests individual candidate changes and merged revisions before they are retained for reuse. At test time, a multimodal LLM uses the resulting system prompt and skill library to coordinate perception and robot control. On held-out initializations of 22 manipulation tasks, RPG improves task success from 28.6% after the first practice round to 95.0% after 15 rounds, outperforming all evaluated baselines, including ASPIRE (75.5%) and CaP-Agent0 powered by GPT-6 Astra Pro (60.0%). After a common calibration and hardware-adaptation procedure, the frozen system succeeds in all 30 physical trials, with ten trials on each of three tasks. Project Website: https://rpg-robot.github.io/",
+    "authors": [
+      "Yen-Jen Wang",
+      "Haozhe Jiang",
+      "Shuying Deng",
+      "Haoru Xue",
+      "Weirui Ye",
+      "Rocky Duan",
+      "Nika Haghtalab",
+      "S. Shankar Sastry",
+      "Pieter Abbeel",
+      "Haozhi Qi"
+    ],
+    "published": "2026-10-01",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2610.02204v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.02204v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "Reconstruct, Practice, Go Real (RPG) is a framework for autonomous improvement of robot execution systems without updating model weights . RPG identifies manipulation capabilities in an offline dataset and constructs related practice tasks in simulation . It develops new reusable symbolic skills, refines existing skills, and revises the system prompt based on these diagnoses ."
+  },
+  {
+    "id": "arxiv:2610.02210v1",
+    "title": "Moore, Escher, Penrose: A Conformal Golden Braid",
+    "abstract": "I don't think I have ever done anything as peculiar in my life. Among other things, it shows a young man looking with interest at a print on the wall of an exhibition that features himself. How can this be? Perhaps I am not far removed from Einstein's curved universe.'' So wrote M.C. Escher about his 1956 lithograph Print Gallery. Nearly half a century later, a mathematical analysis related its geometry to an untwisted source image through a conformal power map $z \\mapsto z^α$, $α\\in \\mathbb{C}$. Building on this construction, we use a frozen text-to-image diffusion model to generate new self-referential scenes. Prompting alone does not enforce the recursion, while a post-hoc transformation can leave structures poorly connected. Applying the transformation during sampling is also insufficient: the denoiser may \"repair\" the intended distortion or drift out of the prescribed geometry. We construct a generalized inverse $T^\\dagger$ of the non-invertible image transformation $T$, adapted to its recursive constraint. In the idealized formulation, the Penrose identity $TT^\\dagger T = T$ makes $TT^\\dagger$ an idempotent projection onto geometrically admissible images. Yet denoising only the transformed image remains an out-of-distribution task, even with projection. We therefore braid denoising steps with $T$ and $T^\\dagger$: source-space steps develop the untwisted scene, while transformed-space steps refine its appearance and connections in the final geometry. We generate Print Gallery-like compositions and explore further transformations. Rather than distorting a finished image, we let the scene and its distortion develop together.",
+    "authors": [
+      "Sophia Feldman",
+      "Assaf Shocher"
+    ],
+    "published": "2026-10-01",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2610.02210v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.02210v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "M.C. Escher wrote about his 1956 lithograph Print Gallery . A mathematical analysis related its geometry to an untwisted source image through a conformal power map ."
+  },
+  {
     "id": "arxiv:2610.02207v1",
     "title": "One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars",
     "abstract": "3D Gaussian avatars support fast rendering, however, their real-time animation is often challenged by the costly neural inference. We address this bottleneck and show that the animation of pretrained avatar models can be closely approximated by a linear combination of identity-independent blendshapes. Building on this finding, we introduce GALA (Gaussian Animation via Linear Approximation), a distillation method that replaces per-frame heavy neural decoding with a shallow coefficient predictor and a linear blend. To improve fidelity and reduce memory requirements, we propose to construct the basis using block-local PCA under a rendering-aware metric and a memory budget. Our method learns a shallow MLP network to predict blendshape coefficients and applies to various animation architectures without retraining original models. We validate GALA by accelerating the inference of three distinct avatar models for 3D animation of facial expressions and full-bodies with clothing dynamics. Across these models, our distillation generalizes to held-out identities and reduces CPU animation cost by up to three orders of magnitude while preserving most of the rendering quality. Excellent results of our method confirm the shared linear structure of learned avatar representations and enable highly efficient and accurate animation at frame rates reaching up to 60fps on mobile devices. Project page: https://ramazan793.github.io/gala/",
@@ -1673,96 +1788,6 @@
     "venue": "arXiv preprint",
     "open_access": true,
     "ai_summary": "Programmable world models separate executable dynamics from visual generation . PROWBench logs events as replayable world records, from which it renders synchronized views and proxy representations ."
-  },
-  {
-    "id": "arxiv:2610.02208v1",
-    "title": "Sphere Encoder 2",
-    "abstract": "Sphere Encoder is an autoencoder that generates images by decoding random points from a high-dimensional latent sphere. We identify two limitations of the original formulation that reduce its generation quality. First, random points concentrate near the equator relative to the pole on an encoded latent, but the training rotation never reaches this region, leaving a gap that limits one-step generation. Second, training for generation with pixel-wise reconstruction loss encourages the decoder to average over plausible images, producing blurry images that lack high-frequency details. We present Sphere Encoder 2 to address both limitations, substantially improving image generation quality while maintaining the speed and simplicity of a autoencoder. Models are released at \\href{https://github.com/kaiyuyue/sphere2}{github.com/kaiyuyue/sphere2}.",
-    "authors": [
-      "Kaiyu Yue",
-      "Sean McLeish",
-      "Ruchit Rawal",
-      "Brian Bartoldson",
-      "Menglin Jia",
-      "Tom Goldstein"
-    ],
-    "published": "2026-10-01",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2610.02208v1",
-    "pdf_url": "https://arxiv.org/pdf/2610.02208v1",
-    "doi": null,
-    "citations": 0,
-    "venue": "arXiv preprint",
-    "open_access": true,
-    "ai_summary": "Sphere Encoder is an autoencoder that generates images by decoding random points from a high-dimensional latent sphere . We present Sphere Encoder 2 to address both limitations of the original formulation and improve image generation quality ."
-  },
-  {
-    "id": "arxiv:2610.02210v1",
-    "title": "Moore, Escher, Penrose: A Conformal Golden Braid",
-    "abstract": "I don't think I have ever done anything as peculiar in my life. Among other things, it shows a young man looking with interest at a print on the wall of an exhibition that features himself. How can this be? Perhaps I am not far removed from Einstein's curved universe.'' So wrote M.C. Escher about his 1956 lithograph Print Gallery. Nearly half a century later, a mathematical analysis related its geometry to an untwisted source image through a conformal power map $z \\mapsto z^α$, $α\\in \\mathbb{C}$. Building on this construction, we use a frozen text-to-image diffusion model to generate new self-referential scenes. Prompting alone does not enforce the recursion, while a post-hoc transformation can leave structures poorly connected. Applying the transformation during sampling is also insufficient: the denoiser may \"repair\" the intended distortion or drift out of the prescribed geometry. We construct a generalized inverse $T^\\dagger$ of the non-invertible image transformation $T$, adapted to its recursive constraint. In the idealized formulation, the Penrose identity $TT^\\dagger T = T$ makes $TT^\\dagger$ an idempotent projection onto geometrically admissible images. Yet denoising only the transformed image remains an out-of-distribution task, even with projection. We therefore braid denoising steps with $T$ and $T^\\dagger$: source-space steps develop the untwisted scene, while transformed-space steps refine its appearance and connections in the final geometry. We generate Print Gallery-like compositions and explore further transformations. Rather than distorting a finished image, we let the scene and its distortion develop together.",
-    "authors": [
-      "Sophia Feldman",
-      "Assaf Shocher"
-    ],
-    "published": "2026-10-01",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2610.02210v1",
-    "pdf_url": "https://arxiv.org/pdf/2610.02210v1",
-    "doi": null,
-    "citations": 0,
-    "venue": "arXiv preprint",
-    "open_access": true,
-    "ai_summary": "M.C. Escher wrote about his 1956 lithograph Print Gallery . A mathematical analysis related its geometry to an untwisted source image through a conformal power map ."
-  },
-  {
-    "id": "arxiv:2610.02204v1",
-    "title": "Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents",
-    "abstract": "Building reliable robot capabilities across diverse tasks requires substantial human effort to develop and maintain skills, design rewards, and integrate perception with control. We present Reconstruct, Practice, Go Real (RPG), a framework for autonomous improvement of robot execution systems without updating model weights. RPG identifies manipulation capabilities in an offline dataset and constructs related practice tasks in simulation. During practice, RPG uses execution feedback, privileged simulator state, and available dataset videos to diagnose failures. It develops new reusable symbolic skills, refines existing skills, and revises the system prompt based on these diagnoses. Cross-task evaluation tests individual candidate changes and merged revisions before they are retained for reuse. At test time, a multimodal LLM uses the resulting system prompt and skill library to coordinate perception and robot control. On held-out initializations of 22 manipulation tasks, RPG improves task success from 28.6% after the first practice round to 95.0% after 15 rounds, outperforming all evaluated baselines, including ASPIRE (75.5%) and CaP-Agent0 powered by GPT-6 Astra Pro (60.0%). After a common calibration and hardware-adaptation procedure, the frozen system succeeds in all 30 physical trials, with ten trials on each of three tasks. Project Website: https://rpg-robot.github.io/",
-    "authors": [
-      "Yen-Jen Wang",
-      "Haozhe Jiang",
-      "Shuying Deng",
-      "Haoru Xue",
-      "Weirui Ye",
-      "Rocky Duan",
-      "Nika Haghtalab",
-      "S. Shankar Sastry",
-      "Pieter Abbeel",
-      "Haozhi Qi"
-    ],
-    "published": "2026-10-01",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2610.02204v1",
-    "pdf_url": "https://arxiv.org/pdf/2610.02204v1",
-    "doi": null,
-    "citations": 0,
-    "venue": "arXiv preprint",
-    "open_access": true,
-    "ai_summary": "Reconstruct, Practice, Go Real (RPG) is a framework for autonomous improvement of robot execution systems without updating model weights . RPG identifies manipulation capabilities in an offline dataset and constructs related practice tasks in simulation . It develops new reusable symbolic skills, refines existing skills, and revises the system prompt based on these diagnoses ."
-  },
-  {
-    "id": "arxiv:2610.02206v1",
-    "title": "KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards",
-    "abstract": "LLMs are increasingly applied to cybersecurity workflows, where they are expected to translate analysts' intent into tool invocations. However, existing evaluations focus on knowledge-based assessments or end-to-end agentic tasks, and do not directly measure LLMs' ability to generate executable commands for real-world cybersecurity tools. This gap is critical because cybersecurity operations rely on strict command-line interfaces (CLIs), where minor syntax errors, incorrect flag--value bindings, or argument misordering can invalidate execution. We introduce KaliBench, a fine-grained benchmark and dataset for natural-language--to--CLI translation on Kali Linux, comprising 8,504 query--command pairs spanning 1,642 tools across 23 capability dimensions and 5 security phases. KaliBench is constructed via a manuscript-grounded pipeline with deterministic canonicalization and alias-aware evaluation, enabling precise and reproducible assessment of tool selection and argument construction. To ensure both semantic correctness and practical executability, we develop a multi-stage verification pipeline that combines LLM-based validation, sandboxed terminal execution, and human-in-the-loop refinement. Building on these fine-grained, deterministic signals, KaliBench further enables runtime-free verifiable rewards for training. Across three evaluation modes and 24 configurations of general-purpose and security-focused open-weight models, no open-weight model exceeds 42% exact-command accuracy in the unrestricted setting, highlighting the difficulty of accurate CLI-based cybersecurity tool use without explicit tool hints. We further show that supervised fine-tuning and reinforcement learning with verifiable rewards derived from KaliBench significantly improve an 8B model and achieve performance comparable to a 685B MoE model.",
-    "authors": [
-      "Pengfei Li",
-      "Naufal Suryanto",
-      "Sicheng Zhang",
-      "Muzammal Naseer"
-    ],
-    "published": "2026-10-01",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2610.02206v1",
-    "pdf_url": "https://arxiv.org/pdf/2610.02206v1",
-    "doi": null,
-    "citations": 0,
-    "venue": "arXiv preprint",
-    "open_access": true,
-    "ai_summary": "LLMs are increasingly applied to cybersecurity workflows, where they are expected to translate analysts' intent into tool invocations . But existing evaluations focus on knowledge-based assessments or end-to-end agentic tasks ."
   },
   {
     "id": "arxiv:2610.02203v1",
@@ -2603,7 +2628,7 @@
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "We study linear programming (LP) representations and strongly polynomial algorithms for robust Markov decision processes . We construct a single LP whose optimal solutions recover the robust optimal value and all optimal stationary randomized policies . At fixed discount, the LP has polynictional dimension and encoding length and can be constructed in strongly poynomial time"
+    "ai_summary": "We study linear programming (LP) representations and strongly polynomial algorithms for robust Markov decision processes . We construct a single LP whose optimal solutions recover the robust optimal value and all optimal stationary randomized policies . At fixed discount, the LP has polyncular dimension and encoding length and can be constructed in strongly poynomial time"
   },
   {
     "id": "arxiv:2610.02128v1",
@@ -2819,75 +2844,23 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "pubmed:42823982",
-    "title": "Flow diversion versus conventional endovascular treatment for ruptured basilar artery dissecting aneurysms: a single-center cohort study.",
-    "abstract": "Ruptured basilar artery dissecting aneurysms (BADAs) are rare and associated with high risks of rebleeding, brainstem ischemia, and death. Evidence specific to the basilar artery remains limited, and experience derived from vertebral artery dissections may not be directly transferable because the basilar trunk supplies numerous critical pontine perforators and generally cannot be sacrificed. To describe the real-world management of a consecutive cohort of ruptured BADA and compare long-term clinical outcomes after primary flow diverter (FD)-based versus conventional endovascular treatment. This retrospective single-center cohort study included consecutive patients with angiographically confirmed ruptured BADA who underwent endovascular treatment between February 2015 and April 2024. Patients were classified according to the index endovascular treatment as the FD group or the conventional endovascular treatment group. The primary outcome was favorable functional outcome (mRS 0-2) at the last follow-up. Secondary outcomes included mortality, retreatment, complications, and descriptive radiological outcomes. Twenty-two patients were included: 5 received FD-based treatment as the index strategy and 17 received conventional endovascular treatment. Fusiform morphology was more frequent in the FD group (80.0% vs. 23.5%,  Primary FD-based reconstruction was feasible in selected ruptured BADA, particularly in anatomically complex or fusiform lesions. Given the small sample, non-randomized treatment selection, and absence of statistically significant between-group differences, these findings support individualized treatment and do not establish superiority of either strategy.",
+    "id": "pubmed:42826361",
+    "title": "Guardians of Integrity: Establishing an Independent Artificial Intelligence Monitoring Board.",
+    "abstract": "",
     "authors": [
-      "Bowen Yang",
-      "Ziang Chen",
-      "Jiangyu Xue",
-      "Gangqin Xu",
-      "Tongyuan Zhao",
-      "Dongyang Cai",
-      "Zhongcan Chen",
-      "Yingkun He",
-      "Yanyan He",
-      "Sijin Yang",
-      "Tianxiao Li"
+      "Yasin Khadem Charvadeh",
+      "Yuan Chen",
+      "Katherine S Panageas"
     ],
     "published": "2026",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42823982/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42826361/",
     "pdf_url": null,
-    "doi": "10.3389/fneur.2026.1940068",
+    "doi": "10.1200/CCI-26-00036",
     "citations": 0,
-    "venue": "Frontiers in neurology",
+    "venue": "JCO clinical cancer informatics",
     "open_access": false,
-    "ai_summary": "Ruptured basilar artery dissecting aneurysms (BADAs) are rare and associated with high risks of rebleeding, brainstem ischemia, and death . Evidence specific to the basilar arteries remains limited, and experience derived from vertebral artery dissections may not be directly transferable ."
-  },
-  {
-    "id": "pubmed:42823970",
-    "title": "Accuracy, readability, and bias of GPT-4o mini responses to oculoplastic patient questions.",
-    "abstract": "This cross-sectional evaluation of model outputs evaluates the accuracy, readability, transparency, objectivity, completeness, and bias of GPT-4o mini responses to common oculoplastic patient questions. The study was reviewed and deemed exempt from institutional review board approval. Thirty-three questions were developed across eight clinical domains: floppy eyelid syndrome, cicatricial ectropion, entropion, blepharoplasty, facial aging, brow lift, ptosis, and facial nerve function. Seven domains contained four patient-centered questions, while the facial aging domain contained five questions, for a total of 33 questions. On September 16, 2024, GPT-4o mini was prompted for each question with a standardized prompt requesting responses from the perspective of an expert oculofacial surgeon, using the latest medical guidelines. Verbatim responses were recorded. Six American Society of Ophthalmic Plastic and Reconstructive Surgery fellowship-trained surgeons independently evaluated each response using a 5-point Likert scale assessing clinical accuracy, completeness, transparency, objectivity, and bias. Readability was assessed using established readability indices. GPT-4o mini demonstrated moderate clinical accuracy and completeness. Clinical accuracy was rated favorably in 51% of ratings (101/198), while completeness was rated favorably in 42% (84/198). Transparency and objectivity demonstrated stronger performance. 78% of ratings (155/198) agreed or strongly agreed that responses were transparent and 76% of ratings (150/198) agreed or strongly agreed that responses were objective. 8% of ratings (16/198) agreed or strongly agreed that Bias was present, while 65% (129/198) disagreed or strongly disagreed. Readability analyses demonstrated that ratings required college- to graduate-level reading ability. GPT-4o mini generated transparent and objective ratings with low measured bias but demonstrated limitations in clinical accuracy, completeness, and readability. These findings apply specifically to GPT-4o mini and should not be generalized to other large language models. Future investigations should compare contemporary language models, evaluate alternative prompting strategies, and investigate multimodal systems that integrate text, clinical photographs, periocular anatomy, and patient symptoms.",
-    "authors": [
-      "Terry Henry",
-      "Grace Staes",
-      "Alexius Russell",
-      "Nikisha Q Richards-Walker"
-    ],
-    "published": "2026",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42823970/",
-    "pdf_url": null,
-    "doi": "10.3389/fopht.2026.1718017",
-    "citations": 0,
-    "venue": "Frontiers in ophthalmology",
-    "open_access": false,
-    "ai_summary": "Thirty-three questions were developed across eight clinical domains . Seven domains contained four patient-centered questions, while the facial aging domain contained five questions . Verbatim responses were recorded ."
-  },
-  {
-    "id": "pubmed:42823942",
-    "title": "Surveillance-Driven Machine Learning for Prediction of Antimicrobial Susceptibility: An Explainable Modeling Framework using the Pfizer ATLAS Dataset (2004 - 2023).",
-    "abstract": "Antimicrobial resistance (AMR) is a growing global public health threat, particularly in low- and middle-income countries (LMICs), where delayed antimicrobial susceptibility testing (AST) and limited diagnostic capacity complicate timely treatment and antimicrobial stewardship (AMS). Although large-scale surveillance programmes routinely collect antimicrobial susceptibility data, these datasets remain underutilised for predictive analytics. We developed a surveillance-driven machine learning (ML) framework using isolate-level data from African sites participating in the Pfizer Antimicrobial Testing Leadership and Surveillance (ATLAS) programme between 2019 and 2023. Seven antibiotic-specific Extreme Gradient Boosting (XGBoost) models were developed to predict antimicrobial susceptibility using routinely collected microbiological, demographic, clinical, and geographical metadata. Model development included structured data preprocessing, RandomOverSampler-based class balancing restricted to the training data, hyperparameter optimisation using stratified cross-validation, and evaluation on a held-out test dataset. A rule-based MIC interpretation system and interactive dashboard were developed to demonstrate implementation of the analytical workflow. The antibiotic-specific models demonstrated moderate predictive performance, with test accuracies ranging from 57% to 76%. Ceftazidime-Avibactam achieved the highest test accuracy (76%), followed by Gentamicin (65%) and Imipenem (64%), while Amikacin showed the lowest performance (57%). Feature-importance analysis identified bacterial species as consistently among the most influential predictors. In contrast, bacterial family, country of isolate collection, specimen source, clinical specialty, and demographic characteristics contributed to varying degrees across antibiotics. Performance was generally stronger for the more frequently represented susceptible class than for intermediate and resistant isolates. Routinely collected AMR surveillance data can support antibiotic-specific ML predictions without requiring genomic sequencing or detailed patient-level clinical information. This study provides a proof-of-concept framework for surveillance-driven predictive analytics that could complement conventional AMR surveillance and AMS. External validation, calibration, prospective clinical evaluation, and implementation studies are required before routine deployment. Antimicrobial resistance (AMR) occurs when bacteria no longer respond to medicines used to treat infections, making illnesses harder to treat and increasing the risk of severe outcomes. This is a growing global health problem, particularly in Low- and Middle-Income Countries (LMICs) where access to rapid diagnostic testing and Antimicrobial Stewardship (AMS) programs may be limited. In many healthcare settings, laboratory testing to determine which antibiotics are effective can take 48–72 hours. During this time, patients are often treated with broad-spectrum antibiotics without knowing whether they will work. This can lead to unnecessary antibiotic use, higher treatment costs, and the development of further resistance. This study explored whether routinely collected AMR surveillance data can be used to predict antibiotic effectiveness. Using data from the Pfizer ATLAS surveillance program, we developed computer-based models that estimate the likelihood that a specific antibiotic will be effective against a bacterial infection. These predictions are based on factors such as the type of bacteria, geographic location, and sample source. We also developed a rule-based tool that interprets laboratory measurements into standard susceptibility categories and an interactive dashboard that allows users to explore resistance trends and model predictions in a user-friendly way. The results show that surveillance data can be used to generate meaningful predictions about antibiotic effectiveness, even without advanced laboratory or genomic data. These tools could support earlier and more informed treatment decisions, improve antibiotic use, and strengthen monitoring of resistance patterns. However, the accuracy of these predictions depends on the quality and completeness of available data, and further validation is needed before routine clinical use. Overall, this study demonstrates how existing surveillance data can be transformed into practical tools to support better use of antibiotics and help slow the spread of antimicrobial resistance, particularly in resource-limited settings.",
-    "authors": [
-      "Raphael Mutua",
-      "David Gichohi",
-      "Samuel K Ndegwa",
-      "Rahma O Golicha",
-      "Frida Njeru",
-      "Benson Kituku"
-    ],
-    "published": "2026",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42823942/",
-    "pdf_url": null,
-    "doi": "10.12688/wellcomeopenres.26477.2",
-    "citations": 0,
-    "venue": "Wellcome open research",
-    "open_access": false,
-    "ai_summary": "Antimicrobial resistance (AMR) is a growing global public health threat, particularly in low- and middle-income countries . We developed a surveillance-driven machine learning (ML) framework using isolate-level data from African sites ."
+    "ai_summary": "No abstract available."
   }
 ]
