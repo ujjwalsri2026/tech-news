@@ -124,22 +124,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.21825/ewopinpractice.94703",
-    "title": "Title Pending 94703",
-    "abstract": "",
-    "authors": [],
-    "published": "2035",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.21825/ewopinpractice.94703",
-    "pdf_url": null,
-    "doi": "10.21825/ewopinpractice.94703",
-    "citations": 0,
-    "venue": "EWOP in Practice",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
     "id": "crossref:10.21825/ewopinpractice.94702",
     "title": "Title Pending 94702",
     "abstract": "",
@@ -150,6 +134,22 @@
     "url": "https://doi.org/10.21825/ewopinpractice.94702",
     "pdf_url": null,
     "doi": "10.21825/ewopinpractice.94702",
+    "citations": 0,
+    "venue": "EWOP in Practice",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "crossref:10.21825/ewopinpractice.94703",
+    "title": "Title Pending 94703",
+    "abstract": "",
+    "authors": [],
+    "published": "2035",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.21825/ewopinpractice.94703",
+    "pdf_url": null,
+    "doi": "10.21825/ewopinpractice.94703",
     "citations": 0,
     "venue": "EWOP in Practice",
     "open_access": false,
@@ -188,6 +188,22 @@
     "ai_summary": "No abstract available."
   },
   {
+    "id": "crossref:10.3998/mjcsl.3643",
+    "title": "Title Pending 3643",
+    "abstract": "",
+    "authors": [],
+    "published": "2033",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.3998/mjcsl.3643",
+    "pdf_url": "https://doi.org/10.3998/mjcsl.3643",
+    "doi": "10.3998/mjcsl.3643",
+    "citations": 0,
+    "venue": "Michigan Journal of Community Service Learning",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
     "id": "crossref:10.3998/mjcsl.4120",
     "title": "Title Pending 4120",
     "abstract": "",
@@ -198,22 +214,6 @@
     "url": "https://doi.org/10.3998/mjcsl.4120",
     "pdf_url": null,
     "doi": "10.3998/mjcsl.4120",
-    "citations": 0,
-    "venue": "Michigan Journal of Community Service Learning",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "crossref:10.3998/mjcsl.3643",
-    "title": "Title Pending 3643",
-    "abstract": "",
-    "authors": [],
-    "published": "2033",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.3998/mjcsl.3643",
-    "pdf_url": null,
-    "doi": "10.3998/mjcsl.3643",
     "citations": 0,
     "venue": "Michigan Journal of Community Service Learning",
     "open_access": false,
@@ -479,6 +479,26 @@
     "ai_summary": "Kinovea is an accessible motion-analysis software . It provides both visual and quantitative feedback . However, its application in supporting technique development among beginner athletes remains insufficiently explored ."
   },
   {
+    "id": "crossref:10.5705/ss.202025.0406",
+    "title": "Distributed Learning of Single Index Model with Differential Privacy and Massive Data",
+    "abstract": "",
+    "authors": [
+      "Fode Zhang",
+      "Lingrui Wang",
+      "Hua Liang"
+    ],
+    "published": "2029",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.5705/ss.202025.0406",
+    "pdf_url": null,
+    "doi": "10.5705/ss.202025.0406",
+    "citations": 0,
+    "venue": "Statistica Sinica",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
     "id": "crossref:10.5705/ss.202025.0275",
     "title": "Efficient Learning of Sparse Differential Networks in Multi-Source Non-Paranormal Models",
     "abstract": "",
@@ -498,20 +518,21 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.5705/ss.202025.0406",
-    "title": "Distributed Learning of Single Index Model with Differential Privacy and Massive Data",
+    "id": "crossref:10.5705/ss.202025.0314",
+    "title": "Transfer Learning for High-dimensional Regression with Compositional Covariates: Application to Microbiome Studies",
     "abstract": "",
     "authors": [
-      "Fode Zhang",
-      "Lingrui Wang",
-      "Hua Liang"
+      "Qinqin Hu",
+      "Xiaojing Luo",
+      "Chencheng Ma",
+      "Wang Zhou"
     ],
     "published": "2029",
     "source": "Crossref",
     "category": "index",
-    "url": "https://doi.org/10.5705/ss.202025.0406",
+    "url": "https://doi.org/10.5705/ss.202025.0314",
     "pdf_url": null,
-    "doi": "10.5705/ss.202025.0406",
+    "doi": "10.5705/ss.202025.0314",
     "citations": 0,
     "venue": "Statistica Sinica",
     "open_access": false,
@@ -575,27 +596,6 @@
     "url": "https://doi.org/10.5705/ss.202025.0457",
     "pdf_url": null,
     "doi": "10.5705/ss.202025.0457",
-    "citations": 0,
-    "venue": "Statistica Sinica",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "crossref:10.5705/ss.202025.0314",
-    "title": "Transfer Learning for High-dimensional Regression with Compositional Covariates: Application to Microbiome Studies",
-    "abstract": "",
-    "authors": [
-      "Qinqin Hu",
-      "Xiaojing Luo",
-      "Chencheng Ma",
-      "Wang Zhou"
-    ],
-    "published": "2029",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.5705/ss.202025.0314",
-    "pdf_url": null,
-    "doi": "10.5705/ss.202025.0314",
     "citations": 0,
     "venue": "Statistica Sinica",
     "open_access": false,
@@ -758,6 +758,25 @@
     "ai_summary": "No abstract available."
   },
   {
+    "id": "crossref:10.1504/ijmlo.2028.10080498",
+    "title": "Design and evaluation of AI-Driven personalised learning applications: a systematic review",
+    "abstract": "",
+    "authors": [
+      "Jashnil Kumar",
+      "Bimal Aklesh Kumar"
+    ],
+    "published": "2028",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.1504/ijmlo.2028.10080498",
+    "pdf_url": null,
+    "doi": "10.1504/ijmlo.2028.10080498",
+    "citations": 0,
+    "venue": "International Journal of Mobile Learning and Organisation",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
     "id": "crossref:10.1504/ijil.2028.10079816",
     "title": "Inserting science: an interdisciplinary, hands-on lesson to enhance scientific literacy in marketing education",
     "abstract": "",
@@ -774,25 +793,6 @@
     "doi": "10.1504/ijil.2028.10079816",
     "citations": 0,
     "venue": "International Journal of Innovation and Learning",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "crossref:10.1504/ijmlo.2028.10080498",
-    "title": "Design and evaluation of AI-Driven personalised learning applications: a systematic review",
-    "abstract": "",
-    "authors": [
-      "Jashnil Kumar",
-      "Bimal Aklesh Kumar"
-    ],
-    "published": "2028",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.1504/ijmlo.2028.10080498",
-    "pdf_url": null,
-    "doi": "10.1504/ijmlo.2028.10080498",
-    "citations": 0,
-    "venue": "International Journal of Mobile Learning and Organisation",
     "open_access": false,
     "ai_summary": "No abstract available."
   },
@@ -1015,26 +1015,6 @@
     "ai_summary": "Study aimed to develop and internally validate an artificial intelligence-based Ensemble Scoring System (ESS) for AS diagnosis and hip-disease severity assessment and to explore its association with heterogeneous immune-cell infiltration ."
   },
   {
-    "id": "pubmed:42827388",
-    "title": "Problems With GO Enrichment as an Endpoint for Ecological Omics Interpretation.",
-    "abstract": "Gene Ontology (GO) enrichment analysis has been widely adopted for interpretating omics data, including in ecological research. Although valuable for summarizing large gene lists into functional categories, it is often treated as the final interpretive step. In ecological omics, where functional annotations are frequently incomplete and experimental validation is often difficult, this reliance can lead to repetitive, generic conclusions that lack environmental and mechanistic specificity. Although previous literature has addressed the statistical and annotation-related limitations of GO enrichment, its role in shaping the broader interpretive process has received less critical attention. Here, we highlight a conceptual weakness: the treatment of enriched GO terms as definitive biological insight. We focus particularly on ecological studies of non-model organisms in complex, and heterogeneous environments. We discuss complementary strategies, including co-expression network analysis, integration with environmental metadata, phylogenetically informed annotation, and AI-assisted functional inference. To promote more context-sensitive interpretation, we introduce the concept of GO-Deep, which frames GO enrichment as a starting point for integrative, multilayered functional insight. By reframing GO enrichment as an entry point rather than a conclusion, ecological omics can move toward more mechanistically informative and environmentally grounded interpretations of high-throughput data.",
-    "authors": [
-      "Ehsan Pashay Ahi",
-      "Nidal Karagic",
-      "Spiros Papakostas"
-    ],
-    "published": "2026-Oct",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42827388/",
-    "pdf_url": null,
-    "doi": "10.1111/mec.70570",
-    "citations": 0,
-    "venue": "Molecular ecology",
-    "open_access": false,
-    "ai_summary": "Gene Ontology (GO) enrichment analysis has been widely adopted for interpretating omics data . It is often treated as the final interpretive step in ecological omics . We focus particularly on ecological studies of non-model organisms in complex, and heterogeneous environments ."
-  },
-  {
     "id": "pubmed:42827386",
     "title": "A Multi-Scale Computational Framework for Anti-Persister Tuberculosis Drug Discovery.",
     "abstract": "Latent tuberculosis (TB), caused by dormant, non-replicating Mycobacterium tuberculosis (Mtb), afflicts an estimated 1.7 billion individuals globally and remains a principal barrier to TB eradication. Dormant bacilli are phenotypically tolerant to conventional antibiotics and survive through continued dependence on oxidative phosphorylation (OXPHOS) and the electron transport chain (ETC), making bioenergetic enzymes, including the F1Fo-ATP synthase, cytochrome bcc:aa3 supercomplex, Type II NADH dehydrogenase (NDH-2) and cytochrome bd oxidase, compelling drug targets. This review proposes and rigorously analyses a synergistic, multi-scale computational workflow as a uniquely powerful paradigm for discovering anti-persister agents. The workflow cascades across four integrated stages: (1) dormancy-specific Quantitative Structure-Activity Relationship (QSAR) modelling using hypoxic assay data, with predictive models achieving R",
@@ -1057,6 +1037,26 @@
     "venue": "Chemical biology & drug design",
     "open_access": false,
     "ai_summary": "Latent tuberculosis (TB) afflicts an estimated 1.7 billion people globally and remains a principal barrier to TB eradication . Dormant bacilli are phenotypically tolerant to conventional antibiotics and survive through continued dependence on oxidative phosphorylation (OXPHOS) and the electron transport chain ."
+  },
+  {
+    "id": "pubmed:42827388",
+    "title": "Problems With GO Enrichment as an Endpoint for Ecological Omics Interpretation.",
+    "abstract": "Gene Ontology (GO) enrichment analysis has been widely adopted for interpretating omics data, including in ecological research. Although valuable for summarizing large gene lists into functional categories, it is often treated as the final interpretive step. In ecological omics, where functional annotations are frequently incomplete and experimental validation is often difficult, this reliance can lead to repetitive, generic conclusions that lack environmental and mechanistic specificity. Although previous literature has addressed the statistical and annotation-related limitations of GO enrichment, its role in shaping the broader interpretive process has received less critical attention. Here, we highlight a conceptual weakness: the treatment of enriched GO terms as definitive biological insight. We focus particularly on ecological studies of non-model organisms in complex, and heterogeneous environments. We discuss complementary strategies, including co-expression network analysis, integration with environmental metadata, phylogenetically informed annotation, and AI-assisted functional inference. To promote more context-sensitive interpretation, we introduce the concept of GO-Deep, which frames GO enrichment as a starting point for integrative, multilayered functional insight. By reframing GO enrichment as an entry point rather than a conclusion, ecological omics can move toward more mechanistically informative and environmentally grounded interpretations of high-throughput data.",
+    "authors": [
+      "Ehsan Pashay Ahi",
+      "Nidal Karagic",
+      "Spiros Papakostas"
+    ],
+    "published": "2026-Oct",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42827388/",
+    "pdf_url": null,
+    "doi": "10.1111/mec.70570",
+    "citations": 0,
+    "venue": "Molecular ecology",
+    "open_access": false,
+    "ai_summary": "Gene Ontology (GO) enrichment analysis has been widely adopted for interpretating omics data . It is often treated as the final interpretive step in ecological omics . We focus particularly on ecological studies of non-model organisms in complex, and heterogeneous environments ."
   },
   {
     "id": "openalex:W7118720654",
@@ -1617,25 +1617,69 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "arxiv:2610.02206v1",
-    "title": "KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards",
-    "abstract": "LLMs are increasingly applied to cybersecurity workflows, where they are expected to translate analysts' intent into tool invocations. However, existing evaluations focus on knowledge-based assessments or end-to-end agentic tasks, and do not directly measure LLMs' ability to generate executable commands for real-world cybersecurity tools. This gap is critical because cybersecurity operations rely on strict command-line interfaces (CLIs), where minor syntax errors, incorrect flag--value bindings, or argument misordering can invalidate execution. We introduce KaliBench, a fine-grained benchmark and dataset for natural-language--to--CLI translation on Kali Linux, comprising 8,504 query--command pairs spanning 1,642 tools across 23 capability dimensions and 5 security phases. KaliBench is constructed via a manuscript-grounded pipeline with deterministic canonicalization and alias-aware evaluation, enabling precise and reproducible assessment of tool selection and argument construction. To ensure both semantic correctness and practical executability, we develop a multi-stage verification pipeline that combines LLM-based validation, sandboxed terminal execution, and human-in-the-loop refinement. Building on these fine-grained, deterministic signals, KaliBench further enables runtime-free verifiable rewards for training. Across three evaluation modes and 24 configurations of general-purpose and security-focused open-weight models, no open-weight model exceeds 42% exact-command accuracy in the unrestricted setting, highlighting the difficulty of accurate CLI-based cybersecurity tool use without explicit tool hints. We further show that supervised fine-tuning and reinforcement learning with verifiable rewards derived from KaliBench significantly improve an 8B model and achieve performance comparable to a 685B MoE model.",
+    "id": "arxiv:2610.02205v1",
+    "title": "ROWBench: Do Video Models Render What the Program Specifies?",
+    "abstract": "Programmable world models separate executable dynamics from visual generation, offering a promising foundation for next-generation game engines. However, their visual adherence to explicit rules and interactions remains insufficiently evaluated. Existing benchmarks assess visual quality, controllability, and instruction or physical adherence, but rarely test fidelity to fine-grained, program-specified world events. We introduce PROWBench, comprising 170 programmatically constructed episodes and 600 proxy videos covering diverse scenes and interactions. PROWBench logs entity states and timestamped events, including those outside the camera's field of view, as replayable world records, from which it renders synchronized views and proxy representations. This enables generated videos to be checked against the observable consequences of program execution. An extensible framework constructs scenes, controls behaviors, and can render each camera view in different representations, such as coarse 3D, and bounding boxes. The benchmark covers first- and third-person perspectives, with synchronized multi-view observations available for a subset of episodes. Grounded in these records, PROWBench evaluates entity control, long-horizon memory, and, with two VLM-based metrics, Logic-Render Alignment and Interaction Success Rate, adherence to the prescribed timeline and the visual realization of timestamped engine-recorded events.",
     "authors": [
-      "Pengfei Li",
-      "Naufal Suryanto",
-      "Sicheng Zhang",
-      "Muzammal Naseer"
+      "Zheng-Hui Huang",
+      "Guixu Lin",
+      "Yu-Ju Tsai",
+      "Jian-Kai Zhu",
+      "Fengbo Lan",
+      "Yu-Lun Liu",
+      "Yung-Yu Chuang",
+      "Kaipeng Zhang",
+      "Zhixiang Wang"
     ],
     "published": "2026-10-01",
     "source": "arXiv",
     "category": "preprint",
-    "url": "https://arxiv.org/abs/2610.02206v1",
-    "pdf_url": "https://arxiv.org/pdf/2610.02206v1",
+    "url": "https://arxiv.org/abs/2610.02205v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.02205v1",
     "doi": null,
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "LLMs are increasingly applied to cybersecurity workflows, where they are expected to translate analysts' intent into tool invocations . But existing evaluations focus on knowledge-based assessments or end-to-end agentic tasks ."
+    "ai_summary": "Programmable world models separate executable dynamics from visual generation . PROWBench logs events as replayable world records, from which it renders synchronized views and proxy representations ."
+  },
+  {
+    "id": "arxiv:2610.02207v1",
+    "title": "One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars",
+    "abstract": "3D Gaussian avatars support fast rendering, however, their real-time animation is often challenged by the costly neural inference. We address this bottleneck and show that the animation of pretrained avatar models can be closely approximated by a linear combination of identity-independent blendshapes. Building on this finding, we introduce GALA (Gaussian Animation via Linear Approximation), a distillation method that replaces per-frame heavy neural decoding with a shallow coefficient predictor and a linear blend. To improve fidelity and reduce memory requirements, we propose to construct the basis using block-local PCA under a rendering-aware metric and a memory budget. Our method learns a shallow MLP network to predict blendshape coefficients and applies to various animation architectures without retraining original models. We validate GALA by accelerating the inference of three distinct avatar models for 3D animation of facial expressions and full-bodies with clothing dynamics. Across these models, our distillation generalizes to held-out identities and reduces CPU animation cost by up to three orders of magnitude while preserving most of the rendering quality. Excellent results of our method confirm the shared linear structure of learned avatar representations and enable highly efficient and accurate animation at frame rates reaching up to 60fps on mobile devices. Project page: https://ramazan793.github.io/gala/",
+    "authors": [
+      "Ramazan Fazylov",
+      "Stamatis Lefkimmiatis",
+      "Ivan Laptev"
+    ],
+    "published": "2026-10-01",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2610.02207v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.02207v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "3D Gaussian avatars support fast rendering, but their real-time animation is often challenged by the costly neural inference . We introduce GALA (Gaussian Animation via Linear Approximation), a distillation method that replaces per-frame heavy neural decoding with a shallow coefficient predictor and a linear blend ."
+  },
+  {
+    "id": "arxiv:2610.02210v1",
+    "title": "Moore, Escher, Penrose: A Conformal Golden Braid",
+    "abstract": "I don't think I have ever done anything as peculiar in my life. Among other things, it shows a young man looking with interest at a print on the wall of an exhibition that features himself. How can this be? Perhaps I am not far removed from Einstein's curved universe.'' So wrote M.C. Escher about his 1956 lithograph Print Gallery. Nearly half a century later, a mathematical analysis related its geometry to an untwisted source image through a conformal power map $z \\mapsto z^α$, $α\\in \\mathbb{C}$. Building on this construction, we use a frozen text-to-image diffusion model to generate new self-referential scenes. Prompting alone does not enforce the recursion, while a post-hoc transformation can leave structures poorly connected. Applying the transformation during sampling is also insufficient: the denoiser may \"repair\" the intended distortion or drift out of the prescribed geometry. We construct a generalized inverse $T^\\dagger$ of the non-invertible image transformation $T$, adapted to its recursive constraint. In the idealized formulation, the Penrose identity $TT^\\dagger T = T$ makes $TT^\\dagger$ an idempotent projection onto geometrically admissible images. Yet denoising only the transformed image remains an out-of-distribution task, even with projection. We therefore braid denoising steps with $T$ and $T^\\dagger$: source-space steps develop the untwisted scene, while transformed-space steps refine its appearance and connections in the final geometry. We generate Print Gallery-like compositions and explore further transformations. Rather than distorting a finished image, we let the scene and its distortion develop together.",
+    "authors": [
+      "Sophia Feldman",
+      "Assaf Shocher"
+    ],
+    "published": "2026-10-01",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2610.02210v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.02210v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "M.C. Escher wrote about his 1956 lithograph Print Gallery . A mathematical analysis related its geometry to an untwisted source image through a conformal power map ."
   },
   {
     "id": "arxiv:2610.02208v1",
@@ -1659,26 +1703,6 @@
     "venue": "arXiv preprint",
     "open_access": true,
     "ai_summary": "Sphere Encoder is an autoencoder that generates images by decoding random points from a high-dimensional latent sphere . We present Sphere Encoder 2 to address both limitations of the original formulation and improve image generation quality ."
-  },
-  {
-    "id": "arxiv:2610.02207v1",
-    "title": "One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars",
-    "abstract": "3D Gaussian avatars support fast rendering, however, their real-time animation is often challenged by the costly neural inference. We address this bottleneck and show that the animation of pretrained avatar models can be closely approximated by a linear combination of identity-independent blendshapes. Building on this finding, we introduce GALA (Gaussian Animation via Linear Approximation), a distillation method that replaces per-frame heavy neural decoding with a shallow coefficient predictor and a linear blend. To improve fidelity and reduce memory requirements, we propose to construct the basis using block-local PCA under a rendering-aware metric and a memory budget. Our method learns a shallow MLP network to predict blendshape coefficients and applies to various animation architectures without retraining original models. We validate GALA by accelerating the inference of three distinct avatar models for 3D animation of facial expressions and full-bodies with clothing dynamics. Across these models, our distillation generalizes to held-out identities and reduces CPU animation cost by up to three orders of magnitude while preserving most of the rendering quality. Excellent results of our method confirm the shared linear structure of learned avatar representations and enable highly efficient and accurate animation at frame rates reaching up to 60fps on mobile devices. Project page: https://ramazan793.github.io/gala/",
-    "authors": [
-      "Ramazan Fazylov",
-      "Stamatis Lefkimmiatis",
-      "Ivan Laptev"
-    ],
-    "published": "2026-10-01",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2610.02207v1",
-    "pdf_url": "https://arxiv.org/pdf/2610.02207v1",
-    "doi": null,
-    "citations": 0,
-    "venue": "arXiv preprint",
-    "open_access": true,
-    "ai_summary": "3D Gaussian avatars support fast rendering, but their real-time animation is often challenged by the costly neural inference . We introduce GALA (Gaussian Animation via Linear Approximation), a distillation method that replaces per-frame heavy neural decoding with a shallow coefficient predictor and a linear blend ."
   },
   {
     "id": "arxiv:2610.02204v1",
@@ -1708,49 +1732,25 @@
     "ai_summary": "Reconstruct, Practice, Go Real (RPG) is a framework for autonomous improvement of robot execution systems without updating model weights . RPG identifies manipulation capabilities in an offline dataset and constructs related practice tasks in simulation . It develops new reusable symbolic skills, refines existing skills, and revises the system prompt based on these diagnoses ."
   },
   {
-    "id": "arxiv:2610.02205v1",
-    "title": "ROWBench: Do Video Models Render What the Program Specifies?",
-    "abstract": "Programmable world models separate executable dynamics from visual generation, offering a promising foundation for next-generation game engines. However, their visual adherence to explicit rules and interactions remains insufficiently evaluated. Existing benchmarks assess visual quality, controllability, and instruction or physical adherence, but rarely test fidelity to fine-grained, program-specified world events. We introduce PROWBench, comprising 170 programmatically constructed episodes and 600 proxy videos covering diverse scenes and interactions. PROWBench logs entity states and timestamped events, including those outside the camera's field of view, as replayable world records, from which it renders synchronized views and proxy representations. This enables generated videos to be checked against the observable consequences of program execution. An extensible framework constructs scenes, controls behaviors, and can render each camera view in different representations, such as coarse 3D, and bounding boxes. The benchmark covers first- and third-person perspectives, with synchronized multi-view observations available for a subset of episodes. Grounded in these records, PROWBench evaluates entity control, long-horizon memory, and, with two VLM-based metrics, Logic-Render Alignment and Interaction Success Rate, adherence to the prescribed timeline and the visual realization of timestamped engine-recorded events.",
+    "id": "arxiv:2610.02206v1",
+    "title": "KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards",
+    "abstract": "LLMs are increasingly applied to cybersecurity workflows, where they are expected to translate analysts' intent into tool invocations. However, existing evaluations focus on knowledge-based assessments or end-to-end agentic tasks, and do not directly measure LLMs' ability to generate executable commands for real-world cybersecurity tools. This gap is critical because cybersecurity operations rely on strict command-line interfaces (CLIs), where minor syntax errors, incorrect flag--value bindings, or argument misordering can invalidate execution. We introduce KaliBench, a fine-grained benchmark and dataset for natural-language--to--CLI translation on Kali Linux, comprising 8,504 query--command pairs spanning 1,642 tools across 23 capability dimensions and 5 security phases. KaliBench is constructed via a manuscript-grounded pipeline with deterministic canonicalization and alias-aware evaluation, enabling precise and reproducible assessment of tool selection and argument construction. To ensure both semantic correctness and practical executability, we develop a multi-stage verification pipeline that combines LLM-based validation, sandboxed terminal execution, and human-in-the-loop refinement. Building on these fine-grained, deterministic signals, KaliBench further enables runtime-free verifiable rewards for training. Across three evaluation modes and 24 configurations of general-purpose and security-focused open-weight models, no open-weight model exceeds 42% exact-command accuracy in the unrestricted setting, highlighting the difficulty of accurate CLI-based cybersecurity tool use without explicit tool hints. We further show that supervised fine-tuning and reinforcement learning with verifiable rewards derived from KaliBench significantly improve an 8B model and achieve performance comparable to a 685B MoE model.",
     "authors": [
-      "Zheng-Hui Huang",
-      "Guixu Lin",
-      "Yu-Ju Tsai",
-      "Jian-Kai Zhu",
-      "Fengbo Lan",
-      "Yu-Lun Liu",
-      "Yung-Yu Chuang",
-      "Kaipeng Zhang",
-      "Zhixiang Wang"
+      "Pengfei Li",
+      "Naufal Suryanto",
+      "Sicheng Zhang",
+      "Muzammal Naseer"
     ],
     "published": "2026-10-01",
     "source": "arXiv",
     "category": "preprint",
-    "url": "https://arxiv.org/abs/2610.02205v1",
-    "pdf_url": "https://arxiv.org/pdf/2610.02205v1",
+    "url": "https://arxiv.org/abs/2610.02206v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.02206v1",
     "doi": null,
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "Programmable world models separate executable dynamics from visual generation . PROWBench logs events as replayable world records, from which it renders synchronized views and proxy representations ."
-  },
-  {
-    "id": "arxiv:2610.02210v1",
-    "title": "Moore, Escher, Penrose: A Conformal Golden Braid",
-    "abstract": "I don't think I have ever done anything as peculiar in my life. Among other things, it shows a young man looking with interest at a print on the wall of an exhibition that features himself. How can this be? Perhaps I am not far removed from Einstein's curved universe.'' So wrote M.C. Escher about his 1956 lithograph Print Gallery. Nearly half a century later, a mathematical analysis related its geometry to an untwisted source image through a conformal power map $z \\mapsto z^α$, $α\\in \\mathbb{C}$. Building on this construction, we use a frozen text-to-image diffusion model to generate new self-referential scenes. Prompting alone does not enforce the recursion, while a post-hoc transformation can leave structures poorly connected. Applying the transformation during sampling is also insufficient: the denoiser may \"repair\" the intended distortion or drift out of the prescribed geometry. We construct a generalized inverse $T^\\dagger$ of the non-invertible image transformation $T$, adapted to its recursive constraint. In the idealized formulation, the Penrose identity $TT^\\dagger T = T$ makes $TT^\\dagger$ an idempotent projection onto geometrically admissible images. Yet denoising only the transformed image remains an out-of-distribution task, even with projection. We therefore braid denoising steps with $T$ and $T^\\dagger$: source-space steps develop the untwisted scene, while transformed-space steps refine its appearance and connections in the final geometry. We generate Print Gallery-like compositions and explore further transformations. Rather than distorting a finished image, we let the scene and its distortion develop together.",
-    "authors": [
-      "Sophia Feldman",
-      "Assaf Shocher"
-    ],
-    "published": "2026-10-01",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2610.02210v1",
-    "pdf_url": "https://arxiv.org/pdf/2610.02210v1",
-    "doi": null,
-    "citations": 0,
-    "venue": "arXiv preprint",
-    "open_access": true,
-    "ai_summary": "M.C. Escher wrote about his 1956 lithograph Print Gallery . A mathematical analysis related its geometry to an untwisted source image through a conformal power map ."
+    "ai_summary": "LLMs are increasingly applied to cybersecurity workflows, where they are expected to translate analysts' intent into tool invocations . But existing evaluations focus on knowledge-based assessments or end-to-end agentic tasks ."
   },
   {
     "id": "arxiv:2610.02203v1",
@@ -2862,11 +2862,11 @@
     "source": "PubMed",
     "category": "journal",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42827437/",
-    "pdf_url": null,
+    "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13626958/pdf/",
     "doi": "10.1038/s44294-026-00156-5",
     "citations": 0,
     "venue": "npj women's health",
-    "open_access": false,
+    "open_access": true,
     "ai_summary": "Reducing sedentary behavior through personalized digital interventions holds particular promise for individuals with chronic pelvic pain disorders (CPPDs) We present a self-contained, missing data-resilient framework for real-time forecasting of a physical activity score (PAS) using wearable Fitbit data from 134 females with CPPDs ."
   },
   {
@@ -2882,11 +2882,11 @@
     "source": "PubMed",
     "category": "journal",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42827419/",
-    "pdf_url": null,
+    "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13627943/pdf/",
     "doi": "10.12688/hrbopenres.14515.2",
     "citations": 0,
     "venue": "HRB open research",
-    "open_access": false,
+    "open_access": true,
     "ai_summary": "More than 70% of women experience musculoskeletal (MSK) pain during the menopausal transition . This symptom cluster was recently characterised as the musculokeletal syndrome of menopause . These symptoms are frequently normalised as a consequence of ageing rather than recognised as treatable ."
   }
 ]
