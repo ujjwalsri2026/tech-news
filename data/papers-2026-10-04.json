@@ -84,11 +84,11 @@
     "source": "Crossref",
     "category": "index",
     "url": "https://doi.org/10.38159/jelt.20267710",
-    "pdf_url": null,
+    "pdf_url": "https://doi.org/10.38159/jelt.20267710",
     "doi": "10.38159/jelt.20267710",
     "citations": 0,
     "venue": "Journal of Education and Learning Technology",
-    "open_access": false,
+    "open_access": true,
     "ai_summary": "Teaching learners with special educational needs requires dynamic and adaptive pedagogical strategies . This can be possible if teachers are assisted in mitigating the daily challenges of teaching such learners ."
   },
   {
@@ -100,11 +100,11 @@
     "source": "Crossref",
     "category": "index",
     "url": "https://doi.org/10.3998/mjcsl.11105",
-    "pdf_url": "https://doi.org/10.3998/mjcsl.11105",
+    "pdf_url": null,
     "doi": "10.3998/mjcsl.11105",
     "citations": 0,
     "venue": "Michigan Journal of Community Service Learning",
-    "open_access": true,
+    "open_access": false,
     "ai_summary": "No abstract available."
   },
   {
@@ -156,22 +156,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.3998/mjcsl.5730",
-    "title": "Title Pending 5730",
-    "abstract": "",
-    "authors": [],
-    "published": "2034",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.3998/mjcsl.5730",
-    "pdf_url": null,
-    "doi": "10.3998/mjcsl.5730",
-    "citations": 0,
-    "venue": "Michigan Journal of Community Service Learning",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
     "id": "crossref:10.3998/mjcsl.6294",
     "title": "Title Pending 6294",
     "abstract": "",
@@ -182,6 +166,22 @@
     "url": "https://doi.org/10.3998/mjcsl.6294",
     "pdf_url": null,
     "doi": "10.3998/mjcsl.6294",
+    "citations": 0,
+    "venue": "Michigan Journal of Community Service Learning",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "crossref:10.3998/mjcsl.5730",
+    "title": "Title Pending 5730",
+    "abstract": "",
+    "authors": [],
+    "published": "2034",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.3998/mjcsl.5730",
+    "pdf_url": null,
+    "doi": "10.3998/mjcsl.5730",
     "citations": 0,
     "venue": "Michigan Journal of Community Service Learning",
     "open_access": false,
@@ -228,11 +228,11 @@
     "source": "Crossref",
     "category": "index",
     "url": "https://doi.org/10.3998/mjcsl.2741",
-    "pdf_url": null,
+    "pdf_url": "https://doi.org/10.3998/mjcsl.2741",
     "doi": "10.3998/mjcsl.2741",
     "citations": 0,
     "venue": "Michigan Journal of Community Service Learning",
-    "open_access": false,
+    "open_access": true,
     "ai_summary": "No abstract available."
   },
   {
@@ -479,19 +479,21 @@
     "ai_summary": "Kinovea is an accessible motion-analysis software . It provides both visual and quantitative feedback . However, its application in supporting technique development among beginner athletes remains insufficiently explored ."
   },
   {
-    "id": "crossref:10.5705/ss.202025.0275",
-    "title": "Efficient Learning of Sparse Differential Networks in Multi-Source Non-Paranormal Models",
+    "id": "crossref:10.5705/ss.202025.0314",
+    "title": "Transfer Learning for High-dimensional Regression with Compositional Covariates: Application to Microbiome Studies",
     "abstract": "",
     "authors": [
-      "Mojtaba Nikahd",
-      "Seyed Abolfazl Motahari"
+      "Qinqin Hu",
+      "Xiaojing Luo",
+      "Chencheng Ma",
+      "Wang Zhou"
     ],
     "published": "2029",
     "source": "Crossref",
     "category": "index",
-    "url": "https://doi.org/10.5705/ss.202025.0275",
+    "url": "https://doi.org/10.5705/ss.202025.0314",
     "pdf_url": null,
-    "doi": "10.5705/ss.202025.0275",
+    "doi": "10.5705/ss.202025.0314",
     "citations": 0,
     "venue": "Statistica Sinica",
     "open_access": false,
@@ -510,29 +512,27 @@
     "source": "Crossref",
     "category": "index",
     "url": "https://doi.org/10.5705/ss.202025.0406",
-    "pdf_url": null,
+    "pdf_url": "https://doi.org/10.5705/ss.202025.0406",
     "doi": "10.5705/ss.202025.0406",
     "citations": 0,
     "venue": "Statistica Sinica",
-    "open_access": false,
+    "open_access": true,
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.5705/ss.202025.0314",
-    "title": "Transfer Learning for High-dimensional Regression with Compositional Covariates: Application to Microbiome Studies",
+    "id": "crossref:10.5705/ss.202025.0275",
+    "title": "Efficient Learning of Sparse Differential Networks in Multi-Source Non-Paranormal Models",
     "abstract": "",
     "authors": [
-      "Qinqin Hu",
-      "Xiaojing Luo",
-      "Chencheng Ma",
-      "Wang Zhou"
+      "Mojtaba Nikahd",
+      "Seyed Abolfazl Motahari"
     ],
     "published": "2029",
     "source": "Crossref",
     "category": "index",
-    "url": "https://doi.org/10.5705/ss.202025.0314",
+    "url": "https://doi.org/10.5705/ss.202025.0275",
     "pdf_url": null,
-    "doi": "10.5705/ss.202025.0314",
+    "doi": "10.5705/ss.202025.0275",
     "citations": 0,
     "venue": "Statistica Sinica",
     "open_access": false,
@@ -715,27 +715,6 @@
     "ai_summary": "Research paper will debate role played by principals in teaching and learning process . Research will embrace a quantitative research design that will seek to answer the question about the relationship between leadership skills of principals and teaching-learning process ."
   },
   {
-    "id": "crossref:10.1504/ijims.2028.10076630",
-    "title": "Left Ventricle Extraction Using a DENSENET-U-Net Integrated Deep Learning Approach",
-    "abstract": "",
-    "authors": [
-      "X. Ignatious Viola",
-      "R. Shoba Rani",
-      "G. Savitha",
-      "R. Surekha"
-    ],
-    "published": "2028",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.1504/ijims.2028.10076630",
-    "pdf_url": null,
-    "doi": "10.1504/ijims.2028.10076630",
-    "citations": 0,
-    "venue": "International Journal of Internet Manufacturing and Services",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
     "id": "crossref:10.1504/ijims.2028.10081208",
     "title": "Enhancements to the Deep Learning Architecture for Metaverse Integration in Medical Image Processing",
     "abstract": "",
@@ -752,6 +731,27 @@
     "url": "https://doi.org/10.1504/ijims.2028.10081208",
     "pdf_url": null,
     "doi": "10.1504/ijims.2028.10081208",
+    "citations": 0,
+    "venue": "International Journal of Internet Manufacturing and Services",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "crossref:10.1504/ijims.2028.10076630",
+    "title": "Left Ventricle Extraction Using a DENSENET-U-Net Integrated Deep Learning Approach",
+    "abstract": "",
+    "authors": [
+      "X. Ignatious Viola",
+      "R. Shoba Rani",
+      "G. Savitha",
+      "R. Surekha"
+    ],
+    "published": "2028",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.1504/ijims.2028.10076630",
+    "pdf_url": null,
+    "doi": "10.1504/ijims.2028.10076630",
     "citations": 0,
     "venue": "International Journal of Internet Manufacturing and Services",
     "open_access": false,
@@ -953,6 +953,134 @@
     "venue": "PubMed",
     "open_access": false,
     "ai_summary": "No abstract available."
+  },
+  {
+    "id": "pubmed:42829870",
+    "title": "Nanocomposite-Enhanced Iontronic Tactile Sensor With High Sensitivity and Wide-Range Linearity for Underwater Robotic Manipulation.",
+    "abstract": "Hydrostatic preload increases response nonlinearity and limits weak-force detection in underwater tactile sensing. Here, we present a nanocomposite-enhanced iontronic tactile sensor (NeITS) that combines high sensitivity with wide-range linearity through a coupled mechano-ionic mechanism. Hydrophobic SiO",
+    "authors": [
+      "Junjie Weng",
+      "Xinhao Shu",
+      "Renfeng Gong",
+      "Yicheng Wang",
+      "Danping Zhang",
+      "Yuhao Zhu",
+      "Ziqiang Xiang",
+      "Peng Yang",
+      "Yong Zhang",
+      "Kehong Lv",
+      "Ying Liu",
+      "Guanjun Liu",
+      "Qingshan Wu"
+    ],
+    "published": "2026-Oct-04",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42829870/",
+    "pdf_url": null,
+    "doi": "10.1002/smll.76096",
+    "citations": 0,
+    "venue": "Small (Weinheim an der Bergstrasse, Germany)",
+    "open_access": false,
+    "ai_summary": "Hydrophobic SiO is a nanocomposite-enhanced iontronic tactile sensor . It combines high sensitivity with wide-range linearity through a coupled mechano-ionic mechanism ."
+  },
+  {
+    "id": "pubmed:42829869",
+    "title": "Selenium Vacancy-Enabled 2D Bi",
+    "abstract": "Neuromorphic visual computing aims to fuse sensing, memory, and processing into a single hardware stack, enabling reliable analog weight updates. Defect engineering in two-dimensional (2D) semiconductors is an effective strategy for achieving such synaptic functionality. However, in most 2D materials, the defects that confer plasticity also compromise lattice stability and degrade intrinsic performance. This work demonstrates that Bi",
+    "authors": [
+      "Fang Yang",
+      "Xin Ju",
+      "Zhaofu Cheng",
+      "Jiayi Li",
+      "Weifan Cai",
+      "Weiwei Zhao",
+      "Hong Kuan Ng",
+      "Mingxi Chen",
+      "Xian Yi Tan",
+      "Wenhui Wang",
+      "Shisheng Li",
+      "Yue Luo",
+      "Guoqiang Xu",
+      "Zhenhua Ni",
+      "Junpeng Lu",
+      "Dongzhi Chi",
+      "Hongwei Liu",
+      "Diing Shenp Ang",
+      "Jing Wu"
+    ],
+    "published": "2026-Oct-04",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42829869/",
+    "pdf_url": null,
+    "doi": "10.1002/smll.76058",
+    "citations": 0,
+    "venue": "Small (Weinheim an der Bergstrasse, Germany)",
+    "open_access": false,
+    "ai_summary": "The work demonstrates that Bi is working on a single hardware stack to fuse sensing, memory, and processing into a single computer stack . The work shows that Bi's work can be used to improve the quality of the computer ."
+  },
+  {
+    "id": "pubmed:42829862",
+    "title": "Mechanically Resilient Bioinspired Aerogels Enabled by Cross-Scale Interfacial Engineering for Multifunctional Wearable Electronics.",
+    "abstract": "Rapid advancement of wearable electronics, the Internet of Things, and artificial intelligence has generated a growing demand for flexible sensors capable of reliable and high-precision pressure monitoring under complex conditions. However, traditional piezoresistive sensors often suffer from sensitivity degradation and structural fatigue caused by moisture exposure and long-term cyclic loading. Here, we report a ternary composite aerogel-based piezoresistive sensor composed of tobacco stem-derived TEMPO-oxidized cellulose nanofibers (TTOCNFs), MXene, and polymethylsilsesquioxane (PMSQ) through cross-scale interfacial engineering. In this design, TTOCNFs form a flexible skeleton, MXene establishes an efficient conductive network, and PMSQ reinforces the framework while imparting hydrophobicity, mitigating moisture-induced performance degradation. An ice-templating strategy further constructs a honeycomb-like skeleton, enabling efficient stress distribution under mechanical deformation. Benefiting from these structural and interfacial synergies at different scales, the sensor exhibits high sensitivity (1612.8 kPa",
+    "authors": [
+      "Dezhong Xu",
+      "Chen Zhang",
+      "Shuangyang Li",
+      "Jian Mao",
+      "Weihua Zhang",
+      "Bi Shi"
+    ],
+    "published": "2026-Oct-04",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42829862/",
+    "pdf_url": null,
+    "doi": "10.1002/smll.76052",
+    "citations": 0,
+    "venue": "Small (Weinheim an der Bergstrasse, Germany)",
+    "open_access": false,
+    "ai_summary": "Traditional piezoresistive sensors often suffer from sensitivity degradation and structural fatigue . A ternary composite aerogel-based sensor is composed of tobacco stem-derived TEMPO-oxidized cellulose nanofibers (TTOCNFs) and MXene ."
+  },
+  {
+    "id": "pubmed:42829861",
+    "title": "Upcycling Disposable Mask Straps Into Asymmetric PEDOT:PSS-Based Triboelectric Nanogenerators Enabled by Saline-Induced Power Enhancement.",
+    "abstract": "This work demonstrates a sustainable upcycling strategy that transforms discarded mask straps into flexible direct-current triboelectric nanogenerators (DC-TENGs) through an eco-friendly NaCl-assisted modification. The PEDOT:PSS/PVA/Pullulan composite simultaneously serves as the electrode and triboelectric layer, enabling a simplified and metal-reduced fabrication. The saline treatment introduces Na",
+    "authors": [
+      "Min-Hsuan Lee"
+    ],
+    "published": "2026-Oct-04",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42829861/",
+    "pdf_url": null,
+    "doi": "10.1002/smll.76115",
+    "citations": 0,
+    "venue": "Small (Weinheim an der Bergstrasse, Germany)",
+    "open_access": false,
+    "ai_summary": "The PEDOT:PSS/PVA/Pullulan composite simultaneously serves as the electrode and triboelectric layer, enabling a simplified and metal-reduced fabrication ."
+  },
+  {
+    "id": "pubmed:42829848",
+    "title": "Atomic-Layer Materials for Energy Storage Systems.",
+    "abstract": "Atomic-layer materials (ALMs) provide a promising platform for electrochemical energy storage because their atomically thin structures and interfaces enable control over ion adsorption, charge transfer, diffusion pathways, and interfacial stability. In this review, ALMs include both intrinsic two-dimensional (2D) materials and atomic-layer-engineered functional coatings and interphases produced by atomic layer deposition (ALD), molecular layer deposition (MLD), or related approaches. This work connects atomic-scale design variables, including atomic-scale structural parameters, with device-level performance, degradation, and manufacturability. Their sustainability in batteries and supercapacitors (SCs) will be the main focus. Particular attention is given to how these variables regulate interfacial electrochemical phenomena, metal-ion deposition, and mechanical stability. Artificial intelligence (AI) and machine learning (ML) are discussed as ALM-specific tools for screening and optimizing ALD/MLD coating chemistry and deposition conditions. Although ALMs offer advantages in laboratory results, practical deployment remains limited by techno-economic bottlenecks or industrial scalability barriers for 2D material processing and device integration. Near-term commercialization is promising for high-leverage interfacial-modification functions in batteries and integrated micro-energy-storage devices. This review also provides a manufacturing framework for discussing the development of durable, scalable, and AI-enabled ALM-based energy-storage technologies.",
+    "authors": [
+      "Quoc Bao Le",
+      "Ashish Bhatnagar",
+      "Amit Kumar",
+      "Ram K Gupta"
+    ],
+    "published": "2026-Oct-04",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42829848/",
+    "pdf_url": null,
+    "doi": "10.1002/smll.76048",
+    "citations": 0,
+    "venue": "Small (Weinheim an der Bergstrasse, Germany)",
+    "open_access": false,
+    "ai_summary": "Atomic-layer materials (ALMs) provide a promising platform for electrochemical energy storage . They are atomically thin structures and interfaces enable control over ion adsorption, charge transfer, diffusion pathways, and interfacial stability ."
   },
   {
     "id": "openalex:W7118720654",
@@ -1489,29 +1617,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "arxiv:2610.02208v1",
-    "title": "Sphere Encoder 2",
-    "abstract": "Sphere Encoder is an autoencoder that generates images by decoding random points from a high-dimensional latent sphere. We identify two limitations of the original formulation that reduce its generation quality. First, random points concentrate near the equator relative to the pole on an encoded latent, but the training rotation never reaches this region, leaving a gap that limits one-step generation. Second, training for generation with pixel-wise reconstruction loss encourages the decoder to average over plausible images, producing blurry images that lack high-frequency details. We present Sphere Encoder 2 to address both limitations, substantially improving image generation quality while maintaining the speed and simplicity of a autoencoder. Models are released at \\href{https://github.com/kaiyuyue/sphere2}{github.com/kaiyuyue/sphere2}.",
-    "authors": [
-      "Kaiyu Yue",
-      "Sean McLeish",
-      "Ruchit Rawal",
-      "Brian Bartoldson",
-      "Menglin Jia",
-      "Tom Goldstein"
-    ],
-    "published": "2026-10-01",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2610.02208v1",
-    "pdf_url": "https://arxiv.org/pdf/2610.02208v1",
-    "doi": null,
-    "citations": 0,
-    "venue": "arXiv preprint",
-    "open_access": true,
-    "ai_summary": "Sphere Encoder is an autoencoder that generates images by decoding random points from a high-dimensional latent sphere . We present Sphere Encoder 2 to address both limitations of the original formulation and improve image generation quality ."
-  },
-  {
     "id": "arxiv:2610.02204v1",
     "title": "Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents",
     "abstract": "Building reliable robot capabilities across diverse tasks requires substantial human effort to develop and maintain skills, design rewards, and integrate perception with control. We present Reconstruct, Practice, Go Real (RPG), a framework for autonomous improvement of robot execution systems without updating model weights. RPG identifies manipulation capabilities in an offline dataset and constructs related practice tasks in simulation. During practice, RPG uses execution feedback, privileged simulator state, and available dataset videos to diagnose failures. It develops new reusable symbolic skills, refines existing skills, and revises the system prompt based on these diagnoses. Cross-task evaluation tests individual candidate changes and merged revisions before they are retained for reuse. At test time, a multimodal LLM uses the resulting system prompt and skill library to coordinate perception and robot control. On held-out initializations of 22 manipulation tasks, RPG improves task success from 28.6% after the first practice round to 95.0% after 15 rounds, outperforming all evaluated baselines, including ASPIRE (75.5%) and CaP-Agent0 powered by GPT-6 Astra Pro (60.0%). After a common calibration and hardware-adaptation procedure, the frozen system succeeds in all 30 physical trials, with ten trials on each of three tasks. Project Website: https://rpg-robot.github.io/",
@@ -1539,27 +1644,6 @@
     "ai_summary": "Reconstruct, Practice, Go Real (RPG) is a framework for autonomous improvement of robot execution systems without updating model weights . RPG identifies manipulation capabilities in an offline dataset and constructs related practice tasks in simulation . It develops new reusable symbolic skills, refines existing skills, and revises the system prompt based on these diagnoses ."
   },
   {
-    "id": "arxiv:2610.02206v1",
-    "title": "KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards",
-    "abstract": "LLMs are increasingly applied to cybersecurity workflows, where they are expected to translate analysts' intent into tool invocations. However, existing evaluations focus on knowledge-based assessments or end-to-end agentic tasks, and do not directly measure LLMs' ability to generate executable commands for real-world cybersecurity tools. This gap is critical because cybersecurity operations rely on strict command-line interfaces (CLIs), where minor syntax errors, incorrect flag--value bindings, or argument misordering can invalidate execution. We introduce KaliBench, a fine-grained benchmark and dataset for natural-language--to--CLI translation on Kali Linux, comprising 8,504 query--command pairs spanning 1,642 tools across 23 capability dimensions and 5 security phases. KaliBench is constructed via a manuscript-grounded pipeline with deterministic canonicalization and alias-aware evaluation, enabling precise and reproducible assessment of tool selection and argument construction. To ensure both semantic correctness and practical executability, we develop a multi-stage verification pipeline that combines LLM-based validation, sandboxed terminal execution, and human-in-the-loop refinement. Building on these fine-grained, deterministic signals, KaliBench further enables runtime-free verifiable rewards for training. Across three evaluation modes and 24 configurations of general-purpose and security-focused open-weight models, no open-weight model exceeds 42% exact-command accuracy in the unrestricted setting, highlighting the difficulty of accurate CLI-based cybersecurity tool use without explicit tool hints. We further show that supervised fine-tuning and reinforcement learning with verifiable rewards derived from KaliBench significantly improve an 8B model and achieve performance comparable to a 685B MoE model.",
-    "authors": [
-      "Pengfei Li",
-      "Naufal Suryanto",
-      "Sicheng Zhang",
-      "Muzammal Naseer"
-    ],
-    "published": "2026-10-01",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2610.02206v1",
-    "pdf_url": "https://arxiv.org/pdf/2610.02206v1",
-    "doi": null,
-    "citations": 0,
-    "venue": "arXiv preprint",
-    "open_access": true,
-    "ai_summary": "LLMs are increasingly applied to cybersecurity workflows, where they are expected to translate analysts' intent into tool invocations . But existing evaluations focus on knowledge-based assessments or end-to-end agentic tasks ."
-  },
-  {
     "id": "arxiv:2610.02207v1",
     "title": "One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars",
     "abstract": "3D Gaussian avatars support fast rendering, however, their real-time animation is often challenged by the costly neural inference. We address this bottleneck and show that the animation of pretrained avatar models can be closely approximated by a linear combination of identity-independent blendshapes. Building on this finding, we introduce GALA (Gaussian Animation via Linear Approximation), a distillation method that replaces per-frame heavy neural decoding with a shallow coefficient predictor and a linear blend. To improve fidelity and reduce memory requirements, we propose to construct the basis using block-local PCA under a rendering-aware metric and a memory budget. Our method learns a shallow MLP network to predict blendshape coefficients and applies to various animation architectures without retraining original models. We validate GALA by accelerating the inference of three distinct avatar models for 3D animation of facial expressions and full-bodies with clothing dynamics. Across these models, our distillation generalizes to held-out identities and reduces CPU animation cost by up to three orders of magnitude while preserving most of the rendering quality. Excellent results of our method confirm the shared linear structure of learned avatar representations and enable highly efficient and accurate animation at frame rates reaching up to 60fps on mobile devices. Project page: https://ramazan793.github.io/gala/",
@@ -1578,25 +1662,6 @@
     "venue": "arXiv preprint",
     "open_access": true,
     "ai_summary": "3D Gaussian avatars support fast rendering, but their real-time animation is often challenged by the costly neural inference . We introduce GALA (Gaussian Animation via Linear Approximation), a distillation method that replaces per-frame heavy neural decoding with a shallow coefficient predictor and a linear blend ."
-  },
-  {
-    "id": "arxiv:2610.02210v1",
-    "title": "Moore, Escher, Penrose: A Conformal Golden Braid",
-    "abstract": "I don't think I have ever done anything as peculiar in my life. Among other things, it shows a young man looking with interest at a print on the wall of an exhibition that features himself. How can this be? Perhaps I am not far removed from Einstein's curved universe.'' So wrote M.C. Escher about his 1956 lithograph Print Gallery. Nearly half a century later, a mathematical analysis related its geometry to an untwisted source image through a conformal power map $z \\mapsto z^α$, $α\\in \\mathbb{C}$. Building on this construction, we use a frozen text-to-image diffusion model to generate new self-referential scenes. Prompting alone does not enforce the recursion, while a post-hoc transformation can leave structures poorly connected. Applying the transformation during sampling is also insufficient: the denoiser may \"repair\" the intended distortion or drift out of the prescribed geometry. We construct a generalized inverse $T^\\dagger$ of the non-invertible image transformation $T$, adapted to its recursive constraint. In the idealized formulation, the Penrose identity $TT^\\dagger T = T$ makes $TT^\\dagger$ an idempotent projection onto geometrically admissible images. Yet denoising only the transformed image remains an out-of-distribution task, even with projection. We therefore braid denoising steps with $T$ and $T^\\dagger$: source-space steps develop the untwisted scene, while transformed-space steps refine its appearance and connections in the final geometry. We generate Print Gallery-like compositions and explore further transformations. Rather than distorting a finished image, we let the scene and its distortion develop together.",
-    "authors": [
-      "Sophia Feldman",
-      "Assaf Shocher"
-    ],
-    "published": "2026-10-01",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2610.02210v1",
-    "pdf_url": "https://arxiv.org/pdf/2610.02210v1",
-    "doi": null,
-    "citations": 0,
-    "venue": "arXiv preprint",
-    "open_access": true,
-    "ai_summary": "M.C. Escher wrote about his 1956 lithograph Print Gallery . A mathematical analysis related its geometry to an untwisted source image through a conformal power map ."
   },
   {
     "id": "arxiv:2610.02205v1",
@@ -1623,6 +1688,69 @@
     "venue": "arXiv preprint",
     "open_access": true,
     "ai_summary": "Programmable world models separate executable dynamics from visual generation . PROWBench logs events as replayable world records, from which it renders synchronized views and proxy representations ."
+  },
+  {
+    "id": "arxiv:2610.02206v1",
+    "title": "KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards",
+    "abstract": "LLMs are increasingly applied to cybersecurity workflows, where they are expected to translate analysts' intent into tool invocations. However, existing evaluations focus on knowledge-based assessments or end-to-end agentic tasks, and do not directly measure LLMs' ability to generate executable commands for real-world cybersecurity tools. This gap is critical because cybersecurity operations rely on strict command-line interfaces (CLIs), where minor syntax errors, incorrect flag--value bindings, or argument misordering can invalidate execution. We introduce KaliBench, a fine-grained benchmark and dataset for natural-language--to--CLI translation on Kali Linux, comprising 8,504 query--command pairs spanning 1,642 tools across 23 capability dimensions and 5 security phases. KaliBench is constructed via a manuscript-grounded pipeline with deterministic canonicalization and alias-aware evaluation, enabling precise and reproducible assessment of tool selection and argument construction. To ensure both semantic correctness and practical executability, we develop a multi-stage verification pipeline that combines LLM-based validation, sandboxed terminal execution, and human-in-the-loop refinement. Building on these fine-grained, deterministic signals, KaliBench further enables runtime-free verifiable rewards for training. Across three evaluation modes and 24 configurations of general-purpose and security-focused open-weight models, no open-weight model exceeds 42% exact-command accuracy in the unrestricted setting, highlighting the difficulty of accurate CLI-based cybersecurity tool use without explicit tool hints. We further show that supervised fine-tuning and reinforcement learning with verifiable rewards derived from KaliBench significantly improve an 8B model and achieve performance comparable to a 685B MoE model.",
+    "authors": [
+      "Pengfei Li",
+      "Naufal Suryanto",
+      "Sicheng Zhang",
+      "Muzammal Naseer"
+    ],
+    "published": "2026-10-01",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2610.02206v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.02206v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "LLMs are increasingly applied to cybersecurity workflows, where they are expected to translate analysts' intent into tool invocations . But existing evaluations focus on knowledge-based assessments or end-to-end agentic tasks ."
+  },
+  {
+    "id": "arxiv:2610.02210v1",
+    "title": "Moore, Escher, Penrose: A Conformal Golden Braid",
+    "abstract": "I don't think I have ever done anything as peculiar in my life. Among other things, it shows a young man looking with interest at a print on the wall of an exhibition that features himself. How can this be? Perhaps I am not far removed from Einstein's curved universe.'' So wrote M.C. Escher about his 1956 lithograph Print Gallery. Nearly half a century later, a mathematical analysis related its geometry to an untwisted source image through a conformal power map $z \\mapsto z^α$, $α\\in \\mathbb{C}$. Building on this construction, we use a frozen text-to-image diffusion model to generate new self-referential scenes. Prompting alone does not enforce the recursion, while a post-hoc transformation can leave structures poorly connected. Applying the transformation during sampling is also insufficient: the denoiser may \"repair\" the intended distortion or drift out of the prescribed geometry. We construct a generalized inverse $T^\\dagger$ of the non-invertible image transformation $T$, adapted to its recursive constraint. In the idealized formulation, the Penrose identity $TT^\\dagger T = T$ makes $TT^\\dagger$ an idempotent projection onto geometrically admissible images. Yet denoising only the transformed image remains an out-of-distribution task, even with projection. We therefore braid denoising steps with $T$ and $T^\\dagger$: source-space steps develop the untwisted scene, while transformed-space steps refine its appearance and connections in the final geometry. We generate Print Gallery-like compositions and explore further transformations. Rather than distorting a finished image, we let the scene and its distortion develop together.",
+    "authors": [
+      "Sophia Feldman",
+      "Assaf Shocher"
+    ],
+    "published": "2026-10-01",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2610.02210v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.02210v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "M.C. Escher wrote about his 1956 lithograph Print Gallery . A mathematical analysis related its geometry to an untwisted source image through a conformal power map ."
+  },
+  {
+    "id": "arxiv:2610.02208v1",
+    "title": "Sphere Encoder 2",
+    "abstract": "Sphere Encoder is an autoencoder that generates images by decoding random points from a high-dimensional latent sphere. We identify two limitations of the original formulation that reduce its generation quality. First, random points concentrate near the equator relative to the pole on an encoded latent, but the training rotation never reaches this region, leaving a gap that limits one-step generation. Second, training for generation with pixel-wise reconstruction loss encourages the decoder to average over plausible images, producing blurry images that lack high-frequency details. We present Sphere Encoder 2 to address both limitations, substantially improving image generation quality while maintaining the speed and simplicity of a autoencoder. Models are released at \\href{https://github.com/kaiyuyue/sphere2}{github.com/kaiyuyue/sphere2}.",
+    "authors": [
+      "Kaiyu Yue",
+      "Sean McLeish",
+      "Ruchit Rawal",
+      "Brian Bartoldson",
+      "Menglin Jia",
+      "Tom Goldstein"
+    ],
+    "published": "2026-10-01",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2610.02208v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.02208v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "Sphere Encoder is an autoencoder that generates images by decoding random points from a high-dimensional latent sphere . We present Sphere Encoder 2 to address both limitations of the original formulation and improve image generation quality ."
   },
   {
     "id": "arxiv:2610.02203v1",
@@ -2618,6 +2746,42 @@
     "ai_summary": "MEVA (Mesh-Enhanced Volumetric Autoencoder) is a self-supervised framework that encodes voxel-level image intensity together with cortical mesh geometry . This framework captures only part of the heritable variation in brain anatomy ."
   },
   {
+    "id": "pubmed:42829829",
+    "title": "Artificial intelligence in dentistry: from second reading of bite-wing radiographs to dental practice management.",
+    "abstract": "Artificial intelligence is moving in dentistry from experimental applications to practical tools for diagnosis, patient communication and practice management. The most mature field is the analysis of imaging data, including bite-wing, periapical and panoramic radiographs and cone-beam computed tomography. Human reading of bite-wing radiographs, particularly for early approximal enamel caries, is associated with substantial under-detection; in the ADEPT study dentists without artificial intelligence support detected 44.3% of enamel-only proximal lesions, compared with 75.8% with such support. The 31.5 percentage-point difference is a more accurate interpretation of the often mentioned \"one third\" figure than a general statement about a 30% error rate in dental radiography. Safe implementation requires the use of artificial intelligence as a second reader, clinical review of false-positive findings and retention of clinician responsibility. Additional value lies in explaining treatment alternatives, documenting informed consent, providing 24/7 reception services, multilingual communication, automated scheduling, postoperative follow-up, ambient documentation and support for coding and reimbursement.",
+    "authors": [
+      "Roman Šmucler"
+    ],
+    "published": "2026",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42829829/",
+    "pdf_url": null,
+    "doi": null,
+    "citations": 0,
+    "venue": "Casopis lekaru ceskych",
+    "open_access": false,
+    "ai_summary": "Artificial intelligence is moving in dentistry from experimental applications to practical tools for diagnosis, patient communication and practice management . The most mature field is the analysis of imaging data, including bite-wing, periapical and panoramic radiographs and cone-beam computed tomography ."
+  },
+  {
+    "id": "pubmed:42829828",
+    "title": "Ambient artificial intelligence for clinical documentation: evidence, legislative framework and implementation in clinical practice.",
+    "abstract": "Administrative and documentation burden is an important factor affecting clinical efficiency, patient-clinician communication and professional well-being. Tools referred to as digital scribes or ambient clinical documentation use the recording or transcription of a clinical conversation to produce a draft structured medical record. This review summarizes current evidence, main benefits and risks, and proposes a practical framework for safe implementation in outpatient and hospital care in the Czech context. Available studies suggest potential reductions in documentation time, lower cognitive workload and improved clinician attention to patients. However, the effect varies by specialty, type of encounter and quality of workflow integration. Key risks include inaccuracies, omissions, excessive note length, medication-related errors and unclear accountability. Safe implementation requires qualified human review, legal and data governance, auditability, staff training and local pilot validation in the specific clinical workflow.",
+    "authors": [
+      "Tereza Ettlerová"
+    ],
+    "published": "2026",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42829828/",
+    "pdf_url": null,
+    "doi": null,
+    "citations": 0,
+    "venue": "Casopis lekaru ceskych",
+    "open_access": false,
+    "ai_summary": "Review summarizes current evidence, main benefits and risks, and proposes a practical framework for safe implementation in outpatient and hospital care in the Czech context . Key risks include inaccuracies, omissions, excessive note length, medication-related errors and unclear accountability ."
+  },
+  {
     "id": "pubmed:42829788",
     "title": "Design and implementation of a pediatric failure to thrive registry system in Iran.",
     "abstract": "Failure to thrive (FTT) refers to inadequate growth caused by an inability to acquire or use enough calories for growth. It refers to a failure to develop over time, which can lead to more serious problems in adulthood if left untreated. FTT is a significant global health concern, particularly in developing countries like Iran. Effective FTT management necessitates timely, inclusive, and precise data on children's FTT status. A pediatric FTT registry system is a useful tool for gathering and managing data on children with FTT. This study proposes a pediatric FTT registry system for Iran. A developmental-applied study was conducted in three phases during 2024. The first phase involved defining the features of a pediatric FTT registry system through interviews with experts. The second phase entailed expert validation using the Delphi method. In the third phase, the software was designed based on a conceptual model using the Hypertext Preprocessor programming language and the Laravel framework. PostgreSQL was employed as the database management system. Moreover, Nielsen's Ten Usability Heuristics was used to evaluate the software's usability from the users' perspectives. Experts validated the features of the pediatric FTT registry system, resulting in a framework that included eight headings, 24 sub-headings, and 117 data elements. The usability assessment of the software revealed that the highest number of issues concerned the \"error prevention\" indicator, whereas the \"aesthetic and minimalist design\" indicator presented the fewest problems and was assumed flawless. A pediatric FFT registry system contributes significantly to service planning, management, disease surveillance, and research. Accordingly, future research is recommended to investigate the feasibility of implementing the pediatric FFT registry system in Iran.",
@@ -2630,11 +2794,11 @@
     "source": "PubMed",
     "category": "journal",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42829788/",
-    "pdf_url": null,
+    "pdf_url": "https://doi.org/10.4103/jehp.jehp_852_25",
     "doi": "10.4103/jehp.jehp_852_25",
     "citations": 0,
     "venue": "Journal of education and health promotion",
-    "open_access": false,
+    "open_access": true,
     "ai_summary": "A pediatric FTT registry system is a useful tool for gathering and managing data on children with FTT . This study proposes a pediatric F TT registry system for Iran ."
   },
   {
@@ -2679,158 +2843,35 @@
     "ai_summary": "Intimate partner violence (IPV) is a serious yet preventable public health issue . Resilience plays a significant role in helping women overcome the effects of IPV ."
   },
   {
-    "id": "pubmed:42829766",
-    "title": "Artificial intelligence and its impact on oral health care education. A randomized study.",
-    "abstract": "Artificial intelligence (AI)-generated educational materials demonstrate superior effectiveness in improving patient comprehension and reducing anxiety compared to traditional methods. Their integration into dental practice could enhance patient satisfaction and streamline the educational process, particularly for complex or anxiety-inducing procedures. The present study aimed to evaluate the act of AI applications on oral healthcare, focusing on clinical outcomes. A cluster-randomized controlled trial with 1000 participants from 20 villages (10 interventions, 10 controls) was conducted. The intervention group received 4 weeks of chatbot-guided oral health education via WhatsApp/IVR, while controls received standard health talks and leaflets. Knowledge, oral hygiene practices, and OHI-S scores were measured pre- and post-intervention. The intervention group showed a marked rise in mean knowledge scores (9.8 to 15.2) compared to controls (10.1 to 11.3;  AI-based chatbots significantly enhance oral health awareness, hygiene practices, and clinical outcomes in rural settings, highlighting their potential for scalable public health interventions and integration into primary health programs.",
-    "authors": [
-      "Deepika Kapoor",
-      "Sonika Achalli",
-      "Naveen Reddy",
-      "Mushir Mulla",
-      "Mohamed S Mohamed Morsy",
-      "Munaz Mulla",
-      "Arshad Jamal Sayed",
-      "M Nazargi Mahabob",
-      "Alok Dubey"
-    ],
-    "published": "2026",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42829766/",
-    "pdf_url": null,
-    "doi": "10.4103/jehp.jehp_1971_25",
-    "citations": 0,
-    "venue": "Journal of education and health promotion",
-    "open_access": false,
-    "ai_summary": "Artificial intelligence (AI)-generated educational materials demonstrate superior effectiveness in improving patient comprehension and reducing anxiety compared to traditional methods . Their integration into dental practice could enhance patient satisfaction and streamline the educational process, particularly for complex or anxiety-inducing procedures ."
-  },
-  {
-    "id": "pubmed:42829762",
-    "title": "Localizing the main components of competencies in high-level managers based on health system evaluation indicators: Content analysis approach.",
-    "abstract": "Managers play a key role in organizations. Competence of managers has become an important issue for organizations. This issue is very important for high-level managers in health-oriented organizations. Therefore, the purpose of this study is to identify and determine the components and analyze the core competencies of high-level managers in the field of health in medical sciences universities of the country, with the approach of content analysis. This qualitative study was conducted using the content analysis method in 2023-2024. Data collection included retrieving documents from relevant databases. The studied population was high-level managers in the field of health promotion (presidents, vice presidents, university professors, and experienced human resource managers). For this purpose, semi-structured interviews were conducted with managers. The purposeful sampling method was chosen, and finally, the sampling was continued until the saturation time. The interview text was analyzed and the opinions of experts were included to extract key concepts and categorize them into main topics using 12 MAXQDA software. Finally, the Delphi technique was used to determine the components of the main competencies of high-level managers of Iranian medical sciences universities. In this study, after analyzing the content of the interviews, 5 dimensions of the main components, including managerial competencies, perceptual competencies, personality (individual) competencies, communication competencies, and moral competencies were determined. Also, the results of MAXQDA software identified 30 components for 5 dimensions. Considering the key role of universities in the development of various ecosystems, it is considered very important to pay attention to the competencies of managers who are at the top of decision-making in medical sciences universities. Identifying, localizing, and determining the main and core components of competencies in high-level managers can be used as a tool to select health system managers based on these competencies. This choice can take steps towards improving the level of health and health education and adopting appropriate health policies in this field, the efficiency of the health system and the quality effectiveness of the management of medical sciences universities.",
-    "authors": [
-      "Shiva Hosseini Foladi",
-      "Masoud Ferdousi",
-      "Mozhdeh Taheri Afshar",
-      "Parvin Sepehr",
-      "Parvaneh Dehghan",
-      "Ali Safdarian",
-      "Vahideh Karimi"
-    ],
-    "published": "2026",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42829762/",
-    "pdf_url": null,
-    "doi": "10.4103/jehp.jehp_1137_24",
-    "citations": 0,
-    "venue": "Journal of education and health promotion",
-    "open_access": false,
-    "ai_summary": "Managers play a key role in organizations. Competence of managers has become an important issue for organizations . The purpose of this study is to identify and determine the components and analyze the core competencies of high-level managers ."
-  },
-  {
-    "id": "pubmed:42829750",
-    "title": "The effect of peer-assisted learning on medication error occurrence among undergraduate nursing students: A randomized controlled trial.",
-    "abstract": "Medication administration is one of the most sensitive duties of nurses and an essential part of the treatment and care process. Nursing students are more likely to make medication errors because of their inexperience and lack of ability. The importance of clinical education using modern approaches is undeniable. This study was conducted to investigate the effect of peer-assisted learning on medication error occurrence among undergraduate nursing students. This study is a randomized controlled trial, conducted in 2023-24, involving 50 fourth-semester undergraduate nursing students at a nursing school in Tehran, Iran. Students were chosen through a census method, and randomly divided into intervention and control groups. The intervention group was taught pharmacotherapy via peer teaching, and data were collected using the Medication Error Occurrence Questionnaire (MEOQ). The data analysis was performed using SPSS software, and descriptive statistical tests such as mean, SD, frequency, and percentage were employed. Several other statistical tests were utilized, including Fisher's exact test, Chi-squared test, independent  Before the intervention, there were no significant differences in medication error occurrence between the intervention and control groups ( Peer teaching significantly reduced nursing students' medication error occurrence, recommending its adoption as an innovative educational method. It is recommended that the peer method be used to improve the clinical education of nursing students.",
-    "authors": [
-      "Somayeh Azarmi",
-      "Amir H Pishgooie",
-      "Faeze Baniyaghoobi",
-      "Fatemeh Ghavidel",
-      "Farzaneh Taghaee"
-    ],
-    "published": "2026",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42829750/",
-    "pdf_url": null,
-    "doi": "10.4103/jehp.jehp_653_25",
-    "citations": 0,
-    "venue": "Journal of education and health promotion",
-    "open_access": false,
-    "ai_summary": "Study was conducted to investigate effect of peer-assisted learning on medication error occurrence among undergraduate nursing students . Students were chosen through a census method, and randomly divided into intervention and control groups . Data was collected using the Medication Error Occurrence Questionnaire (MEOQ)"
-  },
-  {
-    "id": "pubmed:42829748",
-    "title": "Artificial intelligence as a transformative tool for empowering the role of clinical informationists in healthcare systems.",
+    "id": "conf:Conference:https://aclanthology.org/events/acl-2025/#2025acl-long",
+    "title": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
     "abstract": "",
-    "authors": [
-      "Alireza Rahimi",
-      "Ahmad Papi",
-      "Saeid Shirvani",
-      "Hosein Beigi-Harchegani"
-    ],
-    "published": "2026",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42829748/",
+    "authors": [],
+    "published": "",
+    "source": "Conference",
+    "category": "conference",
+    "url": "https://aclanthology.org/events/acl-2025/#2025acl-long",
     "pdf_url": null,
-    "doi": "10.4103/jehp.jehp_1496_25",
+    "doi": null,
     "citations": 0,
-    "venue": "Journal of education and health promotion",
+    "venue": "Conference",
     "open_access": false,
     "ai_summary": "No abstract available."
   },
   {
-    "id": "pubmed:42829745",
-    "title": "A neuroeducational approach to STEM education: Integrating real-time cognitive analysis and cognitive load theory to optimize teaching and learning at universities.",
-    "abstract": "The relevance of science, technology, engineering, and mathematics (STEM) education to effectively meet challenging academic requirements has become imperative for university entrants. With emerging advancements within the domain of learning neuroscience and analytics, it has become possible to analyze and track the real-time mental states of learners. This has opened several avenues to apply the theoretical perspectives of Cognitive Load Theory (CLT). Though applications of neuro-technological interventions for learning have become widely sought, their effective implementation within STEM education has not been comprehensive at the university level. The innovations brought about within this study include its conceptual fusion for STEM education based upon real-time mental state analysis and CLT. The goal of this research is to integrate the current research findings on real-time cognitive analysis practices used in STEM education in universities and analyze how cognitive load can be monitored dynamically and discuss teaching practices according to principles of CLT to improve effectiveness and inclusiveness for better cognitive load management throughout learning. A systematic narrative review with cross-case synthesis was conducted using peer-reviewed empirical studies published between 2018 and 2025. The relevant articles were identified through the searching of databases such as Scopus, Web of Science, ERIC, and PsycINFO. Studies focusing on higher education STEM contexts were included if they employed neuroeducational tools (e.g., electroencephalography, functional near-infrared spectroscopy, eye tracking, or artificial intelligence-driven analytics) or incorporated instructional designs informed by Cognitive Load Theory (CLT). A standardized framework for extracting data was used, and data were thematically analyzed to identify patterns across the studies regarding cognitive load measurement, adaptive instructional strategies, learning outcomes, teacher experiences, and ethical considerations. From the synthesis, real-time cognitive feedback is perceived to have positively influenced teaching effectiveness by allowing the instructor to dynamically adjust pacing, scaffolding, and learning activities ( The synergistic combination of real-time cognitive analysis and CLT has the potential for making progressive inroads for inclusive and adaptive STEM education in universities. This conceptual combination is in good harmony with the benchmarks for health and educational policy that regard evidence-based instruction, the welfare of the learner, and equity in higher educational settings as cornerstones. Longitudinal study, ethical regulation, and implementation strategies for neuroeducational data in universities need more emphasis in future studies.",
-    "authors": [
-      "Amanda Mendes"
-    ],
-    "published": "2026",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42829745/",
+    "id": "conf:Conference:https://github.com/THUKElab/CLEME",
+    "title": "https://github.com/THUKElab/CLEME",
+    "abstract": "",
+    "authors": [],
+    "published": "",
+    "source": "Conference",
+    "category": "conference",
+    "url": "https://github.com/THUKElab/CLEME",
     "pdf_url": null,
-    "doi": "10.4103/jehp.jehp_2092_25",
+    "doi": null,
     "citations": 0,
-    "venue": "Journal of education and health promotion",
+    "venue": "Conference",
     "open_access": false,
-    "ai_summary": "The research is based on real-time cognitive analysis practices used in STEM education in universities . The goal of this research is to integrate the current research findings on real time cognitive analysis practice used in universities and analyze how cognitive load can be monitored dynamically ."
-  },
-  {
-    "id": "pubmed:42829732",
-    "title": "Concurrent Pulmonary Detection of Nocardia beijingensis, Mycobacterium tuberculosis, and Mycobacterium fortuitum in a Liver Transplant Recipient.",
-    "abstract": "A 66-year-old Chinese man with chronic hepatitis B treated with tenofovir disoproxil fumarate, a history of liver transplantation approximately 17 months earlier, hypertension, and atrial fibrillation treated with apixaban presented with progressive weakness, weight loss, and inability to ambulate. His only anti-rejection agent was tacrolimus. One month earlier, he had been hospitalized for multifocal pneumonia and treated with intravenous piperacillin-tazobactam for seven days after outpatient cefdinir failed. He was discharged without antibiotics. Bronchoscopy showed no endobronchial lesions or mucosal abnormalities. The initial routine microbiologic results were negative, but mycobacterial cultures remained in prolonged incubation. After discharge but before his subsequent readmission, a sputum culture from the prior hospitalization identified Mycobacterium fortuitum. On readmission, he had profound hyponatremia with a serum sodium concentration of 105 mmol/L, requiring intensive care and hypertonic saline. Imaging showed progressive right upper lobe consolidation concerning for infection or malignancy. Several days into the readmission, a biopsy of a technically accessible right lower lobe nodule showed inflammation without malignancy or caseating granulomas. Shortly thereafter, a bronchoalveolar lavage culture obtained during the prior hospitalization identified Mycobacterium tuberculosis after prolonged incubation. Tissue culture from the lung biopsy later identified Nocardia beijingensis. Given the patient's immunosuppression and progressive pulmonary abnormalities, all three isolates were treated as potentially pathogenic with imipenem, trimethoprim-sulfamethoxazole, moxifloxacin, isoniazid, pyrazinamide, and a rifamycin, with tacrolimus adjustment for drug interactions. The relative contribution of each organism could not be established with certainty. This case highlights the diagnostic and therapeutic complexity of concurrent pulmonary organism detection in a transplant recipient.",
-    "authors": [
-      "Anthony Membreno",
-      "Alexandra Martinez",
-      "Arkady Bilenkin",
-      "Elaine E Saugar",
-      "Lorena Del Pilar Bonilla",
-      "Angel Porras"
-    ],
-    "published": "2026",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42829732/",
-    "pdf_url": null,
-    "doi": "10.56305/001c.171815",
-    "citations": 0,
-    "venue": "Journal of Brown hospital medicine",
-    "open_access": false,
-    "ai_summary": "A 66-year-old Chinese man with chronic hepatitis B was treated with tenofovir disoproxil fumarate, a history of liver transplantation approximately 17 months earlier, hypertension, and atrial fibrillation treated with apixaban presented with progressive weakness, weight loss, and inability to ambulate"
-  },
-  {
-    "id": "pubmed:42829739",
-    "title": "Can spiritual care education reduce the anxiety of mothers of hospitalized immature infants?",
-    "abstract": "Hospitalization of a preterm infant in the neonatal intensive care unit (NICU) is a significant stressor for mothers, often leading to heightened anxiety that affects both their well-being and maternal-infant interaction. Spiritual self-care is a nonpharmacological approach that can help mothers manage anxiety and cope with their child's hospitalization. This study examines the impact of spiritual self-care education on maternal anxiety in mothers with preterm infants admitted to the NICU. This quasi-experimental study involved 90 mothers of preterm infants, selected through convenience sampling and randomly assigned to control ( The mean maternal age was 32.4 ± 5.7 years in the intervention group and 33 ± 6.06 years in the control group ( Spiritual self-care education significantly reduces anxiety in mothers of preterm infants, suggesting its usefulness for healthcare providers. Future research should explore how best to integrate spiritual self-care education into standard NICU care and investigate its impact on long-term maternal mental health outcomes.",
-    "authors": [
-      "Maryam Karimi",
-      "Ali Khorshidi",
-      "Masoumeh Otaghi",
-      "Mosayeb Mozafari"
-    ],
-    "published": "2026",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42829739/",
-    "pdf_url": null,
-    "doi": "10.4103/jehp.jehp_759_25",
-    "citations": 0,
-    "venue": "Journal of education and health promotion",
-    "open_access": false,
-    "ai_summary": "Spiritual self-care is a nonpharmacological approach that can help mothers manage anxiety and cope with their child's hospitalization . Future research should explore how best to integrate spiritual self- care education into standard NICU care ."
+    "ai_summary": "No abstract available."
   }
 ]
