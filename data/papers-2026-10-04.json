@@ -100,11 +100,11 @@
     "source": "Crossref",
     "category": "index",
     "url": "https://doi.org/10.3998/mjcsl.11105",
-    "pdf_url": null,
+    "pdf_url": "https://doi.org/10.3998/mjcsl.11105",
     "doi": "10.3998/mjcsl.11105",
     "citations": 0,
     "venue": "Michigan Journal of Community Service Learning",
-    "open_access": false,
+    "open_access": true,
     "ai_summary": "No abstract available."
   },
   {
@@ -148,10 +148,26 @@
     "source": "Crossref",
     "category": "index",
     "url": "https://doi.org/10.21825/ewopinpractice.94703",
-    "pdf_url": null,
+    "pdf_url": "https://openjournals.ugent.be/ewopinpractice/article/id/94703/download/pdf/",
     "doi": "10.21825/ewopinpractice.94703",
     "citations": 0,
     "venue": "EWOP in Practice",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "crossref:10.3998/mjcsl.5730",
+    "title": "Title Pending 5730",
+    "abstract": "",
+    "authors": [],
+    "published": "2034",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.3998/mjcsl.5730",
+    "pdf_url": null,
+    "doi": "10.3998/mjcsl.5730",
+    "citations": 0,
+    "venue": "Michigan Journal of Community Service Learning",
     "open_access": false,
     "ai_summary": "No abstract available."
   },
@@ -172,16 +188,16 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.3998/mjcsl.5730",
-    "title": "Title Pending 5730",
+    "id": "crossref:10.3998/mjcsl.3643",
+    "title": "Title Pending 3643",
     "abstract": "",
     "authors": [],
-    "published": "2034",
+    "published": "2033",
     "source": "Crossref",
     "category": "index",
-    "url": "https://doi.org/10.3998/mjcsl.5730",
+    "url": "https://doi.org/10.3998/mjcsl.3643",
     "pdf_url": null,
-    "doi": "10.3998/mjcsl.5730",
+    "doi": "10.3998/mjcsl.3643",
     "citations": 0,
     "venue": "Michigan Journal of Community Service Learning",
     "open_access": false,
@@ -198,22 +214,6 @@
     "url": "https://doi.org/10.3998/mjcsl.4120",
     "pdf_url": null,
     "doi": "10.3998/mjcsl.4120",
-    "citations": 0,
-    "venue": "Michigan Journal of Community Service Learning",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "crossref:10.3998/mjcsl.3643",
-    "title": "Title Pending 3643",
-    "abstract": "",
-    "authors": [],
-    "published": "2033",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.3998/mjcsl.3643",
-    "pdf_url": null,
-    "doi": "10.3998/mjcsl.3643",
     "citations": 0,
     "venue": "Michigan Journal of Community Service Learning",
     "open_access": false,
@@ -471,11 +471,11 @@
     "source": "Crossref",
     "category": "index",
     "url": "https://doi.org/10.58524/jcss.v4i2.890",
-    "pdf_url": "https://journal.foundae.com/index.php/jcss/article/download/890/456",
+    "pdf_url": null,
     "doi": "10.58524/jcss.v4i2.890",
     "citations": 1,
     "venue": "Journal of Coaching and Sports Science",
-    "open_access": true,
+    "open_access": false,
     "ai_summary": "Kinovea is an accessible motion-analysis software . It provides both visual and quantitative feedback . However, its application in supporting technique development among beginner athletes remains insufficiently explored ."
   },
   {
@@ -518,27 +518,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.5705/ss.202026.0109",
-    "title": "Inference for Extreme Value Index Through Individualized Fusion Learning",
-    "abstract": "",
-    "authors": [
-      "Hongfang Sun",
-      "Yu Chen",
-      "Tao Xu",
-      "Zhengjun Zhang"
-    ],
-    "published": "2029",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.5705/ss.202026.0109",
-    "pdf_url": null,
-    "doi": "10.5705/ss.202026.0109",
-    "citations": 0,
-    "venue": "Statistica Sinica",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
     "id": "crossref:10.5705/ss.202025.0314",
     "title": "Transfer Learning for High-dimensional Regression with Compositional Covariates: Application to Microbiome Studies",
     "abstract": "",
@@ -554,6 +533,27 @@
     "url": "https://doi.org/10.5705/ss.202025.0314",
     "pdf_url": null,
     "doi": "10.5705/ss.202025.0314",
+    "citations": 0,
+    "venue": "Statistica Sinica",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "crossref:10.5705/ss.202026.0109",
+    "title": "Inference for Extreme Value Index Through Individualized Fusion Learning",
+    "abstract": "",
+    "authors": [
+      "Hongfang Sun",
+      "Yu Chen",
+      "Tao Xu",
+      "Zhengjun Zhang"
+    ],
+    "published": "2029",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.5705/ss.202026.0109",
+    "pdf_url": null,
+    "doi": "10.5705/ss.202026.0109",
     "citations": 0,
     "venue": "Statistica Sinica",
     "open_access": false,
@@ -594,11 +594,11 @@
     "source": "Crossref",
     "category": "index",
     "url": "https://doi.org/10.5705/ss.202025.0457",
-    "pdf_url": "https://doi.org/10.5705/ss.202025.0457",
+    "pdf_url": null,
     "doi": "10.5705/ss.202025.0457",
     "citations": 0,
     "venue": "Statistica Sinica",
-    "open_access": true,
+    "open_access": false,
     "ai_summary": "No abstract available."
   },
   {
@@ -715,6 +715,27 @@
     "ai_summary": "Research paper will debate role played by principals in teaching and learning process . Research will embrace a quantitative research design that will seek to answer the question about the relationship between leadership skills of principals and teaching-learning process ."
   },
   {
+    "id": "crossref:10.1504/ijims.2028.10076630",
+    "title": "Left Ventricle Extraction Using a DENSENET-U-Net Integrated Deep Learning Approach",
+    "abstract": "",
+    "authors": [
+      "X. Ignatious Viola",
+      "R. Shoba Rani",
+      "G. Savitha",
+      "R. Surekha"
+    ],
+    "published": "2028",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.1504/ijims.2028.10076630",
+    "pdf_url": null,
+    "doi": "10.1504/ijims.2028.10076630",
+    "citations": 0,
+    "venue": "International Journal of Internet Manufacturing and Services",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
     "id": "crossref:10.1504/ijims.2028.10081208",
     "title": "Enhancements to the Deep Learning Architecture for Metaverse Integration in Medical Image Processing",
     "abstract": "",
@@ -731,27 +752,6 @@
     "url": "https://doi.org/10.1504/ijims.2028.10081208",
     "pdf_url": null,
     "doi": "10.1504/ijims.2028.10081208",
-    "citations": 0,
-    "venue": "International Journal of Internet Manufacturing and Services",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "crossref:10.1504/ijims.2028.10076630",
-    "title": "Left Ventricle Extraction Using a DENSENET-U-Net Integrated Deep Learning Approach",
-    "abstract": "",
-    "authors": [
-      "X. Ignatious Viola",
-      "R. Shoba Rani",
-      "G. Savitha",
-      "R. Surekha"
-    ],
-    "published": "2028",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.1504/ijims.2028.10076630",
-    "pdf_url": null,
-    "doi": "10.1504/ijims.2028.10076630",
     "citations": 0,
     "venue": "International Journal of Internet Manufacturing and Services",
     "open_access": false,
@@ -953,228 +953,6 @@
     "venue": "PubMed",
     "open_access": false,
     "ai_summary": "No abstract available."
-  },
-  {
-    "id": "pubmed:42829237",
-    "title": "Integration of artificial intelligence into pharmacovigilance: A systematic review.",
-    "abstract": "Recent advances in machine learning (ML) have sparked the rise of artificial intelligence (AI) in pharmacovigilance (PV). Several studies suggest these technologies could address key PV challenges, including underreporting, manual case processing, and delayed signal detection. This systematic review aimed to map AI/ML applications across post-marketing PV functions, characterize methodological and geographic trends, and identify evidence gaps in external validation and implementation readiness. Following PRISMA 2020 and a Population, Concept, Context (PCC) framework, eight bibliographic databases were searched from January 2021 through October 2024, supplemented by grey literature and reference-list screening. Sixty-seven studies were included. Two reviewers independently screened, extracted, and appraised studies, with a third reviewer verifying extraction. Methodological quality was assessed using APPRAISE-AI, and certainty of evidence was considered using GRADE principles. Safety-signal detection was the most common application (50.5%), followed by adverse effect prediction (21%), case-processing efficiency (15%), drug-drug interaction detection (7.5%), and high-risk patient identification (6%). XGBoost and ensemble methods dominated structured-data applications, while BERT-family transformers prevailed for unstructured text. However, external validation was the weakest APPRAISE-AI domain (mean score 52%), and prospective implementation studies were rare. Artificial intelligence demonstrates substantial potential to transform pharmacovigilance from reactive to proactive systems. However, current evidence is largely retrospective, with limited external validation and real-world implementation. Although BERT and XGBoost demonstrate promising performance in signal detection, heterogeneous methodologies limit conclusions regarding generalizability and clinical impact. Responsible integration into safety-monitoring workflows requires rigorous independent validation, prospective human-in-the-loop evaluation, standardized performance metrics, and geographically representative datasets. Addressing data privacy, algorithmic fairness, human oversight, and regulatory requirements will also be crucial. Future research should therefore focus on robust validation and real-world implementation to ensure that AI translates into reliable, clinically meaningful improvements in patient safety.",
-    "authors": [
-      "Iman El Sayed",
-      "Ramez Naguib Bedwany",
-      "Mai Salama",
-      "Ahmed Said Hassan Eltrass"
-    ],
-    "published": "2026-Sep-30",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42829237/",
-    "pdf_url": null,
-    "doi": "10.1016/j.sapharm.2026.09.001",
-    "citations": 0,
-    "venue": "Research in social & administrative pharmacy : RSAP",
-    "open_access": false,
-    "ai_summary": "Recent advances in machine learning (ML) have sparked the rise of artificial intelligence (AI) in pharmacovigilance (PV) Several studies suggest these technologies could address key PV challenges ."
-  },
-  {
-    "id": "pubmed:42829244",
-    "title": "A wearable accelerometry landscape of human health and disease.",
-    "abstract": "Digital wearable devices provide objective characterization of human behaviors in real-world settings, yet their implications for health and diseases remain incompletely understood. Here, we analyzed a large-scale accelerometry-based cohort, including 70,473 participants with up to 10 years of follow-up, yielding a total of 11.8 million person-hours of data. From this cohort, we constructed a comprehensive atlas of 210 accelerometer-derived phenotypes (ADPs), encompassing physical activity, sedentary behavior, sleep, circadian rhythm, step counts, and step intensity. The study identified 8149 ADP-disease and 36,614 ADP-trait associations across 406 diseases and 956 health-related traits. Step intensity and circadian rhythm emerged as the most prominent ADP domains associated with diseases. In addition, we developed an artificial intelligence (AI) framework, named Wearable-Accelerometry-based Temporal-Structural Network (WATSNet), achieving high discrimination (AUC >0.7) for 112 (28.1%) incident and 65 (34.0%) prevalent diseases, e.g., incidence of Parkinson's disease (AUC = 0.873) and dementia (AUC = 0.841). We provided evidence-informed behavioral benchmarks associated with lower disease risks: at least 0.8 h per day of moderate-to-vigorous physical activity, 10,000 daily steps, and 7.8 h of sleep per day. Furthermore, we evaluated the generalizability of both ADP-disease associations and the performance of WATSNet in an external dataset (n = 4406). Together, these findings provide a comprehensive landscape linking digital behaviors to diverse health outcomes (https://digital-phenome-atlas.com) and a foundation for precision health monitoring.",
-    "authors": [
-      "Ying Liang",
-      "Yujia Zhao",
-      "Yueting Deng",
-      "Yuzhu Li",
-      "Yueming Xu",
-      "Yilin Chen",
-      "Xihan Cui",
-      "Zeyu Li",
-      "Yanting Wu",
-      "Barbara J Sahakian",
-      "Wanting He",
-      "Jianfeng Feng",
-      "Jintai Yu",
-      "Jia You",
-      "Wei Cheng"
-    ],
-    "published": "2026-Sep-22",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42829244/",
-    "pdf_url": null,
-    "doi": "10.1016/j.scib.2026.09.066",
-    "citations": 0,
-    "venue": "Science bulletin",
-    "open_access": false,
-    "ai_summary": "Digital wearable devices provide objective characterization of human behaviors in real-world settings . But their implications for health and diseases remain incompletely understood . Here, we analyzed a large-scale accelerometry-based cohort, including 70,473 participants with up to 10 years of follow-up"
-  },
-  {
-    "id": "pubmed:42829334",
-    "title": "Cell-free DNA fragmentomics: from chromatin biology to clinical stratification.",
-    "abstract": "Plasma cell-free DNA (cfDNA) is fragmented nonrandomly, reflecting the chromatin architecture of its source cells and the nucleases that process it. The fragmentome can therefore provide an indirect readout of cellular regulatory state. This review examines how DNA methylation, chromatin accessibility, nucleosome positioning, protein occupancy, and nuclease activity shape cfDNA fragmentation and considers their implications for oncology. We organize fragmentomic measurements into four classes: coverage and protection, fragment size, fragment-end properties, and diversity and entropy metrics. We discuss the genomic contexts in which these features are informative, including repetitive and transposable elements, and compare platforms by sequencing requirements, feature portability, and the fragment populations captured by different library chemistries. We then review applications in cancer screening, tissue-of-origin inference, molecular subtyping, prognosis, minimal residual disease detection, and treatment response monitoring. A central challenge for clinical translation is attributing fragmentomic changes to their tissue of origin. When cells die, they release DNA into the bloodstream as short pieces. These pieces are not broken at random. Where a break falls depends on how the DNA was packaged inside the cell it came from: DNA wound tightly around packaging proteins is shielded, whereas exposed stretches are cut more readily. The resulting pattern of breaks therefore carries information about the cell of origin, including whether that cell was cancerous. This article reviews what such patterns can and cannot show. It sets out which features of DNA packaging directly determine where breaks occur, and which are related to them only indirectly. It describes the four kinds of measurement made on these fragments: how many fragments cover a given region of the genome, how long the fragments are, what the sequence is at their ends, and how variable these properties are. It also explains how the laboratory procedure used to prepare a blood sample determines which fragments can be measured at all, which is important when results from different laboratories are compared. The article then reviews how these measurements are being applied in cancer: to detect disease, to identify the organ in which a tumor arose, to determine the type of tumor, to estimate the likely course of the illness, and to assess whether treatment is working. The principal difficulty is that blood contains DNA from many healthy cells as well as from tumor cells, so it is often uncertain which cells a given change originated from.",
-    "authors": [
-      "Tien-Dung Bui",
-      "Minh-Thu Phung",
-      "Teh-Ying Chou",
-      "Nguyen Quoc Khanh Le"
-    ],
-    "published": "2026-Oct-03",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42829334/",
-    "pdf_url": null,
-    "doi": "10.1080/17501911.2026.2740396",
-    "citations": 0,
-    "venue": "Epigenomics",
-    "open_access": false,
-    "ai_summary": "The fragmentome can provide an indirect readout of cellular regulatory state . This review examines how DNA methylation, chromatin accessibility, nucleosome positioning, protein occupancy, and nuclease activity shape cfDNA fragmentation ."
-  },
-  {
-    "id": "pubmed:42829301",
-    "title": "Assessing AI Feasibility for Pain Evaluation in Hospitalized Cognitively Impaired Older Adults.",
-    "abstract": "The objectives for this study were to examine the acceptability and feasibility of using the artificial intelligence-driven application PainChek A prospective cohort design was used. Six nurses were recruited and completed standardized training. Following the recruitment and onboarding of nurse participants, 25 patient participants were enrolled and assessed using the application. Once patient data collection was complete, qualitative interviews with nursing participants were conducted. Descriptive statistics were used for patient and nurse participant data, and descriptive content analysis captured nurses' experiences using PainChek Participant demographics included 16% with delirium, 20% with cognitive impairment, and 64% with dementia. Average length of stay in the study was 7.8 days, with an average pain score while being assessed as mild pain. Thematic coding was conducted using the nursing metaparadigm as the guiding conceptual framework. Results were validated using member checking. Our study demonstrates that it is acceptable and feasible to use PainChek",
-    "authors": [
-      "Danielle Dunwoody",
-      "Dawn Prentice",
-      "Greg Thomson",
-      "Callie Loveday"
-    ],
-    "published": "2026-Oct-03",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42829301/",
-    "pdf_url": null,
-    "doi": "10.1016/j.pmn.2026.09.013",
-    "citations": 0,
-    "venue": "Pain management nursing : official journal of the American Society of Pain Management Nurses",
-    "open_access": false,
-    "ai_summary": "PainChek A prospective cohort design was used to recruit nurses and train them . Thematic coding was conducted using the nursing metaparadigm as the guiding conceptual framework . Average length of stay was 7.8 days, with an average pain score while being assessed as mild pain ."
-  },
-  {
-    "id": "pubmed:42829331",
-    "title": "Mediterranean Diet, Physical Activity, and Metabolic Syndrome in Breast Cancer Survivors on Adjuvant Endocrine Therapy: A Cross-Sectional Study From North Africa.",
-    "abstract": "This study aimed to determine the prevalence of metabolic syndrome and to examine its association with Mediterranean diet adherence and physical activity among women receiving adjuvant endocrine therapy for hormone receptor-positive breast cancer, in North Africa. This cross-sectional study recruited 150 women in Oran, Algeria (May 2022-December 2025), receiving either tamoxifen ( Metabolic syndrome was highly prevalent, affecting 68.0% of participants. Although overall prevalence did not differ between treatment groups (aromatase inhibitors: 72.7%  Metabolic syndrome affects more than two-thirds of breast cancer survivors receiving endocrine therapy, and was independently associated with lower Mediterranean diet adherence and lower physical activity. Given the cross-sectional design, these associations cannot establish causality; nonetheless, these findings support further prospective and interventional research to determine whether modifying these behaviors could reduce this risk.",
-    "authors": [
-      "Ilhem Sarra Manel Mohamedi",
-      "Imene Moussaoui"
-    ],
-    "published": "2026-Oct-03",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42829331/",
-    "pdf_url": null,
-    "doi": "10.1080/27697061.2026.2731004",
-    "citations": 0,
-    "venue": "Journal of the American Nutrition Association",
-    "open_access": false,
-    "ai_summary": "The study recruited 150 women in Oran, Algeria, receiving either tamoxifen ( Metabolic syndrome was highly prevalent, affecting 68.0% of participants . Overall prevalence did not differ between treatment groups (aromatase inhibitors: 72.7%  Met"
-  },
-  {
-    "id": "pubmed:42829280",
-    "title": "Automated Quantification of 3-D Carotid Ultrasound Vessel Wall Texture Change Predicts Vascular Events.",
-    "abstract": "To reduce reliance on labor-intensive and operator-dependent explicit plaque segmentation, we evaluated whether a texture-change score (ΔTexture) derived from semi-automated 3-D ultrasound (3-DUS) vessel wall segmentation predicts vascular events better than baseline vessel wall texture (BL-Texture), vessel wall volume change (ΔVWV) and Framingham risk score. 3-DUS images were acquired from 272 patients with carotid atherosclerosis at baseline and 1 y later. Vessel walls were delineated using a validated, minimally user-initialized segmentation workflow. Longitudinal texture change was summarized as vessel wall ΔTexture and compared with BL-Texture, ΔVWV and Framingham risk score. Patients were followed for up to 5 y (median, 3.16 y) for myocardial infarction, transient ischemic attack and stroke. ΔTexture and BL-Texture predicted vascular events (log-rank, p < 0.001 for both), whereas ΔVWV did not. No event occurred in the lowest-risk tertile of ΔTexture. The area under the receiver operating characteristic curve of ΔTexture was 0.89, compared with 0.82 for BL-Texture, 0.53 for ΔVWV and 0.53 for Framingham risk score. In Cox regression, ΔTexture (median hazard ratio, 4.05; p < 0.001) and BL-Texture (median hazard ratio, 3.63; p < 0.001) were significant predictors, whereas ΔVWV and Framingham risk score were not. Vessel wall ΔTexture derived from minimally user-initialized 3-DUS vessel wall segmentation predicted vascular events better than ΔVWV and Framingham risk score. This approach provides a scalable imaging biomarker for vascular event risk assessment without requiring explicit plaque segmentation.",
-    "authors": [
-      "Zhaozheng Chen",
-      "Bernard Chiu"
-    ],
-    "published": "2026-Oct-04",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42829280/",
-    "pdf_url": null,
-    "doi": "10.1016/j.ultrasmedbio.2026.09.002",
-    "citations": 0,
-    "venue": "Ultrasound in medicine & biology",
-    "open_access": false,
-    "ai_summary": "The study was published in the Journal of the International Journal of Science . The journal published its first article on the journal's new book, \"The Journal of Studies of the World of Science\""
-  },
-  {
-    "id": "pubmed:42829267",
-    "title": "Reply to Riccardo Lombardo's Letter to the Editor re: Bi-Ming He, Keqin Zhang, Zhien Zhou, et al. Cognitive Versus Software-based Fusion targeted Biopsy for the Diagnosis of Clinically Significant Prostate Cancer: A Multicenter, Randomized, Noninferiority Trial (IMAGINATION). Eur Urol. In press. http://dx.doi.org/10.1016/j.eururo.2026.06.020.",
-    "abstract": "",
-    "authors": [
-      "Bi-Ming He",
-      "Hai-Feng Wang"
-    ],
-    "published": "2026-Oct-03",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42829267/",
-    "pdf_url": null,
-    "doi": "10.1016/j.eururo.2026.09.018",
-    "citations": 0,
-    "venue": "European urology",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "pubmed:42829256",
-    "title": "Ultrasound-Based Habitat Radiomics for Differentiating Phyllodes Tumor from Breast Fibroadenoma.",
-    "abstract": "Phyllodes tumors (PTs) and fibroadenomas (FAs) have overlapping ultrasound (US) appearances. This study aimed to develop and evaluate an interpretable machine-learning model integrating US radiomics, habitat features, and clinical variables. This retrospective multicenter study included 1950 pathologically confirmed lesions (1029 FAs and 921 PTs) divided into training (n=918), validation (n=474), and test (n=558) cohorts. Nineteen voxelwise features were used for K-means habitat segmentation. The number of clusters was selected from K=2-10 in the training cohort and evaluated across 50 random seeds. Whole-lesion, habitat, and combined habitat-radiomics (HR) signatures were developed using a train-only feature-selection pipeline, and ExtraTrees was selected as the classifier. The final combined model was built by probability-level late fusion of the ExtraTrees HR model and a logistic clinical model based on age, lesion size, and orientation. K=3 yielded the highest Calinski-Harabasz index (200,927.01). Clustering was stable across 50 random seeds, with mean adjusted Rand indices of 0.9942, 0.9948, and 0.9941 in the training, validation, and test cohorts, respectively. Feature selection retained 39 whole-lesion features and 34 habitat features (habitats 1-3: 1, 14, and 19). The combined model achieved AUCs of 0.921 (95% CI, 0.904-0.939), 0.797 (95% CI, 0.754-0.835), and 0.844 (95% CI, 0.813-0.877) in the training out-of-fold, validation, and test cohorts. In this multicenter cohort, a model integrating US habitat radiomics with age, lesion size, and orientation differentiated PTs from FAs with consistent discrimination across data partitions. Shapley additive explanations analysis provided global and case-level explanations of the combined prediction.",
-    "authors": [
-      "Qinwen Xue",
-      "Wenzhen Ding",
-      "Zhonglin Lu",
-      "Fang Chen",
-      "XiaoHong Jia",
-      "Jie Liu",
-      "Jiahong Sun",
-      "Shuao Li",
-      "Jianqiao Zhou",
-      "Cheng Zhao",
-      "Jie Yu",
-      "Ping Liang"
-    ],
-    "published": "2026-Oct-03",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42829256/",
-    "pdf_url": null,
-    "doi": "10.1016/j.acra.2026.09.010",
-    "citations": 0,
-    "venue": "Academic radiology",
-    "open_access": false,
-    "ai_summary": "Phyllodes tumors (PTs) and fibroadenomas (FAs) have overlapping ultrasound (US) appearances . This study aimed to develop and evaluate an interpretable machine-learning model ."
-  },
-  {
-    "id": "pubmed:42829175",
-    "title": "Unfolding new horizons: Machine learning applications for pediatric intussusception - A systematic review and meta-analysis.",
-    "abstract": "Pediatric intussusception is among the most common surgical emergencies in early childhood. Ultrasonography is the diagnostic standard but remains operator-dependent, and no validated machine learning (ML) tools exist for triage or prognostic stratification. We systematically evaluated ML models for diagnosis and prognosis of pediatric intussusception. This PROSPERO-registered systematic review and meta-analysis (CRD420251073590) included studies evaluating ML models for pediatric intussusception diagnosis or prognosis reporting sensitivity, specificity, or AUC. Risk of bias was assessed with PROBAST. A bivariate random-effects model was applied to internally and externally validated datasets, with subgroup analyses by input modality. Eleven studies (37 model variants; 36,863 patients) were included. Internally validated ultrasound (US) models (k=4) achieved pooled sensitivity 0.914 (0.829-0.959) and specificity 0.980 (0.939-0.994). Externally validated US models (k=3) showed sensitivity 0.946 (0.909-0.969) and specificity 0.958 (0.918-0.979). Abdominal radiograph (AXR) triage models performed lower externally (sensitivity 0.800 [0.725-0.859]; specificity 0.748 [0.662-0.819]), consistent with a screening role. Notably, AI assistance improved junior readers' specificity by 15.9 percentage points overall (up to 37.6 points for the most junior readers), and AI-assisted junior sonographers cut ultrasound examination time by 61% without loss of diagnostic accuracy. Possible publication bias was detected (Deeks' p=0.021). Prognostic AUCs ranged from 0.555 to 0.962. US-based ML models demonstrate high, externally robust diagnostic accuracy. AXR models suit screening but need further validation. No study reported clinical endpoint data. Multicenter prospective validation outside Asia and regulatory pathway development are required before implementation. Until then, AXR-based models should be positioned as an adjunct that raises suspicion, never as a gate that determines which child receives an ultrasound. Level III - Systematic Review and Meta-Analysis of retrospective diagnostic accuracy studies.",
-    "authors": [
-      "Letícia Rocha Campos",
-      "Solonas Symeou",
-      "Gisella Chiara Carpi",
-      "Dan Poenaru"
-    ],
-    "published": "2026-Oct-03",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42829175/",
-    "pdf_url": null,
-    "doi": "10.1016/j.jpedsurg.2026.163518",
-    "citations": 0,
-    "venue": "Journal of pediatric surgery",
-    "open_access": false,
-    "ai_summary": "Pediatric intussusception is among the most common surgical emergencies in early childhood . Ultrasonography is the diagnostic standard but remains operator-dependent . No validated machine learning (ML) tools exist for triage or prognostic stratification ."
-  },
-  {
-    "id": "pubmed:42829157",
-    "title": "Opal glass method, an extraction-free way to access microalgae pigment content.",
-    "abstract": "A new extraction-free and non-destructive method to evaluate pigment content (chlorophyll a, chlorophyll b, and total carotenoids) in microalgae cells is introduced. It relies on the use of a spectrophotometer and an optical diffuser, together coined as the opal glass method. First, the practical aspects of the technique are consolidated (ease of setting up, usage of disposable cuvettes, speed of data acquisition, …). Then, a database is created to link opal glass spectra to microalgae pigment contents obtained by a methanol-extraction method. Partial Least Squares (PLS - machine learning) and Convolutional Neural Networks (CNN - deep learning) are investigated to retrieve cell pigment content from opal spectra. Data preprocessing (filtration, augmentation/derivative-based feature engineering, signal scaling) is investigated in a systematic manner for both algorithms. In addition, two CNN architectures are tested, and hyperparameters are optimized for each possible combination. Overall, PLS shows merit, but sometimes offers some misprediction, resulting in a 10 to 15 Mean Absolute Percent Error (MAPE). On the contrary, the CNN achieves a stable sub-10 MAPE, making it the tool of choice to link opal glass spectra and cell pigment content. Finally, a learning curve analysis is carried out to demonstrate that the number of samples required to train the algorithms remains manageable (60-90 for the PLS, 80-150 for the CNN). Overall, this technique reduces pigment quantification from several hours (at best) to less than two minutes and opens the way to online reliable microalgal pigment content monitoring.",
-    "authors": [
-      "Victor Pozzobon",
-      "Clarisse Arnoudts",
-      "Wendie Levasseur"
-    ],
-    "published": "2026-Oct-03",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42829157/",
-    "pdf_url": null,
-    "doi": "10.1016/j.biortech.2026.135966",
-    "citations": 0,
-    "venue": "Bioresource technology",
-    "open_access": false,
-    "ai_summary": "A new extraction-free and non-destructive method to evaluate pigment content in microalgae cells is introduced . It relies on the use of a spectrophotometer and an optical diffuser, together coined as the opal glass method . The practical aspects of the technique are consolidated ."
   },
   {
     "id": "openalex:W7118720654",
@@ -1426,7 +1204,7 @@
     "pdf_url": "https://doi.org/10.5281/zenodo.19918373",
     "doi": "10.5281/zenodo.19918373",
     "citations": 0,
-    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "venue": "International Comprehensive Technology and Science Journal",
     "open_access": true,
     "ai_summary": "No abstract available."
   },
@@ -1588,207 +1366,150 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "openalex:W7161593175",
-    "title": "Regulatory Language Limits Satellite-Based Enforcement in Marine Protected Areas",
+    "id": "openalex:W7219028317",
+    "title": "Distorting the trust signal: review subjectivity, polarity and the conditional bias of online merchant ratings",
     "abstract": "",
     "authors": [
-      "Fabio Favoretto"
+      "Ouidade Sabri",
+      "Redouane Bakrim"
     ],
-    "published": "2026-10-02",
+    "published": "2026-10-04",
     "source": "OpenAlex",
     "category": "index",
-    "url": "https://doi.org/10.5281/zenodo.20268178",
-    "pdf_url": "https://doi.org/10.5281/zenodo.20268178",
-    "doi": "10.5281/zenodo.20268178",
+    "url": "https://doi.org/10.1108/k-05-2026-1371",
+    "pdf_url": null,
+    "doi": "10.1108/k-05-2026-1371",
     "citations": 0,
-    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "venue": "Kybernetes",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W4396600468",
+    "title": "A Survey of Deep Learning Based Software Refactoring",
+    "abstract": "",
+    "authors": [
+      "Bridget Nyirongo",
+      "Yanjie Jiang",
+      "He Jiang",
+      "Hui Liu"
+    ],
+    "published": "2026-10-03",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.1145/3849693",
+    "pdf_url": "https://arxiv.org/pdf/2404.19226",
+    "doi": "10.1145/3849693",
+    "citations": 3,
+    "venue": "ACM Computing Surveys",
     "open_access": true,
     "ai_summary": "No abstract available."
   },
   {
-    "id": "openalex:W7215046727",
-    "title": "Computational Sacred Scripture Studies: Evaluating Interpretive Alignment in AI and NLP-Based Analysis of Religious Texts",
+    "id": "openalex:W7117808524",
+    "title": "Agentic Software Issue Resolution with Large Language Models: A Survey",
     "abstract": "",
     "authors": [
-      "Izhar Hasan",
-      "Ayan Hasan",
-      "Zaryan Hasan"
+      "Zhonghao Jiang",
+      "David Lo",
+      "Zhongxin Liu"
     ],
-    "published": "2026-10-02",
+    "published": "2026-10-03",
     "source": "OpenAlex",
     "category": "index",
-    "url": "https://doi.org/10.5281/zenodo.23091814",
-    "pdf_url": "https://doi.org/10.5281/zenodo.23091814",
-    "doi": "10.5281/zenodo.23091814",
-    "citations": 0,
-    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "url": "https://doi.org/10.1145/3849702",
+    "pdf_url": "https://doi.org/10.1145/3849702",
+    "doi": "10.1145/3849702",
+    "citations": 3,
+    "venue": "ACM Computing Surveys",
     "open_access": true,
     "ai_summary": "No abstract available."
   },
   {
-    "id": "openalex:W4414988554",
-    "title": "Unsupervised deep generative models for anomaly detection in neuroimaging: A systematic scoping review",
+    "id": "openalex:W4309873536",
+    "title": "Edge Multiway Cut and Node Multiway Cut are Hard for Planar Subcubic Graphs",
     "abstract": "",
     "authors": [
-      "Youwan Mahé",
-      "Élise Bannier",
-      "Stéphanie Leplaideur",
-      "Elisa Fromont",
-      "Francesca Galassi"
+      "Matthew Johnson",
+      "Barnaby D. Martin",
+      "Sukanya Pandey",
+      "Daniël Paulusma",
+      "Siani Smith",
+      "Erik Jan van Leeuwen"
     ],
-    "published": "2026-10-02",
+    "published": "2026-10-03",
     "source": "OpenAlex",
     "category": "index",
-    "url": "https://doi.org/10.1016/j.bspc.2026.111572",
-    "pdf_url": "https://doi.org/10.1016/j.bspc.2026.111572",
-    "doi": "10.1016/j.bspc.2026.111572",
+    "url": "https://doi.org/10.1007/s00453-026-01412-5",
+    "pdf_url": "https://doi.org/10.1007/s00453-026-01412-5",
+    "doi": "10.1007/s00453-026-01412-5",
     "citations": 0,
-    "venue": "Biomedical Signal Processing and Control",
+    "venue": "Algorithmica",
     "open_access": true,
     "ai_summary": "No abstract available."
   },
   {
-    "id": "openalex:W7167836117",
-    "title": "Perspectives on inverse design for AI magnonics",
+    "id": "openalex:W4414828519",
+    "title": "Generalized Space Time Fractional Skellam Process",
     "abstract": "",
     "authors": [
-      "Franz Vilsmeier",
-      "Florian Bruckner",
-      "Claas Abert",
-      "Dieter Suess",
-      "Andrii V. Chumak"
+      "Kartik Tathe",
+      "Sayan Ghosh"
     ],
-    "published": "2026-10-02",
+    "published": "2026-10-03",
     "source": "OpenAlex",
     "category": "index",
-    "url": "https://doi.org/10.1088/1361-6463/aeaf62",
-    "pdf_url": "https://doi.org/10.1088/1361-6463/aeaf62",
-    "doi": "10.1088/1361-6463/aeaf62",
+    "url": "https://doi.org/10.1007/s11009-026-10341-3",
+    "pdf_url": "https://arxiv.org/pdf/2504.08374",
+    "doi": "10.1007/s11009-026-10341-3",
     "citations": 0,
-    "venue": "Journal of Physics D Applied Physics",
+    "venue": "Methodology And Computing In Applied Probability",
     "open_access": true,
     "ai_summary": "No abstract available."
   },
   {
-    "id": "openalex:W7215032658",
-    "title": "Digital competence, artificial intelligence utilization, and innovation capability: Basis for a maritime technology adoption framework for Filipino seafarers",
+    "id": "openalex:W4415026044",
+    "title": "A Survey of Robotic Navigation and Manipulation with Physics Simulators in the Era of Embodied AI",
     "abstract": "",
     "authors": [
-      "John Edward L Umali"
+      "Liang Wei Wong",
+      "Xueyang Kang",
+      "Kaixin Bai",
+      "Jianwei Zhang"
     ],
-    "published": "2026-10-02",
+    "published": "2026-10-03",
     "source": "OpenAlex",
     "category": "index",
-    "url": "https://doi.org/10.5861/ijrsm.2026.26127",
-    "pdf_url": "https://consortiacademia.org/wp-content/uploads/2024/m14v05/M26127_final.pdf",
-    "doi": "10.5861/ijrsm.2026.26127",
+    "url": "https://doi.org/10.1145/3856802",
+    "pdf_url": "https://doi.org/10.1145/3856802",
+    "doi": "10.1145/3856802",
     "citations": 0,
-    "venue": "International Journal of Research Studies in Management",
+    "venue": "ACM Computing Surveys",
     "open_access": true,
     "ai_summary": "No abstract available."
   },
   {
-    "id": "openalex:W7215044277",
-    "title": "Enterprise Architecture for the Research and Community Service Department of Politeknik Internasional Bali Using the TOGAF ADM",
-    "abstract": "",
+    "id": "arxiv:2610.02208v1",
+    "title": "Sphere Encoder 2",
+    "abstract": "Sphere Encoder is an autoencoder that generates images by decoding random points from a high-dimensional latent sphere. We identify two limitations of the original formulation that reduce its generation quality. First, random points concentrate near the equator relative to the pole on an encoded latent, but the training rotation never reaches this region, leaving a gap that limits one-step generation. Second, training for generation with pixel-wise reconstruction loss encourages the decoder to average over plausible images, producing blurry images that lack high-frequency details. We present Sphere Encoder 2 to address both limitations, substantially improving image generation quality while maintaining the speed and simplicity of a autoencoder. Models are released at \\href{https://github.com/kaiyuyue/sphere2}{github.com/kaiyuyue/sphere2}.",
     "authors": [
-      "M. Setia Dharmawan Suarsana",
-      "Kadek Yunita Dewi",
-      "I Dewa Ayu Indah Saraswati",
-      "Gede Rasben Dantes",
-      "Gede Indrawan",
-      "Ibnu Gunawan"
-    ],
-    "published": "2026-10-02",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.59688/yq41sd98",
-    "pdf_url": "https://bufnets.tech/index.php/bufnets/article/download/193/131",
-    "doi": "10.59688/yq41sd98",
-    "citations": 0,
-    "venue": "BULLETIN OF NETWORK ENGINEER AND INFORMATICS",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W7215062630",
-    "title": "Interpreting a Multimodal Late-Fusion Model for Municipality-Level Community Bus and Demand-Responsive Bus Classification in Kyushu Area Using SHAP and Grad CAM",
-    "abstract": "",
-    "authors": [
-      "Raden Muhammad Azhar Ardlin Syah",
-      "Syuji Yoshiki",
-      "Hera Widyastuti"
-    ],
-    "published": "2026-10-02",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.37899/journallamultiapp.v7i4.5926",
-    "pdf_url": "https://newinera.com/index.php/JournalLaMultiapp/article/download/5926/2721",
-    "doi": "10.37899/journallamultiapp.v7i4.5926",
-    "citations": 0,
-    "venue": "Journal La Multiapp",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "arxiv:2610.02206v1",
-    "title": "KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards",
-    "abstract": "LLMs are increasingly applied to cybersecurity workflows, where they are expected to translate analysts' intent into tool invocations. However, existing evaluations focus on knowledge-based assessments or end-to-end agentic tasks, and do not directly measure LLMs' ability to generate executable commands for real-world cybersecurity tools. This gap is critical because cybersecurity operations rely on strict command-line interfaces (CLIs), where minor syntax errors, incorrect flag--value bindings, or argument misordering can invalidate execution. We introduce KaliBench, a fine-grained benchmark and dataset for natural-language--to--CLI translation on Kali Linux, comprising 8,504 query--command pairs spanning 1,642 tools across 23 capability dimensions and 5 security phases. KaliBench is constructed via a manuscript-grounded pipeline with deterministic canonicalization and alias-aware evaluation, enabling precise and reproducible assessment of tool selection and argument construction. To ensure both semantic correctness and practical executability, we develop a multi-stage verification pipeline that combines LLM-based validation, sandboxed terminal execution, and human-in-the-loop refinement. Building on these fine-grained, deterministic signals, KaliBench further enables runtime-free verifiable rewards for training. Across three evaluation modes and 24 configurations of general-purpose and security-focused open-weight models, no open-weight model exceeds 42% exact-command accuracy in the unrestricted setting, highlighting the difficulty of accurate CLI-based cybersecurity tool use without explicit tool hints. We further show that supervised fine-tuning and reinforcement learning with verifiable rewards derived from KaliBench significantly improve an 8B model and achieve performance comparable to a 685B MoE model.",
-    "authors": [
-      "Pengfei Li",
-      "Naufal Suryanto",
-      "Sicheng Zhang",
-      "Muzammal Naseer"
+      "Kaiyu Yue",
+      "Sean McLeish",
+      "Ruchit Rawal",
+      "Brian Bartoldson",
+      "Menglin Jia",
+      "Tom Goldstein"
     ],
     "published": "2026-10-01",
     "source": "arXiv",
     "category": "preprint",
-    "url": "https://arxiv.org/abs/2610.02206v1",
-    "pdf_url": "https://arxiv.org/pdf/2610.02206v1",
+    "url": "https://arxiv.org/abs/2610.02208v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.02208v1",
     "doi": null,
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "LLMs are increasingly applied to cybersecurity workflows, where they are expected to translate analysts' intent into tool invocations . But existing evaluations focus on knowledge-based assessments or end-to-end agentic tasks ."
-  },
-  {
-    "id": "arxiv:2610.02210v1",
-    "title": "Moore, Escher, Penrose: A Conformal Golden Braid",
-    "abstract": "I don't think I have ever done anything as peculiar in my life. Among other things, it shows a young man looking with interest at a print on the wall of an exhibition that features himself. How can this be? Perhaps I am not far removed from Einstein's curved universe.'' So wrote M.C. Escher about his 1956 lithograph Print Gallery. Nearly half a century later, a mathematical analysis related its geometry to an untwisted source image through a conformal power map $z \\mapsto z^α$, $α\\in \\mathbb{C}$. Building on this construction, we use a frozen text-to-image diffusion model to generate new self-referential scenes. Prompting alone does not enforce the recursion, while a post-hoc transformation can leave structures poorly connected. Applying the transformation during sampling is also insufficient: the denoiser may \"repair\" the intended distortion or drift out of the prescribed geometry. We construct a generalized inverse $T^\\dagger$ of the non-invertible image transformation $T$, adapted to its recursive constraint. In the idealized formulation, the Penrose identity $TT^\\dagger T = T$ makes $TT^\\dagger$ an idempotent projection onto geometrically admissible images. Yet denoising only the transformed image remains an out-of-distribution task, even with projection. We therefore braid denoising steps with $T$ and $T^\\dagger$: source-space steps develop the untwisted scene, while transformed-space steps refine its appearance and connections in the final geometry. We generate Print Gallery-like compositions and explore further transformations. Rather than distorting a finished image, we let the scene and its distortion develop together.",
-    "authors": [
-      "Sophia Feldman",
-      "Assaf Shocher"
-    ],
-    "published": "2026-10-01",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2610.02210v1",
-    "pdf_url": "https://arxiv.org/pdf/2610.02210v1",
-    "doi": null,
-    "citations": 0,
-    "venue": "arXiv preprint",
-    "open_access": true,
-    "ai_summary": "M.C. Escher wrote about his 1956 lithograph Print Gallery . A mathematical analysis related its geometry to an untwisted source image through a conformal power map ."
-  },
-  {
-    "id": "arxiv:2610.02207v1",
-    "title": "One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars",
-    "abstract": "3D Gaussian avatars support fast rendering, however, their real-time animation is often challenged by the costly neural inference. We address this bottleneck and show that the animation of pretrained avatar models can be closely approximated by a linear combination of identity-independent blendshapes. Building on this finding, we introduce GALA (Gaussian Animation via Linear Approximation), a distillation method that replaces per-frame heavy neural decoding with a shallow coefficient predictor and a linear blend. To improve fidelity and reduce memory requirements, we propose to construct the basis using block-local PCA under a rendering-aware metric and a memory budget. Our method learns a shallow MLP network to predict blendshape coefficients and applies to various animation architectures without retraining original models. We validate GALA by accelerating the inference of three distinct avatar models for 3D animation of facial expressions and full-bodies with clothing dynamics. Across these models, our distillation generalizes to held-out identities and reduces CPU animation cost by up to three orders of magnitude while preserving most of the rendering quality. Excellent results of our method confirm the shared linear structure of learned avatar representations and enable highly efficient and accurate animation at frame rates reaching up to 60fps on mobile devices. Project page: https://ramazan793.github.io/gala/",
-    "authors": [
-      "Ramazan Fazylov",
-      "Stamatis Lefkimmiatis",
-      "Ivan Laptev"
-    ],
-    "published": "2026-10-01",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2610.02207v1",
-    "pdf_url": "https://arxiv.org/pdf/2610.02207v1",
-    "doi": null,
-    "citations": 0,
-    "venue": "arXiv preprint",
-    "open_access": true,
-    "ai_summary": "3D Gaussian avatars support fast rendering, but their real-time animation is often challenged by the costly neural inference . We introduce GALA (Gaussian Animation via Linear Approximation), a distillation method that replaces per-frame heavy neural decoding with a shallow coefficient predictor and a linear blend ."
+    "ai_summary": "Sphere Encoder is an autoencoder that generates images by decoding random points from a high-dimensional latent sphere . We present Sphere Encoder 2 to address both limitations of the original formulation and improve image generation quality ."
   },
   {
     "id": "arxiv:2610.02204v1",
@@ -1818,6 +1539,66 @@
     "ai_summary": "Reconstruct, Practice, Go Real (RPG) is a framework for autonomous improvement of robot execution systems without updating model weights . RPG identifies manipulation capabilities in an offline dataset and constructs related practice tasks in simulation . It develops new reusable symbolic skills, refines existing skills, and revises the system prompt based on these diagnoses ."
   },
   {
+    "id": "arxiv:2610.02206v1",
+    "title": "KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards",
+    "abstract": "LLMs are increasingly applied to cybersecurity workflows, where they are expected to translate analysts' intent into tool invocations. However, existing evaluations focus on knowledge-based assessments or end-to-end agentic tasks, and do not directly measure LLMs' ability to generate executable commands for real-world cybersecurity tools. This gap is critical because cybersecurity operations rely on strict command-line interfaces (CLIs), where minor syntax errors, incorrect flag--value bindings, or argument misordering can invalidate execution. We introduce KaliBench, a fine-grained benchmark and dataset for natural-language--to--CLI translation on Kali Linux, comprising 8,504 query--command pairs spanning 1,642 tools across 23 capability dimensions and 5 security phases. KaliBench is constructed via a manuscript-grounded pipeline with deterministic canonicalization and alias-aware evaluation, enabling precise and reproducible assessment of tool selection and argument construction. To ensure both semantic correctness and practical executability, we develop a multi-stage verification pipeline that combines LLM-based validation, sandboxed terminal execution, and human-in-the-loop refinement. Building on these fine-grained, deterministic signals, KaliBench further enables runtime-free verifiable rewards for training. Across three evaluation modes and 24 configurations of general-purpose and security-focused open-weight models, no open-weight model exceeds 42% exact-command accuracy in the unrestricted setting, highlighting the difficulty of accurate CLI-based cybersecurity tool use without explicit tool hints. We further show that supervised fine-tuning and reinforcement learning with verifiable rewards derived from KaliBench significantly improve an 8B model and achieve performance comparable to a 685B MoE model.",
+    "authors": [
+      "Pengfei Li",
+      "Naufal Suryanto",
+      "Sicheng Zhang",
+      "Muzammal Naseer"
+    ],
+    "published": "2026-10-01",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2610.02206v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.02206v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "LLMs are increasingly applied to cybersecurity workflows, where they are expected to translate analysts' intent into tool invocations . But existing evaluations focus on knowledge-based assessments or end-to-end agentic tasks ."
+  },
+  {
+    "id": "arxiv:2610.02207v1",
+    "title": "One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars",
+    "abstract": "3D Gaussian avatars support fast rendering, however, their real-time animation is often challenged by the costly neural inference. We address this bottleneck and show that the animation of pretrained avatar models can be closely approximated by a linear combination of identity-independent blendshapes. Building on this finding, we introduce GALA (Gaussian Animation via Linear Approximation), a distillation method that replaces per-frame heavy neural decoding with a shallow coefficient predictor and a linear blend. To improve fidelity and reduce memory requirements, we propose to construct the basis using block-local PCA under a rendering-aware metric and a memory budget. Our method learns a shallow MLP network to predict blendshape coefficients and applies to various animation architectures without retraining original models. We validate GALA by accelerating the inference of three distinct avatar models for 3D animation of facial expressions and full-bodies with clothing dynamics. Across these models, our distillation generalizes to held-out identities and reduces CPU animation cost by up to three orders of magnitude while preserving most of the rendering quality. Excellent results of our method confirm the shared linear structure of learned avatar representations and enable highly efficient and accurate animation at frame rates reaching up to 60fps on mobile devices. Project page: https://ramazan793.github.io/gala/",
+    "authors": [
+      "Ramazan Fazylov",
+      "Stamatis Lefkimmiatis",
+      "Ivan Laptev"
+    ],
+    "published": "2026-10-01",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2610.02207v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.02207v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "3D Gaussian avatars support fast rendering, but their real-time animation is often challenged by the costly neural inference . We introduce GALA (Gaussian Animation via Linear Approximation), a distillation method that replaces per-frame heavy neural decoding with a shallow coefficient predictor and a linear blend ."
+  },
+  {
+    "id": "arxiv:2610.02210v1",
+    "title": "Moore, Escher, Penrose: A Conformal Golden Braid",
+    "abstract": "I don't think I have ever done anything as peculiar in my life. Among other things, it shows a young man looking with interest at a print on the wall of an exhibition that features himself. How can this be? Perhaps I am not far removed from Einstein's curved universe.'' So wrote M.C. Escher about his 1956 lithograph Print Gallery. Nearly half a century later, a mathematical analysis related its geometry to an untwisted source image through a conformal power map $z \\mapsto z^α$, $α\\in \\mathbb{C}$. Building on this construction, we use a frozen text-to-image diffusion model to generate new self-referential scenes. Prompting alone does not enforce the recursion, while a post-hoc transformation can leave structures poorly connected. Applying the transformation during sampling is also insufficient: the denoiser may \"repair\" the intended distortion or drift out of the prescribed geometry. We construct a generalized inverse $T^\\dagger$ of the non-invertible image transformation $T$, adapted to its recursive constraint. In the idealized formulation, the Penrose identity $TT^\\dagger T = T$ makes $TT^\\dagger$ an idempotent projection onto geometrically admissible images. Yet denoising only the transformed image remains an out-of-distribution task, even with projection. We therefore braid denoising steps with $T$ and $T^\\dagger$: source-space steps develop the untwisted scene, while transformed-space steps refine its appearance and connections in the final geometry. We generate Print Gallery-like compositions and explore further transformations. Rather than distorting a finished image, we let the scene and its distortion develop together.",
+    "authors": [
+      "Sophia Feldman",
+      "Assaf Shocher"
+    ],
+    "published": "2026-10-01",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2610.02210v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.02210v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "M.C. Escher wrote about his 1956 lithograph Print Gallery . A mathematical analysis related its geometry to an untwisted source image through a conformal power map ."
+  },
+  {
     "id": "arxiv:2610.02205v1",
     "title": "ROWBench: Do Video Models Render What the Program Specifies?",
     "abstract": "Programmable world models separate executable dynamics from visual generation, offering a promising foundation for next-generation game engines. However, their visual adherence to explicit rules and interactions remains insufficiently evaluated. Existing benchmarks assess visual quality, controllability, and instruction or physical adherence, but rarely test fidelity to fine-grained, program-specified world events. We introduce PROWBench, comprising 170 programmatically constructed episodes and 600 proxy videos covering diverse scenes and interactions. PROWBench logs entity states and timestamped events, including those outside the camera's field of view, as replayable world records, from which it renders synchronized views and proxy representations. This enables generated videos to be checked against the observable consequences of program execution. An extensible framework constructs scenes, controls behaviors, and can render each camera view in different representations, such as coarse 3D, and bounding boxes. The benchmark covers first- and third-person perspectives, with synchronized multi-view observations available for a subset of episodes. Grounded in these records, PROWBench evaluates entity control, long-horizon memory, and, with two VLM-based metrics, Logic-Render Alignment and Interaction Success Rate, adherence to the prescribed timeline and the visual realization of timestamped engine-recorded events.",
@@ -1842,29 +1623,6 @@
     "venue": "arXiv preprint",
     "open_access": true,
     "ai_summary": "Programmable world models separate executable dynamics from visual generation . PROWBench logs events as replayable world records, from which it renders synchronized views and proxy representations ."
-  },
-  {
-    "id": "arxiv:2610.02208v1",
-    "title": "Sphere Encoder 2",
-    "abstract": "Sphere Encoder is an autoencoder that generates images by decoding random points from a high-dimensional latent sphere. We identify two limitations of the original formulation that reduce its generation quality. First, random points concentrate near the equator relative to the pole on an encoded latent, but the training rotation never reaches this region, leaving a gap that limits one-step generation. Second, training for generation with pixel-wise reconstruction loss encourages the decoder to average over plausible images, producing blurry images that lack high-frequency details. We present Sphere Encoder 2 to address both limitations, substantially improving image generation quality while maintaining the speed and simplicity of a autoencoder. Models are released at \\href{https://github.com/kaiyuyue/sphere2}{github.com/kaiyuyue/sphere2}.",
-    "authors": [
-      "Kaiyu Yue",
-      "Sean McLeish",
-      "Ruchit Rawal",
-      "Brian Bartoldson",
-      "Menglin Jia",
-      "Tom Goldstein"
-    ],
-    "published": "2026-10-01",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2610.02208v1",
-    "pdf_url": "https://arxiv.org/pdf/2610.02208v1",
-    "doi": null,
-    "citations": 0,
-    "venue": "arXiv preprint",
-    "open_access": true,
-    "ai_summary": "Sphere Encoder is an autoencoder that generates images by decoding random points from a high-dimensional latent sphere . We present Sphere Encoder 2 to address both limitations of the original formulation and improve image generation quality ."
   },
   {
     "id": "arxiv:2610.02203v1",
@@ -2136,7 +1894,7 @@
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "Step-size selection remains a central challenge in large-scale neural network optimization . ZFO uses a trusted first-order optimizer to determine the direction and performs zeroth-order evaluations only along this one-dimensional subspace ."
+    "ai_summary": "ZFO uses a trusted first-order optimizer to determine direction and performs zeroth-order evaluations only along this one-dimensional subspace to choose how far to move . This yields an adaptive step-selection mechanism that costs less than a full line search ."
   },
   {
     "id": "arxiv:2610.02189v1",
@@ -2334,7 +2092,7 @@
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "Multi-teacher on-policy distillation (MOPD) aims to combine the strengths of RL-trained teachers in a single student . We study Qwen3-1.7B with four domain teachers trained with RL from same initialization as the student ."
+    "ai_summary": "Multi-teacher on-policy distillation (MOPD) aims to combine the strengths of RL-trained teachers in a single student . We study Qwen3-1.7B with four domain teachers trained with RL from the same initialization as the student ."
   },
   {
     "id": "arxiv:2610.02175v1",
@@ -2397,7 +2155,7 @@
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "Robots operating in the physical world will increasingly need to coordinate with other robots . Physical limitations caused by hardware degradation or actuator faults can restrict the actions a robot can reliably execute, but these limitations may be unknown to its partner ."
+    "ai_summary": "Robots operating in the physical world will increasingly need to coordinate with other robots . Physical limitations caused by hardware degradation or actuator faults can restrict the actions a robot can reliably execute . But these limitations may be unknown to its partner ."
   },
   {
     "id": "arxiv:2610.02163v1",
@@ -2608,7 +2366,7 @@
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "O Omni-Embed-Mini is a 0.9B-parameter model that maps text, speech, audio, images, video, and visually-rich documents into a single shared cosine space without updating any text-side parameter ."
+    "ai_summary": "O Omni-Embed-Mini is a 0.9B-parameter model that maps text, speech, audio, images, video, and visually-rich documents into a single shared cosine space without updating any text-side parameter . The recipe carries over to a 2.3B variant by swapping in a native vision-language"
   },
   {
     "id": "arxiv:2610.02144v1",
@@ -2667,7 +2425,7 @@
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "Introducing new capabilities to frontier models has long been the goal of posttraining . RL enables strong generalization on new tasks without losing existing capabilities . SFT can learn from off-policy expert data, while RL must rely on model's ability to find successful trajectories with repeated sampling ."
+    "ai_summary": "Introducing new capabilities to frontier models has long been the goal of posttraining . RL enables strong generalization on new tasks without losing existing capabilities . SFT can learn from off-policy expert data, while RL must rely on a model's ability to find successful trajectories with repeated sampling ."
   },
   {
     "id": "arxiv:2610.02136v1",
@@ -2705,7 +2463,7 @@
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "We study linear programming (LP) representations and strongly polynomial algorithms for robust Markov decision processes . We construct a single LP whose optimal solutions recover the robust optimal value and all optimal stationary randomized policies . At fixed discount, the LP has polyncular dimension and encoding length and can be constructed in strongly poynomial time"
+    "ai_summary": "We study linear programming (LP) representations and strongly polynomial algorithms for robust Markov decision processes . We construct a single LP whose optimal solutions recover the robust optimal value and all optimal stationary randomized policies . At fixed discount, the LP has polynictional dimension and encoding length and can be constructed in strongly poynomial time"
   },
   {
     "id": "arxiv:2610.02128v1",
@@ -2858,5 +2616,221 @@
     "venue": "arXiv preprint",
     "open_access": true,
     "ai_summary": "MEVA (Mesh-Enhanced Volumetric Autoencoder) is a self-supervised framework that encodes voxel-level image intensity together with cortical mesh geometry . This framework captures only part of the heritable variation in brain anatomy ."
+  },
+  {
+    "id": "pubmed:42829788",
+    "title": "Design and implementation of a pediatric failure to thrive registry system in Iran.",
+    "abstract": "Failure to thrive (FTT) refers to inadequate growth caused by an inability to acquire or use enough calories for growth. It refers to a failure to develop over time, which can lead to more serious problems in adulthood if left untreated. FTT is a significant global health concern, particularly in developing countries like Iran. Effective FTT management necessitates timely, inclusive, and precise data on children's FTT status. A pediatric FTT registry system is a useful tool for gathering and managing data on children with FTT. This study proposes a pediatric FTT registry system for Iran. A developmental-applied study was conducted in three phases during 2024. The first phase involved defining the features of a pediatric FTT registry system through interviews with experts. The second phase entailed expert validation using the Delphi method. In the third phase, the software was designed based on a conceptual model using the Hypertext Preprocessor programming language and the Laravel framework. PostgreSQL was employed as the database management system. Moreover, Nielsen's Ten Usability Heuristics was used to evaluate the software's usability from the users' perspectives. Experts validated the features of the pediatric FTT registry system, resulting in a framework that included eight headings, 24 sub-headings, and 117 data elements. The usability assessment of the software revealed that the highest number of issues concerned the \"error prevention\" indicator, whereas the \"aesthetic and minimalist design\" indicator presented the fewest problems and was assumed flawless. A pediatric FFT registry system contributes significantly to service planning, management, disease surveillance, and research. Accordingly, future research is recommended to investigate the feasibility of implementing the pediatric FFT registry system in Iran.",
+    "authors": [
+      "Sahar Khademi",
+      "Mostafa Langarizadeh",
+      "Abbas Sheikhtaheri"
+    ],
+    "published": "2026",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42829788/",
+    "pdf_url": null,
+    "doi": "10.4103/jehp.jehp_852_25",
+    "citations": 0,
+    "venue": "Journal of education and health promotion",
+    "open_access": false,
+    "ai_summary": "A pediatric FTT registry system is a useful tool for gathering and managing data on children with FTT . This study proposes a pediatric F TT registry system for Iran ."
+  },
+  {
+    "id": "pubmed:42829777",
+    "title": "NOISY MRI RECONSTRUCTION VIA MAP ESTIMATION WITH AN IMPLICIT DEEP-DENOISER PRIOR.",
+    "abstract": "Accelerating magnetic resonance imaging (MRI) remains challenging, particularly under realistic acquisition noise. While diffusion models have recently shown promise for reconstructing undersampled MRI data, many approaches lack an explicit link to the underlying MRI physics, and their parameters are sensitive to measurement noise, limiting their reliability in practice. We introduce ",
+    "authors": [
+      "Nikola Janjušević",
+      "Amirhossein Khalilian-Gourtani",
+      "Yao Wang",
+      "Li Feng"
+    ],
+    "published": "2026",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42829777/",
+    "pdf_url": null,
+    "doi": "10.1109/icip61757.2026.11630206",
+    "citations": 0,
+    "venue": "Proceedings. International Conference on Image Processing",
+    "open_access": false,
+    "ai_summary": "Accelerating magnetic resonance imaging (MRI) remains challenging, particularly under realistic acquisition noise . Many approaches lack an explicit link to the underlying MRI physics, and their parameters are sensitive to measurement noise ."
+  },
+  {
+    "id": "pubmed:42829768",
+    "title": "The effect of self-study training on resilience and effective coping style of women involved in domestic violence.",
+    "abstract": "Intimate partner violence (IPV) is a serious yet preventable public health issue. Resilience plays a significant role in helping women overcome the effects of IPV. The aim of this study was to investigate the effect of self-help training on the resilience of women exposed to IPV. In this clinical trial, 62 female survivors of violence who were attending comprehensive health service centers in 2022, randomly assigned to either an intervention or a control group. Data collection instruments included a demographic characteristics questionnaire, the Violence Against Women Scale, the Connor-Davidson Resilience Scale (CD-RISC), and the problem-focused coping subscale of the Ways of Coping Questionnaire (WOCQ) by Lazarus and Folkman. The training in this study was delivered in person using lectures, group discussions, and question-and-answer sessions. The total number of sessions was 14 sessions of 60 min each, for two groups of 16 participants. Data were analyzed using SPSS software (version 21), independent  The results demonstrated a significant increase in resilience scores in the intervention group over time, (baseline 58.27 ± 19.83, immediately 65.79 ± 17.77, one month 66.68 ± 17.49, and two months 66.44 ± 17.61, post-intervention) ( Verbal self-instruction improves resilience scores and effective coping styles, but its impact is greater on resilience. This training method can be included in counseling and support programs to optimize healthcare services for women affected by domestic violence.",
+    "authors": [
+      "Simin Karimifar",
+      "Fatemeh Zargar",
+      "Zahra Boroumandfar"
+    ],
+    "published": "2026",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42829768/",
+    "pdf_url": null,
+    "doi": "10.4103/jehp.jehp_2203_24",
+    "citations": 0,
+    "venue": "Journal of education and health promotion",
+    "open_access": false,
+    "ai_summary": "Intimate partner violence (IPV) is a serious yet preventable public health issue . Resilience plays a significant role in helping women overcome the effects of IPV ."
+  },
+  {
+    "id": "pubmed:42829766",
+    "title": "Artificial intelligence and its impact on oral health care education. A randomized study.",
+    "abstract": "Artificial intelligence (AI)-generated educational materials demonstrate superior effectiveness in improving patient comprehension and reducing anxiety compared to traditional methods. Their integration into dental practice could enhance patient satisfaction and streamline the educational process, particularly for complex or anxiety-inducing procedures. The present study aimed to evaluate the act of AI applications on oral healthcare, focusing on clinical outcomes. A cluster-randomized controlled trial with 1000 participants from 20 villages (10 interventions, 10 controls) was conducted. The intervention group received 4 weeks of chatbot-guided oral health education via WhatsApp/IVR, while controls received standard health talks and leaflets. Knowledge, oral hygiene practices, and OHI-S scores were measured pre- and post-intervention. The intervention group showed a marked rise in mean knowledge scores (9.8 to 15.2) compared to controls (10.1 to 11.3;  AI-based chatbots significantly enhance oral health awareness, hygiene practices, and clinical outcomes in rural settings, highlighting their potential for scalable public health interventions and integration into primary health programs.",
+    "authors": [
+      "Deepika Kapoor",
+      "Sonika Achalli",
+      "Naveen Reddy",
+      "Mushir Mulla",
+      "Mohamed S Mohamed Morsy",
+      "Munaz Mulla",
+      "Arshad Jamal Sayed",
+      "M Nazargi Mahabob",
+      "Alok Dubey"
+    ],
+    "published": "2026",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42829766/",
+    "pdf_url": null,
+    "doi": "10.4103/jehp.jehp_1971_25",
+    "citations": 0,
+    "venue": "Journal of education and health promotion",
+    "open_access": false,
+    "ai_summary": "Artificial intelligence (AI)-generated educational materials demonstrate superior effectiveness in improving patient comprehension and reducing anxiety compared to traditional methods . Their integration into dental practice could enhance patient satisfaction and streamline the educational process, particularly for complex or anxiety-inducing procedures ."
+  },
+  {
+    "id": "pubmed:42829762",
+    "title": "Localizing the main components of competencies in high-level managers based on health system evaluation indicators: Content analysis approach.",
+    "abstract": "Managers play a key role in organizations. Competence of managers has become an important issue for organizations. This issue is very important for high-level managers in health-oriented organizations. Therefore, the purpose of this study is to identify and determine the components and analyze the core competencies of high-level managers in the field of health in medical sciences universities of the country, with the approach of content analysis. This qualitative study was conducted using the content analysis method in 2023-2024. Data collection included retrieving documents from relevant databases. The studied population was high-level managers in the field of health promotion (presidents, vice presidents, university professors, and experienced human resource managers). For this purpose, semi-structured interviews were conducted with managers. The purposeful sampling method was chosen, and finally, the sampling was continued until the saturation time. The interview text was analyzed and the opinions of experts were included to extract key concepts and categorize them into main topics using 12 MAXQDA software. Finally, the Delphi technique was used to determine the components of the main competencies of high-level managers of Iranian medical sciences universities. In this study, after analyzing the content of the interviews, 5 dimensions of the main components, including managerial competencies, perceptual competencies, personality (individual) competencies, communication competencies, and moral competencies were determined. Also, the results of MAXQDA software identified 30 components for 5 dimensions. Considering the key role of universities in the development of various ecosystems, it is considered very important to pay attention to the competencies of managers who are at the top of decision-making in medical sciences universities. Identifying, localizing, and determining the main and core components of competencies in high-level managers can be used as a tool to select health system managers based on these competencies. This choice can take steps towards improving the level of health and health education and adopting appropriate health policies in this field, the efficiency of the health system and the quality effectiveness of the management of medical sciences universities.",
+    "authors": [
+      "Shiva Hosseini Foladi",
+      "Masoud Ferdousi",
+      "Mozhdeh Taheri Afshar",
+      "Parvin Sepehr",
+      "Parvaneh Dehghan",
+      "Ali Safdarian",
+      "Vahideh Karimi"
+    ],
+    "published": "2026",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42829762/",
+    "pdf_url": null,
+    "doi": "10.4103/jehp.jehp_1137_24",
+    "citations": 0,
+    "venue": "Journal of education and health promotion",
+    "open_access": false,
+    "ai_summary": "Managers play a key role in organizations. Competence of managers has become an important issue for organizations . The purpose of this study is to identify and determine the components and analyze the core competencies of high-level managers ."
+  },
+  {
+    "id": "pubmed:42829750",
+    "title": "The effect of peer-assisted learning on medication error occurrence among undergraduate nursing students: A randomized controlled trial.",
+    "abstract": "Medication administration is one of the most sensitive duties of nurses and an essential part of the treatment and care process. Nursing students are more likely to make medication errors because of their inexperience and lack of ability. The importance of clinical education using modern approaches is undeniable. This study was conducted to investigate the effect of peer-assisted learning on medication error occurrence among undergraduate nursing students. This study is a randomized controlled trial, conducted in 2023-24, involving 50 fourth-semester undergraduate nursing students at a nursing school in Tehran, Iran. Students were chosen through a census method, and randomly divided into intervention and control groups. The intervention group was taught pharmacotherapy via peer teaching, and data were collected using the Medication Error Occurrence Questionnaire (MEOQ). The data analysis was performed using SPSS software, and descriptive statistical tests such as mean, SD, frequency, and percentage were employed. Several other statistical tests were utilized, including Fisher's exact test, Chi-squared test, independent  Before the intervention, there were no significant differences in medication error occurrence between the intervention and control groups ( Peer teaching significantly reduced nursing students' medication error occurrence, recommending its adoption as an innovative educational method. It is recommended that the peer method be used to improve the clinical education of nursing students.",
+    "authors": [
+      "Somayeh Azarmi",
+      "Amir H Pishgooie",
+      "Faeze Baniyaghoobi",
+      "Fatemeh Ghavidel",
+      "Farzaneh Taghaee"
+    ],
+    "published": "2026",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42829750/",
+    "pdf_url": null,
+    "doi": "10.4103/jehp.jehp_653_25",
+    "citations": 0,
+    "venue": "Journal of education and health promotion",
+    "open_access": false,
+    "ai_summary": "Study was conducted to investigate effect of peer-assisted learning on medication error occurrence among undergraduate nursing students . Students were chosen through a census method, and randomly divided into intervention and control groups . Data was collected using the Medication Error Occurrence Questionnaire (MEOQ)"
+  },
+  {
+    "id": "pubmed:42829748",
+    "title": "Artificial intelligence as a transformative tool for empowering the role of clinical informationists in healthcare systems.",
+    "abstract": "",
+    "authors": [
+      "Alireza Rahimi",
+      "Ahmad Papi",
+      "Saeid Shirvani",
+      "Hosein Beigi-Harchegani"
+    ],
+    "published": "2026",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42829748/",
+    "pdf_url": null,
+    "doi": "10.4103/jehp.jehp_1496_25",
+    "citations": 0,
+    "venue": "Journal of education and health promotion",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "pubmed:42829745",
+    "title": "A neuroeducational approach to STEM education: Integrating real-time cognitive analysis and cognitive load theory to optimize teaching and learning at universities.",
+    "abstract": "The relevance of science, technology, engineering, and mathematics (STEM) education to effectively meet challenging academic requirements has become imperative for university entrants. With emerging advancements within the domain of learning neuroscience and analytics, it has become possible to analyze and track the real-time mental states of learners. This has opened several avenues to apply the theoretical perspectives of Cognitive Load Theory (CLT). Though applications of neuro-technological interventions for learning have become widely sought, their effective implementation within STEM education has not been comprehensive at the university level. The innovations brought about within this study include its conceptual fusion for STEM education based upon real-time mental state analysis and CLT. The goal of this research is to integrate the current research findings on real-time cognitive analysis practices used in STEM education in universities and analyze how cognitive load can be monitored dynamically and discuss teaching practices according to principles of CLT to improve effectiveness and inclusiveness for better cognitive load management throughout learning. A systematic narrative review with cross-case synthesis was conducted using peer-reviewed empirical studies published between 2018 and 2025. The relevant articles were identified through the searching of databases such as Scopus, Web of Science, ERIC, and PsycINFO. Studies focusing on higher education STEM contexts were included if they employed neuroeducational tools (e.g., electroencephalography, functional near-infrared spectroscopy, eye tracking, or artificial intelligence-driven analytics) or incorporated instructional designs informed by Cognitive Load Theory (CLT). A standardized framework for extracting data was used, and data were thematically analyzed to identify patterns across the studies regarding cognitive load measurement, adaptive instructional strategies, learning outcomes, teacher experiences, and ethical considerations. From the synthesis, real-time cognitive feedback is perceived to have positively influenced teaching effectiveness by allowing the instructor to dynamically adjust pacing, scaffolding, and learning activities ( The synergistic combination of real-time cognitive analysis and CLT has the potential for making progressive inroads for inclusive and adaptive STEM education in universities. This conceptual combination is in good harmony with the benchmarks for health and educational policy that regard evidence-based instruction, the welfare of the learner, and equity in higher educational settings as cornerstones. Longitudinal study, ethical regulation, and implementation strategies for neuroeducational data in universities need more emphasis in future studies.",
+    "authors": [
+      "Amanda Mendes"
+    ],
+    "published": "2026",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42829745/",
+    "pdf_url": null,
+    "doi": "10.4103/jehp.jehp_2092_25",
+    "citations": 0,
+    "venue": "Journal of education and health promotion",
+    "open_access": false,
+    "ai_summary": "The research is based on real-time cognitive analysis practices used in STEM education in universities . The goal of this research is to integrate the current research findings on real time cognitive analysis practice used in universities and analyze how cognitive load can be monitored dynamically ."
+  },
+  {
+    "id": "pubmed:42829732",
+    "title": "Concurrent Pulmonary Detection of Nocardia beijingensis, Mycobacterium tuberculosis, and Mycobacterium fortuitum in a Liver Transplant Recipient.",
+    "abstract": "A 66-year-old Chinese man with chronic hepatitis B treated with tenofovir disoproxil fumarate, a history of liver transplantation approximately 17 months earlier, hypertension, and atrial fibrillation treated with apixaban presented with progressive weakness, weight loss, and inability to ambulate. His only anti-rejection agent was tacrolimus. One month earlier, he had been hospitalized for multifocal pneumonia and treated with intravenous piperacillin-tazobactam for seven days after outpatient cefdinir failed. He was discharged without antibiotics. Bronchoscopy showed no endobronchial lesions or mucosal abnormalities. The initial routine microbiologic results were negative, but mycobacterial cultures remained in prolonged incubation. After discharge but before his subsequent readmission, a sputum culture from the prior hospitalization identified Mycobacterium fortuitum. On readmission, he had profound hyponatremia with a serum sodium concentration of 105 mmol/L, requiring intensive care and hypertonic saline. Imaging showed progressive right upper lobe consolidation concerning for infection or malignancy. Several days into the readmission, a biopsy of a technically accessible right lower lobe nodule showed inflammation without malignancy or caseating granulomas. Shortly thereafter, a bronchoalveolar lavage culture obtained during the prior hospitalization identified Mycobacterium tuberculosis after prolonged incubation. Tissue culture from the lung biopsy later identified Nocardia beijingensis. Given the patient's immunosuppression and progressive pulmonary abnormalities, all three isolates were treated as potentially pathogenic with imipenem, trimethoprim-sulfamethoxazole, moxifloxacin, isoniazid, pyrazinamide, and a rifamycin, with tacrolimus adjustment for drug interactions. The relative contribution of each organism could not be established with certainty. This case highlights the diagnostic and therapeutic complexity of concurrent pulmonary organism detection in a transplant recipient.",
+    "authors": [
+      "Anthony Membreno",
+      "Alexandra Martinez",
+      "Arkady Bilenkin",
+      "Elaine E Saugar",
+      "Lorena Del Pilar Bonilla",
+      "Angel Porras"
+    ],
+    "published": "2026",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42829732/",
+    "pdf_url": null,
+    "doi": "10.56305/001c.171815",
+    "citations": 0,
+    "venue": "Journal of Brown hospital medicine",
+    "open_access": false,
+    "ai_summary": "A 66-year-old Chinese man with chronic hepatitis B was treated with tenofovir disoproxil fumarate, a history of liver transplantation approximately 17 months earlier, hypertension, and atrial fibrillation treated with apixaban presented with progressive weakness, weight loss, and inability to ambulate"
+  },
+  {
+    "id": "pubmed:42829739",
+    "title": "Can spiritual care education reduce the anxiety of mothers of hospitalized immature infants?",
+    "abstract": "Hospitalization of a preterm infant in the neonatal intensive care unit (NICU) is a significant stressor for mothers, often leading to heightened anxiety that affects both their well-being and maternal-infant interaction. Spiritual self-care is a nonpharmacological approach that can help mothers manage anxiety and cope with their child's hospitalization. This study examines the impact of spiritual self-care education on maternal anxiety in mothers with preterm infants admitted to the NICU. This quasi-experimental study involved 90 mothers of preterm infants, selected through convenience sampling and randomly assigned to control ( The mean maternal age was 32.4 ± 5.7 years in the intervention group and 33 ± 6.06 years in the control group ( Spiritual self-care education significantly reduces anxiety in mothers of preterm infants, suggesting its usefulness for healthcare providers. Future research should explore how best to integrate spiritual self-care education into standard NICU care and investigate its impact on long-term maternal mental health outcomes.",
+    "authors": [
+      "Maryam Karimi",
+      "Ali Khorshidi",
+      "Masoumeh Otaghi",
+      "Mosayeb Mozafari"
+    ],
+    "published": "2026",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42829739/",
+    "pdf_url": null,
+    "doi": "10.4103/jehp.jehp_759_25",
+    "citations": 0,
+    "venue": "Journal of education and health promotion",
+    "open_access": false,
+    "ai_summary": "Spiritual self-care is a nonpharmacological approach that can help mothers manage anxiety and cope with their child's hospitalization . Future research should explore how best to integrate spiritual self- care education into standard NICU care ."
   }
 ]
