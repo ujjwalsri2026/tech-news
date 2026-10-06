@@ -124,22 +124,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.21825/ewopinpractice.94703",
-    "title": "Title Pending 94703",
-    "abstract": "",
-    "authors": [],
-    "published": "2035",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.21825/ewopinpractice.94703",
-    "pdf_url": null,
-    "doi": "10.21825/ewopinpractice.94703",
-    "citations": 0,
-    "venue": "EWOP in Practice",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
     "id": "crossref:10.21825/ewopinpractice.94702",
     "title": "Title Pending 94702",
     "abstract": "",
@@ -156,18 +140,18 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.3998/mjcsl.6294",
-    "title": "Title Pending 6294",
+    "id": "crossref:10.21825/ewopinpractice.94703",
+    "title": "Title Pending 94703",
     "abstract": "",
     "authors": [],
-    "published": "2034",
+    "published": "2035",
     "source": "Crossref",
     "category": "index",
-    "url": "https://doi.org/10.3998/mjcsl.6294",
+    "url": "https://doi.org/10.21825/ewopinpractice.94703",
     "pdf_url": null,
-    "doi": "10.3998/mjcsl.6294",
+    "doi": "10.21825/ewopinpractice.94703",
     "citations": 0,
-    "venue": "Michigan Journal of Community Service Learning",
+    "venue": "EWOP in Practice",
     "open_access": false,
     "ai_summary": "No abstract available."
   },
@@ -182,6 +166,22 @@
     "url": "https://doi.org/10.3998/mjcsl.5730",
     "pdf_url": null,
     "doi": "10.3998/mjcsl.5730",
+    "citations": 0,
+    "venue": "Michigan Journal of Community Service Learning",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "crossref:10.3998/mjcsl.6294",
+    "title": "Title Pending 6294",
+    "abstract": "",
+    "authors": [],
+    "published": "2034",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.3998/mjcsl.6294",
+    "pdf_url": null,
+    "doi": "10.3998/mjcsl.6294",
     "citations": 0,
     "venue": "Michigan Journal of Community Service Learning",
     "open_access": false,
@@ -212,11 +212,11 @@
     "source": "Crossref",
     "category": "index",
     "url": "https://doi.org/10.3998/mjcsl.4120",
-    "pdf_url": "https://doi.org/10.3998/mjcsl.4120",
+    "pdf_url": null,
     "doi": "10.3998/mjcsl.4120",
     "citations": 0,
     "venue": "Michigan Journal of Community Service Learning",
-    "open_access": true,
+    "open_access": false,
     "ai_summary": "No abstract available."
   },
   {
@@ -479,25 +479,6 @@
     "ai_summary": "Kinovea is an accessible motion-analysis software . It provides both visual and quantitative feedback . However, its application in supporting technique development among beginner athletes remains insufficiently explored ."
   },
   {
-    "id": "crossref:10.5705/ss.202025.0275",
-    "title": "Efficient Learning of Sparse Differential Networks in Multi-Source Non-Paranormal Models",
-    "abstract": "",
-    "authors": [
-      "Mojtaba Nikahd",
-      "Seyed Abolfazl Motahari"
-    ],
-    "published": "2029",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.5705/ss.202025.0275",
-    "pdf_url": null,
-    "doi": "10.5705/ss.202025.0275",
-    "citations": 0,
-    "venue": "Statistica Sinica",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
     "id": "crossref:10.70239/arsu.2026.t85.n3.07",
     "title": "HYBRID NETWORK INTRUSION DETECTION SYSTEM BASED ON SIGNATURE ANALYSIS AND MACHINE LEARNING METHODS",
     "abstract": "<jats:p>In the context of increasing complexity of modern network infrastructures and the growing number of cyberattacks, improving the effectiveness of intrusion detection systems is a highly relevant task. The aim of this work is to develop and investigate a hybrid approach to network attack detection based on a combination of signature-based analysis and intelligent machine learning methods.  The research methods include analysis of requirements for anomaly detection systems, comparative analysis of existing solutions, design of a hybrid system architecture, and experimental modeling using multiclass classification of network traffic. The results demonstrate that integrating a neural model with a traditional detection system improves attack detection coverage and reduces the number of false positives.  The practical significance of the study lies in the possibility of deploying the proposed architecture in real corporate networks, while the theoretical significance consists in substantiating the effectiveness of a hybrid approach to traffic analysis. Future research directions include adaptive model training and expansion of the range of detectable attacks.</jats:p>",
@@ -540,21 +521,19 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.5705/ss.202025.0314",
-    "title": "Transfer Learning for High-dimensional Regression with Compositional Covariates: Application to Microbiome Studies",
+    "id": "crossref:10.5705/ss.202025.0275",
+    "title": "Efficient Learning of Sparse Differential Networks in Multi-Source Non-Paranormal Models",
     "abstract": "",
     "authors": [
-      "Qinqin Hu",
-      "Xiaojing Luo",
-      "Chencheng Ma",
-      "Wang Zhou"
+      "Mojtaba Nikahd",
+      "Seyed Abolfazl Motahari"
     ],
     "published": "2029",
     "source": "Crossref",
     "category": "index",
-    "url": "https://doi.org/10.5705/ss.202025.0314",
+    "url": "https://doi.org/10.5705/ss.202025.0275",
     "pdf_url": null,
-    "doi": "10.5705/ss.202025.0314",
+    "doi": "10.5705/ss.202025.0275",
     "citations": 0,
     "venue": "Statistica Sinica",
     "open_access": false,
@@ -624,6 +603,27 @@
     "ai_summary": "No abstract available."
   },
   {
+    "id": "crossref:10.5705/ss.202025.0314",
+    "title": "Transfer Learning for High-dimensional Regression with Compositional Covariates: Application to Microbiome Studies",
+    "abstract": "",
+    "authors": [
+      "Qinqin Hu",
+      "Xiaojing Luo",
+      "Chencheng Ma",
+      "Wang Zhou"
+    ],
+    "published": "2029",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.5705/ss.202025.0314",
+    "pdf_url": null,
+    "doi": "10.5705/ss.202025.0314",
+    "citations": 0,
+    "venue": "Statistica Sinica",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
     "id": "crossref:10.5705/ss.202025.0457",
     "title": "Sparse Additive Off-policy Evaluation for Reinforcement Learning with Potentially Limited Number of Trajectories",
     "abstract": "",
@@ -643,30 +643,6 @@
     "venue": "Statistica Sinica",
     "open_access": false,
     "ai_summary": "No abstract available."
-  },
-  {
-    "id": "pubmed:42833965",
-    "title": "Brain mechanisms supporting movement-evoked chronic low back pain: an observational brain imaging study.",
-    "abstract": "Chronic low back pain (cLBP) is the most prevalent chronic pain condition and the leading cause of disability worldwide. Acute movement-evoked pain strongly predicts cLBP exacerbation, reflecting maladaptive amplification of nociceptive input, yet the neural mechanisms supporting movement-evoked cLBP flares remain poorly characterised. A total of 114 participants with cLBP performed the cLBP-evoking leg raise test during perfusion-based arterial spin labelling functional MRI. Leg raise test-based pain intensity and unpleasantness ratings were assessed with an 11-point visual analogue scale (VAS; 0=no pain, 10=worst pain imaginable). The Brief Pain Inventory (BPI) measured chronic pain severity and interference. Whole-brain cerebral blood flow changes from supine to LRT and their relationship with VAS pain intensity were analysed. Analyses assessing default mode network-whole-brain resting-state functional connectivity supporting BPI severity were also conducted. The LRT significantly increased pain intensity by 23% (P<0.001) and unpleasantness by 26% (P<0.001). Compared with supine, movement-evoked pain increased cerebral blood flow in the medial prefrontal and posterior cingulate cortices, core default mode network nodes, and nociceptive centres including the thalamus, primary motor cortex corresponding to the back, and parietal operculum. Higher leg raise test-evoked pain intensity ratings were associated with greater superior parietal lobule, supramarginal, and bilateral sensorimotor cortical activity. Higher BPI pain severity was associated with stronger default mode network-somatosensory cortex (back representation) resting-state functional connectivity. Unlike the default mode network deactivation characteristically observed during experimental pain provocation, movement-evoked cLBP reflects maladaptive coupling between self-referential (default mode network) and somatosensory (nociceptive) networks. These findings provide mechanistic insight into the neurobiological processes supporting cLBP flares. NCT03354585.",
-    "authors": [
-      "Morgan Gianola",
-      "Jon Dean",
-      "Conan Chen",
-      "Daniel Barrows",
-      "Gabriel Riegner",
-      "Thomas Liu",
-      "Fadel Zeidan"
-    ],
-    "published": "2028-Aug-29",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42833965/",
-    "pdf_url": null,
-    "doi": "10.1016/j.bja.2026.08.010",
-    "citations": 0,
-    "venue": "British journal of anaesthesia",
-    "open_access": false,
-    "ai_summary": "Chronic low back pain (cLBP) is the most prevalent chronic pain condition and the leading cause of disability worldwide . Acute movement-evoked pain strongly predicts cLBP exacerbation, reflecting maladaptive amplification of nociceptive input ."
   },
   {
     "id": "openalex:W7128502054",
@@ -744,26 +720,6 @@
     "ai_summary": "The chapter considers the rapid migration to digital learning as an emergency strategy . The findings show that the ability of national programmes such as NEP 2020, SWAYAM, DIKSHA, PM e-VIDYA, and others, to promote access to digital tools was low within periphery or hill areas ."
   },
   {
-    "id": "crossref:10.55737/qjss.vii-i.26473",
-    "title": "The Nexus of Leadership and Learning: Exploring Female Principals' Influence on the Teaching-Learning Process in Secondary Schools",
-    "abstract": "<jats:p>The research paper will set out to debate the role played by the leadership competencies of principals in the teaching and learning process. The research will embrace a quantitative research design that will seek to answer the question concerning the relationship that exists between leadership skills of possessed by the  principals and the ongoing teaching-learning process in the female secondary schools using a co-relational study design. A survey instrument comprising of 37 items, which measured the leadership skills possessed by the selected principals and the prevailing teaching learning process, was used in the collection of data. Questionnaires for this study were administered to 108 male and female educators who were serving in secondary schools in Tehsil Wari, upper Dir and among them 100 questionnaires were submitted and were deemed to be useful in the analysis. The data in hand were calculated using Statistical Package of the Social Sciences (SPSS) version-27 and the obtained results indicated that the collected data was normally distributed. The findings revealed that all the variables of the study had great correlations. The analysis of the data was done through linear regression to measure the effect that the leadership skills of the principals had on the teaching learning process and this indicated that leadership skills of the principals have statistically significant effect on the teaching learning process. The policies derived out of this research can be a good guide to both the policymakers and organizational leaders because they can provide a good outline on how to empower the leaders in charge of the principals and as well as exert more influence on the effective teaching and learning processes.</jats:p>",
-    "authors": [
-      "Muhammad Niqab",
-      "Salma Tabbasum",
-      "Shakil Ahmad"
-    ],
-    "published": "2028",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.55737/qjss.vii-i.26473",
-    "pdf_url": null,
-    "doi": "10.55737/qjss.vii-i.26473",
-    "citations": 0,
-    "venue": "Qlantic Journal of Social Sciences",
-    "open_access": false,
-    "ai_summary": "Research paper will debate role played by principals in teaching and learning process . Research will embrace a quantitative research design that will seek to answer the question about the relationship between leadership skills of principals and teaching-learning process ."
-  },
-  {
     "id": "crossref:10.32628/cseit251116279",
     "title": "Cyber Defense Digital Twins: A Federated Learning and Zero-Trust AI Architecture for Autonomous Threat Prediction and Response",
     "abstract": "<jats:p>Modern enterprise networks operate under persistent threats that exploit cloud-native misconfigurations, identity sprawl, and API vulnerabilities at machine speed. Existing security operations center (SOC) architectures remain largely reactive, signature-dependent, and incapable of predicting multi-stage lateral movement. This paper proposes the Cognitive Cyber Defense Digital Twin (CCDT), a unified architecture integrating federated learning (FL), graph neural network (GNN)-based attack-path forecasting, adversarially hardened detection models, and autonomous Security Orchestration, Automation, and Response (SOAR) with deception engineering. The CCDT constructs a continuously synchronized digital replica of organizational assets and employs reinforcement learning-based red agents to stress-test detection models. A federated intelligence mesh enables cross-organizational privacy-preserving gradient sharing. Experimental evaluations against CICIDS-2018 and LANL datasets demonstrate 52% faster attack-path detection, 41% reduction in false positive rate, and 60% reduction in mean-time-to-respond (MTTR) compared to traditional SOC baselines. Integrated Explainable AI (XAI) modules using SHAP values enable audit-ready compliance reporting. The CCDT represents a paradigm shift from reactive monitoring to predictive, autonomous, and privacy-preserving cyber defense for hybrid cloud environments.</jats:p>",
@@ -774,11 +730,11 @@
     "source": "Crossref",
     "category": "index",
     "url": "https://doi.org/10.32628/cseit251116279",
-    "pdf_url": null,
+    "pdf_url": "https://ijsrcseit.com/index.php/home/article/download/CSEIT251116279/CSEIT251116279",
     "doi": "10.32628/cseit251116279",
     "citations": 0,
     "venue": "International Journal of Scientific Research in Computer Science, Engineering and Information Technology",
-    "open_access": false,
+    "open_access": true,
     "ai_summary": "The paper proposes the Cognitive Cyber Defense Digital Twin (CCDT) The CCDT constructs a continuously synchronized digital replica of organizational assets . It employs reinforcement learning-based red agents to stress-test detection models ."
   },
   {
@@ -823,6 +779,26 @@
     "venue": "International Journal of Internet Manufacturing and Services",
     "open_access": false,
     "ai_summary": "No abstract available."
+  },
+  {
+    "id": "crossref:10.55737/qjss.vii-i.26473",
+    "title": "The Nexus of Leadership and Learning: Exploring Female Principals' Influence on the Teaching-Learning Process in Secondary Schools",
+    "abstract": "<jats:p>The research paper will set out to debate the role played by the leadership competencies of principals in the teaching and learning process. The research will embrace a quantitative research design that will seek to answer the question concerning the relationship that exists between leadership skills of possessed by the  principals and the ongoing teaching-learning process in the female secondary schools using a co-relational study design. A survey instrument comprising of 37 items, which measured the leadership skills possessed by the selected principals and the prevailing teaching learning process, was used in the collection of data. Questionnaires for this study were administered to 108 male and female educators who were serving in secondary schools in Tehsil Wari, upper Dir and among them 100 questionnaires were submitted and were deemed to be useful in the analysis. The data in hand were calculated using Statistical Package of the Social Sciences (SPSS) version-27 and the obtained results indicated that the collected data was normally distributed. The findings revealed that all the variables of the study had great correlations. The analysis of the data was done through linear regression to measure the effect that the leadership skills of the principals had on the teaching learning process and this indicated that leadership skills of the principals have statistically significant effect on the teaching learning process. The policies derived out of this research can be a good guide to both the policymakers and organizational leaders because they can provide a good outline on how to empower the leaders in charge of the principals and as well as exert more influence on the effective teaching and learning processes.</jats:p>",
+    "authors": [
+      "Muhammad Niqab",
+      "Salma Tabbasum",
+      "Shakil Ahmad"
+    ],
+    "published": "2028",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.55737/qjss.vii-i.26473",
+    "pdf_url": null,
+    "doi": "10.55737/qjss.vii-i.26473",
+    "citations": 0,
+    "venue": "Qlantic Journal of Social Sciences",
+    "open_access": false,
+    "ai_summary": "Research paper will debate role played by principals in teaching and learning process . Research will embrace a quantitative research design that will seek to answer the question about the relationship between leadership skills of principals and teaching-learning process ."
   },
   {
     "id": "openalex:W7171671418",
@@ -870,9 +846,9 @@
     "published": "2027-03-26",
     "source": "OpenAlex",
     "category": "index",
-    "url": "https://doi.org/10.5281/zenodo.18319364",
+    "url": "https://doi.org/10.5281/zenodo.18319363",
     "pdf_url": "https://journal.publiseditorial.com/index.php/jles/article/download/163/582",
-    "doi": "10.5281/zenodo.18319364",
+    "doi": "10.5281/zenodo.18319363",
     "citations": 0,
     "venue": "Journal of Law and Epistemic Studies",
     "open_access": true,
@@ -933,6 +909,28 @@
     "ai_summary": "No abstract available."
   },
   {
+    "id": "openalex:W7212699939",
+    "title": "Development and validation of a machine learning-based predictive model for prognosis in cerebral hemorrhage patients after hyperbaric oxygen therapy.",
+    "abstract": "",
+    "authors": [
+      "Congyi Ding",
+      "Jun Wu",
+      "Guangning Zhang",
+      "Xiaoming Feng",
+      "Jieyang Zhu"
+    ],
+    "published": "2027-01-01",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.4103/mgr.medgasres-d-25-00168",
+    "pdf_url": null,
+    "doi": "10.4103/mgr.medgasres-d-25-00168",
+    "citations": 0,
+    "venue": "PubMed",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
     "id": "openalex:W7211975381",
     "title": "Application and feasibility analysis of random Forest models in safety prediction for transition metal-doped Na3V2(PO4)3 sodium-ion batteries.",
     "abstract": "",
@@ -961,222 +959,219 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "openalex:W7212699939",
-    "title": "Development and validation of a machine learning-based predictive model for prognosis in cerebral hemorrhage patients after hyperbaric oxygen therapy.",
-    "abstract": "",
+    "id": "pubmed:42836850",
+    "title": "Elucidating the Association Between Gastric Cancer and Diabetes: Integrative Analysis of Epidemiological, Genetic, and Transcriptomic Data.",
+    "abstract": "Gastric cancer and diabetes are two major global health challenges, and recent studies have indicated a potential association between these diseases. This study utilized NHANES database (2007-2016) to identify diseases linked to gastric cancer, with diabetes selected for further investigation. Mendelian Randomization analysis was applied to establish a causal relationship between the two conditions. To explore underlying mechanisms, mRNA data from the TCGA and GEO databases were analyzed using differential gene expression analysis, WGCNA, and machine learning techniques. Diagnostic models for gastric cancer and diabetes were developed. Analysis of NHANES data revealed a significant correlation between diabetes and gastric cancer. MR analysis suggested that diabetes may reduce the risk of gastric cancer. Differential gene expression analysis identified key genes associated with both diseases, while GO and KEGG enrichment analyses uncovered relevant biological pathways. WGCNA highlighted shared gene modules and core genes. Machine learning algorithms identified six diagnostic genes (DGs) and two prognostic genes for gastric cancer, with robust diagnostic models constructed and validated. This study demonstrates a potential link between gastric cancer and diabetes, offering new perspectives for disease management. The identified DGs and prognostic genes hold promise as tools for improving the diagnosis and prognosis of gastric cancer. This finding should be interpreted as hypothesis-generating and requires experimental validation.",
     "authors": [
-      "Congyi Ding",
-      "Jun Wu",
-      "Guangning Zhang",
-      "Xiaoming Feng",
-      "Jieyang Zhu"
-    ],
-    "published": "2027-01-01",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.4103/mgr.medgasres-d-25-00168",
-    "pdf_url": null,
-    "doi": "10.4103/mgr.medgasres-d-25-00168",
-    "citations": 0,
-    "venue": "PubMed",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "pubmed:42833947",
-    "title": "Robotic and artificial intelligence applications in neuropsychiatric disorders: Intervention, diagnosis, and use beyond the clinic.",
-    "abstract": "",
-    "authors": [
-      "Wei Wang",
-      "Anna Cavallini",
-      "Roger Andre Søraa",
-      "Federico Manzi"
-    ],
-    "published": "2026-Sep-30",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42833947/",
-    "pdf_url": null,
-    "doi": "10.1016/j.ajp.2026.105172",
-    "citations": 0,
-    "venue": "Asian journal of psychiatry",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "pubmed:42833975",
-    "title": "Can artificial intelligence estimate L*, a*, b* values of teeth from intraoral photographs?",
-    "abstract": "Accurate shade selection is critical for natural dental esthetics, but, despite their objectivity, spectrophotometers (SPM) are limited in clinical use because of cost and practicality. Although multimodal artificial intelligence (AI) models may serve as accessible alternatives, their ability to estimate L*, a*, and b* values from standardized intraoral photographs remains uncertain. The purpose of this study was to evaluate the performance of ChatGPT-5.1 Plus and Gemini 3 Pro in comparing CIELab values obtained from intraoral photographs using different photographic systems compared with reference measurements obtained using an SPM. Twenty participants (n=20) with a healthy maxillary right central incisor were included. Standardized intraoral photographs were obtained using a digital single-lens reflex (DSLR) camera with twin flash (TF), DSLR with ring flash (RF), and a smartphone (SP) with a mobile dental photography (MDP) light system under 5500 K cross-polarized illumination. All photographs were calibrated using a gray reference card. Each AI model generated 3 repeated outputs per photograph; the mean of these outputs was used for statistical analysis. Data were analyzed using ANOVA with Tukey post hoc tests and independent-samples t tests (α=.05). The CIELab values estimated by ChatGPT-5.1 Plus and Gemini 3 Pro from photographs obtained using different photographic systems differed significantly from the spectrophotometric reference measurements and from each other (P<.001). In both models, the highest L* values were observed in the SPM group and the lowest in the DSLR+RF group (P<.001). The a* and b* values varied according to the photographic system and AI model, with statistical similarity to the SPM observed in selected groups. Overall, ChatGPT-5.1 Plus and Gemini 3 Pro produced significantly different mean values across all color parameters, with P values ranging from <.001 to .026. Both AI models deviated significantly from spectrophotometric measurements and did not achieve clinically precise L*, a*, and b* values. ChatGPT-5.1 Plus and Gemini 3 Pro showed model-dependent color interpretation patterns influenced by photographic conditions. Standardized photographic protocols and calibrated datasets are necessary to improve the clinical applicability of AI-based shade estimation.",
-    "authors": [
-      "Merve Haberal",
-      "Ezgi Türkoğlu Tarı",
-      "Yusuf Bayraktar",
-      "Nisa Nur Çelik"
-    ],
-    "published": "2026-Sep-22",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42833975/",
-    "pdf_url": null,
-    "doi": "10.1016/j.prosdent.2026.09.008",
-    "citations": 0,
-    "venue": "The Journal of prosthetic dentistry",
-    "open_access": false,
-    "ai_summary": "The purpose of this study was to evaluate the performance of ChatGPT-5.1 Plus and Gemini 3 Pro in comparing CIELab values obtained from intraoral photographs using different photographic systems . The photographs were calibrat. All photographs were calibratedat ."
-  },
-  {
-    "id": "pubmed:42833987",
-    "title": "Innovative holistic treatment for CKM: what lies ahead?",
-    "abstract": "Cardiovascular-kidney-metabolic (CKM) syndrome, as defined by the American Heart Association, encompasses interrelated metabolic, kidney, and cardiovascular disorders that mutually reinforce one another along a shared risk continuum. Its five-stage model, supported by the PREVENT risk equations, guides stage-specific prevention and treatment. Albuminuria, alongside eGFR, plays a central role not only as a marker of kidney damage but as an independent cardiovascular risk factor. Visceral adiposity and insulin resistance promote cardiovascular and kidney injury through interconnected inflammatory, oxidative, hemodynamic, and neurohormonal pathways. The metabolic dysfunction-associated steatotic liver disease (MASLD) as part of the proposed cardiovascular-kidney-liver-metaolic (CKLM) framework further highlights the role of the liver as another key contributor in this multiorgan disease. Effective management requires coordinated interventions, including lifestyle modification, weight management, renin-angiotensin system inhibitors, SGLT2 inhibitors, GLP-1 receptor agonist, non-steroidal mineralocorticoid receptor antagonists (nsMRAs), as consolidated by the AHA/ACC/ADA/ASN and ESC guidelines. However, fragmented care, limited awereness and socioeconomic inequalities - including a persistent risk treatment paradox - continue to limit implementation. Improved preclinical models and more inclusive clinical studies incorporating multiorgan outcomes may facilitate the translation of mechanistic findings, while multimodal imaging and artificial intelligence may improve risk prediction and diagnostic algorithms. Further validation of disease trajectories and broad implementation of interdisciplinary care are needed to improve outcomes across the CKM continuum.",
-    "authors": [
-      "Paul Balfanz",
-      "Nikolaus Marx"
-    ],
-    "published": "2026-Oct-05",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42833987/",
-    "pdf_url": null,
-    "doi": "10.1016/j.ejim.2026.107222",
-    "citations": 0,
-    "venue": "European journal of internal medicine",
-    "open_access": false,
-    "ai_summary": "Cardiovascular-kidney-metabolic (CKM) syndrome, as defined by the American Heart Association, encompasses interrelated metabolic, kidney, and cardiovascular disorders . Albuminuria, alongside eGFR, plays a central role not only as a marker of kidney damage but as an independent cardiovascular risk factor . Visceral adiposity"
-  },
-  {
-    "id": "pubmed:42833978",
-    "title": "Diagnostic AI tools in musculoskeletal imaging-Present and future.",
-    "abstract": "Artificial intelligence (AI) is widely promoted as the next step in musculoskeletal (MSK) imaging, yet its translation into routine clinical care, including osteoarthritis (OA), has been selective and challenging. This Perspective summarizes where diagnostic MSK AI tools stand today and argues that the central question is not whether models perform well in benchmarks, but whether they create measurable clinical value. Based on a keynote presentation at IWOAI 2026, we relate diagnostic AI tools in MSK imaging to the theme \"Linking OA Tissues\" by asking whether current AI tools can connect tissue-level imaging findings with whole-joint disease, longitudinal change, and clinical context. Drawing on the regulatory landscape and peer-reviewed evidence, we show that AI tools have been selectively translated into clinical routine: radiographic morphometry and fracture detection dominate among commercially available products because they are narrow, standardized tasks with transparent, easily verifiable outputs and an obvious clinical need. By contrast, MRI, the modality on which advanced OA assessment largely depends, remains a bottleneck. OA is a particularly challenging target because it is a multi-tissue, whole-joint, longitudinal, and context-dependent disease for which binary, single-task outputs are too crude. Furthermore, we propose a deliberately non-quantitative framework in which useful AI is the product of model performance, relevant endpoints, workflow fit, and human-AI interaction; failures of translation typically reflect deficits in the latter three rather than in model performance alone. Realizing clinical value in MSK and OA imaging will require validation against patient-relevant endpoints, attention to how readers interact with AI, and reference standards that go beyond curated benchmarks.",
-    "authors": [
-      "Sven Nebelung",
-      "Daniel Truhn"
-    ],
-    "published": "2026-Oct-01",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42833978/",
-    "pdf_url": null,
-    "doi": "10.1016/j.ostima.2026.100476",
-    "citations": 0,
-    "venue": "Osteoarthritis imaging",
-    "open_access": false,
-    "ai_summary": "Artificial intelligence (AI) is widely promoted as the next step in musculoskeletal (MSK) imaging . But its translation into routine clinical care, including osteoarthritis (OA) has been selective and challenging . This Perspective summarizes where diagnostic MSK AI tools stand today and argues that the central question is not whether models perform well"
-  },
-  {
-    "id": "pubmed:42833974",
-    "title": "Intratumoral and Peritumoral Ultrasoundomics Models for Preoperative Prediction of Pathological Complete Response to Neoadjuvant Chemotherapy in Breast Cancer.",
-    "abstract": "This study investigated the clinical utility of a machine learning (ML) model based on ultrasoundomics features (UFs) from primary foci to predict pathological complete response (pCR) in patients with breast cancer (BC) undergoing neoadjuvant chemotherapy (NAC). Ultrasound images from 333 patients with BC treated with NAC were retrospectively analyzed. Patients in the internal training cohort and external validation cohort were from two different hospitals, respectively. Tumor regions of interest (ROI) were delineated, and outward segmentation of the peritumor area was performed, using the ROI edge as a baseline and expanding it by 3 mm and 5 mm, respectively. This resulted in three distinct segmentation images: ROI (intratumoral region), ROI (intratumoral region + 3-mm peritumoral region), and ROI (intratumoral region + 5-mm peritumoral region). Three sets of UFs were extracted, normalized using the Z-score method, and further refined through Spearman correlation analysis and LASSO for feature selection. Eight ML models (R0), based on key UFs in ROI (intratumoral region), were compared: support vector machine, K-nearest neighbor, random forest, Naïve Bayes, logistic regression, AdaBoost (AB), multilayer perceptron, and light gradient boosting machine learning. The optimal ML models were evaluated using diagnostic performance metrics, including AUC, accuracy, sensitivity, and specificity. The best-performing algorithm was then applied to construct ML models (R3 and R5) incorporating ROI (intratumoral region + 3-mm peritumoral region) and ROI (intratumoral region + 5-mm peritumoral region). Predictive efficacy and clinical utility were assessed through decision curve analysis (DCA) and Shapley Additive exPlanation (SHAP), which quantified feature importance and facilitated model visualization and interpretation. Among the 333 patients, 119 (35.7%) achieved pCR, while 214 (64.3%) did not. Among the eight ML algorithms, the R0 model based on AB demonstrated the best performance, with an AUC of 0.811 (Internal training cohort) and 0.632 (External validation cohort). The R3 model also showed improved performance, with an AUC of 0.830 (Internal training cohort) and 0.699 (External validation cohort). The R5 model yielded the highest predictive accuracy, with an AUC of 0.871 (Internal training cohort) and 0.779 (External validation cohort). SHAP analysis was conducted for R5, and SHAP waterfall charts enable single-sample predictions to validate the model's clinical utility. DCA revealed that the combination of intratumoral region and 5-mm peritumoral region in R5 offered superior clinical benefit. ML models integrating intratumoral and peritumoral ultrasoundomics offer valuable assistance in assessing NAC efficacy in patients with BC.",
-    "authors": [
-      "Pu Zhou",
-      "Li Yang",
-      "Ying He",
-      "Libao Wang",
-      "Rong Zhao",
-      "Mei Gu",
-      "Pengfei Zhu",
-      "Xu Luo",
-      "Xiangyun Kong",
-      "Pei Du"
-    ],
-    "published": "2026-Oct-05",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42833974/",
-    "pdf_url": null,
-    "doi": "10.1016/j.acra.2026.09.038",
-    "citations": 0,
-    "venue": "Academic radiology",
-    "open_access": false,
-    "ai_summary": "Ultrasound images from 333 patients with BC treated with NAC were retrospectively analyzed . Three sets of UFs were extracted, normalized using the Z-score method, and further refined through Spearman correlation analysis and LASSO for feature selection ."
-  },
-  {
-    "id": "pubmed:42833972",
-    "title": "Early Prediction of Insufficient Response to Ursodeoxycholic Acid: A Multimodal Model Based on Radiomics and Clinical Indicators.",
-    "abstract": "This study aimed to integrate two-dimensional ultrasound (2D-US) radiomics and clinical indicators to develop a prediction model for early identification of primary biliary cholangitis (PBC) patients with insufficient response to ursodeoxycholic acid (UDCA) at 6 months. 136 PBC patients were enrolled. Least absolute shrinkage and selection operator regression was applied to select key features and construct a radiomics model. Six machine learning algorithms were compared using 5-fold nested cross-validation. Univariate and multivariate logistic regression were performed to identify independent clinical predictors and construct a clinical model. By combining the radiomics score and significant clinical factors using multivariate logistic regression analysis, a combined model was subsequently developed. Model performance was evaluated by AUC, calibration curves, and decision curve analysis. The support vector machine (SVM) algorithm achieved the highest mean AUC (0.696 ± 0.028) and the lowest coefficient of variation (4.055%) in nested cross-validation. Alkaline phosphatase (ALP) and platelet count (PLT) were independent predictors of insufficient response to UDCA. The combined model achieved an AUC of 0.865 in the test set, higher than those of the clinical model (0.778) and the radiomics model (0.833). The response status at 6 months was highly consistent with that at 12 months (kappa = 0.809). The model showed generally consistent predictive performance across different UDCA response criteria and histological fibrosis stages. A noninvasive multimodal model based on pretreatment 2D-US radiomics features, ALP, and PLT can accurately predict the insufficient response to UDCA in PBC patients at an early stage.",
-    "authors": [
-      "Yanan Sun",
-      "Yichen Gu",
-      "Zixian Wang",
-      "Shuhui Xie",
-      "Binbin Wu",
-      "Jing Wu"
-    ],
-    "published": "2026-Oct-05",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42833972/",
-    "pdf_url": null,
-    "doi": "10.1016/j.acra.2026.09.023",
-    "citations": 0,
-    "venue": "Academic radiology",
-    "open_access": false,
-    "ai_summary": "Study aimed to develop a prediction model for early identification of primary biliary cholangitis (PBC) patients . 136 PBC patients were enrolled . Least absolute shrinkage and selection operator regression was applied to select key features and construct a radiomics model ."
-  },
-  {
-    "id": "pubmed:42833943",
-    "title": "Retraction notice to \"ViTU-net: A hybrid deep learning model with patch-based LSB approach for medical image watermarking and authentication using a hybrid metaheuristic algorithm\" [Computers in Biology and Medicine 194 (2025) 110393].",
-    "abstract": "",
-    "authors": [
-      "V Nanammal",
-      "S Rajalakshmi",
-      "V Remya",
-      "S Ranjith"
-    ],
-    "published": "2026-Oct-05",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42833943/",
-    "pdf_url": null,
-    "doi": "10.1016/j.compbiomed.2026.111960",
-    "citations": 0,
-    "venue": "Computers in biology and medicine",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "pubmed:42833930",
-    "title": "Artificial intelligence in osteoarthritis and osteoporosis: implications for management and research.",
-    "abstract": "Artificial intelligence (AI) is increasingly influencing clinical care and research in osteoarthritis and osteoporosis. For patients, AI can broaden access to health information, including understanding of disease and treatment options. For clinicians, AI-based systems may assist risk stratification and decision-making, including identifying individuals most likely to benefit from specific therapies. In medical imaging, AI approaches can grade osteoarthritis severity, identify occult pathology (including atypical femoral fractures), and estimate low bone mineral density from non-dedicated examinations. In research, AI can facilitate analysis of complex, high-dimensional datasets (e.g., multi-omics and cell-cell communication) supporting the discovery of biomarkers, candidate therapeutic targets and disease endotypes. Emerging directions include agentic AI systems for end-to-end workflows, adaptation of foundation models pre-trained on large, diverse datasets, and carefully evaluated synthetic data for augmentation and validation/quality-control pipelines. This review examines current and emerging AI applications across osteoarthritis and osteoporosis, and pathways for safe, equitable and effective deployment.",
-    "authors": [
-      "Jessica L Fairley",
-      "Mohit Kapoor",
-      "Divya Sharma"
+      "Bo Ma",
+      "Ningjuan Zhang",
+      "Lingjun Kong",
+      "Jun Wang"
     ],
     "published": "2026-Oct-06",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42833930/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42836850/",
     "pdf_url": null,
-    "doi": "10.1016/j.berh.2026.102209",
+    "doi": "10.1002/mc.70182",
     "citations": 0,
-    "venue": "Best practice & research. Clinical rheumatology",
+    "venue": "Molecular carcinogenesis",
     "open_access": false,
-    "ai_summary": "Artificial intelligence (AI) is increasingly influencing clinical care and research in osteoarthritis and osteoporosis . For patients, AI can broaden access to health information, including understanding of disease and treatment options . For clinicians, AI-based systems may assist risk stratification and decision-making ."
+    "ai_summary": "Study used data from NHANES database to identify diseases linked to gastric cancer . Mendelian Randomization analysis was applied to establish a causal relationship between the two conditions ."
   },
   {
-    "id": "pubmed:42833894",
-    "title": "Digital technology in everyday life: emerging associations with social, mental, and physical health and wellbeing.",
-    "abstract": "The digital determinants of health refer to digitally mediated factors that increasingly shape lifestyle, behaviour, and social connections. Digital devices, infrastructure, and services-ranging from mobile phones, social media and online games to emerging technologies such as generative artificial intelligence and robotics-have become integral to everyday life in many parts of the world. These technologies are reshaping the way individuals and communities experience social and mental health, facilitating new forms of connection, belonging, and participation. At the same time, these dimensions of health can be threatened by some forms of engagement with these technologies, which might also reinforce existing inequities. In this Viewpoint, we examine the digital determinants of health within a framework of social, mental, and physical health and wellbeing, adopting a public health lens to harness digital technologies for improved health and wellbeing for all people.",
+    "id": "pubmed:42836828",
+    "title": "RAFA: RNA all-atom structure reconstruction from sparse anchor coordinates.",
+    "abstract": "We present RAFA, a C ++ command-line tool for RNA all-atom structure reconstruction from sparse or partial coordinates. RAFA targets settings in which coarse-grained modelling, low-resolution fitting, or partial experimental interpretation provides RNA anchor atoms but not a complete atomic model. The method retrieves experimentally observed 3-5 nt all-atom RNA fragments, fits them to local anchors, combines overlapping fragment-derived coordinate estimates by weighted consensus, and routes sparse and rich inputs through distinct reconstruction paths. In an independent RNA3DB train/test evaluation, no library-test pair exceeded 80% global sequence identity. RAFA achieved lower all-atom root-mean-square deviation (RMSD) values than Arena in 73.3% of target-mode comparisons, with the largest gains in input modes with the fewest structural constraints. RAFA is available at https://github.com/wangleiofficial/RAFA and archived at https://doi.org/10.5281/zenodo.20951205. Supplementary data are available at Bioinformatics online.",
     "authors": [
-      "Patricia Mechael",
-      "Sarah C Chaney",
-      "Yara Aboelwaffa",
-      "Sun S Lim",
-      "Shuyan Liu",
-      "Alice R Teixeira",
-      "Nai L Kalema",
-      "Payal Arora"
+      "Lei Wang",
+      "Zilu Zeng"
+    ],
+    "published": "2026-Oct-06",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42836828/",
+    "pdf_url": null,
+    "doi": "10.1093/bioinformatics/btag746",
+    "citations": 0,
+    "venue": "Bioinformatics (Oxford, England)",
+    "open_access": false,
+    "ai_summary": "The method retrieves experimentally observed 3-5 nt all-atom RNA fragments, fits them to local anchors . It combines overlapping fragment-derived coordinate estimates by weighted consensus . In an independent RNA3DB train/test evaluation, no library-test pair exceeded 80% global sequence identity ."
+  },
+  {
+    "id": "pubmed:42836807",
+    "title": "Cone-beam computed tomography-based deep learning-augmented model for screening sleep-disordered breathing risk.",
+    "abstract": "Sleep-disordered breathing (SDB) is a common but underdiagnosed disorder due to complex diagnostic procedures, posing a substantial global health burden. Craniofacial anatomy, such as mandibular retrusion and upper airway narrowing, plays a prominent role in SDB among Asian populations, underscoring the potential role of orthodontists in SDB risk screening. This study aimed to develop a deep learning-augmented, cone-beam computed tomography-based model for SDB risk screening in adults. A training cohort included 110 patients with SDB and 110 sex-matched nonsnoring controls, whereas an independent test cohort comprised 20 patients with SDB and 20 controls from another center. Pretrained convolutional neural networks were applied to lateral cephalograms, and multiple machine learning models were trained using cone-beam computed tomography-derived upper airway parameters. A late-fusion framework that integrated deep learning outputs with selected airway features was constructed using a random forest classifier. Explainability and visualization techniques were applied to improve interpretability. Among the 6 pretrained convolutional neural network models evaluated using lateral cephalograms, ResNet-50 achieved the highest area under the curve (AUC) of 0.640. Second, when applied to upper airway volume parameters, the random forest classifier outperformed other machine learning algorithms, yielding an AUC of 0.908. The late-fusion model further improved screening performance, achieving an AUC of 0.925 and outperforming all single-modality models. Visualization analyses highlighted airway-related features that predispose to SDB, particularly within the palatopharyngeal region. This deep feature-augmented fusion model demonstrates improved performance and interpretability for SDB risk screening. Routinely acquired orthodontic imaging may serve as a practical and orthodontist-friendly approach to support the early identification of patients at risk for SDB.",
+    "authors": [
+      "Min Yu",
+      "Wenhsuan Lu",
+      "Yu Wang",
+      "Gui Chen",
+      "Bing Han",
+      "Xuemei Gao"
+    ],
+    "published": "2026-Oct-06",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42836807/",
+    "pdf_url": null,
+    "doi": "10.1016/j.ajodo.2026.08.011",
+    "citations": 0,
+    "venue": "American journal of orthodontics and dentofacial orthopedics : official publication of the American Association of Orthodontists, its constituent societies, and the American Board of Orthodontics",
+    "open_access": false,
+    "ai_summary": "Craniofacial anatomy, such as mandibular retrusion and upper airway narrowing, plays a prominent role in SDB among Asian populations . Study aimed to develop a deep learning-augmented, cone-beam computed tomography-based model for SDB risk screening ."
+  },
+  {
+    "id": "pubmed:42836816",
+    "title": "Microscopic evaluation of the dentin-pulp complex response in carious primary teeth after 38% silver diamine fluoride application: An ex vivo study.",
+    "abstract": "Silver diamine fluoride (SDF) is widely used for caries arrest in pediatric dentistry; however, histologic evidence with larger samples regarding its effects on the dentin-pulp complex in teeth remains limited. This ex vivo observational study included 35 carious primary teeth treated clinically with 38% SDF and extracted 6 months later. Histologic analysis was performed to assess silver penetration depth, dentinal tubule occlusion, tertiary dentin formation, pulpal response, and bacterial presence. Penetration depth was measured using digital image analysis software. Statistical analysis included descriptive statistics and nonparametric tests. Silver deposition within dentinal tubules was observed in all specimens. Penetration depth ranged from 230 through 1,132 μm (mean [SD], 541 [221] μm). Tertiary dentin formation was present in 27 of 35 (77.1%) samples, with thickness ranging from 21 through 55 μm. Of 35 specimens, 31 had preserved pulp architecture without inflammation. No bacterial infiltration was detected. Specimens exhibiting tertiary dentin formation had significantly greater SDF penetration than those without tertiary dentin (P = .004). Within the limitations of this study, 38% SDF is considered a clinically suitable minimally invasive approach to the management of caries lesions in primary teeth to preserve tooth structure and maintain pulpal health. The study findings support the use of 38% SDF as a safe and effective minimally invasive option for arresting caries while maintaining pulpal health when an adequate minimum remaining dentin thickness is present.",
+    "authors": [
+      "Chanchal Kumari",
+      "Ruchi Singhal",
+      "Ritu Namdev",
+      "Mala Kamboj",
+      "Shiwani Chawla",
+      "Khusboo Chhanna"
     ],
     "published": "2026-Oct-05",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42833894/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42836816/",
     "pdf_url": null,
-    "doi": "10.1016/j.landig.2026.101078",
+    "doi": "10.1016/j.adaj.2026.06.011",
     "citations": 0,
-    "venue": "The Lancet. Digital health",
+    "venue": "Journal of the American Dental Association (1939)",
     "open_access": false,
-    "ai_summary": "Digital determinants of health refer to digitally mediated factors that increasingly shape lifestyle, behaviour, and social connections . Digital devices, infrastructure, and services-ranging from mobile phones, social media and online games to emerging technologies such as generative artificial intelligence and robotics-have become integral"
+    "ai_summary": "Silver diamine fluoride (SDF) is widely used for caries arrest in pediatric dentistry . But histologic evidence with larger samples regarding its effects on the dentin-pulp complex in teeth remains limited ."
+  },
+  {
+    "id": "pubmed:42836772",
+    "title": "Conventional statistical and machine learning-based prediction of neonatal outcomes in late-onset fetal growth restriction.",
+    "abstract": "To evaluate associations between antenatal fetal biometric and Doppler parameters and neonatal outcomes in late-onset fetal growth restriction (FGR), and to evaluate machine learning models for neonatal outcome prediction. This retrospective cohort included 137 singleton pregnancies. Continuous missing values were completed using a single iterative chained-equations procedure. Maternal characteristics, fetal biometric measurements, and Doppler parameters, including umbilical artery pulsatility index (UA-PI), middle cerebral artery pulsatility index (MCA-PI), and cerebroplacental ratio (CPR), were analyzed. Associations with neonatal outcomes were assessed using conventional statistical methods, multivariable regression analyses, and machine learning models with repeated 5-fold cross-validation. NICU admission was associated with higher maternal age and lower gestational age, fetal biometric measurements, estimated fetal weight (EFW), birth weight, Apgar scores, and umbilical cord pH after FDR correction. In the final logistic models, maternal age, previous abortions, and EFW predicted NICU admission; previous cesarean delivery predicted transient tachypnea of the newborn; and maternal age and EFW predicted neonatal sepsis. The birth-weight linear model had the highest explanatory power (adjusted R In late-onset FGR, fetal biometry, Doppler findings, and maternal characteristics were significantly associated with neonatal outcomes. Machine learning models showed moderate predictive performance and confirmed findings from conventional statistical analyses. These findings should be interpreted in light of the retrospective study design and the lack of external validation.",
+    "authors": [
+      "Bilge Kapudere",
+      "Rabia Aydın",
+      "Ömer Aydın",
+      "Ergül Demirçivi",
+      "Reyhan Ayaz",
+      "Hanne Bulat Çim",
+      "Canan Satır Özel",
+      "Abdulkadir Turgut"
+    ],
+    "published": "2026-Oct-07",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42836772/",
+    "pdf_url": null,
+    "doi": "10.1515/jpm-2026-0344",
+    "citations": 0,
+    "venue": "Journal of perinatal medicine",
+    "open_access": false,
+    "ai_summary": "A retrospective cohort included 137 singleton pregnancies . NICU admission was associated with higher maternal age and lower gestational age, fetal biometric measurements ."
+  },
+  {
+    "id": "pubmed:42836690",
+    "title": "MediNet: Simplifying Federated and Privacy-Preserving AI Deployment in Healthcare.",
+    "abstract": "The application of Artificial Intelligence and Deep Learning (DL) in healthcare is increasingly feasible in principle, yet remains inaccessible in practice for most clinical institutions. Beyond the well-known challenge of data privacy regulations that prevent centralization of patient records, two further barriers limit adoption. First, deploying a federated learning infrastructure requires substantial technical expertise: configuring distributed training environments, implementing privacy-preserving mechanisms such as Differential Privacy (DP), and managing secure inter-institutional communication demands specialized knowledge that most healthcare organizations do not possess. Second, designing and configuring DL models (selecting architectures, tuning hyperparameters, interpreting results) currently requires machine learning expertise that clinical professionals, including researchers and physicians, typically lack. Existing federated learning frameworks address the infrastructure problem but impose a steep learning curve that effectively excludes non-specialized users. A solution that abstracts this complexity, enabling clinicians and biomedical researchers to design, launch, and monitor federated training processes without programming or machine learning expertise, remains absent from the field. To address existing limitations, we introduce MediNet, a comprehensive server-client Federated learning (FL) platform that allows hospitals and research centers to train Machine Learning (ML) and DL models without moving or exposing sensitive data. It offers an intuitive web-based environment that simplifies FL, enabling users to easily select the model and define training criteria while administrators manage permissions and datasets, ensuring granular and autonomous data control. The system automatically constructs and generates the underlying technical configuration (e.g., Python/FL scripts) according to the parameters specified in the GUI. It then orchestrates the secure federated rounds and provides real-time monitoring, fully encapsulating the complexity of deployment and security. MediNet is built upon PyTorch as its primary framework, chosen for its robustness in DL model development along with its Differential Privacy (DP) libraries. Flower (Beutel et al., 2020) is used as the federated orchestration system. These underlying technologies are internal pillars of MediNet, essential for ensuring robustness, functionality, and strict adherence to privacy principles. The general information page for the MediNet software is available at https://isglobal-brge.github.io/MediNet. The MediNet software and its complementary tools are fully available under the MIT license on GitHub. The MediNetHub and MediNetNode code can be found on https://github.com/isglobal-brge/MediNetHub and https://github.com/isglobal-brge/MediNetNode.",
+    "authors": [
+      "Ramon Mateo-Navarro",
+      "David Sarrat-González",
+      "Dolors Pelegrí-Sisó",
+      "Xavier Escribà-Montagut",
+      "Fernando Sánchez-Lasheras",
+      "Juan R González"
+    ],
+    "published": "2026-Oct-06",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42836690/",
+    "pdf_url": null,
+    "doi": "10.1093/bioinformatics/btag742",
+    "citations": 0,
+    "venue": "Bioinformatics (Oxford, England)",
+    "open_access": false,
+    "ai_summary": "The application of Artificial Intelligence and Deep Learning (DL) in healthcare is increasingly feasible in principle, yet remains inaccessible in practice for most clinical institutions ."
+  },
+  {
+    "id": "pubmed:42836854",
+    "title": "Caring Without the Body: Semantic Displacement From Embodied Nursing to Artificial Intelligence.",
+    "abstract": "This paper examines an ontological question raised by the growing use of artificial intelligence (AI) in clinical care: what happens to concepts such as clinical intuition, suffering and presence when their origin shifts from the embodied, mortal nurse to a machine with no body and no history of vulnerability? Using critical conceptual analysis combined with reflexive engagement with clinical vignettes drawn from the author's own nursing experience, we check these vignettes against the established nursing-knowledge literature for referential adequacy. We argue that AI can reproduce the outward form of care-alerts, affective language and monitoring-without sharing the embodied history from which that form first acquired meaning for the person receiving it. We call this gap 'semantic displacement' and propose an asymmetry-of-cost criterion for judging when the gap matters clinically: displacement is most consequential where the human act, unlike its AI equivalent, costs the carer something. At the same time, we reject any suggestion that embodied human care is therefore uniformly superior or safe by default; documented failures of compassion in nursing history, and the evidenced effects of fatigue, burnout and bias on clinical judgement, show the embodied source of care is itself imperfect and unevenly distributed. The paper's contribution is accordingly not a defence of an idealised human nurse against a deficient machine, but an argument for a hybrid model in which AI absorbs monitoring and data-heavy labour so that scarce nurse time is protected for the embodied work AI cannot perform-while that freed time is itself protected from the workload pressures already eroding human care.",
+    "authors": [
+      "Marziyeh Mohammadi"
+    ],
+    "published": "2026-Oct",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42836854/",
+    "pdf_url": null,
+    "doi": "10.1111/nin.70173",
+    "citations": 0,
+    "venue": "Nursing inquiry",
+    "open_access": false,
+    "ai_summary": "The paper argues that AI can reproduce the outward form of care-alerts, affective language and monitoring-without sharing the embodied history from which that form first acquired meaning for the person receiving it . We call this gap 'semantic displacement' and propose an asymmetry-of-cost criterion for judging when the gap matters clinically."
+  },
+  {
+    "id": "pubmed:42836823",
+    "title": "Guideline Adherence and Variability in AI-Assisted Surgical Decision-Making for Low Back Pain.",
+    "abstract": "Surgical decision-making in low back pain requires balancing diagnostic uncertainty, asymmetric risk and guideline adherence, particularly when distinguishing non-specific conditions from pathologies warranting timely surgical referral. As large language models (LLMs) are increasingly considered as decision-support tools, their reliability in guideline-concordant surgical triage requires systematic evaluation. To assess and compare the performance of two LLMs (GPT and Gemini) in guideline-adherent surgical decision-making across a range of lumbar spine presentations. This comparative cross-sectional study was conducted between January and February 2026. Sixty standardised clinical scenarios representing non-specific low back pain, lumbar disc herniation with radiculopathy, lumbar spinal stenosis, and red-flag emergency conditions were developed. Guideline-based management decisions served as the reference standard. Both models were queried using an identical fixed prompt to determine diagnosis, management strategy, and urgency. Sensitivity, specificity, overall accuracy, and area under the receiver operating characteristic (ROC) curve (AUC) were calculated. Discriminative performance was compared using the DeLong test. Both models demonstrated high adherence in clearly defined emergency scenarios. GPT showed higher sensitivity for identifying surgical indications than Gemini (95.8% versus 75%), while specificity was 100% for both. Overall accuracy was 98.3% for GPT and 90% for Gemini. ROC analysis confirmed superior discriminative performance for GPT (AUC 0.99 versus 0.88; p < 0.05). Differences were primarily observed in non-emergent surgical cases. LLMs demonstrated strong alignment with guideline-based management in unambiguous scenarios, but variability emerged in sensitivity for non-emergent surgical indications. These findings underscore the importance of structured validation when integrating AI-assisted tools into clinical decision-making pathways.",
+    "authors": [
+      "Yiğit Önaloğlu"
+    ],
+    "published": "2026-Oct",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42836823/",
+    "pdf_url": null,
+    "doi": "10.1111/jep.70630",
+    "citations": 0,
+    "venue": "Journal of evaluation in clinical practice",
+    "open_access": false,
+    "ai_summary": "Large language models (LLMs) are increasingly considered as decision-support tools . Their reliability in guideline-concordant surgical triage requires systematic evaluation . The study was conducted between January and February 2026 ."
+  },
+  {
+    "id": "pubmed:42836783",
+    "title": "When the Algorithm Speaks First: Trust, Reliance and the Reconstruction of Clinical Metacognition.",
+    "abstract": "This paper addresses three of the aims of the Journal: clinical decision making, health philosophy and person-centred healthcare. Retinal imaging serves as the analytic case. The question at issue, what epistemic attitude a clinician may properly hold towards an algorithmic output issued for an individual patient, arises in every discipline and every health system in which such systems are deployed, and the argument is tested throughout against systems that read no images. Diagnostic artificial intelligence increasingly delivers a conclusion before the clinician has formed one, and medical education has responded by adding modules on the critical appraisal of algorithmic output. Such curricula rest upon two unsound foundations: they extend a form of metacognitive instruction shown not to improve diagnostic accuracy and they ask clinicians to cultivate an attitude whose defining feature is the relaxation of validation. This paper establishes what epistemic attitude a clinician may hold towards an algorithmic output and derives the form that clinical metacognition must take in consequence. Conceptual analysis, drawing upon the philosophy of trust and epistemic dependence, the cognitive science of clinical reasoning and empirical studies of artificial intelligence in clinical practice. Retinal medicine serves as the analytic case, chosen because it is the domain in which the position under contest is strongest; the argument is tested throughout against systems that process no images. Trust and reliance are distinct attitudes. On the account adopted here, to trust a medical algorithm is to rely upon it while relaxing the monitoring of the conditions that make it reliable; trust is reliance from which validation has been withdrawn. Regulatory clearance, institutional adoption and published performance supply legitimate grounds for trusting the assemblage that produces a system, yet none of them, singly or together, warrants reliance upon its output for an individual patient. Three asymmetries separate algorithmic from human epistemic dependence: the algorithm can be neither interrogated nor held to account; its errors fall on whole classes of patients at once; and its warrant holds of a population while the decision is owed to a person. The metacognition this situation demands is knowledge, not disposition, and stands untouched by the evidence against generic metacognitive instruction. Clinical metacognition requires reconstruction around three competences: calibrated reliance, awareness of distributed epistemic labour, and vigilance towards confidence-masked uncertainty. Each is content-dependent, teachable and assessable. Since none can be exercised where institutions supply neither the means of interrogation nor the time it takes, the reform of education and the reform of clinical governance are, in this respect, a single undertaking.",
+    "authors": [
+      "Joel Hanhart",
+      "Anat Zohar"
+    ],
+    "published": "2026-Oct",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42836783/",
+    "pdf_url": null,
+    "doi": "10.1111/jep.70652",
+    "citations": 0,
+    "venue": "Journal of evaluation in clinical practice",
+    "open_access": false,
+    "ai_summary": "This paper addresses three of the aims of the Journal: clinical decision making, health philosophy and person-centred healthcare . Retinal imaging serves as the analytic case ."
+  },
+  {
+    "id": "pubmed:42836750",
+    "title": "Quantitative Chest CT-derived Fibrosis and Vascular Remodeling and Acute Exacerbation Risk in Mild Idiopathic Pulmonary Fibrosis.",
+    "abstract": "Background Acute exacerbations worsen outcomes in idiopathic pulmonary fibrosis (IPF), but the role of vascular remodeling remains unclear. Purpose To determine whether quantitative CT-derived vascular metrics are independently associated with acute exacerbations in mild IPF and whether arterial or venous remodeling mediates the effects of fibrosis burden. Materials and Methods In this retrospective cohort study, patients with mild IPF (forced vital capacity ≥ 80% and diffusing capacity for carbon monoxide ≥ 55%) underwent baseline volumetric high-spatial-resolution unenhanced chest CT between April 2011 and December 2021 at a single tertiary hospital. Fibrosis score (FS) and vascular metrics were assessed using deep learning-based software. The primary outcome was time to acute exacerbation; the secondary outcome was event-free survival for acute exacerbation, lung transplantation, and death (composite outcome). Multivariable Cox models were used to evaluate both outcomes, adjusting for age, smoking status, and pack-years. Mediation analysis was used to assess whether vascular remodeling mediated the association between FS and the outcomes. Results Among 313 patients (mean age, 66.4 years ± 7.1 [SD]; 245 male patients), 86 (27.5%) experienced acute exacerbation, two (0.6%) underwent lung transplantation, and 120 (38.3%) died during a median 6.3 years of follow-up. Higher FS was associated with a higher estimated risk of acute exacerbation (adjusted hazard ratio [aHR] range across models, 1.05-1.09; ",
+    "authors": [
+      "Mihyun Yang",
+      "Seonok Kim",
+      "Sang Min Lee",
+      "Jihye Yun",
+      "Hye Jeon Hwang",
+      "Eun Jin Chae",
+      "Joon Beom Seo",
+      "Jooae Choe",
+      "Ho Cheol Kim"
+    ],
+    "published": "2026-Oct",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42836750/",
+    "pdf_url": null,
+    "doi": "10.1148/radiol.260703",
+    "citations": 0,
+    "venue": "Radiology",
+    "open_access": false,
+    "ai_summary": "Acute exacerbations worsen outcomes in idiopathic pulmonary fibrosis (IPF) But the role of vascular remodeling remains unclear ."
   },
   {
     "id": "openalex:W7118720654",
@@ -1415,7 +1410,25 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "openalex:W7158836996",
+    "id": "openalex:W7213352748",
+    "title": "The trajectory of educational justice in Zimbabwe's post-independence education policies and reforms (1980-2026): Implications for future educational reforms",
+    "abstract": "",
+    "authors": [
+      "Angellar Manguvo"
+    ],
+    "published": "2026-12-30",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.5281/zenodo.22768513",
+    "pdf_url": "https://jcdee.com/index.php/jcdee/article/download/71/60",
+    "doi": "10.5281/zenodo.22768513",
+    "citations": 0,
+    "venue": "Journal of Child Development, Exceptionality and Education",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7159021248",
     "title": "Beyond GDPR: The Architectural Challenge of Data Sovereignty and Confidential Computing in the Post-2024 Era",
     "abstract": "",
     "authors": [
@@ -1433,7 +1446,7 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "openalex:W7126047871",
+    "id": "openalex:W7126120974",
     "title": "CREATIVE LEADERSHIP AS A COGNITIVE-SOCIAL BUFFER AGAINST RUMINATION AND ORGANIZATIONAL ANOMIE: THE FULL MEDIATION ROLE OF EMOTIONAL INTELLIGENCE AND EMOTIONAL CAPACITY",
     "abstract": "",
     "authors": [
@@ -1591,6 +1604,25 @@
     "ai_summary": "No abstract available."
   },
   {
+    "id": "openalex:W7217745724",
+    "title": "Identifying the Dimensions and Components of Organizational Infrastructure Development in the Field of Human Capital in Mahshahr Gas Company",
+    "abstract": "",
+    "authors": [
+      "Davod Golehdari",
+      "Mohammad Ali Nikbakhsh"
+    ],
+    "published": "2026-11-01",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://openalex.org/W7217745724",
+    "pdf_url": "https://journalfwdmj.com/index.php/fwdmj/article/download/270/299",
+    "doi": null,
+    "citations": 0,
+    "venue": "Future of Work and Digital Management Journal",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
     "id": "openalex:W7218146293",
     "title": "Designing a Model for Enhancing the Skills of Primary School Principals with an Emphasis on STEAM Education",
     "abstract": "",
@@ -1607,6 +1639,25 @@
     "doi": null,
     "citations": 0,
     "venue": "International Journal of Innovation Management and Organizational Behavior (IJIMOB)",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7219721761",
+    "title": "Neuromorphic Computing Architectures for Low-Power Edge Inference in IoT Applications",
+    "abstract": "",
+    "authors": [
+      "Letahun Nemeon",
+      "P. Kharabi"
+    ],
+    "published": "2026-10-24",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.31838/ece/03.02.08",
+    "pdf_url": "https://ecejournals.in/index.php/PECE/article/download/431/681",
+    "doi": "10.31838/ece/03.02.08",
+    "citations": 0,
+    "venue": "Progress in Electronics and Communication Engineering",
     "open_access": true,
     "ai_summary": "No abstract available."
   },
@@ -1635,22 +1686,135 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "openalex:W7121069504",
-    "title": "TELEREHABILITATION: OPTIMIZING PATIENT OUTCOMES AND ACCESSIBILITY IN POST-STROKE RECOVERY",
+    "id": "openalex:W7219678762",
+    "title": "Quantum-Inspired Reconfigurable Computing for Accelerated Matrix Computations in High-Performance Embedded Systems",
     "abstract": "",
     "authors": [
-      "Razan Abdulkarim Alkani, Lilas Almotasem Bellah El Arjawi, Waseem Nadim, Raad AlHmoud, Tasneem Abdul Muin Junaid, Sara Abdullah Alhoti ,Ahmad Bassam Al Halabi, Sami Mohammad Jameel, Raghad Emad Alhalabi, Osama Abdulnaser Kouzo, Yousef Jameel Eid Albalawi, Raghad Hassan Alsayed, Maysoon Saud S Alharthy"
+      "Moti Ranjan Tandi",
+      "M. Sathish Kumar"
     ],
-    "published": "2026-10-11",
+    "published": "2026-10-15",
     "source": "OpenAlex",
     "category": "index",
-    "url": "https://doi.org/10.5281/zenodo.18206167",
-    "pdf_url": "https://tpmap.org/submission/index.php/tpm/article/download/3727/2770",
-    "doi": "10.5281/zenodo.18206167",
+    "url": "https://doi.org/10.31838/esa/03.02.06",
+    "pdf_url": "https://ecejournals.in/index.php/ESA/article/download/400/635",
+    "doi": "10.31838/esa/03.02.06",
     "citations": 0,
-    "venue": "TPM Testing, psychometrics, methodology in applied psychology",
+    "venue": "SCCTS Journal of Embedded Systems Design and Applications",
     "open_access": true,
     "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7220367554",
+    "title": "KWSSWS-IA Approach: An Intelligent Assistant for Scientific PDF Retrieval Using Semantic Analysis and AI-Driven Summarization",
+    "abstract": "",
+    "authors": [
+      "E Fakroun",
+      "M Sullabi"
+    ],
+    "published": "2026-10-06",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.65405/fw7nxs09",
+    "pdf_url": "https://doi.org/10.65405/fw7nxs09",
+    "doi": "10.65405/fw7nxs09",
+    "citations": 0,
+    "venue": "Al-Farooq Journal of Sciences",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "arxiv:2610.06847v1",
+    "title": "S2PD: Serial-to-Parallel Diffusion for Physically and Logically Consistent Video Generation",
+    "abstract": "Bidirectional video diffusion models denoise entire videos in parallel, yet when trained on effectively unlimited in-distribution data from procedural generators, continue to violate physical laws and simple symbolic rules. We introduce Serial-to-Parallel Diffusion (S2PD), which performs autoregressive diffusion at high noise before switching to parallel diffusion at low noise. The autoregressive phase provides the serial computation needed to coordinate interdependent events and produce valid state transitions while the parallel phase jointly refines the entire video and reduces sampling time relative to fully serial generation. We implement S2PD with two architectures: a pixel-space diffusion transformer trained from scratch and a pretrained video model adapted through LoRA fine-tuning with causal attention. Across games, physical simulations, and real video, S2PD follows rules more reliably than matched bidirectional baselines and generates videos with greater temporal stability and sampling efficiency than other serial methods.",
+    "authors": [
+      "Jeffrey Hu",
+      "Daniel Olmeda Reino",
+      "Ayush Tewari"
+    ],
+    "published": "2026-10-05",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2610.06847v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.06847v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "Serial-to-Parallel Diffusion (S2PD) performs autoregressive diffusion at high noise before switching to parallel diffusion at low noise . S2PD follows rules more reliably than matched bidirectional baselines ."
+  },
+  {
+    "id": "arxiv:2610.06850v1",
+    "title": "InterMimicGen: Scaling Humanoid Loco-Manipulation through Self-Evolving Motion Imitation",
+    "abstract": "Captured human-object interactions provide rich supervision for humanoid loco-manipulation, but they are sparse, heterogeneous, and not directly executable by robots. We introduce InterMimicGen, a self-evolving motion-imitation framework in which robot motion data and a tracking policy improve each other. First, we consolidate motion-captured human-object interaction datasets and retarget them into humanoid robot references while preserving whole-body coordination and dexterous hand-object relationships. This produces a large and diverse humanoid robot reference collection for dexterous whole-body loco-manipulation. Second, we train a physics-based generalist tracker that executes these references in simulation on a humanoid with dexterous hands, covering a scale and diversity beyond prior humanoid tracking systems for loco-manipulation. Third, we close a data flywheel: each round makes small, task-preserving changes to where an interaction takes place and how the body performs it, fine-tunes the tracker on them, and keeps only the variants whose simulated execution completes the task, which seed the next round. With more iterations, these small edits compound into broader coverage around the sparse original demonstrations while preserving task semantics and motion quality. Experiments show contact-preserving retargeting across robot configurations, broad tracking with a single generalist policy, executable motions that keep growing over augmentation rounds, and transfer to real robots. InterMimicGen provides a unified path from heterogeneous human demonstrations to a continually expanding motion resource for humanoid robot learning.",
+    "authors": [
+      "Yucheng Zhang",
+      "Sirui Xu",
+      "Jinhong Li",
+      "Liuyu Bian",
+      "Anatulya Nandi",
+      "Derek Zhang",
+      "Xiangchen Liu",
+      "Xueting Li",
+      "Umar Iqbal",
+      "Yu-Xiong Wang",
+      "Liang-Yan Gui"
+    ],
+    "published": "2026-10-05",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2610.06850v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.06850v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "InterMimicGen is a self-evolving motion-imitation framework . It combines motion-captured human-object interaction datasets with robot tracking systems . We train a physics-based generalist tracker that executes these references in simulation on a humanoid with dexterous hands ."
+  },
+  {
+    "id": "arxiv:2610.06846v1",
+    "title": "BiasFlow: Geometric Monitoring and Backbone Regularization for Spurious Feature Reliance",
+    "abstract": "Worst-group accuracy (WGA) evaluates a trained predictor but does not characterize how its frozen backbone behaves when a new head is learned. We introduce BiasFlow, a hook-based toolkit for monitoring class-attribute centroid alignment (IBMI), within-class centroid separation (W-IBMI), and feature-projection sensitivity. IBMI is confounded by class-attribute correlation and is not a measure of causal feature reliance. We pair these diagnostics with BiasFlow Regularization (BFR), a supervised, composable class-conditional centroid-alignment penalty. W-IBMI verifies the quantity BFR optimizes; it is scale dependent and does not independently establish attribute removal. Across the reported small-scale benchmarks, adding BFR improves or preserves mean WGA, with gains up to +26.0 pp on UrbanCars. The principal independent stress test freezes CelebA-Std backbones and trains fresh heads on biased data: BFR+GroupDRO improves WGA from 40.7% to 64.1%, while Male probe accuracy decreases from 92.5% to 72.2%. Attribute information remains recoverable, and cross-task results are mixed. A controlled synthetic-watermark ImageNet experiment additionally improves watermark-shift accuracy by +23.0 pp under matched training. These results support evaluating centroid geometry and resistance to biased head retraining alongside WGA, within the tested protocols.",
+    "authors": [
+      "Haojin Deng",
+      "Zhiping Lin",
+      "Yimin Yang"
+    ],
+    "published": "2026-10-05",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2610.06846v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.06846v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "WGA evaluates a trained predictor but does not characterize how its frozen backbone behaves when a new head is learned . BiasFlow is a hook-based toolkit for monitoring class-attribute centroid alignment (IBMI), within-class centroid separation (W-IB"
+  },
+  {
+    "id": "arxiv:2610.06848v1",
+    "title": "TranScope: What the Software Hides About LLM Training Data, the Hardware Reveals at Scale, and Accelerators Magnify",
+    "abstract": "Membership is the root privacy primitive in machine learning: to date, no hardware-based out-of-distribution detection on black-box models has been demonstrated against constant-time, static neural networks with masked confidence. This paper performs the first cycle-level examination of how large language models and vision transformers interact with various modern microarchitecture components, including integrated accelerators, as LLMs scale in size and answers the question of whether the data that a model was trained on affects its execution footprint even without any input-dependent branch, dynamic optimization, or early exit and in constant-time models. The results confirm that the answer is yes and identify which modern hardware components, such as TLBs or on-core accelerators, reveal or amplify that effect. The results also answer whether the signal is informative enough to reliably classify the in-/vs/out-of-distribution property of membership. To understand why, we perform a systematic root cause analysis and find that the transformer's tokenization steps, which happen during training, alter the locality of the accesses the model makes to fetch the vocabulary token later during inference and, as a result, change the page table access patterns and TLB in a previously unknown data-dependent way, causing microarchitectural state to vary significantly based on whether or not the input was in the distribution of the transformer training data. Building on the above observation, we introduce TranScope: the first microarchitecture tool for detecting membership information with low cost, no need for a surrogate model, and significantly higher robustness, e.g., 0.6 AUC for PETAL (best previously reported) vs 0.9 AUC (ours). This reintroduces hardware as both an opportunity, e.g., a tool for checking copyright violation for the first time, and a new channel for inferring membership (MIA).",
+    "authors": [
+      "Joshua Kalyanapu",
+      "Darsh Asher",
+      "Kaushal Mhapsekar",
+      "Bita Aslrousta",
+      "Rushiraj Chaitanyakumar Sheth",
+      "Maharshi Mukeshkumar Oza",
+      "Achyuta Kannan",
+      "Samira Mirbagher Ajorpaz"
+    ],
+    "published": "2026-10-05",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2610.06848v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.06848v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "No hardware-based out-of-distribution detection on black-box models has been demonstrated against constant-time, static neural networks with masked confidence ."
   },
   {
     "id": "arxiv:2610.06851v1",
@@ -1697,99 +1861,6 @@
     "venue": "arXiv preprint",
     "open_access": true,
     "ai_summary": "Pipeline figures in ML papers must be repurposed across many canvases, including paper columns, 16:9 slides, portrait posters, 1:1 social teasers, 9:16 phone previews ."
-  },
-  {
-    "id": "arxiv:2610.06847v1",
-    "title": "S2PD: Serial-to-Parallel Diffusion for Physically and Logically Consistent Video Generation",
-    "abstract": "Bidirectional video diffusion models denoise entire videos in parallel, yet when trained on effectively unlimited in-distribution data from procedural generators, continue to violate physical laws and simple symbolic rules. We introduce Serial-to-Parallel Diffusion (S2PD), which performs autoregressive diffusion at high noise before switching to parallel diffusion at low noise. The autoregressive phase provides the serial computation needed to coordinate interdependent events and produce valid state transitions while the parallel phase jointly refines the entire video and reduces sampling time relative to fully serial generation. We implement S2PD with two architectures: a pixel-space diffusion transformer trained from scratch and a pretrained video model adapted through LoRA fine-tuning with causal attention. Across games, physical simulations, and real video, S2PD follows rules more reliably than matched bidirectional baselines and generates videos with greater temporal stability and sampling efficiency than other serial methods.",
-    "authors": [
-      "Jeffrey Hu",
-      "Daniel Olmeda Reino",
-      "Ayush Tewari"
-    ],
-    "published": "2026-10-05",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2610.06847v1",
-    "pdf_url": "https://arxiv.org/pdf/2610.06847v1",
-    "doi": null,
-    "citations": 0,
-    "venue": "arXiv preprint",
-    "open_access": true,
-    "ai_summary": "Serial-to-Parallel Diffusion (S2PD) performs autoregressive diffusion at high noise before switching to parallel diffusion at low noise . S2PD follows rules more reliably than matched bidirectional baselines ."
-  },
-  {
-    "id": "arxiv:2610.06846v1",
-    "title": "BiasFlow: Geometric Monitoring and Backbone Regularization for Spurious Feature Reliance",
-    "abstract": "Worst-group accuracy (WGA) evaluates a trained predictor but does not characterize how its frozen backbone behaves when a new head is learned. We introduce BiasFlow, a hook-based toolkit for monitoring class-attribute centroid alignment (IBMI), within-class centroid separation (W-IBMI), and feature-projection sensitivity. IBMI is confounded by class-attribute correlation and is not a measure of causal feature reliance. We pair these diagnostics with BiasFlow Regularization (BFR), a supervised, composable class-conditional centroid-alignment penalty. W-IBMI verifies the quantity BFR optimizes; it is scale dependent and does not independently establish attribute removal. Across the reported small-scale benchmarks, adding BFR improves or preserves mean WGA, with gains up to +26.0 pp on UrbanCars. The principal independent stress test freezes CelebA-Std backbones and trains fresh heads on biased data: BFR+GroupDRO improves WGA from 40.7% to 64.1%, while Male probe accuracy decreases from 92.5% to 72.2%. Attribute information remains recoverable, and cross-task results are mixed. A controlled synthetic-watermark ImageNet experiment additionally improves watermark-shift accuracy by +23.0 pp under matched training. These results support evaluating centroid geometry and resistance to biased head retraining alongside WGA, within the tested protocols.",
-    "authors": [
-      "Haojin Deng",
-      "Zhiping Lin",
-      "Yimin Yang"
-    ],
-    "published": "2026-10-05",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2610.06846v1",
-    "pdf_url": "https://arxiv.org/pdf/2610.06846v1",
-    "doi": null,
-    "citations": 0,
-    "venue": "arXiv preprint",
-    "open_access": true,
-    "ai_summary": "WGA evaluates a trained predictor but does not characterize how its frozen backbone behaves when a new head is learned . BiasFlow is a hook-based toolkit for monitoring class-attribute centroid alignment (IBMI), within-class centroid separation (W-IB"
-  },
-  {
-    "id": "arxiv:2610.06850v1",
-    "title": "InterMimicGen: Scaling Humanoid Loco-Manipulation through Self-Evolving Motion Imitation",
-    "abstract": "Captured human-object interactions provide rich supervision for humanoid loco-manipulation, but they are sparse, heterogeneous, and not directly executable by robots. We introduce InterMimicGen, a self-evolving motion-imitation framework in which robot motion data and a tracking policy improve each other. First, we consolidate motion-captured human-object interaction datasets and retarget them into humanoid robot references while preserving whole-body coordination and dexterous hand-object relationships. This produces a large and diverse humanoid robot reference collection for dexterous whole-body loco-manipulation. Second, we train a physics-based generalist tracker that executes these references in simulation on a humanoid with dexterous hands, covering a scale and diversity beyond prior humanoid tracking systems for loco-manipulation. Third, we close a data flywheel: each round makes small, task-preserving changes to where an interaction takes place and how the body performs it, fine-tunes the tracker on them, and keeps only the variants whose simulated execution completes the task, which seed the next round. With more iterations, these small edits compound into broader coverage around the sparse original demonstrations while preserving task semantics and motion quality. Experiments show contact-preserving retargeting across robot configurations, broad tracking with a single generalist policy, executable motions that keep growing over augmentation rounds, and transfer to real robots. InterMimicGen provides a unified path from heterogeneous human demonstrations to a continually expanding motion resource for humanoid robot learning.",
-    "authors": [
-      "Yucheng Zhang",
-      "Sirui Xu",
-      "Jinhong Li",
-      "Liuyu Bian",
-      "Anatulya Nandi",
-      "Derek Zhang",
-      "Xiangchen Liu",
-      "Xueting Li",
-      "Umar Iqbal",
-      "Yu-Xiong Wang",
-      "Liang-Yan Gui"
-    ],
-    "published": "2026-10-05",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2610.06850v1",
-    "pdf_url": "https://arxiv.org/pdf/2610.06850v1",
-    "doi": null,
-    "citations": 0,
-    "venue": "arXiv preprint",
-    "open_access": true,
-    "ai_summary": "InterMimicGen is a self-evolving motion-imitation framework . It combines motion-captured human-object interaction datasets with robot tracking systems . We train a physics-based generalist tracker that executes these references in simulation on a humanoid with dexterous hands ."
-  },
-  {
-    "id": "arxiv:2610.06848v1",
-    "title": "TranScope: What the Software Hides About LLM Training Data, the Hardware Reveals at Scale, and Accelerators Magnify",
-    "abstract": "Membership is the root privacy primitive in machine learning: to date, no hardware-based out-of-distribution detection on black-box models has been demonstrated against constant-time, static neural networks with masked confidence. This paper performs the first cycle-level examination of how large language models and vision transformers interact with various modern microarchitecture components, including integrated accelerators, as LLMs scale in size and answers the question of whether the data that a model was trained on affects its execution footprint even without any input-dependent branch, dynamic optimization, or early exit and in constant-time models. The results confirm that the answer is yes and identify which modern hardware components, such as TLBs or on-core accelerators, reveal or amplify that effect. The results also answer whether the signal is informative enough to reliably classify the in-/vs/out-of-distribution property of membership. To understand why, we perform a systematic root cause analysis and find that the transformer's tokenization steps, which happen during training, alter the locality of the accesses the model makes to fetch the vocabulary token later during inference and, as a result, change the page table access patterns and TLB in a previously unknown data-dependent way, causing microarchitectural state to vary significantly based on whether or not the input was in the distribution of the transformer training data. Building on the above observation, we introduce TranScope: the first microarchitecture tool for detecting membership information with low cost, no need for a surrogate model, and significantly higher robustness, e.g., 0.6 AUC for PETAL (best previously reported) vs 0.9 AUC (ours). This reintroduces hardware as both an opportunity, e.g., a tool for checking copyright violation for the first time, and a new channel for inferring membership (MIA).",
-    "authors": [
-      "Joshua Kalyanapu",
-      "Darsh Asher",
-      "Kaushal Mhapsekar",
-      "Bita Aslrousta",
-      "Rushiraj Chaitanyakumar Sheth",
-      "Maharshi Mukeshkumar Oza",
-      "Achyuta Kannan",
-      "Samira Mirbagher Ajorpaz"
-    ],
-    "published": "2026-10-05",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2610.06848v1",
-    "pdf_url": "https://arxiv.org/pdf/2610.06848v1",
-    "doi": null,
-    "citations": 0,
-    "venue": "arXiv preprint",
-    "open_access": true,
-    "ai_summary": "No hardware-based out-of-distribution detection on black-box models has been demonstrated against constant-time, static neural networks with masked confidence ."
   },
   {
     "id": "arxiv:2610.06844v1",
@@ -2271,7 +2342,7 @@
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "The Koopmanism Response framework is built on the Koop manism Response system . Each surrogate rollout passes or fails each check, and failure rates are compared with those of independent realizations ."
+    "ai_summary": "The Koopmanism Response framework is built on the Koop manism Response system . Each surrogate rollout passes or fails each check, and failure rates are compared with those of independent realizations of the true system ."
   },
   {
     "id": "arxiv:2610.06795v1",
@@ -2773,95 +2844,22 @@
     "ai_summary": "Sentiment Aware Generative Adversarial Network for Cross Domain Recommendation (SAGA-CDR) is a two-phase cross-domain recommendation framework . It personalizes music suggestions and emotionally aligns them with the book being read ."
   },
   {
-    "id": "openalex:W7219843982",
-    "title": "Evaluating on-line media and survey data to understand beliefs and sentiment associated with pastured and integrated poultry production among farmers and stakeholders",
+    "id": "openalex:W7219615801",
+    "title": "The Decision to Use Training Services is Reviewed From the Promotion, Costs, Facilities and Location of Vocational Training Center and Productivity Surakarta",
     "abstract": "",
     "authors": [
-      "Faye Duan",
-      "Arlene E. Enderton",
-      "Joseph D. Gendreau",
-      "Jingwen Zhang",
-      "Brock Riggs",
-      "Alejandro Plastina",
-      "David J. Gonthier",
-      "Dong Ahn",
-      "Marshall D. McDaniel",
-      "Ann Baier",
-      "Anne M. Carey",
-      "Viktor Halmos",
-      "Ajay Nair",
-      "Maurice E. Pitesky"
+      "Dillyana Krismianingrum",
+      "Sudarwati Sudarwati",
+      "Sarsono Sarsono"
     ],
     "published": "2026-10-05",
     "source": "OpenAlex",
     "category": "index",
-    "url": "https://doi.org/10.3389/fsufs.2026.1860985",
-    "pdf_url": "https://doi.org/10.3389/fsufs.2026.1860985",
-    "doi": "10.3389/fsufs.2026.1860985",
+    "url": "https://doi.org/10.47467/elmal.v7i10.13111",
+    "pdf_url": "https://journal-laaroiba.com/ojs/index.php/elmal/article/download/13111/9534",
+    "doi": "10.47467/elmal.v7i10.13111",
     "citations": 0,
-    "venue": "Frontiers in Sustainable Food Systems",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W7204264286",
-    "title": "Representation learning in diffusion and flow-based model: an application aspect",
-    "abstract": "",
-    "authors": [
-      "Yanchen Xu",
-      "Sida Huang",
-      "Zhenyu Gu",
-      "Ruishu Zhu",
-      "Yilan Gao",
-      "Hongyuan Zhang"
-    ],
-    "published": "2026-10-05",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.1007/s44336-026-00042-3",
-    "pdf_url": "https://doi.org/10.1007/s44336-026-00042-3",
-    "doi": "10.1007/s44336-026-00042-3",
-    "citations": 0,
-    "venue": "Vicinagearth.",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W7215042435",
-    "title": "Enhancing IoT Security through Machine Learning: A Comprehensive Review and Future Directions",
-    "abstract": "",
-    "authors": [
-      "Kamel-Dine Haouam",
-      "Mourad Benmalek"
-    ],
-    "published": "2026-10-04",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.57675/imist.prsm/ijist-v9i2.275",
-    "pdf_url": "https://www.innove.org/ijist/index.php/ijist/article/download/275/218",
-    "doi": "10.57675/imist.prsm/ijist-v9i2.275",
-    "citations": 0,
-    "venue": "International Journal of Information Science and Technology",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W7215078105",
-    "title": "Context-Aware DCNN for Emotion Recognition in Images",
-    "abstract": "",
-    "authors": [
-      "Fatiha Limami",
-      "Boutaina Hdioud",
-      "Rachid Oulad Haj Thami"
-    ],
-    "published": "2026-10-04",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.57675/imist.prsm/ijist-v10i1.382",
-    "pdf_url": "https://www.innove.org/ijist/index.php/ijist/article/download/382/224",
-    "doi": "10.57675/imist.prsm/ijist-v10i1.382",
-    "citations": 0,
-    "venue": "International Journal of Information Science and Technology",
+    "venue": "El-Mal Jurnal Kajian Ekonomi & Bisnis Islam",
     "open_access": true,
     "ai_summary": "No abstract available."
   }
