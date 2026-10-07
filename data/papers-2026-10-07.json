@@ -164,11 +164,11 @@
     "source": "Crossref",
     "category": "index",
     "url": "https://doi.org/10.3998/mjcsl.6294",
-    "pdf_url": null,
+    "pdf_url": "https://journals.publishing.umich.edu/mjcsl/article/id/6294/download/pdf/",
     "doi": "10.3998/mjcsl.6294",
     "citations": 0,
     "venue": "Michigan Journal of Community Service Learning",
-    "open_access": false,
+    "open_access": true,
     "ai_summary": "No abstract available."
   },
   {
@@ -344,6 +344,24 @@
     "ai_summary": "No abstract available."
   },
   {
+    "id": "crossref:10.56251/watu4873",
+    "title": "Machine Learning Application for SAIs",
+    "abstract": "",
+    "authors": [
+      "Tiare Rivera"
+    ],
+    "published": "2030",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.56251/watu4873",
+    "pdf_url": null,
+    "doi": "10.56251/watu4873",
+    "citations": 0,
+    "venue": "International Journal of Government Auditing",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
     "id": "crossref:10.56251/yxek7242",
     "title": "Evolution and Applications of Artificial Intelligence in SAIs",
     "abstract": "",
@@ -366,24 +384,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.56251/watu4873",
-    "title": "Machine Learning Application for SAIs",
-    "abstract": "",
-    "authors": [
-      "Tiare Rivera"
-    ],
-    "published": "2030",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.56251/watu4873",
-    "pdf_url": null,
-    "doi": "10.56251/watu4873",
-    "citations": 0,
-    "venue": "International Journal of Government Auditing",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
     "id": "openalex:W4310005602",
     "title": "Journal of GIS based Historical Studies",
     "abstract": "",
@@ -393,9 +393,9 @@
     "published": "2029-05-06",
     "source": "OpenAlex",
     "category": "index",
-    "url": "https://doi.org/10.5281/zenodo.7368979",
+    "url": "https://doi.org/10.5281/zenodo.7368978",
     "pdf_url": "https://zenodo.org/record/7368979",
-    "doi": "10.5281/zenodo.7368979",
+    "doi": "10.5281/zenodo.7368978",
     "citations": 0,
     "venue": "Zenodo (CERN European Organization for Nuclear Research)",
     "open_access": true,
@@ -479,6 +479,26 @@
     "ai_summary": "Kinovea is an accessible motion-analysis software . It provides both visual and quantitative feedback . However, its application in supporting technique development among beginner athletes remains insufficiently explored ."
   },
   {
+    "id": "crossref:10.5705/ss.202025.0406",
+    "title": "Distributed Learning of Single Index Model with Differential Privacy and Massive Data",
+    "abstract": "",
+    "authors": [
+      "Fode Zhang",
+      "Lingrui Wang",
+      "Hua Liang"
+    ],
+    "published": "2029",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.5705/ss.202025.0406",
+    "pdf_url": "https://doi.org/10.5705/ss.202025.0406",
+    "doi": "10.5705/ss.202025.0406",
+    "citations": 0,
+    "venue": "Statistica Sinica",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
     "id": "crossref:10.5705/ss.202025.0275",
     "title": "Efficient Learning of Sparse Differential Networks in Multi-Source Non-Paranormal Models",
     "abstract": "",
@@ -492,6 +512,48 @@
     "url": "https://doi.org/10.5705/ss.202025.0275",
     "pdf_url": null,
     "doi": "10.5705/ss.202025.0275",
+    "citations": 0,
+    "venue": "Statistica Sinica",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "crossref:10.5705/ss.202025.0314",
+    "title": "Transfer Learning for High-dimensional Regression with Compositional Covariates: Application to Microbiome Studies",
+    "abstract": "",
+    "authors": [
+      "Qinqin Hu",
+      "Xiaojing Luo",
+      "Chencheng Ma",
+      "Wang Zhou"
+    ],
+    "published": "2029",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.5705/ss.202025.0314",
+    "pdf_url": null,
+    "doi": "10.5705/ss.202025.0314",
+    "citations": 0,
+    "venue": "Statistica Sinica",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "crossref:10.5705/ss.202026.0109",
+    "title": "Inference for Extreme Value Index Through Individualized Fusion Learning",
+    "abstract": "",
+    "authors": [
+      "Hongfang Sun",
+      "Yu Chen",
+      "Tao Xu",
+      "Zhengjun Zhang"
+    ],
+    "published": "2029",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.5705/ss.202026.0109",
+    "pdf_url": null,
+    "doi": "10.5705/ss.202026.0109",
     "citations": 0,
     "venue": "Statistica Sinica",
     "open_access": false,
@@ -520,47 +582,6 @@
     "ai_summary": "The aim of this work is to develop and investigate a hybrid approach to network attack detection based on signature-based analysis and intelligent machine learning methods . The practical significance of the study lies in the possibility of deploying the proposed architecture in real corporate networks ."
   },
   {
-    "id": "crossref:10.5705/ss.202025.0406",
-    "title": "Distributed Learning of Single Index Model with Differential Privacy and Massive Data",
-    "abstract": "",
-    "authors": [
-      "Fode Zhang",
-      "Lingrui Wang",
-      "Hua Liang"
-    ],
-    "published": "2029",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.5705/ss.202025.0406",
-    "pdf_url": null,
-    "doi": "10.5705/ss.202025.0406",
-    "citations": 0,
-    "venue": "Statistica Sinica",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "crossref:10.5705/ss.202025.0314",
-    "title": "Transfer Learning for High-dimensional Regression with Compositional Covariates: Application to Microbiome Studies",
-    "abstract": "",
-    "authors": [
-      "Qinqin Hu",
-      "Xiaojing Luo",
-      "Chencheng Ma",
-      "Wang Zhou"
-    ],
-    "published": "2029",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.5705/ss.202025.0314",
-    "pdf_url": null,
-    "doi": "10.5705/ss.202025.0314",
-    "citations": 0,
-    "venue": "Statistica Sinica",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
     "id": "crossref:10.5705/ss.202025.0230",
     "title": "Two-way Subgroup Structure Learning for High Dimensional Clustered Survival Data",
     "abstract": "",
@@ -582,21 +603,21 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.5705/ss.202026.0109",
-    "title": "Inference for Extreme Value Index Through Individualized Fusion Learning",
+    "id": "crossref:10.5705/ss.202025.0205",
+    "title": "Sparsity Learning via Structured Functional Factor Augmentation",
     "abstract": "",
     "authors": [
-      "Hongfang Sun",
-      "Yu Chen",
-      "Tao Xu",
-      "Zhengjun Zhang"
+      "Hanteng Ma",
+      "Ziliang Shen",
+      "Xingdong Feng",
+      "Xin Liu"
     ],
     "published": "2029",
     "source": "Crossref",
     "category": "index",
-    "url": "https://doi.org/10.5705/ss.202026.0109",
+    "url": "https://doi.org/10.5705/ss.202025.0205",
     "pdf_url": null,
-    "doi": "10.5705/ss.202026.0109",
+    "doi": "10.5705/ss.202025.0205",
     "citations": 0,
     "venue": "Statistica Sinica",
     "open_access": false,
@@ -618,27 +639,6 @@
     "url": "https://doi.org/10.5705/ss.202025.0457",
     "pdf_url": null,
     "doi": "10.5705/ss.202025.0457",
-    "citations": 0,
-    "venue": "Statistica Sinica",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "crossref:10.5705/ss.202025.0205",
-    "title": "Sparsity Learning via Structured Functional Factor Augmentation",
-    "abstract": "",
-    "authors": [
-      "Hanteng Ma",
-      "Ziliang Shen",
-      "Xingdong Feng",
-      "Xin Liu"
-    ],
-    "published": "2029",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.5705/ss.202025.0205",
-    "pdf_url": null,
-    "doi": "10.5705/ss.202025.0205",
     "citations": 0,
     "venue": "Statistica Sinica",
     "open_access": false,
@@ -758,6 +758,27 @@
     "ai_summary": "Research paper will debate role played by principals in teaching and learning process . Research will embrace a quantitative research design that will seek to answer the question about the relationship between leadership skills of principals and teaching-learning process ."
   },
   {
+    "id": "crossref:10.1504/ijims.2028.10076630",
+    "title": "Left Ventricle Extraction Using a DENSENET-U-Net Integrated Deep Learning Approach",
+    "abstract": "",
+    "authors": [
+      "X. Ignatious Viola",
+      "R. Shoba Rani",
+      "G. Savitha",
+      "R. Surekha"
+    ],
+    "published": "2028",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.1504/ijims.2028.10076630",
+    "pdf_url": null,
+    "doi": "10.1504/ijims.2028.10076630",
+    "citations": 0,
+    "venue": "International Journal of Internet Manufacturing and Services",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
     "id": "crossref:10.1504/ijims.2028.10081208",
     "title": "Enhancements to the Deep Learning Architecture for Metaverse Integration in Medical Image Processing",
     "abstract": "",
@@ -780,28 +801,7 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.1504/ijims.2028.10076630",
-    "title": "Left Ventricle Extraction Using a DENSENET-U-Net Integrated Deep Learning Approach",
-    "abstract": "",
-    "authors": [
-      "X. Ignatious Viola",
-      "R. Shoba Rani",
-      "G. Savitha",
-      "R. Surekha"
-    ],
-    "published": "2028",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.1504/ijims.2028.10076630",
-    "pdf_url": null,
-    "doi": "10.1504/ijims.2028.10076630",
-    "citations": 0,
-    "venue": "International Journal of Internet Manufacturing and Services",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W7171671418",
+    "id": "openalex:W7171699190",
     "title": "Funding Innovation for Future-Ready Healthcare Systems",
     "abstract": "",
     "authors": [
@@ -828,9 +828,9 @@
     "published": "2027-07-27",
     "source": "OpenAlex",
     "category": "index",
-    "url": "https://doi.org/10.5281/zenodo.21631048",
-    "pdf_url": "https://doi.org/10.5281/zenodo.21631048",
-    "doi": "10.5281/zenodo.21631048",
+    "url": "https://doi.org/10.5281/zenodo.21631047",
+    "pdf_url": "https://doi.org/10.5281/zenodo.21631047",
+    "doi": "10.5281/zenodo.21631047",
     "citations": 0,
     "venue": "Zenodo (CERN European Organization for Nuclear Research)",
     "open_access": true,
@@ -959,101 +959,224 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "pubmed:42839884",
-    "title": "A multimodal artificial intelligence framework for digital forensics.",
-    "abstract": "Digital forensics plays a key role in investigating different types of crimes. It involves analyzing evidence from electronic devices, social media, and system logs. However, investigators face major challenges due to the large size of digital data. Information from networks, smartphones, and online platforms is often too complex to analyze within a limited time. The large size of digital evidence and the pressure of a strict timeline for case investigation force the investigator to do data reduction and selective analysis. It is also difficult for the investigator to correlate the various digital evidence to create the complete picture of the crime story. To address these challenges, we propose a Multimodal Artificial Intelligence Framework designed to integrate heterogeneous digital evidence analysis capabilities by leveraging artificial intelligence. The proof-of-concept architecture proposed in the paper incorporates explainable AI, pattern recognition, and a confidence-aware inference mechanism for semantic evidence analysis. The experimental analysis of the proposed model shows improved investigative efficiency. The analysis of the research results endorses the effectiveness of AI-assisted workflow in digital forensics investigation.",
+    "id": "pubmed:42842922",
+    "title": "Codevelopment, Implementation, and Evaluation of an AI-powered Conversational Interface for Tobacco Cessation: Protocol for a Single-Group Pre-Post Study.",
+    "abstract": "Despite several efforts to expand tobacco cessation services through tobacco cessation centers (TCCs) and quit lines, key operational challenges still persist. Recently, AI-based digital interventions have shown promise globally for smoking cessation; however, they remain underused in tobacco cessation strategy in the Indian context. This study aimed to (1) codevelop the conversational interface with beneficiaries and cessation providers; (2) assess its feasibility, acceptability, usability, and user engagement; and (3) evaluate its effectiveness in promoting attempts and intention to quit tobacco. The study consists of three phases: (1) codeveloping the comprehensive AI-powered Conversational Interface to Quit Tobacco (CARE) conversational interface through in-depth interviews with tobacco users, counselors, and health care professionals; (2) feasibility testing with tobacco users to assess engagement, usability, and acceptability; and (3) 6-month effectiveness testing using pre-post surveys. The CARE conversational interface will be developed using a retrieval-augmented generation-based large language model by the Indian Institute of Technology (Bombay, Maharashtra, India), delivering personalized, multilingual cessation support via a chatbot integrated into a mobile app. Key evaluation measures will use validated tools such as the Fagerström Test for Nicotine Dependence, Smoking Self-Efficacy Questionnaire, Decisional Balance Scale, and a Knowledge Score Questionnaire. Data will be analyzed using mixed methods, including thematic analysis for qualitative data and descriptive statistics and a multivariate logistic regression for quantitative data. The CARE study was funded in March 2025 and is being implemented across 3 TCCs. Preparatory activities, including tool development, site engagement, ethics approval, and trial registration (CTRI/2024/11/076916), were completed in 2025. Phase 1 (codevelopment) is scheduled from February to August 2026, followed by phase 2 (feasibility testing) from September 2026 to August 2027, and phase 3 (effectiveness assessment) from September to November 2027. Data analyses are expected to be completed by late 2027, with key findings on feasibility, acceptability, usability, user engagement, and preliminary cessation outcomes targeted for peer-reviewed publication from 2027 onward. The CARE study will attempt to introduce a novel, culturally tailored conversational interface targeting both smokers and smokeless tobacco users in India by integrating AI-based solutions as an adjunct to conventional counseling at the TCCs. Given the single-group pre-post design without a control arm, feasibility and effectiveness findings will be interpreted as preliminary and hypothesis-generating rather than causal evidence of intervention impact. The intervention approach of codevelopment, strengthening capacity in evidence-based content, and enabling a multilingual conversation interface is expected to enhance tobacco user engagement and improve cessation outcomes. Findings from this pilot will inform a future randomized controlled trial and provide evidence for the potential integration of the CARE interface into India's tobacco cessation platforms, offering a low-cost, high-impact solution for India and other low- and middle-income countries that face similar challenges. Clinical Trials Registry-India CTRI/2024/11/076916; https://tinyurl.com/3vfs5d8s. PRR1-10.2196/82264.",
     "authors": [
-      "Manish Kumar"
+      "Monika Arora",
+      "Rajmohan Panda",
+      "Shalini Bassi",
+      "Kshitij Jadhav",
+      "Prabhat Chand",
+      "Monirujjaman Biswas",
+      "Mohai Menul Biswas",
+      "Tina Rawal",
+      "Navpreet Kaur",
+      "Sharmila Pimple",
+      "Srabana Misra Bhagabaty"
     ],
     "published": "2026-Oct-07",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42839884/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42842922/",
     "pdf_url": null,
-    "doi": "10.1111/1556-4029.70497",
+    "doi": "10.2196/82264",
     "citations": 0,
-    "venue": "Journal of forensic sciences",
+    "venue": "JMIR research protocols",
     "open_access": false,
-    "ai_summary": "Digital forensics plays a key role in investigating different types of crimes . It involves analyzing evidence from electronic devices, social media, and system logs . Investigators face major challenges due to the large size of digital data ."
+    "ai_summary": "AI-based digital interventions have shown promise globally for smoking cessation . However, they remain underused in tobacco cessation strategy in the Indian context . Study aimed to (1) codevelop the conversational interface with beneficiaries and cessation providers ."
   },
   {
-    "id": "pubmed:42839862",
-    "title": "Exploring feature variability in digitally captured signatures-Part II: Discrimination between genuine and simulated signatures and the effects of collection sessions and writing position.",
-    "abstract": "This study investigated the discrimination between genuine and simulated digitally captured signatures (DCSs) to support their forensic examination. The dataset included genuine questioned signatures from 65 writers, collected across multiple sessions and in three writing positions, together with reference signatures collected in the standard position. In addition, eight simulations were produced by different individuals for each writer and treated as simulated questioned signatures, yielding a total of 520 simulations. Features of genuine and simulated questioned signatures were compared relative to writer-specific reference material. All examined features except the size-related characteristics and the number of pen lifts differed significantly between genuine and simulated signatures. Dynamic features, particularly total duration, achieved strong discrimination with an overall error rate as low as 7%. Combining features reduced the error rate marginally and not significantly (to 6%). Simulations were less often misclassified when reference signatures exhibited lower standardized within-writer variability in duration. This suggests that correspondence between questioned and reference signatures may carry greater evidential value under such conditions. A similar, but non-significant, trend was observed with increasing signature complexity. Exploratory analyses suggested benefits of writer-specific interpretation of signature features. While no clear temporal effect on classification error rates was observed across the collection period, writing position influenced performance, highlighting the importance of considering non-standard writing conditions in forensic practice. Overall, despite substantial variability in genuine signatures, DCS features enabled reliable discrimination between genuine and simulated signatures, with continuous dynamic features providing key discriminatory information and extending the possibilities of forensic examination beyond pen-and-paper signatures.",
+    "id": "pubmed:42842902",
+    "title": "Artificial Intelligence, Machine Learning, and Deep Learning Approaches for Attention-Deficit/Hyperactivity Disorder Diagnosis: Protocol for a Scoping Review.",
+    "abstract": "Attention-deficit/hyperactivity disorder (ADHD) affects over 366 million adults and 139 million children worldwide, yet diagnosis remains fundamentally subjective, relying on clinical interviews, behavioral observations, and rating scales that yield inconsistent results across practitioners and settings. Artificial intelligence (AI), machine learning (ML), and deep learning (DL) offer a paradigm shift toward objective, data-driven diagnosis by detecting complex patterns across neuroimaging, electrophysiology, and digital biomarkers that elude conventional assessment. Although AI-based ADHD research has grown exponentially, no comprehensive synthesis examines the full spectrum of data modalities, validation practices, and clinical translation readiness. This gap limits our understanding of which approaches are most promising for real-world implementation. This scoping review will visually map the current evidence on AI-based ADHD classification with respect to predictive accuracy, data forms, data features, generalizability, and interpretability of models. This scoping review will use the Joanna Briggs Institute approach to scoping reviews and follow the PRISMA-ScR (Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews) guidelines. Five electronic databases (IEEE Xplore, Scopus, PubMed, Web of Science, and ACM Digital Library) will be systematically searched for peer-reviewed studies published between January 2019 and April 2026. Empirical studies in English involving the use of AI, ML, DL, or explainable AI to diagnose ADHD with a total sample size greater than 100 participants (ADHD and control groups combined) and a non-ADHD control group (individuals with typical development or healthy individuals) will be included. Two independent reviewers will screen the titles, abstracts, and full texts, and any conflicts will be resolved through either discussion or arbitration. A standardized Microsoft Excel template will be used to extract data that will include the following: bibliographic data, data modalities, data models, data validation approaches, performance metrics, and explainability approaches. Thematic and narrative analysis will be used to synthesize findings on 4 research questions that will address model performance, data modality contributions, data characteristics, and interpretability methods. The scoping review began in December 2025. Analysis and screening are in progress, with the scoping review expected to be completed and submitted for publication in June 2026. This scoping review will provide the first comprehensive synthesis of AI-, ML-, and DL-based ADHD diagnostic classification studies, mapping the evidence across data modalities, validation practices, interpretability methods, and clinical translation readiness. Findings will inform future methodological standards and support the translation of AI-based diagnostic tools into clinical practice.",
     "authors": [
-      "Jonathan Heckeroth",
-      "Axel Kerkhoff",
-      "Paul Schmidt",
-      "Raymond Marquis",
-      "Erich Kupferschmid",
-      "Céline Weyermann"
+      "Benedict Onochie Ibe",
+      "Amir Aly",
+      "Shaymaa S Al-Juboori",
+      "Emmanuel Ifeachor",
+      "Rohit Shankar"
     ],
     "published": "2026-Oct-07",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42839862/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42842902/",
     "pdf_url": null,
-    "doi": "10.1111/1556-4029.70458",
+    "doi": "10.2196/99551",
     "citations": 0,
-    "venue": "Journal of forensic sciences",
+    "venue": "JMIR research protocols",
     "open_access": false,
-    "ai_summary": "Study investigated discrimination between genuine and simulated digitally captured signatures . The dataset included genuine questioned signatures from 65 writers, collected across multiple sessions and in three writing positions . Eight simulations were produced by different individuals for each writer and treated as simulated questioned signatures ."
+    "ai_summary": "Attention-deficit/hyperactivity disorder (ADHD) affects over 366 million adults and 139 million children worldwide . But diagnosis remains fundamentally subjective, relying on clinical interviews, behavioral observations, and rating scales ."
   },
   {
-    "id": "pubmed:42839852",
-    "title": "Effect of a Computer-Aided Device on Endoscopists' Biopsy Practice for Gastric Neoplasms: A Secondary Analysis of a Randomized Controlled Trial.",
-    "abstract": "Endoscopic biopsy is fundamental for diagnosing gastrointestinal lesions, yet the effectiveness of AI assistance on endoscopists' biopsy strategies and efficiency for detecting gastric neoplasms remains unclear. This study aims to investigate this effectiveness. This study is a secondary analysis of a randomized controlled trial (AI group: n = 13,440; control: n = 12,561) compared AI-assisted versus standard screening. The AI system marked high-risk and low-risk lesions with red and blue boxes, respectively. The AI group was stratified into red-box and non-red-box subgroups. Outcomes included neoplasm biopsy efficiency and proportion of non-biopsied documented lesions. The patient-level correlation between false-positive alerts and biopsy counts was examined. All analyses were based on the pathological results after centralized pathology review. The non-biopsy rate was significantly lower in the red-box group than in the non-red box group and the control group (18.00% vs. 43.26%, 18.00% vs. 45.60%, both p < 0.001), suggesting that lesions were biopsied more frequently in the red-box group. Neoplasm biopsy efficiency was higher in the red-box group (8.19% vs. 0.36%, 8.19% vs. 1.77%, both p < 0.001). In negative binomial regression, red-box classification remained associated with a lower non-biopsy rate (IRR 0.393, 95% CI 0.360-0.429, p < 0.001). False-positive alerts showed a weak inverse correlation with biopsy counts (ρ = -0.182, p < 0.001). Red-box classification was associated with more targeted biopsy sampling, while false-positive prompts were not associated with indiscriminate biopsies.",
+    "id": "pubmed:42842900",
+    "title": "Extraction of Pain Severity and Functional Interference From Clinical Narratives Using Domain-Informed Large Language Models: Protocol for a Development and Validation Study.",
+    "abstract": "Chronic pain is a leading cause of disability and requires multidimensional assessment of pain intensity and functioning, yet electronic health records rarely capture these measures systematically. By contrast, surveys collecting patient-reported outcomes can assess pain over multiple dimensions but remain resource-intensive and difficult to scale for continuous population-level monitoring. The objective of this study is to develop and validate a domain-informed natural language processing framework to derive pain severity and functional interference outcomes from unstructured clinical narratives. We aim to demonstrate that natural language processing-derived outcomes can serve as a reliable, scalable surrogate for resource-intensive patient-reported surveys. This study uses a retrospective cohort of 3725 Veterans with chronic musculoskeletal pain initiating complementary and integrative health therapies across 18 Veterans Health Administration Whole Health Flagship sites (2021-2023). The dataset encompasses longitudinal patient-reported outcome surveys serving as the benchmark, linked with unstructured clinical narratives from the Veterans Health Administration electronic health record. Guided by established psychometric instruments and subject matter expert (SME) input, we developed a seed lexicon and annotation guidelines to identify language distinguishing 3 pain domains: pain severity, interference with enjoyment of life, and interference with general activities. Preliminary large language model (LLM) prompting was used to identify 600 candidate encounters (200 per domain) from 6747 notes across 260 patients for SME annotation, forming a ground truth validation sample. Two candidate LLMs will be evaluated on this sample; the best-performing LLM will generate a large library of span-level annotations to train a scalable, lightweight language model. The study uses a 3-stage validation process: (1) documentation completeness of pain interference in clinical narratives against SME-annotated references; (2) inference accuracy of the LLM-as-annotator and the fine-tuned lightweight model against SME annotations across note-level classification and span-level localization; and (3) concordance between the lightweight model's output and patient-reported pain, enjoyment, and general activity scores across a range of temporal windows. As of July 2026, the cohort of 3725 Veterans has been identified and linked to clinical notes. The seed lexicon and annotation guidelines have been developed. Applying a developmental LLM to screen 6747 text notes in 6642 unique encounters over a 7-month period for 260 patients, at least 1 of the 3 pain domains was identified in 75% of notes and 99% of patients. SME validation at the encounter level is in progress. Final results from the subsequent knowledge distillation and validation stages are expected in the first half of 2027. This protocol outlines a framework for identifying severe pain intensity and interference from clinical narratives, addressing a critical gap in health care system surveillance. To our knowledge, this is the first study to validate clinical text-based pain outcome extraction against patient-reported outcomes in a nationwide longitudinal cohort. If successful, this approach will enable health care systems to continuously monitor reports of pain-related functional interference and support more holistic, patient-centered pain management at scale.",
     "authors": [
-      "Hongliu Du",
-      "Shuzhe Tan",
-      "Ziyi Zeng",
-      "Xinran Zhang",
-      "Zehua Dong",
-      "Mei Deng",
-      "Jiamin Wang",
-      "Xiao Tao",
-      "Honggang Yu",
-      "Xinyue Wan"
+      "Xiaoyi Zhang",
+      "Christopher R Wilson",
+      "Hannah Eyre",
+      "David E Reed Ii",
+      "Travis Y Hee Wai",
+      "Alexander Kloehn",
+      "Ethan W Rosser",
+      "Gang Luo",
+      "Steven B Zeliadt"
+    ],
+    "published": "2026-Oct-07",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42842900/",
+    "pdf_url": null,
+    "doi": "10.2196/96346",
+    "citations": 0,
+    "venue": "JMIR research protocols",
+    "open_access": false,
+    "ai_summary": "Chronic pain is a leading cause of disability and requires multidimensional assessment of pain intensity and functioning . By contrast, surveys collecting patient-reported outcomes can assess pain over multiple dimensions but remain resource-intensive ."
+  },
+  {
+    "id": "pubmed:42842862",
+    "title": "Small Interfering RNA in Cardiovascular Disease: A New Frontier in Precision Medicine.",
+    "abstract": "Despite advances in traditional lipid-lowering, antithrombotic, and antihypertensive therapies, cardiovascular disease remains the leading cause of mortality worldwide. Small interfering RNA (siRNA) therapeutics harness the endogenous RNA interference pathway to degrade target messenger RNA, thereby reducing synthesis of disease-associated proteins. Because gene silencing occurs intracellularly and persists beyond circulating drug exposure, siRNA agents result in sustained effects with infrequent dosing. Hepatocyte-directed agents targeting PCSK9, LPA, ANGPTL3, APOC3, angiotensinogen, and transthyretin have demonstrated robust and durable reductions in several measures, including atherogenic lipoproteins, blood pressure, and amyloid precursors. Ongoing trials will determine whether these biomarker effects translate into improvements in cardiovascular outcomes. Key challenges include delivery beyond the liver, long-term safety monitoring, off-target mitigation, and economic considerations. Advances in chemical modification, ligand-directed targeting, artificial intelligence-guided sequence design, and reversal strategies are expanding the therapeutic landscape. siRNA-based interventions hold promise as a precision modality capable of reshaping prevention and treatment across the spectrum of cardiovascular disease.",
+    "authors": [
+      "Kaavya Paruchuri",
+      "Jaiden Busso",
+      "Pradeep Natarajan"
+    ],
+    "published": "2026-Oct-07",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42842862/",
+    "pdf_url": null,
+    "doi": "10.1146/annurev-pharmtox-062124-023947",
+    "citations": 0,
+    "venue": "Annual review of pharmacology and toxicology",
+    "open_access": false,
+    "ai_summary": "Despite advances in traditional lipid-lowering, antithrombotic, and antihypertensive therapies, cardiovascular disease remains the leading cause of mortality worldwide . Small interfering RNA (siRNA) therapeutics harness the endogenous RNA interference pathway to degrade target messenger RNA ."
+  },
+  {
+    "id": "pubmed:42842869",
+    "title": "A Self-Powered Thermogalvanic Hydrogel Dressing for In Situ Wound Monitoring and Enhanced Healing.",
+    "abstract": "Wound management critically requires the synergistic integration of real-time monitoring and precise intervention. Current electrical stimulation dressings suffer from external power dependence, poor air permeability, restricted customizability, and decoupled monitoring and treatment. Herein, this study presents a self-powered, breathable porous thermogalvanic hydrogel dressing, which employs a poly(vinyl alcohol)/poly(ethylene glycol) diacrylate double-network matrix loaded with the [Fe(CN)6]3-/4- redox couple and is endowed with personalized wound-matching capability by DLP-based 3D printing. By coupling the thermogalvanic and active piezoresistive effects, the dressing achieves real-time monitoring of wound temperature and deformation, along with additional functionality for wound exudate detection and pH visualization. Furthermore, the dressing provides biomimetic electrical stimulation without exogenous drugs or external power, enabling closed-loop monitoring and treatment. Integrated with a deep learning algorithm, the dressing delivers 96.5% wound severity classification accuracy and accelerates wound healing in mice, reaching 98.09% closure on day 14. This work offers a new paradigm for precise personalized wound management with potential for clinical translation.",
+    "authors": [
+      "Chunjing Wang",
+      "Ruixin Wei",
+      "Changchang Lu",
+      "Yu Niu",
+      "Xinyue Jia",
+      "Xiaojing Cui",
+      "Zhou Li",
+      "Qingzhen Yang",
+      "Shengbo Sang",
+      "Hulin Zhang"
+    ],
+    "published": "2026-Oct-07",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42842869/",
+    "pdf_url": null,
+    "doi": "10.1021/acssensors.6c03280",
+    "citations": 0,
+    "venue": "ACS sensors",
+    "open_access": false,
+    "ai_summary": "A self-powered, breathable porous thermogalvanic hydrogel dressing is designed to monitor wound temperature and deformation . The dressing provides biomimetic electrical stimulation without exogenous drugs or external power ."
+  },
+  {
+    "id": "pubmed:42842824",
+    "title": "Preoperative Prediction of Lymph Node Metastasis in Colorectal Cancer Using Routinely Collected Clinical Data: Multicenter Retrospective Machine Learning Model Development and External Validation Study.",
+    "abstract": "Preoperative nodal assessment in colorectal cancer (CRC) remains imperfect, and uncertainty regarding pathological lymph node metastasis (LNM) may persist despite conventional imaging. Machine learning using routinely available preoperative information may provide complementary patient-level risk estimates without requiring radiomic feature extraction or molecular testing. This study aimed to develop and externally validate machine learning models for preoperative estimation of pathologically confirmed LNM risk in patients with newly diagnosed CRC undergoing direct radical surgery without preoperative anticancer treatment, and to assess whether multivariable prediction adds information beyond clinical tumor stage (cT) alone. This multicenter retrospective study included 2725 patients from 2 hospitals. The internal cohort (n=1074) was split into training (n=753) and internal test (n=321) sets, while 1651 patients from a second center formed the external validation cohort. Candidate predictors were routinely available preoperative clinical, laboratory, tumor-marker, imaging-based, and endoscopic biopsy variables. Predictors were selected using univariable and multivariable logistic regression (LR). Seven algorithms were evaluated: random forest (RF), support vector machine (SVM), LR, decision tree (DT), extreme gradient boosting (XGBoost), naive Bayes (NB), and light gradient boosting machine (LightGBM). Performance was assessed using discrimination, threshold-dependent classification metrics, calibration, and decision curve analysis (DCA). Shapley additive explanations (SHAP) were used for interpretation. Sensitivity analyses compared the selected predictors with all candidate predictors and cT alone. Six predictors were retained: BMI, preoperative carcinoembryonic antigen, primary tumor site, cT, histological type, and tumor differentiation. RF was selected based on internal test performance. The area under the receiver operating characteristic curve (AUROC) was 0.803 (95% CI 0.756-0.849) in the internal test set and 0.776 (95% CI 0.755-0.797) in external validation. In external validation, accuracy, sensitivity, specificity, positive predictive value (PPV), and negative predictive value (NPV) were 0.687, 0.677, 0.693, 0.569, and 0.781, respectively. The Brier score was 0.190, and the calibration slope was 1.061. cT contributed most in SHAP analysis; however, the 6-predictor RF model showed significantly higher discrimination than cT alone in both the internal test set (AUROC 0.803 vs 0.712; ΔAUROC=0.091;  We developed and externally validated a 6-predictor RF model for preoperative LNM risk estimation in patients with newly diagnosed CRC undergoing radical resection with regional lymph node dissection without preoperative anticancer treatment. The model showed moderate external discrimination and provided predictive information beyond cT alone. It is intended for research-stage adjunctive risk stratification and should not replace imaging, pathological evaluation, or clinical judgment. Prospective validation in broader populations and clinical settings is required before implementation.",
+    "authors": [
+      "Gehui Xu",
+      "Xiaohe Sun",
+      "Jiaxin Jiang",
+      "Jin Sun",
+      "Liu Li",
+      "Haibo Cheng",
+      "Yuekun Zhu",
+      "Haiyi Liu"
+    ],
+    "published": "2026-Oct-07",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42842824/",
+    "pdf_url": null,
+    "doi": "10.2196/101162",
+    "citations": 0,
+    "venue": "JMIR cancer",
+    "open_access": false,
+    "ai_summary": "Machine learning using routinely available preoperative information may provide complementary patient-level risk estimates without requiring radiomic feature extraction or molecular testing . This study aimed to develop and externally validate machine learning models for preoperative estimation of pathologically confirmed LNM risk ."
+  },
+  {
+    "id": "pubmed:42842833",
+    "title": "Determinants of Adoption of a Mechanical Ventilation Dashboard in Intensive Care: Measurement Instrument for Determinants of Innovations-Based, Single-Center, Cross-Sectional Evaluation.",
+    "abstract": "Lung-protective ventilation (LPV) reduces complications of mechanical ventilation, yet adherence in intensive care units (ICUs) remains inconsistent. Digital dashboards may support LPV by improving situational awareness and supporting protocol adherence. However, adoption of such tools in high-acuity clinical environments depends on a range of cognitive, professional, and contextual determinants. The Measurement Instrument for Determinants of Innovations (MIDI) provides a validated framework to systematically assess these factors. This study aims to identify determinants influencing the adoption of a newly piloted mechanical ventilation dashboard in the ICU using the MIDI framework. We conducted a single-center, cross-sectional evaluation among ICU health care professionals during a dedicated survey period within a pilot introduction of a mechanical ventilation dashboard at Amsterdam University Medical Center. Participants completed a structured questionnaire consisting of 24 MIDI items adapted to the ICU context rated on a 5-point Likert scale (\"completely disagree\" to \"completely agree\"), supplemented by open-ended questions on perceived barriers and facilitators to its use. Determinants were classified as facilitators when ≥80% of respondents selected \"agree\" or \"completely agree\" and as barriers when ≥20% selected \"disagree\" or \"completely disagree.\" Open-ended responses were analyzed using a general inductive thematic approach. A total of 71 completed questionnaires were analyzed, including responses from nurses, physicians, intensivists, ventilation specialists, and researchers in mechanical ventilation. Six determinants met the criteria for facilitators: outcome expectations, self-efficacy, procedural clarity, low complexity, correctness, and observability. Two determinants met the criteria for barriers: relevance for client and professional obligation. Analysis of open-ended responses highlighted perceived barriers such as additional workload, the need for an extra device, overlap with existing systems, and limited role-specific relevance. Facilitators included improved situational overview, educational value, easier trend monitoring, and increased efficiency. This evaluation identified key determinants influencing the adoption of a mechanical ventilation dashboard in the ICU. While the dashboard was generally perceived as useful and easy to understand, adoption was shaped by determinants related to workflow integration, role-specific relevance, and professional responsibility. These findings suggest that successful introduction of digital clinical support tools in intensive care requires attention not only to technical design, but also to how such tools align with users' roles, daily work processes, and shared clinical responsibilities. Systematic assessment of determinants provides actionable insights into the adoption of digital decision-support tools in high-acuity care settings.",
+    "authors": [
+      "Sarah Frederika Christina Mugge",
+      "Tobias Daniel van Leijsen",
+      "Merijn Constantijn Reuland",
+      "Annelies Visser",
+      "Frederique Paulus",
+      "Dave Anton Dongelmans"
+    ],
+    "published": "2026-Oct-07",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42842833/",
+    "pdf_url": null,
+    "doi": "10.2196/92313",
+    "citations": 0,
+    "venue": "JMIR human factors",
+    "open_access": false,
+    "ai_summary": "Digital dashboards may support LPV by improving situational awareness and supporting protocol adherence . Adoption of such tools in high-acuity clinical environments depends on a range of cognitive, professional, and contextual determinants ."
+  },
+  {
+    "id": "pubmed:42842802",
+    "title": "In Situ Fabrication of a Highly Active Heterophase Junction for Photocatalytic Water Oxidation through Dual Modulation of Phase Composition and Micromorphology of BiVO4.",
+    "abstract": "Photocatalytic water oxidation constitutes a pivotal reaction step in the development of artificial photosynthetic systems. Among prospective photocatalysts, BiVO4 is widely regarded as an ideal candidate for visible-light-driven water oxidation owing to its favorable band gap energy. Nevertheless, its practical implementation remains impeded by rapid photogenerated charge-carrier recombination and inefficient charge transport, factors that severely constrain the oxygen evolution efficiency. To address this challenge, this study developed a hydrothermal strategy for the in situ fabrication of BiVO4 heterophase junctions by precisely tuning the pH, precursor concentration, and surfactant dosage. Through these process optimizations, the morphology of BiVO4 was successfully engineered, enabling the targeted design of spherical, rod-shaped, flake-shaped, and block-shaped architectures, thereby significantly enhancing photocatalytic oxygen evolution activity. Notably, flake-shaped BiVO4(s-m) featuring high exposure of the {010} facets exhibits the optimal photocatalytic performance. Furthermore, the BiVO4(z-t)/BiVO4(s-m) heterophase junction was fabricated in situ at pH = 4 using 5 mmol of each precursor. Benefiting from efficient interfacial charge separation and optimized surface reaction kinetics, this heterophase junction exhibits an excellent oxygen evolution rate of 582.04 μmol/g/h, representing enhancements of 1.998- and 2.969-fold relative to the flake-shaped and block-shaped single-phase BiVO4(s-m) counterparts, respectively.",
+    "authors": [
+      "Yinke Zhong",
+      "Jiawei Cheng",
+      "Bingzhu Wang",
+      "Yongxiang Guo",
+      "Haiwang Wang"
+    ],
+    "published": "2026-Oct-07",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42842802/",
+    "pdf_url": null,
+    "doi": "10.1021/acsami.6c11516",
+    "citations": 0,
+    "venue": "ACS applied materials & interfaces",
+    "open_access": false,
+    "ai_summary": "BiVO4 is widely regarded as an ideal candidate for visible-light-driven water oxidation owing to its favorable band gap energy . Its practical implementation remains impeded by rapid photogenerated charge-carrier recombination and inefficient charge transport, factors that severely constrain the oxygen evolution efficiency ."
+  },
+  {
+    "id": "pubmed:42842841",
+    "title": "Determining the Causal Effect of Neurotrophic Tropomyosin Receptor Kinase Gene Fusions on Survival Prognosis for Adult Patients With Advanced Cancers.",
+    "abstract": "Uncertainty about the prognostic significance of neurotrophic tropomyosin receptor kinase ( We used a large real-world clinicogenomic research database from the United States to emulate a pragmatic randomized trial that determines the causal effect of harboring an  We included 68,145  In this large real-world target trial emulation, ",
+    "authors": [
+      "Emanuel Krebs",
+      "Nirupama Tamvada",
+      "Deirdre Weymann",
+      "Howard J Lim",
+      "Stephen Chia",
+      "Cheryl Ho",
+      "Dean A Regier"
     ],
     "published": "2026-Oct",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42839852/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42842841/",
     "pdf_url": null,
-    "doi": "10.1111/den.70302",
+    "doi": "10.1200/PO-26-00281",
     "citations": 0,
-    "venue": "Digestive endoscopy : official journal of the Japan Gastroenterological Endoscopy Society",
+    "venue": "JCO precision oncology",
     "open_access": false,
-    "ai_summary": "Endoscopists' biopsy strategies and efficiency for detecting gastric neoplasms remains unclear . This study aims to investigate this effectiveness ."
+    "ai_summary": "Uncertainty about the prognostic significance of neurotrophic tropomyosin receptor kinase ( We used a large real-world clinicogenomic research database from the United States to emulate a pragmatic randomized trial that determines the causal effect of harboring an  We included 68,145  In this large real world target trial emulation"
   },
   {
-    "id": "pubmed:42839820",
-    "title": "Predictive Modeling and Bioinspired Strategies for Stabilizing Hydrophilic Perovskite Quantum Dots in Multiplexed Biomedical Diagnostics.",
-    "abstract": "Hydrophilic perovskite quantum dots (PQDs) have emerged as promising materials for biomedical diagnostics due to their exceptional optical tunability and high photoluminescence quantum yield. However, their instability, toxicity, and degradation in aqueous and biological environments remain critical barriers to practical applications. This review integrates predictive modeling and bioinspired stabilization strategies to provide a comprehensive understanding of the mechanisms governing PQD instability and the design of robust, biocompatible nanostructures. Multiscale computational approaches-including density functional theory, molecular dynamics, and machine learning-are analyzed to elucidate degradation pathways and forecast material performance under physiological conditions. In parallel, bioinspired and hybrid stabilization strategies, such as ligand engineering, polymer/silica encapsulations, and adaptive coating design, are critically evaluated for enhancing aqueous stability and biosafety. The stabilized PQDs are further discussed in multiplexed biomedical diagnostics, highlighting their potential for precision sensing of multiple biomarkers. This is the comprehensive review that bridges predictive modeling with bioinspired stabilization to advance hydrophilic PQDs toward intelligent and multiplexed diagnostic platforms.",
-    "authors": [
-      "Mohamed Abu Shuheil",
-      "Ahmed Aldulaimi",
-      "Subhashree Ray",
-      "Talal Aziz Qassem",
-      "Gunjan Garg",
-      "Renu Sharma",
-      "Dilbar Urazbaeva",
-      "Sabokhat Sadikova",
-      "Shaimaa Messa"
-    ],
-    "published": "2026-Oct",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42839820/",
-    "pdf_url": null,
-    "doi": "10.1002/bio.70639",
-    "citations": 0,
-    "venue": "Luminescence : the journal of biological and chemical luminescence",
-    "open_access": false,
-    "ai_summary": "Hydrophilic perovskite quantum dots (PQDs) have emerged as promising materials for biomedical diagnostics . Their instability, toxicity, and degradation in aqueous and biological environments remain critical barriers to practical applications . This review integrates predictive modeling and bioinspired stabilization strategies ."
-  },
-  {
-    "id": "openalex:W7118720654",
+    "id": "openalex:W7118880740",
     "title": "ETHICAL CONSIDERATIONS AND POLICY FRAMEWORKS FOR TEACHING WITH ARTIFICIAL INTELLIGENCE IN SECONDARY SCHOOL SETTINGS",
     "abstract": "",
     "authors": [
@@ -1089,7 +1212,65 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "openalex:W7161111530",
+    "id": "openalex:W7154463656",
+    "title": "NUISS: A User-Centered Prototype for International Student Administrative Support",
+    "abstract": "",
+    "authors": [
+      "Juanjuan Huang",
+      "Cuicui Li"
+    ],
+    "published": "2026-12-31",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.17613/jddaq-h8321",
+    "pdf_url": "https://pub.respai.de/articles/1-1/is1-10.pdf",
+    "doi": "10.17613/jddaq-h8321",
+    "citations": 0,
+    "venue": "Unknown",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7162410191",
+    "title": "Human vs machine judgment in safety-critical logistics: a philosophical inquiry into trust and control",
+    "abstract": "",
+    "authors": [
+      "Martyna Bąchorek",
+      "Wiktoria Izdebska",
+      "Gustaw Krakowiak"
+    ],
+    "published": "2026-12-31",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.5281/zenodo.20402506",
+    "pdf_url": "https://www.sjsl.net/index.php/journal/article/view/59",
+    "doi": "10.5281/zenodo.20402506",
+    "citations": 0,
+    "venue": "Scientific Journal of Safety and Logistics",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7118264295",
+    "title": "Gene Selection for Breast Cancer Classification Using T-Test Filtering and Wrapper-Based Optimization",
+    "abstract": "",
+    "authors": [
+      "Abdelhamid Elwaer",
+      "Dreder Abdeladeem"
+    ],
+    "published": "2026-12-31",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.5281/zenodo.18112299",
+    "pdf_url": "https://journals.uot.edu.ly/index.php/LJI/article/download/2288/1683",
+    "doi": "10.5281/zenodo.18112299",
+    "citations": 0,
+    "venue": "Libyan Journal of Informatics",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7161156200",
     "title": "From Embedded Finance to Embedded Obligation: A Law-and-Economics Theory of Consumer Protection in Platform-Mediated Financial Services",
     "abstract": "",
     "authors": [
@@ -1098,16 +1279,16 @@
     "published": "2026-12-31",
     "source": "OpenAlex",
     "category": "index",
-    "url": "https://doi.org/10.17613/sb76m-v2e23",
+    "url": "https://doi.org/10.17613/njshn-vyy15",
     "pdf_url": "https://pub.respai.de/articles/1-2/is2-2.pdf",
-    "doi": "10.17613/sb76m-v2e23",
+    "doi": "10.17613/njshn-vyy15",
     "citations": 0,
     "venue": "Unknown",
     "open_access": true,
     "ai_summary": "No abstract available."
   },
   {
-    "id": "openalex:W7162095276",
+    "id": "openalex:W7162109129",
     "title": "SOAR: Smooth Online Activation Routing for Stable Neural Learning from Evolving Streams",
     "abstract": "",
     "authors": [
@@ -1125,25 +1306,7 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "openalex:W7164131933",
-    "title": "The Role of Generative Artificial Intelligence in Korean Language Learning: Applications, Challenges, and Instructional Strategies",
-    "abstract": "",
-    "authors": [
-      "Yundong Wu"
-    ],
-    "published": "2026-12-31",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.17613/g7mbr-1s626",
-    "pdf_url": "https://pub.respai.de/articles/1-2/is2-5.pdf",
-    "doi": "10.17613/g7mbr-1s626",
-    "citations": 0,
-    "venue": "Unknown",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W7118072583",
+    "id": "openalex:W7118083113",
     "title": "Identification of Meat Contamination using Deep Learning",
     "abstract": "",
     "authors": [
@@ -1157,6 +1320,25 @@
     "doi": "10.5281/zenodo.18130809",
     "citations": 0,
     "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7121465138",
+    "title": "DYNAMICS OF PORTFOLIO ASSESSMENT STRATEGY IN EVALUATING THE ENGLISH LANGUAGE SKILLS FOR PUPILS WITH HEARING IMPAIRMENTS IN FAKO DIVISION, SOUTH WEST REGION OF CAMEROON",
+    "abstract": "",
+    "authors": [
+      "Ngenwie Emilia Tanyie",
+      "Therese Mungah Shalo Tchombe"
+    ],
+    "published": "2026-12-31",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.5281/zenodo.18206765",
+    "pdf_url": "https://ubueajournals.org/index.php/index/article/view/28",
+    "doi": "10.5281/zenodo.18206765",
+    "citations": 0,
+    "venue": "International Journal of Developmental Issues in Education and Humanities",
     "open_access": true,
     "ai_summary": "No abstract available."
   },
@@ -1179,7 +1361,7 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "openalex:W7203455470",
+    "id": "openalex:W7203455710",
     "title": "Digital-Twin-Driven Predictive Maintenance and Fault-Tolerant Control for Electrified Agricultural Machinery: A Multiphysics and Deep Reinforcement Learning Framework for PMSM In-Wheel Drives",
     "abstract": "",
     "authors": [
@@ -1206,9 +1388,9 @@
     "published": "2026-12-31",
     "source": "OpenAlex",
     "category": "index",
-    "url": "https://doi.org/10.17613/fdwhn-ejz93",
+    "url": "https://doi.org/10.17613/90v07-0pa54",
     "pdf_url": "https://pub.respai.de/articles/1-2/is2-4.pdf",
-    "doi": "10.17613/fdwhn-ejz93",
+    "doi": "10.17613/90v07-0pa54",
     "citations": 0,
     "venue": "Unknown",
     "open_access": true,
@@ -1224,16 +1406,16 @@
     "published": "2026-12-31",
     "source": "OpenAlex",
     "category": "index",
-    "url": "https://doi.org/10.17613/vpe2q-5qg42",
+    "url": "https://doi.org/10.17613/v92ad-xvp66",
     "pdf_url": "https://philpapers.org/archive/QIAROA.pdf",
-    "doi": "10.17613/vpe2q-5qg42",
+    "doi": "10.17613/v92ad-xvp66",
     "citations": 0,
     "venue": "PhilPapers (PhilPapers Foundation)",
     "open_access": true,
     "ai_summary": "No abstract available."
   },
   {
-    "id": "openalex:W7167482112",
+    "id": "openalex:W7167504345",
     "title": "From Legal Databases to AI-Assisted Justice: A Risk-Sensitive Framework for the Application of Information Technologies in Law",
     "abstract": "",
     "authors": [
@@ -1242,16 +1424,16 @@
     "published": "2026-12-31",
     "source": "OpenAlex",
     "category": "index",
-    "url": "https://doi.org/10.17613/zf92n-68j61",
+    "url": "https://doi.org/10.17613/yvxz2-a7115",
     "pdf_url": "https://philpapers.org/archive/LIFLDC.pdf",
-    "doi": "10.17613/zf92n-68j61",
+    "doi": "10.17613/yvxz2-a7115",
     "citations": 0,
     "venue": "PhilPapers (PhilPapers Foundation)",
     "open_access": true,
     "ai_summary": "No abstract available."
   },
   {
-    "id": "openalex:W7170437289",
+    "id": "openalex:W7170884066",
     "title": "A Study on the Mechanism and Ways to Improve New-Quality Productivity of Enterprises Driven by AI and the Digital Economy",
     "abstract": "",
     "authors": [
@@ -1262,9 +1444,9 @@
     "published": "2026-12-31",
     "source": "OpenAlex",
     "category": "index",
-    "url": "https://doi.org/10.17613/v53h3-s4978",
+    "url": "https://doi.org/10.17613/8y1ah-73k52",
     "pdf_url": "https://philpapers.org/archive/DONASO-4.pdf",
-    "doi": "10.17613/v53h3-s4978",
+    "doi": "10.17613/8y1ah-73k52",
     "citations": 0,
     "venue": "PhilPapers (PhilPapers Foundation)",
     "open_access": true,
@@ -1280,9 +1462,9 @@
     "published": "2026-12-31",
     "source": "OpenAlex",
     "category": "index",
-    "url": "https://doi.org/10.17613/x2pvf-hn714",
+    "url": "https://doi.org/10.17613/bbkgt-6jj79",
     "pdf_url": "https://works.hcommons.org:x2pvf-hn714",
-    "doi": "10.17613/x2pvf-hn714",
+    "doi": "10.17613/bbkgt-6jj79",
     "citations": 0,
     "venue": "Unknown",
     "open_access": true,
@@ -1303,6 +1485,24 @@
     "doi": "10.5281/zenodo.22768513",
     "citations": 0,
     "venue": "Journal of Child Development, Exceptionality and Education",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7220651687",
+    "title": "Using Unfitted Finite Elements in Topology Optimization of Neural Surface Ensembles",
+    "abstract": "",
+    "authors": [
+      "Mehdi Fazli"
+    ],
+    "published": "2026-12-26",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.57647/cna.264.19280",
+    "pdf_url": "https://doi.org/10.57647/cna.264.19280",
+    "doi": "10.57647/cna.264.19280",
+    "citations": 0,
+    "venue": "OICC Press Journals",
     "open_access": true,
     "ai_summary": "No abstract available."
   },
@@ -1389,9 +1589,9 @@
     "published": "2026-12-03",
     "source": "OpenAlex",
     "category": "index",
-    "url": "https://doi.org/10.5281/zenodo.22698616",
-    "pdf_url": "https://doi.org/10.5281/zenodo.22698616",
-    "doi": "10.5281/zenodo.22698616",
+    "url": "https://doi.org/10.5281/zenodo.22698615",
+    "pdf_url": "https://doi.org/10.5281/zenodo.22698615",
+    "doi": "10.5281/zenodo.22698615",
     "citations": 0,
     "venue": "Zenodo (CERN European Organization for Nuclear Research)",
     "open_access": true,
@@ -1431,11 +1631,32 @@
     "published": "2026-12-01",
     "source": "OpenAlex",
     "category": "index",
-    "url": "https://doi.org/10.5281/zenodo.18739462",
-    "pdf_url": "https://doi.org/10.5281/zenodo.18739462",
-    "doi": "10.5281/zenodo.18739462",
+    "url": "https://doi.org/10.5281/zenodo.18739461",
+    "pdf_url": "https://doi.org/10.5281/zenodo.18739461",
+    "doi": "10.5281/zenodo.18739461",
     "citations": 0,
     "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7160319602",
+    "title": "Towards Early and Accurate Disease Detection Through Multimodal Predictive Modeling: Fusion of Electronic Health Records, Medical Imaging, And Omics Data Using Interpretable Machine Learning.",
+    "abstract": "",
+    "authors": [
+      "Muhammad Ahsan Hayat",
+      "Jahangir Baig",
+      "Shayan Ahmed",
+      "Ahmed Faraz Ayubi"
+    ],
+    "published": "2026-11-03",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.5281/zenodo.20044865",
+    "pdf_url": "https://policyrj.com/1/article/download/1222/1090",
+    "doi": "10.5281/zenodo.20044865",
+    "citations": 0,
+    "venue": "Policy Research Journal",
     "open_access": true,
     "ai_summary": "No abstract available."
   },
@@ -1522,6 +1743,27 @@
     "ai_summary": "No abstract available."
   },
   {
+    "id": "openalex:W7111938064",
+    "title": "Static outcomes: Anodal transcranial direct current stimulation at Fp3 or P3 does not modulate perceptual learning as indexed by the intermixed-blocked effect",
+    "abstract": "",
+    "authors": [
+      "Scott P. Jones",
+      "Bailey Ajayi",
+      "Harriet Reid",
+      "Dominic Michael Dwyer"
+    ],
+    "published": "2026-10-31",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.1037/xan0000418",
+    "pdf_url": "https://orca.cardiff.ac.uk/id/eprint/181991/1/Dwyer.%20Static%20outcomes%20Anodal%20tDCS.pdf",
+    "doi": "10.1037/xan0000418",
+    "citations": 0,
+    "venue": "ORCA Online Research @Cardiff (Cardiff University)",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
     "id": "openalex:W7219721761",
     "title": "Neuromorphic Computing Architectures for Low-Power Edge Inference in IoT Applications",
     "abstract": "",
@@ -1541,7 +1783,7 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "openalex:W7213591811",
+    "id": "openalex:W7213610973",
     "title": "PALYIM: A Modular, Open-Source Science Gateway for AI-Enabled Palynology Image Analysis",
     "abstract": "",
     "authors": [
@@ -1582,6 +1824,29 @@
     "venue": "SCCTS Journal of Embedded Systems Design and Applications",
     "open_access": true,
     "ai_summary": "No abstract available."
+  },
+  {
+    "id": "arxiv:2610.08781v1",
+    "title": "IdeaAnchor: Teaching LLMs to Turn Literature into Research Ideas",
+    "abstract": "Scientific research often begins by synthesizing ideas from a set of related papers to identify gaps and formulate new directions. However, training language models to perform this form of literature-grounded ideation remains challenging, as existing approaches based on prompting or feedback lack structured supervision for how papers should be synthesized. We introduce IdeaAnchor, a paradigm for training LLMs to perform research ideation using structured specifications as privileged signals. Each IdeaAnchor instance encodes how each input paper should be synthesized into a successful idea, including their functional roles, relationships, and target synthesis criteria. We build this paradigm by mining instances from published papers, capturing how real ideas emerge from prior literature. We then train models via demonstration, self-distillation, and reinforcement learning, and further enhance generation with retrieval at inference time. Experiments show consistent improvements in ideation quality. Our analysis reveals a functional decomposition: anchor-based training strengthens creative synthesis, retrieval enhances detail elaboration, and combining both yields the best performance.",
+    "authors": [
+      "Ziyu Chen",
+      "Yilun Zhao",
+      "Jiashuo Sun",
+      "Yiling Ma",
+      "Manasi Patwardhan",
+      "Arman Cohan"
+    ],
+    "published": "2026-10-06",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2610.08781v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.08781v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "IdeaAnchor is a paradigm for training LLMs to perform research ideation using structured specifications as privileged signals . We build this paradigm by mining instances from published papers, capturing how real ideas emerge from prior literature . We then train models via demonstration, self-distillation, and reinforcement learning ."
   },
   {
     "id": "arxiv:2610.08782v1",
@@ -1634,32 +1899,23 @@
     "ai_summary": "QF3 (Fast Flow RL with Filtered Q-Gradients) trains a flow policy with flow matching plus the critic's action gradient, backpropagated through a one-step prediction of the flow's output . To keep updates where the critic and this prediction are reliable, QF 3 applies the critic gradient only to action dimensions"
   },
   {
-    "id": "arxiv:2610.08791v1",
-    "title": "World Models' Last Exam in Physics",
-    "abstract": "Video world models can produce visually convincing yet physically inconsistent sequences, raising concerns about their reliability for prediction and planning in embodied AI systems. Existing evaluations often rely on model-based judgments or reference videos, while direct physical tests largely focus on mechanics. We introduce World Models' Last Exam in Physics, a measurement-based benchmark for evaluating physical consistency in video world models. The benchmark comprises 40 controlled tasks spanning mechanics, optics, fluids, thermal and phase-change phenomena, electromagnetism, and surface tension. Each task pairs an initial image and a generation prompt with predefined physical criteria, enabling interpretable tests of observable physical relationships without requiring reference videos. Its evaluator combines task-observability screening with task-specific quantitative physical measurements. Experiments on eight video generation models across 1,280 videos reveal persistent physical inconsistencies and substantial variation across tasks, with the best model achieving an overall score of 57.76 out of 100. Evaluation on synthetic videos with known physical relationships provides evidence for the validity of the measurement module under controlled conditions. The evaluator also achieves higher agreement with human judgments than a direct vision-language model baseline in both within-task rankings and pairwise comparisons. By combining coverage across physical domains with scores grounded in measurable evidence and explicit measurement limitations, the benchmark provides an interpretable basis for diagnosing physical inconsistencies and tracking progress toward physically consistent video world models.",
+    "id": "arxiv:2610.08785v1",
+    "title": "Conformal Prediction Sets Quantify Information Gain: A Theoretical Perspective",
+    "abstract": "Conformal prediction is a popular tool for uncertainty quantification that outputs prediction sets with finite-sample coverage guarantees. While prediction set size is commonly used as a heuristic measure of uncertainty, the information-theoretic basis for this interpretation remains poorly understood. In this work, we provide such a foundation using a decision-theoretic generalization of entropy tailored to set-valued prediction. In particular, we introduce a family of generalized information measures based on the size and coverage of conformal prediction sets. Notably, Shannon mutual information admits an exact integral representation in terms of these measures. We then show that, in standard classification settings, the reduction in conformal set size from additional information (i) is sandwiched between calibration-dependent members of this family and (ii) obeys a data processing inequality, both up to finite-sample calibration and model error terms. Together, our results formally relate conformal prediction to classical information-theoretic quantities and justify using set-size reduction as an information gain metric. Empirically, we validate our theory across 11 classification settings and show that set-size reduction and Shannon mutual information can rank features differently in a greedy feature selection experiment.",
     "authors": [
-      "Mingju Gao",
-      "Qingle Liu",
-      "Yuzhao Peng",
-      "Xinjie Lin",
-      "Ziming Qin",
-      "Zheng Jiang",
-      "Wenyi Li",
-      "Calvin Xiao",
-      "Youjie Zheng",
-      "Kaisen Yang",
-      "Qinhuai Na"
+      "Kevin Zhang",
+      "Stephen Bates"
     ],
     "published": "2026-10-06",
     "source": "arXiv",
     "category": "preprint",
-    "url": "https://arxiv.org/abs/2610.08791v1",
-    "pdf_url": "https://arxiv.org/pdf/2610.08791v1",
+    "url": "https://arxiv.org/abs/2610.08785v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.08785v1",
     "doi": null,
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "World Models' Last Exam in Physics is a measurement-based benchmark for evaluating physical consistency in video world models . Existing evaluations often rely on model-based judgments or reference videos ."
+    "ai_summary": "Conformal prediction is a popular tool for uncertainty quantification . But the information-theoretic basis for this interpretation remains poorly understood . In this work, we provide such a foundation using a decision- theoretic generalization of entropy ."
   },
   {
     "id": "arxiv:2610.08790v1",
@@ -1687,46 +1943,32 @@
     "ai_summary": "Single-image scene generation aims to produce a complete 3D scene mesh from a single image . The generator is designed to work on both indoor and outdoor scenes while retaining its prior . It is designed for isolated objects in a fixed canonical volume and focus mostly on indoor scenes ."
   },
   {
-    "id": "arxiv:2610.08785v1",
-    "title": "Conformal Prediction Sets Quantify Information Gain: A Theoretical Perspective",
-    "abstract": "Conformal prediction is a popular tool for uncertainty quantification that outputs prediction sets with finite-sample coverage guarantees. While prediction set size is commonly used as a heuristic measure of uncertainty, the information-theoretic basis for this interpretation remains poorly understood. In this work, we provide such a foundation using a decision-theoretic generalization of entropy tailored to set-valued prediction. In particular, we introduce a family of generalized information measures based on the size and coverage of conformal prediction sets. Notably, Shannon mutual information admits an exact integral representation in terms of these measures. We then show that, in standard classification settings, the reduction in conformal set size from additional information (i) is sandwiched between calibration-dependent members of this family and (ii) obeys a data processing inequality, both up to finite-sample calibration and model error terms. Together, our results formally relate conformal prediction to classical information-theoretic quantities and justify using set-size reduction as an information gain metric. Empirically, we validate our theory across 11 classification settings and show that set-size reduction and Shannon mutual information can rank features differently in a greedy feature selection experiment.",
+    "id": "arxiv:2610.08791v1",
+    "title": "World Models' Last Exam in Physics",
+    "abstract": "Video world models can produce visually convincing yet physically inconsistent sequences, raising concerns about their reliability for prediction and planning in embodied AI systems. Existing evaluations often rely on model-based judgments or reference videos, while direct physical tests largely focus on mechanics. We introduce World Models' Last Exam in Physics, a measurement-based benchmark for evaluating physical consistency in video world models. The benchmark comprises 40 controlled tasks spanning mechanics, optics, fluids, thermal and phase-change phenomena, electromagnetism, and surface tension. Each task pairs an initial image and a generation prompt with predefined physical criteria, enabling interpretable tests of observable physical relationships without requiring reference videos. Its evaluator combines task-observability screening with task-specific quantitative physical measurements. Experiments on eight video generation models across 1,280 videos reveal persistent physical inconsistencies and substantial variation across tasks, with the best model achieving an overall score of 57.76 out of 100. Evaluation on synthetic videos with known physical relationships provides evidence for the validity of the measurement module under controlled conditions. The evaluator also achieves higher agreement with human judgments than a direct vision-language model baseline in both within-task rankings and pairwise comparisons. By combining coverage across physical domains with scores grounded in measurable evidence and explicit measurement limitations, the benchmark provides an interpretable basis for diagnosing physical inconsistencies and tracking progress toward physically consistent video world models.",
     "authors": [
-      "Kevin Zhang",
-      "Stephen Bates"
+      "Mingju Gao",
+      "Qingle Liu",
+      "Yuzhao Peng",
+      "Xinjie Lin",
+      "Ziming Qin",
+      "Zheng Jiang",
+      "Wenyi Li",
+      "Calvin Xiao",
+      "Youjie Zheng",
+      "Kaisen Yang",
+      "Qinhuai Na"
     ],
     "published": "2026-10-06",
     "source": "arXiv",
     "category": "preprint",
-    "url": "https://arxiv.org/abs/2610.08785v1",
-    "pdf_url": "https://arxiv.org/pdf/2610.08785v1",
+    "url": "https://arxiv.org/abs/2610.08791v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.08791v1",
     "doi": null,
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "Conformal prediction is a popular tool for uncertainty quantification . But the information-theoretic basis for this interpretation remains poorly understood . In this work, we provide such a foundation using a decision- theoretic generalization of entropy ."
-  },
-  {
-    "id": "arxiv:2610.08781v1",
-    "title": "IdeaAnchor: Teaching LLMs to Turn Literature into Research Ideas",
-    "abstract": "Scientific research often begins by synthesizing ideas from a set of related papers to identify gaps and formulate new directions. However, training language models to perform this form of literature-grounded ideation remains challenging, as existing approaches based on prompting or feedback lack structured supervision for how papers should be synthesized. We introduce IdeaAnchor, a paradigm for training LLMs to perform research ideation using structured specifications as privileged signals. Each IdeaAnchor instance encodes how each input paper should be synthesized into a successful idea, including their functional roles, relationships, and target synthesis criteria. We build this paradigm by mining instances from published papers, capturing how real ideas emerge from prior literature. We then train models via demonstration, self-distillation, and reinforcement learning, and further enhance generation with retrieval at inference time. Experiments show consistent improvements in ideation quality. Our analysis reveals a functional decomposition: anchor-based training strengthens creative synthesis, retrieval enhances detail elaboration, and combining both yields the best performance.",
-    "authors": [
-      "Ziyu Chen",
-      "Yilun Zhao",
-      "Jiashuo Sun",
-      "Yiling Ma",
-      "Manasi Patwardhan",
-      "Arman Cohan"
-    ],
-    "published": "2026-10-06",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2610.08781v1",
-    "pdf_url": "https://arxiv.org/pdf/2610.08781v1",
-    "doi": null,
-    "citations": 0,
-    "venue": "arXiv preprint",
-    "open_access": true,
-    "ai_summary": "IdeaAnchor is a paradigm for training LLMs to perform research ideation using structured specifications as privileged signals . We build this paradigm by mining instances from published papers, capturing how real ideas emerge from prior literature . We then train models via demonstration, self-distillation, and reinforcement learning ."
+    "ai_summary": "World Models' Last Exam in Physics is a measurement-based benchmark for evaluating physical consistency in video world models . Existing evaluations often rely on model-based judgments or reference videos ."
   },
   {
     "id": "arxiv:2610.08780v1",
@@ -2680,167 +2922,118 @@
     "ai_summary": "The paper proposes a training-free framework that organizes video content into an explicit event chain . Instead of retrieving isolated frames or text segments, EC-RAG first partitions the video into semantically coherent segments . It then links them into a structured chain that preserves temporal order and captures inter-event relationships ."
   },
   {
-    "id": "openalex:W7220367554",
-    "title": "KWSSWS-IA Approach: An Intelligent Assistant for Scientific PDF Retrieval Using Semantic Analysis and AI-Driven Summarization",
+    "id": "openalex:W7117292202",
+    "title": "FEM-Bench: a structured scientific reasoning benchmark for evaluating code-generating LLMs",
     "abstract": "",
     "authors": [
-      "E Fakroun",
-      "M Sullabi"
+      "Saeed Mohammadzadeh",
+      "Erfan Hamdi",
+      "Joel Shor",
+      "Emma Lejeune"
     ],
     "published": "2026-10-06",
     "source": "OpenAlex",
     "category": "index",
-    "url": "https://doi.org/10.65405/fw7nxs09",
-    "pdf_url": "https://doi.org/10.65405/fw7nxs09",
-    "doi": "10.65405/fw7nxs09",
+    "url": "https://doi.org/10.1007/s00366-026-02397-z",
+    "pdf_url": "https://arxiv.org/pdf/2512.20732",
+    "doi": "10.1007/s00366-026-02397-z",
     "citations": 0,
-    "venue": "Al-Farooq Journal of Sciences",
+    "venue": "Engineering With Computers",
     "open_access": true,
     "ai_summary": "No abstract available."
   },
   {
-    "id": "openalex:W7219615801",
-    "title": "The Decision to Use Training Services is Reviewed From the Promotion, Costs, Facilities and Location of Vocational Training Center and Productivity Surakarta",
+    "id": "openalex:W7168258981",
+    "title": "Toward AI-agent-driven particle transport simulations: implementation of AI-assisted workflows for PHITS",
     "abstract": "",
     "authors": [
-      "Dillyana Krismianingrum",
-      "Sudarwati Sudarwati",
-      "Sarsono Sarsono"
+      "Tatsuhiko Sato",
+      "Shintaro Hashimoto",
+      "Tatsuhiko Ogawa",
+      "Takuya Furuta",
+      "Yuho Hirata",
+      "Seiki Ohnishi",
+      "Yasuhito Sakaki",
+      "Nobuhiro Shigyo"
     ],
-    "published": "2026-10-05",
+    "published": "2026-10-06",
     "source": "OpenAlex",
     "category": "index",
-    "url": "https://doi.org/10.47467/elmal.v7i10.13111",
-    "pdf_url": "https://journal-laaroiba.com/ojs/index.php/elmal/article/download/13111/9534",
-    "doi": "10.47467/elmal.v7i10.13111",
+    "url": "https://doi.org/10.1080/00223131.2026.2742550",
+    "pdf_url": "https://doi.org/10.1080/00223131.2026.2742550",
+    "doi": "10.1080/00223131.2026.2742550",
     "citations": 0,
-    "venue": "El-Mal Jurnal Kajian Ekonomi & Bisnis Islam",
+    "venue": "Journal of Nuclear Science and Technology",
     "open_access": true,
     "ai_summary": "No abstract available."
   },
   {
-    "id": "pubmed:42839938",
-    "title": "Efficacy of acupuncture for tinnitus with anxiety: a systematic review and meta-analysis.",
-    "abstract": "Evidence suggests that acupuncture can alleviate tinnitus symptoms and improve the anxiety associated with tinnitus, but the relationship between these outcomes is unclear. To evaluate the efficacy of acupuncture for tinnitus with anxiety using a meta-analysis. Computerized searches were conducted in nine databases: China National Knowledge Infrastructure (CNKI), Wanfang Data, VIP Chinese Science and Technology Journal Full-text Database, SinoMed, Chinese Medical Journal Full-text Database (CMAJD), PubMed, Embase, the Cochrane Library, and Web of Science. The search covered the period from the establishment of each database to January 15, 2026. Relevant randomized controlled trials meeting the inclusion and exclusion criteria were selected. The Cochrane Collaboration's recommended methods were used to assess the quality of included studies. Outcomes evaluated included the total effective rate, Tinnitus Severity Questionnaire (TEQ), Tinnitus Handicap Inventory (THI), Traditional Chinese Medicine syndrome scores (TCM syndrome scores), Hamilton Anxiety Scale (HAMA), Self-Rating Anxiety Scale (SAS), Beck Anxiety Inventory (BAI), brain-derived neurotrophic factor (BDNF), serum 5-hydroxytryptamine (5-HT), and serum gamma-aminobutyric acid (GABA) levels as outcome measures. Meta-analysis was performed using ReMan 5.3 software. Twelve studies involving 908 patients were included. Meta-analysis revealed that acupuncture demonstrated superiority in improving the total effective rate for tinnitus with anxiety (RR = 1.18, 95% CI: 1.10-1.26,  Acupuncture treatment for tinnitus with anxiety demonstrated greater improvement than non-acupuncture approaches in enhancing the clinical total effective rate and reducing TEQ, THI, TCM syndrome scores, BAI, HAMA, and SAS scores, warranting clinical promotion. However, evidence levels for certain outcome measures (BDNF, 5-HT, and GABA) remain low, necessitating further validation through well-designed, methodologically rigorous, high-quality, large-scale randomized controlled trials. https://www.crd.york.ac.uk/PROSPERO/view/CRD42024596594; identifier: CRD42024596594.",
+    "id": "openalex:W7169876914",
+    "title": "Attention from Above: A Multimodal Model for Drone-Based Object Localization",
+    "abstract": "",
     "authors": [
-      "Wang Peiyun",
-      "Qiu Shuaihui",
-      "Cao Yi",
-      "Yang Hao"
+      "Hyun-Ki Jung"
     ],
-    "published": "2026",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42839938/",
-    "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13638367/pdf/",
-    "doi": "10.3389/fneur.2026.1920000",
+    "published": "2026-10-06",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.3991/ijim.v20i18.61467",
+    "pdf_url": "https://doi.org/10.3991/ijim.v20i18.61467",
+    "doi": "10.3991/ijim.v20i18.61467",
     "citations": 0,
-    "venue": "Frontiers in neurology",
+    "venue": "International Journal of Interactive Mobile Technologies (iJIM)",
     "open_access": true,
-    "ai_summary": "Computerized searches were conducted in nine databases . Outcomes evaluated included the total effective rate, Tinnitus Severity Questionnaire (TEQ), Tinn Titus Handicap Inventory (THI), Traditional Chinese Medicine syndrome score ."
+    "ai_summary": "No abstract available."
   },
   {
-    "id": "pubmed:42839930",
-    "title": "Suicide probability among physicians: an explainable machine learning analysis of depression, burnout, anxiety, and coping styles.",
-    "abstract": "Suicide is a major public health concern, and physicians are at increased risk because of demanding working conditions and a high prevalence of mental health problems. This study aimed to investigate the sociodemographic characteristics, depression, anxiety, burnout, coping styles, and suicide probability among physicians in Türkiye and to develop and interpret an explainable machine learning model for predicting suicide probability alongside conventional statistical analyses. In this cross-sectional study, 769 actively practicing physicians completed a sociodemographic questionnaire, the Beck Depression Inventory (BDI), Beck Anxiety Inventory (BAI), Suicide Probability Scale (SPS), Maslach Burnout Inventory (MBI), and Ways of Coping Inventory (WCI). Significant predictors of SPS scores were identified using multiple linear regression. An Extreme Gradient Boosting (XGBoost) model was subsequently developed, and SHapley Additive exPlanations (SHAP) were applied to interpret model predictions and quantify the contribution of individual predictors. Multiple linear regression identified BDI, BAI, MBI-depersonalization, MBI-reduced personal accomplishment, WCI-optimistic approach, WCI-helpless approach, and WCI-seeking social support as significant predictors of SPS scores. The XGBoost model demonstrated good predictive performance, comparable to that of linear regression; SHAP analysis showed a broadly concordant pattern of feature contributions to the model's predictions, with depressive symptoms emerging as by far the most influential contributor to suicide probability. The concordance between conventional regression and explainable machine-learning findings indicates that the two analytical approaches converge on a similar pattern of associations between depression, anxiety, burnout, coping style, and suicide probability; in this study, XGBoost did not provide a substantial predictive advantage over conventional regression, and its principal contribution was complementary model interpretation through global and individual-level SHAP explanations. Given the single-sample, single-split design of the present analysis, these explainable artificial intelligence findings should be regarded as hypothesis-generating rather than as a validated basis for clinical risk prediction, pending external validation.",
+    "id": "pubmed:42842895",
+    "title": "AI-induced deskilling in orthopedic surgery: Preserving judgment in the age of intelligent decision support.",
+    "abstract": "Artificial intelligence (AI) is rapidly entering orthopedic practice, offering efficiency gains while risking cognitive deskilling, particularly among trainees who may shift from generating clinical judgments to passively verifying algorithmic recommendations. Drawing on foundational automation-bias literature, cognitive-load theory, deliberate-practice principles, and Miller's pyramid of competence, this editorial argues that orthopedic education must explicitly cultivate \"AI independence\" alongside AI fluency. We propose periodic AI-off assessments, a structured competency framework aligned with entrustable professional activities, and calibrated reliance modeled on aviation safety practices, so that future surgeons retain the capacity to reason, override, and remain accountable when intelligent systems are unavailable or incorrect.",
     "authors": [
-      "Figen Ünal Demir",
-      "Esma Akpınar Aslan"
+      "Raju Vaishya",
+      "Abhishek Vaish"
     ],
     "published": "2026",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42839930/",
-    "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13638368/pdf/",
-    "doi": "10.3389/fmed.2026.1943490",
-    "citations": 0,
-    "venue": "Frontiers in medicine",
-    "open_access": true,
-    "ai_summary": "Study aimed to investigate the sociodemographic characteristics, depression, anxiety, burnout, coping styles, and suicide probability among physicians in Türkiye . 769 actively practicing physicians completed a cross-sectional study ."
-  },
-  {
-    "id": "pubmed:42839923",
-    "title": "LPC-transformer: a training strategy optimized framework for multiclass pneumonia medical image classification.",
-    "abstract": "Lung imaging enables direct visualization of lesions and is vital for pneumonia diagnosis. However, current deep learning models show unsatisfactory classification accuracy and generalization for multi-class lung disease recognition, limiting their clinical decision-support value. To tackle this issue, we present LPC-Transformer, a framework optimized via improved training strategies with Swin Transformer as the backbone; performance gains are realized without deepening the network. We propose an LMF hybrid loss integrating Focal Loss and LDAMLoss to mitigate class imbalance. Furthermore, the SCION optimizer is adopted to stabilize training, and PolyReLU is used in MLP modules to model complex nonlinear features. Evaluated on CL-COVIDset containing 11 classes of lung CT images, our method is compared with mainstream benchmark networks. Experiments reveal that LPC-Transformer surpasses the baseline SwinT model substantially, with accuracy, recall, precision and F1-score improved by 4.2%, 4.4%, 2.0% and 3.8%, respectively. These results validate the effectiveness of the proposed training strategy optimization.",
-    "authors": [
-      "Hongwei Chang",
-      "Tao Hu"
-    ],
-    "published": "2026",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42839923/",
-    "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13638373/pdf/",
-    "doi": "10.3389/fmed.2026.1960913",
-    "citations": 0,
-    "venue": "Frontiers in medicine",
-    "open_access": true,
-    "ai_summary": "Lung imaging enables direct visualization of lesions and is vital for pneumonia diagnosis . But current deep learning models show unsatisfactory classification accuracy and generalization for multi-class lung disease recognition . To tackle this issue, we present LPC-Transformer, a framework optimized via improved training strategies with Swin Transformer as the backbone ."
-  },
-  {
-    "id": "pubmed:42839922",
-    "title": "Interpretable machine learning for postoperative sepsis prediction in ICU patients following intracranial hematoma evacuation.",
-    "abstract": "Sepsis is a prevalent and life-threatening complication in ICU patients after intracranial hematoma evacuation. This study aimed to develop and externally validate an interpretable machine learning model for predicting sepsis risk in this high-risk neurocritical care population. A multicenter retrospective study was designed. The MIMIC-IV was based on for model development and internal testing; MIMIC-III, eICU and an independent clinical cohort from Jiangsu Provincial Hospital of Integrated Traditional Chinese and Western Medicine for external validation. Sepsis during ICU stay was defined according to the operationalized Sepsis-3 criteria. Early ICU variables were selected using Boruta and LASSO, and six machine learning algorithms were developed and compared. Model performance was evaluated by discrimination, calibration, and decision curve analysis, and its interpretability was assessed using SHAP and LIME. A sensitivity analysis was conducted by retraining all six models after excluding baseline SOFA. A total of 1,729 patients were included, of whom 717 developed sepsis during ICU stay. The final model retained 13 predictors, including WBC, SOFA score, SpO This study developed and externally validated an interpretable XGBoost-based model for predicting sepsis risk during ICU stay among patients after intracranial hematoma evacuation. The model showed generally consistent AUC-based discrimination across multiple validation cohorts and may support individualized risk stratification. Further prospective validation and clinical impact assessment are required before routine clinical implementation.",
-    "authors": [
-      "Shaoyang Yu",
-      "Yun Liu",
-      "Lei Guo",
-      "Jinchang He",
-      "Yuyuan Ge",
-      "Wan Yu",
-      "Weijian Jia",
-      "Kexiang Xiong",
-      "Zixiang Wang",
-      "Wei Gao",
-      "Yong Zhang"
-    ],
-    "published": "2026",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42839922/",
-    "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13638375/pdf/",
-    "doi": "10.3389/fcimb.2026.1895258",
-    "citations": 0,
-    "venue": "Frontiers in cellular and infection microbiology",
-    "open_access": true,
-    "ai_summary": "Sepsis is a prevalent and life-threatening complication in ICU patients after intracranial hematoma evacuation . Sepsis during ICU stay was defined according to the operationalized Sepsis-3 criteria ."
-  },
-  {
-    "id": "pubmed:42839865",
-    "title": "AI-Driven Innovations in Hearing Health: A Review of Artificial Intelligence Applications in Audiology and Hearing Technologies.",
-    "abstract": "Hearing loss is a prevalent condition affecting over 500 million people globally, with projections estimating more than 700 million cases by 2050. Artificial Intelligence (AI) holds transformative potential in audiology, enhancing diagnostic, therapeutic, and rehabilitation outcomes. This review explores the applications of AI in hearing aids, cochlear implants, sign language recognition, and tele-audiology. A comprehensive literature review was conducted using PubMed, Google Scholar, and other academic databases. Relevant studies on AI-driven advancements in audiology were analyzed, focusing on hearing aid technologies, cochlear implants, diagnostics, and tele-audiology platforms. AI technologies significantly enhance hearing aids through real-time personalization and adaptive algorithms. Cochlear implants leverage AI for improved speech recognition and listening comfort. AI-powered sign language systems facilitate communication through real-time gestureto- text conversions, while tele-audiology expands care access using AI-enabled platforms. Diagnostic advancements include AI-enhanced audiometric testing and otoscopy. AI is revolutionizing hearing healthcare by providing personalized, efficient, and accessible solutions. Its integration into audiology represents a paradigm shift, offering significant improvements in patient outcomes and quality of life.",
-    "authors": [
-      "S Chitra Thara",
-      "K Vidhya Lekshmi",
-      "N Venkateswaramurthy"
-    ],
-    "published": "2026",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42839865/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42842895/",
     "pdf_url": null,
-    "doi": "10.2174/0118746098352524250123050156",
+    "doi": "10.1051/sicotj/2026077",
     "citations": 0,
-    "venue": "Current aging science",
+    "venue": "SICOT-J",
     "open_access": false,
-    "ai_summary": "Hearing loss is a prevalent condition affecting over 500 million people globally, with projections estimating more than 700 million cases by 2050 . This review explores the applications of AI in hearing aids, cochlear implants, sign language recognition, and tele-audiology ."
+    "ai_summary": "Artificial intelligence (AI) is rapidly entering orthopedic practice, offering efficiency gains while risking cognitive deskilling . The editorial argues that orthopedics education must explicitly cultivate \"AI independence\" alongside AI fluency ."
   },
   {
-    "id": "pubmed:42839810",
-    "title": "Oh, the Things You Missed.",
-    "abstract": "It is not secret that life is changing all around us. So in this Editorial, I speak to someone who missed some pretty big changes in health care and in life.",
-    "authors": [
-      "Suzanne K Powell"
-    ],
+    "id": "conf:Conference:https://github.com/THUKElab/CLEME",
+    "title": "https://github.com/THUKElab/CLEME",
+    "abstract": "",
+    "authors": [],
     "published": "",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42839810/",
+    "source": "Conference",
+    "category": "conference",
+    "url": "https://github.com/THUKElab/CLEME",
     "pdf_url": null,
-    "doi": "10.1097/NCM.0000000000000891",
+    "doi": null,
     "citations": 0,
-    "venue": "Professional case management",
+    "venue": "Conference",
     "open_access": false,
-    "ai_summary": "The Daily Mail's weekly column is a weekly look at the world of health care . This week, we look at a person who missed some pretty big changes in health care and in life ."
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "conf:Conference:https://aclanthology.org/events/acl-2025/#2025acl-long",
+    "title": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    "abstract": "",
+    "authors": [],
+    "published": "",
+    "source": "Conference",
+    "category": "conference",
+    "url": "https://aclanthology.org/events/acl-2025/#2025acl-long",
+    "pdf_url": null,
+    "doi": null,
+    "citations": 0,
+    "venue": "Conference",
+    "open_access": false,
+    "ai_summary": "No abstract available."
   }
 ]
