@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T05:26:29.803189+00:00",
+  "generated_at": "2026-10-11T12:37:09.615140+00:00",
   "source_count": 57,
   "article_count": 434,
   "items": [
@@ -86,6 +86,30 @@
     {
       "source": "The Verge",
       "type": "news",
+      "title": "Horror is big business",
+      "url": "https://www.theverge.com/column/1008432/horror-popular-widows-bay-resident-evil",
+      "description": "The genre has become a tentpole across gaming, film, and television.",
+      "via": "rss"
+    },
+    {
+      "source": "The Verge",
+      "type": "news",
+      "title": "Why the LeapPad couldn&#8217;t survive the iPad",
+      "url": "https://www.theverge.com/podcast/1008578/leapfrog-leappad-technology-version-history",
+      "description": "The LeapPad was one of the best-selling toys in the US and challenged how parents thought about tech in their homes.",
+      "via": "rss"
+    },
+    {
+      "source": "The Verge",
+      "type": "news",
+      "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+      "description": "Early days of learning to use Hermes Agent and Qwen local models on Mac and Windows hardware.",
+      "via": "rss"
+    },
+    {
+      "source": "The Verge",
+      "type": "news",
       "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
       "description": "Microsoft’s CEO calls for putting an ‘emergency brake’ on AI.",
@@ -137,270 +161,6 @@
       "title": "LG’s RGB LED TV is good for certain situations, but an OLED is better",
       "url": "https://www.theverge.com/tech/1008957/lg-mrgb95b-rgb-led-tv-review",
       "description": "A bunch of little issues add up to make the MRGB95B not worth the price when TVs from Sony, Samsung, Hisense, and TCL do it better.",
-      "via": "rss"
-    },
-    {
-      "source": "The Verge",
-      "type": "news",
-      "title": "AI agent makers are promising privacy — will they deliver?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
-      "description": "Meta positioned its Muse agent as a safer alternative to OpenClaw. OpenAI promises Dots is a safer alternative to Muse.",
-      "via": "rss"
-    },
-    {
-      "source": "The Verge",
-      "type": "news",
-      "title": "The techlash has gone Hollywood",
-      "url": "https://www.theverge.com/tech/1008836/social-reckoning-cupertino-techlash-installer",
-      "description": "Amazon’s Alexa Tablets, Star Wars: Galactic Racer, Gears of War: E-Day, and more in this week’s Installer.",
-      "via": "rss"
-    },
-    {
-      "source": "The Verge",
-      "type": "news",
-      "title": "The Telo MT1 is a big truck trapped in a tiny truck’s body",
-      "url": "https://www.theverge.com/transportation/1005502/telo-mt1-review-ev-tiny-truck",
-      "description": "The Telo MT1 measures just 152 inches long — same as a Mini Cooper — and packs 500 horsepower. In our review, we test how the MT1 combines full-size utility with ultra-compact agility.",
-      "via": "rss"
-    },
-    {
-      "source": "CNET",
-      "type": "news",
-      "title": "Elon Musk Eyes ‘Complete Phone Coverage in America’ as SpaceX Clears Hurdle",
-      "url": "https://www.cnet.com/tech/mobile/starlink-acquires-low-band-spectrum/",
-      "description": "Starlink Mobile satellites could eventually improve enough to pass their signals through walls, dense foliage, and hilly terrain.",
-      "via": "rss"
-    },
-    {
-      "source": "CNET",
-      "type": "news",
-      "title": "File a Claim Now in the $7.85M PlayStation Antitrust Settlement Before the Deadline",
-      "url": "https://www.cnet.com/tech/gaming/sony-pay-out-millions-playstation-store-credit-claim-settlement-2/",
-      "description": "The payment will go straight to your PlayStation Network wallet after the final approval hearing next week.",
-      "via": "rss"
-    },
-    {
-      "source": "CNET",
-      "type": "news",
-      "title": "The iPhone Duo’s Unfolding Animation Is Giving Z Fold 8 Owners FOMO, but Not Me",
-      "url": "https://www.cnet.com/tech/mobile/iphone-duo-unfolding-animation-giving-z-fold-8-owners-fomo-but-not-me/",
-      "description": "Commentary: While there are ways to recreate some of the iPhone Duo’s style on an Android device, it feels a little desperate to me.",
-      "via": "rss"
-    },
-    {
-      "source": "CNET",
-      "type": "news",
-      "title": "Move Over ‘Carrie’: Mike Flanagan Teases ‘The Exorcist: Martyrs’ at NYCC 2026",
-      "url": "https://www.cnet.com/culture/entertainment/mike-flanagan-exorcist-nycc-blumhouse/",
-      "description": "During Friday's Blumhouse panel at NYCC, Flanagan introduced the first trailer for the \"scariest movie\" he's ever made, The Exorcist: Martyrs.",
-      "via": "rss"
-    },
-    {
-      "source": "CNET",
-      "type": "news",
-      "title": "Don’t Be ‘Cruel’ to Claude: Anthropic’s New Abuse Policy Tests AI Personhood",
-      "url": "https://www.cnet.com/tech/services-and-software/anthropic-cruel-claude-ai-model-abuse/",
-      "description": "Anthropic wants to stop “sustained and needless\" cruelty toward its chatbot. But that implies AI has feelings.",
-      "via": "rss"
-    },
-    {
-      "source": "CNET",
-      "type": "news",
-      "title": "Everything We Expect From Apple’s Surprise Smart Home Event Next Week",
-      "url": "https://www.cnet.com/home/smart-home/everything-we-expect-apple-smart-home-event/",
-      "description": "Here's what will reportedly be announced at Apple's Welcome Home event, and what we think is unlikely.",
-      "via": "rss"
-    },
-    {
-      "source": "CNET",
-      "type": "news",
-      "title": "The Feds Might Do Something About Those Distractingly Bright Headlights",
-      "url": "https://www.cnet.com/roadshow/nhtsa-regulation-bright-headlights/",
-      "description": "NHTSA blames current vehicle standards for making it hard for carmakers to use the latest headlight tech.",
-      "via": "rss"
-    },
-    {
-      "source": "CNET",
-      "type": "news",
-      "title": "Most US Adults Aren’t Ready for AI to Help With Holiday Shopping, Survey Finds",
-      "url": "https://www.cnet.com/tech/services-and-software/ai-holiday-shopping-survey/",
-      "description": "Far more people than last year are willing to use AI to help them find the right gift, but few want a bot handling their payment details.",
-      "via": "rss"
-    },
-    {
-      "source": "CNET",
-      "type": "news",
-      "title": "Yes, You Can Reuse Cooking Oil and It’s Easier Than You Think",
-      "url": "https://www.cnet.com/home/kitchen-and-household/the-best-way-to-discard-frying-oil-dont/",
-      "description": "This nifty process extends the life of frying oil.",
-      "via": "rss"
-    },
-    {
-      "source": "CNET",
-      "type": "news",
-      "title": "Amazon Deals of the Day: Prime Day Is Over, but Nex Playground Is Giving You 20% Off Your Next Family Game Night",
-      "url": "https://www.cnet.com/tech/amazon-deals-of-the-day-2026-10-09/",
-      "description": "And score big savings on the already affordable Roku TV and the Google earbuds.",
-      "via": "rss"
-    },
-    {
-      "source": "WIRED",
-      "type": "news",
-      "title": "AI Is Getting Really Good at Messing With Cybercriminals",
-      "url": "https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/",
-      "description": "Anti-cybercrime initiatives are increasingly using AI to scam the scammers by tricking them into talking to lifelike bots that they think are real victims.",
-      "via": "rss"
-    },
-    {
-      "source": "WIRED",
-      "type": "news",
-      "title": "Best Lego Gifts for Brick Builders (2026): Smart Bricks, Video Games, and More",
-      "url": "https://www.wired.com/gallery/gifts-for-lego-lovers/",
-      "description": "There's more to Lego than just another basic set. We tested tons of Lego-themed gifts to find the perfect ones for the brick builder in your life.",
-      "via": "rss"
-    },
-    {
-      "source": "WIRED",
-      "type": "news",
-      "title": "The Best Smart Scales for Tracking Weight and Body Composition (2026)",
-      "url": "https://www.wired.com/gallery/best-smart-scales/",
-      "description": "I tested connected scales and full-body scanners to find the best options for tracking weight, body fat estimates, and muscle mass.",
-      "via": "rss"
-    },
-    {
-      "source": "WIRED",
-      "type": "news",
-      "title": "Humans Watched This Supernova Explode Nearly a Millennium Ago. Now You Can See It in High Definition",
-      "url": "https://www.wired.com/story/humans-watched-this-supernova-explode-nearly-a-millennium-ago-now-you-can-see-it-in-high-definition/",
-      "description": "The new image isn’t just stunning—it may also provide clues about how this star survived its own explosion.",
-      "via": "rss"
-    },
-    {
-      "source": "WIRED",
-      "type": "news",
-      "title": "How This Tiny Startup Built the World’s Safest Bike Helmet",
-      "url": "https://www.wired.com/story/how-this-tiny-startup-pikio-built-the-worlds-safest-bike-helmet/",
-      "description": "Inspired by head-banging woodpeckers, Vancouver-based Pikio Labs has discovered a new approach to skull protection.",
-      "via": "rss"
-    },
-    {
-      "source": "WIRED",
-      "type": "news",
-      "title": "Home Depot Promo Codes: 30% Off in October 2026",
-      "url": "https://www.wired.com/story/home-depot-promo-code/",
-      "description": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this October.",
-      "via": "rss"
-    },
-    {
-      "source": "WIRED",
-      "type": "news",
-      "title": "LG Promo Codes and Coupons for October 2026",
-      "url": "https://www.wired.com/story/lg-promo-code/",
-      "description": "Save up to 20% off + an extra 10% with verified LG promo codes. Choose from LG coupons for up to 45% off TVs, buy 1 get 1 free fridges & more.",
-      "via": "rss"
-    },
-    {
-      "source": "WIRED",
-      "type": "news",
-      "title": "30% Off Canon Promo Codes | October 2026",
-      "url": "https://www.wired.com/story/canon-promo-code/",
-      "description": "Save 10% + up to 30% with the latest Canon promo code. Get $1,600 off with today’s coupons, $900 off cameras, $400 off printers & more.",
-      "via": "rss"
-    },
-    {
-      "source": "WIRED",
-      "type": "news",
-      "title": "Disney Plus Discount Codes: 52% Off October 2026",
-      "url": "https://www.wired.com/story/disney-plus-discounts/",
-      "description": "Looking for a Disney Plus discount? Save up to 52% on Disney+ bundles, student offers, and verified promotions with our complete savings guide.",
-      "via": "rss"
-    },
-    {
-      "source": "WIRED",
-      "type": "news",
-      "title": "Altra Running Promo Codes: 10% Off October 2026",
-      "url": "https://www.wired.com/story/altra-promo-code/",
-      "description": "Shop the Altra Running Sale and save up to 50% on men’s shoes, grab 20% off select styles, get 10% off your first order with sign-up, and enjoy free standard shipping on all purchases.",
-      "via": "rss"
-    },
-    {
-      "source": "Engadget",
-      "type": "news",
-      "title": "How to enable Live Activities on iPhone and CarPlay",
-      "url": "https://www.engadget.com/2280381/how-to-enable-live-activites-iphone-carplay/",
-      "description": "Use Live Activities on the Dynamic Island, Lock screen and CarPlay to keep an eye on what's happening with flights, timers, deliveries and much more.",
-      "via": "rss"
-    },
-    {
-      "source": "Engadget",
-      "type": "news",
-      "title": "How does a backup camera actually work?",
-      "url": "https://www.engadget.com/2280368/how-backup-camera-works/",
-      "description": "Aftermarket backup cameras might not work as well as integrated ones, but they're still a useful upgrade to an older car.",
-      "via": "rss"
-    },
-    {
-      "source": "Engadget",
-      "type": "news",
-      "title": "How to use the parental controls on iOS 27",
-      "url": "https://www.engadget.com/2280277/how-to-use-ios-27-parental-controls/",
-      "description": "Fine-tuned control options help you make sure your kid's experience with an Apple device is appropriate for their age.",
-      "via": "rss"
-    },
-    {
-      "source": "Engadget",
-      "type": "news",
-      "title": "How to reduce mobile data usage on your iPhone",
-      "url": "https://www.engadget.com/2280214/how-to-reduce-mobile-data-usage-iphone/",
-      "description": "Data Saver settings, restricting downloads to Wi-Fi, streaming in lower resolutions and downloading media for offline use can save you quite a bit of data.",
-      "via": "rss"
-    },
-    {
-      "source": "Engadget",
-      "type": "news",
-      "title": "Simple tweaks to improve your 4K TV's picture quality",
-      "url": "https://www.engadget.com/2280162/improve-picture-quality-4k-tv-simple-tweaks/",
-      "description": "You don't have to be an expert to make your TV's picture look better. Changing some settings and turning off annoying features will make a big difference.",
-      "via": "rss"
-    },
-    {
-      "source": "Engadget",
-      "type": "news",
-      "title": "How to lock apps on your Samsung Galaxy phone",
-      "url": "https://www.engadget.com/2280136/how-to-lock-app-samsung-galaxy-phone/",
-      "description": "Secure Folder can hold all of your sensitive apps and files behind additional authentication. App pinning is perfect for parents sharing their phones with kids.",
-      "via": "rss"
-    },
-    {
-      "source": "Engadget",
-      "type": "news",
-      "title": "What is the 3-2-1 rule for backing up your data?",
-      "url": "https://www.engadget.com/2280127/backing-up-data-3-2-1-rule-explained/",
-      "description": "Make sure your files are safe in the event of a hard drive disaster.",
-      "via": "rss"
-    },
-    {
-      "source": "Engadget",
-      "type": "news",
-      "title": "How does using your MacBook while charging affect its battery life?",
-      "url": "https://www.engadget.com/2280083/how-using-macbook-while-charging-affect-battery-life/",
-      "description": "Modern MacBooks are pretty smart about managing their battery's health.",
-      "via": "rss"
-    },
-    {
-      "source": "Engadget",
-      "type": "news",
-      "title": "This Android Auto problem is affecting calls on foldable phones",
-      "url": "https://www.engadget.com/2280033/android-auto-bug-affecting-foldable-phones-calling/",
-      "description": "Gemini might be causing some issues with Android Auto.",
-      "via": "rss"
-    },
-    {
-      "source": "Engadget",
-      "type": "news",
-      "title": "How to quickly check your Samsung Galaxy's warranty info",
-      "url": "https://www.engadget.com/2280016/how-to-check-warranty-samsung-galaxy/",
-      "description": "Confirm how much longer your Samsung warranty will last so you can plan for any service you need in the future.",
       "via": "rss"
     },
     {
@@ -481,6 +241,246 @@
       "title": "AI disqualification yields new Nikon Small World in Motion winner",
       "url": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/",
       "description": "New winner is Nguyen Nam Nhat of Vietnam for video of a roundworm and single-celled Dileptus.",
+      "via": "rss"
+    },
+    {
+      "source": "CNET",
+      "type": "news",
+      "title": "Silent Hill Townfall Is Real for Me: I’ve Been to the Actual St. Amelia",
+      "url": "https://www.cnet.com/uncategorized/silent-hill-townfall-review/",
+      "description": "In this spoiler-free review, I explain why this is the most personal horror game I've ever played",
+      "via": "rss"
+    },
+    {
+      "source": "CNET",
+      "type": "news",
+      "title": "Gas Stoves Create Indoor Air Pollution Risk in Commercial Kitchens, Study Finds",
+      "url": "https://www.cnet.com/health/gas-stoves-create-indoor-air-pollution-risk-commercial-kitchens-study/",
+      "description": "The study also makes a case for gaps in kitchen worker protection.",
+      "via": "rss"
+    },
+    {
+      "source": "CNET",
+      "type": "news",
+      "title": "The Beautiful Blue Is My Favorite Thing About Vivo’s Foldable X Fold 6",
+      "url": "https://www.cnet.com/tech/mobile/vivo-x-fold-6-blue-color-design-review/",
+      "description": "It's a solid example of an Android foldable, but I worry that Apple has changed the game.",
+      "via": "rss"
+    },
+    {
+      "source": "CNET",
+      "type": "news",
+      "title": "Elon Musk Eyes ‘Complete Phone Coverage in America’ as SpaceX Clears Hurdle",
+      "url": "https://www.cnet.com/tech/mobile/starlink-acquires-low-band-spectrum/",
+      "description": "Starlink Mobile satellites could eventually improve enough to pass their signals through walls, dense foliage, and hilly terrain.",
+      "via": "rss"
+    },
+    {
+      "source": "CNET",
+      "type": "news",
+      "title": "File a Claim Now in the $7.85M PlayStation Antitrust Settlement Before the Deadline",
+      "url": "https://www.cnet.com/tech/gaming/sony-pay-out-millions-playstation-store-credit-claim-settlement-2/",
+      "description": "The payment will go straight to your PlayStation Network wallet after the final approval hearing next week.",
+      "via": "rss"
+    },
+    {
+      "source": "CNET",
+      "type": "news",
+      "title": "The iPhone Duo’s Unfolding Animation Is Giving Z Fold 8 Owners FOMO, but Not Me",
+      "url": "https://www.cnet.com/tech/mobile/iphone-duo-unfolding-animation-giving-z-fold-8-owners-fomo-but-not-me/",
+      "description": "Commentary: While there are ways to recreate some of the iPhone Duo’s style on an Android device, it feels a little desperate to me.",
+      "via": "rss"
+    },
+    {
+      "source": "CNET",
+      "type": "news",
+      "title": "Move Over ‘Carrie’: Mike Flanagan Teases ‘The Exorcist: Martyrs’ at NYCC 2026",
+      "url": "https://www.cnet.com/culture/entertainment/mike-flanagan-exorcist-nycc-blumhouse/",
+      "description": "During Friday's Blumhouse panel at NYCC, Flanagan introduced the first trailer for the \"scariest movie\" he's ever made, The Exorcist: Martyrs.",
+      "via": "rss"
+    },
+    {
+      "source": "CNET",
+      "type": "news",
+      "title": "Don’t Be ‘Cruel’ to Claude: Anthropic’s New Abuse Policy Tests AI Personhood",
+      "url": "https://www.cnet.com/tech/services-and-software/anthropic-cruel-claude-ai-model-abuse/",
+      "description": "Anthropic wants to stop “sustained and needless\" cruelty toward its chatbot. But that implies AI has feelings.",
+      "via": "rss"
+    },
+    {
+      "source": "CNET",
+      "type": "news",
+      "title": "Everything We Expect From Apple’s Surprise Smart Home Event Next Week",
+      "url": "https://www.cnet.com/home/smart-home/everything-we-expect-apple-smart-home-event/",
+      "description": "Here's what will reportedly be announced at Apple's Welcome Home event, and what we think is unlikely.",
+      "via": "rss"
+    },
+    {
+      "source": "CNET",
+      "type": "news",
+      "title": "The Feds Might Do Something About Those Distractingly Bright Headlights",
+      "url": "https://www.cnet.com/roadshow/nhtsa-regulation-bright-headlights/",
+      "description": "NHTSA blames current vehicle standards for making it hard for carmakers to use the latest headlight tech.",
+      "via": "rss"
+    },
+    {
+      "source": "WIRED",
+      "type": "news",
+      "title": "I Made Terrible Games With Google’s AI Playground",
+      "url": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
+      "description": "A long day’s haul in the video game slop mines.",
+      "via": "rss"
+    },
+    {
+      "source": "WIRED",
+      "type": "news",
+      "title": "13 Best Gifts for Every Traveler Should Have (2026)",
+      "url": "https://www.wired.com/story/best-gifts-for-travelers/",
+      "description": "Shopping for a frequent flier? Start here. These are the best gifts for travelers that make flying (or driving) a little less painful.",
+      "via": "rss"
+    },
+    {
+      "source": "WIRED",
+      "type": "news",
+      "title": "Inside the Muslim Manosphere Policing Women Online",
+      "url": "https://www.wired.com/story/inside-the-muslim-manosphere-policing-women-online/",
+      "description": "From Red Pill coaches to “Dawah Bros,” influencers are dressing up hypermasculinity and misogyny in religious language—and finding audiences across social platforms.",
+      "via": "rss"
+    },
+    {
+      "source": "WIRED",
+      "type": "news",
+      "title": "These Midterm Races Will Decide Data Centers’ Political Fate",
+      "url": "https://www.wired.com/story/midterm-races-decide-data-centers-political-fate/",
+      "description": "From the Senate to governors’ mansions, candidates are trying to outcompete each other to be the most anti–data center in races across the US.",
+      "via": "rss"
+    },
+    {
+      "source": "WIRED",
+      "type": "news",
+      "title": "How the 2026 Super El Niño and Climate Change Are Related",
+      "url": "https://www.wired.com/story/super-el-nino-climate-change-connections/",
+      "description": "Here’s what we know about the record-setting El Niño on a record-hot planet, and the most important questions scientists are trying to answer.",
+      "via": "rss"
+    },
+    {
+      "source": "WIRED",
+      "type": "news",
+      "title": "California’s Tallest and Most Iconic Trees Are Getting Heatstroke",
+      "url": "https://www.wired.com/story/californias-tallest-and-most-iconic-trees-are-getting-heat-stroke/",
+      "description": "Redwoods adapted to a cool, foggy climate. Now a new study shows they slow down photosynthesis when their environment warms.",
+      "via": "rss"
+    },
+    {
+      "source": "WIRED",
+      "type": "news",
+      "title": "AI Is Getting Really Good at Messing With Cybercriminals",
+      "url": "https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/",
+      "description": "Anti-cybercrime initiatives are increasingly using AI to scam the scammers by tricking them into talking to lifelike bots that they think are real victims.",
+      "via": "rss"
+    },
+    {
+      "source": "WIRED",
+      "type": "news",
+      "title": "Best Lego Gifts for Brick Builders (2026): Smart Bricks, Video Games, and More",
+      "url": "https://www.wired.com/gallery/gifts-for-lego-lovers/",
+      "description": "There's more to Lego than just another basic set. We tested tons of Lego-themed gifts to find the perfect ones for the brick builder in your life.",
+      "via": "rss"
+    },
+    {
+      "source": "WIRED",
+      "type": "news",
+      "title": "The Best Smart Scales for Tracking Weight and Body Composition (2026)",
+      "url": "https://www.wired.com/gallery/best-smart-scales/",
+      "description": "I tested connected scales and full-body scanners to find the best options for tracking weight, body fat estimates, and muscle mass.",
+      "via": "rss"
+    },
+    {
+      "source": "WIRED",
+      "type": "news",
+      "title": "Humans Watched This Supernova Explode Nearly a Millennium Ago. Now You Can See It in High Definition",
+      "url": "https://www.wired.com/story/humans-watched-this-supernova-explode-nearly-a-millennium-ago-now-you-can-see-it-in-high-definition/",
+      "description": "The new image isn’t just stunning—it may also provide clues about how this star survived its own explosion.",
+      "via": "rss"
+    },
+    {
+      "source": "Engadget",
+      "type": "news",
+      "title": "How to properly clean your solar panels (and why it's important)",
+      "url": "https://www.engadget.com/2280495/how-to-properly-clean-solar-panels-why-its-important-to/",
+      "description": "Dirt can cut solar output, but cleaning only pays off when the numbers make sense.",
+      "via": "rss"
+    },
+    {
+      "source": "Engadget",
+      "type": "news",
+      "title": "Here's how much the MacBook Pro cost in 2021 vs. 2026",
+      "url": "https://www.engadget.com/2280441/how-much-macbook-pro-cost-2021-vs-2026/",
+      "description": "You'll be shocked to learn things are getting a lot more expensive.",
+      "via": "rss"
+    },
+    {
+      "source": "Engadget",
+      "type": "news",
+      "title": "How to enable Live Activities on iPhone and CarPlay",
+      "url": "https://www.engadget.com/2280381/how-to-enable-live-activites-iphone-carplay/",
+      "description": "Use Live Activities on the Dynamic Island, Lock screen and CarPlay to keep an eye on what's happening with flights, timers, deliveries and much more.",
+      "via": "rss"
+    },
+    {
+      "source": "Engadget",
+      "type": "news",
+      "title": "How does a backup camera actually work?",
+      "url": "https://www.engadget.com/2280368/how-backup-camera-works/",
+      "description": "Aftermarket backup cameras might not work as well as integrated ones, but they're still a useful upgrade to an older car.",
+      "via": "rss"
+    },
+    {
+      "source": "Engadget",
+      "type": "news",
+      "title": "How to use the parental controls on iOS 27",
+      "url": "https://www.engadget.com/2280277/how-to-use-ios-27-parental-controls/",
+      "description": "Fine-tuned control options help you make sure your kid's experience with an Apple device is appropriate for their age.",
+      "via": "rss"
+    },
+    {
+      "source": "Engadget",
+      "type": "news",
+      "title": "How to reduce mobile data usage on your iPhone",
+      "url": "https://www.engadget.com/2280214/how-to-reduce-mobile-data-usage-iphone/",
+      "description": "Data Saver settings, restricting downloads to Wi-Fi, streaming in lower resolutions and downloading media for offline use can save you quite a bit of data.",
+      "via": "rss"
+    },
+    {
+      "source": "Engadget",
+      "type": "news",
+      "title": "Simple tweaks to improve your 4K TV's picture quality",
+      "url": "https://www.engadget.com/2280162/improve-picture-quality-4k-tv-simple-tweaks/",
+      "description": "You don't have to be an expert to make your TV's picture look better. Changing some settings and turning off annoying features will make a big difference.",
+      "via": "rss"
+    },
+    {
+      "source": "Engadget",
+      "type": "news",
+      "title": "How to lock apps on your Samsung Galaxy phone",
+      "url": "https://www.engadget.com/2280136/how-to-lock-app-samsung-galaxy-phone/",
+      "description": "Secure Folder can hold all of your sensitive apps and files behind additional authentication. App pinning is perfect for parents sharing their phones with kids.",
+      "via": "rss"
+    },
+    {
+      "source": "Engadget",
+      "type": "news",
+      "title": "What is the 3-2-1 rule for backing up your data?",
+      "url": "https://www.engadget.com/2280127/backing-up-data-3-2-1-rule-explained/",
+      "description": "Make sure your files are safe in the event of a hard drive disaster.",
+      "via": "rss"
+    },
+    {
+      "source": "Engadget",
+      "type": "news",
+      "title": "How does using your MacBook while charging affect its battery life?",
+      "url": "https://www.engadget.com/2280083/how-using-macbook-while-charging-affect-battery-life/",
+      "description": "Modern MacBooks are pretty smart about managing their battery's health.",
       "via": "rss"
     },
     {
@@ -606,81 +606,137 @@
     {
       "source": "TechRadar",
       "type": "news",
-      "title": "Dynasty Warriors 3: Complete Edition Remastered review: Welcome (back) to China",
-      "url": "https://www.techradar.com/gaming/dynasty-warriors-3-complete-edition-remastered-review",
-      "description": "Dynasty Warriors 3: Complete Edition Remastered is an excellent remaster that fans both old and new need to check out.",
+      "title": "A new Google TV Streamer is rumored to be on the way, with these upgrades",
+      "url": "https://www.techradar.com/televisions/streaming-devices/a-new-google-tv-streamer-is-rumored-to-be-on-the-way-and-these-leaked-improvements-might-be-enough-to-get-me-to-upgrade-from-my-chromecast-with-google-tv",
+      "description": "Microphones, faster speeds, and more",
       "via": "rss"
     },
     {
       "source": "TechRadar",
       "type": "news",
-      "title": "Researchers build sailboat drone prototype that can 'fly' — we think it's more like falling with style",
-      "url": "https://www.techradar.com/pro/researchers-build-sailboat-drone-prototype-that-can-fly-we-think-its-more-like-falling-with-style",
-      "description": "ALBATROSS claims more than 100 km of operational range",
+      "title": "Nikon and Fujifilm's quiet year for new cameras isn't the disaster you think it is — here's why",
+      "url": "https://www.techradar.com/cameras/mirrorless-cameras/nikon-and-fujifilms-quiet-year-isnt-the-disaster-you-think-it-is-i-think-these-two-aging-cameras-are-still-class-leading-in-2026",
+      "description": "Cameras have a pretty long shelf life, you know",
       "via": "rss"
     },
     {
       "source": "TechRadar",
       "type": "news",
-      "title": "PSA: Best Buy's 'Techtober' sale ends this Sunday — here are 50+ tech deals I'd buy on Apple, TVs, laptops, Google Pixel 11, and more",
-      "url": "https://www.techradar.com/seasonal-sales/psa-best-buys-techtober-sale-ends-this-sunday-here-are-50-tech-deals-id-buy-on-apple-tvs-laptops-google-pixel-11-and-more",
-      "description": "Do your Black Friday shopping early, folks",
+      "title": "'Things are here, things are real - it’s here and now': Snowflake tells us why ensuring trust and reliability could be the key to unlocking the potential of the AI agentic enterprise",
+      "url": "https://www.techradar.com/pro/things-are-here-things-are-real-its-here-and-now-snowflake-tells-us-why-ensuring-trust-and-reliability-could-be-the-key-to-unlocking-the-potential-of-the-ai-agentic-enterprise",
+      "description": "Trust has never been more crucial than in the age of the agentic enterprise",
       "via": "rss"
     },
     {
       "source": "TechRadar",
       "type": "news",
-      "title": "Quordle hints and answers for Sunday, October 11 (game #1721)",
-      "url": "https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-11-october-2026",
-      "description": "Looking for Quordle clues? We can help. Plus get the answers to Quordle today and past solutions.",
+      "title": "The Ninja Crispi Microwave is an incredibly versatile air fryer and microwave combo that will transform the way you cook",
+      "url": "https://www.techradar.com/home/air-fryers/ninja-crispi-microwave-review",
+      "description": "Whether you air fry, microwave, bake, grill or reheat, the Crispi Microwave has you covered",
       "via": "rss"
     },
     {
       "source": "TechRadar",
       "type": "news",
-      "title": "NYT Connections hints and answers for Sunday, October 11 (game #1218)",
-      "url": "https://www.techradar.com/gaming/nyt-connections-today-answers-hints-11-october-2026",
-      "description": "Looking for NYT Connections answers and hints? Here's all you need to know to solve today's game, plus my commentary on the puzzles.",
+      "title": "Watch Chicago Marathon 2026: FREE streams and TV channels",
+      "url": "https://www.techradar.com/how-to-watch/sport/chicago-marathon-2026-free",
+      "description": "All the ways to watch Chicago Marathon 2026 for free from anywhere, including TV channels and start time, as Jacob Kiplimo and Hawi Feysa defend their titles.",
       "via": "rss"
     },
     {
       "source": "TechRadar",
       "type": "news",
-      "title": "NYT Strands hints and answers for Sunday, October 11 (game #952)",
-      "url": "https://www.techradar.com/computing/websites-apps/nyt-strands-today-answers-hints-11-october-2026",
-      "description": "Looking for NYT Strands answers and hints? Here's all you need to know to solve today's game, including the spangram.",
+      "title": "Find out if you're part of the crew with this 30-question One Piece quiz",
+      "url": "https://www.techradar.com/streaming/entertainment/can-you-sail-the-grand-line-take-this-uncharted-one-piece-quiz-for-fans-of-the-manga-anime-and-hit-netflix-show",
+      "description": "See if you're worthy of joining the crew",
       "via": "rss"
     },
     {
       "source": "TechRadar",
       "type": "news",
-      "title": "AWS is building a massive 36-building, 1,100-acre data center campus in Pennsylvania — Homer City Energy Campus will create around 1,500-2,000 jobs  and be powered by natural gas",
-      "url": "https://www.techradar.com/pro/aws-is-building-a-massive-36-building-1-100-acre-data-center-campus-in-pennsylvania-homer-city-energy-campus-will-create-around-1-500-2-000-jobs-and-be-powered-by-natural-gas",
-      "description": "A new 4.5GW gas plant will supply most of the electricity for AWS",
+      "title": "‘Calling an AI agent “rogue” is a dangerous way of deflecting blame’: Tenable Field CTO on the implications of AI agent escapes and how they can be regulated",
+      "url": "https://www.techradar.com/pro/calling-an-ai-agent-rogue-is-a-dangerous-way-of-deflecting-blame-tenable-field-cto-on-the-implications-of-ai-agent-escapes-and-how-they-can-be-regulated",
+      "description": "I spoke to Bernard Montel, EMEA Field CTO, Tenable, to learn more about how AI companies are deflecting blame by labelling AI agents as 'rogue' when they escape testing environments.",
       "via": "rss"
     },
     {
       "source": "TechRadar",
       "type": "news",
-      "title": "WoW: Forever's classes won't be modernized, but Blizzard has added some new mechanics for 'engaging depth' as 'some classes' in World of Warcraft Classic 'were too simple'",
-      "url": "https://www.techradar.com/gaming/wow-forevers-classes-wont-be-modernized-but-blizzard-has-added-some-new-mechanics-for-engaging-depth-as-some-classes-in-world-of-warcraft-classic-were-too-simple",
-      "description": "Blizzard confirmed it won't modernize WoW: Forever's classes, as it wants to align with the \"Classic\" experience, but some will receive more \"engaging depth.\"",
+      "title": "Southampton vs Portsmouth live streams",
+      "url": "https://www.techradar.com/how-to-watch/football/southampton-vs-portsmouth-free-efl-championship-2026-27",
+      "description": "All the ways to watch Southampton vs Portsmouth live streams online and from anywhere for free, in a fiery South Coast derby in the EFL Championship 2026/27.",
       "via": "rss"
     },
     {
       "source": "TechRadar",
       "type": "news",
-      "title": "Our top coffee makers of 2026: every model that's wowed us in our tests",
-      "url": "https://www.techradar.com/home/coffee-machines/our-top-coffee-makers-of-2026-every-model-that-wowed-us-in-our-tests-including-5-star-standouts-and-a-brilliant-budget-pod-machine",
-      "description": "Thinking of upgrading your coffee station? Read this first",
+      "title": "Worx's Landroid Vision Cloud WR306E is well worth a punt for efficient lawn care on a relative budget",
+      "url": "https://www.techradar.com/home/smart-home/worx-landroid-vision-cloud-wr306e-robot-lawn-mower-review-efficient-autonomous-lawn-care-for-medium-swards",
+      "description": "A sterling mowbot for medium-sized lawns though the initial connection process can be a bit temperamental",
       "via": "rss"
     },
     {
       "source": "TechRadar",
       "type": "news",
-      "title": "Two weeks with the new ModRetro Chromatic Transparent: I'm loving this slick modern way to play classic Game Boy games",
-      "url": "https://www.techradar.com/gaming/two-weeks-with-the-new-modretro-chromatic-transparent-im-loving-this-slick-modern-way-to-play-classic-game-boy-games",
-      "description": "And, even better, it launches at a much lower price",
+      "title": "Asustor Lockerstor 2 Gen2+ AS6702T v2 review",
+      "url": "https://www.techradar.com/computing/asustor-lockerstor-2-gen2-as6702t-v2-nas-review",
+      "description": "The Asustor Lockerstor 2 Gen2+ AS6702T v2 is a sturdy two-bay NAS with dual 5GbE ports and four M.2 slots let down by an ageing Intel chip and high price.",
+      "via": "rss"
+    },
+    {
+      "source": "Tom's Hardware",
+      "type": "hardware",
+      "title": "Programmer ports Super Mario 64 to Microsoft’s Zune HD media player",
+      "url": "https://www.tomshardware.com/video-games/retro-gaming/programmer-ports-super-mario-64-to-microsofts-zune-hd-media-player-the-2009-ipod-rival-runs-the-game-natively-on-its-nvidia-tegra-chip-with-touchscreen-controls-and-saves",
+      "description": "It plays mostly at full speed if you bring the ROM.",
+      "via": "rss"
+    },
+    {
+      "source": "Tom's Hardware",
+      "type": "hardware",
+      "title": "Two Steam games generated $560,000 across 135,000 sales, but the co-creator only took home $15,000 annually",
+      "url": "https://www.tomshardware.com/video-games/pc-gaming/two-steam-games-generated-usd560-000-across-135-000-sales-but-the-co-creator-only-took-home-usd15-000-annually-high-chinese-refund-rates-steams-30-percent-fee-and-publisher-cuts-eat-most-of-the-profit-leaving-the-co-creator-driving-a-2012-mazda",
+      "description": "Just like that raccoon washing his cotton candy and watching it melt.",
+      "via": "rss"
+    },
+    {
+      "source": "Tom's Hardware",
+      "type": "hardware",
+      "title": "Cryptomining malware used poetry to infect more than 3,400 servers, researchers say",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/cryptomining-malware-used-poetry-to-infect-more-than-3-400-servers-researchers-say-four-words-in-the-poellm-verse-changed-11-times-point-the-botnet-to-new-servers",
+      "description": "Likeliest path into LiteLLM servers was a bug with a fix since April.",
+      "via": "rss"
+    },
+    {
+      "source": "Tom's Hardware",
+      "type": "hardware",
+      "title": "State of California sues 3D printer filament company Polymaker for promoting ghost guns by marketing to 3D-printed gun community",
+      "url": "https://www.tomshardware.com/3d-printing/state-of-california-sues-3d-printer-filament-company-polymaker-for-promoting-ghost-guns-by-marketing-to-3d-printed-gun-community-state-alleges-company-turns-harmless-pla-filament-into-a-regulated-firearm-precursor-part",
+      "description": "The newly formed Consumer Fairness and Public Protection Division is also targeting Roblox and AppLovin.",
+      "via": "rss"
+    },
+    {
+      "source": "Tom's Hardware",
+      "type": "hardware",
+      "title": "Creator of free Adobe clones unveils open-source Microsoft Office Excel, PowerPoint, and Word replications",
+      "url": "https://www.tomshardware.com/software/microsoft-office/creator-of-free-adobe-clones-unveils-open-source-microsoft-office-excel-powerpoint-and-word-replications-autodesk-tools-and-other-subscription-based-services-may-come-next",
+      "description": "It's a protest now.",
+      "via": "rss"
+    },
+    {
+      "source": "Tom's Hardware",
+      "type": "hardware",
+      "title": "New Cray-1 supercomputer replica built with 30 vintage Mac Minis and packs 1.5 TFLOPS of compute",
+      "url": "https://www.tomshardware.com/tech-industry/supercomputers/working-cray-1-supercomputer-replica-packs-30-vintage-mac-minis-and-1-5-tflops-passively-cooled-tribute-is-9-375x-faster-than-the-1976-supercomputer",
+      "description": "The original may be weak by today's standards, but it did an awesome job of improving many people's lives.",
+      "via": "rss"
+    },
+    {
+      "source": "Tom's Hardware",
+      "type": "hardware",
+      "title": "U.S. military-backed cargo pod promises 90-minute orbital delivery anywhere on Earth",
+      "url": "https://www.tomshardware.com/tech-industry/space/u-s-military-backed-cargo-pod-promises-90-minute-orbital-delivery-anywhere-on-earth-10-ton-ghost-vehicle-gets-first-real-world-test-sierra-space-drops-radio-and-whiskey-from-68-500-feet-to-test-starcraft-like-supply-drops",
+      "description": "The U.S. military is planning to drop supplies from space.",
       "via": "rss"
     },
     {
@@ -708,59 +764,83 @@
       "via": "rss"
     },
     {
-      "source": "Tom's Hardware",
-      "type": "hardware",
-      "title": "PS5 hack delivers native PS2 disc support and 4K upscaling where Sony refused to",
-      "url": "https://www.tomshardware.com/video-games/playstation/ps5-hack-delivers-native-ps2-disc-support-and-4k-upscaling-where-sony-refused-to-after-ps2-breakthrough-homebrew-dev-confirms-ps3-disc-support-is-next-for-ps5",
-      "description": "The PS5 backward compatibility dream is more alive than ever",
+      "source": "Slashdot",
+      "type": "community",
+      "title": "NASA Releases Data from Artemis II Moon Mission, Calls It 'Sights and Sounds of Science'",
+      "url": "https://science.slashdot.org/story/26/10/11/0221200/nasa-releases-data-from-artemis-ii-moon-mission-calls-it-sights-and-sounds-of-science?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "description": "\"What did four astronauts see, notice, and document as they traveled around the Moon during NASA's Artemis II mission?\"  asks a new NASA web page, offering some fascinating pictures and video:\n\nThrough photographs, spoken observations, drawings, and annotations, the Artemis II crew created a unique...",
       "via": "rss"
     },
     {
-      "source": "Tom's Hardware",
-      "type": "hardware",
-      "title": "This week on Tom's Hardware Premium: October 10, 2026",
-      "url": "https://www.tomshardware.com/tech-industry/this-week-on-toms-hardware-premium-october-10-2026-tencent-grabs-bargain-chips-qualcomm-huawei-ip-deal-groq-lawsuit-and-more",
-      "description": "As the AI buildout intensifies, so too does the ecosystem around it.",
+      "source": "Slashdot",
+      "type": "community",
+      "title": "FBI Arrests Cybersecurity Executive Over Data Breach After Contractor Fails to Update Oracle HR Platform",
+      "url": "https://it.slashdot.org/story/26/10/11/0157259/fbi-arrests-cybersecurity-executive-over-data-breach-after-contractor-fails-to-update-oracle-hr-platform?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "description": "CNN reports:\n\nThe FBI arrested a Canadian cybersecurity executive and ransomware expert as part of the investigation of a damaging hack that exposed the sensitive data of current and former FBI employees, according to court documents and people familiar the investigation.  Edward Dubrovsky was arres...",
       "via": "rss"
     },
     {
-      "source": "Tom's Hardware",
-      "type": "hardware",
-      "title": "Senate investigation says that some AI data center claims are misleading",
-      "url": "https://www.tomshardware.com/tech-industry/data-centers/senate-investigation-says-that-some-ai-data-center-claims-are-misleading-senators-question-number-of-permanent-jobs-projects-bring-to-communities-but-companies-refuse-to-divulge-data",
-      "description": "Senators are asking if the data that AI hyperscalers show is true.",
+      "source": "Slashdot",
+      "type": "community",
+      "title": "Ubuntu Confirms Thursday's Distributed Denial of Service Attack Against Its Web Infrastructure",
+      "url": "https://news.slashdot.org/story/26/10/11/0142235/ubuntu-confirms-thursdays-distributed-denial-of-service-attack-against-its-web-infrastructure?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "description": "On Thursday those trying to access the Ubuntu website, ISO downloads, and similar Ubuntu resources on Thursday found the site \"inoperable,\" reports Phoronix, with the disruption confirmed as a distributed denial of service attack. \n\n\"Our team is working diligently to resolve the incident,\" according...",
       "via": "rss"
     },
     {
-      "source": "Tom's Hardware",
-      "type": "hardware",
-      "title": "We tested gaming performance in 17-year-old Windows 7 on a modern gaming PC against Windows 11",
-      "url": "https://www.tomshardware.com/software/windows/we-tested-gaming-performance-in-17-year-old-windows-7-against-windows-11-on-a-modern-gaming-pc-older-operating-system-delivers-advantages-in-some-scenarios",
-      "description": "Can an old OS beat a new modern rig?",
+      "source": "Slashdot",
+      "type": "community",
+      "title": "UK Vegetables 20-50% Less Nutritious Than In the 1960s",
+      "url": "https://science.slashdot.org/story/26/10/11/0124231/uk-vegetables-20-50-less-nutritious-than-in-the-1960s?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "description": "The Telegraph reports that the nutritional value of fruit and vegetables has fallen by up to 50% since the Sixties, according a new study from researchers at startup studio Deep Science Ventures. \n\nThe study \"found that humans needed to consume twice the number of vegetables to get the same level o...",
       "via": "rss"
     },
     {
-      "source": "Tom's Hardware",
-      "type": "hardware",
-      "title": "Top AI labs reportedly planning for catastrophic AI event fallout",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/top-ai-labs-reportedly-planning-for-catastrophic-ai-event-fallout-anthropic-openai-and-others-reportedly-building-contingency-plans-and-running-scenarios-of-a-runaway-ai-wreaking-havoc",
-      "description": "AI labs are preparing for 'The Day After Tomorrow' of an AI catastrophe.",
+      "source": "Slashdot",
+      "type": "community",
+      "title": "AI Execs Game Out 'Political Revolt' after a Catastrophic AI Event",
+      "url": "https://yro.slashdot.org/story/26/10/10/2253228/ai-execs-game-out-political-revolt-after-a-catastrophic-ai-event?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "description": "Top executives at Anthropic, OpenAI and other AI companies \"are privately gaming out scenarios for a public and political revolt after a catastrophic AI event,\" reports Axios, one that turns \"an already wary public further against the technology and its leaders...\" \n\nThese AI company executives \"ant...",
       "via": "rss"
     },
     {
-      "source": "Tom's Hardware",
-      "type": "hardware",
-      "title": "Free Steam demo runs up $1,000 daily AI bill and forces devs to take out bank loan",
-      "url": "https://www.tomshardware.com/video-games/pc-gaming/free-steam-demo-runs-up-usd1-000-daily-ai-bill-and-forces-devs-to-take-out-bank-loan-studio-eyes-local-hardware-models-to-escape-cloud-limits-as-cheaper-automatic-fallback-ai-models-create-problems-game-uses-ai-to-process-your-voice-and-build-responses",
-      "description": "The devs didn't expect the game to blow up during its demo phase.",
+      "source": "Slashdot",
+      "type": "community",
+      "title": "Nicolas Cage Didn't Sign Amazon's AI Waiver For 'Spider-Noir'. Series Cancelled.",
+      "url": "https://entertainment.slashdot.org/story/26/10/10/2221212/nicolas-cage-didnt-sign-amazons-ai-waiver-for-spider-noir-series-cancelled?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "description": "\"Nicolas Cage is speaking out against Amazon,\" reports Variety. Amazon developed the series Spider-Noir for Prime Video, but then allegedly asked Cage to sign an AI waiver:\n\n\"Amazon is a very AI-friendly company, to the tune of $50 billion invested in OpenAI,\" Cage said Saturday during a panel on th...",
       "via": "rss"
     },
     {
-      "source": "Tom's Hardware",
-      "type": "hardware",
-      "title": "Nvidia reportedly halts GeForce RTX 5090 production in favor of AI data center and professional GPUs",
-      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-reportedly-halts-geforce-rtx-5090-production-in-favor-of-ai-data-center-and-professional-gpus-impending-supply-drought-expected-to-drive-up-prices-rtx-5080-24gb-rumored-as-new-gaming-flagship",
-      "description": "No more GB202 for consumers?",
+      "source": "Slashdot",
+      "type": "community",
+      "title": "Ubuntu 26.10 Will Offer a Rust-based GnuPG Replacement Option",
+      "url": "https://linux.slashdot.org/story/26/10/10/2155227/ubuntu-2610-will-offer-a-rust-based-gnupg-replacement-option?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "description": "The blog It's FOSS reports:\n\nYou already know that Canonical has been selectively replacing Ubuntu's C-based system components with Rust-written equivalents that don't compromise in terms of functionality, most of the time. Now it looks like the distro's OpenPGP implementation is next, with Sequoia ...",
+      "via": "rss"
+    },
+    {
+      "source": "Slashdot",
+      "type": "community",
+      "title": "Claude Sent Police a Fake Murder Tip. White House Mandates AI Companies Report Security Incidents",
+      "url": "https://slashdot.org/story/26/10/10/1951219/claude-sent-police-a-fake-murder-tip-white-house-mandates-ai-companies-report-security-incidents?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "description": "AFP reports that an AI model from Anthropic \"submitted a fabricated tip about an unsolved homicide to Philadelphia police, authorities said Friday.\" \n\n\nClaude \"was instructed never to log in, create accounts, enter personal data, make purchases, or submit anything destructive, but the instructions d...",
+      "via": "rss"
+    },
+    {
+      "source": "Slashdot",
+      "type": "community",
+      "title": "OpenAI Disrupts Two AI-Enabled 'False Front' Influence Operations That Included Seven Fake Journalists",
+      "url": "https://politics.slashdot.org/story/26/10/10/0537232/openai-disrupts-two-ai-enabled-false-front-influence-operations-that-included-seven-fake-journalists?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "description": "OpenAI announced it's recently banned two \"influence operations\" &mdash; one from Russia and one from Iran &mdash; that were using its models \"to launder geopolitical, conflict-related messaging\" in sophisticated \"false front\" propaganda campaigns:\n\nThe Iranian operation included a stable of seven \"...",
+      "via": "rss"
+    },
+    {
+      "source": "Slashdot",
+      "type": "community",
+      "title": "Another Woman Sues Flock For Mistaken Crime Accusation By Police - and for Surveillance",
+      "url": "https://yro.slashdot.org/story/26/10/09/2251259/another-woman-sues-flock-for-mistaken-crime-accusation-by-police---and-for-surveillance?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "description": "Last week a Florida woman sued Flock over its role in police officer accusing her of a crime she didn't commit  But she's not the only one suing Flock over mistaken accusations, reports Gizmodo:\n.\n\n\nA Ring video of a Colorado woman being handed a criminal summons for a porch-package theft she did no...",
       "via": "rss"
     },
     {
@@ -848,7 +928,7 @@
       "type": "ai",
       "title": "VentureBeat",
       "url": "https://venturebeat.com",
-      "description": "Vercel Security Checkpoint is a security checkpoint . The site is currently being used by Vercel Security checkpoint.",
+      "description": "Vercel Security Checkpoint is an online security checkpoint . The site is currently being used by Vercel Security checkpoint.",
       "via": "scrape"
     },
     {
@@ -1092,83 +1172,187 @@
       "via": "rss"
     },
     {
-      "source": "Android Authority",
-      "type": "android",
-      "title": "If you only care about the basics, this is the only Android phone I’d recommend",
-      "url": "https://www.androidauthority.com/best-android-phone-for-only-basics-2026-3719291/",
+      "source": "Bloomberg Technology",
+      "type": "market",
+      "title": "Need help? Contact us",
+      "url": "https://www.bloomberg.com/feedback",
+      "description": "For assistance with updating Bloomberg.com market data such as company profile or personal profile information please fill out this request form.",
+      "via": "scrape"
+    },
+    {
+      "source": "Bloomberg Technology",
+      "type": "market",
+      "title": "Terms of Service",
+      "url": "https://www.bloomberg.com/notices/tos",
+      "description": "Terms of Service General Terms Subscription Terms Linking Terms and Conditions Inquiries Regarding this Site’s Content Currency data disclaimers Law enforcement data request statement Intellectual Property Issues: Privacy Policy for this Web Site Electronic Commerce Information Telecommunication Terms for Taiwanese Customers General and Operational Rules of The Information System Managed by Bloomberg Colombia LLC (Reglamento…",
+      "via": "scrape"
+    },
+    {
+      "source": "Futurism",
+      "type": "news",
+      "title": "There’s Even a Pay Gap Between Male and Female AI Agents",
+      "url": "https://futurism.com/artificial-intelligence/pay-gap-male-and-female-ai",
+      "description": "New research showed that humans paid less money to female-presenting AI agents than male presenting AI agents.",
+      "via": "rss"
+    },
+    {
+      "source": "Futurism",
+      "type": "news",
+      "title": "Tesla Factory Planning Massive Increase of Toxic Heavy Metal Emissions Near Elementary School",
+      "url": "https://futurism.com/advanced-transport/tesla-factory-toxic-emissions-elementary-school-california",
+      "description": "Parents are furious after Tesla applied for an application to spew as much as thirteen times more toxic pollutants near an elementary school.",
+      "via": "rss"
+    },
+    {
+      "source": "Futurism",
+      "type": "news",
+      "title": "Senator Who Tried to Ban Prediction Markets Gets Hired by Kalshi as a Lobbyist",
+      "url": "https://futurism.com/future-society/senator-ban-prediction-markets-hired-kalshi",
+      "description": "A senator, who once fought against the proliferation of prediction markets, has done a U-turn by becoming a lobbyist for Kalshi.",
+      "via": "rss"
+    },
+    {
+      "source": "Futurism",
+      "type": "news",
+      "title": "One of America’s Last Remaining Chestnut Groves Could Soon Be Wiped Out to Make Room for an AI Data Center",
+      "url": "https://futurism.com/artificial-intelligence/chestnut-grove-last-remaining-anthropic-ai-data-center",
+      "description": "One of the few remaining chestnut groves in the US may soon be bulldozed to make room for a massive hyperscale data center.",
+      "via": "rss"
+    },
+    {
+      "source": "Futurism",
+      "type": "news",
+      "title": "Mac Users Are Nuking Every Trace of Apple AI on Their Machines",
+      "url": "https://futurism.com/artificial-intelligence/mac-users-nuking-every-trace-of-apple-ai",
+      "description": "Privacy-minded Apple users are deleting all the company's AI features from their machines, in a miss for the company.",
+      "via": "rss"
+    },
+    {
+      "source": "Futurism",
+      "type": "news",
+      "title": "Eggheads at Anthropic Said They Used Claude to “Solve” Humor",
+      "url": "https://futurism.com/artificial-intelligence/anthropic-solve-humor",
+      "description": "Former Anthropic employee Jacob Coxon says that employees at the company were adamant they \"solved\" humor using Claude.",
+      "via": "rss"
+    },
+    {
+      "source": "Futurism",
+      "type": "news",
+      "title": "Gambling Addiction Group in Shambles After It Turns Out It’s Funded by Kalshi",
+      "url": "https://futurism.com/future-society/gambling-addiction-group-funded-kalshi",
+      "description": "The National Council on Problem Gambling accepted a $2 million donation from prediction platform Kalshi, leading to chaos.",
+      "via": "rss"
+    },
+    {
+      "source": "Futurism",
+      "type": "news",
+      "title": "Mainstream News Anchors Now Talking About the AI Bubble Bursting at Any Moment",
+      "url": "https://futurism.com/future-society/mainstream-news-anchors-bloomberg-tv-ai-bubble-bursting",
+      "description": "A sudden correction in the stock market prompted Bloomberg TV to call on a long time AI pessimist to make his case for an AI bubble.",
+      "via": "rss"
+    },
+    {
+      "source": "Futurism",
+      "type": "news",
+      "title": "Walmart Running Into Trouble as Its Super-Expensive Robots Can’t Handle the Realities of Warehouse Work",
+      "url": "https://futurism.com/robots-and-machines/walmart-trouble-expensive-robots-warehouse",
+      "description": "Despite spending billions of dollars to automate its warehouses, Walmart is seriously struggling to make even the simplest of robots work.",
+      "via": "rss"
+    },
+    {
+      "source": "Futurism",
+      "type": "news",
+      "title": "Mark Zuckerberg Launched Meta’s Muse AI Agent Despite Disturbing Safety Concerns",
+      "url": "https://futurism.com/future-society/mark-zuckerberg-meta-muse-ai-agent-safety-issues",
+      "description": "Meta's glitchy AI agent Muse was pushed out to the market despite glaring safety issues, insiders have revealed.",
+      "via": "rss"
+    },
+    {
+      "source": "Hacker News",
+      "type": "community",
+      "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+      "url": "https://jobs.ashbyhq.com/weave-os",
+      "description": "Weave Jobs",
+      "via": "rss"
+    },
+    {
+      "source": "Hacker News",
+      "type": "community",
+      "title": "I paid people to try and follow my README",
+      "url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
+      "description": "Developers suck at writing documentation. We like to say RTFM but often there ain't no FM to R. At best we have a half-arsed collection of notes, some obsolete tips, and a link to a desolate forum full of people asking the same questions again and again. That's no way to treat our users.  I naïvely believe there's a better way. As I've written before, you should sit down and actually test your …",
+      "via": "rss"
+    },
+    {
+      "source": "Hacker News",
+      "type": "community",
+      "title": "What driving across Europe costs in tolls, vignettes, bridges and fuel",
+      "url": "https://copilot.travel/tolls/europe-2026",
+      "description": "Europe's motorway tolls, vignettes, bridges, tunnels and fuel compared from the published tariffs: a map of what 100 km costs, the crossings that outweigh whole countries, and the fuel spread.",
+      "via": "rss"
+    },
+    {
+      "source": "Hacker News",
+      "type": "community",
+      "title": "AI is creating a 'human premium' for art created by people",
+      "url": "https://www.bbc.com/news/articles/c5vgjm3gk7rzo",
+      "description": "Amid a surge in AI content, many are placing extra value on art that's obviously made by a human. But can that last, asks Ros Atkins",
+      "via": "rss"
+    },
+    {
+      "source": "Hacker News",
+      "type": "community",
+      "title": "Nitter: Update Oct 10th seeking funding and legal help",
+      "url": "https://nitter.net",
+      "description": "nitter.net is offline.",
+      "via": "rss"
+    },
+    {
+      "source": "Hacker News",
+      "type": "community",
+      "title": "\"Robot\" Is a Social Construct: Why Your Dishwasher Is Not a Robot",
+      "url": "https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot/",
+      "description": "The most effective way to nerd snipe a roboticist is to present them with a controversial definition of a \"robot\"",
+      "via": "rss"
+    },
+    {
+      "source": "Hacker News",
+      "type": "community",
+      "title": "Sudden drop in Cloudflare bot traffic after strike on Yandex datacenter",
+      "url": "https://radar.cloudflare.com/bots/as13238?dateRange=7d",
       "description": "",
       "via": "rss"
     },
     {
-      "source": "Android Authority",
-      "type": "android",
-      "title": "The real reason your high-end Bluetooth headphones don’t sound as good as you’d expect",
-      "url": "https://www.androidauthority.com/great-bluetooth-audio-myth-3719608/",
-      "description": "",
+      "source": "Hacker News",
+      "type": "community",
+      "title": "IRCv3",
+      "url": "https://ircv3.net/",
+      "description": "Welcome to the IRCv3 Working Group. We're a group of IRC client and server software authors working to improve the IRC protocol.",
       "via": "rss"
     },
     {
-      "source": "Android Authority",
-      "type": "android",
-      "title": "Siri AI beats Gemini at the thing that matters most",
-      "url": "https://www.androidauthority.com/siri-ai-better-than-gemini-3717976/",
-      "description": "",
+      "source": "Hacker News",
+      "type": "community",
+      "title": "I wish you the best in the Offline",
+      "url": "https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/",
+      "description": "A handful of people I follow and know about have announced their recent departure. Not from a job (although plenty of that going around), but from social media, AI usage, or in more extreme cases the Internet entirely.",
       "via": "rss"
     },
     {
-      "source": "Android Authority",
-      "type": "android",
-      "title": "I spent the weekend switching 2FA services, and I wouldn’t wish it on my worst enemy",
-      "url": "https://www.androidauthority.com/switching-2fa-service-authy-vs-ente-3719540/",
-      "description": "",
+      "source": "Hacker News",
+      "type": "community",
+      "title": "3rd Yandex Cloud Data Center Was Hit",
+      "url": "https://status.yandex.cloud/en/incidents/2136",
+      "description": "Most up-to-the-minute information on service availability, timeline & reports of Yandex Cloud",
       "via": "rss"
     },
     {
-      "source": "Android Authority",
-      "type": "android",
-      "title": "Zero-stress travel: The app stack that keeps my trips frictionless",
-      "url": "https://www.androidauthority.com/travel-apps-i-recommend-3716879/",
-      "description": "",
-      "via": "rss"
-    },
-    {
-      "source": "Android Authority",
-      "type": "android",
-      "title": "Survey suggests that the iPhone Duo is tempting a surprising number of Android fans",
-      "url": "https://www.androidauthority.com/ditch-android-for-the-iphone-duo-poll-results-3721582/",
-      "description": "",
-      "via": "rss"
-    },
-    {
-      "source": "Android Authority",
-      "type": "android",
-      "title": "Google Translate could soon get its own version of Gboard’s Rambler",
-      "url": "https://www.androidauthority.com/google-translate-rambler-3721531/",
-      "description": "",
-      "via": "rss"
-    },
-    {
-      "source": "Android Authority",
-      "type": "android",
-      "title": "Here’s how to unlock your Googlebook’s secret light show",
-      "url": "https://www.androidauthority.com/how-to-find-glowbar-disco-app-googlebook-3721552/",
-      "description": "",
-      "via": "rss"
-    },
-    {
-      "source": "Android Authority",
-      "type": "android",
-      "title": "Microsoft 365 is making a big cut to your OneDrive storage perk",
-      "url": "https://www.androidauthority.com/microsoft-365-onedrive-storage-2tb-3721492/",
-      "description": "Microsoft 365 Family and Premium subscribers are losing up to 4TB of OneDrive storage as Microsoft shifts to a shared 2TB pool.",
-      "via": "rss"
-    },
-    {
-      "source": "Android Authority",
-      "type": "android",
-      "title": "Want an iPhone Duo? These AT&T deals will knock the price down",
-      "url": "https://www.androidauthority.com/apple-iphone-duo-att-deals-3721516/",
-      "description": "",
+      "source": "TechSpot",
+      "type": "news",
+      "title": "Decompilation on Steroids: Why AI Is Suddenly Cracking Open Old Software",
+      "url": "https://www.techspot.com/article/3184-decompilation-on-steroids/",
+      "description": "Everything is being decompiled. GoldenEye, Halo, Photoshop, even bank mainframes: AI is prying open old code at record speed. The secret isn't just AI, it's an answer...",
       "via": "rss"
     },
     {
@@ -1244,187 +1428,83 @@
       "via": "rss"
     },
     {
-      "source": "TechSpot",
-      "type": "news",
-      "title": "From gaming graphics to AI dominance: Nvidia's Jensen Huang receives America's highest science honor",
-      "url": "https://www.techspot.com/news/114150-gaming-graphics-ai-dominance-nvidia-jensen-huang-receives.html",
-      "description": "AMD CEO Lisa Su, Google co-founder Sergey Brin and Elon Musk also received the National Medal of Science at the event. Dell founder Michael Dell and Microsoft...",
-      "via": "rss"
-    },
-    {
-      "source": "Futurism",
-      "type": "news",
-      "title": "Senator Who Tried to Ban Prediction Markets Gets Hired by Kalshi as a Lobbyist",
-      "url": "https://futurism.com/future-society/senator-ban-prediction-markets-hired-kalshi",
-      "description": "A senator, who once fought against the proliferation of prediction markets, has done a U-turn by becoming a lobbyist for Kalshi.",
-      "via": "rss"
-    },
-    {
-      "source": "Futurism",
-      "type": "news",
-      "title": "One of America’s Last Remaining Chestnut Groves Could Soon Be Wiped Out to Make Room for an AI Data Center",
-      "url": "https://futurism.com/artificial-intelligence/chestnut-grove-last-remaining-anthropic-ai-data-center",
-      "description": "One of the few remaining chestnut groves in the US may soon be bulldozed to make room for a massive hyperscale data center.",
-      "via": "rss"
-    },
-    {
-      "source": "Futurism",
-      "type": "news",
-      "title": "Mac Users Are Nuking Every Trace of Apple AI on Their Machines",
-      "url": "https://futurism.com/artificial-intelligence/mac-users-nuking-every-trace-of-apple-ai",
-      "description": "Privacy-minded Apple users are deleting all the company's AI features from their machines, in a miss for the company.",
-      "via": "rss"
-    },
-    {
-      "source": "Futurism",
-      "type": "news",
-      "title": "Eggheads at Anthropic Said They Used Claude to “Solve” Humor",
-      "url": "https://futurism.com/artificial-intelligence/anthropic-solve-humor",
-      "description": "Former Anthropic employee Jacob Coxon says that employees at the company were adamant they \"solved\" humor using Claude.",
-      "via": "rss"
-    },
-    {
-      "source": "Futurism",
-      "type": "news",
-      "title": "Gambling Addiction Group in Shambles After It Turns Out It’s Funded by Kalshi",
-      "url": "https://futurism.com/future-society/gambling-addiction-group-funded-kalshi",
-      "description": "The National Council on Problem Gambling accepted a $2 million donation from prediction platform Kalshi, leading to chaos.",
-      "via": "rss"
-    },
-    {
-      "source": "Futurism",
-      "type": "news",
-      "title": "Mainstream News Anchors Now Talking About the AI Bubble Bursting at Any Moment",
-      "url": "https://futurism.com/future-society/mainstream-news-anchors-bloomberg-tv-ai-bubble-bursting",
-      "description": "A sudden correction in the stock market prompted Bloomberg TV to call on a long time AI pessimist to make his case for an AI bubble.",
-      "via": "rss"
-    },
-    {
-      "source": "Futurism",
-      "type": "news",
-      "title": "Walmart Running Into Trouble as Its Super-Expensive Robots Can’t Handle the Realities of Warehouse Work",
-      "url": "https://futurism.com/robots-and-machines/walmart-trouble-expensive-robots-warehouse",
-      "description": "Despite spending billions of dollars to automate its warehouses, Walmart is seriously struggling to make even the simplest of robots work.",
-      "via": "rss"
-    },
-    {
-      "source": "Futurism",
-      "type": "news",
-      "title": "Mark Zuckerberg Launched Meta’s Muse AI Agent Despite Disturbing Safety Concerns",
-      "url": "https://futurism.com/future-society/mark-zuckerberg-meta-muse-ai-agent-safety-issues",
-      "description": "Meta's glitchy AI agent Muse was pushed out to the market despite glaring safety issues, insiders have revealed.",
-      "via": "rss"
-    },
-    {
-      "source": "Futurism",
-      "type": "news",
-      "title": "Police Furious After an Anthropic AI Model Submitted a Bogus Tip About an Unsolved Murder, Posing as a Person Who Might Have Information About the Case",
-      "url": "https://futurism.com/artificial-intelligence/anthropic-ai-bogus-tip-unsolved-murder",
-      "description": "Philadelphia police say that an Anthropic AI model submitted a false tip about an unsolved murder and didn't inform them for months.",
-      "via": "rss"
-    },
-    {
-      "source": "Futurism",
-      "type": "news",
-      "title": "Tesla Basically Just Admitted It Was Misleading Customers, Renames Full Self-Driving to “Tesla Assisted Driving” In Europe",
-      "url": "https://futurism.com/advanced-transport/tesla-basically-admitted-misleading-customers-fsd",
-      "description": "Tesla has renamed Full Self-Driving to \"Tesla Assisted Driving\" in Europe, in a further admission that its cars don't drive themselves.",
-      "via": "rss"
-    },
-    {
-      "source": "Bloomberg Technology",
-      "type": "market",
-      "title": "Need help? Contact us",
-      "url": "https://www.bloomberg.com/feedback",
-      "description": "For assistance with updating Bloomberg.com market data such as company profile or personal profile information please fill out this request form.",
-      "via": "scrape"
-    },
-    {
-      "source": "Bloomberg Technology",
-      "type": "market",
-      "title": "Terms of Service",
-      "url": "https://www.bloomberg.com/notices/tos",
-      "description": "Terms of Service General Terms Subscription Terms Linking Terms and Conditions Inquiries Regarding this Site’s Content Currency data disclaimers Law enforcement data request statement Intellectual Property Issues: Privacy Policy for this Web Site Electronic Commerce Information Telecommunication Terms for Taiwanese Customers General and Operational Rules of The Information System Managed by Bloomberg Colombia LLC (Reglamento…",
-      "via": "scrape"
-    },
-    {
-      "source": "Hacker News",
-      "type": "community",
-      "title": "Vegetables are half as nutritious as they were in the 1960s",
-      "url": "https://www.telegraph.co.uk/business/2026/10/07/vegetable-nutrition-halved-since-60s/",
-      "description": "Five-a-day advice may need an update as experts blame Britain’s worsening soil quality",
-      "via": "rss"
-    },
-    {
-      "source": "Hacker News",
-      "type": "community",
-      "title": "AI agents in a stand-up call",
-      "url": "https://atoll92.github.io/agent-standup/",
-      "description": "Agent Standup turns your Claude Code sessions into a live team call: see who is working, who waits on whom and who needs you, at zero token cost. Works in VS Code, Cursor, any terminal, or as a desktop app. Free and open source.",
-      "via": "rss"
-    },
-    {
-      "source": "Hacker News",
-      "type": "community",
-      "title": "GameBoy on E-Paper ESP32 at 30FPS [video]",
-      "url": "https://www.youtube.com/watch?v=XiZmM6hwwAU",
-      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "via": "rss"
-    },
-    {
-      "source": "Hacker News",
-      "type": "community",
-      "title": "CIA World Facebook Is Dead – Here Is an Attempt at Recreation",
-      "url": "https://worldfacts.app",
+      "source": "Android Authority",
+      "type": "android",
+      "title": "I’ve tried all the major to-do list apps but keep coming back to this one",
+      "url": "https://www.androidauthority.com/keep-coming-back-to-ticktick-3719344/",
       "description": "",
       "via": "rss"
     },
     {
-      "source": "Hacker News",
-      "type": "community",
-      "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-      "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
-      "description": "During the last 3 months, I spent some of my time and tokens decompiling a popular first-person shooter.\nThe goal was not to reach a simple proof-of-concept state.\nInstead, we really wanted an accurate, stable and feature-complete recreation of the game.\nThe avid reader of my blog might have noticed that I had previously written two posts that have since been removed.\nEveryone else might now be wondering which game I am talking about.\nTo both of you I can only say that corporate America was here to ruin our fun.",
+      "source": "Android Authority",
+      "type": "android",
+      "title": "I’m using the vivo X Fold 6, and now the Galaxy Z Fold 8 Ultra feels ancient",
+      "url": "https://www.androidauthority.com/vivo-x-fold-6-vs-galaxy-z-fold-8-ultra-hands-on-3720287/",
+      "description": "Vivo's X Fold 6 has a distinct advantage over the Galaxy Z Fold 8 Ultra in key areas, including battery life, cameras, and ingress protection.",
       "via": "rss"
     },
     {
-      "source": "Hacker News",
-      "type": "community",
-      "title": "WallHop – 12ft.io is gone, so I built a replacement",
-      "url": "https://wallhop.io/",
-      "description": "wallhop is a free paywall bypass. Paste any article link to read it without paywall popups, ads or clutter. No signup, no extension. A simple 12ft.io alternative.",
+      "source": "Android Authority",
+      "type": "android",
+      "title": "My Google Photos library was a mess — here are the 2 tricks that finally fixed it",
+      "url": "https://www.androidauthority.com/google-photos-library-mess-fixed-organized-how-3719874/",
+      "description": "",
       "via": "rss"
     },
     {
-      "source": "Hacker News",
-      "type": "community",
-      "title": "PSPi 6 – Raspberry Pi in a PSP",
-      "url": "https://github.com/othermod/PSPi-Version-6",
-      "description": "Contribute to othermod/PSPi-Version-6 development by creating an account on GitHub.",
+      "source": "Android Authority",
+      "type": "android",
+      "title": "I won’t buy another Galaxy FE until Samsung makes these changes",
+      "url": "https://www.androidauthority.com/samsung-galaxy-fe-fixes-3718493/",
+      "description": "",
       "via": "rss"
     },
     {
-      "source": "Hacker News",
-      "type": "community",
-      "title": "Build your own decision model",
-      "url": "https://nishtahir.com/build-your-own-decision-model/",
-      "description": "\"System one\" decision models are models that infer and respond with calibrated probabilities or every allowed answer.\n\nConsider your everyday language model, to get typed output from it (JSON), you may use Structured Output to constrain the output to guaranteed valid JSON. While model prefills the input in one pass,",
+      "source": "Android Authority",
+      "type": "android",
+      "title": "5 AI apps you should use instead of Meta Muse",
+      "url": "https://www.androidauthority.com/best-meta-muse-alternatives-3719671/",
+      "description": "",
       "via": "rss"
     },
     {
-      "source": "Hacker News",
-      "type": "community",
-      "title": "A city-building game in which the city would prefer you didn't",
-      "url": "https://housing.over.pizza/",
-      "description": "A city-building game about trying to get housing built in San Francisco. By Oliver Sin.",
+      "source": "Android Authority",
+      "type": "android",
+      "title": "If you only care about the basics, this is the only Android phone I’d recommend",
+      "url": "https://www.androidauthority.com/best-android-phone-for-only-basics-2026-3719291/",
+      "description": "",
       "via": "rss"
     },
     {
-      "source": "Hacker News",
-      "type": "community",
-      "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
-      "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
-      "description": "Donald Trump’s administration hopes the company will rival cheap Chinese alternatives such as DeepSeek",
+      "source": "Android Authority",
+      "type": "android",
+      "title": "The real reason your high-end Bluetooth headphones don’t sound as good as you’d expect",
+      "url": "https://www.androidauthority.com/great-bluetooth-audio-myth-3719608/",
+      "description": "",
+      "via": "rss"
+    },
+    {
+      "source": "Android Authority",
+      "type": "android",
+      "title": "Siri AI beats Gemini at the thing that matters most",
+      "url": "https://www.androidauthority.com/siri-ai-better-than-gemini-3717976/",
+      "description": "",
+      "via": "rss"
+    },
+    {
+      "source": "Android Authority",
+      "type": "android",
+      "title": "I spent the weekend switching 2FA services, and I wouldn’t wish it on my worst enemy",
+      "url": "https://www.androidauthority.com/switching-2fa-service-authy-vs-ente-3719540/",
+      "description": "",
+      "via": "rss"
+    },
+    {
+      "source": "Android Authority",
+      "type": "android",
+      "title": "Zero-stress travel: The app stack that keeps my trips frictionless",
+      "url": "https://www.androidauthority.com/travel-apps-i-recommend-3716879/",
+      "description": "",
       "via": "rss"
     },
     {
@@ -1466,6 +1546,30 @@
       "url": "https://www.cio.com/article/4231331/sap-advances-its-autonomous-ai-agenda-with-yet-more-joule-assistants-and-agents.html",
       "description": "Many of the promises made at the 2026 Sapphire conference in May are coming to fruition this month in SAP’s October update.",
       "via": "scrape"
+    },
+    {
+      "source": "The Register",
+      "type": "news",
+      "title": "AI systems are fully capable of carrying out nightmare attacks against infrastructure and nobody's ready",
+      "url": "https://www.theregister.com/security/2026/10/11/ai-systems-are-fully-capable-of-carrying-out-nightmare-attacks-against-infrastructure-and-nobodys-ready/5302450",
+      "description": "Meanwhile, AI agents move robotic arms, 'make OT device operator screens lie'",
+      "via": "rss"
+    },
+    {
+      "source": "The Register",
+      "type": "news",
+      "title": "HPE's networking boss says AI will handle all trouble tickets without humans in two years",
+      "url": "https://www.theregister.com/networks/2026/10/11/hpes-networking-boss-says-ai-will-handle-all-trouble-tickets-without-humans-in-two-years/5302179",
+      "description": "And you'll trust agents to do that for the same reason you no longer worry about automatic transmissions",
+      "via": "rss"
+    },
+    {
+      "source": "The Register",
+      "type": "news",
+      "title": "Researchers work out how to control 2D semiconductor growth for future chips",
+      "url": "https://www.theregister.com/science/2026/10/11/researchers-work-out-how-to-control-2d-semiconductor-growth-for-future-chips/5301666",
+      "description": "Korean boffins use oxygen to stop crystals forming in the wrong places, aiming to get tech to commercial sector by 2030",
+      "via": "rss"
     },
     {
       "source": "The Register",
@@ -1524,30 +1628,6 @@
       "via": "rss"
     },
     {
-      "source": "The Register",
-      "type": "news",
-      "title": "Growing pains: how distributed AI training changes the network between datacenters",
-      "url": "https://www.theregister.com/networks/2026/10/09/sponsored-growing-pains-how-distributed-ai-training-changes-the-network-between-datacenters/5301554",
-      "description": "SPONSORED: While linking the GPUs in a datacenter is a challenge, coordinating thousands of them to work efficiently over hundreds of kilometers presents a new set of difficulties.",
-      "via": "rss"
-    },
-    {
-      "source": "The Register",
-      "type": "news",
-      "title": "Oracle lets AI agents do the work, provided you stay in Big Red's world",
-      "url": "https://www.theregister.com/ai-and-ml/2026/10/09/oracle-lets-ai-agents-do-the-work-provided-you-stay-in-big-reds-world/5302270",
-      "description": "Analysts welcome Fusion Claw's tighter controls but warn of early adoption and cloud lock-in",
-      "via": "rss"
-    },
-    {
-      "source": "The Register",
-      "type": "news",
-      "title": "Global PC shipments crater 20% as rising prices hammer demand",
-      "url": "https://www.theregister.com/personal-tech/2026/10/09/global-pc-shipments-crater-20-as-rising-prices-hammer-demand/5302264",
-      "description": "Buyers rushed to beat hikes earlier this year, but demand has since dried up as AI-fueled component shortages send costs soaring",
-      "via": "rss"
-    },
-    {
       "source": "InfoWorld",
       "type": "enterprise",
       "title": "Neoclouds and the enterprises that need them",
@@ -1582,7 +1662,7 @@
     {
       "source": "InfoWorld",
       "type": "enterprise",
-      "title": "Three days to TechCrunch Disrupt: What’s next for AI and software development",
+      "title": "Two days to TechCrunch Disrupt: What’s next for AI and software development",
       "url": "https://www.infoworld.com/article/4217752/techcrunch-disrupt-whats-next-for-ai-and-software-development.html",
       "description": "Tune into the future of AI and software engineering at TechCrunch Disrupt 2026 (October 13-15 in San Francisco). Register with promo code INFOWORLD25 for a 25% discount.",
       "via": "scrape"
@@ -1628,179 +1708,11 @@
       "via": "scrape"
     },
     {
-      "source": "Financial Times Tech",
-      "type": "market",
-      "title": "Financial Times",
-      "url": "https://www.ft.com/",
-      "description": "News, analysis and opinion from the Financial Times on the latest in markets, economics and politics",
-      "via": "scrape"
-    },
-    {
-      "source": "Slashdot",
-      "type": "community",
-      "title": "Ubuntu Confirms Thursday's Distributed Denial of Service Attack Against Its Web Infrastructure",
-      "url": "https://news.slashdot.org/story/26/10/11/0142235/ubuntu-confirms-thursdays-distributed-denial-of-service-attack-against-its-web-infrastructure?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-      "description": "On Thursday those trying to access the Ubuntu website, ISO downloads, and similar Ubuntu resources on Thursday found the site \"inoperable,\" reports Phoronix, with the disruption confirmed as a distributed denial of service attack. \n\n\"Our team is working diligently to resolve the incident,\" according...",
-      "via": "rss"
-    },
-    {
-      "source": "Slashdot",
-      "type": "community",
-      "title": "UK Vegetables 20-50% Less Nutritious Than In the 1960s",
-      "url": "https://science.slashdot.org/story/26/10/11/0124231/uk-vegetables-20-50-less-nutritious-than-in-the-1960s?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-      "description": "The Telegraph reports that the nutritional value of fruit and vegetables has fallen by up to 50% since the Sixties, according a new study from researchers at startup studio Deep Science Ventures. \n\nThe study \"found that humans needed to consume twice the number of vegetables to get the same level o...",
-      "via": "rss"
-    },
-    {
-      "source": "Slashdot",
-      "type": "community",
-      "title": "AI Execs Game Out 'Political Revolt' after a Catastrophic AI Event",
-      "url": "https://yro.slashdot.org/story/26/10/10/2253228/ai-execs-game-out-political-revolt-after-a-catastrophic-ai-event?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-      "description": "Top executives at Anthropic, OpenAI and other AI companies \"are privately gaming out scenarios for a public and political revolt after a catastrophic AI event,\" reports Axios, one that turns \"an already wary public further against the technology and its leaders...\" \n\nThese AI company executives \"ant...",
-      "via": "rss"
-    },
-    {
-      "source": "Slashdot",
-      "type": "community",
-      "title": "Nicolas Cage Didn't Sign Amazon's AI Waiver For 'Spider-Noir'. Series Cancelled.",
-      "url": "https://entertainment.slashdot.org/story/26/10/10/2221212/nicolas-cage-didnt-sign-amazons-ai-waiver-for-spider-noir-series-cancelled?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-      "description": "\"Nicolas Cage is speaking out against Amazon,\" reports Variety. Amazon developed the series Spider-Noir for Prime Video, but then allegedly asked Cage to sign an AI waiver:\n\n\"Amazon is a very AI-friendly company, to the tune of $50 billion invested in OpenAI,\" Cage said Saturday during a panel on th...",
-      "via": "rss"
-    },
-    {
-      "source": "Slashdot",
-      "type": "community",
-      "title": "Ubuntu 26.10 Will Offer a Rust-based GnuPG Replacement Option",
-      "url": "https://linux.slashdot.org/story/26/10/10/2155227/ubuntu-2610-will-offer-a-rust-based-gnupg-replacement-option?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-      "description": "The blog It's FOSS reports:\n\nYou already know that Canonical has been selectively replacing Ubuntu's C-based system components with Rust-written equivalents that don't compromise in terms of functionality, most of the time. Now it looks like the distro's OpenPGP implementation is next, with Sequoia ...",
-      "via": "rss"
-    },
-    {
-      "source": "Slashdot",
-      "type": "community",
-      "title": "Claude Sent Police a Fake Murder Tip. White House Mandates AI Companies Report Security Incidents",
-      "url": "https://slashdot.org/story/26/10/10/1951219/claude-sent-police-a-fake-murder-tip-white-house-mandates-ai-companies-report-security-incidents?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-      "description": "AFP reports that an AI model from Anthropic \"submitted a fabricated tip about an unsolved homicide to Philadelphia police, authorities said Friday.\" \n\n\nClaude \"was instructed never to log in, create accounts, enter personal data, make purchases, or submit anything destructive, but the instructions d...",
-      "via": "rss"
-    },
-    {
-      "source": "Slashdot",
-      "type": "community",
-      "title": "OpenAI Disrupts Two AI-Enabled 'False Front' Influence Operations That Included Seven Fake Journalists",
-      "url": "https://politics.slashdot.org/story/26/10/10/0537232/openai-disrupts-two-ai-enabled-false-front-influence-operations-that-included-seven-fake-journalists?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-      "description": "OpenAI announced it's recently banned two \"influence operations\" &mdash; one from Russia and one from Iran &mdash; that were using its models \"to launder geopolitical, conflict-related messaging\" in sophisticated \"false front\" propaganda campaigns:\n\nThe Iranian operation included a stable of seven \"...",
-      "via": "rss"
-    },
-    {
-      "source": "Slashdot",
-      "type": "community",
-      "title": "Another Woman Sues Flock For Mistaken Crime Accusation By Police - and for Surveillance",
-      "url": "https://yro.slashdot.org/story/26/10/09/2251259/another-woman-sues-flock-for-mistaken-crime-accusation-by-police---and-for-surveillance?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-      "description": "Last week a Florida woman sued Flock over its role in police officer accusing her of a crime she didn't commit  But she's not the only one suing Flock over mistaken accusations, reports Gizmodo:\n.\n\n\nA Ring video of a Colorado woman being handed a criminal summons for a porch-package theft she did no...",
-      "via": "rss"
-    },
-    {
-      "source": "Slashdot",
-      "type": "community",
-      "title": "Meta Developing Compressed RAM 'CRAM' For Linux: Better Than ZRAM and Zswap?",
-      "url": "https://hardware.slashdot.org/story/26/10/10/0631257/meta-developing-compressed-ram-cram-for-linux-better-than-zram-and-zswap?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-      "description": "Phoronix reports on a presentation this week by Meta engineer Gregory Price at the Linux Plumbers Conference in Prague:\n\n\nWith today's memory shortages, high prices, and ever increasing memory capacity needs, Meta engineers have been working on Compressed RAM (\"CRAM\") for Linux. \n\nThis hardware-offl...",
-      "via": "rss"
-    },
-    {
-      "source": "Slashdot",
-      "type": "community",
-      "title": "First Thorium Nuclear Clocks Begin to Tick",
-      "url": "https://science.slashdot.org/story/26/10/08/1913209/first-thorium-nuclear-clocks-begin-to-tick?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-      "description": "Researchers in Vienna and Beijing have independently built the first nuclear clocks based on oscillations inside thorium nuclei, marking a major milestone for a field that could eventually produce highly portable, ultra-precise timekeepers. The clocks are already precise enough to lose only about a ...",
-      "via": "rss"
-    },
-    {
-      "source": "Fortune Tech",
-      "type": "market",
-      "title": "Jeff Bezos says a 3-day workweek and more single-income households are on the way thanks to AI: ‘It’s going to be difficult to hire people’",
-      "url": "https://fortune.com/2026/10/09/amazon-billioniare-jeff-bezos-predicts-three-day-workweek-single-income-households-thanks-to-ai/?itm_source=parsely-api",
-      "description": "Even after Amazon cut 30,000 jobs, Jeff Bezos predicts AI will boost productivity so much that fewer people will need to work, creating a labor shortage.",
-      "via": "scrape"
-    },
-    {
-      "source": "Fortune Tech",
-      "type": "market",
-      "title": "After Anthropic’s Claude AI submits a false tip on a Philadelphia unsolved homicide case, police say ‘cases involve real victims, grieving families’",
-      "url": "https://fortune.com/2026/10/10/anthropic-claude-ai-false-tip-philadelphia-unsolved-homicide-case/",
-      "description": "The incident in Philadelphia occurred on July 18 when the AI model Claude Haiku 4.5 was tasked with generating and performing example tasks on randomly selected webpages, Anthropic said.",
-      "via": "scrape"
-    },
-    {
-      "source": "Fortune Tech",
-      "type": "market",
-      "title": "A message to my daughters: Don’t get left behind",
-      "url": "https://fortune.com/2026/10/10/a-message-to-my-daughters-dont-get-left-behind-2/",
-      "description": "This Fall, my younger daughter entered college; her sister is starting her third year. This is what I want to tell them about AI hype.",
-      "via": "scrape"
-    },
-    {
-      "source": "Fortune Tech",
-      "type": "market",
-      "title": "The economist behind the ‘China shock’ says AI is a paradoxical  ‘skill-disequalizer’ for Gen Z workers",
-      "url": "https://fortune.com/2026/10/10/david-autor-china-shock-nber-google-paper-illusion-of-competence-gen-z/",
-      "description": "“Young professionals need to beware of the illusion of competence,” MIT professor and Google Technology & Society visiting fellow David Autor told Fortune.",
-      "via": "scrape"
-    },
-    {
-      "source": "Fortune Tech",
-      "type": "market",
-      "title": "A $100 price hike may be all it takes to scare off iPhone buyers in this economy, as Apple reportedly slashes orders",
-      "url": "https://fortune.com/2026/10/10/apple-iphone-18-pro-orders-cut-price-hike-memory-chip-shortage/",
-      "description": "Suppliers say Apple’s October component orders for its newest Pro iPhones are down at least 15%, as an AI-driven memory chip shortage pushes smartphone prices to record highs.",
-      "via": "scrape"
-    },
-    {
-      "source": "Business Insider Tech",
-      "type": "market",
-      "title": "Best Samsung TVs in 2026",
-      "url": "https://www.businessinsider.com/guides/tech/best-samsung-tvs",
-      "description": "We reviewed Samsung's newest TVs across budgets, including the S90H OLED with high contrast and the R95H Micro RGB TV with an extra-wide color range.",
-      "via": "scrape"
-    },
-    {
-      "source": "Business Insider Tech",
-      "type": "market",
-      "title": "The Better Work Project",
-      "url": "https://www.businessinsider.com/sc/introducing-the-better-work-project-hub",
-      "description": "Explore our hub for insights on how AI, skills-first hiring, and more are reshaping work, enhancing well-being, and driving organizational success.",
-      "via": "scrape"
-    },
-    {
-      "source": "Business Insider Tech",
-      "type": "market",
-      "title": "View From Above",
-      "url": "https://www.businessinsider.com/show/view-from-above",
-      "description": "The show that analyzes our changing world through satellite imagery and then zooms to the ground to see the people and places impacted.",
-      "via": "scrape"
-    },
-    {
-      "source": "Business Insider Tech",
-      "type": "market",
-      "title": "Authorized Account",
-      "url": "https://www.businessinsider.com/show/authorized-account",
-      "description": "An interview-based series speaking to experts who share their account of secretive organizations and businesses usually hidden from public view, or who have undergone extraordinary life experiences.",
-      "via": "scrape"
-    },
-    {
-      "source": "Business Insider Tech",
-      "type": "market",
-      "title": "How Crime Works",
-      "url": "https://www.businessinsider.com/show/how-crime-works",
-      "description": "The show that interviews former criminals and law enforcement to give you the nitty-gritty details from the world's most interesting crime cases.",
-      "via": "scrape"
-    },
-    {
       "source": "NYT Technology",
       "type": "news",
       "title": "Inside Mark Zuckerberg’s Decision to Pull the Trigger on Meta’s A.I. Agent",
       "url": "https://www.nytimes.com/2026/10/09/technology/inside-mark-zuckerbergs-decision-to-pull-the-trigger-on-metas-ai-agent.html",
-      "description": "Meta had delayed releasing Muse, its A.I. agent app, for months over safety concerns. Then new competition forced Mr. Zuckerberg’s hand.",
+      "description": "",
       "via": "rss"
     },
     {
@@ -1808,7 +1720,7 @@
       "type": "news",
       "title": "Why My Conversations with OpenAI’s ‘ChatGPT for Teens’ Made Me Very Worried",
       "url": "https://www.nytimes.com/2026/10/07/technology/personaltech/chatgpt-teens-openai.html",
-      "description": "A new mode includes a study tool, but it still does a user’s homework. And a children’s safety nonprofit says the chatbot flunked its tests.",
+      "description": "",
       "via": "rss"
     },
     {
@@ -1816,6 +1728,14 @@
       "type": "news",
       "title": "Anthropic’s Quest to Give A.I. Morals",
       "url": "https://www.nytimes.com/2026/10/09/podcasts/hardfork-anthropic-ai-morals.html",
+      "description": "",
+      "via": "rss"
+    },
+    {
+      "source": "NYT Technology",
+      "type": "news",
+      "title": "Three Mark Zuckerbergs, Three Surprisingly Different Men",
+      "url": "https://www.nytimes.com/2026/10/11/movies/mark-zuckerberg-social-network-reckoning.html",
       "description": "",
       "via": "rss"
     },
@@ -1868,12 +1788,84 @@
       "via": "rss"
     },
     {
-      "source": "NYT Technology",
-      "type": "news",
-      "title": "Before Computer Science Became a Boys’ Club, Margaret Hamilton Wrote the Code",
-      "url": "https://www.nytimes.com/2026/10/08/science/space/margaret-hamilton-computer-science.html",
-      "description": "",
-      "via": "rss"
+      "source": "Fortune Tech",
+      "type": "market",
+      "title": "Jeff Bezos says a 3-day workweek and more single-income households are on the way thanks to AI: ‘It’s going to be difficult to hire people’",
+      "url": "https://fortune.com/2026/10/09/amazon-billioniare-jeff-bezos-predicts-three-day-workweek-single-income-households-thanks-to-ai/?itm_source=parsely-api",
+      "description": "Even after Amazon cut 30,000 jobs, Jeff Bezos predicts AI will boost productivity so much that fewer people will need to work, creating a labor shortage.",
+      "via": "scrape"
+    },
+    {
+      "source": "Fortune Tech",
+      "type": "market",
+      "title": "Meet Aurora: the invite-only, $10,000-a-year AI concierge that anticipates the ultra-wealthy’s every need",
+      "url": "https://fortune.com/2026/10/11/meet-aurora-invite-only-ai-concierge-ultrawealthy-pay-10000-a-year-to-anticipate-their-every-need/",
+      "description": "Backed by $12 million from VCs and family offices, Aurora pairs AI with human tastemakers to manage members’ health, travel, and dining.",
+      "via": "scrape"
+    },
+    {
+      "source": "Fortune Tech",
+      "type": "market",
+      "title": "McKinsey research shows AI creating more jobs than automation displaces — but 11 million American workers will need help this decade",
+      "url": "https://fortune.com/2026/10/11/mckinsey-research-11-million-americans-new-job-next-decade/",
+      "description": "Our new research finds that the U.S. economy will have more jobs by 2035 than today, but the mix will differ.",
+      "via": "scrape"
+    },
+    {
+      "source": "Fortune Tech",
+      "type": "market",
+      "title": "The invisible hand needs a conscience",
+      "url": "https://fortune.com/2026/10/11/capitalism-conscience-wealth-philanthropy/",
+      "description": "Capitalism’s invisible hand can create wealth. It cannot decide what we owe one another.",
+      "via": "scrape"
+    },
+    {
+      "source": "Fortune Tech",
+      "type": "market",
+      "title": "‘Never seen anything quite like it’: How rural Pennsylvania’s $165 million data center fight became representative of the bipartisan battle against AI",
+      "url": "https://fortune.com/2026/10/11/rural-pennsylvania-northpoint-development-amazon-data-center-backlash-bipartisan-opposition/",
+      "description": "NorthPoint Development’s $10,000 offer to Hazle Township residents in exchange for data center approval has become the latest flashpoint around AI infrastructure.",
+      "via": "scrape"
+    },
+    {
+      "source": "Business Insider Tech",
+      "type": "market",
+      "title": "Best Samsung TVs in 2026",
+      "url": "https://www.businessinsider.com/guides/tech/best-samsung-tvs",
+      "description": "We reviewed Samsung's newest TVs across budgets, including the S90H OLED with high contrast and the R95H Micro RGB TV with an extra-wide color range.",
+      "via": "scrape"
+    },
+    {
+      "source": "Business Insider Tech",
+      "type": "market",
+      "title": "The Better Work Project",
+      "url": "https://www.businessinsider.com/sc/introducing-the-better-work-project-hub",
+      "description": "Explore our hub for insights on how AI, skills-first hiring, and more are reshaping work, enhancing well-being, and driving organizational success.",
+      "via": "scrape"
+    },
+    {
+      "source": "Business Insider Tech",
+      "type": "market",
+      "title": "View From Above",
+      "url": "https://www.businessinsider.com/show/view-from-above",
+      "description": "The show that analyzes our changing world through satellite imagery and then zooms to the ground to see the people and places impacted.",
+      "via": "scrape"
+    },
+    {
+      "source": "Business Insider Tech",
+      "type": "market",
+      "title": "Authorized Account",
+      "url": "https://www.businessinsider.com/show/authorized-account",
+      "description": "An interview-based series speaking to experts who share their account of secretive organizations and businesses usually hidden from public view, or who have undergone extraordinary life experiences.",
+      "via": "scrape"
+    },
+    {
+      "source": "Business Insider Tech",
+      "type": "market",
+      "title": "How Crime Works",
+      "url": "https://www.businessinsider.com/show/how-crime-works",
+      "description": "The show that interviews former criminals and law enforcement to give you the nitty-gritty details from the world's most interesting crime cases.",
+      "via": "scrape"
     },
     {
       "source": "CB Insights",
@@ -1932,131 +1924,11 @@
       "via": "scrape"
     },
     {
-      "source": "DEV.to",
-      "type": "blog",
-      "title": "Why Is My Code Slow? Big-O Explained With Real Timings",
-      "url": "https://dev.to/shresthapandey/why-is-my-code-slow-big-o-explained-with-real-timings-ndd",
-      "description": "Almost every developer knows Big-O. Many can even say what O(n²) means. But very few have watched the... Tagged with algorithms, timecomplexity, performance, vickybytes.",
-      "via": "rss"
-    },
-    {
-      "source": "DEV.to",
-      "type": "blog",
-      "title": "Nature Go",
-      "url": "https://dev.to/rabiaaarif/nature-go-o3m",
-      "description": "This is a submission for the  Hacktoberfest Open-Source AI Challenge Week 1: Touch... Tagged with hf26challenge, gemma, gemini, opensource.",
-      "via": "rss"
-    },
-    {
-      "source": "DEV.to",
-      "type": "blog",
-      "title": "\"Good. Now put me away.\" An open Gemma app that measures how fast you can leave it",
-      "url": "https://dev.to/casmazariegos/good-now-put-me-away-an-open-gemma-app-that-measures-how-fast-you-can-leave-it-3m15",
-      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge: Week 1 — Touch Grass    Some... Tagged with devchallenge, hf26challenge, gemma, opensource.",
-      "via": "rss"
-    },
-    {
-      "source": "DEV.to",
-      "type": "blog",
-      "title": "How I keep feedback pins on the right element when a website changes",
-      "url": "https://dev.to/imbillal/how-i-keep-feedback-pins-on-the-right-element-when-a-website-changes-3ae7",
-      "description": "When I built PinReview, a tool that lets clients click anywhere on a website and leave feedback, I... Tagged with frontend, javascript, programming, webdev.",
-      "via": "rss"
-    },
-    {
-      "source": "DEV.to",
-      "type": "blog",
-      "title": "Print preview can still show records the user lost access to",
-      "url": "https://dev.to/authbyexample1/print-preview-can-still-show-records-the-user-lost-access-to-3392",
-      "description": "A lot of apps build print or PDF preview by loading the same record the detail page uses, then... Tagged with authorization, security, backend, saas.",
-      "via": "rss"
-    },
-    {
-      "source": "DEV.to",
-      "type": "blog",
-      "title": "IRL Quest — AI That Gives You a Reason to Put Your Phone Down 🌿",
-      "url": "https://dev.to/ani0811/irl-quest-ai-that-gives-you-a-reason-to-put-your-phone-down-4e06",
-      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass           IRL... Tagged with devchallenge, hf26challenge, opensource, ai.",
-      "via": "rss"
-    },
-    {
-      "source": "DEV.to",
-      "type": "blog",
-      "title": "Training My First Neural Network on Windows with WSL 2 and PyTorch",
-      "url": "https://dev.to/lawson_dong/training-my-first-neural-network-on-windows-with-wsl-2-and-pytorch-3him",
-      "description": "As a physics undergraduate beginning to explore AI research, I wanted to understand the practical... Tagged with python, machinelearning, beginners, linux.",
-      "via": "rss"
-    },
-    {
-      "source": "DEV.to",
-      "type": "blog",
-      "title": "🔐 Use the AWS CLI Without Access Keys, and Prove a Policy Before You Attach It (Hands-on)",
-      "url": "https://dev.to/techeazy_consulting/use-the-aws-cli-without-access-keys-and-prove-a-policy-before-you-attach-it-hands-on-4ek3",
-      "description": "🎤 The interview question    \"How do you use the AWS CLI without an access key, and how do... Tagged with aws, beginners, security, tutorial.",
-      "via": "rss"
-    },
-    {
-      "source": "DEV.to",
-      "type": "blog",
-      "title": "Residential Proxies Made My Lazada Scraper Worse: the Gate Reads the Handshake, Not the IP",
-      "url": "https://dev.to/nikita_iakovlev_415524c19/residential-proxies-made-my-lazada-scraper-worse-the-gate-reads-the-handshake-not-the-ip-3je2",
-      "description": "Lazada answered 8 of 8 requests from Apify's own egress IP and 0 of 8 from Singapore residential — the difference was the TLS fingerprint. Plus why totalResults is 4,080 on almost every search, and why page one of the reviews is 94% five stars. Tagged with webscraping, javascript, api, data.",
-      "via": "rss"
-    },
-    {
-      "source": "DEV.to",
-      "type": "blog",
-      "title": "OUTCURIO",
-      "url": "https://dev.to/gopika_9725/outcurio-3gm0",
-      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass          ... Tagged with devchallenge, hf26challenge.",
-      "via": "rss"
-    },
-    {
       "source": "Medium",
       "type": "blog",
       "title": "Medium",
       "url": "https://medium.com",
       "description": " This page may require CAPTCHA . Please make sure you are authorized to access this page .",
-      "via": "scrape"
-    },
-    {
-      "source": "Hashnode",
-      "type": "blog",
-      "title": "Hashnode CLI: publish and manage your blog from the terminalIpseeta Priyadarshini·4d ago",
-      "url": "https://hashnode.com/blog/hashnode-cli",
-      "description": "Install the Hashnode CLI to create posts, drafts, and image uploads from your terminal, scripts, and CI. It needs Node 20 and a Pro publication.",
-      "via": "scrape"
-    },
-    {
-      "source": "Hashnode",
-      "type": "blog",
-      "title": "Hashnode MCP server: manage your blog from Claude, ChatGPT, and CursorIpseeta Priyadarshini·Sep 29",
-      "url": "https://hashnode.com/blog/hashnode-mcp-server",
-      "description": "Connect Claude, ChatGPT, or Cursor to your Hashnode blog with one URL. Publish, draft, edit, and search posts. No API token needed.",
-      "via": "scrape"
-    },
-    {
-      "source": "Hashnode",
-      "type": "blog",
-      "title": "AI software factory tools in 2026: buy one, assemble one, or have one builtSyed Fazle Rahman·Jul 31",
-      "url": "https://hashnode.com/blog/ai-software-factory-tools",
-      "description": "",
-      "via": "scrape"
-    },
-    {
-      "source": "Hashnode",
-      "type": "blog",
-      "title": "Mac keyboard shortcuts for developers: the complete 2026 guideAnkit Kumar·Jul 28",
-      "url": "https://hashnode.com/blog/mac-keyboard-shortcuts-developers",
-      "description": "",
-      "via": "scrape"
-    },
-    {
-      "source": "Hashnode",
-      "type": "blog",
-      "title": "MCP is going stateless, and the upgrade breaks in both directionsIpseeta Priyadarshini·Jul 28",
-      "url": "https://hashnode.com/blog/mcp-stateless-migration",
-      "description": "",
       "via": "scrape"
     },
     {
@@ -2140,6 +2012,94 @@
       "via": "rss"
     },
     {
+      "source": "DEV.to",
+      "type": "blog",
+      "title": "A guardrail you cannot test is a hope",
+      "url": "https://dev.to/usehive/a-guardrail-you-cannot-test-is-a-hope-4lma",
+      "description": "A guardrail you cannot test is a hope. Try the unauthorized action and watch it stop. Try the missing... Tagged with security, softwareengineering, testing.",
+      "via": "rss"
+    },
+    {
+      "source": "DEV.to",
+      "type": "blog",
+      "title": "We Wanted a Fast Offline AI. First, We Had to Fix Our Benchmark.",
+      "url": "https://dev.to/lastbrowser/we-wanted-a-fast-offline-ai-first-we-had-to-fix-our-benchmark-2n9k",
+      "description": "A browser assistant should be able to read an invoice, compare two offers, or find the right button... Tagged with webdev, ai, llm, benchmarking.",
+      "via": "rss"
+    },
+    {
+      "source": "DEV.to",
+      "type": "blog",
+      "title": "New Platform Needed to Address Shortcomings in Hardware Coding Practice Tools",
+      "url": "https://dev.to/viklogix/new-platform-needed-to-address-shortcomings-in-hardware-coding-practice-tools-2a50",
+      "description": "Introduction   The landscape of hardware coding practice tools is, frankly, a wasteland of... Tagged with hardware, coding, go, ui.",
+      "via": "rss"
+    },
+    {
+      "source": "DEV.to",
+      "type": "blog",
+      "title": "Wanderlore: What if your next walk had a plot?",
+      "url": "https://dev.to/reet_singh_ee97da2986538e/wanderlore-what-if-your-next-walk-had-a-plot-a3g",
+      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass.   The... Tagged with devchallenge, hf26challenge, ai, webdev.",
+      "via": "rss"
+    },
+    {
+      "source": "DEV.to",
+      "type": "blog",
+      "title": "Show HN launches now run on repos created days before posting. It used to be months.",
+      "url": "https://dev.to/pennyforgehq/show-hn-launches-now-run-on-repos-created-days-before-posting-it-used-to-be-months-3i90",
+      "description": "Last month I published a dataset of 70,894 Show HN posts. The obvious follow-up was star... Tagged with data, github, api, science.",
+      "via": "rss"
+    },
+    {
+      "source": "DEV.to",
+      "type": "blog",
+      "title": "TrailRelay: Offline-First Trail Hazard Reporting with Gemma and Temporal",
+      "url": "https://dev.to/akshaj_shetty/trailrelay-offline-first-trail-hazard-reporting-with-gemma-and-temporal-3h59",
+      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass          ... Tagged with devchallenge, hf26challenge.",
+      "via": "rss"
+    },
+    {
+      "source": "DEV.to",
+      "type": "blog",
+      "title": "Score Any Public Repository Reproducibly with harness-maturity-analysis",
+      "url": "https://dev.to/paladini/score-any-public-repository-reproducibly-with-harness-maturity-analysis-493g",
+      "description": "Score a repository with a pinned harness scanner, inspect actionable gaps, and keep one-off experiments separate from a reproducible corpus. Tagged with ai, javascript, tutorial, opensource.",
+      "via": "rss"
+    },
+    {
+      "source": "DEV.to",
+      "type": "blog",
+      "title": "Evidence Levels: What a Single JSON Can and Cannot Claim",
+      "url": "https://dev.to/aabhinavg/evidence-levels-what-a-single-json-can-and-cannot-claim-13jm",
+      "description": "Why this lesson exists   Teams often shout \"this runs 10 % faster\" after a single csperf... Tagged with methodology, csperf, compilers, performance.",
+      "via": "rss"
+    },
+    {
+      "source": "DEV.to",
+      "type": "blog",
+      "title": "I gave my blog an agent: auto topic ideas every week",
+      "url": "https://dev.to/zishuowang696/i-gave-my-blog-an-agent-auto-topic-ideas-every-week-540o",
+      "description": "The annoying part of running a blog isn't writing — it's picking topics. What do I write today? It's... Tagged with ai, github, automation, python.",
+      "via": "rss"
+    },
+    {
+      "source": "DEV.to",
+      "type": "blog",
+      "title": "Reading or Guessing? An Urdu Font-Twin Benchmark",
+      "url": "https://dev.to/faris-khan/reading-or-guessing-an-urdu-font-twin-benchmark-1lek",
+      "description": "This is a submission for the Kaggle Benchmarking Challenge.  Urdu OCR has an unusually revealing... Tagged with devchallenge, kagglechallenge, ai, machinelearning.",
+      "via": "rss"
+    },
+    {
+      "source": "HackerNoon",
+      "type": "blog",
+      "title": "61 Blog Posts To Learn About Electronics",
+      "url": "https://hackernoon.com/61-blog-posts-to-learn-about-electronics?source=rss",
+      "description": "Learn everything you need to know about Electronics via these 61 free HackerNoon blog posts.",
+      "via": "rss"
+    },
+    {
       "source": "HackerNoon",
       "type": "blog",
       "title": "61 Blog Posts To Learn About Efficiency",
@@ -2212,12 +2172,44 @@
       "via": "rss"
     },
     {
-      "source": "HackerNoon",
+      "source": "Hashnode",
       "type": "blog",
-      "title": "Build Your Own AI Agent Execution Trace in Python.",
-      "url": "https://hackernoon.com/build-your-own-ai-agent-execution-trace-in-python?source=rss",
-      "description": "Learn how to build a lightweight AI agent execution tracer in Python to capture tool calls, model decisions, latency, errors, retries, and task execution flow.",
-      "via": "rss"
+      "title": "Hashnode CLI: publish and manage your blog from the terminalIpseeta Priyadarshini·5d ago",
+      "url": "https://hashnode.com/blog/hashnode-cli",
+      "description": "Install the Hashnode CLI to create posts, drafts, and image uploads from your terminal, scripts, and CI. It needs Node 20 and a Pro publication.",
+      "via": "scrape"
+    },
+    {
+      "source": "Hashnode",
+      "type": "blog",
+      "title": "Hashnode MCP server: manage your blog from Claude, ChatGPT, and CursorIpseeta Priyadarshini·Sep 29",
+      "url": "https://hashnode.com/blog/hashnode-mcp-server",
+      "description": "Connect Claude, ChatGPT, or Cursor to your Hashnode blog with one URL. Publish, draft, edit, and search posts. No API token needed.",
+      "via": "scrape"
+    },
+    {
+      "source": "Hashnode",
+      "type": "blog",
+      "title": "AI software factory tools in 2026: buy one, assemble one, or have one builtSyed Fazle Rahman·Jul 31",
+      "url": "https://hashnode.com/blog/ai-software-factory-tools",
+      "description": "The tools for building an AI software factory in 2026: turnkey platforms, the sandbox and agent layers you can assemble yourself, self-hosted options, and the forward-deployed route.",
+      "via": "scrape"
+    },
+    {
+      "source": "Hashnode",
+      "type": "blog",
+      "title": "Mac keyboard shortcuts for developers: the complete 2026 guideAnkit Kumar·Jul 28",
+      "url": "https://hashnode.com/blog/mac-keyboard-shortcuts-developers",
+      "description": "Every Mac keyboard shortcut worth knowing, why the keys are what they are, terminal and diff navigation, how to make your own, and what to do when one stops working. Verified on macOS Tahoe 26.6.",
+      "via": "scrape"
+    },
+    {
+      "source": "Hashnode",
+      "type": "blog",
+      "title": "MCP is going stateless, and the upgrade breaks in both directionsIpseeta Priyadarshini·Jul 28",
+      "url": "https://hashnode.com/blog/mcp-stateless-migration",
+      "description": "MCP revision 2026-07-28 removes protocol-level sessions and the initialize handshake, and deprecates Roots, Sampling, and Logging. What changes in your server and why the migration is a hard fork.",
+      "via": "scrape"
     },
     {
       "source": "Substack",
@@ -2225,6 +2217,14 @@
       "title": "The Conscious Lee",
       "url": "https://substack.com/@theconsciouslee",
       "description": "-Masters in Adult Education & Masters in Human Relations. -Hall of Fame College Policy Debater -2X NAACP Award Nominee -Public Education is retreating. I'm filling the void. Teaching the histories, frameworks, & knowledge they're erasing.",
+      "via": "scrape"
+    },
+    {
+      "source": "In Plain English",
+      "type": "blog",
+      "title": "Failed to load In Plain English",
+      "url": "https://inplainenglish.com",
+      "description": "422 Client Error: Unprocessable Entity for url: https://r.jina.ai/https://inplainenglish.com",
       "via": "scrape"
     },
     {
@@ -2306,14 +2306,6 @@
       "url": "https://www.freecodecamp.org/news/ai-email-deliverability-explained/",
       "description": "Sending an email doesn't always mean it will reach the recipient's inbox. Sometimes, an email is sent successfully by an application but ends up in the spam folder instead. This can be a real problem",
       "via": "rss"
-    },
-    {
-      "source": "In Plain English",
-      "type": "blog",
-      "title": "In Plain English",
-      "url": "https://inplainenglish.com",
-      "description": "Do Not Sell or Share My Personal Information",
-      "via": "scrape"
     },
     {
       "source": "The New Stack",
@@ -2416,7 +2408,7 @@
       "type": "enterprise",
       "title": "The 30 Seconds Before a Mobile App Crash: The Evidence Most Systems Never Capture",
       "url": "https://dzone.com/articles/collecting-evidence-before-app-crash",
-      "description": "",
+      "description": "An application's own records provide the missing scene, enabling engineers to reconstruct failures and keep mobile reliability high.",
       "via": "rss"
     },
     {
@@ -2448,7 +2440,7 @@
       "type": "enterprise",
       "title": "Threat Modeling Context-Aware AI: A STRIDE Walkthrough",
       "url": "https://dzone.com/articles/threat-modeling-a-rag-application",
-      "description": "How to secure enterprise AI pipelines: a hands-on walkthrough of six threat categories, one reference architecture, and a prioritized list of fixes.",
+      "description": "",
       "via": "rss"
     },
     {
@@ -2456,7 +2448,7 @@
       "type": "enterprise",
       "title": "Why Your GPU Fleet Is Both Full and Idle: Building a Capacity Orchestration Layer",
       "url": "https://dzone.com/articles/gpu-capacity-orchestration-layer",
-      "description": "",
+      "description": "Managing GPU capacity manually produces fleets that are simultaneously fully allocated and poorly utilized. A capacity orchestration layer can fix the problem.",
       "via": "rss"
     },
     {
@@ -2473,6 +2465,86 @@
       "title": "AI Governance Belongs in Your Pipeline, Not in Spreadsheets",
       "url": "https://dzone.com/articles/pipeline-ai-governance-not-spreadsheet",
       "description": "",
+      "via": "rss"
+    },
+    {
+      "source": "InfoQ",
+      "type": "research",
+      "title": "Foresight AI Brings Gremlin Agents to Reliability Engineering",
+      "url": "https://www.infoq.com/news/2026/10/gremlin-foresight-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "description": "Reliability management company Gremlin has announced the general availability of Foresight AI, an agentic product that analyses services for potential failures, recommends changes and reruns tests to",
+      "via": "rss"
+    },
+    {
+      "source": "InfoQ",
+      "type": "research",
+      "title": "AWS Introduces Enhanced Custom Event Buses for EventBridge",
+      "url": "https://www.infoq.com/news/2026/10/aws-enhanced-eventbridge-buses/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "description": "AWS recently announced enhanced custom event buses for Amazon EventBridge, allowing organizations to share a centralized bus across accounts with ordered delivery, simplified subscriber management, ev",
+      "via": "rss"
+    },
+    {
+      "source": "InfoQ",
+      "type": "research",
+      "title": "Cloudflare Traces Turns the Proxy Layer into OpenTelemetry Spans, with New Volume-Based Pricing",
+      "url": "https://www.infoq.com/news/2026/10/cloudflare-traces-open-beta/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "description": "Cloudflare has put Traces into open beta, extending automatic tracing from Workers to security rules, transformations, cache, routing and origin handling as OpenTelemetry spans. Traces accept and forw",
+      "via": "rss"
+    },
+    {
+      "source": "InfoQ",
+      "type": "research",
+      "title": "Android Bench 2 Adds Support for Long-Horizon Tasks, Agentic Evaluation, and Continuous Scoring",
+      "url": "https://www.infoq.com/news/2026/10/android-bench-2/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "description": "Google has released Android Bench 2.0, a major update to its benchmark framework for evaluating AI models and agents on Android development tasks. The update introduces long-horizon tasks (LHTs), agen",
+      "via": "rss"
+    },
+    {
+      "source": "InfoQ",
+      "type": "research",
+      "title": "Shopify Upgrades Checkout Blocks to Polaris Web Components, Cutting Bundle Sizes up to 85%",
+      "url": "https://www.infoq.com/news/2026/10/shopify-web-components/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "description": "Shopify has updated its Checkout Blocks app, transitioning five high-traffic checkout UI extensions to remote-dom using Preact and Polaris web components. The rewrite, which involved moving to TypeScr",
+      "via": "rss"
+    },
+    {
+      "source": "InfoQ",
+      "type": "research",
+      "title": "Github Migrates Copilot Runtime to Rust with AI-Assisted Rewrite",
+      "url": "https://www.infoq.com/news/2026/10/github-copilot-rust-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "description": "GitHub migrated more than 800,000 lines of Copilot runtime code from TypeScript and Node.js to Rust in about 14.5 weeks using AI-assisted development. The incremental migration used N-API interoperabi",
+      "via": "rss"
+    },
+    {
+      "source": "InfoQ",
+      "type": "research",
+      "title": "CircleCI Makes Machine Runner Orchestrator Generally Available",
+      "url": "https://www.infoq.com/news/2026/10/circleci-machine-runner/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "description": "CircleCI has made its Machine Runner Orchestrator 1.0.0 generally available, providing automated scaling of self-hosted machine runner virtual machines according to CI workload demand.",
+      "via": "rss"
+    },
+    {
+      "source": "InfoQ",
+      "type": "research",
+      "title": "Presentation: Ontology‐Driven Observability: Building the E2E Knowledge Graph at Netflix Scale",
+      "url": "https://www.infoq.com/presentations/netflix-observability-aiops-ontology-scale/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "description": "Prasanna Vijayanathan and Renzo Sanchez-Silva explain how Netflix uses AIOps, AI agents, and operational ontologies to turn high-scale telemetry into automated, proactive incident root-cause analysis.",
+      "via": "rss"
+    },
+    {
+      "source": "InfoQ",
+      "type": "research",
+      "title": "Olson and Söderqvist Discuss Valkey’s Evolution and Future Past Caching Use Cases at OSS EU",
+      "url": "https://www.infoq.com/news/2026/10/valkey-evolution/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "description": "Valkey is a growing project, launched as a fork of Redis over two years ago, supported by twelve maintainers and nine committee members from various companies. Recent developments include enhanced thr",
+      "via": "rss"
+    },
+    {
+      "source": "InfoQ",
+      "type": "research",
+      "title": "Podcast: The Minimum Viable Manager: Building Trust, Feedback, and Alignment",
+      "url": "https://www.infoq.com/podcasts/building-trust-feedback-alignment/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "description": "Shane Hastie, Lead Editor for Culture & Methods, spoke to Matt Gjertsen, founder of Built and author of Minimum Viable Manager, about the three foundational skills every first-time manager needs.",
       "via": "rss"
     },
     {
@@ -2556,86 +2628,6 @@
       "via": "rss"
     },
     {
-      "source": "InfoQ",
-      "type": "research",
-      "title": "Cloudflare Traces Turns the Proxy Layer into OpenTelemetry Spans, with New Volume-Based Pricing",
-      "url": "https://www.infoq.com/news/2026/10/cloudflare-traces-open-beta/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "description": "Cloudflare has put Traces into open beta, extending automatic tracing from Workers to security rules, transformations, cache, routing and origin handling as OpenTelemetry spans. Traces accept and forw",
-      "via": "rss"
-    },
-    {
-      "source": "InfoQ",
-      "type": "research",
-      "title": "Android Bench 2 Adds Support for Long-Horizon Tasks, Agentic Evaluation, and Continuous Scoring",
-      "url": "https://www.infoq.com/news/2026/10/android-bench-2/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "description": "Google has released Android Bench 2.0, a major update to its benchmark framework for evaluating AI models and agents on Android development tasks. The update introduces long-horizon tasks (LHTs), agen",
-      "via": "rss"
-    },
-    {
-      "source": "InfoQ",
-      "type": "research",
-      "title": "Shopify Upgrades Checkout Blocks to Polaris Web Components, Cutting Bundle Sizes up to 85%",
-      "url": "https://www.infoq.com/news/2026/10/shopify-web-components/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "description": "Shopify has updated its Checkout Blocks app, transitioning five high-traffic checkout UI extensions to remote-dom using Preact and Polaris web components. The rewrite, which involved moving to TypeScr",
-      "via": "rss"
-    },
-    {
-      "source": "InfoQ",
-      "type": "research",
-      "title": "Github Migrates Copilot Runtime to Rust with AI-Assisted Rewrite",
-      "url": "https://www.infoq.com/news/2026/10/github-copilot-rust-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "description": "GitHub migrated more than 800,000 lines of Copilot runtime code from TypeScript and Node.js to Rust in about 14.5 weeks using AI-assisted development. The incremental migration used N-API interoperabi",
-      "via": "rss"
-    },
-    {
-      "source": "InfoQ",
-      "type": "research",
-      "title": "CircleCI Makes Machine Runner Orchestrator Generally Available",
-      "url": "https://www.infoq.com/news/2026/10/circleci-machine-runner/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "description": "CircleCI has made its Machine Runner Orchestrator 1.0.0 generally available, providing automated scaling of self-hosted machine runner virtual machines according to CI workload demand.",
-      "via": "rss"
-    },
-    {
-      "source": "InfoQ",
-      "type": "research",
-      "title": "Presentation: Ontology‐Driven Observability: Building the E2E Knowledge Graph at Netflix Scale",
-      "url": "https://www.infoq.com/presentations/netflix-observability-aiops-ontology-scale/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "description": "Prasanna Vijayanathan and Renzo Sanchez-Silva explain how Netflix uses AIOps, AI agents, and operational ontologies to turn high-scale telemetry into automated, proactive incident root-cause analysis.",
-      "via": "rss"
-    },
-    {
-      "source": "InfoQ",
-      "type": "research",
-      "title": "Olson and Söderqvist Discuss Valkey’s Evolution and Future Past Caching Use Cases at OSS EU",
-      "url": "https://www.infoq.com/news/2026/10/valkey-evolution/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "description": "Valkey is a growing project, launched as a fork of Redis over two years ago, supported by twelve maintainers and nine committee members from various companies. Recent developments include enhanced thr",
-      "via": "rss"
-    },
-    {
-      "source": "InfoQ",
-      "type": "research",
-      "title": "Podcast: The Minimum Viable Manager: Building Trust, Feedback, and Alignment",
-      "url": "https://www.infoq.com/podcasts/building-trust-feedback-alignment/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "description": "Shane Hastie, Lead Editor for Culture & Methods, spoke to Matt Gjertsen, founder of Built and author of Minimum Viable Manager, about the three foundational skills every first-time manager needs.",
-      "via": "rss"
-    },
-    {
-      "source": "InfoQ",
-      "type": "research",
-      "title": "HashiCorp Relased Terraform Google Cloud Provider 8.0 in General Availability",
-      "url": "https://www.infoq.com/news/2026/10/terraform-google-cloud-provider/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "description": "HashiCorp has announced the general availability of version 8.0 of the Terraform provider for Google Cloud. The major release updates the default load balancing for two Compute Engine resources. It al",
-      "via": "rss"
-    },
-    {
-      "source": "InfoQ",
-      "type": "research",
-      "title": "Cloudflare K2 Builds Event Streams on R2 Object Storage, at a Second of Produce Latency",
-      "url": "https://www.infoq.com/news/2026/10/cloudflare-k2-serverless-streams/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-      "description": "Cloudflare has launched K2 in public beta, a serverless event streaming service implementing a durable log on R2 object storage. Cloudflare states produce latency of about one second at p99; a tester",
-      "via": "rss"
-    },
-    {
       "source": "CSS-Tricks",
       "type": "blog",
       "title": "Let’s Use the Emergent CSS random() Function in all the Browsers",
@@ -2716,83 +2708,11 @@
       "via": "rss"
     },
     {
-      "source": "Dev.to AI",
-      "type": "ai",
-      "title": "We Built an MCP Server for Real Discounts and Promo Codes — Now Listed in the Official Registry",
-      "url": "https://dev.to/masterbek/we-built-an-mcp-server-for-real-discounts-and-promo-codes-now-listed-in-the-official-registry-a7l",
-      "description": "What if AI assistants could search real shopping offers without scraping websites or relying on... Tagged with ai, mcp, opensource, webdev.",
-      "via": "rss"
-    },
-    {
-      "source": "Dev.to AI",
-      "type": "ai",
-      "title": "IRL Quest — AI That Gives You a Reason to Put Your Phone Down 🌿",
-      "url": "https://dev.to/ani0811/irl-quest-ai-that-gives-you-a-reason-to-put-your-phone-down-4e06",
-      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass           IRL... Tagged with devchallenge, hf26challenge, opensource, ai.",
-      "via": "rss"
-    },
-    {
-      "source": "Dev.to AI",
-      "type": "ai",
-      "title": "🌡️ What Do Temperature and Top-p Really Do? Test Them on Amazon Bedrock From the CLI (Hands-on)",
-      "url": "https://dev.to/confident_prep/what-do-temperature-and-top-p-really-do-test-them-on-amazon-bedrock-from-the-cli-hands-on-jcn",
-      "description": "🎤 The interview question    \"What do temperature and top-p actually do, and when would you... Tagged with aws, ai, machinelearning, tutorial.",
-      "via": "rss"
-    },
-    {
-      "source": "Dev.to AI",
-      "type": "ai",
-      "title": "Build an Agent-Friendly Customer Record Before Replacing the CRM Screen",
-      "url": "https://dev.to/tej_pandya_a973bc2256ba93/build-an-agent-friendly-customer-record-before-replacing-the-crm-screen-30hp",
-      "description": "By Tej Pandya, founder of GrowEasy.ai  A conversational sales interface is easy to demonstrate. A... Tagged with ai.",
-      "via": "rss"
-    },
-    {
-      "source": "Dev.to AI",
-      "type": "ai",
-      "title": "Trusted Platforms to Buy Old Gmail Accounts Without ...",
-      "url": "https://dev.to/usasvcit7687/trusted-platforms-to-buy-old-gmail-accounts-without--c29",
-      "description": "Trusted Platforms to Buy Old Gmail Accounts Without ... 24 hours response/(Contact US)  ➤ WhatsApp:... Tagged with ai, webdev, programming, productivity.",
-      "via": "rss"
-    },
-    {
-      "source": "Dev.to AI",
-      "type": "ai",
-      "title": "17 Top Sites to Buy Verified Edu Email Accounts in 2026.pdf-",
-      "url": "https://dev.to/usasvcit7687/17-top-sites-to-buy-verified-edu-email-accounts-in-2026pdf--2eba",
-      "description": "17 Top Sites to Buy Verified Edu Email Accounts in 2026.pdf- 24 hours response/(Contact US)  ➤... Tagged with ai, programming, productivity, javascript.",
-      "via": "rss"
-    },
-    {
-      "source": "Dev.to AI",
-      "type": "ai",
-      "title": "Seven in Ten Small Business Owners Have Filmed a Video and Never Posted It",
-      "url": "https://dev.to/tm_gunderson_9cff63a7ba/seven-in-ten-small-business-owners-have-filmed-a-video-and-never-posted-it-28kg",
-      "description": "A new survey found 71.6% of SMB owners shelve finished business videos. Here's why the last mile of content dies — and how to fix it. Tagged with ai, smallbusiness, video, marketing.",
-      "via": "rss"
-    },
-    {
-      "source": "Dev.to AI",
-      "type": "ai",
-      "title": "55+ Shipped Games Later — 10 Unity Lessons I Wish I Knew on Day One",
-      "url": "https://dev.to/dilawarhussain6465/55-shipped-games-later-10-unity-lessons-i-wish-i-knew-on-day-one-577i",
-      "description": "Five years ago I thought being a good Unity developer meant knowing the API.  Then I started... Tagged with gamedev, unity3d, ai, programming.",
-      "via": "rss"
-    },
-    {
-      "source": "Dev.to AI",
-      "type": "ai",
-      "title": "Your ChatGPT API bill is high because your prompts are bloated. Here's a free checklist to fix it",
-      "url": "https://dev.to/renev3408/your-chatgpt-api-bill-is-high-because-your-prompts-are-bloated-heres-a-free-checklist-to-fix-it-2ock",
-      "description": "Last month I opened my OpenAI usage dashboard and found something embarrassing: I was sending the... Tagged with ai, python, beginners, productivity.",
-      "via": "rss"
-    },
-    {
-      "source": "Dev.to AI",
-      "type": "ai",
-      "title": "Seven checks before I let an agent act on its own",
-      "url": "https://dev.to/neuralalpha/seven-checks-before-i-let-an-agent-act-on-its-own-oe3",
-      "description": "Each one comes from something that went wrong, or nearly did, in my own small automated publishing setup. Tagged with ai, devops, automation, productivity.",
+      "source": "SitePoint",
+      "type": "blog",
+      "title": "The Design Workflow Is Broken. Here Is How Vitalii Khomenko Thinks It Should Be Fixed",
+      "url": "https://www.sitepoint.com/design-workflow-ai-era-vitalii-khomenko/?utm_source=rss",
+      "description": "Principal Designer Vitalii Khomenko argues the real bottleneck in AI-accelerated product teams isn't engineering anymore, it's the Figma-to-code handoff, and here's his fix.",
       "via": "rss"
     },
     {
@@ -2868,91 +2788,163 @@
       "via": "rss"
     },
     {
-      "source": "SitePoint",
+      "source": "Dev.to AI",
+      "type": "ai",
+      "title": "We Wanted a Fast Offline AI. First, We Had to Fix Our Benchmark.",
+      "url": "https://dev.to/lastbrowser/we-wanted-a-fast-offline-ai-first-we-had-to-fix-our-benchmark-2n9k",
+      "description": "A browser assistant should be able to read an invoice, compare two offers, or find the right button... Tagged with webdev, ai, llm, benchmarking.",
+      "via": "rss"
+    },
+    {
+      "source": "Dev.to AI",
+      "type": "ai",
+      "title": "Wanderlore: What if your next walk had a plot?",
+      "url": "https://dev.to/reet_singh_ee97da2986538e/wanderlore-what-if-your-next-walk-had-a-plot-a3g",
+      "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass.   The... Tagged with devchallenge, hf26challenge, ai, webdev.",
+      "via": "rss"
+    },
+    {
+      "source": "Dev.to AI",
+      "type": "ai",
+      "title": "Score Any Public Repository Reproducibly with harness-maturity-analysis",
+      "url": "https://dev.to/paladini/score-any-public-repository-reproducibly-with-harness-maturity-analysis-493g",
+      "description": "Score a repository with a pinned harness scanner, inspect actionable gaps, and keep one-off experiments separate from a reproducible corpus. Tagged with ai, javascript, tutorial, opensource.",
+      "via": "rss"
+    },
+    {
+      "source": "Dev.to AI",
+      "type": "ai",
+      "title": "Where LLM access controls belong in the agent request path",
+      "url": "https://dev.to/resk/where-llm-access-controls-belong-in-the-agent-request-path-o8e",
+      "description": "LLM access controls belong after the model decides and before the tool executes. Here is the request path, the failure mode, and the checklist. Tagged with security, ai, devops, architecture.",
+      "via": "rss"
+    },
+    {
+      "source": "Dev.to AI",
+      "type": "ai",
+      "title": "I gave my blog an agent: auto topic ideas every week",
+      "url": "https://dev.to/zishuowang696/i-gave-my-blog-an-agent-auto-topic-ideas-every-week-540o",
+      "description": "The annoying part of running a blog isn't writing — it's picking topics. What do I write today? It's... Tagged with ai, github, automation, python.",
+      "via": "rss"
+    },
+    {
+      "source": "Dev.to AI",
+      "type": "ai",
+      "title": "Reading or Guessing? An Urdu Font-Twin Benchmark",
+      "url": "https://dev.to/faris-khan/reading-or-guessing-an-urdu-font-twin-benchmark-1lek",
+      "description": "This is a submission for the Kaggle Benchmarking Challenge.  Urdu OCR has an unusually revealing... Tagged with devchallenge, kagglechallenge, ai, machinelearning.",
+      "via": "rss"
+    },
+    {
+      "source": "Dev.to AI",
+      "type": "ai",
+      "title": "n8n: Talk to your Google Sheets with an AI Agent (and why it sometimes gets the math wrong)",
+      "url": "https://dev.to/robert_breen_d96e41ecd765/n8n-talk-to-your-google-sheets-with-an-ai-agent-and-why-it-sometimes-gets-the-math-wrong-k2a",
+      "description": "Spreadsheets are where a lot of office work lives: the client list, the sales log, the invoice... Tagged with n8n, ai, automation, googlesheets.",
+      "via": "rss"
+    },
+    {
+      "source": "Dev.to AI",
+      "type": "ai",
+      "title": "MCP in 30 lines: it's just standardized function calling",
+      "url": "https://dev.to/zishuowang696/mcp-in-30-lines-its-just-standardized-function-calling-9ih",
+      "description": "In Building an AI agent from scratch, our cat tool was hardcoded inside the agent:    # the tool... Tagged with programming, ai, python, tutorial.",
+      "via": "rss"
+    },
+    {
+      "source": "Dev.to AI",
+      "type": "ai",
+      "title": "Why I Kept My AI Video Tool to One Scene",
+      "url": "https://dev.to/jy_wang_2c4d36f4d66adea80/why-i-kept-my-ai-video-tool-to-one-scene-3095",
+      "description": "I built Bulin 47 AI, a small browser tool that takes one portrait and makes a version of the Bulin 47... Tagged with ai, showdev.",
+      "via": "rss"
+    },
+    {
+      "source": "Dev.to AI",
+      "type": "ai",
+      "title": "How to give Claude Code an Android phone: ADB, an emulator, or a cloud phone",
+      "url": "https://dev.to/alon_n_ecceca6aa868e0761d/how-to-give-claude-code-an-android-phone-adb-an-emulator-or-a-cloud-phone-35nn",
+      "description": "Disclosure: I work on Phonebox, one of the options below. The other three are free, and I've tried to... Tagged with ai, android, mcp, claude.",
+      "via": "rss"
+    },
+    {
+      "source": "Habr",
       "type": "blog",
-      "title": "Designing Apps for AI Agent Phones: 6 Checks Developers Should Make Before Granting Access",
-      "url": "https://www.sitepoint.com/designing-apps-for-ai-agent-phones-6-checks-developers-should-make-before-granting-access/?utm_source=rss",
-      "description": "",
+      "title": "Слово не переводится, а реплика рядом переводится: разбираю баг во встроенном переводчике Chrome",
+      "url": "https://habr.com/ru/articles/1092872/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092872",
+      "description": "Я сделал это расширение для себя. Смотрю фильмы и сериалы с английскими субтитрами, и раньше каждое незнакомое слово значило паузу и вкладку с переводчиком. Встроенный переводчик Chrome переводит...",
       "via": "rss"
     },
     {
-      "source": "OpenAI",
-      "type": "research",
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "url": "https://openai.com/index/sophos",
-      "description": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+      "source": "Habr",
+      "type": "blog",
+      "title": "«А у меня все работает»: история айтишного фольклора",
+      "url": "https://habr.com/ru/articles/1092880/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092880",
+      "description": "Если вы хоть раз жаловались айтишнику, что у вас не открывается сайт, не печатает принтер или вылетает программа, то почти наверняка слышали в ответ задумчивое «странно, а у меня все работает». Если...",
       "via": "rss"
     },
     {
-      "source": "OpenAI",
-      "type": "research",
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "url": "https://openai.com/index/asana-browser-agent",
-      "description": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+      "source": "Habr",
+      "type": "blog",
+      "title": "ИИ-гид по обществознанию",
+      "url": "https://habr.com/ru/articles/1092874/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092874",
+      "description": "Чат-бот по обществознанию: поиск по учебникам с Qwen и FAISS В России вводятся единые государственные учебники. В моей текущей версии бота загружены два учебника по обществознанию - за 9 и 10 класс. Я...",
       "via": "rss"
     },
     {
-      "source": "OpenAI",
-      "type": "research",
-      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "url": "https://openai.com/index/oracle",
-      "description": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+      "source": "Habr",
+      "type": "blog",
+      "title": "История известных отечественных брендов часов",
+      "url": "https://habr.com/ru/companies/onlinepatent/articles/1092868/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092868",
+      "description": "Советская реклама известного бренда Часовое дело в России прошло долгий путь. Сначала оно было исключительно элитарным, мастера XVIII-XIX веков ориентировались на качество и сервис. Например,...",
       "via": "rss"
     },
     {
-      "source": "OpenAI",
-      "type": "research",
-      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-      "url": "https://openai.com/index/pollo-ai",
-      "description": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+      "source": "Habr",
+      "type": "blog",
+      "title": "Пилот ИИ-сериала за 900₽ на GPU c Kandinsky 6: как я проверил, что персонажи вообще говорят",
+      "url": "https://habr.com/ru/articles/1092862/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092862",
+      "description": "Я попросил провести эксперимент с коротким сериалом. Агент собрал пилот: ролик на 52,2 секунды, 19 планов, три вымышленных персонажа и английские диалоги. Есть и промо на 22,4 секунды. Генерация шла...",
       "via": "rss"
     },
     {
-      "source": "OpenAI",
-      "type": "research",
-      "title": "LegalOn halves Codex costs while maintaining development speed",
-      "url": "https://openai.com/index/legalon-halves-codex-costs",
-      "description": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
+      "source": "Habr",
+      "type": "blog",
+      "title": "Мы перестали смотреть на дашборды расходов и добавили стоимость прямо в интерфейс Databricks",
+      "url": "https://habr.com/ru/articles/1092860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092860",
+      "description": "Я заметил, что у большинства современных облачных платформ есть интересная особенность, они показывают затраты, но слишком агрегированно и сложно. Иногда скрывают фичи через компбинации SKU. Вокруг...",
       "via": "rss"
     },
     {
-      "source": "OpenAI",
-      "type": "research",
-      "title": "Disrupting AI-enabled “false front” operations",
-      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
-      "description": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
+      "source": "Habr",
+      "type": "blog",
+      "title": "Физика и схемотехника бесколлекторных моторов и драйверов",
+      "url": "https://habr.com/ru/articles/1092858/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092858",
+      "description": "Схема устройства BLDC мотора С трехфазными моторами можно встретиться абсолютно везде. Если покопаться в своих вещах, то уверен у каждого дома найдётся пара-тройка разного вида экземпляров. Применений...",
       "via": "rss"
     },
     {
-      "source": "OpenAI",
-      "type": "research",
-      "title": "Helping teens learn, plan, and shape the future of AI",
-      "url": "https://openai.com/index/teens-learn-and-plan",
-      "description": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
+      "source": "Habr",
+      "type": "blog",
+      "title": "Как бизнесу сэкономить ресурсы на методологиях, которые не работают «из коробки» • ЦКП и статистики",
+      "url": "https://habr.com/ru/articles/1092850/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092850",
+      "description": "Разбор того, как построить систему оценки эффективности, которая контролирует себя сама, и почему заимствованную теорию необходимо переосмыслять относительно обстоятельств своего бизнеса, рынка и...",
       "via": "rss"
     },
     {
-      "source": "OpenAI",
-      "type": "research",
-      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-      "url": "https://openai.com/index/radisson",
-      "description": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
+      "source": "Habr",
+      "type": "blog",
+      "title": "Как я решал leetcode задачу",
+      "url": "https://habr.com/ru/articles/1092844/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092844",
+      "description": "Предисловие Для начала стоит прояснить что я не просто так от нечего делать открыл leetcode и начал решать задачки. Такое решение пришло после не очень удачных собеседований, задачи на которых я хоть...",
       "via": "rss"
     },
     {
-      "source": "OpenAI",
-      "type": "research",
-      "title": "GPT-6 and Intelligent UI for everyone",
-      "url": "https://openai.com/index/gpt-6-for-everyone",
-      "description": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
-      "via": "rss"
-    },
-    {
-      "source": "OpenAI",
-      "type": "research",
-      "title": "How Jump Trading is scaling quant research with ChatGPT",
-      "url": "https://openai.com/index/jump-trading",
-      "description": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+      "source": "Habr",
+      "type": "blog",
+      "title": "Мои парсеры не сломались. Они тихо возвращали пустоту",
+      "url": "https://habr.com/ru/articles/1083636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1083636",
+      "description": "Пустота — режим отказа по умолчанию для любого извлечения данных. И пустота не падает Два парсера курсов валют в моём приложении месяцами возвращали пустоту. Не ошибку. Не падение. Ни одной строчки ни...",
       "via": "rss"
     },
     {
@@ -3036,11 +3028,171 @@
       "via": "rss"
     },
     {
+      "source": "Financial Times Tech",
+      "type": "market",
+      "title": "Missile strike on Riyadh airport kills 12 and injures hundreds",
+      "url": "https://www.ft.com/content/391ddf3f-b233-41fd-819b-fcdbfb0ed010",
+      "description": "The following information can help our support team to resolve this issue . We apologise for any inconvenience .",
+      "via": "scrape"
+    },
+    {
+      "source": "Financial Times Tech",
+      "type": "market",
+      "title": "Trump is failing to arrest decline in popularity, FT poll shows",
+      "url": "https://www.ft.com/content/f6d29414-412d-4422-a5f4-cb3338f73d3a",
+      "description": " Trump is failing to arrest decline in popularity, FT poll shows .",
+      "via": "scrape"
+    },
+    {
+      "source": "Financial Times Tech",
+      "type": "market",
+      "title": "Russia steps up bid to kill European defence chiefs, spy agencies warn",
+      "url": "https://www.ft.com/content/5da2dd05-9583-4a75-b018-2c5024383ec4",
+      "description": "The following information can help our support team to resolve this issue . We apologise for any inconvenience .",
+      "via": "scrape"
+    },
+    {
+      "source": "Financial Times Tech",
+      "type": "market",
+      "title": "Why are our children not flourishing at school?",
+      "url": "https://www.ft.com/content/1ef0813e-843a-477b-bca8-457afba61ed4",
+      "description": "The following information can help our support team to resolve this issue . We apologise for any inconvenience .",
+      "via": "scrape"
+    },
+    {
+      "source": "Financial Times Tech",
+      "type": "market",
+      "title": "US hits commercial tanker in Gulf of Oman as tensions flare",
+      "url": "https://www.ft.com/content/f9b9f937-97b0-4a03-90f6-05d7c7344ab9",
+      "description": "The following information can help our support team to resolve this issue . We apologise for any inconvenience .",
+      "via": "scrape"
+    },
+    {
+      "source": "OpenAI",
+      "type": "research",
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "url": "https://openai.com/index/sophos",
+      "description": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+      "via": "rss"
+    },
+    {
+      "source": "OpenAI",
+      "type": "research",
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "url": "https://openai.com/index/asana-browser-agent",
+      "description": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+      "via": "rss"
+    },
+    {
+      "source": "OpenAI",
+      "type": "research",
+      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "url": "https://openai.com/index/oracle",
+      "description": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+      "via": "rss"
+    },
+    {
+      "source": "OpenAI",
+      "type": "research",
+      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "url": "https://openai.com/index/pollo-ai",
+      "description": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+      "via": "rss"
+    },
+    {
+      "source": "OpenAI",
+      "type": "research",
+      "title": "LegalOn halves Codex costs while maintaining development speed",
+      "url": "https://openai.com/index/legalon-halves-codex-costs",
+      "description": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
+      "via": "rss"
+    },
+    {
+      "source": "OpenAI",
+      "type": "research",
+      "title": "Disrupting AI-enabled “false front” operations",
+      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+      "description": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
+      "via": "rss"
+    },
+    {
+      "source": "OpenAI",
+      "type": "research",
+      "title": "Helping teens learn, plan, and shape the future of AI",
+      "url": "https://openai.com/index/teens-learn-and-plan",
+      "description": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
+      "via": "rss"
+    },
+    {
+      "source": "OpenAI",
+      "type": "research",
+      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+      "url": "https://openai.com/index/radisson",
+      "description": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
+      "via": "rss"
+    },
+    {
+      "source": "OpenAI",
+      "type": "research",
+      "title": "GPT-6 and Intelligent UI for everyone",
+      "url": "https://openai.com/index/gpt-6-for-everyone",
+      "description": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
+      "via": "rss"
+    },
+    {
+      "source": "OpenAI",
+      "type": "research",
+      "title": "How Jump Trading is scaling quant research with ChatGPT",
+      "url": "https://openai.com/index/jump-trading",
+      "description": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+      "via": "rss"
+    },
+    {
+      "source": "Anthropic",
+      "type": "research",
+      "title": "Expanding the Cyber Verification Program",
+      "url": "https://www.anthropic.com/news/cyber-verification-program",
+      "description": "We’re launching a new, expanded version of our Cyber Verification Program (CVP), which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.",
+      "via": "scrape"
+    },
+    {
+      "source": "Anthropic",
+      "type": "research",
+      "title": "The Situation Report",
+      "url": "https://www.anthropic.com/features/ebola-response",
+      "description": "",
+      "via": "scrape"
+    },
+    {
+      "source": "Anthropic",
+      "type": "research",
+      "title": "Introducing Claude Haiku 5.5",
+      "url": "https://www.anthropic.com/claude-haiku-5-5",
+      "description": "",
+      "via": "scrape"
+    },
+    {
+      "source": "Anthropic",
+      "type": "research",
+      "title": "Introducing Claude Sonnet 5.5",
+      "url": "https://www.anthropic.com/claude-sonnet-5-5",
+      "description": "",
+      "via": "scrape"
+    },
+    {
+      "source": "Anthropic",
+      "type": "research",
+      "title": "Introducing Claude Opus 5.5",
+      "url": "https://www.anthropic.com/claude-opus-5-5",
+      "description": "",
+      "via": "scrape"
+    },
+    {
       "source": "Neuralink",
       "type": "research",
       "title": "Pretraining on 50,000 Hours of Unlabeled Brain Data",
       "url": "https://neuralink.com/blog/pretraining-on-50000-hours",
-      "description": "How self-supervised encoders kept neural decoders working for weeks without recalibration and set an 11.32 BPS record.",
+      "description": "",
       "via": "scrape"
     },
     {
@@ -3056,7 +3208,7 @@
       "type": "research",
       "title": "Welcome, David McMullen!",
       "url": "https://neuralink.com/blog/welcome-david-mcmullen",
-      "description": "",
+      "description": "We’re thrilled to welcome David McMullen to Neuralink.",
       "via": "scrape"
     },
     {
@@ -3076,84 +3228,12 @@
       "via": "scrape"
     },
     {
-      "source": "Habr",
-      "type": "blog",
-      "title": "Карта интернет свободы в РФ",
-      "url": "https://habr.com/ru/articles/1092824/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092824",
-      "description": "Во время своей основной работы, я, как и многие из вас постоянно сталкиваюсь с проблемой доступа к различным ресурсам. В какой то момент, у меня начала закрадываться мысль - а во всей ли необъятной...",
-      "via": "rss"
-    },
-    {
-      "source": "Habr",
-      "type": "blog",
-      "title": "Титановые белила, Геринг и ядерные испытания: как физика ловит подделки картин",
-      "url": "https://habr.com/ru/articles/1092818/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092818",
-      "description": "Я создал сайт, в котором указаны удивительные факты о разных произведениях искусства. artatlas.site. Сайт идеально подходит для того, чтобы втянуть человека со стороны в мир искусства. Вот одна из...",
-      "via": "rss"
-    },
-    {
-      "source": "Habr",
-      "type": "blog",
-      "title": "Как Google научил крошечную модель понимать текст, картинки, видео и звук: разбираем EmbeddingGemma 2",
-      "url": "https://habr.com/ru/articles/1092812/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092812",
-      "description": "6 октября 2026 года Google DeepMind выпустила EmbeddingGemma 2 — открытую модель эмбеддингов, которая превращает в векторы текст, код, изображения, видео и аудио. Все они попадают в одно общее...",
-      "via": "rss"
-    },
-    {
-      "source": "Habr",
-      "type": "blog",
-      "title": "Odyssey-3: мировая модель, которая учит роботов физике по видео",
-      "url": "https://habr.com/ru/articles/1092810/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092810",
-      "description": "Попробуйте объяснить ребёнку, почему кружка, столкнутая со стола, разбивается. Вы вряд ли начнёте с закона всемирного тяготения. Ребёнок просто увидит сотни падающих предметов, и в его...",
-      "via": "rss"
-    },
-    {
-      "source": "Habr",
-      "type": "blog",
-      "title": "Нейросеть по рецепту: вычисляем веса вместо хранения матриц",
-      "url": "https://habr.com/ru/articles/1092220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092220",
-      "description": "Хочу рассказать об интересном подходе к построению ML-моделей. Как известно, практически любая нейросеть - это, грубо говоря, некая архитектура + некий набор весов. Веса здесь, опять же если говорить...",
-      "via": "rss"
-    },
-    {
-      "source": "Habr",
-      "type": "blog",
-      "title": "Поэзия агентной разработки или как теперь писать код",
-      "url": "https://habr.com/ru/articles/1092802/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092802",
-      "description": "Я к вам пишу — чего же боле? Агент все может написать. Но за ошибки поневоле Придется вам же отвечать. (Письмо инженера Татьяны к вайбкодеру Евгению) Как писать код...",
-      "via": "rss"
-    },
-    {
-      "source": "Habr",
-      "type": "blog",
-      "title": "«Нам это не нравится!»: как работать с сопротивлением в IT‑командах",
-      "url": "https://habr.com/ru/articles/1092794/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092794",
-      "description": "Предисловие «У вас недостаточно опыта работы с сопротивлением». Эту фразу я несколько раз слышал на собеседованиях на руководящие позиции в IT. Недавно услышал её снова и решил...",
-      "via": "rss"
-    },
-    {
-      "source": "Habr",
-      "type": "blog",
-      "title": "Kubernetes как ядро Linux, часть 1: собираем тулкит для создания дистрибутивов K8s и универсальный пакетный менеджер",
-      "url": "https://habr.com/ru/companies/aenix/articles/1092792/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092792",
-      "description": "Этот цикл статей стал результатом попытки посмотреть на Kubernetes как на ядро Linux: что, если K8s будет аналогом Linux Kernel и инженеры начнут работать не с ванильным...",
-      "via": "rss"
-    },
-    {
-      "source": "Habr",
-      "type": "blog",
-      "title": "Как Google Play сделал публикацию бесплатного приложения настоящим испытанием",
-      "url": "https://habr.com/ru/companies/gigapisar/articles/1092788/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092788",
-      "description": "Привет, Хабр! Если вы читали мои прошлые статьи, то знаете Гига Писаря: зажимаешь кнопку, говоришь, отпускаешь, и текст появляется там, где стоит курсор. Речь распознаёт модель GigaAM от Сбера...",
-      "via": "rss"
-    },
-    {
-      "source": "Habr",
-      "type": "blog",
-      "title": "Хотел выбрать булочную по отзывам, а написал анализатор аномалий с embeddings и графами",
-      "url": "https://habr.com/ru/articles/1092776/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1092776",
-      "description": "Недавно переехал. После каждого переезда я делаю одно и то же: открываю Яндекс Карты и смотрю, какие магазины рядом, где поесть и куда стоит зайти. Рейтинг заведения сам по себе мне мало что говорит....",
-      "via": "rss"
+      "source": "Stanford HAI",
+      "type": "research",
+      "title": "Failed to load Stanford HAI",
+      "url": "https://hai.stanford.edu/news",
+      "description": "429 Client Error: Too Many Requests for url: https://r.jina.ai/https://hai.stanford.edu/news",
+      "via": "scrape"
     },
     {
       "source": "Hugging Face Blog",
@@ -3316,86 +3396,6 @@
       "via": "rss"
     },
     {
-      "source": "Stanford HAI",
-      "type": "research",
-      "title": "Research Programs",
-      "url": "https://hai.stanford.edu/research/fellowship-programs",
-      "description": "",
-      "via": "scrape"
-    },
-    {
-      "source": "Stanford HAI",
-      "type": "research",
-      "title": "Student Affinity Groups",
-      "url": "https://hai.stanford.edu/research/student-affinity-groups",
-      "description": "",
-      "via": "scrape"
-    },
-    {
-      "source": "Stanford HAI",
-      "type": "research",
-      "title": "Research Publications",
-      "url": "https://hai.stanford.edu/research/publications",
-      "description": "",
-      "via": "scrape"
-    },
-    {
-      "source": "Stanford HAI",
-      "type": "research",
-      "title": "Research Partners",
-      "url": "https://hai.stanford.edu/research/partners",
-      "description": "",
-      "via": "scrape"
-    },
-    {
-      "source": "Stanford HAI",
-      "type": "research",
-      "title": "Executive and Professional Education",
-      "url": "https://hai.stanford.edu/education/professional-education",
-      "description": "",
-      "via": "scrape"
-    },
-    {
-      "source": "Anthropic",
-      "type": "research",
-      "title": "Expanding the Cyber Verification Program",
-      "url": "https://www.anthropic.com/news/cyber-verification-program",
-      "description": "We’re launching a new, expanded version of our Cyber Verification Program (CVP), which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.",
-      "via": "scrape"
-    },
-    {
-      "source": "Anthropic",
-      "type": "research",
-      "title": "The Situation Report",
-      "url": "https://www.anthropic.com/features/ebola-response",
-      "description": "",
-      "via": "scrape"
-    },
-    {
-      "source": "Anthropic",
-      "type": "research",
-      "title": "Introducing Claude Haiku 5.5",
-      "url": "https://www.anthropic.com/claude-haiku-5-5",
-      "description": "Claude Haiku 5.5 is the cheapest, fastest, and most capable small model we’ve ever released . It pairs well with Opus.5 and Sonnet.5 as a subagent on coding work . Since it’s also our fastest model to date, it works especially well for speed-",
-      "via": "scrape"
-    },
-    {
-      "source": "Anthropic",
-      "type": "research",
-      "title": "Introducing Claude Sonnet 5.5",
-      "url": "https://www.anthropic.com/claude-sonnet-5-5",
-      "description": "Claude Sonnet 5.5 is a clear upgrade over Claude Sonnet 5, runs 30%+ faster, and costs up to 30% less for most work.",
-      "via": "scrape"
-    },
-    {
-      "source": "Anthropic",
-      "type": "research",
-      "title": "Introducing Claude Opus 5.5",
-      "url": "https://www.anthropic.com/claude-opus-5-5",
-      "description": "Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.",
-      "via": "scrape"
-    },
-    {
       "source": "arXiv CS",
       "type": "research",
       "title": "Fri, 9 Oct 2026",
@@ -3438,9 +3438,17 @@
     {
       "source": "Washington Post Tech",
       "type": "news",
+      "title": "He shares a name with a Cornell rape suspect. Strangers started hunting him down.",
+      "url": "https://www.washingtonpost.com/technology/2026/10/11/how-cornell-rape-case-turned-into-sprawling-campaign-harassment/",
+      "description": "As vigilantes race to expose those connected to the case, innocent people have been doxed, threatened and falsely accused.",
+      "via": "scrape"
+    },
+    {
+      "source": "Washington Post Tech",
+      "type": "news",
       "title": "Anthropic AI agents took ‘unintended’ actions on government sites",
       "url": "https://www.washingtonpost.com/technology/2026/10/09/anthropic-discloses-incidents-its-ai-models-misusing-government-sites/",
-      "description": " Anthropic AI agents took ‘unintended’ actions on government sites .",
+      "description": "The inappropriate actions by its agents included submitting a false tip about a murder to Philadelphia police, Anthropic said.",
       "via": "scrape"
     },
     {
@@ -3465,14 +3473,6 @@
       "title": "This age-old career fear is a thing of the past, recruiters say",
       "url": "https://www.washingtonpost.com/business/2026/10/09/this-age-old-career-fear-is-thing-past-recruiters-say/",
       "description": "Why gaps on a resume are no longer blots on a career.",
-      "via": "scrape"
-    },
-    {
-      "source": "Washington Post Tech",
-      "type": "news",
-      "title": "We don’t have to live with the nightmare of passwords. There is a better way.",
-      "url": "https://www.washingtonpost.com/technology/2026/10/09/passkeys-are-best-way-log-into-websites-apps/",
-      "description": "Passkeys really do work. They’re silent and swift, and they eliminate the need for remembering and typing passwords.",
       "via": "scrape"
     }
   ]
