@@ -92,22 +92,6 @@
     "ai_summary": "Teaching learners with special educational needs requires dynamic and adaptive pedagogical strategies . This can be possible if teachers are assisted in mitigating the daily challenges of teaching such learners ."
   },
   {
-    "id": "crossref:10.3998/mjcsl.8122",
-    "title": "Title Pending 8122",
-    "abstract": "",
-    "authors": [],
-    "published": "2036",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.3998/mjcsl.8122",
-    "pdf_url": null,
-    "doi": "10.3998/mjcsl.8122",
-    "citations": 0,
-    "venue": "Michigan Journal of Community Service Learning",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
     "id": "crossref:10.3998/mjcsl.11105",
     "title": "Title Pending 11105",
     "abstract": "",
@@ -118,6 +102,22 @@
     "url": "https://doi.org/10.3998/mjcsl.11105",
     "pdf_url": null,
     "doi": "10.3998/mjcsl.11105",
+    "citations": 0,
+    "venue": "Michigan Journal of Community Service Learning",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "crossref:10.3998/mjcsl.8122",
+    "title": "Title Pending 8122",
+    "abstract": "",
+    "authors": [],
+    "published": "2036",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.3998/mjcsl.8122",
+    "pdf_url": null,
+    "doi": "10.3998/mjcsl.8122",
     "citations": 0,
     "venue": "Michigan Journal of Community Service Learning",
     "open_access": false,
@@ -212,11 +212,11 @@
     "source": "Crossref",
     "category": "index",
     "url": "https://doi.org/10.3998/mjcsl.4120",
-    "pdf_url": "https://doi.org/10.3998/mjcsl.4120",
+    "pdf_url": null,
     "doi": "10.3998/mjcsl.4120",
     "citations": 0,
     "venue": "Michigan Journal of Community Service Learning",
-    "open_access": true,
+    "open_access": false,
     "ai_summary": "No abstract available."
   },
   {
@@ -471,11 +471,11 @@
     "source": "Crossref",
     "category": "index",
     "url": "https://doi.org/10.58524/jcss.v4i2.890",
-    "pdf_url": null,
+    "pdf_url": "https://journal.foundae.com/index.php/jcss/article/download/890/456",
     "doi": "10.58524/jcss.v4i2.890",
     "citations": 2,
     "venue": "Journal of Coaching and Sports Science",
-    "open_access": false,
+    "open_access": true,
     "ai_summary": "Kinovea is an accessible motion-analysis software . It provides both visual and quantitative feedback . However, its application in supporting technique development among beginner athletes remains insufficiently explored ."
   },
   {
@@ -512,11 +512,11 @@
     "source": "Crossref",
     "category": "index",
     "url": "https://doi.org/10.5705/ss.202025.0275",
-    "pdf_url": "https://doi.org/10.5705/ss.202025.0275",
+    "pdf_url": null,
     "doi": "10.5705/ss.202025.0275",
     "citations": 0,
     "venue": "Statistica Sinica",
-    "open_access": true,
+    "open_access": false,
     "ai_summary": "No abstract available."
   },
   {
@@ -561,27 +561,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.5705/ss.202026.0109",
-    "title": "Inference for Extreme Value Index Through Individualized Fusion Learning",
-    "abstract": "",
-    "authors": [
-      "Hongfang Sun",
-      "Yu Chen",
-      "Tao Xu",
-      "Zhengjun Zhang"
-    ],
-    "published": "2029",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.5705/ss.202026.0109",
-    "pdf_url": null,
-    "doi": "10.5705/ss.202026.0109",
-    "citations": 0,
-    "venue": "Statistica Sinica",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
     "id": "crossref:10.5705/ss.202025.0230",
     "title": "Two-way Subgroup Structure Learning for High Dimensional Clustered Survival Data",
     "abstract": "",
@@ -603,21 +582,21 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.5705/ss.202025.0457",
-    "title": "Sparse Additive Off-policy Evaluation for Reinforcement Learning with Potentially Limited Number of Trajectories",
+    "id": "crossref:10.5705/ss.202026.0109",
+    "title": "Inference for Extreme Value Index Through Individualized Fusion Learning",
     "abstract": "",
     "authors": [
-      "Tuoyi Zhao",
-      "Chengchun Shi",
-      "Zhengling Qi",
-      "Lan Wang"
+      "Hongfang Sun",
+      "Yu Chen",
+      "Tao Xu",
+      "Zhengjun Zhang"
     ],
     "published": "2029",
     "source": "Crossref",
     "category": "index",
-    "url": "https://doi.org/10.5705/ss.202025.0457",
+    "url": "https://doi.org/10.5705/ss.202026.0109",
     "pdf_url": null,
-    "doi": "10.5705/ss.202025.0457",
+    "doi": "10.5705/ss.202026.0109",
     "citations": 0,
     "venue": "Statistica Sinica",
     "open_access": false,
@@ -639,6 +618,27 @@
     "url": "https://doi.org/10.5705/ss.202025.0205",
     "pdf_url": null,
     "doi": "10.5705/ss.202025.0205",
+    "citations": 0,
+    "venue": "Statistica Sinica",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "crossref:10.5705/ss.202025.0457",
+    "title": "Sparse Additive Off-policy Evaluation for Reinforcement Learning with Potentially Limited Number of Trajectories",
+    "abstract": "",
+    "authors": [
+      "Tuoyi Zhao",
+      "Chengchun Shi",
+      "Zhengling Qi",
+      "Lan Wang"
+    ],
+    "published": "2029",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.5705/ss.202025.0457",
+    "pdf_url": null,
+    "doi": "10.5705/ss.202025.0457",
     "citations": 0,
     "venue": "Statistica Sinica",
     "open_access": false,
@@ -738,6 +738,28 @@
     "ai_summary": "The chapter considers the rapid migration to digital learning as an emergency strategy . The findings show that the ability of national programmes such as NEP 2020, SWAYAM, DIKSHA, PM e-VIDYA, and others, to promote access to digital tools was low within periphery or hill areas ."
   },
   {
+    "id": "crossref:10.1504/ijims.2028.10081208",
+    "title": "Enhancements to the Deep Learning Architecture for Metaverse Integration in Medical Image Processing",
+    "abstract": "",
+    "authors": [
+      "Chandra Mani",
+      "Suman Avdhesh Yadav",
+      "Smita Sharma",
+      "S. Vikram Singh",
+      "Birendra Kumar Saraswat"
+    ],
+    "published": "2028",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.1504/ijims.2028.10081208",
+    "pdf_url": null,
+    "doi": "10.1504/ijims.2028.10081208",
+    "citations": 0,
+    "venue": "International Journal of Internet Manufacturing and Services",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
     "id": "crossref:10.55737/qjss.vii-i.26473",
     "title": "The Nexus of Leadership and Learning: Exploring Female Principals' Influence on the Teaching-Learning Process in Secondary Schools",
     "abstract": "<jats:p>The research paper will set out to debate the role played by the leadership competencies of principals in the teaching and learning process. The research will embrace a quantitative research design that will seek to answer the question concerning the relationship that exists between leadership skills of possessed by the  principals and the ongoing teaching-learning process in the female secondary schools using a co-relational study design. A survey instrument comprising of 37 items, which measured the leadership skills possessed by the selected principals and the prevailing teaching learning process, was used in the collection of data. Questionnaires for this study were administered to 108 male and female educators who were serving in secondary schools in Tehsil Wari, upper Dir and among them 100 questionnaires were submitted and were deemed to be useful in the analysis. The data in hand were calculated using Statistical Package of the Social Sciences (SPSS) version-27 and the obtained results indicated that the collected data was normally distributed. The findings revealed that all the variables of the study had great correlations. The analysis of the data was done through linear regression to measure the effect that the leadership skills of the principals had on the teaching learning process and this indicated that leadership skills of the principals have statistically significant effect on the teaching learning process. The policies derived out of this research can be a good guide to both the policymakers and organizational leaders because they can provide a good outline on how to empower the leaders in charge of the principals and as well as exert more influence on the effective teaching and learning processes.</jats:p>",
@@ -779,28 +801,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.1504/ijims.2028.10081208",
-    "title": "Enhancements to the Deep Learning Architecture for Metaverse Integration in Medical Image Processing",
-    "abstract": "",
-    "authors": [
-      "Chandra Mani",
-      "Suman Avdhesh Yadav",
-      "Smita Sharma",
-      "S. Vikram Singh",
-      "Birendra Kumar Saraswat"
-    ],
-    "published": "2028",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.1504/ijims.2028.10081208",
-    "pdf_url": null,
-    "doi": "10.1504/ijims.2028.10081208",
-    "citations": 0,
-    "venue": "International Journal of Internet Manufacturing and Services",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
     "id": "pubmed:42859778",
     "title": "Prolonging breath-hold duration in radiotherapy using cognitive engagement.",
     "abstract": "Deep inspiration breath-hold (DIBH) is commonly used in breast cancer radiotherapy to decrease cardiac radiation exposure. Using high-flow nasal oxygen and hyperventilation we achieved voluntary long deep inspiration breath-holds (L-DIBH) exceeding 3 min. Substantial variability in L-DIBH duration among subjects remains, not explained by physical factors. We investigated how cognitive engagement could impact the L-DIBH. Thirty-six subjects (20 volunteers and 16 patients) each performed 12 L-DIBHs over 4 sessions. During half of the sessions, they were instructed to focus on a mental exercise. Each L-DIBH was preceded by a validated hyperventilation and oxygenation protocol. The baseline DIBH time was calculated by taking the mean of 3 DIBHs. Linear Mixed Models were used to analyse the impact of this exercise on L-DIBH duration. All 36 subjects completed the four sessions, yielding 432 L-DIBHs, including 216 with mental exercises. The mean L-DIBH duration was 152 s overall and 126 s in the patient subgroup. Volunteers outperformed patients. L-DIBH duration increased both within and between sessions, demonstrating a learning effect. The mental exercise increased mean duration by 14,9 s in the full cohort and by 19,0 s among patients. Its relative benefit compared with the between-session learning effect was greatest in those with poorer baseline DIBH times. A simple mental exercise effectively increases voluntary L-DIBH duration, providing a particularly meaningful benefit for participants with lower baseline DIBH times.",
@@ -817,11 +817,11 @@
     "source": "PubMed",
     "category": "journal",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42859778/",
-    "pdf_url": "https://www.ctro.science/article/S2405-6308(26)00195-3/pdf",
+    "pdf_url": null,
     "doi": "10.1016/j.ctro.2026.101300",
     "citations": 0,
     "venue": "Clinical and translational radiation oncology",
-    "open_access": true,
+    "open_access": false,
     "ai_summary": "Deep inspiration breath-holds (DIBH) are commonly used in breast cancer radiotherapy to decrease cardiac radiation exposure . Thirty-six subjects (20 volunteers and 16 patients) each performed 12 L-DibHs over 4 sessions . During half of the sessions, they were instructed to focus on a mental exercise"
   },
   {
@@ -983,147 +983,152 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "pubmed:42859731",
-    "title": "Endothelial Dysfunction and Metabolic Reprogramming in Cardiovascular Diseases.",
-    "abstract": "Endothelial cells regulate hemodynamics, inflammation, and vascular barrier integrity, thereby playing a central role in vascular homeostasis. Pathological conditions, including hypertension, hyperglycemia, and hyperlipidemia, induce metabolic reprogramming in these cells, altering the balance among glycolysis, fatty acid oxidation, and amino acid metabolism. This reprogramming drives endothelial dysfunction, characterized by reduced nitric oxide (NO) levels, increased inflammation and oxidative stress, and a weakened vascular barrier, thereby accelerating the progression of atherosclerosis, myocardial infarction, calcific aortic valve disease, and aortic aneurysms. Altered metabolites, such as lactate and acetyl-CoA, further exacerbate injury by modulating epigenetic changes and cell signaling. Endothelial metabolism has emerged as a promising therapeutic target for cardiovascular diseases. Natural compounds such as resveratrol, quercetin, and curcumin enhance NO production and reduce oxidative stress. Traditional Chinese medicine formulations (e.g., Qili Qiangxin and Tongxinluo capsules) help regulate glucose and lipid metabolism, thereby mitigating mitochondrial dysfunction and inflammation. Synthetic drugs, including metformin, sodium-glucose transporter 2 (SGLT2) inhibitors, glucagon-like peptide-1 receptor (GLP-1R) agonists, and experimental agents such as I-152, protect vessels by restoring metabolic homeostasis and endothelial function. Future research integrating multi-omics technologies and artificial intelligence is expected to enable real-time metabolic monitoring and precision interventions. Emerging delivery systems, such as exosome-based approaches and stem cell therapies, offer additional therapeutic potential. A deeper understanding of endothelial metabolic reprogramming will provide novel targets for preventing and treating cardiovascular diseases, thereby advancing precision medicine.",
+    "id": "pubmed:42859884",
+    "title": "PGpath: recommending population-adapted linear reference genomes from pangenome subpaths.",
+    "abstract": "Large-scale population sequencing requires reference genomes that accurately represent the genetic background of target populations. Although high-quality linear references such as T2T-CHM13 have improved the completeness of human genome representation, a single reference genome remains insufficient to capture genetic diversity across populations. Pangenome graphs provide a richer representation of multi-source genomic variation, but translating pangenome diversity into practical reference genomes remains challenging. First, the direct application of pangenome graphs in routine large-scale sequencing analysis is limited by graph complexity and poor compatibility with existing linear-reference workflows. Second, existing pangenome-driven personalized references mainly target individual samples rather than populations, and current path recommendation strategies may overlook local source consistency during branch-node selection. In this study, we propose PGpath, a pangenome-based method for recommending population-adapted linear reference genomes. PGpath generates a reference from a selected pangenome subpath, preserving pangenome diversity while retaining a linear format compatible with standard downstream pipelines. In this study, we characterize the shared genetic background of samples using population-level k-mer frequency features and reformulate reference recommendation as branch-node prediction in the pangenome graph. To encourage local source consistency, we develop a topology-constrained multi-task neural network incorporating source-consistency relationships between adjacent branch nodes. Experiments on Human Pangenome Reference Consortium (HPRC) population datasets and HG002 variant detection benchmarks showed that PGpath-derived references improved read mapping performance and reduced downstream variant detection errors compared with commonly used references. PGpath provides a practical strategy for translating pangenome diversity into population-adapted linear references for large-scale genomic analysis.",
     "authors": [
-      "Hongyu Chen",
-      "Yingliang Zhao",
-      "Chengxin Ge",
-      "Jianing Wang",
-      "Zhihua Wang",
-      "Hanzhang Wang",
-      "Shaopeng Cheng",
-      "Yilin Wang",
-      "Jie Yang",
-      "Dongjin Wang",
-      "Hoshun Chong",
-      "Chuiyu Kong"
+      "Zhengfa Xue",
+      "Xuwen Wang",
+      "Jiajing Yuan",
+      "Tianci Wang",
+      "Xiaoqi Sheng",
+      "Tinghe Zhang",
+      "Jiayin Wang",
+      "Hongmin Cai"
     ],
-    "published": "2026-Sep",
+    "published": "2026-Sep-01",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42859731/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42859884/",
     "pdf_url": null,
-    "doi": "10.31083/RCM51541",
+    "doi": "10.1093/bib/bbag547",
     "citations": 0,
-    "venue": "Reviews in cardiovascular medicine",
+    "venue": "Briefings in bioinformatics",
     "open_access": false,
-    "ai_summary": "Endothelial cells regulate hemodynamics, inflammation, and vascular barrier integrity . Endothelial metabolism has emerged as a promising therapeutic target for cardiovascular diseases ."
+    "ai_summary": "Large-scale population sequencing requires reference genomes that accurately represent the genetic background of target populations . Pangenome graphs provide a richer representation of multi-source genomic variation, but translating pangenomes into practical reference genomes remains challenging ."
   },
   {
-    "id": "pubmed:42859700",
-    "title": "Deep Learning Optimizes the Diagnostic Performance of Coronary Computed Tomography Angiography in Heavily Calcified Coronary Plaques: A Chinese Multicenter Study.",
-    "abstract": "Accurate evaluation of coronary luminal stenosis using coronary computed tomography angiography (CCTA) remains significantly impaired in the presence of severe coronary artery calcification. Calcification-related blooming artifacts frequently lead to overestimation of stenosis severity and reduced diagnostic specificity, representing a persistent and unresolved challenge in clinical practice. Thus, this study aimed to develop and validate a self-supervised deep learning (DL) algorithm to improve the diagnostic performance of CCTA for assessing luminal stenosis in patients with heavily calcified coronary plaques (Agatston score >300), using quantitative coronary angiography (QCA) as the reference standard. This multicenter retrospective study enrolled 786 patients with agatston score (AS) >300 who underwent both CCTA and QCA from four Chinese hospitals. The dataset was randomly divided into a training group (80%, n = 628) for algorithm development and a validation group (20%, n = 158). The diagnostic performance of the DL model and radiologists was compared using sensitivity, specificity, positive predictive value (PPV), and negative predictive value (NPV) for detecting ≥50% diameter stenosis at the lesion, vessel, and patient levels. Reporting time was also evaluated. In the validation cohort, 476 calcified lesions in 213 vessels from 93 patients were confirmed by QCA to have ≥50% diameter stenosis. The DL model demonstrated significantly higher specificity than radiologists at both the vessel level (52% vs. 30%) and patient level (74% vs. 57%) (all  The proposed self-supervised DL model enables rapid and more accurate assessment of luminal stenosis in the presence of heavily calcified plaques, with improved diagnostic specificity and greater workflow efficiency.",
+    "id": "pubmed:42859883",
+    "title": "From conservation scores to language models: a feature engineering perspective on machine learning for genetic variant interpretation.",
+    "abstract": "The interpretation of genetic variants remains central to precision medicine, and machine-learning-based variant effect prediction tools have become indispensable for supporting decision-making processes. In this review we trace the progression from hand-crafted features and traditional machine learning classifiers, through supervised ensembles, to deep-learning architectures and foundation models that learn representations directly from biological sequences. We classify methods for genetic variant effect prediction by underlying machine learning model and variant type handled, from missense to non-coding and structural, as well as across feature categories, describing their biological rationale, adoption rate, and known limitations. We further examine three cross-cutting methodological challenges-feature orthogonality, data circularity, and training data bias-that affect reliability and clinical applicability, providing a critical overview of the current landscape and the challenges that lie ahead.",
     "authors": [
-      "Chunyan Shi",
-      "Chengjin Yu",
-      "Bin Zhang",
-      "Benjamin Ellison",
-      "Zhifan Gao",
-      "Zhe Fang",
-      "Bin Hu",
-      "Jiayin Zhang",
-      "Ximing Wang",
-      "Longjiang Zhang",
-      "Heye Zhang",
-      "Lei Xu",
-      "Rui Wang"
+      "Matteo Bulloni",
+      "Martina Vescio",
+      "Federico De Mori Bajolin",
+      "Linda Pattini"
     ],
-    "published": "2026-Sep",
+    "published": "2026-Sep-01",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42859700/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42859883/",
     "pdf_url": null,
-    "doi": "10.31083/RCM49404",
+    "doi": "10.1093/bib/bbag552",
     "citations": 0,
-    "venue": "Reviews in cardiovascular medicine",
+    "venue": "Briefings in bioinformatics",
     "open_access": false,
-    "ai_summary": "Study aimed to develop and validate a self-supervised deep learning (DL) algorithm to improve the diagnostic performance of CCTA . Calcification-related blooming artifacts frequently lead to overestimation of stenosis severity and reduced diagnostic specificity ."
+    "ai_summary": "The interpretation of genetic variants remains central to precision medicine . We trace the progression from hand-crafted features and traditional machine learning classifiers to deep-learning architectures . We also examine three cross-cutting methodological challenges-feature orthogonality, data circularity, and training data bias-that affect reliability and clinical applicability ."
   },
   {
-    "id": "pubmed:42859739",
-    "title": "AI and speech-based identification of cognitive impairment in maintenance haemodialysis-the ASPIRE study.",
-    "abstract": "Cognitive impairment (CI) is common among individuals receiving maintenance haemodialysis and is associated with impaired treatment adherence, reduced quality of life, and mortality. However, CI often remains under-recognized in nephrology care because existing diagnostic approaches are resource-intensive. Speech-based artificial intelligence (AI) is a promising approach for identifying CI through analysis of speech characteristics. This proof-of-concept study investigated whether a speech-based AI model could identify Montreal Cognitive Assessment (MoCA)-based CI and distinguish individuals receiving haemodialysis from clinically relevant controls. Adults receiving maintenance haemodialysis and controls completed the MoCA and speech tasks. Participants were categorized into low-, moderate-, and high-risk CI groups according to MoCA scores. Acoustic, linguistic, and multimodal speech features were extracted using machine-learning models. Model performance was evaluated. Speech-based AI differentiated individuals receiving haemodialysis from controls ( Speech-based AI suggested potential as a scalable, non-invasive, and low-burden approach for identifying CI. Verbal fluency tasks and multimodal speech analysis showed the strongest classification performance. Although larger multicentre studies are needed, these findings provide proof of concept that speech may serve as a clinically relevant biomarker of CI in nephrology and support further validation using comprehensive neuropsychological assessment as a reference standard.",
+    "id": "pubmed:42859952",
+    "title": "A Likelihood-Based Framework for Simultaneously Learning Both Noise and Growth Dynamics Using Biologically-Informed Neural Networks.",
+    "abstract": "In recent years, neural ordinary differential equation frameworks such as Biologically-Informed Neural Networks (BINNs) have shown promise for learning mechanistic laws from sparse data. However, most existing approaches implicitly assume homoscedastic Gaussian noise, and therefore do not account for potentially meaningful structure in biological variability. Here, we present an extension to the existing BINNs framework that includes a learnable noise model, allowing discovery of the noise model directly from data. Using population growth as an example, we demonstrate that the framework accurately recovers the underlying noise structure and improves predictions of the underlying growth laws compared to existing approaches. As such, this work establishes a general likelihood-based framework for jointly learning dynamics and heteroscedastic noise within mechanistic neural network approaches.",
     "authors": [
-      "Anne Møller Lohmann",
-      "Maria Dolmer Knop",
-      "Laurine Dargaud",
-      "Abhista Partal",
-      "Dimitrios Salogiannis",
-      "Henrik Birn",
-      "Jeanette Finderup"
+      "Rebecca M Crossley",
+      "Ruth E Baker"
+    ],
+    "published": "2026-Oct-11",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42859952/",
+    "pdf_url": null,
+    "doi": "10.1007/s11538-026-01755-8",
+    "citations": 0,
+    "venue": "Bulletin of mathematical biology",
+    "open_access": false,
+    "ai_summary": "In recent years, neural ordinary differential equation frameworks such as Biologically-Informed Neural Networks have shown promise for learning mechanistic laws from sparse data . We present an extension to the existing BINNs framework that includes a learnable noise model . Using population growth as an example, we demonstrate that the framework accurately recovers the underlying"
+  },
+  {
+    "id": "pubmed:42859950",
+    "title": "Data-Driven Prediction of Speech-in-Noise Performance: A Systematic Review and Meta-analysis of Machine Learning Models.",
+    "abstract": "Difficulty understanding speech in noise (SIN) is a major determinant of communication ability and quality of life, affecting individuals with hearing loss as well as some with normal hearing. Data-driven prediction methods offer a promising approach for modeling complex, multidimensional factors underlying speech perception. This systematic review and meta-analysis evaluated computational approaches for predicting SIN-related outcomes, compared predictive performance across model classes where quantitative synthesis was feasible, and identified methodological factors relevant to model selection, generalizability, and clinical translation. Following PRISMA 2020 guidelines, we conducted a systematic review and meta-analysis of studies using machine learning (ML), neural networks, automatic speech recognition (ASR), or auditory model-based approaches to predict, simulate, or evaluate SIN-related outcomes. Quantitative synthesis was performed using random-effects models for studies reporting support vector machine (SVM) or random forest (RF) performance, and between-study heterogeneity was assessed. Eligible studies included traditional ML, neural network, ASR-based, and mechanistic auditory modeling approaches. SVM accuracy pooled at 0.71 and SVM area under the curve at 0.84, while RF accuracy pooled at 0.86 and RF recall at 0.81. Bootstrap estimates were broadly consistent with the primary random-effects estimates, although between-study heterogeneity ranged from moderate to very high across analyses. Data-driven prediction approaches show promise for predicting SIN-related outcomes, but high heterogeneity precludes identifying a single optimal model. Model selection should reflect the prediction target, data type, sample size, interpretability, and intended use. Current evidence supports proof-of-concept performance more strongly than clinical utility, highlighting the need for larger, standardized, externally validated studies.",
+    "authors": [
+      "Prabhani Athukorala",
+      "Anu Nair",
+      "Srikanta K Mishra"
+    ],
+    "published": "2026-Oct-11",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42859950/",
+    "pdf_url": null,
+    "doi": "10.1007/s10439-026-04407-z",
+    "citations": 0,
+    "venue": "Annals of biomedical engineering",
+    "open_access": false,
+    "ai_summary": "Data-driven prediction methods offer a promising approach for modeling complex, multidimensional factors underlying speech perception . This systematic review and meta-analysis evaluated computational approaches for predicting SIN-related outcomes ."
+  },
+  {
+    "id": "pubmed:42859947",
+    "title": "Mapping Research on Warm-Up in Athletes: A Scoping Review with Evidence Gap Map.",
+    "abstract": "Warm-up is a central preparatory phase of training and competition, aimed at optimizing physiological and neuromuscular readiness for subsequent performance and reducing the risk of injury. However, the athlete warm-up literature spans diverse sports, populations, and intervention models, with substantial variability in protocol content, outcome selection, and reporting. No prior scoping review with an Evidence Gap Map (EGM) has comprehensively mapped this evidence across sports, warm-up modalities, and outcome domains. To map the landscape of warm-up evidence in athletes, identify the main intervention types and outcome domains investigated, and locate key evidence gaps related to methodology, population coverage, sport specificity, and real-world applicability. A scoping review with EGM was conducted in accordance with PRISMA-ScR guidance, with methodological considerations informed by the PRISMA 2020 statement. Searches were performed in PubMed, Scopus, SPORTDiscus, and Web of Science Core Collection for studies published up to 20th January 2026. Eligible studies examined warm-up practices in athletes across competitive sports and evaluated performance, injury-related, physiological, or neuromuscular outcomes. Data were synthesized descriptively and organized within an EGM according to sport, age subgroup, warm-up type, and reported outcomes. The search yielded 27,644 records, of which 964 studies published between 1972 and 2026 were included. Most studies examined acute, proxy-based performance outcomes, especially jump, sprint, agility/change-of-direction, and strength/power measures. Physiological and neuromuscular responses were also frequently assessed, whereas injury-related outcomes, competition-referent outcomes, and implementation-focused variables were comparatively scarce. The EGM identified recurring gaps in injury endpoints, underrepresented sports, incomplete reporting of dose variables, and limited ecological validity for feasibility, adherence, and real-world deployment. In the current warm-up evidence, the majority of the research studied warm-up as a strategy for acute performance readiness. In addition, studies on injury reduction remain limited compared to acute performance enhancement, reflecting a surveillance and reporting gap. Evidence for competition-referent transfer and real-world implementation also remains limited. OSF: https://osf.io/f3msz, DOI: 10.17605/OSF.IO/7H9ZV.",
+    "authors": [
+      "João Bruno",
+      "Eduardo Abade",
+      "Raynier Montoro-Bombú",
+      "Rohit Kumar Thapa",
+      "Hugo Sarmento"
+    ],
+    "published": "2026-Oct-11",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42859947/",
+    "pdf_url": null,
+    "doi": "10.1186/s40798-026-01123-9",
+    "citations": 0,
+    "venue": "Sports medicine - open",
+    "open_access": false,
+    "ai_summary": "Warm-up is a central preparatory phase of training and competition . It is aimed at optimizing physiological and neuromuscular readiness for subsequent performance and reducing the risk of injury ."
+  },
+  {
+    "id": "pubmed:42859859",
+    "title": "Patient-ventilator asynchronies beyond the waveform.",
+    "abstract": "Patient-ventilator asynchrony is commonly treated as a technical mismatch requiring correction, although asynchronous breaths are not uniformly harmful and apparent synchrony may conceal injurious effort. This review summarizes evidence from the past 18 months that redefines asynchrony through inspiratory effort, the transition to assisted breathing, and continuous waveform monitoring. Potential harm depends on effort magnitude and timing, breath stacking, ventilatory mode, lung and diaphragm vulnerability, dyspnea, and cumulative exposure. Double triggering, reverse triggering, and ineffective efforts may indicate injury, overassistance, or recovery depending on context. During transition, work shifts from ventilator to patient, exposing patients to both excessive and insufficient effort. Continuous analysis can identify burden, clustering, and physiological trajectories missed by intermittent inspection. Artificial-intelligence models increasingly estimate effort and dynamic driving pressure, but heterogeneous definitions, limited external validation, artifacts, and uncertain actionability constrain implementation. Management should move beyond eliminating individual events toward minimizing time outside individualized ranges of acceptable effort and assistance. Monitoring should integrate waveforms with effort, lung stress, diaphragm loading, dyspnea, ventilator settings, and temporal context. Artificial intelligence should support bedside reassessment rather than autonomous adjustment. Multicenter validation and physiology-guided trials must establish whether this approach improves patient-centered outcomes.",
+    "authors": [
+      "Candelaria de Haro",
+      "Eduardo Mireles-Cabodevila",
+      "Gerard Castells-Tortosa",
+      "Leonardo Sarlabous",
+      "Lluís Blanch"
+    ],
+    "published": "2026-Oct-12",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42859859/",
+    "pdf_url": null,
+    "doi": "10.1097/MCC.0000000000001446",
+    "citations": 0,
+    "venue": "Current opinion in critical care",
+    "open_access": false,
+    "ai_summary": "Patient-ventilator asynchrony is commonly treated as a technical mismatch requiring correction . But synchrony is not uniformly harmful, and apparent synchrony may conceal injurious effort . During transition, work shifts from ventilator to patient, exposing patients to both excessive and insufficient effort ."
+  },
+  {
+    "id": "pubmed:42859874",
+    "title": "AutoPlan: Autonomous Surgical Planning Framework for Neurosurgery Interventions With Steerable Needles.",
+    "abstract": "Accurate path planning for minimally invasive neurosurgery is necessary to navigate complex anatomy that contains critical structures, such as blood vessels, ventricles and white-matter tracts. Planning with nonholonomic kinematics is difficult, and typical planners fail to generate kinematically feasible paths. AutoPlan is a deep reinforcement learning (DRL) framework that generates a needle trajectory on a magnetic resonance imaging (MRI) patient dataset. AutoPlan implements kinematic control strategies, variable curvature with fixed insertion (VCFI) and variable insertion with fixed curvature (VIFC), with random and selective start-point initialisation. Path planning was performed on 55 volumes using PPO, SAC, DDPG and RRT. PPO (VIFC, selective start): 90.9% success, path length 45.96  AutoPlan provides consistent planning while avoiding critical structures, resulting in fast, kinematically safe trajectories.",
+    "authors": [
+      "Pranali Ingole",
+      "Niravkumar Patel"
     ],
     "published": "2026-Oct",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42859739/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42859874/",
     "pdf_url": null,
-    "doi": "10.1093/ckj/sfag316",
+    "doi": "10.1002/rcs.70239",
     "citations": 0,
-    "venue": "Clinical kidney journal",
+    "venue": "The international journal of medical robotics + computer assisted surgery : MRCAS",
     "open_access": false,
-    "ai_summary": "Speech-based artificial intelligence (AI) is a promising approach for identifying CI through analysis of speech characteristics . This proof-of-concept study investigated whether a speech-based AI model could identify individuals receiving haemodialysis from clinically relevant controls ."
-  },
-  {
-    "id": "pubmed:42859773",
-    "title": "Trends in Modifiable Risk Factors Contributing to Ischemic Heart Disease Mortality in Afghanistan: Estimates From the Global Burden of Disease Study 2023 (1999-2023).",
-    "abstract": "Ischemic heart disease (IHD) is the leading cause of death, and the majority of this burden can be attributed to modifiable risk factors. Although surveys show that these risk factors are prevalent in Afghanistan, no study has used Global Burden of Disease (GBD) methodology to describe their contribution to IHD mortality. The study examined trends (1999-2023) in 14 selected behavioral, dietary, and metabolic risk factors for IHD mortality using the GBD 2023 estimates. This retrospective analysis used GBD 2023 estimates of deaths from IHD in Afghanistan attributable to 14 selected behavioral, dietary, and metabolic risk factors and to the GBD \"all risk factors\" composite, which also includes exposures outside these 14 (e.g., air pollution), covering 1999-2023 (both sexes; all ages and age-standardized). The number (N) and percentage (%) attributable to each risk factor are reported. Trends in age-standardized death rates were examined with a segmented log-linear trend analysis written by the authors as a permutation-based approximation to the NCI Joinpoint approach; the NCI software was not used. The average annual percentage change (AAPC) and its 95% confidence interval (CI) are conditional on the selected model. A multiple linear regression was used only as a descriptive comparison of average rates by risk factor category, sex, and calendar year. A p-value of 0.05 or less was considered significant, with no adjustment for multiple comparisons, so the trend results are exploratory. From 1999 to 2023, the age-standardized IHD death rate for all GBD risk factors combined (the GBD composite) went down from 275.94 to 230.49 per 100,000. This is a drop of 16.5% (AAPC: -0.77%, 95% CI: -0.90 to -0.63; p < 0.001). We found at least one joinpoint in 41 of the 45 series, and most of them were around 2009 and 2013. High systolic blood pressure (11,969.1 deaths, or 55.17% of all IHD deaths in 2023) and high low-density lipoprotein (LDL) cholesterol (5,875.8 deaths, or 27.12%) remained the leading factors among the 14, both of which were decreasing (AAPC: -0.95% and -1.14%; both p < 0.001). The rates associated with a diet high in sugar-sweetened beverages (AAPC: +1.28%, 95% CI: +0.94 to +1.63; p < 0.001) and with smoking (AAPC: +0.37%; p < 0.001) increased, whereas the increases linked to a diet high in processed meat, sodium, and secondhand smoke were not significant in the segmented model (all p > 0.05). The age-standardized rates were higher among females, while the smoking rates were higher among males (25.83 as compared with 5.09 per 100,000). In the descriptive regression model (N = 700; R² = 0.963), average rates differed by risk factor category, calendar year, and sex (all p < 0.05), with high systolic blood pressure having the largest coefficient (B = +140.92; p < 0.001). In Afghanistan, metabolic risk factors, especially high systolic blood pressure and high LDL cholesterol, were the largest contributors to IHD deaths among the 14 selected risk factors. The composite age-standardized rate declined, with a common inflection around 2009-2013 that may reflect GBD modeling inputs. The rates attributable to sugar-sweetened beverages and to smoking increased, which points to an emerging threat that should be the subject of targeted prevention measures, with ongoing efforts to control hypertension and lipid levels. These exploratory trend estimates need confirmation with the NCI Joinpoint software.",
-    "authors": [
-      "Ahmad Khan",
-      "Melanie Tidman"
-    ],
-    "published": "2026-Oct",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42859773/",
-    "pdf_url": null,
-    "doi": "10.7759/cureus.117727",
-    "citations": 0,
-    "venue": "Cureus",
-    "open_access": false,
-    "ai_summary": "The study examined trends in 14 selected behavioral, dietary, and metabolic risk factors for IHD mortality . The number (N) and percentage (%) attributable to each risk factor are reported . The study used GBD 2023 estimates of deaths from IHD in Afghanistan ."
-  },
-  {
-    "id": "pubmed:42859688",
-    "title": "From Challenge to Studio: A Prototype Frontline AI Innovation Mechanism to Address the AI Embedding Deficit in Healthcare and Educational Institutions.",
-    "abstract": "Health systems are expanding access to artificial intelligence (AI), yet frontline integration into teaching, clinical workflows, and research practice remains uneven. We frame this gap as the \"AI embedding deficit,\" reflecting limited organizational pathways that enable frontline professionals to translate local needs into legitimate, supported, and sustainable AI-enabled tools and workflows. This Experience Report describes a prototype intervention mechanism implemented at an academic nursing school: a rapid-cycle Nursing-AI Challenge followed by a year-round Nursing-AI Studio (NAIS) designed to stabilize and scale embedding. We implemented the Nursing-AI Challenge as a structured, time-bounded mechanism to solicit real-world challenges from nursing faculty, translate and curate submissions through an interdisciplinary facilitation role, match challenges to AI trainees and mentors, and support rapid proposal development culminating in a public showcase. We then developed NAIS to address continuity and embedding barriers revealed in the Challenge, incorporating continuous intake, environmental scanning, supported co-development, year-round coordination, formalized interdisciplinary partnerships, and a strategic memorandum of understanding with the Chief Information Officer's office to support legitimate integration pathways. In the inaugural Challenge cycle (Spring 2025), nursing faculty identified 17 challenges spanning education, clinical practice, and research, and students in AI-related fields submitted eight proposals, followed by team formation, co-design of the AI prototypes, and a public showcase event. Implementation reflections identified key sustainability barriers including semester-bounded participation, summer momentum gaps, and intellectual property ambiguity. NAIS was established (Fall 2025 onward) to mitigate these barriers and support ongoing embedding. In early Spring 2026, NAIS launched \"Teaching with AI,\" a clinical faculty innovation initiative piloting an AI-powered teaching tool fully deployed within the university's information technology infrastructure. A Challenge-to-Studio pathway may function as a practical prototype mechanism for learning health systems seeking to reduce embedding barriers and convert decentralized frontline innovation into durable, governable, and evaluable practice change.",
-    "authors": [
-      "Bo Xie"
-    ],
-    "published": "2026-Oct",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42859688/",
-    "pdf_url": null,
-    "doi": "10.1002/lrh2.70126",
-    "citations": 0,
-    "venue": "Learning health systems",
-    "open_access": false,
-    "ai_summary": "Health systems are expanding access to artificial intelligence (AI) Yet frontline integration into teaching, clinical workflows and research practice remains uneven . This Experience Report describes a prototype intervention mechanism implemented at an academic nursing school ."
-  },
-  {
-    "id": "pubmed:42859670",
-    "title": "Normative metrics and sex-specific differences in 3D acetabular morphology in asymptomatic young adults: implications for hip preservation surgery.",
-    "abstract": "Radiographs do not entirely capture the complexity of acetabular morphology. The purpose of this study was to establish normative three-dimensional (3D) acetabular morphology in young adults without hip disease and identify sex-specific differences in acetabular coverage. We analysed 3505 hips from 1856 asymptomatic subjects aged 18-25; 48% were female (",
-    "authors": [
-      "Eduardo N Novais",
-      "Munif Hatem",
-      "Mohammadreza Movahhedi",
-      "Shanika De Silva",
-      "Young-Jo Kim",
-      "Ata Kiapour"
-    ],
-    "published": "2026-Aug",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42859670/",
-    "pdf_url": null,
-    "doi": "10.1093/jhps/hnaf049",
-    "citations": 0,
-    "venue": "Journal of hip preservation surgery",
-    "open_access": false,
-    "ai_summary": "The purpose of this study was to establish normative three-dimensional (3D) acetabular morphology in young adults without hip disease . We analysed 3505 hips from 1856 asymptomatic subjects aged 18-25; 48% were female ."
+    "ai_summary": "Accurate path planning for minimally invasive neurosurgery is necessary to navigate complex anatomy . Planning with nonholonomic kinematics is difficult, and typical planners fail to generate kinematically feasible paths . AutoPlan is a deep reinforcement learning (DRL) framework that generates a needle trajectory."
   },
   {
     "id": "openalex:W7118880740",
@@ -1842,6 +1847,27 @@
     "ai_summary": "No abstract available."
   },
   {
+    "id": "arxiv:2610.12469v1",
+    "title": "Rubric-CEPR: Self-Evolving Image Editing via Reward-Verified Self-Distillation",
+    "abstract": "Instruction-guided image editors have become highly capable, yet improving them further still depends on human-edited training pairs or external reward models. Such supervision is costly to obtain and can reward plausible failures: a realistic output may leave the requested change undone or alter content that should be preserved. In this work, we strive to improve a pretrained image editor using only its own generations, without human-edited targets or an external training-time reward model. To this end, we propose a self-evolving framework, named Rubric-CEPR, that verifies the editor's own samples with its internal representations through a rubric-augmented Contrastive Edit-Preservation Reward (CEPR). A Planner proposes structured edit instructions from unlabeled images, the Editor samples multiple candidate edits, and a frozen Critic scores each candidate with decomposed rubric checks for edit realization, removal of the old state, and content preservation, using features already exposed by the editor. Non-compensatory gates reject infeasible candidates, and the best verified candidate is distilled into the editor through lightweight adapter training. On Qwen-Image-Edit, Rubric-CEPR improves ImgEdit from 4.36 to 4.60 (+5.5%), with a +24.9% gain on object isolation, and transfers to GEdit-Bench and Complex-Edit. The same procedure also improves Step1X-Edit by +7.8% on ImgEdit. We hope our approach will serve as a solid baseline for image editors that improve themselves from their own verified samples. Our code is publicly available at $\\href{https://riteshthawkar.github.io/Rubric-CEPR/}{\\text{this URL}}$",
+    "authors": [
+      "Ritesh Thawkar",
+      "Shubham Patle",
+      "Shravan Venkatraman",
+      "Rao Muhammad Anwer"
+    ],
+    "published": "2026-10-08",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2610.12469v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.12469v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "Instruction-guided image editors have become highly capable, yet improving them still depends on human-edited training pairs or external reward models . We propose a self-evolving framework, named Rubric-CEPR, that verifies the editor's own samples with its internal representations ."
+  },
+  {
     "id": "arxiv:2610.12465v1",
     "title": "A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control",
     "abstract": "General-purpose robots must perform a wide range of tasks from agile locomotion to dexterous manipulation. While sim-to-real reinforcement learning (RL) has proven to be a useful tool for this goal, current RL pipelines depend on engineering-heavy, per-task structural priors such as shaped rewards and demonstrations. Recent work has shown that diverse simulator resets, combined with massively parallel simulation, can alleviate much of this engineering burden on several manipulation problems. However, we find that naively scaling this paradigm to more precise or dynamic problems remains non-trivial. While simulator resets can help with exploration, uniformly sampling over this distribution wastes a growing fraction of learning experience on task configurations the policy has already mastered or cannot yet attempt. This makes it challenging to see the expected benefits of scaling parallel environments for RL, since much of the learning signal in a batch is wasted during learning. To mitigate this, we introduce Success Guided Sampling (SGS), a simple adaptive sampler that concentrates RL training on task configurations around the frontier of the policy's capabilities. Doing so allows large-scale simulated RL to make the most out of the experience in a batch, enabling much more effective scaling to large-scale parallel simulation. Across experiments using up to $2^{20}$ (over one million) parallel environments, SGS enables RL to solve challenging multi-terrain quadruped locomotion and contact-rich assembly tasks that prior methods fail to solve. Finally, we distill the learned manipulation policies into RGB-based policies and demonstrate zero-shot transfer to several challenging assembly tasks on real hardware. Project website: https://sgs-rl.github.io/.",
@@ -1864,6 +1890,56 @@
     "venue": "arXiv preprint",
     "open_access": true,
     "ai_summary": "Current RL pipelines depend on engineering-heavy, per-task structural priors such as shaped rewards and demonstrations . Recent work has shown that diverse simulator resets, combined with massively parallel simulation, can alleviate much of this engineering burden on several manipulation problems ."
+  },
+  {
+    "id": "arxiv:2610.12467v1",
+    "title": "CSF: Contextual Safety Filtering for Motion Generators",
+    "abstract": "Text-conditioned motion generators produce trackable whole-body motion, but they have no notion of scene-dependent safety: the same action may target an object or a person. Existing safeguards either inspect the prompt, require labeled motion data, or enforce geometric constraints; therefore, they do not directly account for how scene context changes a motion's meaning. We introduce contextual safety filtering (CSF), a training-free filter that grounds natural-language safety rules in safe and unsafe reference trajectories produced by the generator. For each active rule, safe and unsafe reference trajectories define an affine safety value that a safe reference tracking CBF-QP enforces. Across four pretrained generators with different architectures, CSF activates the intended rules in all explicit and scene-triggered unsafe cases and reduces the danger-event rate by up to 90%, while preserving 88-100% of benign motions. We demonstrate the complete system on a real-world Unitree G1, where it successfully prevents unsafe motions in a variety of scenarios, including interactions with humans and objects.",
+    "authors": [
+      "Lizhi Yang",
+      "Yiling Hou",
+      "Yao Tang",
+      "Junheng Li",
+      "Daniel Weng",
+      "Blake Werner",
+      "Aaron D. Ames"
+    ],
+    "published": "2026-10-08",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2610.12467v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.12467v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "Text-conditioned motion generators produce trackable whole-body motion, but they have no notion of scene-dependent safety . We introduce contextual safety filtering (CSF), a training-free filter that grounds natural-language safety rules in safe and unsafe reference trajectories . CSF activates the intended rules in all explicit and scene-triggered"
+  },
+  {
+    "id": "arxiv:2610.12468v1",
+    "title": "DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training",
+    "abstract": "We present DreamTrue, a multi-view, cross-embodiment robot world model for action-faithful and physically plausible video prediction. Training such a model on existing robot datasets faces two obstacles: imprecise calibration can impair action following, while limited coverage of unsuccessful interactions can bias predictions toward successful outcomes. To improve action following across embodiments, we render action trajectories into image-space conditions and introduce offline geometric calibration to align these conditions with the target videos. To broaden interaction coverage, we introduce counterfactual post-training, modifying recorded action trajectories and generating future videos under a wider range of actions and contact configurations. To provide feedback on these predictions without paired ground-truth futures, we construct a human-annotated video dataset covering robot, object, and interaction defects and use it to train an embodied video reward model. Its scores guide reinforcement-learning post-training toward more physically plausible interaction outcomes. On AgiBot, DreamTrue attains state-of-the-art action following, while reducing the human-assessed interaction defect rate from from 48.12% to 6.25%. Notably, our model ranks first in the world model track of the AgiBot World Challenge 2026. The project page can be found at https://brave-eai.github.io/DreamTrue.",
+    "authors": [
+      "Junyan Li",
+      "Ruizhi Li",
+      "Yu Liu",
+      "Xiangshuo Liu",
+      "Mingchao Sun",
+      "Hongyu Pan",
+      "Mu Xu",
+      "Lue Fan",
+      "Zhaoxiang Zhang"
+    ],
+    "published": "2026-10-08",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2610.12468v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.12468v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "DreamTrue is a multi-view, cross-embodiment robot world model for action-faithful and physically plausible video prediction . Training such a model on existing robot datasets faces two obstacles: imprecise calibration can impair action following ."
   },
   {
     "id": "arxiv:2610.12470v1",
@@ -1911,77 +1987,6 @@
     "venue": "arXiv preprint",
     "open_access": true,
     "ai_summary": "METR's 50\\% time horizon measures the human completion time of software tasks that an AI solves with 50\\ percent probability . We suggest that time horizons be interpreted together with the diagnostic plots, especially as new time-horizon-based benchma ."
-  },
-  {
-    "id": "arxiv:2610.12468v1",
-    "title": "DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training",
-    "abstract": "We present DreamTrue, a multi-view, cross-embodiment robot world model for action-faithful and physically plausible video prediction. Training such a model on existing robot datasets faces two obstacles: imprecise calibration can impair action following, while limited coverage of unsuccessful interactions can bias predictions toward successful outcomes. To improve action following across embodiments, we render action trajectories into image-space conditions and introduce offline geometric calibration to align these conditions with the target videos. To broaden interaction coverage, we introduce counterfactual post-training, modifying recorded action trajectories and generating future videos under a wider range of actions and contact configurations. To provide feedback on these predictions without paired ground-truth futures, we construct a human-annotated video dataset covering robot, object, and interaction defects and use it to train an embodied video reward model. Its scores guide reinforcement-learning post-training toward more physically plausible interaction outcomes. On AgiBot, DreamTrue attains state-of-the-art action following, while reducing the human-assessed interaction defect rate from from 48.12% to 6.25%. Notably, our model ranks first in the world model track of the AgiBot World Challenge 2026. The project page can be found at https://brave-eai.github.io/DreamTrue.",
-    "authors": [
-      "Junyan Li",
-      "Ruizhi Li",
-      "Yu Liu",
-      "Xiangshuo Liu",
-      "Mingchao Sun",
-      "Hongyu Pan",
-      "Mu Xu",
-      "Lue Fan",
-      "Zhaoxiang Zhang"
-    ],
-    "published": "2026-10-08",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2610.12468v1",
-    "pdf_url": "https://arxiv.org/pdf/2610.12468v1",
-    "doi": null,
-    "citations": 0,
-    "venue": "arXiv preprint",
-    "open_access": true,
-    "ai_summary": "DreamTrue is a multi-view, cross-embodiment robot world model for action-faithful and physically plausible video prediction . Training such a model on existing robot datasets faces two obstacles: imprecise calibration can impair action following ."
-  },
-  {
-    "id": "arxiv:2610.12467v1",
-    "title": "CSF: Contextual Safety Filtering for Motion Generators",
-    "abstract": "Text-conditioned motion generators produce trackable whole-body motion, but they have no notion of scene-dependent safety: the same action may target an object or a person. Existing safeguards either inspect the prompt, require labeled motion data, or enforce geometric constraints; therefore, they do not directly account for how scene context changes a motion's meaning. We introduce contextual safety filtering (CSF), a training-free filter that grounds natural-language safety rules in safe and unsafe reference trajectories produced by the generator. For each active rule, safe and unsafe reference trajectories define an affine safety value that a safe reference tracking CBF-QP enforces. Across four pretrained generators with different architectures, CSF activates the intended rules in all explicit and scene-triggered unsafe cases and reduces the danger-event rate by up to 90%, while preserving 88-100% of benign motions. We demonstrate the complete system on a real-world Unitree G1, where it successfully prevents unsafe motions in a variety of scenarios, including interactions with humans and objects.",
-    "authors": [
-      "Lizhi Yang",
-      "Yiling Hou",
-      "Yao Tang",
-      "Junheng Li",
-      "Daniel Weng",
-      "Blake Werner",
-      "Aaron D. Ames"
-    ],
-    "published": "2026-10-08",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2610.12467v1",
-    "pdf_url": "https://arxiv.org/pdf/2610.12467v1",
-    "doi": null,
-    "citations": 0,
-    "venue": "arXiv preprint",
-    "open_access": true,
-    "ai_summary": "Text-conditioned motion generators produce trackable whole-body motion, but they have no notion of scene-dependent safety . We introduce contextual safety filtering (CSF), a training-free filter that grounds natural-language safety rules in safe and unsafe reference trajectories . CSF activates the intended rules in all explicit and scene-triggered"
-  },
-  {
-    "id": "arxiv:2610.12469v1",
-    "title": "Rubric-CEPR: Self-Evolving Image Editing via Reward-Verified Self-Distillation",
-    "abstract": "Instruction-guided image editors have become highly capable, yet improving them further still depends on human-edited training pairs or external reward models. Such supervision is costly to obtain and can reward plausible failures: a realistic output may leave the requested change undone or alter content that should be preserved. In this work, we strive to improve a pretrained image editor using only its own generations, without human-edited targets or an external training-time reward model. To this end, we propose a self-evolving framework, named Rubric-CEPR, that verifies the editor's own samples with its internal representations through a rubric-augmented Contrastive Edit-Preservation Reward (CEPR). A Planner proposes structured edit instructions from unlabeled images, the Editor samples multiple candidate edits, and a frozen Critic scores each candidate with decomposed rubric checks for edit realization, removal of the old state, and content preservation, using features already exposed by the editor. Non-compensatory gates reject infeasible candidates, and the best verified candidate is distilled into the editor through lightweight adapter training. On Qwen-Image-Edit, Rubric-CEPR improves ImgEdit from 4.36 to 4.60 (+5.5%), with a +24.9% gain on object isolation, and transfers to GEdit-Bench and Complex-Edit. The same procedure also improves Step1X-Edit by +7.8% on ImgEdit. We hope our approach will serve as a solid baseline for image editors that improve themselves from their own verified samples. Our code is publicly available at $\\href{https://riteshthawkar.github.io/Rubric-CEPR/}{\\text{this URL}}$",
-    "authors": [
-      "Ritesh Thawkar",
-      "Shubham Patle",
-      "Shravan Venkatraman",
-      "Rao Muhammad Anwer"
-    ],
-    "published": "2026-10-08",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2610.12469v1",
-    "pdf_url": "https://arxiv.org/pdf/2610.12469v1",
-    "doi": null,
-    "citations": 0,
-    "venue": "arXiv preprint",
-    "open_access": true,
-    "ai_summary": "Instruction-guided image editors have become highly capable, yet improving them still depends on human-edited training pairs or external reward models . We propose a self-evolving framework, named Rubric-CEPR, that verifies the editor's own samples with its internal representations ."
   },
   {
     "id": "arxiv:2610.12463v1",
@@ -2512,7 +2517,7 @@
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "The Bellman operator unifies performance and safety objectives into a joint value function . The safety value of the learning joint policy is estimated, while the joint value is estimated on the slow timescale ."
+    "ai_summary": "The Bellman operator unifies performance and safety objectives into a joint value function . The joint value of the learning joint policy is estimated, while the joint value is estimated on the slow timescale ."
   },
   {
     "id": "arxiv:2610.12419v1",
@@ -3042,11 +3047,11 @@
     "source": "PubMed",
     "category": "journal",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42859789/",
-    "pdf_url": "https://www.dovepress.com/article/download/120504",
+    "pdf_url": null,
     "doi": "10.2147/OPTH.S646865",
     "citations": 0,
     "venue": "Clinical ophthalmology (Auckland, N.Z.)",
-    "open_access": true,
+    "open_access": false,
     "ai_summary": "Study included a formula-derivation cohort of 97 eyes treated from April 2024 to March 2025 . The 360° angle opening distance at 500 μm (AOD500) was measured by anterior segment optical coherence tomography . Postoperative angle status was classified by the device's Narrow Angle Index (NAI) software ."
   },
   {
@@ -3068,28 +3073,5 @@
     "venue": "Drug design, development and therapy",
     "open_access": false,
     "ai_summary": "No abstract available."
-  },
-  {
-    "id": "pubmed:42859663",
-    "title": "Comparative Finite Element Analysis of Three Acetabular Plate Designs with Different Bridge Geometries.",
-    "abstract": "Acetabular fractures are complex injuries of the hip joint. Careful design of fixation plates is crucial for achieving stable osteosynthesis, especially in patients with poor bone quality. Finite element analysis (FEA) is widely used for biomechanical evaluation of orthopedic implants. The aim of this study was to perform a comparative finite element analysis of three acetabular plate designs differing in bridge geometry and to identify the configuration with the most favourable biomechanical performance. We hypothesized that a plate with two parallel bridges would provide more favourable stress distribution and a higher safety factor compared to single-bridge and non-parallel-bridge designs. A three-dimensional model of the pelvic bone was reconstructed from CT data. Three titanium alloy (Ti-6Al-4V, thickness 2.5 mm) plates with different bridge configurations (single bridge, two parallel bridges, two non-parallel bridges) were virtually implanted using CAD software (KOMPAS-3D, Autodesk Inventor). The FEA model included cortical and cancellous bone with mechanical properties taken from the literature. A load of 250 N applied at 15° to the inner plate surface simulated partial weight-bearing in the early postoperative period. Von Mises equivalent stress, linear displacement, and safety factor were evaluated. Maximum von Mises equivalent stresses were 207 MPa for the single-bridge plate, 170 MPa for the two-parallel-bridge plate, and 344 MPa for the two-non-parallel-bridge plate. The corresponding minimum safety factors were 1.33, 1.62, and 0.8. The obtained stress values are consistent with findings from similar studies. The plate with two parallel bridges exhibited the highest safety factor and appears to be the most promising candidate for further experimental evaluation based on the present computational findings. The single-bridge and two-non-parallel-bridge designs require further design modification, particularly in the bridge cross-sections, because of their lower static safety margins. FEA is a useful tool for comparative biomechanical assessment of implant designs.",
-    "authors": [
-      "Nurgeldi Manap",
-      "Nagmet Mursalov",
-      "Mehool Acharya",
-      "Boris Gorbunov",
-      "Mukhtar Abilmazhinov",
-      "Darkhan Sultanov"
-    ],
-    "published": "2026",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42859663/",
-    "pdf_url": null,
-    "doi": "10.2147/ORR.S613671",
-    "citations": 0,
-    "venue": "Orthopedic research and reviews",
-    "open_access": false,
-    "ai_summary": "Acetabular fractures are complex injuries of the hip joint . Careful design of fixation plates is crucial for achieving stable osteosynthesis ."
   }
 ]
