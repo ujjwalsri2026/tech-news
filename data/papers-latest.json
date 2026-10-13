@@ -344,6 +344,24 @@
     "ai_summary": "No abstract available."
   },
   {
+    "id": "crossref:10.56251/watu4873",
+    "title": "Machine Learning Application for SAIs",
+    "abstract": "",
+    "authors": [
+      "Tiare Rivera"
+    ],
+    "published": "2030",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.56251/watu4873",
+    "pdf_url": null,
+    "doi": "10.56251/watu4873",
+    "citations": 0,
+    "venue": "International Journal of Government Auditing",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
     "id": "crossref:10.56251/yxek7242",
     "title": "Evolution and Applications of Artificial Intelligence in SAIs",
     "abstract": "",
@@ -360,24 +378,6 @@
     "url": "https://doi.org/10.56251/yxek7242",
     "pdf_url": null,
     "doi": "10.56251/yxek7242",
-    "citations": 0,
-    "venue": "International Journal of Government Auditing",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "crossref:10.56251/watu4873",
-    "title": "Machine Learning Application for SAIs",
-    "abstract": "",
-    "authors": [
-      "Tiare Rivera"
-    ],
-    "published": "2030",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.56251/watu4873",
-    "pdf_url": null,
-    "doi": "10.56251/watu4873",
     "citations": 0,
     "venue": "International Journal of Government Auditing",
     "open_access": false,
@@ -479,28 +479,6 @@
     "ai_summary": "Kinovea is an accessible motion-analysis software . It provides both visual and quantitative feedback . However, its application in supporting technique development among beginner athletes remains insufficiently explored ."
   },
   {
-    "id": "crossref:10.70239/arsu.2026.t85.n3.07",
-    "title": "HYBRID NETWORK INTRUSION DETECTION SYSTEM BASED ON SIGNATURE ANALYSIS AND MACHINE LEARNING METHODS",
-    "abstract": "<jats:p>In the context of increasing complexity of modern network infrastructures and the growing number of cyberattacks, improving the effectiveness of intrusion detection systems is a highly relevant task. The aim of this work is to develop and investigate a hybrid approach to network attack detection based on a combination of signature-based analysis and intelligent machine learning methods.  The research methods include analysis of requirements for anomaly detection systems, comparative analysis of existing solutions, design of a hybrid system architecture, and experimental modeling using multiclass classification of network traffic. The results demonstrate that integrating a neural model with a traditional detection system improves attack detection coverage and reduces the number of false positives.  The practical significance of the study lies in the possibility of deploying the proposed architecture in real corporate networks, while the theoretical significance consists in substantiating the effectiveness of a hybrid approach to traffic analysis. Future research directions include adaptive model training and expansion of the range of detectable attacks.</jats:p>",
-    "authors": [
-      "IGISINOV S.ZH.",
-      "RYSKELDIKYZY R.",
-      "GAISAGALEYEVA B.M.",
-      "UVALIYEVA G.M.",
-      "ZHUMABAYEVA ZH.O."
-    ],
-    "published": "2029",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.70239/arsu.2026.t85.n3.07",
-    "pdf_url": null,
-    "doi": "10.70239/arsu.2026.t85.n3.07",
-    "citations": 0,
-    "venue": "Научный журнал \"Вестник Актюбинского регионального университета имени К. Жубанова\"",
-    "open_access": false,
-    "ai_summary": "The aim of this work is to develop and investigate a hybrid approach to network attack detection based on signature-based analysis and intelligent machine learning methods . The practical significance of the study lies in the possibility of deploying the proposed architecture in real corporate networks ."
-  },
-  {
     "id": "crossref:10.5705/ss.202025.0275",
     "title": "Efficient Learning of Sparse Differential Networks in Multi-Source Non-Paranormal Models",
     "abstract": "",
@@ -514,6 +492,26 @@
     "url": "https://doi.org/10.5705/ss.202025.0275",
     "pdf_url": null,
     "doi": "10.5705/ss.202025.0275",
+    "citations": 0,
+    "venue": "Statistica Sinica",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "crossref:10.5705/ss.202025.0406",
+    "title": "Distributed Learning of Single Index Model with Differential Privacy and Massive Data",
+    "abstract": "",
+    "authors": [
+      "Fode Zhang",
+      "Lingrui Wang",
+      "Hua Liang"
+    ],
+    "published": "2029",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.5705/ss.202025.0406",
+    "pdf_url": null,
+    "doi": "10.5705/ss.202025.0406",
     "citations": 0,
     "venue": "Statistica Sinica",
     "open_access": false,
@@ -541,24 +539,26 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.5705/ss.202025.0406",
-    "title": "Distributed Learning of Single Index Model with Differential Privacy and Massive Data",
-    "abstract": "",
+    "id": "crossref:10.70239/arsu.2026.t85.n3.07",
+    "title": "HYBRID NETWORK INTRUSION DETECTION SYSTEM BASED ON SIGNATURE ANALYSIS AND MACHINE LEARNING METHODS",
+    "abstract": "<jats:p>In the context of increasing complexity of modern network infrastructures and the growing number of cyberattacks, improving the effectiveness of intrusion detection systems is a highly relevant task. The aim of this work is to develop and investigate a hybrid approach to network attack detection based on a combination of signature-based analysis and intelligent machine learning methods.  The research methods include analysis of requirements for anomaly detection systems, comparative analysis of existing solutions, design of a hybrid system architecture, and experimental modeling using multiclass classification of network traffic. The results demonstrate that integrating a neural model with a traditional detection system improves attack detection coverage and reduces the number of false positives.  The practical significance of the study lies in the possibility of deploying the proposed architecture in real corporate networks, while the theoretical significance consists in substantiating the effectiveness of a hybrid approach to traffic analysis. Future research directions include adaptive model training and expansion of the range of detectable attacks.</jats:p>",
     "authors": [
-      "Fode Zhang",
-      "Lingrui Wang",
-      "Hua Liang"
+      "IGISINOV S.ZH.",
+      "RYSKELDIKYZY R.",
+      "GAISAGALEYEVA B.M.",
+      "UVALIYEVA G.M.",
+      "ZHUMABAYEVA ZH.O."
     ],
     "published": "2029",
     "source": "Crossref",
     "category": "index",
-    "url": "https://doi.org/10.5705/ss.202025.0406",
+    "url": "https://doi.org/10.70239/arsu.2026.t85.n3.07",
     "pdf_url": null,
-    "doi": "10.5705/ss.202025.0406",
+    "doi": "10.70239/arsu.2026.t85.n3.07",
     "citations": 0,
-    "venue": "Statistica Sinica",
+    "venue": "Научный журнал \"Вестник Актюбинского регионального университета имени К. Жубанова\"",
     "open_access": false,
-    "ai_summary": "No abstract available."
+    "ai_summary": "The aim of this work is to develop and investigate a hybrid approach to network attack detection based on signature-based analysis and intelligent machine learning methods . The practical significance of the study lies in the possibility of deploying the proposed architecture in real corporate networks ."
   },
   {
     "id": "crossref:10.5705/ss.202026.0109",
@@ -603,27 +603,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.5705/ss.202025.0205",
-    "title": "Sparsity Learning via Structured Functional Factor Augmentation",
-    "abstract": "",
-    "authors": [
-      "Hanteng Ma",
-      "Ziliang Shen",
-      "Xingdong Feng",
-      "Xin Liu"
-    ],
-    "published": "2029",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.5705/ss.202025.0205",
-    "pdf_url": null,
-    "doi": "10.5705/ss.202025.0205",
-    "citations": 0,
-    "venue": "Statistica Sinica",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
     "id": "crossref:10.5705/ss.202025.0457",
     "title": "Sparse Additive Off-policy Evaluation for Reinforcement Learning with Potentially Limited Number of Trajectories",
     "abstract": "",
@@ -639,6 +618,27 @@
     "url": "https://doi.org/10.5705/ss.202025.0457",
     "pdf_url": null,
     "doi": "10.5705/ss.202025.0457",
+    "citations": 0,
+    "venue": "Statistica Sinica",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "crossref:10.5705/ss.202025.0205",
+    "title": "Sparsity Learning via Structured Functional Factor Augmentation",
+    "abstract": "",
+    "authors": [
+      "Hanteng Ma",
+      "Ziliang Shen",
+      "Xingdong Feng",
+      "Xin Liu"
+    ],
+    "published": "2029",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.5705/ss.202025.0205",
+    "pdf_url": null,
+    "doi": "10.5705/ss.202025.0205",
     "citations": 0,
     "venue": "Statistica Sinica",
     "open_access": false,
@@ -702,6 +702,24 @@
     "ai_summary": "No abstract available."
   },
   {
+    "id": "crossref:10.32628/cseit251116279",
+    "title": "Cyber Defense Digital Twins: A Federated Learning and Zero-Trust AI Architecture for Autonomous Threat Prediction and Response",
+    "abstract": "<jats:p>Modern enterprise networks operate under persistent threats that exploit cloud-native misconfigurations, identity sprawl, and API vulnerabilities at machine speed. Existing security operations center (SOC) architectures remain largely reactive, signature-dependent, and incapable of predicting multi-stage lateral movement. This paper proposes the Cognitive Cyber Defense Digital Twin (CCDT), a unified architecture integrating federated learning (FL), graph neural network (GNN)-based attack-path forecasting, adversarially hardened detection models, and autonomous Security Orchestration, Automation, and Response (SOAR) with deception engineering. The CCDT constructs a continuously synchronized digital replica of organizational assets and employs reinforcement learning-based red agents to stress-test detection models. A federated intelligence mesh enables cross-organizational privacy-preserving gradient sharing. Experimental evaluations against CICIDS-2018 and LANL datasets demonstrate 52% faster attack-path detection, 41% reduction in false positive rate, and 60% reduction in mean-time-to-respond (MTTR) compared to traditional SOC baselines. Integrated Explainable AI (XAI) modules using SHAP values enable audit-ready compliance reporting. The CCDT represents a paradigm shift from reactive monitoring to predictive, autonomous, and privacy-preserving cyber defense for hybrid cloud environments.</jats:p>",
+    "authors": [
+      "Sivaramakrishnan Narayanan"
+    ],
+    "published": "2028",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.32628/cseit251116279",
+    "pdf_url": null,
+    "doi": "10.32628/cseit251116279",
+    "citations": 0,
+    "venue": "International Journal of Scientific Research in Computer Science, Engineering and Information Technology",
+    "open_access": false,
+    "ai_summary": "The paper proposes the Cognitive Cyber Defense Digital Twin (CCDT) The CCDT constructs a continuously synchronized digital replica of organizational assets . It employs reinforcement learning-based red agents to stress-test detection models ."
+  },
+  {
     "id": "crossref:10.71126/nijre.v2i1.16",
     "title": "Transforming Education through Technology: The Case of COVID 19 Digital Learning in Nagaland",
     "abstract": "<jats:p>Through the perspective of the COVID-19 pandemic and the disruption and opportunity it engendered, this chapter follows a transformative effect of EdTech and Digital education in India particularly in Nagaland through analysis. Drawing upon national policy frameworks, conceptual literature on educational technology, and contextual evidence based on the case of Nagaland, the chapter considers the rapid migration to digital learning as an emergency strategy (in response to the ongoing institution closures) based on the stark shifts in pedagogical practice, access to education services, and preparedness. The findings show that, including the ability of national programmes such as NEP 2020, SWAYAM, DIKSHA, PM e-VIDYA, and others, to promote access to digital tools was low within periphery or hill areas (e.g., Nagaland), due to lack of infrastructural resources, digital divide, unprepared teachers and economic/social divides, and more. The pandemic exposed the deep social and infrastructure divides in connectivity, device availability, assessment and learner engagement, with implications that were especially grave in rural and tribal settings. Although it accelerated the pace of innovation and the application of blended and low-tech learning practices teachers have been experimenting with digital platforms and the post-COVID recovery process, including remedial programmes and hybrid instruction. The chapter also discusses that blended learning is the most fitting, viable and sustainable approach for reaching the technological level in the field of educational technology at Nagaland. It implies that technology-mediated education can improve equity, quality, and resilience, but only under the conditions of inclusive policy design, strong digital infrastructure, vigorous teacher capability building, and culturally appropriate digital content.\nKeywords: Educational technology, digital learning, COVID-19, Nagaland, online education, Challenges, blended learning</jats:p>",
@@ -740,22 +758,26 @@
     "ai_summary": "Research paper will debate role played by principals in teaching and learning process . Research will embrace a quantitative research design that will seek to answer the question about the relationship between leadership skills of principals and teaching-learning process ."
   },
   {
-    "id": "crossref:10.32628/cseit251116279",
-    "title": "Cyber Defense Digital Twins: A Federated Learning and Zero-Trust AI Architecture for Autonomous Threat Prediction and Response",
-    "abstract": "<jats:p>Modern enterprise networks operate under persistent threats that exploit cloud-native misconfigurations, identity sprawl, and API vulnerabilities at machine speed. Existing security operations center (SOC) architectures remain largely reactive, signature-dependent, and incapable of predicting multi-stage lateral movement. This paper proposes the Cognitive Cyber Defense Digital Twin (CCDT), a unified architecture integrating federated learning (FL), graph neural network (GNN)-based attack-path forecasting, adversarially hardened detection models, and autonomous Security Orchestration, Automation, and Response (SOAR) with deception engineering. The CCDT constructs a continuously synchronized digital replica of organizational assets and employs reinforcement learning-based red agents to stress-test detection models. A federated intelligence mesh enables cross-organizational privacy-preserving gradient sharing. Experimental evaluations against CICIDS-2018 and LANL datasets demonstrate 52% faster attack-path detection, 41% reduction in false positive rate, and 60% reduction in mean-time-to-respond (MTTR) compared to traditional SOC baselines. Integrated Explainable AI (XAI) modules using SHAP values enable audit-ready compliance reporting. The CCDT represents a paradigm shift from reactive monitoring to predictive, autonomous, and privacy-preserving cyber defense for hybrid cloud environments.</jats:p>",
+    "id": "crossref:10.1504/ijims.2028.10081208",
+    "title": "Enhancements to the Deep Learning Architecture for Metaverse Integration in Medical Image Processing",
+    "abstract": "",
     "authors": [
-      "Sivaramakrishnan Narayanan"
+      "Chandra Mani",
+      "Suman Avdhesh Yadav",
+      "Smita Sharma",
+      "S. Vikram Singh",
+      "Birendra Kumar Saraswat"
     ],
     "published": "2028",
     "source": "Crossref",
     "category": "index",
-    "url": "https://doi.org/10.32628/cseit251116279",
+    "url": "https://doi.org/10.1504/ijims.2028.10081208",
     "pdf_url": null,
-    "doi": "10.32628/cseit251116279",
+    "doi": "10.1504/ijims.2028.10081208",
     "citations": 0,
-    "venue": "International Journal of Scientific Research in Computer Science, Engineering and Information Technology",
+    "venue": "International Journal of Internet Manufacturing and Services",
     "open_access": false,
-    "ai_summary": "The paper proposes the Cognitive Cyber Defense Digital Twin (CCDT) The CCDT constructs a continuously synchronized digital replica of organizational assets . It employs reinforcement learning-based red agents to stress-test detection models ."
+    "ai_summary": "No abstract available."
   },
   {
     "id": "crossref:10.1504/ijims.2028.10076630",
@@ -773,28 +795,6 @@
     "url": "https://doi.org/10.1504/ijims.2028.10076630",
     "pdf_url": null,
     "doi": "10.1504/ijims.2028.10076630",
-    "citations": 0,
-    "venue": "International Journal of Internet Manufacturing and Services",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "crossref:10.1504/ijims.2028.10081208",
-    "title": "Enhancements to the Deep Learning Architecture for Metaverse Integration in Medical Image Processing",
-    "abstract": "",
-    "authors": [
-      "Chandra Mani",
-      "Suman Avdhesh Yadav",
-      "Smita Sharma",
-      "S. Vikram Singh",
-      "Birendra Kumar Saraswat"
-    ],
-    "published": "2028",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.1504/ijims.2028.10081208",
-    "pdf_url": null,
-    "doi": "10.1504/ijims.2028.10081208",
     "citations": 0,
     "venue": "International Journal of Internet Manufacturing and Services",
     "open_access": false,
@@ -909,6 +909,28 @@
     "ai_summary": "No abstract available."
   },
   {
+    "id": "openalex:W7212699939",
+    "title": "Development and validation of a machine learning-based predictive model for prognosis in cerebral hemorrhage patients after hyperbaric oxygen therapy.",
+    "abstract": "",
+    "authors": [
+      "Congyi Ding",
+      "Jun Wu",
+      "Guangning Zhang",
+      "Xiaoming Feng",
+      "Jieyang Zhu"
+    ],
+    "published": "2027-01-01",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.4103/mgr.medgasres-d-25-00168",
+    "pdf_url": null,
+    "doi": "10.4103/mgr.medgasres-d-25-00168",
+    "citations": 0,
+    "venue": "PubMed",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
     "id": "openalex:W7211975381",
     "title": "Application and feasibility analysis of random Forest models in safety prediction for transition metal-doped Na3V2(PO4)3 sodium-ion batteries.",
     "abstract": "",
@@ -937,140 +959,237 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "openalex:W7212699939",
-    "title": "Development and validation of a machine learning-based predictive model for prognosis in cerebral hemorrhage patients after hyperbaric oxygen therapy.",
-    "abstract": "",
+    "id": "pubmed:42862978",
+    "title": "Star detection for low-altitude atmospheric star trackers.",
+    "abstract": "Celestial navigation provides an alternative to global navigation satellite systems (GNSSs) for uncrewed aerial vehicles (UAVs), particularly in environments where GNSS signals are denied. However, traditional star detection methods can be ineffective for low-altitude atmospheric flight due to factors such as motion blur, clouds, and light sources. This paper addresses the challenge of robust star detection under these highly dynamic and noisy conditions. We propose a novel, to our knowledge, two-stage deep learning architecture that fundamentally departs from traditional single-frame spatial thresholding. The first stage utilizes a UNet convolutional neural network for robust star segmentation. The second stage introduces a novel multi-task, inter-frame keypoint detector that processes sequential regions of interest. By explicitly mapping the geometric bisection across the temporal boundary of two consecutive frames, this architecture resolves the directional ambiguity and endpoint fading that impede traditional algorithms in dynamic environments. This inter-frame point is highly salient, allowing for precise temporal alignment between the star sensor and other systems. The models were trained and tested on a large, synthetic dataset generated with a high-fidelity simulator, which includes augmented imagery to replicate motion blur, cloud cover, and lens flare. We compare the performance of our UNet star segmentation model against three baseline adaptive thresholding techniques: adaptive Gaussian, Niblack's, and Bernsen's. The results, evaluated using precision, recall, and ",
     "authors": [
-      "Congyi Ding",
-      "Jun Wu",
-      "Guangning Zhang",
-      "Xiaoming Feng",
-      "Jieyang Zhu"
+      "Samuel Teague",
+      "Javaan Chahl"
     ],
-    "published": "2027-01-01",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.4103/mgr.medgasres-d-25-00168",
+    "published": "2026-Sep-01",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42862978/",
     "pdf_url": null,
-    "doi": "10.4103/mgr.medgasres-d-25-00168",
+    "doi": "10.1364/JOSAA.600488",
     "citations": 0,
-    "venue": "PubMed",
+    "venue": "Journal of the Optical Society of America. A, Optics, image science, and vision",
     "open_access": false,
-    "ai_summary": "No abstract available."
+    "ai_summary": "The paper addresses the challenge of robust star detection under these highly dynamic and noisy conditions . The first stage utilizes a UNet convolutional neural network for robust star segmentation . The second stage introduces a novel multi-task, inter-frame keypoint detector that processes sequential regions of interest ."
   },
   {
-    "id": "pubmed:42861440",
-    "title": "Advances in monitoring the injured brain.",
-    "abstract": "Multimodal neuromonitoring has emerged as a cornerstone of modern neurocritical care for traumatic brain injury (TBI). Traditional monitoring approaches based on intracranial pressure (ICP) and clinical examination alone have proven insufficient to capture the complex, heterogeneous pathophysiology that drives secondary brain injury. Over the past decade, significant advances in monitoring technology, including brain tissue oxygenation, cerebral microdialysis, continuous electroencephalography, near‑infrared spectroscopy, cerebrovascular autoregulation assessment and non‑invasive techniques have enabled clinicians to individualize treatment strategies based on real‑time physiological data. Concurrently, artificial intelligence and machine learning are transforming data integration and prognostic modelling, and non‑invasive and wearable approaches are beginning to extend brain monitoring beyond high‑resource neuro‑ICUs. This review examines recent innovations in neuromonitoring for TBI, highlighting invasive and non‑invasive modalities, their integration into multimodal platforms, and emerging technologies that promise to make precision neurocritical care a clinical reality. As we move toward the future of neurosurgery, the challenge lies not only in developing advanced monitoring tools but in interpreting them in the context of host‑specific factors and translating complex physiological signals into timely, evidence‑based interventions that improve patient outcomes.",
+    "id": "pubmed:42863071",
+    "title": "Multidimensional vulnerabilities of informal settlements in the Urban South.",
+    "abstract": "Informal settlements are widespread and rapidly growing, often associated with high vulnerabilities. However, global-scale understanding on their spatial distribution and complexity of vulnerability is limited. Here, we delineate the informal settlements across a sample of 1,914 cities of the Global South by integrating Sentinel-2 imagery with deep learning models, and we explore the heterogeneity of vulnerability using Urban Informal Settlement Vulnerability Index that encompasses living conditions, social infrastructure, and environmental risk. We found that Urban Informal Settlements cover 12.94 ± 2.52% of their total urban areas (approximately 34.04 × 10",
     "authors": [
-      "Elham Rostami",
-      "Peter J Hutchinson",
-      "Bart Depreitere"
+      "Mingxing Chen",
+      "Wenming Song",
+      "Dadao Lu",
+      "Yu Deng",
+      "Chenglong Wang",
+      "Huiping Jiang",
+      "Yuyu Zhou",
+      "Murray W Scown",
+      "Liangkan Chen",
+      "Jing Ma",
+      "Heran Zheng",
+      "Xuemei Bai"
+    ],
+    "published": "2026-Oct-20",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42863071/",
+    "pdf_url": null,
+    "doi": "10.1073/pnas.2523034123",
+    "citations": 0,
+    "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+    "open_access": false,
+    "ai_summary": "Informal settlements are widespread and rapidly growing, often associated with high vulnerabilities . But global-scale understanding on their spatial distribution and complexity of vulnerability is limited . We found that Urban Informal Settlements cover 12.94% of their total urban areas ."
+  },
+  {
+    "id": "pubmed:42863061",
+    "title": "AI-generated language remains systematically distinguishable from human communication.",
+    "abstract": "Large language models (LLMs) are increasingly used in the social sciences to simulate human behavior and communication, yet validation methods for these applications remain limited. Existing evaluations often rely on human judgments of plausibility, a coarse, difficult-to-scale, and often unreliable benchmark for distinguishing AI-generated from human text. As a result, researchers lack robust tools for assessing the realism of LLM-generated language and for calibrating models to real-world data. We address this gap in two ways. First, we introduce the Conversational Human Authenticity Test (CHAT), a validation framework that combines aggregate metrics of detectability and semantic similarity with interpretable linguistic features, including stylistic markers and topical patterns, to assess how closely LLMs approximate human language in a given dataset. Second, we benchmark nine open-weight LLMs across five calibration strategies, including fine-tuning, stylistic prompting, and context retrieval, on user interactions from X, Bluesky, and Reddit. We find that even after calibration, LLM outputs remain clearly distinguishable from human text, especially in affective tone and emotional expression. Instruction-tuned models generally underperform base models, and larger models do not obviously improve human-likeness. We also identify a trade-off between realism and semantic fidelity: methods that make outputs seem more human often move them further from the content of human responses. Together, these results provide a scalable framework for validation and calibration in LLM-based social simulation while underscoring current limits in reproducing human communication.",
+    "authors": [
+      "Nicolò Pagan",
+      "Petter Törnberg",
+      "Christopher A Bail",
+      "Christopher Barrie"
+    ],
+    "published": "2026-Oct-20",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42863061/",
+    "pdf_url": null,
+    "doi": "10.1073/pnas.2531748123",
+    "citations": 0,
+    "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+    "open_access": false,
+    "ai_summary": "Large language models (LLMs) are increasingly used in the social sciences to simulate human behavior and communication . Existing evaluations often rely on human judgments of plausibility, a coarse, difficult-to-scale, and often unreliable benchmark for distinguishing AI-generated from human text . We address this gap in two ways ."
+  },
+  {
+    "id": "pubmed:42863055",
+    "title": "Learning dissipative chaotic dynamics with boundedness guarantees.",
+    "abstract": "Chaotic dynamics, commonly seen in weather systems and fluid turbulence, are characterized by their sensitivity to initial conditions, which makes accurate prediction challenging. Recent approaches have focused on developing data-driven models that attempt to preserve invariant statistics over long horizons since many chaotic systems exhibit dissipative behaviors and ergodicity. Despite the recent progress in such models, they are still often prone to generating unbounded trajectories, leading to invalid statistics evaluation. To address this fundamental challenge, we introduce a modular framework that provides formal guarantees of trajectory boundedness for neural network chaotic dynamics models. Our core contribution is a dissipative projection layer that leverages control-theoretic principles to ensure the learned system is dissipative. Specifically, our framework simultaneously learns a dynamics emulator and an energy-like function, where the latter is used to construct an algebraic dissipative constraint within the projection layer. Furthermore, the learned invariant level set provides an outer estimate for the system's strange attractor, which is known to be difficult to characterize due to its complex geometry. We demonstrate our model's ability to produce bounded long-horizon forecasts that preserve invariant statistics for chaotic dynamical systems, including Lorenz 96 and a reduced-order model of the Kuramoto-Sivashinsky equation.",
+    "authors": [
+      "Sunbochen Tang",
+      "Themistoklis P Sapsis",
+      "Navid Azizan"
+    ],
+    "published": "2026-Oct-20",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42863055/",
+    "pdf_url": null,
+    "doi": "10.1073/pnas.2533077123",
+    "citations": 0,
+    "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+    "open_access": false,
+    "ai_summary": "Recent approaches have focused on developing data-driven models that preserve invariant statistics over long horizons . But they are still prone to generating unbounded trajectories, leading to invalid statistics evaluation ."
+  },
+  {
+    "id": "pubmed:42863101",
+    "title": "Novel Tool to Predict Primary Tumor Location in the Setting of Metastatic Cancer With Unknown Primary.",
+    "abstract": "This study aimed to develop and validate a tool to predict the primary tumor site in patients with metastatic cancer of unknown primary using demographic and clinical variables, including imaging-derived sites of metastasis, without pathology or laboratory data. In this population-based study, data were extracted from the SEER database. Patients diagnosed between 2010 and 2020 with a known primary cancer site, metastatic staging, and metastasis in the bone, liver, brain, and lungs were included. Patients were randomly split into training (70%) and/or testing (30%) sets. A total of 27 primary tumor sites were included. A gradient boosting model was trained to predict the primary tumor site, with random forest and classification tree models evaluated as comparators. Random guess and frequency-weighted guessing models were used for baseline comparison. A total of 689,715 patients were included from 9,208,295 queried. The most common primary cancer sites were non-small cell lung cancer (NSCLC) (n = 211,338), intestines (n = 64,187), and pancreas (n = 60,310). The baseline models achieved Top-5 accuracies of 0.179 for a random guess and 0.476 for a frequency-weighted guess. The gradient boosting model achieved Top-1, Top-3, and Top-5 accuracies of 0.40 ± 0.001, 0.680 ± 0.001, and 0.790 ± 0.001, respectively, across 100 Monte-Carlo replicates. Top-5 accuracy was highest for primary NSCLC (0.990 ± 0.001) and intestinal cancer (0.900 ± 0.003). Our model was most influenced by sex (gain = 0.27) and metastasis to bone (gain = 0.20). A web app was constructed: primarycancerpredictor.netlify.app. This study developed and evaluated a gradient boosting machine learning model and a user-friendly web tool to aid in the diagnosis of cancer of unknown primary.",
+    "authors": [
+      "Kerolous Eldeeb",
+      "Saad Badat",
+      "Haley K Perlow",
+      "Atallah Baydoun",
+      "Prashant Vempati",
+      "Yifan Yang",
+      "Daniel E Spratt",
+      "Ming Wang",
+      "Nicholas G Zaorsky"
     ],
     "published": "2026-Oct-12",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42861440/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42863101/",
     "pdf_url": null,
-    "doi": "10.1080/02688697.2026.2743496",
+    "doi": "10.1200/OP-26-00212",
     "citations": 0,
-    "venue": "British journal of neurosurgery",
+    "venue": "JCO oncology practice",
     "open_access": false,
-    "ai_summary": "Multimodal neuromonitoring has emerged as a cornerstone of modern neurocritical care for traumatic brain injury (TBI) Review examines recent innovations in neuromonitors for TBI ."
+    "ai_summary": "Study aimed to develop and validate a tool to predict the primary tumor site in patients with metastatic cancer of unknown primary . Patients diagnosed between 2010 and 2020 with a known primary cancer site, metastatic staging, and metastasis in the bone, liver, brain, and lungs were included ."
   },
   {
-    "id": "pubmed:42861433",
-    "title": "Unveiling Hidden Patterns in Electrode-Electrolyte Interphase Chemistry and Architecture Through Machine Learning-Assisted Mass Spectrometry Analysis.",
-    "abstract": "Electrode-electrolyte interphases (EEIs) govern battery performance, yet the interplay between their chemical composition and spatial organization remains challenging to resolve. Time-of-flight secondary ion mass spectrometry (TOF-SIMS) provides rich 3D chemical depth profiles of these interfaces, yet conventional analyses simplify the complexity by collapsing the data into 1D depth profiles or 2D maps, obscuring critical spatial features. Here, we apply a machine-learning-based approach directly to 3D TOF-SIMS depth profiles, leveraging their full spatial and chemical richness to investigate the interphase structure and chemistry more comprehensively than conventional analyses. Principal component analysis (PCA) identifies fragments that dominate chemical heterogeneity across the EEI, reveals correlated and anticorrelated spatial distributions, and enables direct comparison of average interphase chemistry and chemical variability. Building on this, t-distributed stochastic neighbor embedding (t-SNE) and uniform manifold approximation and projection (UMAP) resolve stratified structures and fine-scale spatial interphase variations. Finally, applying PCA to fragment-specific thickness maps enables comparison of interphase thickness heterogeneity and identifies the chemical species responsible for local thickness variations. Together, the approach creates a generalized framework for extracting chemically and spatially meaningful information from complex TOF-SIMS datasets, linking interphase chemistry to electrochemical behavior and guiding the design of uniform interphases for advanced battery systems.",
+    "id": "pubmed:42863038",
+    "title": "Machine learning forecasts of laser intensity evolution through underwater turbulence.",
+    "abstract": "This experimental study investigates whether the temporal evolution of received laser-beam intensity can be forecast from intensity images alone under controlled underwater turbulence. Conventional adaptive-optics systems commonly rely on present wavefront measurements and are therefore reactive to measured turbulence-induced distortions. We examine a different prerequisite problem: whether established deep-learning components can be assembled into short-horizon predictors of experimentally measured intensity evolution, without phase measurements or iterative wavefront reconstruction. Synchronized pupil-plane and focal-plane image sequences are recorded after propagation through a Rayleigh-Bénard water-tank turbulence emulator at three turbulence strengths. Two plane-matched forecasting algorithms are evaluated. A latent-space autoencoder-ConvLSTM is applied to the compact, wandering focal-plane intensity pattern, while a 3D spatiotemporal attention network predicts inter-frame intensity changes in the extended pupil-plane distribution. Forecasts are evaluated at horizons of +1, +2, and +3 frames using mean-squared error and structural similarity index, with persistence baselines, regime-specific and all-regime training comparisons, metric-domain analysis, OAM-mode evaluations, and a cross-algorithm diagnostic. The results show that the learned models produce nontrivial short-horizon forecasts beyond persistence, that the two measurement planes favor different algorithmic designs, and that similar intensity-forecasting behavior extends across Gaussian and beam carrying orbital angular momentum (OAM) morphologies while remaining limited to intensity prediction rather than phase structure, modal purity, or topological-charge recovery.",
     "authors": [
-      "Tara Ingebrand",
-      "Arumugam Manthiram"
+      "S Avramov-Zamurovic",
+      "K Fleming",
+      "E Kincade",
+      "G Taylor",
+      "O O'Malley",
+      "K P Judd"
     ],
-    "published": "2026-Oct-12",
+    "published": "2026-Jul-01",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42861433/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42863038/",
     "pdf_url": null,
-    "doi": "10.1002/smtd.71113",
+    "doi": "10.1364/JOSAA.601066",
     "citations": 0,
-    "venue": "Small methods",
+    "venue": "Journal of the Optical Society of America. A, Optics, image science, and vision",
     "open_access": false,
-    "ai_summary": "Time-of-flight secondary ion mass spectrometry (TOF-SIMS) provides rich 3D chemical depth profiles of these interfaces . But conventional analyses simplify the complexity by collapsing the data into 1D depth profiles or 2D maps . Here, we apply a machine-learning-based approach directly to 3D TOF"
+    "ai_summary": "The study investigates whether the temporal evolution of received laser-beam intensity can be forecast from intensity images alone under controlled underwater turbulence . The study was carried out by a team of researchers at the University of Cambridge ."
   },
   {
-    "id": "pubmed:42861323",
-    "title": "Machine Learning for Predicting Mortality Following Transcatheter Aortic Valve Replacement: A Scoping Review of Current Literature.",
-    "abstract": "This scoping review aims to consolidate the current evidence on the use of machine learning (ML) algorithms to predict mortality following transcatheter aortic valve replacement (TAVR) procedures. This review was conducted in accordance with Preferred Reporting Items for Systematic Reviews and Meta-Analysis (PRISMA) guidelines. Electronic databases, including Medline, Embase, Cochrane, and ClinicalTrials.gov, were searched for studies assessing the use of ML models for the prediction of mortality in patients undergoing TAVR. A total of 1076 citations were screened, of which 21 studies underwent full-text review. Ultimately, 11 studies comprising 101,030 patients were included for data extraction. Study sample sizes ranged from 178 to 54,739 patients, with reported mortality intervals ranging from 30 days to 5 years after surgery. The parameters that were included in these ML models included demographic and clinical variables, electrocardiographic findings, laboratory results, computed tomography scans, and the type and size of the selected TAVR device. A total of 13 ML models were assessed across the included studies. Random Forest appeared to be the highest performing ML model in predicting 30-day and 1-year survival following TAVR, with reported area under the receiver operating characteristic (AUROC) scores ranging from 0.66 to 0.97. In addition, the gradient-boosted machine seemed to outperform the CoreValve and TAVI2-SCORE in predicting 1-year survival. ML models may allow for accurate prediction of mortality following TAVR and may offer advantages over traditional clinical risk scores. However, limited datasets and variability in algorithm metric scores remain the main limitations to the implementation of these models in clinical practice. Cette revue exploratoire vise à synthétiser les données actuelles concernant l’utilisation d’algorithmes d’apprentissage automatique (AA) pour prédire la mortalité à la suite d’une intervention de remplacement valvulaire aortique par cathéter (RVAC). Cette revue a été menée conformément aux lignes directrices PRISMA (",
+    "id": "pubmed:42863035",
+    "title": "Multimodal sensing of underwater optical turbulence using beams carrying orbital angular momentum, part 2: deep learning classification.",
+    "abstract": "We present a convolutional neural network (CNN) framework for classifying underwater optical turbulence strength from multimodal measurements of laser beams carrying orbital angular momentum propagated through a Rayleigh-Bénard convection tank. Three modalities were evaluated for four beam types (",
     "authors": [
-      "Adham H Elsherbini",
-      "Ibrahim Ahmed Cherif",
-      "Alisha Ahmed",
-      "Ali Haider",
-      "Ahmad Alaraki",
-      "Mohamed R Gemae",
-      "Farzan Ansari",
-      "Ahmed A Harby",
-      "Vipin Chaudhary",
-      "Yasir Abu-Omar",
-      "Mohammad El-Diasty"
+      "Owen O'Malley",
+      "Svetlana Avramov-Zamurovic",
+      "Daisy Dastrup",
+      "Nathaniel Ferlic",
+      "Martin Lavery",
+      "Vasanthi Sivaprakasam",
+      "K Peter Judd"
     ],
-    "published": "2026-Oct",
+    "published": "2026-Jul-01",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42861323/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42863035/",
     "pdf_url": null,
-    "doi": "10.1016/j.cjco.2026.06.007",
+    "doi": "10.1364/JOSAA.600545",
     "citations": 0,
-    "venue": "CJC open",
+    "venue": "Journal of the Optical Society of America. A, Optics, image science, and vision",
     "open_access": false,
-    "ai_summary": "Review aims to consolidate the current evidence on the use of machine learning (ML) algorithms to predict mortality following transcatheter aortic valve replacement (TAVR) procedures ."
+    "ai_summary": "CNN presents a framework for classifying underwater optical turbulence strength from laser beams . Three modalities were evaluated for four beam types (four beam types)"
   },
   {
-    "id": "pubmed:42861392",
-    "title": "A comprehensive approach to the design and development of a low-cost semi-automatic blood pressure monitoring device for resource-constrained.",
-    "abstract": "Hypertension is a major global healthcare challenge, particularly for low-income individuals who often struggle to access monitoring devices. This paper presents the design of a cost-effective, semi-automatic blood pressure monitoring device aimed at improving accessibility for these patients, thereby enhancing preventive care and reducing mortality risks. The proposed design replaces an expensive electric air pump with a manual inflation bulb, while integrating a digital display for accurate pressure readings. The system comprises three key components: a robust electronic circuit, a reliable pneumatic system, and a 3D-printed housing optimized for semi-automatic operation. A notable aspect of this work is the hardware-software integration, which utilizes an inexpensive, single-core Arduino microcontroller (MCU) to achieve precise measurements. Despite relying on affordable components, the device delivers consistent and accurate results, demonstrating the efficiency of the design. The total manufacturing cost of the device is under $8, making it a highly accessible solution for resource-constrained settings. This paper provides comprehensive details of the design and implementation, enabling researchers to replicate the device and explore further improvements, particularly in software optimization and feature expansion. By addressing both affordability and accuracy, this work offers a practical and scalable solution for blood pressure monitoring, contributing to global efforts in preventive healthcare.",
+    "id": "pubmed:42863008",
+    "title": "DL-FIRE: a deep learning model for spatiotemporal prediction of the lidar-like aerosol profile over Southeast China.",
+    "abstract": "Vertical profiles of the aerosol extinction coefficient (AEC) offer height-resolved information crucial for quantifying aerosol-radiation interactions and aerosol-cloud processes. However, continuous observation of such profiles remains limited due to sparse ground-based lidar coverage and the discontinuous nature of satellite retrievals. To mitigate this spatiotemporal data gap, we present DL-FIRE, a novel, to our knowledge, deep learning framework for spatiotemporal prediction of lidar-like aerosol profiles. The model predicts vertical AEC profiles at hourly lead times from 0 to 48 h using lagged ERA5 meteorological features. Its architecture centers on a specialized transformer encoder that utilizes a learnable aggregation token to distill integrated profile representations and implicitly capture vertical aerosol dynamics. We further introduce a masked loss function augmented with pairwise ordering constraints, enabling effective learning from sparse and incomplete profiles. Evaluated on the full dataset, our approach achieves R=0.5308 and MSE=0.0090, reducing the prediction error by 9.1% and 11.8% compared to the multilayer perceptron (MLP) and convolutional neural network (CNN) baselines, respectively, while demonstrating enhanced stability. Importantly, the model demonstrates strong generalization capability, independently validated against ground-based lidar measurements at Guangzhou (R=0.58, MSE=0.0067) and Shouxian (R=0.53, MSE=0.0189) during 2024-2025, confirming its practical reliability. Collectively, DL-FIRE provides a reliable tool for atmospheric sensing and supports intelligent environmental decision-making, with potential applications in long-term regional aerosol prediction studies.",
     "authors": [
-      "Muhammad Al-Ayyad",
-      "Bashar Al-Haj Moh'd",
-      "Mohammad Hasan Shamsan",
-      "Mohammad Al-Sayed Ahmad",
-      "Mohammad Al-Takrouri",
-      "Hamza Abu Owida"
+      "Chen Yang",
+      "Shengcheng Cui",
+      "Chenglei Pei",
+      "Zhi Qiao",
+      "Mingzhou Li",
+      "Mengying Zhai",
+      "Huiqiang Xu",
+      "Debao Dong"
     ],
-    "published": "2026-Dec",
+    "published": "2026-Aug-01",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42861392/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42863008/",
     "pdf_url": null,
-    "doi": "10.1016/j.ohx.2026.e00843",
+    "doi": "10.1364/JOSAA.600775",
     "citations": 0,
-    "venue": "HardwareX",
+    "venue": "Journal of the Optical Society of America. A, Optics, image science, and vision",
     "open_access": false,
-    "ai_summary": "The proposed design replaces an expensive electric air pump with a manual inflation bulb . The system comprises three key components: a robust electronic circuit, a reliable pneumatic system, and a 3D-printed housing optimized for semi-automatic operation ."
+    "ai_summary": "Vertical profiles of aerosol extinction coefficient (AEC) offer height-resolved information crucial for quantifying aerosol-radiation interactions . But continuous observation of such profiles remains limited due to sparse ground-based lidar coverage and the discontinuous nature of satellite retrievals ."
   },
   {
-    "id": "pubmed:42861360",
-    "title": "RaspberryJalisco: A field-collected multi-class dataset of Raspberry (",
-    "abstract": "We present RaspberryJalisco, a field-collected annotated image dataset of raspberry (",
+    "id": "pubmed:42862988",
+    "title": "Feature engineering with neural networks in Shack-Hartmann wavefront sensing.",
+    "abstract": "Wavefront sensing in conventional Shack-Hartmann wavefront sensors (SHWSs) relies on sequential centroiding and wavefront slope fitting algorithms, which are computationally demanding and whose accuracy is limited by wavefront sampling. In this work, we propose hybrid machine learning (ML) strategies combining feature selection and extraction with artificial neural networks (ANNs) that enhance both the wavefront sensing accuracy and computational efficiency. The ML models proposed for use in a SHWS (8×8 lenslets) are compared against a robust traditional wavefront sensing algorithm. Using a numerically simulated dataset of 10000 SHWS images, we evaluated three approaches: (1) manual feature selection (MFS) with ANNs, (2) random forest (RF)-based feature selection with ANNs, and (3) principal component analysis (PCA)-based feature extraction with ANNs. These methods achieved an average wavefront root-mean-square (RMS) error lower than the traditional algorithm, while maintaining sub-millisecond wavefront sensing time. To evaluate the models' performance under realistic conditions, we introduced a simulated Gaussian readout noise with a standard deviation of 15 ADU for a 12-bit camera. Evaluations using both noise-free models and those explicitly trained on noisy data confirmed that the proposed ML frameworks remain robust to readout noise. All the simulations and neural network training were performed on a personal laptop without a dedicated GPU or high-performance computing resources. These results demonstrate that integrating feature engineering with ANNs offers significant potential for accurate and computationally efficient SH wavefront sensing.",
     "authors": [
-      "Jaime Adan Cuevas-Ramirez",
-      "Carlos Alberto Villaseñor-Padilla",
-      "Javier Gomez-Avila",
-      "Carlos Lopez-Franco",
-      "Jesus Hernandez-Barragan",
-      "Gehova Lopez-Gonzalez",
-      "Nancy Arana-Daniel"
+      "Akash Kumar Tarai",
+      "Suman Sangiri",
+      "Likhith Kumar Pampana",
+      "Sambit Kumar Shukla",
+      "Vyas Akondi"
     ],
-    "published": "2026-Aug",
+    "published": "2026-Aug-01",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42861360/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42862988/",
     "pdf_url": null,
-    "doi": "10.1016/j.dib.2026.113253",
+    "doi": "10.1364/JOSAA.590445",
     "citations": 0,
-    "venue": "Data in brief",
+    "venue": "Journal of the Optical Society of America. A, Optics, image science, and vision",
     "open_access": false,
-    "ai_summary": "We present RaspberryJalisco, a field-collected annotated image dataset of raspberry ("
+    "ai_summary": "Wavefront sensing in conventional Shack-Hartmann wavefront sensors (SHWSs) relies on sequential centroiding and wavefront slope fitting algorithms . In this work, we propose hybrid machine learning (ML) strategies combining feature selection and extraction with artificial neural networks (ANNs) that enhance both the wavefront sensing accuracy and computational efficiency ."
+  },
+  {
+    "id": "pubmed:42862980",
+    "title": "Label-free lateral shearing digital holographic imaging of red blood cells for sickle cell disease identification.",
+    "abstract": "Digital holographic microscopy enables high-contrast, label-free quantitative phase imaging of transparent cells using visible light. This imaging modality can provide many biophysical and biomechanical cell features based on the numerically processed digital holograms. Sickle cell disease is a condition that affects red blood cells and is a significant health concern worldwide. Its clinical diagnosis, conventionally, is made using high-performance liquid chromatography, which is costly and time-consuming and requires experts to interpret the results. This paper presents a cost-effective method for screening sickle cell positive samples using a compact, self-referencing lateral shearing digital holographic microscope. Holographic videos of healthy and sickle cell positive samples are recorded using a digital holographic microscope and are numerically reconstructed. Both spatial and temporal features of the cells are extracted from the recorded holographic videos. The distribution of these features indicates the difference between healthy and sickle-cell-positive red blood cells. These features are used with classical machine learning classifiers to evaluate classification accuracy. The results are compared to determine the best machine learning model for label-free sickle cell identification. Results show that simple linear classifiers are sufficient due to the physical separability of the extracted features.",
+    "authors": [
+      "Chetna Patel",
+      "Shilpa Das",
+      "Mugdha Joglekar",
+      "Vismay Trivedi",
+      "Gyanendra Sheoran",
+      "Bahram Javidi",
+      "Arun Anand"
+    ],
+    "published": "2026-Aug-01",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42862980/",
+    "pdf_url": null,
+    "doi": "10.1364/JOSAA.590615",
+    "citations": 0,
+    "venue": "Journal of the Optical Society of America. A, Optics, image science, and vision",
+    "open_access": false,
+    "ai_summary": "Sickle cell disease is a condition that affects red blood cells and is a significant health concern worldwide . The paper presents a cost-effective method for screening sickle cell positive samples using a digital holographic microscope ."
   },
   {
     "id": "openalex:W7118880740",
@@ -1834,27 +1953,6 @@
     "ai_summary": "Artisan is a system that extends the latest method Articraft by introducing a multi-agent pipeline with physical simulation feedback . The benchmark encompasses 100 reference assets from ArtVIP and LightWheel, 50 stability prompts, and 50 ABO objects with reference masses, with protocols evaluating various metrics ."
   },
   {
-    "id": "arxiv:2610.13935v1",
-    "title": "Hide and Seek: HIDE Concepts to SEEK explanations for black box models",
-    "abstract": "Interpreting machine learning model predictions is a central challenge, particularly for black-box vision models. Concept-based attribution methods interpret models using human-understandable concepts. Existing concept-based methods can only interpret classification and regression models. They require access to model weights or large concept-annotated datasets, and most methods cannot provide image-level attribution. We propose Hide and Seek (HnS), a new method for concept-level attribution that does not require access to model weights or labeled concept datasets. HnS can interpret a wide range of vision models. Given a concept and image set, HnS retrieves concept-aligned images using a vision-language model, localizes the concept within each image, masks the localized region, and measures attribution from the change in the black-box model's output between the original and masked images. This enables faithful attribution by directly measuring the model's behavior and supporting local attributions. We validated HnS on CelebA and COCO-Stuff. Compared to existing methods, HnS showed better agreement with ground-truth attributions. We demonstrated the applicability of HnS on diverse tasks, including image captioning and satellite image segmentation, where no existing concept attribution method can be used. We provided our anonymous code in the supplementary material.",
-    "authors": [
-      "Bhanu Tokas",
-      "Rahul Nair",
-      "Rockwell Jackson",
-      "Hannah Kerner"
-    ],
-    "published": "2026-10-09",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2610.13935v1",
-    "pdf_url": "https://arxiv.org/pdf/2610.13935v1",
-    "doi": null,
-    "citations": 0,
-    "venue": "arXiv preprint",
-    "open_access": true,
-    "ai_summary": "Hide and Seek (HnS) is a new method for concept-level attribution that does not require access to model weights or labeled concept datasets . HnS can interpret a wide range of vision models using a concept and image set ."
-  },
-  {
     "id": "arxiv:2610.13941v1",
     "title": "Images Talk Back: Guiding MMDiTs by Suppressing Image-to-Text Feedback",
     "abstract": "Multimodal diffusion transformers (MMDiTs) allow the evolving image to update internal text representations through joint attention. These representations then guide subsequent image updates, raising a question: does this feedback help correct deviations from the prompt, or preserve them? We find that image-to-text (I2T) feedback can preserve the objects and attributes already represented in the evolving image, including errors. Transplanting I2T messages can rescue failures or disrupt successes. At matched intervention strengths, suppressing the influence of I2T feedback improves generation, whereas opposite controls degrade it. These findings motivate Semantic Feedback Guidance (SFG), which suppresses the influence of I2T feedback by guiding away from an auxiliary branch that strengthens this feedback and weakens text-to-image conditioning. The in-place variant, iSFG, directly suppresses I2T feedback and strengthens text-to-image conditioning, requiring no extra model evaluations. Temporal interventions motivate running the SFG branch during the first 20% of image sampling steps, requiring about $1.2\\times$ the base NFE without classifier-free guidance (CFG). Experiments across three image-generation backbones show gains in alignment and preference-model scores. On FLUX, adding SFG to CFG raises GenEval from $0.6661$ to $0.7479$; on SD3.5M, iSFG adds $+1.33$ HPSv2.1 over CFG at zero extra NFE. The control also transfers to text-to-video and image-to-video generation, improving VBench scores. Code is available at https://github.com/yyc1215lll-creator/SFG.",
@@ -1875,6 +1973,27 @@
     "venue": "arXiv preprint",
     "open_access": true,
     "ai_summary": "Multimodal diffusion transformers (MMDiTs) allow the evolving image to update internal text representations . These representations then guide subsequent image updates, raising the question: Does this feedback help correct deviations from the prompt, or preserve them?"
+  },
+  {
+    "id": "arxiv:2610.13935v1",
+    "title": "Hide and Seek: HIDE Concepts to SEEK explanations for black box models",
+    "abstract": "Interpreting machine learning model predictions is a central challenge, particularly for black-box vision models. Concept-based attribution methods interpret models using human-understandable concepts. Existing concept-based methods can only interpret classification and regression models. They require access to model weights or large concept-annotated datasets, and most methods cannot provide image-level attribution. We propose Hide and Seek (HnS), a new method for concept-level attribution that does not require access to model weights or labeled concept datasets. HnS can interpret a wide range of vision models. Given a concept and image set, HnS retrieves concept-aligned images using a vision-language model, localizes the concept within each image, masks the localized region, and measures attribution from the change in the black-box model's output between the original and masked images. This enables faithful attribution by directly measuring the model's behavior and supporting local attributions. We validated HnS on CelebA and COCO-Stuff. Compared to existing methods, HnS showed better agreement with ground-truth attributions. We demonstrated the applicability of HnS on diverse tasks, including image captioning and satellite image segmentation, where no existing concept attribution method can be used. We provided our anonymous code in the supplementary material.",
+    "authors": [
+      "Bhanu Tokas",
+      "Rahul Nair",
+      "Rockwell Jackson",
+      "Hannah Kerner"
+    ],
+    "published": "2026-10-09",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2610.13935v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.13935v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "Hide and Seek (HnS) is a new method for concept-level attribution that does not require access to model weights or labeled concept datasets . HnS can interpret a wide range of vision models using a concept and image set ."
   },
   {
     "id": "arxiv:2610.13944v1",
@@ -2840,124 +2959,35 @@
     "ai_summary": "Flow-matching and diffusion models are increasingly used as priors for linear inverse problems . Most methods are bespoke to one class of trajectory prior, but these implicitly decorrelate the guided trajectory . This work proposes $β$-Flow: a general plug-and-play method ."
   },
   {
-    "id": "pubmed:42861401",
-    "title": "Integrative bioinformatics screening of a M2 macrophage-associated gene signature for osimertinib resistance.",
-    "abstract": "Although the third-generation epidermal growth factor receptor tyrosine kinase inhibitor (EGFR-TKI) Osimertinib is widely used in lung adenocarcinoma (LUAD), acquired resistance to this agent remains a major clinical challenge perplexing the academic community. While the genomic drivers of osimertinib resistance (OR) have been relatively well characterized, the non-genetic contributions of the tumor microenvironment (TME), especially the role of macrophage-mediated remodeling remains incompletely understood. To address this gap, a total of 6 lung cancer tissue samples were collected from a cohort of 6 NSCLC patients and subjected to single-cell RNA sequencing (scRNA-seq). Weighted gene co-expression network analysis (WGCNA) was performed on Gene Expression Omnibus (GEO) data to screen out OR-associated gene modules. The intersection of scRNA-seq-derived differentially expressed genes (DEGs) and module genes was used to identify M2 macrophage- and OR-related DEGs (MORGs). An ensemble machine learning framework encompassing 112 algorithm combinations was applied to construct a gene signature. Survival analysis was conducted in the EGFR-mutant TCGA cohort. In vitro cell experiments were further performed for functional validation. Single-cell RNA sequencing firstly revealed an increased proportion of M2 macrophages in the OR group, and M2 macrophage-specific DEGs were identified between OR and non-OR groups. A total of seven MORGs were obtained by intersecting DEGs and OR-related module genes. A 7-gene signature was successfully established via machine learning. Survival analysis demonstrated that RRBP1 showed the strongest association with overall survival and was selected for further investigation. In vitro experiments confirmed that RRBP1 was significantly upregulated in the H1975OR cells. Knockdown of RRBP1 reduced cell viability and migration, lowered the IC50 of osimertinib, and increased the expression of ER stress markers such as GRP78 and CHOP. In summary, our study identified a 7-MORGs signature for OR, among which RRBP1 may be a candidate regulator for OR.",
-    "authors": [
-      "Yajie Huang",
-      "Yaozhong Zhang",
-      "Jian Shi"
-    ],
-    "published": "2026",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42861401/",
+    "id": "conf:Conference:https://aclanthology.org/events/acl-2025/#2025acl-long",
+    "title": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    "abstract": "",
+    "authors": [],
+    "published": "",
+    "source": "Conference",
+    "category": "conference",
+    "url": "https://aclanthology.org/events/acl-2025/#2025acl-long",
     "pdf_url": null,
-    "doi": "10.3389/fgene.2026.1928986",
+    "doi": null,
     "citations": 0,
-    "venue": "Frontiers in genetics",
+    "venue": "Conference",
     "open_access": false,
-    "ai_summary": "Osimertinib is widely used in lung adenocarcinoma (LUAD) But resistance to this agent remains a major clinical challenge perplexing the academic community ."
+    "ai_summary": "No abstract available."
   },
   {
-    "id": "pubmed:42861371",
-    "title": "Deep Doubly Debiased Longitudinal Effect Estimation with ICE G-Computation.",
-    "abstract": "Estimating longitudinal treatment effects is essential for sequential decision-making but is challenging due to treatment-confounder feedback. While ",
-    "authors": [
-      "Wenxin Chen",
-      "Weishen Pan",
-      "Kyra Gan",
-      "Fei Wang"
-    ],
-    "published": "2026",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42861371/",
+    "id": "conf:Conference:https://github.com/THUKElab/CLEME",
+    "title": "https://github.com/THUKElab/CLEME",
+    "abstract": "",
+    "authors": [],
+    "published": "",
+    "source": "Conference",
+    "category": "conference",
+    "url": "https://github.com/THUKElab/CLEME",
     "pdf_url": null,
-    "doi": "10.1145/3770855.3818925",
+    "doi": null,
     "citations": 0,
-    "venue": "KDD : proceedings. International Conference on Knowledge Discovery & Data Mining",
+    "venue": "Conference",
     "open_access": false,
-    "ai_summary": "Estimating longitudinal treatment effects is essential for sequential decision-making . But it is challenging due to treatment-confounder feedback ."
-  },
-  {
-    "id": "pubmed:42861354",
-    "title": "Integrated computation-guided thermostabilization of the fungal sweet protein Honey Truffle Sweetener.",
-    "abstract": "Thermostability limits the use of sweet proteins as sugar substitutes in thermally processed foods. Here, we report an integrated computation-guided workflow for thermostabilizing Honey Truffle Sweetener (HTS), a recently identified fungal sweet protein with low intrinsic stability. We determined the HTS crystal structure and used it to guide subsequent computational analyses. Rosetta and ThermoMPNN evaluated candidate substitutions from complementary physics-based and deep-learning-based perspectives, and the selected single-mutant library was experimentally characterized. The resulting melting-temperature data were then used to develop SMRC-Net, which combines mutation-centered features from the ESM2 protein language model with molecular dynamics-derived structural descriptors to support mutation prioritization. Repeated nested cross-validation supported quantitative T",
-    "authors": [
-      "Zhikuan Wang",
-      "Wen Wang",
-      "Feifei Zhu",
-      "Yutian Zhang",
-      "Yirui Li",
-      "Zhiqi Zhu",
-      "Ziwan Lu",
-      "Ang Huang",
-      "Mingjia Yu",
-      "Si Liu"
-    ],
-    "published": "2026",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42861354/",
-    "pdf_url": null,
-    "doi": "10.1016/j.crfs.2026.101584",
-    "citations": 0,
-    "venue": "Current research in food science",
-    "open_access": false,
-    "ai_summary": "Thermostability limits the use of sweet proteins as sugar substitutes in thermally processed foods . Here, we report an integrated computation-guided workflow for thermostabilizing Honey Truffle Sweetener (HTS)"
-  },
-  {
-    "id": "pubmed:42861314",
-    "title": "KLF4 Protects Against Sepsis-Induced Coagulopathy via Inhibition of the AKT/mTOR/STAT3 Signaling Pathway.",
-    "abstract": "Coagulation dysfunction is an independent predictor of morbidity and mortality in patients with severe sepsis, yet current therapeutic options remain inadequate. This study systematically evaluated the therapeutic potential of Krüppel-like factor 4 (KLF4) in sepsis-induced coagulopathy and explored the underlying molecular mechanisms. In vivo, mice were randomized into sham operation group, cecal ligation and puncture (CLP) group, and CLP + APTO-253 groups. The KLF4 agonist APTO-253 was intraperitoneally administered to CLP-induced septic mice to evaluate systemic inflammation, coagulation dysfunction, acute lung injury, and survival outcomes. In vitro, RAW264.7 macrophages were assigned to six core treatment groups: control group, APTO-253 group, LPS group, LPS + APTO-253 group, LPS + KLF4 overexpression group, and LPS + KLF4 knockdown group. Cellular inflammatory responses, coagulation-related biomarkers, and AKT/mTOR/STAT3 pathway activity were detected. In vivo, APTO-253 treatment significantly attenuated systemic inflammation and coagulopathy in septic mice via the upregulation of KLF4, accompanied by reduced levels of proinflammatory cytokines (interleukin-6 (IL-6), interleukin-1β (IL-1β), tumor necrosis factor-α (TNF-α)) and coagulation-related biomarkers (fibrinogen, thrombin-antithrombin complex (TAT), D-dimer, tissue factor (TF), plasminogen activator inhibitor-1 (PAI-1)). This therapeutic intervention ameliorated pathological manifestations, including pulmonary tissue damage, macrophage infiltration, and fibrin deposition, ultimately enhancing survival. In vitro, both APTO-253 treatment and KLF4 overexpression suppressed LPS-induced IL-6, IL-1β, TNF-α, TF, and PAI-1 through the inhibition of the AKT/mTOR/STAT3 signaling pathway. Conversely, KLF4 knockdown potentiated LPS-induced hyperactivation of this pathway, resulting in amplified proinflammatory and procoagulant responses. KLF4 overexpression ameliorates sepsis-induced coagulation dysfunction by inhibiting AKT/mTOR/STAT3 signaling. Thus, KLF4 represents a potential therapeutic target for coagulopathy in sepsis.",
-    "authors": [
-      "Rongrong Zhang",
-      "Yun Hong",
-      "Darong Hai",
-      "Hongyan Du",
-      "Liwen Zhao",
-      "Zhengyan Li",
-      "Fangkai Yin",
-      "Wanli Zheng",
-      "Kaicheng Wang",
-      "Jingye Pan",
-      "Yueyue Huang"
-    ],
-    "published": "2026",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42861314/",
-    "pdf_url": null,
-    "doi": "10.2147/JIR.S642803",
-    "citations": 0,
-    "venue": "Journal of inflammation research",
-    "open_access": false,
-    "ai_summary": "The study evaluated the therapeutic potential of Krüppel-like factor 4 (KLF4) in sepsis-induced coagulopathy . In vitro, RAW264.7 macrophages were assigned to six core treatment groups . In vivo, APTO-253 treatment significantly attenuated"
-  },
-  {
-    "id": "pubmed:42861308",
-    "title": "Research Progress on Artificial Intelligence in the Management of Diabetic Foot Ulcers.",
-    "abstract": "As a typical chronic complication of diabetes, the management of diabetic foot ulcers has long faced multiple challenges, including the highly subjective nature of wound assessment, patients'limited capacity for self-care at home, and the difficulty in predicting healing outcomes. The emergence of artificial intelligence (AI) technology offers new approaches to addressing these challenges. Based on recent domestic and international literature, this paper systematically reviews the research progress of artificial intelligence in the care of diabetic foot ulcers, focusing on four key dimensions: intelligent wound assessment (eg deep learning-based image analysis models achieving an F1 score of 93.1% for infection identification and 92.8% accuracy for area assessment), patient self-health management (eg mobile health applications and wearable monitoring devices), the development and application of smart dressings (eg responsive biomaterials and sensor integration), and the prediction of healing trends (eg machine learning prediction models, with support vector machines achieving 85.3% accuracy and an AUC of 0.922 in predicting complete DFU healing). It summarizes key technological achievements and the current status of clinical translation, provides an in-depth analysis of existing shortcomings (including insufficient algorithm generalizability, lack of prospective clinical validation, and absence of data standardization), and outlines future development directions (encompassing multimodal integration, explainable artificial intelligence, and implementation science research), with the aim of offering guidance for the further application of artificial intelligence technology in the field of chronic wound care.",
-    "authors": [
-      "Jinxia Du",
-      "Xiaoli Liu",
-      "Guihui Wu",
-      "Yin Huang",
-      "Yan Zhang",
-      "Xiang Long",
-      "Xiaoyi Yang",
-      "Yan Zhou"
-    ],
-    "published": "2026",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42861308/",
-    "pdf_url": null,
-    "doi": "10.2147/DMSO.S637013",
-    "citations": 0,
-    "venue": "Diabetes, metabolic syndrome and obesity : targets and therapy",
-    "open_access": false,
-    "ai_summary": "The emergence of artificial intelligence (AI) technology offers new approaches to addressing diabetic foot ulcers . The paper reviews the research progress of artificial Intelligence in the care of diabetic foot Ulcers ."
+    "ai_summary": "No abstract available."
   }
 ]
