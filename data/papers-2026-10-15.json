@@ -100,11 +100,11 @@
     "source": "Crossref",
     "category": "index",
     "url": "https://doi.org/10.3998/mjcsl.11105",
-    "pdf_url": null,
+    "pdf_url": "https://doi.org/10.3998/mjcsl.11105",
     "doi": "10.3998/mjcsl.11105",
     "citations": 0,
     "venue": "Michigan Journal of Community Service Learning",
-    "open_access": false,
+    "open_access": true,
     "ai_summary": "No abstract available."
   },
   {
@@ -344,6 +344,24 @@
     "ai_summary": "No abstract available."
   },
   {
+    "id": "crossref:10.56251/watu4873",
+    "title": "Machine Learning Application for SAIs",
+    "abstract": "",
+    "authors": [
+      "Tiare Rivera"
+    ],
+    "published": "2030",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.56251/watu4873",
+    "pdf_url": null,
+    "doi": "10.56251/watu4873",
+    "citations": 0,
+    "venue": "International Journal of Government Auditing",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
     "id": "crossref:10.56251/yxek7242",
     "title": "Evolution and Applications of Artificial Intelligence in SAIs",
     "abstract": "",
@@ -360,24 +378,6 @@
     "url": "https://doi.org/10.56251/yxek7242",
     "pdf_url": null,
     "doi": "10.56251/yxek7242",
-    "citations": 0,
-    "venue": "International Journal of Government Auditing",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "crossref:10.56251/watu4873",
-    "title": "Machine Learning Application for SAIs",
-    "abstract": "",
-    "authors": [
-      "Tiare Rivera"
-    ],
-    "published": "2030",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.56251/watu4873",
-    "pdf_url": null,
-    "doi": "10.56251/watu4873",
     "citations": 0,
     "venue": "International Journal of Government Auditing",
     "open_access": false,
@@ -616,11 +616,11 @@
     "source": "Crossref",
     "category": "index",
     "url": "https://doi.org/10.5705/ss.202025.0230",
-    "pdf_url": "https://doi.org/10.5705/ss.202025.0230",
+    "pdf_url": null,
     "doi": "10.5705/ss.202025.0230",
     "citations": 0,
     "venue": "Statistica Sinica",
-    "open_access": true,
+    "open_access": false,
     "ai_summary": "No abstract available."
   },
   {
@@ -997,27 +997,6 @@
     "ai_summary": "Hospitalized patients admitted to the Department of Respiratory and Critical Care Medicine at Haihe Hospital, Tianjin University, from April to November 2025 were selected . After admission, standardized history taking, physical examination, and relevant ancillary examinations were performed by specialist physicians ."
   },
   {
-    "id": "pubmed:42875346",
-    "title": "Use of digital health tools to promote equitable and efficient health-related social needs screening and response.",
-    "abstract": "Unmet health-related social needs (HRSNs), such as food insecurity, housing instability, transportation barriers, and caregiver stress, are associated with increased healthcare utilization and poorer health outcomes. Screening for HRSNs and addressing unmet needs in pediatric healthcare is crucial to improving child health across the life course. As HRSN screening becomes more widespread, digital health tools offer an opportunity to expand equitable screening and resource referral programs. These technologies can improve workflow efficiency, adapt to different clinical settings, and facilitate interdisciplinary collaboration across healthcare settings. This article reviews the benefits of digital health integration for HRSN screening and resource referrals, the existing tools, and potential expansion utilizing artificial intelligence. Finally, we discuss the importance of trauma-informed digital health approaches that prioritize patient privacy, transparency, and trust.",
-    "authors": [
-      "Eliza Sitter",
-      "Stephanie G Menko",
-      "Danielle Capriola",
-      "Philip V Scribano"
-    ],
-    "published": "2026-Oct-14",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42875346/",
-    "pdf_url": null,
-    "doi": "10.1016/j.cppeds.2026.101980",
-    "citations": 0,
-    "venue": "Current problems in pediatric and adolescent health care",
-    "open_access": false,
-    "ai_summary": "Unmet health-related social needs (HRSNs) are associated with increased healthcare utilization and poorer health outcomes . Screening for HRSNs and addressing unmet needs in pediatric healthcare is crucial to improving child health across the life course . As HRSN screening becomes more widespread, digital health tools offer an opportunity to expand"
-  },
-  {
     "id": "pubmed:42875362",
     "title": "Deep Learning-Driven Multimodal Integration of Ultrasound and CT for Identifying Central Lymph Node Metastasis in Papillary Thyroid Carcinoma.",
     "abstract": "To evaluate the utility of multimodal imaging biomarkers in papillary thyroid carcinoma (PTC), this study developed a deep learning model using ultrasound (US) and computed tomography (CT) imaging to predict central lymph node metastasis (CLNM) in PTC by integrating radiomic features of perivascular adipose tissue (PVAT) at the cervical vertebra 6 (C6) level. We retrospectively analyzed 477 PTC patients from two centers. Using ResNet101 with Hierarchical Attention Integration (ResHAI-101), we extracted deep learning features of the tumor area from US images. Separately, we extracted radiomic features of PVAT from CT images. Univariate and multivariate analyses were conducted based on clinical data, followed by feature selection and integration. Multimodal prediction model performance was quantified by the area under the receiver operating characteristic curve (AUC). Predictive performance was validated using an external test cohort (ETC). The Multimodal Prediction Model 3, integrating deep learning features, PVAT radiomic features and clinical features, showed superior diagnostic performance for predicting CLNM compared to the Unimodal Model, achieving AUCs of 0.915 in the internal test cohort and 0.890 in the ETC. Binary logistic regression identified gender, age, tumor size and extrathyroidal extension as independent risk factors for CLNM. This study establishes and validates the significant impact of PVAT on CLNM in PTC, providing a non-invasive tool for pre-operative risk assessment to aid in surgical decision-making.",
@@ -1070,6 +1049,27 @@
     "venue": "Brain research",
     "open_access": false,
     "ai_summary": "No abstract available."
+  },
+  {
+    "id": "pubmed:42875346",
+    "title": "Use of digital health tools to promote equitable and efficient health-related social needs screening and response.",
+    "abstract": "Unmet health-related social needs (HRSNs), such as food insecurity, housing instability, transportation barriers, and caregiver stress, are associated with increased healthcare utilization and poorer health outcomes. Screening for HRSNs and addressing unmet needs in pediatric healthcare is crucial to improving child health across the life course. As HRSN screening becomes more widespread, digital health tools offer an opportunity to expand equitable screening and resource referral programs. These technologies can improve workflow efficiency, adapt to different clinical settings, and facilitate interdisciplinary collaboration across healthcare settings. This article reviews the benefits of digital health integration for HRSN screening and resource referrals, the existing tools, and potential expansion utilizing artificial intelligence. Finally, we discuss the importance of trauma-informed digital health approaches that prioritize patient privacy, transparency, and trust.",
+    "authors": [
+      "Eliza Sitter",
+      "Stephanie G Menko",
+      "Danielle Capriola",
+      "Philip V Scribano"
+    ],
+    "published": "2026-Oct-14",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42875346/",
+    "pdf_url": null,
+    "doi": "10.1016/j.cppeds.2026.101980",
+    "citations": 0,
+    "venue": "Current problems in pediatric and adolescent health care",
+    "open_access": false,
+    "ai_summary": "Unmet health-related social needs (HRSNs) are associated with increased healthcare utilization and poorer health outcomes . Screening for HRSNs and addressing unmet needs in pediatric healthcare is crucial to improving child health across the life course . As HRSN screening becomes more widespread, digital health tools offer an opportunity to expand"
   },
   {
     "id": "pubmed:42875299",
@@ -1660,26 +1660,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "openalex:W7220710091",
-    "title": "Design and Development of An Iot-Based Digital Scale for Measuring Cement Weight Using A Load Cell Sensor at Pt Semen Tonasa, Balikpapan Branch",
-    "abstract": "",
-    "authors": [
-      "Tizar Fitrah Anugerah",
-      "Nanda Stya Hermawan",
-      "Abdul Rachman Manga"
-    ],
-    "published": "2026-11-05",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.56705/ijonit.v2i2.403",
-    "pdf_url": "https://jurnal.yoctobrain.org/index.php/ijonit/article/download/403/350",
-    "doi": "10.56705/ijonit.v2i2.403",
-    "citations": 0,
-    "venue": "Indonesian Journal of Networking and Internet of Things",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
     "id": "openalex:W7160319602",
     "title": "Towards Early and Accurate Disease Detection Through Multimodal Predictive Modeling: Fusion of Electronic Health Records, Medical Imaging, And Omics Data Using Interpretable Machine Learning.",
     "abstract": "",
@@ -1741,6 +1721,46 @@
     "citations": 0,
     "venue": "Future of Work and Digital Management Journal",
     "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7217745724",
+    "title": "Identifying the Dimensions and Components of Organizational Infrastructure Development in the Field of Human Capital in Mahshahr Gas Company",
+    "abstract": "",
+    "authors": [
+      "Davod Golehdari",
+      "Mohammad Ali Nikbakhsh"
+    ],
+    "published": "2026-11-01",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://openalex.org/W7217745724",
+    "pdf_url": "https://journalfwdmj.com/index.php/fwdmj/article/download/270/299",
+    "doi": null,
+    "citations": 0,
+    "venue": "Future of Work and Digital Management Journal",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7221842566",
+    "title": "STUDI SIMULASI DETEKSI EMAIL PHISHING BERBASIS NLP MENGGUNAKAN TF-IDF DENGAN SUPPORT VECTOR MACHINE DAN RANDOM FOREST",
+    "abstract": "",
+    "authors": [
+      "Muhamad Ali Mubarok",
+      "Nizirwan Anwar",
+      "Arief Ichwani",
+      "Raden Teddy Iswahyudi"
+    ],
+    "published": "2026-11-01",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://openalex.org/W7221842566",
+    "pdf_url": null,
+    "doi": null,
+    "citations": 0,
+    "venue": "IIKRA-ITH Informatika Jurnal Komputer dan Informatika",
+    "open_access": false,
     "ai_summary": "No abstract available."
   },
   {
@@ -1826,31 +1846,28 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "arxiv:2610.20604v1",
-    "title": "VITAL: From Visual Motion to Precise Action",
-    "abstract": "World-action models aim to turn visual anticipation into driving decisions, yet typically train action experts on trajectory representations defined independently of visual dynamics. This motivates deriving action targets directly from visual motion. We first examine a simpler setting in which trajectories are reconstructed from recorded future images. Even without the need for future prediction, reconstruction captures the dominant maneuver but leaves centimeter-scale errors. We therefore introduce VITAL (Vision-Induced Tokens for Action Learning), an action tokenizer that couples a visually derived motion scaffold with a compact residual encoding the trajectory error left by that scaffold. This representation makes visual motion the principal prediction target and gives small metric corrections a separate, normalized learning scale. Using flow matching, the action expert jointly predicts both components from the current image, ego state, and navigation command, without generating future images at inference. The same residual coordinates support bounded reinforcement post-training that refines execution while keeping the predicted visual scaffold fixed. With only one action denoising step, VITAL achieves 90.8 PDMS on NAVSIM v1 navtest, within 0.13 points of its ten-step score at 3.29x the end-to-end inference speed. Without retraining, it achieves 91.1 EPDMS on NAVSIM v2 navtest and 38.6 on navhard. Project page: https://worldbench.github.io/vital",
+    "id": "openalex:W4321593793",
+    "title": "Blockchain and Biometrics: Survey, GDPR Analysis, and Future Directions",
+    "abstract": "",
     "authors": [
-      "Ao Liang",
-      "Youquan Liu",
-      "Mingxiao Li",
-      "Wei Chow",
-      "Lingdong Kong",
-      "Yue Liao",
-      "Dongyue Lu",
-      "Yu Yang",
-      "Wei Yin",
-      "Runnan Chen"
+      "Mahdi Ghafourian",
+      "BILGESU SUMER",
+      "Rubén Vera-Rodríguez",
+      "Julián Fiérrez",
+      "Rubén Tolosana",
+      "Aythami Moralez",
+      "Els J. Kindt"
     ],
     "published": "2026-10-14",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2610.20604v1",
-    "pdf_url": "https://arxiv.org/pdf/2610.20604v1",
-    "doi": null,
-    "citations": 0,
-    "venue": "arXiv preprint",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.3390/computers15100716",
+    "pdf_url": "https://doi.org/10.3390/computers15100716",
+    "doi": "10.3390/computers15100716",
+    "citations": 10,
+    "venue": "Computers",
     "open_access": true,
-    "ai_summary": "World-action models aim to turn visual anticipation into driving decisions . But typically train action experts on trajectory representations defined independently of visual dynamics . This motivates deriving action targets directly from visual motion ."
+    "ai_summary": "No abstract available."
   },
   {
     "id": "arxiv:2610.20603v1",
@@ -1881,45 +1898,28 @@
     "ai_summary": "CommerceGen-Studio is an end-to-end framework for generating commercial-grade main images for e-commerce Stock Keeping Units (SKUs) The framework runs in production at a scale of millions of main images per day with a latency of a few seconds per day ."
   },
   {
-    "id": "arxiv:2610.20607v1",
-    "title": "Hierarchical Residual Policy Learning for Real-World Mobile Manipulation with Sparse Human Guidance",
-    "abstract": "Mobile Manipulation (MoMa) is a cornerstone of autonomous robotic systems, yet real-world fine-tuning remains a formidable challenge because of high-dimensional action spaces and intricate coupling between heterogeneous modules. In this paper, we propose HiRe-MoMa (Hierarchical Residual Mobile Manipulation), a systematic framework for stable and sample-efficient real-world fine-tuning of complex MoMa systems. At its core, HiRe-MoMa adopts a Hierarchical Residual Architecture that fine-tunes a frozen base policy. A Policy-Agnostic Residual learns additive corrections atop the base policy, while Hierarchical Decoupling splits the residual into mobile-base and manipulator-arm heads with unidirectional conditioning, mitigating gradient interference and aligning corrections with the platform's physical hierarchy. To improve sample efficiency in data-expensive real-world settings, we propose Expert-Guided Value Alignment, which leverages sparse human interventions with under 20% training coverage to reshape the critic's value landscape, effectively guiding autonomous exploration through expert priors. Extensive real-world experiments on the TIAGo++ platform demonstrate that HiRe-MoMa consistently enhances task performance with only around 30 minutes of online interaction, regardless of the base policy architecture. To our knowledge, this is among the first frameworks to enable efficient on-robot fine-tuning for mobile manipulation in the real world, providing a practical paradigm for deploying complex robotic systems in dynamic, human-centric environments. Further details can be found on our project website: https://hire-moma.github.io/",
+    "id": "arxiv:2610.20610v1",
+    "title": "Can Learning to Answer Spatial Questions Improve Novel-View Generation?",
+    "abstract": "Generating novel views from limited observations requires preserving both the appearance and spatial structure of a scene. Although recent approaches exploit fine-grained geometric cues, they do not explicitly model high-level semantic and spatial properties such as object identity, attributes, and inter-object relationships. In this work, we investigate whether 3D language understanding can provide complementary supervision for novel-view generation. We introduce Ask4NV, built on a pretrained unified multimodal model with a Mixture-of-Transformers (MoT) architecture. Our model incorporates camera geometry into both VAE and ViT representations and leverages understanding features during generation through joint self-attention with a modality-aware attention masking strategy. Experiments demonstrate strong image quality and geometric consistency in novel-view generation, alongside competitive 3D language understanding. Further analysis shows that joint training improves cross-view correspondence in VAE representations and similarity in a 3D-aware feature space.",
     "authors": [
-      "Zhefei Gong",
-      "Hefeifei Jiang",
-      "Zehao Wang",
-      "Jiachen Li"
+      "Jahyeok Koo",
+      "Hyeonseo Yu",
+      "Seungho Jang",
+      "Jaewoo Jung",
+      "Jiwon Kang",
+      "Seokju Cho",
+      "Seungryong Kim"
     ],
     "published": "2026-10-14",
     "source": "arXiv",
     "category": "preprint",
-    "url": "https://arxiv.org/abs/2610.20607v1",
-    "pdf_url": "https://arxiv.org/pdf/2610.20607v1",
+    "url": "https://arxiv.org/abs/2610.20610v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.20610v1",
     "doi": null,
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "HiRe-MoMa is a systematic framework for stable and sample-efficient real-world fine-tuning of complex MoMa systems . At its core, Hi re-tunes a frozen base policy that fine-tune a frozen policy . A Policy-Agnostic Residual learns additive corrections atop the base policy, while"
-  },
-  {
-    "id": "arxiv:2610.20608v1",
-    "title": "Representation Conditioning for Generation",
-    "abstract": "Representation-alignment methods effectively accelerate the diffusion transformer training. REPA, for example, uses a pretrained vision encoder to supervise an intermediate layer through an MLP projection head which is discarded after training. It aims to import semantics from the vision encoder to the diffusion backbone. While this objective is achieved at early layers by back-propagating the alignment loss, there is no guarantee that later layers, supervised by the velocity prediction loss alone, can well access such semantics. We propose a simple solution, representation conditioning (RECON), to improve semantics in later layers. During training, we feed the pretrained vision encoder tokens into later layers; during inference, because we no longer have the clean image, we reuse the MLP head (as a proxy to the vision encoder) and project its output tokens to the later layers. Our method adds no parameters and leads to much faster convergence: RECON is $63\\times$ faster than SiT and $25\\times$ faster than REPA. Code is available at https://github.com/saeidrazavi/RECON",
-    "authors": [
-      "Saeed Razavi",
-      "Xingjian Leng",
-      "Liang Zheng"
-    ],
-    "published": "2026-10-14",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2610.20608v1",
-    "pdf_url": "https://arxiv.org/pdf/2610.20608v1",
-    "doi": null,
-    "citations": 0,
-    "venue": "arXiv preprint",
-    "open_access": true,
-    "ai_summary": "RePA uses a pretrained vision encoder to supervise an intermediate layer through an MLP projection head which is discarded after training . It aims to import semantics from the visionencoder to the diffusion backbone ."
+    "ai_summary": "We investigate whether 3D language understanding can provide complementary supervision for novel-view generation . We introduce Ask4NV, built on a pretrained unified multimodal model with a Mixture-of-Transformers (MoT) architecture ."
   },
   {
     "id": "arxiv:2610.20606v1",
@@ -1943,28 +1943,72 @@
     "ai_summary": "Recent advances in robot learning have driven rapid progress in humanoid control . However, humanoid control networks are typically obtained through conventional training procedures . We adopt a latent diffusion framework that couples a linear autoencoder with a Diffusion Transformer ."
   },
   {
-    "id": "arxiv:2610.20610v1",
-    "title": "Can Learning to Answer Spatial Questions Improve Novel-View Generation?",
-    "abstract": "Generating novel views from limited observations requires preserving both the appearance and spatial structure of a scene. Although recent approaches exploit fine-grained geometric cues, they do not explicitly model high-level semantic and spatial properties such as object identity, attributes, and inter-object relationships. In this work, we investigate whether 3D language understanding can provide complementary supervision for novel-view generation. We introduce Ask4NV, built on a pretrained unified multimodal model with a Mixture-of-Transformers (MoT) architecture. Our model incorporates camera geometry into both VAE and ViT representations and leverages understanding features during generation through joint self-attention with a modality-aware attention masking strategy. Experiments demonstrate strong image quality and geometric consistency in novel-view generation, alongside competitive 3D language understanding. Further analysis shows that joint training improves cross-view correspondence in VAE representations and similarity in a 3D-aware feature space.",
+    "id": "arxiv:2610.20607v1",
+    "title": "Hierarchical Residual Policy Learning for Real-World Mobile Manipulation with Sparse Human Guidance",
+    "abstract": "Mobile Manipulation (MoMa) is a cornerstone of autonomous robotic systems, yet real-world fine-tuning remains a formidable challenge because of high-dimensional action spaces and intricate coupling between heterogeneous modules. In this paper, we propose HiRe-MoMa (Hierarchical Residual Mobile Manipulation), a systematic framework for stable and sample-efficient real-world fine-tuning of complex MoMa systems. At its core, HiRe-MoMa adopts a Hierarchical Residual Architecture that fine-tunes a frozen base policy. A Policy-Agnostic Residual learns additive corrections atop the base policy, while Hierarchical Decoupling splits the residual into mobile-base and manipulator-arm heads with unidirectional conditioning, mitigating gradient interference and aligning corrections with the platform's physical hierarchy. To improve sample efficiency in data-expensive real-world settings, we propose Expert-Guided Value Alignment, which leverages sparse human interventions with under 20% training coverage to reshape the critic's value landscape, effectively guiding autonomous exploration through expert priors. Extensive real-world experiments on the TIAGo++ platform demonstrate that HiRe-MoMa consistently enhances task performance with only around 30 minutes of online interaction, regardless of the base policy architecture. To our knowledge, this is among the first frameworks to enable efficient on-robot fine-tuning for mobile manipulation in the real world, providing a practical paradigm for deploying complex robotic systems in dynamic, human-centric environments. Further details can be found on our project website: https://hire-moma.github.io/",
     "authors": [
-      "Jahyeok Koo",
-      "Hyeonseo Yu",
-      "Seungho Jang",
-      "Jaewoo Jung",
-      "Jiwon Kang",
-      "Seokju Cho",
-      "Seungryong Kim"
+      "Zhefei Gong",
+      "Hefeifei Jiang",
+      "Zehao Wang",
+      "Jiachen Li"
     ],
     "published": "2026-10-14",
     "source": "arXiv",
     "category": "preprint",
-    "url": "https://arxiv.org/abs/2610.20610v1",
-    "pdf_url": "https://arxiv.org/pdf/2610.20610v1",
+    "url": "https://arxiv.org/abs/2610.20607v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.20607v1",
     "doi": null,
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "We investigate whether 3D language understanding can provide complementary supervision for novel-view generation . We introduce Ask4NV, built on a pretrained unified multimodal model with a Mixture-of-Transformers (MoT) architecture ."
+    "ai_summary": "HiRe-MoMa is a systematic framework for stable and sample-efficient real-world fine-tuning of complex MoMa systems . At its core, Hi re-tunes a frozen base policy that fine-tune a frozen policy . A Policy-Agnostic Residual learns additive corrections atop the base policy, while"
+  },
+  {
+    "id": "arxiv:2610.20604v1",
+    "title": "VITAL: From Visual Motion to Precise Action",
+    "abstract": "World-action models aim to turn visual anticipation into driving decisions, yet typically train action experts on trajectory representations defined independently of visual dynamics. This motivates deriving action targets directly from visual motion. We first examine a simpler setting in which trajectories are reconstructed from recorded future images. Even without the need for future prediction, reconstruction captures the dominant maneuver but leaves centimeter-scale errors. We therefore introduce VITAL (Vision-Induced Tokens for Action Learning), an action tokenizer that couples a visually derived motion scaffold with a compact residual encoding the trajectory error left by that scaffold. This representation makes visual motion the principal prediction target and gives small metric corrections a separate, normalized learning scale. Using flow matching, the action expert jointly predicts both components from the current image, ego state, and navigation command, without generating future images at inference. The same residual coordinates support bounded reinforcement post-training that refines execution while keeping the predicted visual scaffold fixed. With only one action denoising step, VITAL achieves 90.8 PDMS on NAVSIM v1 navtest, within 0.13 points of its ten-step score at 3.29x the end-to-end inference speed. Without retraining, it achieves 91.1 EPDMS on NAVSIM v2 navtest and 38.6 on navhard. Project page: https://worldbench.github.io/vital",
+    "authors": [
+      "Ao Liang",
+      "Youquan Liu",
+      "Mingxiao Li",
+      "Wei Chow",
+      "Lingdong Kong",
+      "Yue Liao",
+      "Dongyue Lu",
+      "Yu Yang",
+      "Wei Yin",
+      "Runnan Chen"
+    ],
+    "published": "2026-10-14",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2610.20604v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.20604v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "World-action models aim to turn visual anticipation into driving decisions . But typically train action experts on trajectory representations defined independently of visual dynamics . This motivates deriving action targets directly from visual motion ."
+  },
+  {
+    "id": "arxiv:2610.20608v1",
+    "title": "Representation Conditioning for Generation",
+    "abstract": "Representation-alignment methods effectively accelerate the diffusion transformer training. REPA, for example, uses a pretrained vision encoder to supervise an intermediate layer through an MLP projection head which is discarded after training. It aims to import semantics from the vision encoder to the diffusion backbone. While this objective is achieved at early layers by back-propagating the alignment loss, there is no guarantee that later layers, supervised by the velocity prediction loss alone, can well access such semantics. We propose a simple solution, representation conditioning (RECON), to improve semantics in later layers. During training, we feed the pretrained vision encoder tokens into later layers; during inference, because we no longer have the clean image, we reuse the MLP head (as a proxy to the vision encoder) and project its output tokens to the later layers. Our method adds no parameters and leads to much faster convergence: RECON is $63\\times$ faster than SiT and $25\\times$ faster than REPA. Code is available at https://github.com/saeidrazavi/RECON",
+    "authors": [
+      "Saeed Razavi",
+      "Xingjian Leng",
+      "Liang Zheng"
+    ],
+    "published": "2026-10-14",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2610.20608v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.20608v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "RePA uses a pretrained vision encoder to supervise an intermediate layer through an MLP projection head which is discarded after training . It aims to import semantics from the visionencoder to the diffusion backbone ."
   },
   {
     "id": "arxiv:2610.20598v1",
@@ -2977,7 +3021,7 @@
     "source": "OpenAlex",
     "category": "index",
     "url": "https://doi.org/10.3389/fcpxs.2026.1868587",
-    "pdf_url": "https://doi.org/10.3389/fcpxs.2026.1868587",
+    "pdf_url": "https://www.frontiersin.org/journals/complex-systems/articles/10.3389/fcpxs.2026.1868587/pdf",
     "doi": "10.3389/fcpxs.2026.1868587",
     "citations": 0,
     "venue": "Frontiers in Complex Systems",
@@ -2985,62 +3029,24 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "openalex:W7221689582",
-    "title": "Innovación en Inteligencia Artificial y Nuevas Tecnologías en la Medicina del Deporte y el Fútbol",
+    "id": "openalex:W7203670731",
+    "title": "Weaker Coherence, Weaker Reciprocity: Comparing the Semantic and Social Organization of Moltbook and Reddit",
     "abstract": "",
     "authors": [
-      "Antonio Eugenio Rivera Cisneros",
-      "Jimena Prado Peláez",
-      "Gloria Vargas Sánchez",
-      "Amalia Marcela Lara Gonzalez",
-      "FELIPE HOMERO GÓMEZ BALLESTEROS"
+      "Favio Di Ciocco",
+      "Lucas Díaz Celauro",
+      "Sebastián Pinto",
+      "Marcelo Kuperman",
+      "Pablo Balenzuela"
     ],
     "published": "2026-10-14",
     "source": "OpenAlex",
     "category": "index",
-    "url": "https://doi.org/10.63371/ic.v5.n3.a1720",
-    "pdf_url": "https://doi.org/10.63371/ic.v5.n3.a1720",
-    "doi": "10.63371/ic.v5.n3.a1720",
+    "url": "https://doi.org/10.3390/complexities2040024",
+    "pdf_url": "https://doi.org/10.3390/complexities2040024",
+    "doi": "10.3390/complexities2040024",
     "citations": 0,
-    "venue": "Ibero Ciencias - Revista Científica y Académica",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W7221504331",
-    "title": "A cascaded probabilistic framework for stealth-aware MITRE ATT&CK path prediction in active directory adversary emulation",
-    "abstract": "",
-    "authors": [
-      "Mahmoud Youssef",
-      "Nagwa L. Badr",
-      "Alshaimaa Abo‐alian"
-    ],
-    "published": "2026-10-13",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.1038/s41598-026-71934-z",
-    "pdf_url": "https://www.nature.com/articles/s41598-026-71934-z.pdf",
-    "doi": "10.1038/s41598-026-71934-z",
-    "citations": 0,
-    "venue": "Scientific Reports",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W7221504867",
-    "title": "In Her Purse: Designing a Benefits Navigation Platform for Incomplete and Sensitive Disclosures",
-    "abstract": "",
-    "authors": [
-      "Shannon Zhang"
-    ],
-    "published": "2026-10-13",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.54254/2755-2721/2027.melb37599",
-    "pdf_url": "https://ace.ewapub.com/article/view/37599.pdf",
-    "doi": "10.54254/2755-2721/2027.melb37599",
-    "citations": 0,
-    "venue": "Applied and Computational Engineering",
+    "venue": "Complexities",
     "open_access": true,
     "ai_summary": "No abstract available."
   },
@@ -3061,5 +3067,37 @@
     "venue": "Soins. Gerontologie",
     "open_access": false,
     "ai_summary": "Dignity is a concept frequently invoked in bioethics, both in the literature and in practice . This article explores its various meanings, highlighting the relational context in which it is situated . The discussion focuses on the impact of AI-powered assistive robots, designed to combat isolation and loneliness ."
+  },
+  {
+    "id": "conf:Conference:https://aclanthology.org/events/acl-2025/#2025acl-long",
+    "title": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    "abstract": "",
+    "authors": [],
+    "published": "",
+    "source": "Conference",
+    "category": "conference",
+    "url": "https://aclanthology.org/events/acl-2025/#2025acl-long",
+    "pdf_url": null,
+    "doi": null,
+    "citations": 0,
+    "venue": "Conference",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "conf:Conference:https://github.com/THUKElab/CLEME",
+    "title": "https://github.com/THUKElab/CLEME",
+    "abstract": "",
+    "authors": [],
+    "published": "",
+    "source": "Conference",
+    "category": "conference",
+    "url": "https://github.com/THUKElab/CLEME",
+    "pdf_url": null,
+    "doi": null,
+    "citations": 0,
+    "venue": "Conference",
+    "open_access": false,
+    "ai_summary": "No abstract available."
   }
 ]
