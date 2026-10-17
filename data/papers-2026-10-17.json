@@ -156,22 +156,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.21825/ewopinpractice.94703",
-    "title": "Title Pending 94703",
-    "abstract": "",
-    "authors": [],
-    "published": "2035",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.21825/ewopinpractice.94703",
-    "pdf_url": null,
-    "doi": "10.21825/ewopinpractice.94703",
-    "citations": 0,
-    "venue": "EWOP in Practice",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
     "id": "crossref:10.21825/ewopinpractice.94702",
     "title": "Title Pending 94702",
     "abstract": "",
@@ -184,6 +168,38 @@
     "doi": "10.21825/ewopinpractice.94702",
     "citations": 0,
     "venue": "EWOP in Practice",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "crossref:10.21825/ewopinpractice.94703",
+    "title": "Title Pending 94703",
+    "abstract": "",
+    "authors": [],
+    "published": "2035",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.21825/ewopinpractice.94703",
+    "pdf_url": "https://openjournals.ugent.be/ewopinpractice/article/id/94703/download/pdf/",
+    "doi": "10.21825/ewopinpractice.94703",
+    "citations": 0,
+    "venue": "EWOP in Practice",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "crossref:10.3998/mjcsl.5730",
+    "title": "Title Pending 5730",
+    "abstract": "",
+    "authors": [],
+    "published": "2034",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.3998/mjcsl.5730",
+    "pdf_url": null,
+    "doi": "10.3998/mjcsl.5730",
+    "citations": 0,
+    "venue": "Michigan Journal of Community Service Learning",
     "open_access": false,
     "ai_summary": "No abstract available."
   },
@@ -204,19 +220,19 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.3998/mjcsl.5730",
-    "title": "Title Pending 5730",
+    "id": "crossref:10.3998/mjcsl.3643",
+    "title": "Title Pending 3643",
     "abstract": "",
     "authors": [],
-    "published": "2034",
+    "published": "2033",
     "source": "Crossref",
     "category": "index",
-    "url": "https://doi.org/10.3998/mjcsl.5730",
-    "pdf_url": "https://journals.publishing.umich.edu/mjcsl/article/id/5730/download/pdf/",
-    "doi": "10.3998/mjcsl.5730",
+    "url": "https://doi.org/10.3998/mjcsl.3643",
+    "pdf_url": null,
+    "doi": "10.3998/mjcsl.3643",
     "citations": 0,
     "venue": "Michigan Journal of Community Service Learning",
-    "open_access": true,
+    "open_access": false,
     "ai_summary": "No abstract available."
   },
   {
@@ -230,22 +246,6 @@
     "url": "https://doi.org/10.3998/mjcsl.4120",
     "pdf_url": null,
     "doi": "10.3998/mjcsl.4120",
-    "citations": 0,
-    "venue": "Michigan Journal of Community Service Learning",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "crossref:10.3998/mjcsl.3643",
-    "title": "Title Pending 3643",
-    "abstract": "",
-    "authors": [],
-    "published": "2033",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.3998/mjcsl.3643",
-    "pdf_url": null,
-    "doi": "10.3998/mjcsl.3643",
     "citations": 0,
     "venue": "Michigan Journal of Community Service Learning",
     "open_access": false,
@@ -376,24 +376,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.56251/watu4873",
-    "title": "Machine Learning Application for SAIs",
-    "abstract": "",
-    "authors": [
-      "Tiare Rivera"
-    ],
-    "published": "2030",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.56251/watu4873",
-    "pdf_url": null,
-    "doi": "10.56251/watu4873",
-    "citations": 0,
-    "venue": "International Journal of Government Auditing",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
     "id": "crossref:10.56251/yxek7242",
     "title": "Evolution and Applications of Artificial Intelligence in SAIs",
     "abstract": "",
@@ -410,6 +392,24 @@
     "url": "https://doi.org/10.56251/yxek7242",
     "pdf_url": null,
     "doi": "10.56251/yxek7242",
+    "citations": 0,
+    "venue": "International Journal of Government Auditing",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "crossref:10.56251/watu4873",
+    "title": "Machine Learning Application for SAIs",
+    "abstract": "",
+    "authors": [
+      "Tiare Rivera"
+    ],
+    "published": "2030",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.56251/watu4873",
+    "pdf_url": null,
+    "doi": "10.56251/watu4873",
     "citations": 0,
     "venue": "International Journal of Government Auditing",
     "open_access": false,
@@ -532,49 +532,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.70239/arsu.2026.t85.n3.07",
-    "title": "HYBRID NETWORK INTRUSION DETECTION SYSTEM BASED ON SIGNATURE ANALYSIS AND MACHINE LEARNING METHODS",
-    "abstract": "<jats:p>In the context of increasing complexity of modern network infrastructures and the growing number of cyberattacks, improving the effectiveness of intrusion detection systems is a highly relevant task. The aim of this work is to develop and investigate a hybrid approach to network attack detection based on a combination of signature-based analysis and intelligent machine learning methods.  The research methods include analysis of requirements for anomaly detection systems, comparative analysis of existing solutions, design of a hybrid system architecture, and experimental modeling using multiclass classification of network traffic. The results demonstrate that integrating a neural model with a traditional detection system improves attack detection coverage and reduces the number of false positives.  The practical significance of the study lies in the possibility of deploying the proposed architecture in real corporate networks, while the theoretical significance consists in substantiating the effectiveness of a hybrid approach to traffic analysis. Future research directions include adaptive model training and expansion of the range of detectable attacks.</jats:p>",
-    "authors": [
-      "IGISINOV S.ZH.",
-      "RYSKELDIKYZY R.",
-      "GAISAGALEYEVA B.M.",
-      "UVALIYEVA G.M.",
-      "ZHUMABAYEVA ZH.O."
-    ],
-    "published": "2029",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.70239/arsu.2026.t85.n3.07",
-    "pdf_url": null,
-    "doi": "10.70239/arsu.2026.t85.n3.07",
-    "citations": 0,
-    "venue": "Научный журнал \"Вестник Актюбинского регионального университета имени К. Жубанова\"",
-    "open_access": false,
-    "ai_summary": "The aim of this work is to develop and investigate a hybrid approach to network attack detection based on signature-based analysis and intelligent machine learning methods . The practical significance of the study lies in the possibility of deploying the proposed architecture in real corporate networks ."
-  },
-  {
-    "id": "crossref:10.5705/ss.202025.0314",
-    "title": "Transfer Learning for High-dimensional Regression with Compositional Covariates: Application to Microbiome Studies",
-    "abstract": "",
-    "authors": [
-      "Qinqin Hu",
-      "Xiaojing Luo",
-      "Chencheng Ma",
-      "Wang Zhou"
-    ],
-    "published": "2029",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.5705/ss.202025.0314",
-    "pdf_url": null,
-    "doi": "10.5705/ss.202025.0314",
-    "citations": 0,
-    "venue": "Statistica Sinica",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
     "id": "crossref:10.5705/ss.202025.0275",
     "title": "Efficient Learning of Sparse Differential Networks in Multi-Source Non-Paranormal Models",
     "abstract": "",
@@ -614,6 +571,49 @@
     "ai_summary": "No abstract available."
   },
   {
+    "id": "crossref:10.5705/ss.202026.0109",
+    "title": "Inference for Extreme Value Index Through Individualized Fusion Learning",
+    "abstract": "",
+    "authors": [
+      "Hongfang Sun",
+      "Yu Chen",
+      "Tao Xu",
+      "Zhengjun Zhang"
+    ],
+    "published": "2029",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.5705/ss.202026.0109",
+    "pdf_url": null,
+    "doi": "10.5705/ss.202026.0109",
+    "citations": 0,
+    "venue": "Statistica Sinica",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "crossref:10.70239/arsu.2026.t85.n3.07",
+    "title": "HYBRID NETWORK INTRUSION DETECTION SYSTEM BASED ON SIGNATURE ANALYSIS AND MACHINE LEARNING METHODS",
+    "abstract": "<jats:p>In the context of increasing complexity of modern network infrastructures and the growing number of cyberattacks, improving the effectiveness of intrusion detection systems is a highly relevant task. The aim of this work is to develop and investigate a hybrid approach to network attack detection based on a combination of signature-based analysis and intelligent machine learning methods.  The research methods include analysis of requirements for anomaly detection systems, comparative analysis of existing solutions, design of a hybrid system architecture, and experimental modeling using multiclass classification of network traffic. The results demonstrate that integrating a neural model with a traditional detection system improves attack detection coverage and reduces the number of false positives.  The practical significance of the study lies in the possibility of deploying the proposed architecture in real corporate networks, while the theoretical significance consists in substantiating the effectiveness of a hybrid approach to traffic analysis. Future research directions include adaptive model training and expansion of the range of detectable attacks.</jats:p>",
+    "authors": [
+      "IGISINOV S.ZH.",
+      "RYSKELDIKYZY R.",
+      "GAISAGALEYEVA B.M.",
+      "UVALIYEVA G.M.",
+      "ZHUMABAYEVA ZH.O."
+    ],
+    "published": "2029",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.70239/arsu.2026.t85.n3.07",
+    "pdf_url": null,
+    "doi": "10.70239/arsu.2026.t85.n3.07",
+    "citations": 0,
+    "venue": "Научный журнал \"Вестник Актюбинского регионального университета имени К. Жубанова\"",
+    "open_access": false,
+    "ai_summary": "The aim of this work is to develop and investigate a hybrid approach to network attack detection based on signature-based analysis and intelligent machine learning methods . The practical significance of the study lies in the possibility of deploying the proposed architecture in real corporate networks ."
+  },
+  {
     "id": "crossref:10.5705/ss.202025.0230",
     "title": "Two-way Subgroup Structure Learning for High Dimensional Clustered Survival Data",
     "abstract": "",
@@ -635,24 +635,24 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.5705/ss.202026.0109",
-    "title": "Inference for Extreme Value Index Through Individualized Fusion Learning",
+    "id": "crossref:10.5705/ss.202025.0314",
+    "title": "Transfer Learning for High-dimensional Regression with Compositional Covariates: Application to Microbiome Studies",
     "abstract": "",
     "authors": [
-      "Hongfang Sun",
-      "Yu Chen",
-      "Tao Xu",
-      "Zhengjun Zhang"
+      "Qinqin Hu",
+      "Xiaojing Luo",
+      "Chencheng Ma",
+      "Wang Zhou"
     ],
     "published": "2029",
     "source": "Crossref",
     "category": "index",
-    "url": "https://doi.org/10.5705/ss.202026.0109",
-    "pdf_url": "https://doi.org/10.5705/ss.202026.0109",
-    "doi": "10.5705/ss.202026.0109",
+    "url": "https://doi.org/10.5705/ss.202025.0314",
+    "pdf_url": null,
+    "doi": "10.5705/ss.202025.0314",
     "citations": 0,
     "venue": "Statistica Sinica",
-    "open_access": true,
+    "open_access": false,
     "ai_summary": "No abstract available."
   },
   {
@@ -969,25 +969,6 @@
     "ai_summary": "Study: When battery dimensions are comparable to charger's excitation number, charging efficiency falls well below kinematic limit . We identify the physical underpinnings of this blockade as the saturation of the charger's emission rate, which confines the system to a low emission rate"
   },
   {
-    "id": "pubmed:42888750",
-    "title": "Group-theoretic upper bounds on reconstructability in inverse problems.",
-    "abstract": "Reconstructing the causal structure of physical systems from observational data constitutes a fundamental inverse problem. Here we show that the reconstruction dimension-defined as an upper bound on the number of recoverable components-is determined by the group-representation structure of the observation spaces and reconstruction maps. This formulation provides an explicit and operational characterization of reconstructability and reconstruction dimension, extending ideas that are often understood only intuitively in equivariant representation theory. As a concrete example, we demonstrate the reconstruction of the local velocity-gradient tensor from orientational measurements of particles suspended in flows, where the observation and velocity-gradient tensor spaces form SO(3) representations with constrained equivariant maps between them. Using an SO(3)-equivariant neural network (implemented with e3nn), we show that the reconstructable subspaces predicted by the representation decomposition are qualitatively consistent with those found in practice. Our formulation shows that the representation structure constrains reconstructability by determining an upper bound sector by sector, while our numerical results suggest that the actual saturation of the bound depends on the physics and data geometry. Beyond providing a useful theoretical framework, this work also connects the abstract representation-theoretic structure to concrete inverse reconstruction problems in fluid physics.",
-    "authors": [
-      "Isshin Arai",
-      "Tomoaki Itano"
-    ],
-    "published": "2026-Sep",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42888750/",
-    "pdf_url": null,
-    "doi": "10.1103/grfc-4yk9",
-    "citations": 0,
-    "venue": "Physical review. E",
-    "open_access": false,
-    "ai_summary": "Reconstructing the causal structure of physical systems from observational data constitutes a fundamental inverse problem . The reconstruction dimension-defined as an upper bound on the number of recoverable components-is determined by the group-representation structure of the observation spaces and reconstruction maps ."
-  },
-  {
     "id": "pubmed:42888752",
     "title": "Kinetic energy in random recurrent neural networks.",
     "abstract": "High-dimensional chaotic dynamics can emerge in a large random recurrent neural network when the synaptic gain crosses a threshold. Recent works showed that the kinetic energy of neural activity links the chaotic dynamics and the supporting unstable fixed points (equilibria) in the phase space. Here, we investigate the kinetic-energy-centric properties of random recurrent neural networks by combining dynamical mean-field theory with extensive numerical simulations. We find that the average kinetic energy shifts continuously from zero to a positive value at the known critical value of coupling variance (synaptic gain) and exhibits a cubic scaling behavior near the critical point from above. This scaling behavior is supported by numerical simulations and provides a quantitative characterization of how fast the dynamics change during the onset of chaos as well as how far the chaotic dynamics are away from the unstable fixed points. The steady-state activity distribution is further calculated by the theory and compared with simulations on finite-size systems from the kinetic-energy optimization perspective as well. The activity distribution is also analyzed in a geometric angle, revealing that although the original chaotic dynamics and the gradient dynamics of the kinetic energy are arranged in a shell-like structure, they are well separated in the polar direction. The trajectory length on the chaotic manifold can be derived from the stationary kinetic energy, and the associated stationary behavior is analyzed as well.",
@@ -1005,6 +986,25 @@
     "venue": "Physical review. E",
     "open_access": false,
     "ai_summary": "The kinetic energy of neural activity links the chaotic dynamics and the supporting unstable fixed points (equilibria) in the phase space . We find that the average kinetic energy shifts continuously from zero to a positive value at the known critical value of coupling variance (synaptic gain)"
+  },
+  {
+    "id": "pubmed:42888750",
+    "title": "Group-theoretic upper bounds on reconstructability in inverse problems.",
+    "abstract": "Reconstructing the causal structure of physical systems from observational data constitutes a fundamental inverse problem. Here we show that the reconstruction dimension-defined as an upper bound on the number of recoverable components-is determined by the group-representation structure of the observation spaces and reconstruction maps. This formulation provides an explicit and operational characterization of reconstructability and reconstruction dimension, extending ideas that are often understood only intuitively in equivariant representation theory. As a concrete example, we demonstrate the reconstruction of the local velocity-gradient tensor from orientational measurements of particles suspended in flows, where the observation and velocity-gradient tensor spaces form SO(3) representations with constrained equivariant maps between them. Using an SO(3)-equivariant neural network (implemented with e3nn), we show that the reconstructable subspaces predicted by the representation decomposition are qualitatively consistent with those found in practice. Our formulation shows that the representation structure constrains reconstructability by determining an upper bound sector by sector, while our numerical results suggest that the actual saturation of the bound depends on the physics and data geometry. Beyond providing a useful theoretical framework, this work also connects the abstract representation-theoretic structure to concrete inverse reconstruction problems in fluid physics.",
+    "authors": [
+      "Isshin Arai",
+      "Tomoaki Itano"
+    ],
+    "published": "2026-Sep",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42888750/",
+    "pdf_url": null,
+    "doi": "10.1103/grfc-4yk9",
+    "citations": 0,
+    "venue": "Physical review. E",
+    "open_access": false,
+    "ai_summary": "Reconstructing the causal structure of physical systems from observational data constitutes a fundamental inverse problem . The reconstruction dimension-defined as an upper bound on the number of recoverable components-is determined by the group-representation structure of the observation spaces and reconstruction maps ."
   },
   {
     "id": "pubmed:42888743",
@@ -1047,6 +1047,27 @@
     "venue": "Physical review. E",
     "open_access": false,
     "ai_summary": "We present a spectral convolutional autoencoder framework to infer an integer, observation-conditioned estimate for the inertial-manifold dimension in the Kuramoto-Sivashinsky equation . We analyze reconstruction-error scaling with latent dimension d ."
+  },
+  {
+    "id": "pubmed:42888914",
+    "title": "Clinical Immunogenicity Assessment of HIV/AIDS Vaccines: Current Progress and Future Perspectives.",
+    "abstract": "Developing a safe and effective HIV-1 vaccine remains the cornerstone of global efforts to terminate the AIDS pandemic. However, the virus's immense genetic diversity and the persistent absence of a universal Correlate of Protection (CoP) present formidable barriers. Concomitant with the iterative evolution of vaccine design-spanning from protein subunits to mRNA and germline-targeting platforms-immunogenicity evaluation frameworks have undergone a critical paradigm shift. The field has transitioned from relying on conventional serological assays to embracing comprehensive, high-dimensional immune profiling. This review delineates the trajectory of milestone clinical trials, including RV144, the HVTN series, and the AMP studies, to systematically summarize advancements in assessing both humoral and cellular immunity. We comprehensively examine core methodologies, such as Binding Antibody Multiplex Assays (BAMA), pseudovirus neutralization, Enzyme-Linked Immunospot (ELISpot), and Intracellular Cytokine Staining (ICS). Furthermore, we highlight a pivotal transition in evaluative logic: moving beyond a singular focus on neutralizing antibody titers to integrate Fc-mediated effector functions (e.g., Antibody-Dependent Cellular Cytotoxicity (ADCC) and Phagocytosis (ADCP)) and the synergistic roles of polyfunctional T-cells. We also explore the transformative potential of burgeoning frontiers, including systems serology, single-cell B-cell receptor (BCR) sequencing, and mucosal immunity evaluation. Ultimately, we recommend that future evaluation frameworks combine single-cell multi-omics technologies with artificial intelligence algorithms and integrate multi-dimensional data for analysis, thereby providing a solid theoretical and technical foundation for the design of next-generation HIV vaccines.",
+    "authors": [
+      "Hang Yu",
+      "Xi Wu",
+      "Tingting Li",
+      "Jianhui Nie"
+    ],
+    "published": "2026-Oct-17",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42888914/",
+    "pdf_url": null,
+    "doi": "10.1080/22221751.2026.2751675",
+    "citations": 0,
+    "venue": "Emerging microbes & infections",
+    "open_access": false,
+    "ai_summary": "Developing a safe and effective HIV-1 vaccine remains the cornerstone of global efforts to terminate the AIDS pandemic . The virus's immense genetic diversity and the persistent absence of a universal Correlate of Protection (CoP) present formidable barriers ."
   },
   {
     "id": "pubmed:42888890",
@@ -1096,27 +1117,6 @@
     "venue": "International journal of neural systems",
     "open_access": false,
     "ai_summary": "Accurate identification of schizophrenia (SZ) using functional connectivity (FC) is fundamentally challenged by the non-Euclidean geometry of neuroimaging data . To overcome these bottlenecks, this study proposes the local-global spherical sliced Wasserstein graph (LG-SSWG) kernel ."
-  },
-  {
-    "id": "pubmed:42888914",
-    "title": "Clinical Immunogenicity Assessment of HIV/AIDS Vaccines: Current Progress and Future Perspectives.",
-    "abstract": "Developing a safe and effective HIV-1 vaccine remains the cornerstone of global efforts to terminate the AIDS pandemic. However, the virus's immense genetic diversity and the persistent absence of a universal Correlate of Protection (CoP) present formidable barriers. Concomitant with the iterative evolution of vaccine design-spanning from protein subunits to mRNA and germline-targeting platforms-immunogenicity evaluation frameworks have undergone a critical paradigm shift. The field has transitioned from relying on conventional serological assays to embracing comprehensive, high-dimensional immune profiling. This review delineates the trajectory of milestone clinical trials, including RV144, the HVTN series, and the AMP studies, to systematically summarize advancements in assessing both humoral and cellular immunity. We comprehensively examine core methodologies, such as Binding Antibody Multiplex Assays (BAMA), pseudovirus neutralization, Enzyme-Linked Immunospot (ELISpot), and Intracellular Cytokine Staining (ICS). Furthermore, we highlight a pivotal transition in evaluative logic: moving beyond a singular focus on neutralizing antibody titers to integrate Fc-mediated effector functions (e.g., Antibody-Dependent Cellular Cytotoxicity (ADCC) and Phagocytosis (ADCP)) and the synergistic roles of polyfunctional T-cells. We also explore the transformative potential of burgeoning frontiers, including systems serology, single-cell B-cell receptor (BCR) sequencing, and mucosal immunity evaluation. Ultimately, we recommend that future evaluation frameworks combine single-cell multi-omics technologies with artificial intelligence algorithms and integrate multi-dimensional data for analysis, thereby providing a solid theoretical and technical foundation for the design of next-generation HIV vaccines.",
-    "authors": [
-      "Hang Yu",
-      "Xi Wu",
-      "Tingting Li",
-      "Jianhui Nie"
-    ],
-    "published": "2026-Oct-17",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42888914/",
-    "pdf_url": null,
-    "doi": "10.1080/22221751.2026.2751675",
-    "citations": 0,
-    "venue": "Emerging microbes & infections",
-    "open_access": false,
-    "ai_summary": "Developing a safe and effective HIV-1 vaccine remains the cornerstone of global efforts to terminate the AIDS pandemic . The virus's immense genetic diversity and the persistent absence of a universal Correlate of Protection (CoP) present formidable barriers ."
   },
   {
     "id": "pubmed:42888836",
@@ -1880,47 +1880,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "arxiv:2610.22369v1",
-    "title": "SoftCache: Adaptive Step Size Caching for Diffusion Transformers",
-    "abstract": "Diffusion and flow models generate a sample over iterative steps, each a full pass through a large network, and that pass dominates generation cost. Training-free caching accelerates them by reusing activations from recent evaluations instead of recomputing them. Dynamic caching methods decide when to refresh by accumulating a cheap probe of the network input into a staleness signal and spending a fresh evaluation once it crosses a threshold. They perform hard caching: the signal is a binary switch between refresh and reuse, and every step, fresh or cached, advances by the prescribed step size. We observe that the signal carries much more than this switch. How far it sits below the threshold, its headroom, predicts the error induced by reuse. We propose SoftCache, which performs soft caching: instead of a binary switch, the headroom sets how far each cached step goes. Where the headroom is large, the sampler jumps past several scheduled nodes, and as a refresh nears, its steps shrink back toward the original step. These adaptive jumps may land between the scheduled nodes, taking the sampler off its fixed grid. SoftCache requires no training and adds no per-backbone settings: on FLUX for images and on HunyuanVideo and Wan2.1 for video, at speedups from $3.5\\times$ to $6.9\\times$, it is ahead of every baseline on all four fidelity metrics.",
-    "authors": [
-      "Shimon Malnick",
-      "Nadav Orenstein",
-      "Ohad Fried",
-      "Shai Avidan"
-    ],
-    "published": "2026-10-15",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2610.22369v1",
-    "pdf_url": "https://arxiv.org/pdf/2610.22369v1",
-    "doi": null,
-    "citations": 0,
-    "venue": "arXiv preprint",
-    "open_access": true,
-    "ai_summary": "Dynamic caching methods decide when to refresh by accumulating a cheap probe of the network input into a staleness signal . They perform hard caching: the signal is a binary switch between refresh and reuse, and every step, fresh or cached, advances by the prescribed step size . How far it sits below the threshold, its headroom,"
-  },
-  {
-    "id": "arxiv:2610.22371v1",
-    "title": "Gen4P: Video Generators are 4D Perceivers",
-    "abstract": "We introduce Gen4P, a unified framework for recovering 4D geometry and motion from monocular video. We show that a pretrained video generator can be repurposed into a feed-forward 4D perceiver without iterative denoising. Building on on-demand querying, Gen4P processes clean video latents in a single encoder pass and predicts the requested 4D attributes through a lightweight cross-attention decoder. The on-demand query formulation enables flexible spatial sampling, and our proposed continuous-time queries further provide temporal flexibility. To strengthen geometric knowledge, we propose a straightforward plug-in solution by incorporating a pretrained video-depth LoRA as a frozen geometry prior, improving overall performance without adding extra trainable parameters. Gen4P achieves state-of-the-art or competitive performance on tasks of 3D point tracking, video depth and camera pose estimation. Qualitative results on in-the-wild videos illustrate its capability of tracking complex motion while maintaining the delicate structure. Together, these results demonstrate the potential of video generative pretraining for unified 4D perception. See https://gen4p.github.io for more visual results.",
-    "authors": [
-      "Yitong Xia",
-      "Zeren Jiang",
-      "Chuanxia Zheng"
-    ],
-    "published": "2026-10-15",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2610.22371v1",
-    "pdf_url": "https://arxiv.org/pdf/2610.22371v1",
-    "doi": null,
-    "citations": 0,
-    "venue": "arXiv preprint",
-    "open_access": true,
-    "ai_summary": "Gen4P is a unified framework for recovering 4D geometry and motion from monocular video . It processes clean video latents in a single encoder pass and predicts the requested 4D attributes through a lightweight cross-attention decoder ."
-  },
-  {
     "id": "arxiv:2610.22364v1",
     "title": "T2-z: Test-Time Optimization of Environment Latents for Robotic World Models",
     "abstract": "Predicting how the world responds to an action requires more than what can be seen: robots must account for environmental factors that are neither directly observable nor explicitly specified, from physical properties such as friction and mass to human-defined environmental rules. We introduce T2-Z for test-time optimization of environment latents, which augments a robotic world model with a learnable environment latent to condition world predictions. This compact latent captures underlying environmental variation without supervision of what environmental factors exist or what values they take. During training, T2-Z alternates between two stages: a world-model optimization stage that fixes the latents and learns general action-conditioned dynamics across environments; and an environment-latent optimization stage that freezes the world model and optimizes the conditioning latents, allowing latent structure to emerge purely through world prediction. At test time, the world model remains frozen and a newly initialized environment latent is optimized from one or more test-time interactions, adapting the model to previously unseen environmental configurations. Across 7 simulated settings and 4 real-world robotic tasks, T2-Z reduces object prediction error metric from 15.20 to 7.00 and raises action success from 33.73% to 72.96%. Its emergent latents capture structured representations of individual and compounded factors across diverse visual scenes. Ablations further show that T2-Z can efficiently infer environment latents from as little as a single test-time interaction trajectory.",
@@ -1950,28 +1909,6 @@
     "ai_summary": "T2-Z is a robotic world model with a learnable environment latent to condition world predictions . This compact latent captures underlying environmental variation without supervision of what environmental factors exist or what values they take . At test time, the world model remains frozen and a newly initi"
   },
   {
-    "id": "arxiv:2610.22370v1",
-    "title": "Which Tokens to Merge? Diffusion Dynamics for Efficient Image Generation",
-    "abstract": "Token merging has emerged as an effective training-free strategy for accelerating diffusion models by reducing redundant token computation while minimizing generation degradation. A key challenge is determining which tokens can be safely merged and which should be preserved for subsequent computation. Existing method addresses this by preserving prompt-aligned foreground regions, thereby protecting semantically relevant structures. However, this text-relevance criterion overlooks background objects, local details that are not explicitly mentioned in the prompt, leading to degraded structural coherence. In this work, we propose Dynamics-aware Token Merging (DaTMe), a training-free framework that grounds token merging in the underlying diffusion dynamics. Our key insight is that token importance should reflect whether a token remains unresolved during denoising and whether it carries structural information. To this end, DaTMe constructs a dynamics- aware importance map from the Tweedie denoised estimate. The map combines a temporal signal, measuring inter-step changes in the predicted clean image, with a structural signal, capturing local high-frequency content such as boundaries and fine details. Using this map, DaTMe adaptively assigns tokens into merging roles under a given compression ratio: important tokens are preserved as anchors, while tokens that are both temporally stabilized and structurally homogeneous are selected as safe merge candidates. Experiments on PixArt-a and FLUX demonstrate that DaTMe maintains visual fidelity across the entire image, highlighting diffusion dynamics as an effective token-level merging decision in efficient generation. Our code is available at https://github.com/SeungJuCha/DaTMe.",
-    "authors": [
-      "SeungJu Cha",
-      "Ye-Chan Kim",
-      "HyunGee Kim",
-      "Sungho Koh",
-      "Dong-Jin Kim"
-    ],
-    "published": "2026-10-15",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2610.22370v1",
-    "pdf_url": "https://arxiv.org/pdf/2610.22370v1",
-    "doi": null,
-    "citations": 0,
-    "venue": "arXiv preprint",
-    "open_access": true,
-    "ai_summary": "Token merging has emerged as an effective training-free strategy for accelerating diffusion models . The key challenge is determining which tokens can be safely merged and which should be preserved for subsequent computation ."
-  },
-  {
     "id": "arxiv:2610.22372v1",
     "title": "LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation",
     "abstract": "Personalization is essential for general-purpose robots to transition into household environments and achieve true practicality. While general robotic manipulation has been extensively studied, personalized robotic manipulation (PeRM) lacks a controlled benchmark for separating task completion from preference satisfaction. We introduce LIBERO-PeRM, a benchmark for preference learning in embodied agents. LIBERO-PeRM studies five questions: 1) how policies follow preferences in zero-shot settings; 2) how they learn single preferences from demonstrations; 3) how efficiently they acquire preferences as demonstrations increase; 4) how learned preferences generalize across layouts and tasks; and 5) how policies compose preferences and behave under conflicts. We propose a controlled formulation and taxonomy of observable preferences in simulation, covering motion, skill, and user-profile choices. This formulation is restricted to language-expressible preferences that can be instantiated in LIBERO without changing the task goal, evaluated automatically, and reused across tasks. Building on LIBERO, our procedural pipeline generates paired demonstrations with and without preferences. We create five task suites (312 tasks) with high-quality demonstrations, rich metadata, and preference-satisfaction metrics. Experiments show that current VLA policies struggle with zero-shot personalization, while SFT makes preferences learnable. Mixed training achieves better no-preference retention than sequential adaptation and improves performance with contextual prompts compared with preference-only training, but can weaken motion-preference learning; preference generalization, decomposition, and conflict handling remain difficult. The code, datasets, and demos can be found on the project website: https://libero-perm.github.io/.",
@@ -1999,6 +1936,26 @@
     "ai_summary": "LIBERO-PeRM is a benchmark for preference learning in embodied agents . It studies five questions: how policies follow preferences in zero-shot settings . It also studies how they learn single preferences from demonstrations ."
   },
   {
+    "id": "arxiv:2610.22371v1",
+    "title": "Gen4P: Video Generators are 4D Perceivers",
+    "abstract": "We introduce Gen4P, a unified framework for recovering 4D geometry and motion from monocular video. We show that a pretrained video generator can be repurposed into a feed-forward 4D perceiver without iterative denoising. Building on on-demand querying, Gen4P processes clean video latents in a single encoder pass and predicts the requested 4D attributes through a lightweight cross-attention decoder. The on-demand query formulation enables flexible spatial sampling, and our proposed continuous-time queries further provide temporal flexibility. To strengthen geometric knowledge, we propose a straightforward plug-in solution by incorporating a pretrained video-depth LoRA as a frozen geometry prior, improving overall performance without adding extra trainable parameters. Gen4P achieves state-of-the-art or competitive performance on tasks of 3D point tracking, video depth and camera pose estimation. Qualitative results on in-the-wild videos illustrate its capability of tracking complex motion while maintaining the delicate structure. Together, these results demonstrate the potential of video generative pretraining for unified 4D perception. See https://gen4p.github.io for more visual results.",
+    "authors": [
+      "Yitong Xia",
+      "Zeren Jiang",
+      "Chuanxia Zheng"
+    ],
+    "published": "2026-10-15",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2610.22371v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.22371v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "Gen4P is a unified framework for recovering 4D geometry and motion from monocular video . It processes clean video latents in a single encoder pass and predicts the requested 4D attributes through a lightweight cross-attention decoder ."
+  },
+  {
     "id": "arxiv:2610.22367v1",
     "title": "Discovering state-of-the-art quantum circuits with large language models",
     "abstract": "Significant efforts are currently being directed toward the implementation of large-scale quantum information processors, but realizing useful quantum advantage also requires the development of efficient quantum algorithms. While for many practical problems the dominant resource costs are associated with a small set of computational primitives, optimizing them in the quantum setting presents unique challenges, including a reversibility constraint absent from ordinary classical computation. Here we introduce an evolutionary framework in which large language models (LLMs) propose circuit designs and an independent evaluator verifies and scores them. We apply this framework to tasks spanning numerical computation, chemistry, optimization, quantum simulation, and number theory. In seven of the eight tasks, the discovered circuits significantly reduce both Toffoli and qubit counts relative to the state of the art. In the eighth, the search discovers a new reversible architecture for prime-field modular inversion. By handling reversibility differently, the architecture makes divsteps -- a classical algorithm previously impractical for reversible integer arithmetic -- viable and substantially improves the Toffoli-qubit trade-off for modular inversion. These results open the door for evaluator-guided LLM co-design of new algorithmic structures for quantum computation.",
@@ -2018,6 +1975,49 @@
     "venue": "arXiv preprint",
     "open_access": true,
     "ai_summary": "The new framework is based on large language models and an independent evaluator verifies and scores them . In seven of the eight tasks, the discovered circuits significantly reduce both Toffoli and qubit counts relative to the state of the art . In the eighth, the search discovers a new reversible architecture for prime-field modular"
+  },
+  {
+    "id": "arxiv:2610.22369v1",
+    "title": "SoftCache: Adaptive Step Size Caching for Diffusion Transformers",
+    "abstract": "Diffusion and flow models generate a sample over iterative steps, each a full pass through a large network, and that pass dominates generation cost. Training-free caching accelerates them by reusing activations from recent evaluations instead of recomputing them. Dynamic caching methods decide when to refresh by accumulating a cheap probe of the network input into a staleness signal and spending a fresh evaluation once it crosses a threshold. They perform hard caching: the signal is a binary switch between refresh and reuse, and every step, fresh or cached, advances by the prescribed step size. We observe that the signal carries much more than this switch. How far it sits below the threshold, its headroom, predicts the error induced by reuse. We propose SoftCache, which performs soft caching: instead of a binary switch, the headroom sets how far each cached step goes. Where the headroom is large, the sampler jumps past several scheduled nodes, and as a refresh nears, its steps shrink back toward the original step. These adaptive jumps may land between the scheduled nodes, taking the sampler off its fixed grid. SoftCache requires no training and adds no per-backbone settings: on FLUX for images and on HunyuanVideo and Wan2.1 for video, at speedups from $3.5\\times$ to $6.9\\times$, it is ahead of every baseline on all four fidelity metrics.",
+    "authors": [
+      "Shimon Malnick",
+      "Nadav Orenstein",
+      "Ohad Fried",
+      "Shai Avidan"
+    ],
+    "published": "2026-10-15",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2610.22369v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.22369v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "Dynamic caching methods decide when to refresh by accumulating a cheap probe of the network input into a staleness signal . They perform hard caching: the signal is a binary switch between refresh and reuse, and every step, fresh or cached, advances by the prescribed step size . How far it sits below the threshold, its headroom,"
+  },
+  {
+    "id": "arxiv:2610.22370v1",
+    "title": "Which Tokens to Merge? Diffusion Dynamics for Efficient Image Generation",
+    "abstract": "Token merging has emerged as an effective training-free strategy for accelerating diffusion models by reducing redundant token computation while minimizing generation degradation. A key challenge is determining which tokens can be safely merged and which should be preserved for subsequent computation. Existing method addresses this by preserving prompt-aligned foreground regions, thereby protecting semantically relevant structures. However, this text-relevance criterion overlooks background objects, local details that are not explicitly mentioned in the prompt, leading to degraded structural coherence. In this work, we propose Dynamics-aware Token Merging (DaTMe), a training-free framework that grounds token merging in the underlying diffusion dynamics. Our key insight is that token importance should reflect whether a token remains unresolved during denoising and whether it carries structural information. To this end, DaTMe constructs a dynamics- aware importance map from the Tweedie denoised estimate. The map combines a temporal signal, measuring inter-step changes in the predicted clean image, with a structural signal, capturing local high-frequency content such as boundaries and fine details. Using this map, DaTMe adaptively assigns tokens into merging roles under a given compression ratio: important tokens are preserved as anchors, while tokens that are both temporally stabilized and structurally homogeneous are selected as safe merge candidates. Experiments on PixArt-a and FLUX demonstrate that DaTMe maintains visual fidelity across the entire image, highlighting diffusion dynamics as an effective token-level merging decision in efficient generation. Our code is available at https://github.com/SeungJuCha/DaTMe.",
+    "authors": [
+      "SeungJu Cha",
+      "Ye-Chan Kim",
+      "HyunGee Kim",
+      "Sungho Koh",
+      "Dong-Jin Kim"
+    ],
+    "published": "2026-10-15",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2610.22370v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.22370v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "Token merging has emerged as an effective training-free strategy for accelerating diffusion models . The key challenge is determining which tokens can be safely merged and which should be preserved for subsequent computation ."
   },
   {
     "id": "arxiv:2610.22363v1",
