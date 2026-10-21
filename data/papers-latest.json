@@ -108,6 +108,22 @@
     "ai_summary": "No abstract available."
   },
   {
+    "id": "crossref:10.3998/mjcsl.9718",
+    "title": "Title Pending 9718",
+    "abstract": "",
+    "authors": [],
+    "published": "2036",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.3998/mjcsl.9718",
+    "pdf_url": null,
+    "doi": "10.3998/mjcsl.9718",
+    "citations": 0,
+    "venue": "Michigan Journal of Community Service Learning",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
     "id": "crossref:10.3998/mjcsl.11105",
     "title": "Title Pending 11105",
     "abstract": "",
@@ -140,18 +156,18 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.3998/mjcsl.9718",
-    "title": "Title Pending 9718",
+    "id": "crossref:10.21825/ewopinpractice.94702",
+    "title": "Title Pending 94702",
     "abstract": "",
     "authors": [],
-    "published": "2036",
+    "published": "2035",
     "source": "Crossref",
     "category": "index",
-    "url": "https://doi.org/10.3998/mjcsl.9718",
+    "url": "https://doi.org/10.21825/ewopinpractice.94702",
     "pdf_url": null,
-    "doi": "10.3998/mjcsl.9718",
+    "doi": "10.21825/ewopinpractice.94702",
     "citations": 0,
-    "venue": "Michigan Journal of Community Service Learning",
+    "venue": "EWOP in Practice",
     "open_access": false,
     "ai_summary": "No abstract available."
   },
@@ -166,22 +182,6 @@
     "url": "https://doi.org/10.21825/ewopinpractice.94703",
     "pdf_url": null,
     "doi": "10.21825/ewopinpractice.94703",
-    "citations": 0,
-    "venue": "EWOP in Practice",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "crossref:10.21825/ewopinpractice.94702",
-    "title": "Title Pending 94702",
-    "abstract": "",
-    "authors": [],
-    "published": "2035",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.21825/ewopinpractice.94702",
-    "pdf_url": null,
-    "doi": "10.21825/ewopinpractice.94702",
     "citations": 0,
     "venue": "EWOP in Practice",
     "open_access": false,
@@ -376,6 +376,24 @@
     "ai_summary": "No abstract available."
   },
   {
+    "id": "crossref:10.56251/watu4873",
+    "title": "Machine Learning Application for SAIs",
+    "abstract": "",
+    "authors": [
+      "Tiare Rivera"
+    ],
+    "published": "2030",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.56251/watu4873",
+    "pdf_url": null,
+    "doi": "10.56251/watu4873",
+    "citations": 0,
+    "venue": "International Journal of Government Auditing",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
     "id": "crossref:10.56251/yxek7242",
     "title": "Evolution and Applications of Artificial Intelligence in SAIs",
     "abstract": "",
@@ -392,24 +410,6 @@
     "url": "https://doi.org/10.56251/yxek7242",
     "pdf_url": null,
     "doi": "10.56251/yxek7242",
-    "citations": 0,
-    "venue": "International Journal of Government Auditing",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "crossref:10.56251/watu4873",
-    "title": "Machine Learning Application for SAIs",
-    "abstract": "",
-    "authors": [
-      "Tiare Rivera"
-    ],
-    "published": "2030",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.56251/watu4873",
-    "pdf_url": null,
-    "doi": "10.56251/watu4873",
     "citations": 0,
     "venue": "International Journal of Government Auditing",
     "open_access": false,
@@ -532,6 +532,24 @@
     "ai_summary": "No abstract available."
   },
   {
+    "id": "crossref:10.67805/jgrms.v2i9.156",
+    "title": "A Review of Phishing Detection Techniques Using Machine Learning and Natural Language Processing",
+    "abstract": "<jats:p>The goal of phishing attacks, which rank high among cyber risks, is to steal sensitive information (such as login passwords, financial data, and more) from unsuspecting people and companies. Blacklist, whitelist, rule, heuristic, and signature-based detection methods are no longer suitable due to the rising sophistication of phishing schemes. As a result, ML, DL, and NLP are rapidly becoming into effective instruments for detecting both well-known and brand-new forms of phishing. Background on phishing assaults, old ways of detecting them, and recent advances in intelligent phishing detection are all included in this article. It delves into several machine learning algorithms such as decision tree, LSTM, ANN, CNN, and RNN, as well as deep learning models like KNN, NB, and SVM. Also, natural language processing methods including word embedding, sentiment analysis, text categorization, and tokenization are explored with the aim of detecting phishing material. Presenting a comprehensive, precise, and up-to-the-minute phishing detection system is the ultimate goal of this study, which focuses on machine learning frameworks, performance indicators, present obstacles, and future research directions.</jats:p>",
+    "authors": [
+      "Dr. Sunita Dixit"
+    ],
+    "published": "2029",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.67805/jgrms.v2i9.156",
+    "pdf_url": null,
+    "doi": "10.67805/jgrms.v2i9.156",
+    "citations": 0,
+    "venue": "Journal of Global Research in Multidisciplinary Studies(JGRMS)",
+    "open_access": false,
+    "ai_summary": "ML, DL, and NLP are rapidly becoming into effective instruments for detecting both well-known and brand-new forms of phishing ."
+  },
+  {
     "id": "crossref:10.70239/arsu.2026.t85.n3.07",
     "title": "HYBRID NETWORK INTRUSION DETECTION SYSTEM BASED ON SIGNATURE ANALYSIS AND MACHINE LEARNING METHODS",
     "abstract": "<jats:p>In the context of increasing complexity of modern network infrastructures and the growing number of cyberattacks, improving the effectiveness of intrusion detection systems is a highly relevant task. The aim of this work is to develop and investigate a hybrid approach to network attack detection based on a combination of signature-based analysis and intelligent machine learning methods.  The research methods include analysis of requirements for anomaly detection systems, comparative analysis of existing solutions, design of a hybrid system architecture, and experimental modeling using multiclass classification of network traffic. The results demonstrate that integrating a neural model with a traditional detection system improves attack detection coverage and reduces the number of false positives.  The practical significance of the study lies in the possibility of deploying the proposed architecture in real corporate networks, while the theoretical significance consists in substantiating the effectiveness of a hybrid approach to traffic analysis. Future research directions include adaptive model training and expansion of the range of detectable attacks.</jats:p>",
@@ -573,6 +591,26 @@
     "ai_summary": "No abstract available."
   },
   {
+    "id": "crossref:10.5705/ss.202025.0406",
+    "title": "Distributed Learning of Single Index Model with Differential Privacy and Massive Data",
+    "abstract": "",
+    "authors": [
+      "Fode Zhang",
+      "Lingrui Wang",
+      "Hua Liang"
+    ],
+    "published": "2029",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.5705/ss.202025.0406",
+    "pdf_url": "https://doi.org/10.5705/ss.202025.0406",
+    "doi": "10.5705/ss.202025.0406",
+    "citations": 0,
+    "venue": "Statistica Sinica",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
     "id": "crossref:10.5705/ss.202025.0314",
     "title": "Transfer Learning for High-dimensional Regression with Compositional Covariates: Application to Microbiome Studies",
     "abstract": "",
@@ -588,26 +626,6 @@
     "url": "https://doi.org/10.5705/ss.202025.0314",
     "pdf_url": null,
     "doi": "10.5705/ss.202025.0314",
-    "citations": 0,
-    "venue": "Statistica Sinica",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "crossref:10.5705/ss.202025.0406",
-    "title": "Distributed Learning of Single Index Model with Differential Privacy and Massive Data",
-    "abstract": "",
-    "authors": [
-      "Fode Zhang",
-      "Lingrui Wang",
-      "Hua Liang"
-    ],
-    "published": "2029",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.5705/ss.202025.0406",
-    "pdf_url": null,
-    "doi": "10.5705/ss.202025.0406",
     "citations": 0,
     "venue": "Statistica Sinica",
     "open_access": false,
@@ -744,11 +762,11 @@
     "source": "Crossref",
     "category": "index",
     "url": "https://doi.org/10.32628/cseit251116279",
-    "pdf_url": "https://ijsrcseit.com/index.php/home/article/download/CSEIT251116279/CSEIT251116279",
+    "pdf_url": null,
     "doi": "10.32628/cseit251116279",
     "citations": 0,
     "venue": "International Journal of Scientific Research in Computer Science, Engineering and Information Technology",
-    "open_access": true,
+    "open_access": false,
     "ai_summary": "The paper proposes the Cognitive Cyber Defense Digital Twin (CCDT) The CCDT constructs a continuously synchronized digital replica of organizational assets . It employs reinforcement learning-based red agents to stress-test detection models ."
   },
   {
@@ -768,48 +786,6 @@
     "venue": "Naveen International Journal of Research in Education (NIJRE)",
     "open_access": false,
     "ai_summary": "The chapter considers the rapid migration to digital learning as an emergency strategy . The findings show that the ability of national programmes such as NEP 2020, SWAYAM, DIKSHA, PM e-VIDYA, and others, to promote access to digital tools was low within periphery or hill areas ."
-  },
-  {
-    "id": "crossref:10.55737/qjss.vii-i.26473",
-    "title": "The Nexus of Leadership and Learning: Exploring Female Principals' Influence on the Teaching-Learning Process in Secondary Schools",
-    "abstract": "<jats:p>The research paper will set out to debate the role played by the leadership competencies of principals in the teaching and learning process. The research will embrace a quantitative research design that will seek to answer the question concerning the relationship that exists between leadership skills of possessed by the  principals and the ongoing teaching-learning process in the female secondary schools using a co-relational study design. A survey instrument comprising of 37 items, which measured the leadership skills possessed by the selected principals and the prevailing teaching learning process, was used in the collection of data. Questionnaires for this study were administered to 108 male and female educators who were serving in secondary schools in Tehsil Wari, upper Dir and among them 100 questionnaires were submitted and were deemed to be useful in the analysis. The data in hand were calculated using Statistical Package of the Social Sciences (SPSS) version-27 and the obtained results indicated that the collected data was normally distributed. The findings revealed that all the variables of the study had great correlations. The analysis of the data was done through linear regression to measure the effect that the leadership skills of the principals had on the teaching learning process and this indicated that leadership skills of the principals have statistically significant effect on the teaching learning process. The policies derived out of this research can be a good guide to both the policymakers and organizational leaders because they can provide a good outline on how to empower the leaders in charge of the principals and as well as exert more influence on the effective teaching and learning processes.</jats:p>",
-    "authors": [
-      "Muhammad Niqab",
-      "Salma Tabbasum",
-      "Shakil Ahmad"
-    ],
-    "published": "2028",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.55737/qjss.vii-i.26473",
-    "pdf_url": null,
-    "doi": "10.55737/qjss.vii-i.26473",
-    "citations": 0,
-    "venue": "Qlantic Journal of Social Sciences",
-    "open_access": false,
-    "ai_summary": "Research paper will debate role played by principals in teaching and learning process . Research will embrace a quantitative research design that will seek to answer the question about the relationship between leadership skills of principals and teaching-learning process ."
-  },
-  {
-    "id": "pubmed:42901643",
-    "title": "Discriminatory ability of WL Nutrient Agar for yeasts associated with olive environments: a binary scoring and machine learning approach.",
-    "abstract": "Wallerstein Laboratory Nutrient Agar (WLNA) is widely used to differentiate yeast colonies in wine and brewing microbiology, but its discriminatory ability for species associated with table olives and olive oil production environments has never been formally evaluated. We assessed colony features of 227 ascomycetous yeast isolates from these matrices - representing twelve species, predominantly Pichia membranifaciens, P. manshurica, P. kudriavzevii, Wickerhamomyces anomalus, Saccharomyces cerevisiae, Kluyveromyces marxianus, and Candida boidinii - using a binary scoring scheme applied to thirteen characters related to colony colour, shape, appearance and odour and four related to cell shape. Species identities were confirmed by MALDI-TOF mass spectrometry and ITS sequencing (overall agreement: accuracy = 0.90). Initial machine learning classification (CART, Random Forest, SVM-linear, SVM-RBF) on colony features yielded modest performance (accuracy 0.51-0.65), with reliable discrimination limited to S. cerevisiae and Nakazawaea molendinolei. A reproducibility study involving ten operators of varying skill levels identified the root causes: colour and elevation characters contributed disproportionately to inter-operator disagreement while Pichia spp. showed inherently high intraspecific variability. Revised models excluding characters contributing most to disagreement and pooling Pichia species at genus level achieved improved performance (Random Forest: accuracy = 0.72), with acceptable classification of S. cerevisiae, N. molendiolei, and Pichia spp. These results demonstrate that WLNA provides reasonable accuracy in the discrimination of some key species when using robust morphological characters, supporting its use as a low-cost screening tool prior to molecular identification, and establishes a methodological framework that is directly transferable to the evaluation of other differential media.",
-    "authors": [
-      "Eugenio Parente",
-      "Rocchina Pietrafesa",
-      "Vito Antonio Romano",
-      "Maria Grazia Labella",
-      "Annamaria Ricciardi"
-    ],
-    "published": "2027-Mar",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42901643/",
-    "pdf_url": null,
-    "doi": "10.1016/j.fm.2026.105282",
-    "citations": 0,
-    "venue": "Food microbiology",
-    "open_access": false,
-    "ai_summary": "Wallerstein Laboratory Nutrient Agar (WLNA) is widely used to differentiate yeast colonies in wine and brewing microbiology . But its discriminatory ability for species associated with table olives and olive oil production environments has never been evaluated ."
   },
   {
     "id": "openalex:W7171699190",
@@ -1056,207 +1032,251 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "pubmed:42901798",
-    "title": "[Artificial Intelligence in Acute Ischemic Stroke:Time-Oriented Diagnostic Support and Treatment Prediction].",
-    "abstract": "Artificial intelligence (AI) and machine learning (ML) are increasingly used in acute ischemic stroke. Their clinical value depends not only on diagnostic accuracy but also on whether these systems improve time-critical decision-making. Current applications include prehospital triage, detection of large-vessel and medium-vessel occlusions, automated ASPECTS assessment, estimation of ischemic core and penumbra, collateral evaluation, and workflow notification using CT, CT angiography, CT perfusion, and MRI. AI is also being investigated to predict treatment response, futile recanalization, symptomatic intracranial hemorrhage, brain edema, and final infarct volume after reperfusion therapy. In clinical practice, prognostic prediction must be distinguished from treatment-effect prediction. Useful AI systems should report uncertainty and calibration and provide actionable outputs at the clinically relevant time point while remaining embedded in a human-in-the-loop workflow. Future multimodal platforms may integrate imaging, clinical data, transfer information, procedure-related variables, and device characteristics to support individualized acute stroke workflows and endovascular procedural planning.",
+    "id": "pubmed:42902589",
+    "title": "Recent Progress in g-C",
+    "abstract": "ABSRACTGraphitic carbon nitride (g-C",
     "authors": [
-      "Hidehisa Nishi"
-    ],
-    "published": "2026-Sep",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42901798/",
-    "pdf_url": null,
-    "doi": "10.11477/mf.030126030540051084",
-    "citations": 0,
-    "venue": "No shinkei geka. Neurological surgery",
-    "open_access": false,
-    "ai_summary": "Artificial intelligence (AI) and machine learning (ML) are increasingly used in acute ischemic stroke . Their clinical value depends not only on diagnostic accuracy but also on whether these systems improve time-critical decision-making . Future multimodal platforms may integra"
-  },
-  {
-    "id": "pubmed:42901786",
-    "title": "[History and Clinical Significance of Perfusion Imaging in Acute Ischemic Stroke:From the Penumbra Concept to Tissue-Based Patient Selection].",
-    "abstract": "Perfusion imaging has transformed acute ischemic stroke management by enabling a paradigm shift from a time-based to a tissue-based treatment. The concept of the ischemic penumbra, originally established through experimental studies and positron emission tomography (PET), provided the physiological basis for identifying potentially salvageable brain tissue. Subsequent advances in computed tomography and magnetic resonance perfusion imaging have allowed quantitative assessment of cerebral hemodynamics in clinical practice. The introduction of perfusion mismatch enables the estimation of ischemic core and penumbra, facilitating individualized patient selection for reperfusion therapy. Landmark trials, including DAWN and DEFUSE 3, have demonstrated that treatment decisions based on tissue viability, rather than the time from symptom onset, can safely extend the therapeutic window. More recently, studies involving large ischemic cores, such as the RESCUE-Japan LIMIT, have challenged traditional treatment boundaries and refined the concept of malignant profile. Despite these advances, the implementation of perfusion imaging in Japan remains limited, because of insufficient reimbursement and restricted access to automated analysis software. This review summarizes the historical evolution, physiological basis, clinical applications, and future perspectives of perfusion imaging and highlights its pivotal role in modern tissue-based stroke care.",
-    "authors": [
-      "Manabu Inoue"
-    ],
-    "published": "2026-Sep",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42901786/",
-    "pdf_url": null,
-    "doi": "10.11477/mf.030126030540050964",
-    "citations": 0,
-    "venue": "No shinkei geka. Neurological surgery",
-    "open_access": false,
-    "ai_summary": "Perfusion imaging has transformed acute ischemic stroke management by enabling a paradigm shift from a time-based to a tissue-based treatment . Landmark trials have demonstrated that treatment decisions based on tissue viability can safely extend the therapeutic window ."
-  },
-  {
-    "id": "pubmed:42901873",
-    "title": "Using Artificial Intelligence in Qualitative Lupus Pregnancy Research: The Potential of Large Language Models and Prompting Strategies.",
-    "abstract": "Our objective was to evaluate the ability of different large language models (LLMs) to translate and analyze qualitative interviews describing pregnancy experiences among women with systemic lupus erythematosus (SLE). An additional objective was to compare themes identified by LLMs with those identified by human researchers. We analyzed 26 semi-structured interviews originally conducted in Portuguese by Rodrigues et al. among women with SLE exploring their perinatal care experiences. Three prompting strategies (zero-shot, few-shot, and chain-of-thought) were used on the transcripts across four state-of-the-art LLMs (GPT-4o, Claude Sonnet 4.5, Gemini 2.5 Flash, and DeepSeek R) to generate key themes. Model outputs were evaluated using an LLM-as-a-judge framework assessing thematic coverage, thematic unity, and semantic similarity. Across models and prompting strategies, LLMs generated similar themes that closely aligned with those identified by human researchers. LLM-as-a-judge evaluations demonstrated high thematic unity and semantic similarity. Claude Sonnet 4.5 showed the most consistent performance. Few-shot prompting consistently outperformed zero-shot and chain-of-thought approaches. LLMs show promise as supportive tools for analyzing qualitative research by preserving thematic coherence and capturing the complexity of pregnancy experiences in women with SLE. Although zero-shot prompting is widely used, it produced lower thematic results in our study, whereas few-shot prompting achieved the most comprehensive and coherent theme extraction. LLM-assisted qualitative analysis may complement human interpretation and has the potential to support the inclusion of non-English language data and diverse patient perspectives in lupus research.",
-    "authors": [
-      "Julia Romina M Boers",
-      "Grace Terry",
-      "Larissa Rodrigues",
-      "Fernanda Surita",
-      "Jainesh Doshi",
-      "Bella Mehta"
+      "Ali Hyder",
+      "Jameel Ahmed Baig",
+      "Irsa Munwar",
+      "Irlan S Lima",
+      "Ayaz Ali Memon",
+      "Nasrullah Mahar",
+      "Thawan G Oliveira",
+      "Zahid U Khan",
+      "Masooma Irfan",
+      "Lúcio Angnes"
     ],
     "published": "2026-Oct-20",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42901873/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42902589/",
     "pdf_url": null,
-    "doi": "10.1002/acr.80193",
+    "doi": "10.1080/10408347.2026.2746768",
     "citations": 0,
-    "venue": "Arthritis care & research",
+    "venue": "Critical reviews in analytical chemistry",
     "open_access": false,
-    "ai_summary": "The study looked at 26 semi-structured interviews conducted in Portuguese by Rodrigues et al. Among women with SLE exploring their perinatal care experiences . Three prompting strategies were used on the transcripts across four state-of-the-art LLMs (GPT-4o, Claude Sonnet 4.5, Gemini 2."
+    "ai_summary": "ABSRACTGraphitic carbon nitride (g-C"
   },
   {
-    "id": "pubmed:42901830",
-    "title": "From genome editing to chromosome engineering in plants.",
-    "abstract": "Engineering large genomic segments is rapidly expanding the scope of plant genome manipulation from individual genes to chromosome-scale redesign. Recent advances in double-strand break-, prime-editing-, recombinase-, and transposase-based technologies now enable programmable deletion, insertion, replacement, duplication, inversion, and translocation of DNA fragments ranging from kilobases to megabases. In this review, we summarize the major strategies for large-fragment genome engineering in plants, compare their strengths and limitations, and discuss their applications in both fundamental plant biology and crop breeding. We further highlight that the integration of artificial intelligence is catalyzing the rapid optimization of large-fragment genome engineering. The ongoing transition from genome editing to chromosome engineering promises to revolutionize crop breeding and plant synthetic biology, ultimately enabling rational design of plant genomes.",
+    "id": "pubmed:42902582",
+    "title": "Integrated microfluidic platform for the capture and identification of circulating tumor cells using dielectrophoresis and image recognition.",
+    "abstract": "Circulating tumor cells (CTCs), which detach from primary tumors and enter the peripheral blood, serve as biomarkers for monitoring a patient's status following cancer therapy. In this study, we developed a microfluidic platform integrating dielectrophoresis and image recognition for the capture and detection of CTCs from blood sample. Experimental parameters included applied electric field strengths ranging from 12.5 to 32.5 × 10 Results demonstrated that the optimal CTC separation efficiency of 78 ± 2% was achieved at an electric field of 25 × 10",
     "authors": [
-      "Yuan Lei",
-      "Jie Wu",
-      "Caixia Gao"
+      "Min-Sheng Hung",
+      "Sheng-Ze Qiu",
+      "Yu-Cheng Wu"
     ],
     "published": "2026-Oct-20",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42901830/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42902582/",
     "pdf_url": null,
-    "doi": "10.1016/j.tibtech.2026.09.024",
+    "doi": "10.1080/17576180.2026.2750760",
     "citations": 0,
-    "venue": "Trends in biotechnology",
+    "venue": "Bioanalysis",
     "open_access": false,
-    "ai_summary": "Engineering large genomic segments is rapidly expanding the scope of plant genome manipulation from individual genes to chromosome-scale redesign . The ongoing transition from genome editing to chromosome engineering promises to revolutionize crop breeding and plant synthetic biology ."
+    "ai_summary": "Circulating tumor cells (CTCs) detach from primary tumors and enter the peripheral blood . They serve as biomarkers for monitoring a patient's status following cancer therapy . In this study, we developed a microfluidic platform integrating dielectrophoresis and image recognition ."
   },
   {
-    "id": "pubmed:42901865",
-    "title": "An artificial intelligence model combining MRI and ultrasound images (MRUSuNet) for prostate cancer detection outperforms radiologist MRI interpretation.",
-    "abstract": "To develop the magnetic resonance imaging (MRI)-UltraSound UNet (MRUSuNet), a model that uses both MRI and transrectal ultrasonography (TRUS) as input to detect and localise the three-dimensional spatial volume of clinically significant prostate cancer on TRUS images to allow better visualisation of cancer in the TRUS space. Pre-biopsy MRI is increasingly used to target suspicious prostate lesions. The lesions identified by radiologists are mapped onto TRUS images to enable real-time targeting during the biopsy. Yet, the misalignment of MRI and TRUS results in sampling errors, and in some cases even missing the clinically significant cancers. This study included two MRI-TRUS fusion biopsy cohorts (3000 patients) for model development, and one radical prostatectomy cohort (110 patients) used for independent validation and for the comparison with radiologist interpretation. A total of 1700 independent cases were reserved to compare the MRUSuNet with single-modality MRI-only and TRUS-only models. Sensitivity and lesion-level Dice similarity scores were computed using targeted biopsy pathology as the reference standard in the biopsy cohorts and whole-mount prostatectomy pathology in the radical prostatectomy cohort. The MRUSuNet achieved significantly superior sensitivity (0.80) and lesion Dice score (0.42) across all test cohorts compared to the MRI-only model (sensitivity: 0.73, P = 0.033; Dice score: 0.30, P < 0.001) and the TRUS-only model (sensitivity: 0.49, P < 0.001; Dice score: 0.27, P < 0.001). Compared to radiologists in the prostatectomy cohort, the MRUSuNet showed significantly higher specificity (0.88 vs 0.78; P = 0.004) and lesion Dice score (0.32 vs 0.27; P = 0.048), with no observed statistical difference in sensitivity (0.79; P = 1.000). Our findings demonstrate the potential of combining MRI and TRUS in a multimodal artificial intelligence (AI) model to improve localisation of clinically significant prostate cancer on TRUS images relative to single-modality models. These findings support further study of such multimodal AI models as an adjunct to MRI-TRUS fusion workflows.",
+    "id": "pubmed:42902588",
+    "title": "Automatic Detection and Counting of Surgical Instruments in Surgery Using AI-Based Computer Vision Model.",
+    "abstract": "IntroductionCounting surgical instruments during surgical procedures is critical for ensuring patient safety. Our goal is to develop a machine learning-based computer vision algorithm to create a reliable, automated surgical instrument counting support system. We hypothesize that our machine learning algorithm, based on the YOLO (You Only Look Once) model, can effectively perform instrument counting in surgery videos, providing real-time feedback to the surgical team.MethodsYOLO is a real-time object detection algorithm built on a convolutional neural network (CNN). To train the model, we record 100 minutes of open surgery video in simulation, including 600 instrument transfer events. Additionally, we collected 500 images of 6 different surgical instruments and obtained another 500 images from online surgeries. All images were annotated by a human expert to mark the name and locations of instruments. 80% data was allocated for model training and 20% for validation. Trained YOLO model was tested in a new surgical video for counting surgical instruments.ResultsThe model achieved a satisfactory accuracy rate for instrument detection and counting. In a validation session, the model demonstrated a 72.7% success rate. In addition, the model classified large instruments more successfully than smaller instruments, such as small hemostats and needles, within the defined ROI.ConclusionYOLOv11-based computer vision model can accurately detect and count surgical instruments within a predefined region of interest in a simulated open surgical environment. Future research should focus on improving detection of small instruments, validating the system in real operating room environments.",
     "authors": [
-      "Hassan Jahanandish",
-      "Shengtian Sang",
-      "Cynthia Xinran Li",
-      "Sulaiman Vesal",
-      "Indrani Bhattacharya",
-      "Jeong Hoon Lee",
-      "Rajesh Venkataraman",
-      "Richard E Fan",
-      "Geoffrey A Sonn",
-      "Mirabela Rusu"
+      "Yile Zhu",
+      "Yun Wu",
+      "Xingyu Lai",
+      "Shuyi Wang",
+      "Yao Zhang",
+      "Bin Zheng"
     ],
     "published": "2026-Oct-20",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42901865/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42902588/",
     "pdf_url": null,
-    "doi": "10.1111/bju.70491",
+    "doi": "10.1177/15533506261501665",
     "citations": 0,
-    "venue": "BJU international",
+    "venue": "Surgical innovation",
     "open_access": false,
-    "ai_summary": "MRI and transrectal ultrasonography (TRUS) are used to target suspicious lesions . The lesions are mapped onto TRUS images to enable real-time targeting during the biopsy . But the misalignment of MRI and TRUS results in sampling errors ."
+    "ai_summary": "A real-time object detection algorithm is based on a convolutional neural network (CNN) The algorithm can effectively perform instrument counting in surgery videos, providing real- time feedback to the surgical team . The algorithm was trained on 500 images of 6 different surgical instruments ."
   },
   {
-    "id": "pubmed:42901819",
-    "title": "Cerebrospinal fluid amyloid and neurodegeneration biomarkers in the diagnosis and prognosis of amyotrophic lateral sclerosis: a multicohort observational study.",
-    "abstract": "Neurofilament light chain (NfL) is an established biomarker for amyotrophic lateral sclerosis (ALS). However, it remains unclear whether biomarkers reflecting amyloid-β metabolism (Aβ), tau (phosphorylated tau, pTau), and astrogliosis (glial fibrillary acidic protein, GFAP) can complement NfL in clinical applications. It is also unclear how Alzheimer's disease (AD) co-pathology affects disease progression in ALS. We studied 264 patients with ALS and 164 disease-control participants, analysing baseline cerebrospinal fluid (CSF) NfL, Aβ peptides, pTau181, pTau217, and GFAP. A two-step diagnostic strategy was examined in individuals with intermediate NfL values, using machine-learning models. Prognostic associations were evaluated using linear mixed-effects and Cox models adjusted for established predictors; survival was additionally examined in pooled analyses including an external ALS cohort (n = 153). Patients with ALS exhibited higher CSF NfL, Aβ38, Aβ40, Aβ42, pTau181, and pTau217 than controls, even within Aβ-negative subgroups. NfL discriminated ALS from controls with an AUC of 0.85 (0.82-0.88), which increased to 0.90 (0.88-0.92) in machine-learning models incorporating additional biomarkers. The machine-learning models maintained a high positive predictive value (0.90) for classifying cases with intermediate NfL values. Significant Aβ × NfL interactions were observed for longitudinal functional decline, and pooled survival analyses showed stronger associations between NfL and survival in the Aβ-positive ALS subgroup (14%) than in the Aβ-negative ALS subgroup (HR 4.02 [2.17-7.45] vs 1.62 [1.36-1.92]). Multiple biomarker assessments can reduce misclassification of individuals with intermediate NfL values. CSF Aβ positivity modified the association between baseline NfL and disease progression. Personalised diagnosis and prognosis based on fine-grained co-pathology evaluation may enhance clinical management of ALS. This study was primarily supported by JST SPRING (JPMJSP2125). A complete list of funding organisations is provided in Acknowledgements.",
+    "id": "pubmed:42902577",
+    "title": "Deep learning assessment of visualization in rotator cuff repair: a secondary analysis of a randomized controlled trial comparing epinephrine irrigation and intravenous tranexamic acid.",
+    "abstract": "This study aimed to compare intraoperative visualization between diluted epinephrine (EPN) irrigation and preoperative intravenous tranexamic acid (TXA) during the glenohumeral and subacromial phases of rotator cuff repair. Eighty-two patients with rotator cuff tears were prospectively randomized (1:1) to receive either 0.33 mg/L EPN irrigation without TXA (EPN group) or preoperative intravenous TXA (15 mg/kg) without EPN irrigation (TXA group). Visual clarity was evaluated using a pretrained deep learning model with a 3-point grading scale across three stages: intra-articular assessment, subacromial debridement, and rotator cuff repair. Irrigation pump pressure was recorded at each stage. Hypotensive bradycardic events (HBEs) and postoperative adverse events were monitored. Overall visual clarity was significantly greater in the EPN group than in the TXA group (mean difference [MD], 0.07; 95% CI, 0.03-0.10; P<0.001). Visualization was superior with EPN during subacromial debridement (MD, 0.08; 95% CI, 0.03-0.13; P=0.001) and rotator cuff repair (MD, 0.03; 95% CI, 0.004-0.06; P=0.02). The EPN group required lower pump pressures and fewer increases in pressure. No significant differences in HBEs or adverse events were observed. Diluted EPN irrigation improved intraoperative visualization compared with TXA, particularly during the subacromial phases, without increasing perioperative risk. Deep learning provided objective support for its clinical use. Level of evidence: II.",
     "authors": [
-      "Kazuki Obara",
-      "Shorena Janelidze",
-      "Daisuke Ito",
-      "Linda Karlsson",
-      "Munetaka Yamamoto",
-      "Andrea Mastrangelo",
-      "Sinh Tran",
-      "Koyo Tsujikawa",
-      "Yosuke Nishio",
-      "Tomoo Ogi",
-      "Veria Vacchiano",
-      "Rocco Liguori",
-      "Ryoichi Nakamura",
-      "Naoki Atsuta",
-      "Gen Sobue",
-      "Christer Nilsson",
-      "Piero Parchi",
-      "Masahisa Katsuno",
-      "Niklas Mattsson-Carlgren"
+      "Son Quang Tran",
+      "Minh Cong Bui",
+      "Thun Itthipanichpong",
+      "Danaithep Limskul",
+      "Thanathep Tanpowpong",
+      "Napatpong Thamrongskulsiri"
+    ],
+    "published": "2026-Oct-21",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42902577/",
+    "pdf_url": null,
+    "doi": "10.5397/cise.2026.00395",
+    "citations": 0,
+    "venue": "Clinics in shoulder and elbow",
+    "open_access": false,
+    "ai_summary": "Eighty-two patients with rotator cuff tears were prospectively randomized (1:1) to receive either 0.33 mg/L EPN irrigation without TXA or preoperative intravenous TXA (15 mg/kg) without EPN. Irrigation pump pressure was recorded at each stage ."
+  },
+  {
+    "id": "pubmed:42902557",
+    "title": "Trust, Traits, and Turning Points: Decoding Operator Responses to Real-World ADAS Malfunctions.",
+    "abstract": "OCCUPATIONAL APPLICATIONThis study found that high emotional trust in Advanced Driver-Assistance Systems (ADAS) showed a non-significant tendency toward slower manual intervention during malfunctions, and that an operator's personality was related to specific information needs. For practitioners, this indicates a critical safety gap where affective comfort, feeling \"too safe\" reduces readiness. To mitigate these risks, organizations should prioritize hands-on, simulated malfunction training. By exposing operators to controlled scenarios such as \"phantom braking\" events, practitioners can help them experience system limitations firsthand, rebuilding the protective skepticism and preparedness that sustained automation use tends to erode. Because occupational driving spans a range of operational models, safety protocols should be tailored accordingly. In managed fleets, organizations have an opportunity to implement personality-aligned Human-Machine Interface (HMI) configurations that address the specific cognitive and informational needs of individual drivers. For \"Bring Your Own Device\" (BYOD) gig platforms, where organizations cannot modify the vehicle's native systems, broader software-based interventions are more practical, for example, in-app geofenced warnings that alert drivers as they approach known ADAS limitation zones. Together, these targeted, context-sensitive interventions help recalibrate trust and prevent overreliance, supporting rapid recovery and sustained situational awareness across the diverse occupational contexts in which ADAS is now used.",
+    "authors": [
+      "Golnoosh Garakani",
+      "Huizhong Guo",
+      "Boyou Chen",
+      "Elizabeth Pulver",
+      "Shan Bao"
     ],
     "published": "2026-Oct-20",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42901819/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42902557/",
     "pdf_url": null,
-    "doi": "10.1016/j.ebiom.2026.106511",
+    "doi": "10.1080/24725838.2026.2738553",
     "citations": 0,
-    "venue": "EBioMedicine",
+    "venue": "IISE transactions on occupational ergonomics and human factors",
     "open_access": false,
-    "ai_summary": "Neurofilament light chain (NfL) is an established biomarker for amyotrophic lateral sclerosis (ALS) It is also unclear how Alzheimer's disease (AD) co-pathology affects disease progression in ALS ."
+    "ai_summary": "Study: High emotional trust in Advanced Driver-Assistance Systems shows a tendency toward slower manual intervention during malfunctions . For practitioners, this indicates a critical safety gap where affective comfort, feeling \"too safe\" reduces readiness ."
   },
   {
-    "id": "pubmed:42901704",
-    "title": "Visual alert integration with a time out monitor improves utilisation of an AI safety authentication system in ophthalmic surgery: a 1-year before-after study.",
-    "abstract": "",
+    "id": "pubmed:42902559",
+    "title": "Trait-Informed Machine Learning Improves Precise Genomic Selection and Hybrid Design in Wheat.",
+    "abstract": "Machine learning can unlock genomic selection (GS) for polygenic traits, but only if millions of SNPs are distilled into breeder-actionable loci. Here, we presented genome-wide association signal ranking with linkage disequilibrium pruning and Random Forest feature importance selection (GLRS), a trait-informed framework for deriving ultra-sparse marker sets for pure-line and hybrid GS breeding in wheat. Training on 768 diverse accessions phenotyped for nine yield-related traits across six environments and 570,441 SNPs, GLRS compressed markers for each trait to a few hundred yet raised cross-validation accuracy by 7.2% relative to conventional GS using random selected markers. Independent evaluation using a publicly available wheat dataset further supported the robustness and general applicability of the GLRS strategy. Validation in 1,163 advanced breeding lines from seven independent trials further demonstrated the robustness of GLRS, with prediction accuracy improvement of 14.4% and 5.8% over random markers and genome-wide association signal ranking with linkage disequilibrium pruning markers, respectively. GLRS also delivered accurate predictions of F",
     "authors": [
-      "Hitoshi Tabuchi",
-      "Naofumi Ishitobi",
-      "Mao Tanabe",
-      "Yuta Nakaniida",
-      "Masahiro Akada"
+      "Yunlong Pang",
+      "Qiang Yan",
+      "Yue Lu",
+      "Liming Wang",
+      "Meng Yang",
+      "Huaqiang Zhu",
+      "Mingyue Lu",
+      "Zongyao Li",
+      "Yu Lu",
+      "Hailiang Zhao",
+      "Yueping Wang",
+      "Ruiqi Zhuge",
+      "Minghang Song",
+      "Shucong Zhang",
+      "Lecheng Li",
+      "Qinglan Wei",
+      "Shuai Fu",
+      "Shuangrong Liu",
+      "Yuye Wu",
+      "Guihua Bai",
+      "Lingrang Kong",
+      "Anfei Li",
+      "Shubing Liu"
     ],
     "published": "2026-Oct-20",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42901704/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42902559/",
     "pdf_url": null,
-    "doi": "10.1136/bmjoq-2025-004002",
+    "doi": "10.1016/j.xplc.2026.102157",
     "citations": 0,
-    "venue": "BMJ open quality",
+    "venue": "Plant communications",
     "open_access": false,
-    "ai_summary": "No abstract available."
+    "ai_summary": "Machine learning can unlock genomic selection (GS) for polygenic traits, but only if millions of SNPs are distilled into breeder-actionable loci . We presented genome-wide association signal ranking with linkage disequilibrium pruning and Random Forest feature importance selection (GLRS)"
   },
   {
-    "id": "pubmed:42901770",
-    "title": "Generative AI in clinical practice: how should rheumatologists evaluate and monitor emerging tools?",
-    "abstract": "Generative artificial intelligence (AI) is increasingly being used in rheumatology practice, to assist with tasks such as documentation, record summarization, and clinical decision support. Rheumatologists need a practical approach to determining what evidence and oversight each application requires. This narrative review proposes a framework based on two dimensions: contextual complexity and influence on patient care. Greater contextual complexity can make errors harder to detect, whereas greater influence on care increases the potential consequences of an undetected error. We examine evidence for workflow benefits and clinical effectiveness within this framework and consider safety, equity, privacy, governance, and implementation. Existing evidence on the benefits, accuracy and reliability of AI applications remains mixed. For example, studies of ambient AI scribes suggest reduced documentation burden, but evidence of improved patient outcomes from applications supporting clinical decisions is more limited. For applications with limited clinical influence, evaluation has initially focused on workflow, usability, and documentation quality. Tools that synthesize longitudinal information require additional assessment of completeness and source traceability. Those influencing diagnosis or treatment require prospective evaluation of clinical benefit and safety. Relevant vendor evidence should be assessed alongside proportionate local testing and ongoing monitoring. Safeguards should address risks such as hallucinations, automation bias, and propagating documentation errors, with attention to performance across patient groups. Changes in functionality or clinical use should prompt reassessment. The framework provides a structured basis for adoption decisions and identifies priorities for research on patient outcomes and feasible oversight in routine rheumatology care.",
+    "id": "pubmed:42902576",
+    "title": "Detecting Language-Related Disparities in Spiritual Care Using Artificial Intelligence.",
+    "abstract": "Language barriers perpetuate health care disparities, yet traditional data sources overlook inequities in relationship‑based care. This study uses artificial intelligence to examine language‑related disparities in spiritual care, a domain largely documented in unstructured clinical notes. We analyzed electronic health records of 7,360 deceased adults aged ≥65 years from a tertiary hospital (2010-2023). Natural language processing identified spiritual care documentation, and structured flowsheets captured formal chaplain visits. Logistic regression assessed associations between patient language and spiritual care access and timing. Non‑English speakers had 59% lower odds of receiving formal spiritual care (odds ratio = 0.41,  Artificial intelligence-supported analysis of unstructured documentation revealed language‑related disparities missed by structured data, offering a culturally grounded approach to identifying inequities in relationship‑based care.",
     "authors": [
-      "Koushan Kouranloo",
-      "Mrinalini Dey MBBChir",
-      "Jinoos Yazdany"
+      "Claire Stephenson",
+      "Yuwen Ji",
+      "Nahid Zeinali",
+      "Katherine Carroll Britt",
+      "Alaa Albashayreh"
     ],
     "published": "2026-Oct-20",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42901770/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42902576/",
     "pdf_url": null,
-    "doi": "10.1002/acr.80195",
+    "doi": "10.1177/10436596261491239",
     "citations": 0,
-    "venue": "Arthritis care & research",
+    "venue": "Journal of transcultural nursing : official journal of the Transcultural Nursing Society",
     "open_access": false,
-    "ai_summary": "Rheumatologists need a practical approach to determining what evidence and oversight each application requires . Greater contextual complexity can make errors harder to detect, while greater influence on care increases the potential consequences of an undetected error ."
+    "ai_summary": "Language barriers perpetuate health care disparities, but traditional data sources overlook inequities in relationship‑based care . This study uses artificial intelligence to examine language‑related disparities in spiritual care ."
   },
   {
-    "id": "pubmed:42901748",
-    "title": "When AI and conventional triage disagree: what should be the reference standard.",
-    "abstract": "",
+    "id": "pubmed:42902528",
+    "title": "Pseudo-Haptic Feedback: Multi-Modal Approaches to Stiffness Perception and User Experience.",
+    "abstract": "Pseudo-haptics is a technique that creates the illusion of haptic sensations in virtual environments by leveraging visual feedback and the interplay between visual and haptic perception. Pseudo-haptic feedback can enhance virtual reality interactions by providing perceptual cues that substitute for or complement physical haptic feedback. This work extends a 3D deformation rendering approach to generate visual deformation cues for stiffness perception in virtual reality and evaluates their impact on user experience through a user study measuring presence and workload. Results from a user study ( ",
     "authors": [
-      "Ahmet Faruk Yildiz",
-      "Muhammed Mustafa Demir"
+      "Mehmet Ege Cansev",
+      "Xiaodong Sun",
+      "Gionata Salvietti",
+      "Domenico Prattichizzo",
+      "Philipp Beckerle"
     ],
     "published": "2026-Oct-20",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42901748/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42902528/",
     "pdf_url": null,
-    "doi": "10.1136/emermed-2026-216660",
+    "doi": "10.1002/advs.78306",
     "citations": 0,
-    "venue": "Emergency medicine journal : EMJ",
+    "venue": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
     "open_access": false,
-    "ai_summary": "No abstract available."
+    "ai_summary": "Pseudo-haptics is a technique that creates the illusion of haptic sensations in virtual environments by leveraging visual feedback and the interplay between visual and haptic perception . This work extends a 3D deformation rendering approach to generate visual deformation cues for stiffness perception in virtual reality and evaluates their impact on user experience"
+  },
+  {
+    "id": "pubmed:42902517",
+    "title": "Mast Cell Infiltration Helps Distinguish Fibrosing Alopecia in a Pattern Distribution From Androgenetic Alopecia in Scalp Biopsy.",
+    "abstract": "Mast cells are key regulators of cutaneous inflammation and are known to accumulate in response to various immunological stimuli. Although their role in several dermatological conditions has been established, their specific contribution to different forms of alopecia-particularly scarring versus nonscarring types-remains incompletely understood. This study aimed to compare the degree of mast cell infiltration across three distinct types of alopecia: androgenetic alopecia (AGA), fibrosing alopecia in a pattern distribution (FAPD), and lichen planopilaris (LPP). A total of 56 patients diagnosed with AGA, FAPD, or LPP were enrolled. Scalp biopsies were obtained from all participants, and diagnoses were confirmed through histopathological examination. Mast cell distribution and infiltration density were quantified and analyzed using SPSS and Stata software. The study was conducted with full ethical approval. The majority of participants (91%) were female, with a mean age of 44.3 years. FAPD was the most prevalent diagnosis (42.9%). LPP demonstrated the highest degree of mast cell infiltration, while AGA exhibited the lowest (ANOVA, p < 0.001). Post hoc analysis revealed significant differences between AGA and FAPD (-17.7%, p = 0.001) and between AGA and LPP (-20.1%, p = 0.001). Although mast cell infiltration was higher in patients over 40 years of age, this difference did not reach statistical significance. No significant association was identified between mast cell infiltration and patient sex. Mast cell infiltration is significantly more pronounced in scarring alopecias (LPP and FAPD) compared to non-scarring AGA, suggesting a shared immunopathological mechanism underlying follicular destruction in scarring subtypes. These findings also raise important questions regarding the potential inflammatory contribution of mast cells to AGA pathogenesis.",
+    "authors": [
+      "Azadeh Rakhshan",
+      "Fateme Ashjaazade",
+      "Sahar Dadkhahfar",
+      "Farnaz Araghi"
+    ],
+    "published": "2026-Oct-20",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42902517/",
+    "pdf_url": null,
+    "doi": "10.1111/cup.70238",
+    "citations": 0,
+    "venue": "Journal of cutaneous pathology",
+    "open_access": false,
+    "ai_summary": "Mast cells are key regulators of cutaneous inflammation and are known to accumulate in response to various immunological stimuli . Study aimed to compare the degree of mast cell infiltration across three distinct types of alopecia . The majority of participants were female, with the majority of"
+  },
+  {
+    "id": "pubmed:42902535",
+    "title": "MagGami: An Electromagnetic Origami Actuator With High Stiffness-Switching Density for Lightweight Joint-Space Wearable Haptics.",
+    "abstract": "Kinesthetic feedback gloves play a central role in immersive virtual and augmented reality (VR/AR) by enabling the perception of object shape, stiffness, and spatial constraints. However, key challenges remain: 1) achieving a large stiffness contrast between free-space and constrained-space states, 2) enabling independent actuation on finger joints, and 3) maintaining lightweight, low-power wearable operation. Here, we introduce MagGami, a miniaturized origami-based variable-stiffness actuator weighing 1.2 g for distributed joint-space integration. By combining origami geometric interlocking with an electromagnetic bistable mechanism, it can be triggered by transient current pulses at the flattened 0° configuration of the origami mechanism. MagGami switches from a freely compliant state to a self-locked high-resistance state with a mean locking response time of 102.8 ms, while requiring no coil power to hold the locked state. The mean device-level locked-to-free effective rotational-stiffness ratio is 795.46, corresponding to a module-level stiffness-switching density of 6.63 × 10",
+    "authors": [
+      "Tianhao Jin",
+      "Zirui Niu",
+      "Qingyun Tang",
+      "Zemin Wang",
+      "Yu Qiao",
+      "Guocai Yao",
+      "Yong Zhou",
+      "Boxue Shan",
+      "Yan Zhang",
+      "Dangxiao Wang"
+    ],
+    "published": "2026-Oct-20",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42902535/",
+    "pdf_url": null,
+    "doi": "10.1002/advs.78363",
+    "citations": 0,
+    "venue": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+    "open_access": false,
+    "ai_summary": "MagGami is a miniaturized origami-based variable-stiffness actuator weighing 1.2g . It can be triggered by transient current pulses at the flattened 0° configuration of the origami mechanism . MagGami switches from a freely compliant state to a self-locked high-resistance state ."
   },
   {
     "id": "openalex:W7118880740",
@@ -1754,6 +1774,28 @@
     "ai_summary": "No abstract available."
   },
   {
+    "id": "openalex:W7216994302",
+    "title": "Identification and Leveling of Production Technology Selection Indicators in Iran’s Steel Industry Using Qualitative Content Analysis",
+    "abstract": "",
+    "authors": [
+      "Seyyed Javad Hosseini Kafiabad",
+      "Hassan Dehghan Dehnavi",
+      "Abolfazl Sadeghian",
+      "Mozhde Rabbani",
+      "Mohammad Taghi Honary"
+    ],
+    "published": "2026-11-01",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://openalex.org/W7216994302",
+    "pdf_url": "https://journalmbs.com/index.php/jmbs/article/download/225/183",
+    "doi": null,
+    "citations": 0,
+    "venue": "Journal of Management and Business Solutions",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
     "id": "openalex:W7217010130",
     "title": "Designing an Educational Planning Model Based on the Agricultural Value Chain with a Qualitative Approach",
     "abstract": "",
@@ -1775,21 +1817,22 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "openalex:W7217745724",
-    "title": "Identifying the Dimensions and Components of Organizational Infrastructure Development in the Field of Human Capital in Mahshahr Gas Company",
+    "id": "openalex:W7218099395",
+    "title": "Aspect-Based Sentiment Analysis of Fashion and Apparel Related Reviews using Transformer Model",
     "abstract": "",
     "authors": [
-      "Davod Golehdari",
-      "Mohammad Ali Nikbakhsh"
+      "Foud Ameri",
+      "Ghasem Bakhshandeh",
+      "Maryam Darvishi"
     ],
     "published": "2026-11-01",
     "source": "OpenAlex",
     "category": "index",
-    "url": "https://openalex.org/W7217745724",
-    "pdf_url": "https://journalfwdmj.com/index.php/fwdmj/article/download/270/299",
+    "url": "https://openalex.org/W7218099395",
+    "pdf_url": "https://journalmbs.com/index.php/jmbs/article/download/307/234",
     "doi": null,
     "citations": 0,
-    "venue": "Future of Work and Digital Management Journal",
+    "venue": "Journal of Management and Business Solutions",
     "open_access": true,
     "ai_summary": "No abstract available."
   },
@@ -1859,6 +1902,29 @@
     "ai_summary": "No abstract available."
   },
   {
+    "id": "openalex:W7220034042",
+    "title": "Komunikasi Risiko Kebakaran Pada Fase Pra-Bencana Melalui Edukasi dan Simulasi Di Rumah Susun Sederhana Sewa (Rusunawa) Banda Aceh",
+    "abstract": "",
+    "authors": [
+      "Muhammad Nur Akmal",
+      "Annisa Sri Sugiarti",
+      "Risma Sunarty",
+      "Widya Soviana",
+      "Veri Yanti",
+      "Haya Atiqah"
+    ],
+    "published": "2026-10-28",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://openalex.org/W7220034042",
+    "pdf_url": "https://risetcendikia.com/index.php/jurnal-scinusa/article/download/379/438",
+    "doi": null,
+    "citations": 0,
+    "venue": "SciNusa: Jurnal Ilmu Sosial dan Humaniora",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
     "id": "openalex:W7219721761",
     "title": "Neuromorphic Computing Architectures for Low-Power Edge Inference in IoT Applications",
     "abstract": "",
@@ -1876,6 +1942,52 @@
     "venue": "Progress in Electronics and Communication Engineering",
     "open_access": true,
     "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7223020555",
+    "title": "Application of a neural network approach to the recognition of guiding triangles on oil and gas field diagrams",
+    "abstract": "",
+    "authors": [
+      "A. S. Abaturov"
+    ],
+    "published": "2026-10-21",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.17587/it.32.551-560",
+    "pdf_url": null,
+    "doi": "10.17587/it.32.551-560",
+    "citations": 0,
+    "venue": "INFORMACIONNYE TEHNOLOGII",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "arxiv:2610.28629v1",
+    "title": "GBClaw: An agentic AI framework for atomistic grain boundary research and mechanistic discovery",
+    "abstract": "Agentic artificial intelligence (AI) systems hold immense potential for automating complex workflows in materials discovery and design, but extending them to domain-intensive mechanistic investigations remains challenging. Here, we present GBClaw, an agentic AI framework for investigating the structure and deformation of general grain boundaries (GBs). Although general GBs constitute the vast majority of real-world interfaces in polycrystalline materials, they remain understudied because their structural complexity and interfacial mismatch complicate experimental and modeling research. GBClaw integrates large language models (LLMs) into a modular architecture comprising an orchestrator, specialized agents, domain-specific tools, simulation interfaces, and hierarchical memory. Through dynamic replanning and iterative workflow refinement, the framework effectively connects systematic simulations with targeted mechanistic analysis. Applied to 14 general asymmetric tilt GBs in nickel, GBClaw characterized interfacial defect structures and identified diverse deformation modes across these incommensurate boundaries. Comparing boundary sliding with and without secondary GB misfit dislocations revealed substantial differences in shear strength, underscoring the critical role of defect hierarchies in sliding resistance. Furthermore, researcher-guided follow-up calculations traced an anomalously high shear resistance to metastable boundary structures. This work demonstrates that combining agentic AI with domain expertise bridges high-throughput computational screening with deep physical understanding of complex material interfaces.",
+    "authors": [
+      "Yazhuo Liu",
+      "Kunqing Ding",
+      "Xiaoguo Gong",
+      "Zifeng Wang",
+      "Yichen Yang",
+      "Yifeng Che",
+      "Wen Chen",
+      "Josh Kacher",
+      "Olivier Pierron",
+      "Shigenobu Ogata",
+      "Ting Zhu"
+    ],
+    "published": "2026-10-20",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2610.28629v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.28629v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "Agentic artificial intelligence (AI) systems hold immense potential for automating complex workflows in materials discovery and design . Here, we present GBClaw, an agentic AI framework for investigating the structure and deformation of general grain boundaries (GBs)"
   },
   {
     "id": "arxiv:2610.28632v1",
@@ -1903,25 +2015,33 @@
     "ai_summary": "Video generation models can now depict remarkably realistic motion . But it is unclear how to use this motion beyond pixels to animate a specific 3D asset and replay the animation in its 3D scene . Here we present a model that directly co-generates the video and 3D motion for any supplied rig ."
   },
   {
-    "id": "arxiv:2610.28631v1",
-    "title": "AEON: Unifying Video and 3D World Models",
-    "abstract": "Current world models for explicit world simulation typically follow two distinct pathways: (1) video generative models (e.g., Sora), which simulate realistic appearances but fail to preserve 3D consistency; and (2) 3D generative models (e.g., Marble), which generate geometrically consistent scenes but often yield static, less realistic observations. We present AEON, a unified framework that bridges video-based and 3D-based world models and combines the benefits of both. The key insight of AEON lies in a generative model that operates within the text- or image-conditioned video latent space while producing renderable 4D graphics primitives---specifically, 4D Gaussian Splatting (4DGS)---as the explicit world representation. We train a 4D reconstruction model to predict both 4DGS and camera poses from monocular videos, serving as our initialized 4D decoder. Furthermore, we design a domain adapter that translates generative video latents into reconstructive 4D latents through a distillation process on the video VAE. AEON naturally supports video-based world modeling by rendering 4DGS at predicted camera trajectories, and constructs a persistent 4D environment with scene dynamics for realistic world simulation. Consequently, AEON empowers a diverse range of world modeling applications and achieves state-of-the-art performance on standard benchmarks. Project Page: https://weiqi-zhang.github.io/AEON",
+    "id": "arxiv:2610.28626v1",
+    "title": "UniWALM: Unified World Action Language Model for Embodied Robot Control",
+    "abstract": "Motivated by the human ability to integrate experience across language, perception, and action, we introduce UniWALM, a unified world-action-language model that learns video, action, and language in a single shared representation, where each modality is both a conditioning signal and a supervision target. We ask: can jointly generating language enrich this shared representation, improving manipulation and supporting memory-dependent behavior? Unlike prior approaches that attach a reasoning or vision-language model to a video-action backbone and run them as distinct stages, UniWALM unifies all three modalities inside a single mixture-of-transformers backbone whose per-modality diffusion heads co-denoise synchronously, decoding subtask and textual memory in the same pass as action with no separate planning stage; the generated language is re-consumed on the next step, closing a language-as-memory loop without an external planner or memory bank. To keep the action stream reliable under this richer objective, we further introduce Flow Matching with Correction (FMC), a training objective that teaches recovery from perturbed action trajectories at no inference-time cost. UniWALM consistently improves over same-backbone baselines (e.g., FastWAM) on compositional pick-and-place (MolmoSpaces) and across the memory-dependent subset of RMBench, where it reaches 34.5% without any pretrained language or reasoning model and exceeds Mem-0's keyframe-equipped setup (28.5%) using only a single anchor frame. On a real-world Find-the-Item task, generating textual memory lifts success from 11.1% to 61.1%, while state-of-the-art VLAs stay at or below chance (<=33.3%).",
     "authors": [
-      "Weiqi Zhang",
-      "Wenyuan Zhang",
-      "Yu-Shen Liu",
-      "Junsheng Zhou"
+      "Rahul Sajnani",
+      "Diego Romeres",
+      "Mingyuan Zhang",
+      "Kai Gao",
+      "Carl Qi",
+      "Baichuan Huang",
+      "Srinath Sridhar",
+      "Dylan Randle",
+      "Lillian J. Ratliff",
+      "Jose Barreiros",
+      "Manikantan Nambi",
+      "Jeroen Vanbaar"
     ],
     "published": "2026-10-20",
     "source": "arXiv",
     "category": "preprint",
-    "url": "https://arxiv.org/abs/2610.28631v1",
-    "pdf_url": "https://arxiv.org/pdf/2610.28631v1",
+    "url": "https://arxiv.org/abs/2610.28626v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.28626v1",
     "doi": null,
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "AEON is a unified framework that bridges video-based and 3D-based world models . The key insight of AEON lies in a generative model that operates within the text- or image-conditioned video latent space . We train a 4D reconstruction model to predict both 4DGS and camera poses from monocular videos"
+    "ai_summary": "UniWALM is a unified world-action-language model that learns video, action, and language in a single shared representation . Each modality is both a conditioning signal and a supervision target ."
   },
   {
     "id": "arxiv:2610.28628v1",
@@ -1975,61 +2095,25 @@
     "ai_summary": "SolarRenderer is a structure-conditioned video renderer that adapts a frozen MiniMax-H3 33B backbone with two lightweight LoRAs . It follows the structure and completes the appearance it leaves open ."
   },
   {
-    "id": "arxiv:2610.28629v1",
-    "title": "GBClaw: An agentic AI framework for atomistic grain boundary research and mechanistic discovery",
-    "abstract": "Agentic artificial intelligence (AI) systems hold immense potential for automating complex workflows in materials discovery and design, but extending them to domain-intensive mechanistic investigations remains challenging. Here, we present GBClaw, an agentic AI framework for investigating the structure and deformation of general grain boundaries (GBs). Although general GBs constitute the vast majority of real-world interfaces in polycrystalline materials, they remain understudied because their structural complexity and interfacial mismatch complicate experimental and modeling research. GBClaw integrates large language models (LLMs) into a modular architecture comprising an orchestrator, specialized agents, domain-specific tools, simulation interfaces, and hierarchical memory. Through dynamic replanning and iterative workflow refinement, the framework effectively connects systematic simulations with targeted mechanistic analysis. Applied to 14 general asymmetric tilt GBs in nickel, GBClaw characterized interfacial defect structures and identified diverse deformation modes across these incommensurate boundaries. Comparing boundary sliding with and without secondary GB misfit dislocations revealed substantial differences in shear strength, underscoring the critical role of defect hierarchies in sliding resistance. Furthermore, researcher-guided follow-up calculations traced an anomalously high shear resistance to metastable boundary structures. This work demonstrates that combining agentic AI with domain expertise bridges high-throughput computational screening with deep physical understanding of complex material interfaces.",
+    "id": "arxiv:2610.28631v1",
+    "title": "AEON: Unifying Video and 3D World Models",
+    "abstract": "Current world models for explicit world simulation typically follow two distinct pathways: (1) video generative models (e.g., Sora), which simulate realistic appearances but fail to preserve 3D consistency; and (2) 3D generative models (e.g., Marble), which generate geometrically consistent scenes but often yield static, less realistic observations. We present AEON, a unified framework that bridges video-based and 3D-based world models and combines the benefits of both. The key insight of AEON lies in a generative model that operates within the text- or image-conditioned video latent space while producing renderable 4D graphics primitives---specifically, 4D Gaussian Splatting (4DGS)---as the explicit world representation. We train a 4D reconstruction model to predict both 4DGS and camera poses from monocular videos, serving as our initialized 4D decoder. Furthermore, we design a domain adapter that translates generative video latents into reconstructive 4D latents through a distillation process on the video VAE. AEON naturally supports video-based world modeling by rendering 4DGS at predicted camera trajectories, and constructs a persistent 4D environment with scene dynamics for realistic world simulation. Consequently, AEON empowers a diverse range of world modeling applications and achieves state-of-the-art performance on standard benchmarks. Project Page: https://weiqi-zhang.github.io/AEON",
     "authors": [
-      "Yazhuo Liu",
-      "Kunqing Ding",
-      "Xiaoguo Gong",
-      "Zifeng Wang",
-      "Yichen Yang",
-      "Yifeng Che",
-      "Wen Chen",
-      "Josh Kacher",
-      "Olivier Pierron",
-      "Shigenobu Ogata",
-      "Ting Zhu"
+      "Weiqi Zhang",
+      "Wenyuan Zhang",
+      "Yu-Shen Liu",
+      "Junsheng Zhou"
     ],
     "published": "2026-10-20",
     "source": "arXiv",
     "category": "preprint",
-    "url": "https://arxiv.org/abs/2610.28629v1",
-    "pdf_url": "https://arxiv.org/pdf/2610.28629v1",
+    "url": "https://arxiv.org/abs/2610.28631v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.28631v1",
     "doi": null,
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "Agentic artificial intelligence (AI) systems hold immense potential for automating complex workflows in materials discovery and design . Here, we present GBClaw, an agentic AI framework for investigating the structure and deformation of general grain boundaries (GBs)"
-  },
-  {
-    "id": "arxiv:2610.28626v1",
-    "title": "UniWALM: Unified World Action Language Model for Embodied Robot Control",
-    "abstract": "Motivated by the human ability to integrate experience across language, perception, and action, we introduce UniWALM, a unified world-action-language model that learns video, action, and language in a single shared representation, where each modality is both a conditioning signal and a supervision target. We ask: can jointly generating language enrich this shared representation, improving manipulation and supporting memory-dependent behavior? Unlike prior approaches that attach a reasoning or vision-language model to a video-action backbone and run them as distinct stages, UniWALM unifies all three modalities inside a single mixture-of-transformers backbone whose per-modality diffusion heads co-denoise synchronously, decoding subtask and textual memory in the same pass as action with no separate planning stage; the generated language is re-consumed on the next step, closing a language-as-memory loop without an external planner or memory bank. To keep the action stream reliable under this richer objective, we further introduce Flow Matching with Correction (FMC), a training objective that teaches recovery from perturbed action trajectories at no inference-time cost. UniWALM consistently improves over same-backbone baselines (e.g., FastWAM) on compositional pick-and-place (MolmoSpaces) and across the memory-dependent subset of RMBench, where it reaches 34.5% without any pretrained language or reasoning model and exceeds Mem-0's keyframe-equipped setup (28.5%) using only a single anchor frame. On a real-world Find-the-Item task, generating textual memory lifts success from 11.1% to 61.1%, while state-of-the-art VLAs stay at or below chance (<=33.3%).",
-    "authors": [
-      "Rahul Sajnani",
-      "Diego Romeres",
-      "Mingyuan Zhang",
-      "Kai Gao",
-      "Carl Qi",
-      "Baichuan Huang",
-      "Srinath Sridhar",
-      "Dylan Randle",
-      "Lillian J. Ratliff",
-      "Jose Barreiros",
-      "Manikantan Nambi",
-      "Jeroen Vanbaar"
-    ],
-    "published": "2026-10-20",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2610.28626v1",
-    "pdf_url": "https://arxiv.org/pdf/2610.28626v1",
-    "doi": null,
-    "citations": 0,
-    "venue": "arXiv preprint",
-    "open_access": true,
-    "ai_summary": "UniWALM is a unified world-action-language model that learns video, action, and language in a single shared representation . Each modality is both a conditioning signal and a supervision target ."
+    "ai_summary": "AEON is a unified framework that bridges video-based and 3D-based world models . The key insight of AEON lies in a generative model that operates within the text- or image-conditioned video latent space . We train a 4D reconstruction model to predict both 4DGS and camera poses from monocular videos"
   },
   {
     "id": "arxiv:2610.28625v1",
@@ -2096,7 +2180,7 @@
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "Planning under uncertain control execution noise requires reliable feedback policies across diverse environments . We introduce Planning Under Noise (PUN) a neural operator that learns noise-aware value fields for planning in unseen geometries ."
+    "ai_summary": "Planning under uncertain control execution noise requires reliable feedback policies across diverse environments . We introduce Planning Under Noise (PUN), a neural operator that learns noise-aware value fields for planning in unseen geometries ."
   },
   {
     "id": "arxiv:2610.28622v1",
@@ -2383,7 +2467,7 @@
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "Computer-use agents are limited by the interfaces humans give them . We introduce Agent S4, an autonomous computer-use scientist that builds Evolving Agent Interfaces from task experience . A meta-agent examines task agents' trajectories on synthetic training tasks ."
+    "ai_summary": "Agent S4 is an autonomous computer-use scientist that builds Evolving Agent Interfaces from task experience . A meta-agent examines task agents' trajectories on synthetic training tasks, without success labels, and constructs and revises interfaces and usage knowledge in a repository ."
   },
   {
     "id": "arxiv:2610.28598v1",
@@ -2814,7 +2898,7 @@
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "ScreenCalib enables light detection and ranging (LiDAR)--camera extrinsic calibration using an ordinary programmable display . The camera observes displayed AprilTags, while the LiDAR measures the physical screen surface and boundary . Display geometry introduces association ambiguities, while indoor clutter complicates extraction ."
+    "ai_summary": "ScreenCalib enables light detection and ranging (LiDAR)--camera extrinsic calibration using an ordinary programmable display . The camera observes displayed AprilTags, while the LiDAR measures the physical screen surface and boundary, requiring indirect cross-modal association ."
   },
   {
     "id": "arxiv:2610.28568v1",
@@ -3089,98 +3173,5 @@
     "venue": "arXiv preprint",
     "open_access": true,
     "ai_summary": "Decentralised federated learning (DFL) trains personalised models on devices that average with their neighbours . Real devices are often offline for hours or days, and a client returning from an outage can recover only by aggregating the models its neighbourhood holds ."
-  },
-  {
-    "id": "openalex:W7164483364",
-    "title": "Experiment-compatible measurement-feedback quantum state preparation with reinforcement learning",
-    "abstract": "",
-    "authors": [
-      "Xiaotian Nie",
-      "Tao Zhang",
-      "Linghui Chen"
-    ],
-    "published": "2026-10-20",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.1088/0256-307x/43/11/110602",
-    "pdf_url": "https://arxiv.org/pdf/2606.13005",
-    "doi": "10.1088/0256-307x/43/11/110602",
-    "citations": 0,
-    "venue": "Chinese Physics Letters",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W7222956764",
-    "title": "EDUKASI PEMANFAATAN ARTIFICIAL INTELLIGENCE DALAM IDENTIFIKASI BUAH-BUAHAN BAGI SISWA SMK YPUI",
-    "abstract": "",
-    "authors": [
-      "Resti Amalia",
-      "Munawaroh Munawaroh",
-      "Niki Ratama",
-      "Ahmad Yasin",
-      "Antonius Berto Indrawan"
-    ],
-    "published": "2026-10-20",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.26798/jpm.v5i2.2752",
-    "pdf_url": "https://doi.org/10.26798/jpm.v5i2.2752",
-    "doi": "10.26798/jpm.v5i2.2752",
-    "citations": 0,
-    "venue": "Jurnal Pengabdian Masyarakat - Teknologi Digital Indonesia",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W7222878592",
-    "title": "AI-Assisted Sentiment Analysis of Student Voice: A Human-Validated Comparison of Lexicon and Transformer-Based Tools",
-    "abstract": "",
-    "authors": [
-      "Wei You",
-      "Kevork Horissian"
-    ],
-    "published": "2026-10-19",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.61669/001c.172638",
-    "pdf_url": "https://aalhe.scholasticahq.com/article/172638.pdf",
-    "doi": "10.61669/001c.172638",
-    "citations": 0,
-    "venue": "Intersection A Journal at the Intersection of Assessment and Learning",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "conf:Conference:https://aclanthology.org/events/acl-2025/#2025acl-long",
-    "title": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
-    "abstract": "",
-    "authors": [],
-    "published": "",
-    "source": "Conference",
-    "category": "conference",
-    "url": "https://aclanthology.org/events/acl-2025/#2025acl-long",
-    "pdf_url": null,
-    "doi": null,
-    "citations": 0,
-    "venue": "Conference",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "conf:Conference:https://github.com/THUKElab/CLEME",
-    "title": "https://github.com/THUKElab/CLEME",
-    "abstract": "",
-    "authors": [],
-    "published": "",
-    "source": "Conference",
-    "category": "conference",
-    "url": "https://github.com/THUKElab/CLEME",
-    "pdf_url": null,
-    "doi": null,
-    "citations": 0,
-    "venue": "Conference",
-    "open_access": false,
-    "ai_summary": "No abstract available."
   }
 ]
