@@ -92,22 +92,6 @@
     "ai_summary": "Teaching learners with special educational needs requires dynamic and adaptive pedagogical strategies . This can be possible if teachers are assisted in mitigating the daily challenges of teaching such learners ."
   },
   {
-    "id": "crossref:10.3998/mjcsl.11105",
-    "title": "Title Pending 11105",
-    "abstract": "",
-    "authors": [],
-    "published": "2036",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.3998/mjcsl.11105",
-    "pdf_url": null,
-    "doi": "10.3998/mjcsl.11105",
-    "citations": 0,
-    "venue": "Michigan Journal of Community Service Learning",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
     "id": "crossref:10.3998/mjcsl.9799",
     "title": "Title Pending 9799",
     "abstract": "",
@@ -140,6 +124,22 @@
     "ai_summary": "No abstract available."
   },
   {
+    "id": "crossref:10.3998/mjcsl.11105",
+    "title": "Title Pending 11105",
+    "abstract": "",
+    "authors": [],
+    "published": "2036",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.3998/mjcsl.11105",
+    "pdf_url": null,
+    "doi": "10.3998/mjcsl.11105",
+    "citations": 0,
+    "venue": "Michigan Journal of Community Service Learning",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
     "id": "crossref:10.3998/mjcsl.8122",
     "title": "Title Pending 8122",
     "abstract": "",
@@ -156,22 +156,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.21825/ewopinpractice.94702",
-    "title": "Title Pending 94702",
-    "abstract": "",
-    "authors": [],
-    "published": "2035",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.21825/ewopinpractice.94702",
-    "pdf_url": null,
-    "doi": "10.21825/ewopinpractice.94702",
-    "citations": 0,
-    "venue": "EWOP in Practice",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
     "id": "crossref:10.21825/ewopinpractice.94703",
     "title": "Title Pending 94703",
     "abstract": "",
@@ -182,6 +166,22 @@
     "url": "https://doi.org/10.21825/ewopinpractice.94703",
     "pdf_url": null,
     "doi": "10.21825/ewopinpractice.94703",
+    "citations": 0,
+    "venue": "EWOP in Practice",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "crossref:10.21825/ewopinpractice.94702",
+    "title": "Title Pending 94702",
+    "abstract": "",
+    "authors": [],
+    "published": "2035",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.21825/ewopinpractice.94702",
+    "pdf_url": null,
+    "doi": "10.21825/ewopinpractice.94702",
     "citations": 0,
     "venue": "EWOP in Practice",
     "open_access": false,
@@ -532,24 +532,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.67805/jgrms.v2i9.156",
-    "title": "A Review of Phishing Detection Techniques Using Machine Learning and Natural Language Processing",
-    "abstract": "<jats:p>The goal of phishing attacks, which rank high among cyber risks, is to steal sensitive information (such as login passwords, financial data, and more) from unsuspecting people and companies. Blacklist, whitelist, rule, heuristic, and signature-based detection methods are no longer suitable due to the rising sophistication of phishing schemes. As a result, ML, DL, and NLP are rapidly becoming into effective instruments for detecting both well-known and brand-new forms of phishing. Background on phishing assaults, old ways of detecting them, and recent advances in intelligent phishing detection are all included in this article. It delves into several machine learning algorithms such as decision tree, LSTM, ANN, CNN, and RNN, as well as deep learning models like KNN, NB, and SVM. Also, natural language processing methods including word embedding, sentiment analysis, text categorization, and tokenization are explored with the aim of detecting phishing material. Presenting a comprehensive, precise, and up-to-the-minute phishing detection system is the ultimate goal of this study, which focuses on machine learning frameworks, performance indicators, present obstacles, and future research directions.</jats:p>",
-    "authors": [
-      "Dr. Sunita Dixit"
-    ],
-    "published": "2029",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.67805/jgrms.v2i9.156",
-    "pdf_url": null,
-    "doi": "10.67805/jgrms.v2i9.156",
-    "citations": 0,
-    "venue": "Journal of Global Research in Multidisciplinary Studies(JGRMS)",
-    "open_access": false,
-    "ai_summary": "ML, DL, and NLP are rapidly becoming into effective instruments for detecting both well-known and brand-new forms of phishing . Background on phishing assaults and old ways of detecting them are all included in this article ."
-  },
-  {
     "id": "crossref:10.70239/arsu.2026.t85.n3.07",
     "title": "HYBRID NETWORK INTRUSION DETECTION SYSTEM BASED ON SIGNATURE ANALYSIS AND MACHINE LEARNING METHODS",
     "abstract": "<jats:p>In the context of increasing complexity of modern network infrastructures and the growing number of cyberattacks, improving the effectiveness of intrusion detection systems is a highly relevant task. The aim of this work is to develop and investigate a hybrid approach to network attack detection based on a combination of signature-based analysis and intelligent machine learning methods.  The research methods include analysis of requirements for anomaly detection systems, comparative analysis of existing solutions, design of a hybrid system architecture, and experimental modeling using multiclass classification of network traffic. The results demonstrate that integrating a neural model with a traditional detection system improves attack detection coverage and reduces the number of false positives.  The practical significance of the study lies in the possibility of deploying the proposed architecture in real corporate networks, while the theoretical significance consists in substantiating the effectiveness of a hybrid approach to traffic analysis. Future research directions include adaptive model training and expansion of the range of detectable attacks.</jats:p>",
@@ -591,6 +573,24 @@
     "ai_summary": "No abstract available."
   },
   {
+    "id": "crossref:10.67805/jgrms.v2i9.156",
+    "title": "A Review of Phishing Detection Techniques Using Machine Learning and Natural Language Processing",
+    "abstract": "<jats:p>The goal of phishing attacks, which rank high among cyber risks, is to steal sensitive information (such as login passwords, financial data, and more) from unsuspecting people and companies. Blacklist, whitelist, rule, heuristic, and signature-based detection methods are no longer suitable due to the rising sophistication of phishing schemes. As a result, ML, DL, and NLP are rapidly becoming into effective instruments for detecting both well-known and brand-new forms of phishing. Background on phishing assaults, old ways of detecting them, and recent advances in intelligent phishing detection are all included in this article. It delves into several machine learning algorithms such as decision tree, LSTM, ANN, CNN, and RNN, as well as deep learning models like KNN, NB, and SVM. Also, natural language processing methods including word embedding, sentiment analysis, text categorization, and tokenization are explored with the aim of detecting phishing material. Presenting a comprehensive, precise, and up-to-the-minute phishing detection system is the ultimate goal of this study, which focuses on machine learning frameworks, performance indicators, present obstacles, and future research directions.</jats:p>",
+    "authors": [
+      "Dr. Sunita Dixit"
+    ],
+    "published": "2029",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.67805/jgrms.v2i9.156",
+    "pdf_url": null,
+    "doi": "10.67805/jgrms.v2i9.156",
+    "citations": 0,
+    "venue": "Journal of Global Research in Multidisciplinary Studies(JGRMS)",
+    "open_access": false,
+    "ai_summary": "ML, DL, and NLP are rapidly becoming into effective instruments for detecting both well-known and brand-new forms of phishing . Background on phishing assaults and old ways of detecting them are all included in this article ."
+  },
+  {
     "id": "crossref:10.5705/ss.202025.0406",
     "title": "Distributed Learning of Single Index Model with Differential Privacy and Massive Data",
     "abstract": "",
@@ -603,8 +603,29 @@
     "source": "Crossref",
     "category": "index",
     "url": "https://doi.org/10.5705/ss.202025.0406",
-    "pdf_url": null,
+    "pdf_url": "https://doi.org/10.5705/ss.202025.0406",
     "doi": "10.5705/ss.202025.0406",
+    "citations": 0,
+    "venue": "Statistica Sinica",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "crossref:10.5705/ss.202025.0314",
+    "title": "Transfer Learning for High-dimensional Regression with Compositional Covariates: Application to Microbiome Studies",
+    "abstract": "",
+    "authors": [
+      "Qinqin Hu",
+      "Xiaojing Luo",
+      "Chencheng Ma",
+      "Wang Zhou"
+    ],
+    "published": "2029",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.5705/ss.202025.0314",
+    "pdf_url": null,
+    "doi": "10.5705/ss.202025.0314",
     "citations": 0,
     "venue": "Statistica Sinica",
     "open_access": false,
@@ -632,27 +653,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.5705/ss.202025.0314",
-    "title": "Transfer Learning for High-dimensional Regression with Compositional Covariates: Application to Microbiome Studies",
-    "abstract": "",
-    "authors": [
-      "Qinqin Hu",
-      "Xiaojing Luo",
-      "Chencheng Ma",
-      "Wang Zhou"
-    ],
-    "published": "2029",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.5705/ss.202025.0314",
-    "pdf_url": null,
-    "doi": "10.5705/ss.202025.0314",
-    "citations": 0,
-    "venue": "Statistica Sinica",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
     "id": "crossref:10.5705/ss.202025.0230",
     "title": "Two-way Subgroup Structure Learning for High Dimensional Clustered Survival Data",
     "abstract": "",
@@ -666,11 +666,11 @@
     "source": "Crossref",
     "category": "index",
     "url": "https://doi.org/10.5705/ss.202025.0230",
-    "pdf_url": "https://doi.org/10.5705/ss.202025.0230",
+    "pdf_url": null,
     "doi": "10.5705/ss.202025.0230",
     "citations": 0,
     "venue": "Statistica Sinica",
-    "open_access": true,
+    "open_access": false,
     "ai_summary": "No abstract available."
   },
   {
@@ -1032,6 +1032,24 @@
     "ai_summary": "No abstract available."
   },
   {
+    "id": "pubmed:42902611",
+    "title": "Deskilled or upskilled? A personal reckoning with artificial intelligence.",
+    "abstract": "",
+    "authors": [
+      "Vivienne C Bachelet"
+    ],
+    "published": "2026-Oct-21",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42902611/",
+    "pdf_url": null,
+    "doi": "10.5867/medwave.2026.08.3259",
+    "citations": 0,
+    "venue": "Medwave",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
     "id": "pubmed:42902589",
     "title": "Recent Progress in g-C",
     "abstract": "ABSRACTGraphitic carbon nitride (g-C",
@@ -1057,24 +1075,6 @@
     "venue": "Critical reviews in analytical chemistry",
     "open_access": false,
     "ai_summary": "ABSRACTGraphitic carbon nitride (g-C"
-  },
-  {
-    "id": "pubmed:42902611",
-    "title": "Deskilled or upskilled? A personal reckoning with artificial intelligence.",
-    "abstract": "",
-    "authors": [
-      "Vivienne C Bachelet"
-    ],
-    "published": "2026-Oct-21",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42902611/",
-    "pdf_url": null,
-    "doi": "10.5867/medwave.2026.08.3259",
-    "citations": 0,
-    "venue": "Medwave",
-    "open_access": false,
-    "ai_summary": "No abstract available."
   },
   {
     "id": "pubmed:42902588",
@@ -1140,29 +1140,7 @@
     "citations": 0,
     "venue": "Clinics in shoulder and elbow",
     "open_access": false,
-    "ai_summary": "Eighty-two patients with rotator cuff tears were prospectively randomized (1:1) to receive either 0.33 mg/L EPN irrigation without TXA or preoperative intravenous TXA (15 mg/kg) without EPN. Irrigation pump pressure was recorded at each stage ."
-  },
-  {
-    "id": "pubmed:42902576",
-    "title": "Detecting Language-Related Disparities in Spiritual Care Using Artificial Intelligence.",
-    "abstract": "Language barriers perpetuate health care disparities, yet traditional data sources overlook inequities in relationship‑based care. This study uses artificial intelligence to examine language‑related disparities in spiritual care, a domain largely documented in unstructured clinical notes. We analyzed electronic health records of 7,360 deceased adults aged ≥65 years from a tertiary hospital (2010-2023). Natural language processing identified spiritual care documentation, and structured flowsheets captured formal chaplain visits. Logistic regression assessed associations between patient language and spiritual care access and timing. Non‑English speakers had 59% lower odds of receiving formal spiritual care (odds ratio = 0.41,  Artificial intelligence-supported analysis of unstructured documentation revealed language‑related disparities missed by structured data, offering a culturally grounded approach to identifying inequities in relationship‑based care.",
-    "authors": [
-      "Claire Stephenson",
-      "Yuwen Ji",
-      "Nahid Zeinali",
-      "Katherine Carroll Britt",
-      "Alaa Albashayreh"
-    ],
-    "published": "2026-Oct-20",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42902576/",
-    "pdf_url": null,
-    "doi": "10.1177/10436596261491239",
-    "citations": 0,
-    "venue": "Journal of transcultural nursing : official journal of the Transcultural Nursing Society",
-    "open_access": false,
-    "ai_summary": "Language barriers perpetuate health care disparities, but traditional data sources overlook inequities in relationship‑based care . This study uses artificial intelligence to examine language‑related disparities in spiritual care ."
+    "ai_summary": "Eighty-two patients with rotator cuff tears were prospectively randomized to receive either 0.33 mg/L EPN irrigation without TXA or preoperative intravenous TXA (15 mg/kg) without EPN irrigations . Visual clarity was significantly greater in the EPN group than in the TXA group ."
   },
   {
     "id": "pubmed:42902559",
@@ -1203,6 +1181,28 @@
     "venue": "Plant communications",
     "open_access": false,
     "ai_summary": "Machine learning can unlock genomic selection (GS) for polygenic traits, but only if millions of SNPs are distilled into breeder-actionable loci . We presented genome-wide association signal ranking with linkage disequilibrium pruning and Random Forest feature importance selection (GLRS)"
+  },
+  {
+    "id": "pubmed:42902576",
+    "title": "Detecting Language-Related Disparities in Spiritual Care Using Artificial Intelligence.",
+    "abstract": "Language barriers perpetuate health care disparities, yet traditional data sources overlook inequities in relationship‑based care. This study uses artificial intelligence to examine language‑related disparities in spiritual care, a domain largely documented in unstructured clinical notes. We analyzed electronic health records of 7,360 deceased adults aged ≥65 years from a tertiary hospital (2010-2023). Natural language processing identified spiritual care documentation, and structured flowsheets captured formal chaplain visits. Logistic regression assessed associations between patient language and spiritual care access and timing. Non‑English speakers had 59% lower odds of receiving formal spiritual care (odds ratio = 0.41,  Artificial intelligence-supported analysis of unstructured documentation revealed language‑related disparities missed by structured data, offering a culturally grounded approach to identifying inequities in relationship‑based care.",
+    "authors": [
+      "Claire Stephenson",
+      "Yuwen Ji",
+      "Nahid Zeinali",
+      "Katherine Carroll Britt",
+      "Alaa Albashayreh"
+    ],
+    "published": "2026-Oct-20",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42902576/",
+    "pdf_url": null,
+    "doi": "10.1177/10436596261491239",
+    "citations": 0,
+    "venue": "Journal of transcultural nursing : official journal of the Transcultural Nursing Society",
+    "open_access": false,
+    "ai_summary": "Language barriers perpetuate health care disparities, but traditional data sources overlook inequities in relationship‑based care . This study uses artificial intelligence to examine language‑related disparities in spiritual care ."
   },
   {
     "id": "pubmed:42902557",
@@ -1960,28 +1960,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "arxiv:2610.30128v1",
-    "title": "Think Harder Where It Matters: Item-Level Adaptive Recursion for Sequential Recommendation",
-    "abstract": "Existing sequential recommenders usually allocate a fixed computational budget to every item in a user's interaction history, regardless of the item's contribution to the final prediction. We challenge this de facto design with two diagnostic findings. (1) Non-uniform computational need: items within the same sequence vary drastically in how much computation they require. Most converge after shallow processing while a critical minority only stabilizes at full depth. (2) Suboptimality of fixed allocation: given oracle access to the target item, a non-uniform depth assignment consistently outranks the fixed one, indicating that existing uniform computation both wastes capacity on already-converged items and sacrifices overall recommendation quality. These observations motivate a shift from fixed-depth computation to item-level adaptive reasoning. To this end, we propose LoopRec. LoopRec recursively applies a single weight-shared block and introduces a lightweight gate at each recursion boundary that makes a binary exit-or-continue decision for every item independently. Items whose representations have sufficiently matured exit early, while those requiring deeper reasoning continue to subsequent recursions. This design converts the fixed global depth into a learned, per-item property without auxiliary depth labels, and is readily adaptable to diverse backbone architectures. Extensive experiments on public benchmarks with four backbone families demonstrate that LoopRec consistently outperforms matched fixed-depth counterparts. Further analysis reveals that LoopRec's learned allocation exhibits interpretable patterns aligned with our post-hoc oracle analysis: lower-frequency items and more recent interactions naturally receive deeper computation. Our code is available at https://github.com/Elpmis117/LoopRec.",
-    "authors": [
-      "Zhanshuo Cao",
-      "Jiakai Tang",
-      "Yuqi Zhou",
-      "Sunhao Dai",
-      "Jun Xu"
-    ],
-    "published": "2026-10-21",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2610.30128v1",
-    "pdf_url": "https://arxiv.org/pdf/2610.30128v1",
-    "doi": null,
-    "citations": 0,
-    "venue": "arXiv preprint",
-    "open_access": true,
-    "ai_summary": "Existing sequential recommenders usually allocate a fixed computational budget to every item in a user's interaction history . We challenge this de facto design with two diagnostic findings . LoopRec recursively applies a single weight-shared block and introduces a lightweight gate at each recursion"
-  },
-  {
     "id": "arxiv:2610.30125v1",
     "title": "PhysiCalWorld: In-Context Physics Calibration for World Models",
     "abstract": "Existing world models typically perceive a scene through current visual frame or a narrow history window. However, these observations may not reveal the physics properties that determine transition dynamics, such as an object's mass distribution, joint damping, or surface friction. Without calibrating these physics factors for world models, predictions tend to regress toward an empirical prior and induce severe drift in novel test scenes. To this end, we propose PhysiCalWorld, which calibrates action-conditioned world models to the instance-specific dynamics via in-context prompting, without fine-tuning or analytical physics modeling. Our method encodes an exploratory interaction clip collected within the test scene into a compact physics descriptor token, which grounds subsequent predictions in the scene's actual physical behavior. PhysiCalWorld is trained end-to-end with the latent prediction loss alone, without physics labels. At inference time, the descriptor token is extracted once and can be reused across rollouts with negligible compute overhead. We evaluate PhysiCalWorld across four environments covering diverse physics variations and show that it substantially improves rollout prediction accuracy and visual planning success rate. The learned descriptors also form a physically structured latent space and generalize beyond the physics ranges seen during training.",
@@ -2007,23 +1985,23 @@
     "ai_summary": "PhysiCalWorld is trained end-to-end with the latent prediction loss alone, without physics labels . At inference time, the descriptor token is extracted once and can be reused acro ."
   },
   {
-    "id": "arxiv:2610.30122v1",
-    "title": "A Quasipolynomial Algorithm for $\\ell_\\infty$ Contractions",
-    "abstract": "We give an algorithm for computing an $\\eps$-approximate fixed point of any $d$-dimensional nonexpansion with respect to the $\\ell_\\infty$ norm in time $\\log(1/\\eps)^{O(\\log^2 d)}$. At its core, our method uses a boosting argument to geometrically shrink a search region. Among other consequences, our algorithm implies that simple stochastic games can be solved in quasipolynomial time.",
+    "id": "arxiv:2610.30132v1",
+    "title": "LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data",
+    "abstract": "Reinforcement learning (RL) is an effective way to strengthen the long-context reasoning of large language models (LLMs), but it needs training data that are long, diverse, challenging, and verifiable. Human annotation of such data is expensive, naturally occurring data are too scarce to sustain RL, and existing synthesis methods depend on external corpora or stronger teacher models, which become harder to obtain as the trained models get stronger. Recently, RL from zero data, in which a model learns from tasks it proposes itself, has achieved excellent performance, but existing methods target short-context tasks. Therefore, we propose $\\textbf{LongZero}$, a method that lets an LLM improve its own long-context reasoning without any external data. Instead of writing questions and answers over existing documents, LongZero first has the model synthesize the question and answer with its supporting evidence in a compact structured form, and only then separately expands the evidence into a long multi-document context. LongZero combines these self-written multi-hop reasoning tasks with self-written multi-round retrieval tasks and trains the model with GRPO. We evaluate LongZero on two LLMs across five long-context reasoning benchmarks and compare it with RL on data synthesized from external corpora. Experimental results show that LongZero can generalize to real tasks, and outperforms both baselines, suggesting a viable and promising path to improving long-context reasoning of LLMs.",
     "authors": [
-      "Ashkan Soleymani",
-      "Gabriele Farina"
+      "Zhennan Wan",
+      "Jianfei Chen"
     ],
     "published": "2026-10-21",
     "source": "arXiv",
     "category": "preprint",
-    "url": "https://arxiv.org/abs/2610.30122v1",
-    "pdf_url": "https://arxiv.org/pdf/2610.30122v1",
+    "url": "https://arxiv.org/abs/2610.30132v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.30132v1",
     "doi": null,
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "The algorithm uses a boosting argument to geometrically shrink a search region . It implies that simple stochastic games can be solved in quasipolynomial time ."
+    "ai_summary": "Reinforcement learning (RL) is an effective way to strengthen the long-context reasoning of large language models (LLMs) But it needs training data that are long, diverse, challenging, and verifiable ."
   },
   {
     "id": "arxiv:2610.30127v1",
@@ -2050,6 +2028,28 @@
     "ai_summary": "Voxel programming is a language model that translates task interpretations into executable programs over local voxel views of scene surfaces . VoxProg formulates 3D object placement through voxels. It can isolate task-relevant regions and boundaries directly from scene meshes, and a downstream pose program can measure the resulting geometry to compute"
   },
   {
+    "id": "arxiv:2610.30128v1",
+    "title": "Think Harder Where It Matters: Item-Level Adaptive Recursion for Sequential Recommendation",
+    "abstract": "Existing sequential recommenders usually allocate a fixed computational budget to every item in a user's interaction history, regardless of the item's contribution to the final prediction. We challenge this de facto design with two diagnostic findings. (1) Non-uniform computational need: items within the same sequence vary drastically in how much computation they require. Most converge after shallow processing while a critical minority only stabilizes at full depth. (2) Suboptimality of fixed allocation: given oracle access to the target item, a non-uniform depth assignment consistently outranks the fixed one, indicating that existing uniform computation both wastes capacity on already-converged items and sacrifices overall recommendation quality. These observations motivate a shift from fixed-depth computation to item-level adaptive reasoning. To this end, we propose LoopRec. LoopRec recursively applies a single weight-shared block and introduces a lightweight gate at each recursion boundary that makes a binary exit-or-continue decision for every item independently. Items whose representations have sufficiently matured exit early, while those requiring deeper reasoning continue to subsequent recursions. This design converts the fixed global depth into a learned, per-item property without auxiliary depth labels, and is readily adaptable to diverse backbone architectures. Extensive experiments on public benchmarks with four backbone families demonstrate that LoopRec consistently outperforms matched fixed-depth counterparts. Further analysis reveals that LoopRec's learned allocation exhibits interpretable patterns aligned with our post-hoc oracle analysis: lower-frequency items and more recent interactions naturally receive deeper computation. Our code is available at https://github.com/Elpmis117/LoopRec.",
+    "authors": [
+      "Zhanshuo Cao",
+      "Jiakai Tang",
+      "Yuqi Zhou",
+      "Sunhao Dai",
+      "Jun Xu"
+    ],
+    "published": "2026-10-21",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2610.30128v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.30128v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "Existing sequential recommenders usually allocate a fixed computational budget to every item in a user's interaction history . We challenge this de facto design with two diagnostic findings . LoopRec recursively applies a single weight-shared block and introduces a lightweight gate at each recursion"
+  },
+  {
     "id": "arxiv:2610.30129v1",
     "title": "Rethinking Video Autoencoders for Interactive World Models",
     "abstract": "Video world models predict future frames from past frames and actions. They serve as simulators in which agents train, plan or are evaluated, and that humans can control interactively. They generate in the latent space of a video autoencoder, whose compression sets their cost per frame and how long each action waits to take effect. Yet world models often reuse the autoencoders of text-to-video generators, built for offline generation with no agent waiting and, without their training data and code, not retrainable at another compression. We therefore ask how, where and how much a world model should compress. We build CADRE, an open family of causal diffusion representation autoencoders spanning multiple spatio-temporal compressions. Its members differ only in a small bottleneck on frozen features and share a diffusion decoder self-distilled to one or a few steps. We train the same world model on each autoencoder in two domains, manipulation and navigation, with two environments each. CADRE forms most of the latency-quality frontier, especially with a moving camera. Our study also leads to four findings. At strong compression, a diffusion decoder is sharper than perceptual regression. In robot manipulation, temporal compression is more effective in the autoencoder than in the world model. Manipulation and navigation call for opposite compressions: temporal compression costs little when the camera is still, and spatial compression when it moves. Surprisingly, with a still camera, coarser spatial tokens hurt motion far more than image quality. Code, models and a live demo are at https://kyutai.org/blog/2026-10-21-cadre",
@@ -2072,23 +2072,23 @@
     "ai_summary": "Video world models predict future frames from past frames and actions . They serve as simulators in which agents train, plan or are evaluated . They generate in the latent space of a video autoencoder, whose compression sets their cost per frame and how long each action waits to take effect ."
   },
   {
-    "id": "arxiv:2610.30132v1",
-    "title": "LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data",
-    "abstract": "Reinforcement learning (RL) is an effective way to strengthen the long-context reasoning of large language models (LLMs), but it needs training data that are long, diverse, challenging, and verifiable. Human annotation of such data is expensive, naturally occurring data are too scarce to sustain RL, and existing synthesis methods depend on external corpora or stronger teacher models, which become harder to obtain as the trained models get stronger. Recently, RL from zero data, in which a model learns from tasks it proposes itself, has achieved excellent performance, but existing methods target short-context tasks. Therefore, we propose $\\textbf{LongZero}$, a method that lets an LLM improve its own long-context reasoning without any external data. Instead of writing questions and answers over existing documents, LongZero first has the model synthesize the question and answer with its supporting evidence in a compact structured form, and only then separately expands the evidence into a long multi-document context. LongZero combines these self-written multi-hop reasoning tasks with self-written multi-round retrieval tasks and trains the model with GRPO. We evaluate LongZero on two LLMs across five long-context reasoning benchmarks and compare it with RL on data synthesized from external corpora. Experimental results show that LongZero can generalize to real tasks, and outperforms both baselines, suggesting a viable and promising path to improving long-context reasoning of LLMs.",
+    "id": "arxiv:2610.30122v1",
+    "title": "A Quasipolynomial Algorithm for $\\ell_\\infty$ Contractions",
+    "abstract": "We give an algorithm for computing an $\\eps$-approximate fixed point of any $d$-dimensional nonexpansion with respect to the $\\ell_\\infty$ norm in time $\\log(1/\\eps)^{O(\\log^2 d)}$. At its core, our method uses a boosting argument to geometrically shrink a search region. Among other consequences, our algorithm implies that simple stochastic games can be solved in quasipolynomial time.",
     "authors": [
-      "Zhennan Wan",
-      "Jianfei Chen"
+      "Ashkan Soleymani",
+      "Gabriele Farina"
     ],
     "published": "2026-10-21",
     "source": "arXiv",
     "category": "preprint",
-    "url": "https://arxiv.org/abs/2610.30132v1",
-    "pdf_url": "https://arxiv.org/pdf/2610.30132v1",
+    "url": "https://arxiv.org/abs/2610.30122v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.30122v1",
     "doi": null,
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "Reinforcement learning (RL) is an effective way to strengthen the long-context reasoning of large language models (LLMs) But it needs training data that are long, diverse, challenging, and verifiable ."
+    "ai_summary": "The algorithm uses a boosting argument to geometrically shrink a search region . It implies that simple stochastic games can be solved in quasipolynomial time ."
   },
   {
     "id": "arxiv:2610.30121v1",
