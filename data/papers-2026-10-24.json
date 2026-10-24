@@ -376,6 +376,24 @@
     "ai_summary": "No abstract available."
   },
   {
+    "id": "crossref:10.56251/watu4873",
+    "title": "Machine Learning Application for SAIs",
+    "abstract": "",
+    "authors": [
+      "Tiare Rivera"
+    ],
+    "published": "2030",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.56251/watu4873",
+    "pdf_url": null,
+    "doi": "10.56251/watu4873",
+    "citations": 0,
+    "venue": "International Journal of Government Auditing",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
     "id": "crossref:10.56251/yxek7242",
     "title": "Evolution and Applications of Artificial Intelligence in SAIs",
     "abstract": "",
@@ -392,24 +410,6 @@
     "url": "https://doi.org/10.56251/yxek7242",
     "pdf_url": null,
     "doi": "10.56251/yxek7242",
-    "citations": 0,
-    "venue": "International Journal of Government Auditing",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "crossref:10.56251/watu4873",
-    "title": "Machine Learning Application for SAIs",
-    "abstract": "",
-    "authors": [
-      "Tiare Rivera"
-    ],
-    "published": "2030",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.56251/watu4873",
-    "pdf_url": null,
-    "doi": "10.56251/watu4873",
     "citations": 0,
     "venue": "International Journal of Government Auditing",
     "open_access": false,
@@ -532,6 +532,24 @@
     "ai_summary": "No abstract available."
   },
   {
+    "id": "crossref:10.67805/jgrms.v2i9.156",
+    "title": "A Review of Phishing Detection Techniques Using Machine Learning and Natural Language Processing",
+    "abstract": "<jats:p>The goal of phishing attacks, which rank high among cyber risks, is to steal sensitive information (such as login passwords, financial data, and more) from unsuspecting people and companies. Blacklist, whitelist, rule, heuristic, and signature-based detection methods are no longer suitable due to the rising sophistication of phishing schemes. As a result, ML, DL, and NLP are rapidly becoming into effective instruments for detecting both well-known and brand-new forms of phishing. Background on phishing assaults, old ways of detecting them, and recent advances in intelligent phishing detection are all included in this article. It delves into several machine learning algorithms such as decision tree, LSTM, ANN, CNN, and RNN, as well as deep learning models like KNN, NB, and SVM. Also, natural language processing methods including word embedding, sentiment analysis, text categorization, and tokenization are explored with the aim of detecting phishing material. Presenting a comprehensive, precise, and up-to-the-minute phishing detection system is the ultimate goal of this study, which focuses on machine learning frameworks, performance indicators, present obstacles, and future research directions.</jats:p>",
+    "authors": [
+      "Dr. Sunita Dixit"
+    ],
+    "published": "2029",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.67805/jgrms.v2i9.156",
+    "pdf_url": null,
+    "doi": "10.67805/jgrms.v2i9.156",
+    "citations": 0,
+    "venue": "Journal of Global Research in Multidisciplinary Studies(JGRMS)",
+    "open_access": false,
+    "ai_summary": "ML, DL, and NLP are rapidly becoming into effective instruments for detecting both well-known and brand-new forms of phishing . Background on phishing assaults and old ways of detecting them are all included in this article ."
+  },
+  {
     "id": "crossref:10.70239/arsu.2026.t85.n3.07",
     "title": "HYBRID NETWORK INTRUSION DETECTION SYSTEM BASED ON SIGNATURE ANALYSIS AND MACHINE LEARNING METHODS",
     "abstract": "<jats:p>In the context of increasing complexity of modern network infrastructures and the growing number of cyberattacks, improving the effectiveness of intrusion detection systems is a highly relevant task. The aim of this work is to develop and investigate a hybrid approach to network attack detection based on a combination of signature-based analysis and intelligent machine learning methods.  The research methods include analysis of requirements for anomaly detection systems, comparative analysis of existing solutions, design of a hybrid system architecture, and experimental modeling using multiclass classification of network traffic. The results demonstrate that integrating a neural model with a traditional detection system improves attack detection coverage and reduces the number of false positives.  The practical significance of the study lies in the possibility of deploying the proposed architecture in real corporate networks, while the theoretical significance consists in substantiating the effectiveness of a hybrid approach to traffic analysis. Future research directions include adaptive model training and expansion of the range of detectable attacks.</jats:p>",
@@ -554,24 +572,6 @@
     "ai_summary": "The aim of this work is to develop and investigate a hybrid approach to network attack detection based on signature-based analysis and intelligent machine learning methods . The practical significance of the study lies in the possibility of deploying the proposed architecture in real corporate networks ."
   },
   {
-    "id": "crossref:10.67805/jgrms.v2i9.156",
-    "title": "A Review of Phishing Detection Techniques Using Machine Learning and Natural Language Processing",
-    "abstract": "<jats:p>The goal of phishing attacks, which rank high among cyber risks, is to steal sensitive information (such as login passwords, financial data, and more) from unsuspecting people and companies. Blacklist, whitelist, rule, heuristic, and signature-based detection methods are no longer suitable due to the rising sophistication of phishing schemes. As a result, ML, DL, and NLP are rapidly becoming into effective instruments for detecting both well-known and brand-new forms of phishing. Background on phishing assaults, old ways of detecting them, and recent advances in intelligent phishing detection are all included in this article. It delves into several machine learning algorithms such as decision tree, LSTM, ANN, CNN, and RNN, as well as deep learning models like KNN, NB, and SVM. Also, natural language processing methods including word embedding, sentiment analysis, text categorization, and tokenization are explored with the aim of detecting phishing material. Presenting a comprehensive, precise, and up-to-the-minute phishing detection system is the ultimate goal of this study, which focuses on machine learning frameworks, performance indicators, present obstacles, and future research directions.</jats:p>",
-    "authors": [
-      "Dr. Sunita Dixit"
-    ],
-    "published": "2029",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.67805/jgrms.v2i9.156",
-    "pdf_url": null,
-    "doi": "10.67805/jgrms.v2i9.156",
-    "citations": 0,
-    "venue": "Journal of Global Research in Multidisciplinary Studies(JGRMS)",
-    "open_access": false,
-    "ai_summary": "ML, DL, and NLP are rapidly becoming into effective instruments for detecting both well-known and brand-new forms of phishing ."
-  },
-  {
     "id": "crossref:10.5705/ss.202025.0275",
     "title": "Efficient Learning of Sparse Differential Networks in Multi-Source Non-Paranormal Models",
     "abstract": "",
@@ -585,27 +585,6 @@
     "url": "https://doi.org/10.5705/ss.202025.0275",
     "pdf_url": null,
     "doi": "10.5705/ss.202025.0275",
-    "citations": 0,
-    "venue": "Statistica Sinica",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "crossref:10.5705/ss.202025.0314",
-    "title": "Transfer Learning for High-dimensional Regression with Compositional Covariates: Application to Microbiome Studies",
-    "abstract": "",
-    "authors": [
-      "Qinqin Hu",
-      "Xiaojing Luo",
-      "Chencheng Ma",
-      "Wang Zhou"
-    ],
-    "published": "2029",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.5705/ss.202025.0314",
-    "pdf_url": null,
-    "doi": "10.5705/ss.202025.0314",
     "citations": 0,
     "venue": "Statistica Sinica",
     "open_access": false,
@@ -668,6 +647,27 @@
     "url": "https://doi.org/10.5705/ss.202025.0230",
     "pdf_url": null,
     "doi": "10.5705/ss.202025.0230",
+    "citations": 0,
+    "venue": "Statistica Sinica",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "crossref:10.5705/ss.202025.0314",
+    "title": "Transfer Learning for High-dimensional Regression with Compositional Covariates: Application to Microbiome Studies",
+    "abstract": "",
+    "authors": [
+      "Qinqin Hu",
+      "Xiaojing Luo",
+      "Chencheng Ma",
+      "Wang Zhou"
+    ],
+    "published": "2029",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.5705/ss.202025.0314",
+    "pdf_url": null,
+    "doi": "10.5705/ss.202025.0314",
     "citations": 0,
     "venue": "Statistica Sinica",
     "open_access": false,
@@ -1032,223 +1032,29 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "pubmed:42919814",
-    "title": "Predicting diuretic response in acute heart failure: accurate forecasts, but better decisions?",
-    "abstract": "",
+    "id": "pubmed:42920721",
+    "title": "Recent developments in paraffin wax- sand/ C₃H₈O₂-H₂O nanomaterial under LTNE conditions using Levenberg-Marquardt method.",
+    "abstract": "The sand-paraffin wax/C₃H₈O₂-H₂O nanomaterial model for local thermal non-equilibrium (LTNE) circumstances has significant potential in advanced thermal energy storage and heat transfer systems. It is especially relevant for latent heat thermal energy storage units, solar thermal collectors, building energy management, electronic cooling, and industrial heat recovery systems, where paraffin wax acts as a phase change material and sand improves thermal conductivity and structural stability. The inclusion of Dufour and Soret properties allows for more accurate prediction of coupled mass and heat transmission in systems with significant temperature and concentration gradients, whereas the Levenberg-Marquardt method provides efficient and accurate prediction of the governing transport properties. The results of this model can help to build energy-efficient thermal storage devices, renewable energy technologies, and sustainable cooling and heating systems with increased thermal performance and operational reliability. This article provides a short analysis of the Dufour and Soret influence on a Parafln Wax- Sand/ C₃H₈O₂-H₂O nanomaterial under LTNE effects. The neural network with the Levenberg-Marquardt method (NN-LMA) is the foundation of an integrated numerical computing system. The liquid phase's thermal field increases as the inter-phase heat transmission characteristic increases, whereas the solid phase's thermal field declines.",
     "authors": [
-      "Tripti Rastogi",
-      "Guillaume Baudry"
+      "Muhammad Kamran",
+      "Nargis Khan",
+      "Saba Liaqat",
+      "Haitham M Hadidi",
+      "Gafur Abdulakimov",
+      "Munawar Abbas",
+      "Ali Hasan Ali",
+      "Mohamed Hafez"
     ],
-    "published": "2026-Oct-24",
+    "published": "2026-Dec",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42919814/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42920721/",
     "pdf_url": null,
-    "doi": "10.1093/eschf/xvag269",
+    "doi": "10.1016/j.mex.2026.104207",
     "citations": 0,
-    "venue": "ESC heart failure",
+    "venue": "MethodsX",
     "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "pubmed:42919795",
-    "title": "Asynchronous pediatric specialty care: eConsults and eVisits as tools to improve access, demand management, and care coordination.",
-    "abstract": "Timely access to pediatric subspecialty care remains a persistent challenge for health systems, families, primary care providers (PCPs), and specialists. Traditional referral pathways often require in-person visits for low acuity questions that can often be addressed through structured review of existing clinical information. Provider-to-provider electronic consults (eConsults) offer an asynchronous, electronic medical record-based model that enables PCPs to obtain pediatric specialty guidance without requiring an in-person subspecialty visit. Related asynchronous models, including patient-to-provider electronic visits (eVisits), may further expand low-acuity care capacity for low-acuity care. This article reviews eConsults and eVisits as demand-management strategies that improve access, reduce unnecessary referrals, support PCPs, preserve specialty capacity for higher-acuity patients, and promote more equitable specialty access. Drawing on published literature and implementation experience at Children's Hospital of Philadelphia (CHOP), this manuscript describes clinical applications, operational requirements, outcomes, implementation challenges, and future directions, including artificial intelligence-augmented guidance and evaluation of clinical outcomes beyond healthcare utilization.",
-    "authors": [
-      "Jillian L McKee",
-      "Gregory Lawton",
-      "Audrey Vitello",
-      "Kate Fuller"
-    ],
-    "published": "2026-Oct-23",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42919795/",
-    "pdf_url": null,
-    "doi": "10.1016/j.cppeds.2026.101978",
-    "citations": 0,
-    "venue": "Current problems in pediatric and adolescent health care",
-    "open_access": false,
-    "ai_summary": "Traditional referral pathways often require in-person visits for low acuity questions . Provider-to-provider electronic consults (eConsults) offer an asynchronous, electronic medical record-based model . This article reviews eConsults and eVisits as demand-management strategies that improve access ."
-  },
-  {
-    "id": "pubmed:42919771",
-    "title": "Influence of extraoral scan body design on the accuracy of 3-dimensional patient representation across professional and smartphone-based facial scanning technologies: A clinical study.",
-    "abstract": "Facial scans combined with intraoral scans using extraoral scan bodies as an aid to facilitate their digital integration enable the representation of 3-dimensional virtual patient models supporting virtual dentofacial analysis. However, the impact of extraoral scan body design on virtual patient representation compared with the conventional tooth-based approach remains unclear. The purpose of this observational clinical study was to evaluate the influence of extraoral scan body design on the accuracy (trueness and precision) of virtual patient representations by using professional and smartphone-based facial scanning technologies. Ten participants were scanned using 1 professional (MetiSmile) and 3 smartphone-based (EM3D, Heges, Qlone) facial scanners. For each scanner, 6 subgroups were created: 1 tooth-based and 5 extraoral scan body-based groups, each using a different extraoral scan body design (single sphere, single cube, 3-sphere, 3-cube, and rectangular). Scanning was repeated 12 times for each combination of scanner and digital integration technique. Prior to facial scanning, 4 fiducial landmarks were placed on each participant's face. Each facial model was superimposed onto the corresponding intraoral scan to generate a virtual patient representation. Twenty linear distances between the predefined facial landmarks and tooth-based reference points were measured manually with digital calipers to serve as control data, and the same distances were measured digitally using a metrology software program. Statistical analysis was conducted using 2-way ANOVA for pairwise comparisons (α=.05). Tooth-based digital integration resulted in virtual patient representation with increased trueness compared with that of the extraoral scan body workflow for both the professional and the EM3D smartphone-based facial scanner, regardless of the extraoral scan body design. The ESB design significantly affected the trueness of virtual patient representation across all evaluated face scanners (P<.05). Metismile resulted in significantly better trueness of virtual patient representation compared with all other evaluated face scanners (P<.05). For the Qlone and Heges smartphone-based software programs, extraoral scan body-based integration led to increased trueness compared with that of tooth-based integration (P<.05). To maximize the accuracy of virtual patient representations, clinicians should consider the impact of the digital integration technique, including the design of extraoral scan bodies in conjunction with facial scanning technology.",
-    "authors": [
-      "Panagiotis Ntovas",
-      "Ourania Ladia",
-      "Abdul B Barmak",
-      "Marta Revilla-León",
-      "Vincent Fehmer",
-      "Irena Sailer"
-    ],
-    "published": "2026-Oct-24",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42919771/",
-    "pdf_url": null,
-    "doi": "10.1016/j.prosdent.2026.09.026",
-    "citations": 0,
-    "venue": "The Journal of prosthetic dentistry",
-    "open_access": false,
-    "ai_summary": "Facial scans combined with intraoral scans using extraoral scan bodies as an aid to facilitate their digital integration . However, the impact of extraoral scans on virtual patient representation remains unclear ."
-  },
-  {
-    "id": "pubmed:42919768",
-    "title": "Influence of facial hair (clean-shaven, stubble, or beard) on the accuracy of 3-dimensional patient representation across four facial scanners: A clinical study.",
-    "abstract": "Facial scans, when combined with intraoral scans, enable the creation of 3-dimensional virtual patient models that support comprehensive dentofacial analysis. However, the increasing prevalence of facial hair among patients may interfere with image acquisition and stitching processes. The extent to which facial hair affects the accuracy of virtual patient representation remains unclear. The purpose of this observational clinical study was to evaluate the influence of facial hair (clean-shaven, stubble, or beard) and the use of a dedicated beard-scanning mode on the accuracy of virtual patient representations (VPRs) obtained using professional and smartphone-based facial scanners (FSs). Ten male participants were scanned using 3 professional (MetiSmile, Rayface, Morpheus) and 1 smartphone-based (Qlone) FSs. For each patient, facial scans were acquired under 2 conditions: with a full smile and with lip retraction (retracted smile). Prior to facial scanning, 4 fiducial landmarks were placed on predefined facial regions. The resulting facial datasets were subsequently aligned with intraoral scans to generate VPRs. A total of 20 linear distances between selected facial landmarks and tooth-based reference points were measured manually using digital calipers to establish reference values. The same measurements were then obtained digitally using a metrology software program. Statistical analysis was conducted using 2-way analysis of variance (ANOVA) for pairwise comparisons (α=.05). The effect of facial hair style on accuracy was significant only when VPRs were based on smiling facial scans and was influenced by the type of FS evaluated. VPRs derived from stubble facial hair using Metismile FS and from clean-shaven facial scans using Morpheus FS demonstrated significantly better trueness compared with the other evaluated professional and smartphone-based FSs. Facial hair style did not significantly affect accuracy, regardless of the FS used for VPRs based on retracted smile (P>.05). In contrast, facial hair style did not significantly affect accuracy when VPRs were based on retracted smile scans, regardless of the FS used (P>.05). For Metismile FS, activation of the dedicated beard scan mode improved trueness for full beard conditions but worsened trueness for stubble facial hair. Clinicians should consider the combined effect of facial hair style and the type of FS used during smiling facial scans, as it can influence the accuracy of VPR.",
-    "authors": [
-      "Panagiotis Ntovas",
-      "Ourania Ladia",
-      "Abdul B Barmak",
-      "Vincent Fehmer",
-      "Marta Revilla-León",
-      "Irena Sailer"
-    ],
-    "published": "2026-Oct-24",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42919768/",
-    "pdf_url": null,
-    "doi": "10.1016/j.prosdent.2026.09.025",
-    "citations": 0,
-    "venue": "The Journal of prosthetic dentistry",
-    "open_access": false,
-    "ai_summary": "The extent to which facial hair affects the accuracy of virtual patient representation remains unclear . For each patient, facial scans were acquired under 2 conditions: with a full smile and with lip retraction (retracted smile) Prior to facial scanning, 4 fiducial landmarks were placed on predefined facial landmarks ."
-  },
-  {
-    "id": "pubmed:42919730",
-    "title": "Examining reliance patterns on AI advice in medical imaging: a mixed-methods, randomised, crossover experiment.",
-    "abstract": "Artificial intelligence (AI) holds significant potential to support diagnostic decision making; however, the collaboration between clinicians and AI systems often does not surpass the performance of unaided humans or standalone AI. This study aimed to examine the effect of AI advice on diagnostic decision making among experts and novices, focusing on the occurrence of AI over-reliance and under-reliance and the potential mitigating effect of explainable AI. We used a mixed-methods, randomised, crossover experimental design. Participants (50 task experts [radiologists] and 75 novices [non-radiologist physicians and medical trainees]) were randomly assigned in equal proportions to one of six groups, which determined the order in which the three conditions were presented across the three sessions. In each session, participants read 50 head CT scans with or without the presence of an intracranial haemorrhage, under one of three experimental conditions: control, no AI prediction; basic AI advice, AI prediction without annotations; and explainable AI advice, AI prediction with scan annotations. 80% of cases with basic or explainable AI advice received correct advice, and 20% received incorrect advice. The main outcomes were diagnostic performance (the correct identification of intracranial haemorrhage), confidence in the diagnosis, case reading time, and AI advice usefulness ratings. We defined under-reliance as a final decision that did not align with correct AI advice, and over-reliance as a final decision that aligned with incorrect AI advice. All elements of the project were preregistered and are available on the project's Open Science Framework repository. Data were collected between Feb 16, 2023, and Aug 10, 2023. Both over-reliance on incorrect advice and under-reliance on correct advice occurred. Under-reliance was associated with high uncertainty and, in absolute terms, had a more detrimental effect on diagnostic performance than over-reliance. Correct explainable AI advice reduced under-reliance and improved performance (OR=1·84, p<0·0001, 95% CI 1·49-2·28) and confidence (b=0·15, p<0·0001, 0·09-0·22) compared with no advice, particularly when reviewing more difficult cases with intracranial haemorrhage. Correct explainable AI did not reduce reading time compared with the no-advice condition (b=-1·81, p=0·071, -3·78 to 0·16). Explainable AI was perceived as more useful than basic AI advice (b=0·12, p=0·0029, 0·04-0·20), especially among novices. The occurrence of both under-reliance and over-reliance highlights the need for efficient counterstrategies beyond classic explainable AI methods to foster appropriate reliance and synergy in AI-supported clinical decision-making. Volkswagen Foundation, Forum for Interdisciplinary Research, and German Federal Ministry of Education and Research.",
-    "authors": [
-      "Susanne Gaube",
-      "Ekaterina Jussupow",
-      "Eesha Kokje",
-      "Timo K Koch",
-      "Jowaria Khan",
-      "Elizabeth Bondi-Kelly",
-      "Andreas Schicho",
-      "Felipe C Kitamura",
-      "Timur Ezer",
-      "Juergen Mottok",
-      "Eva Lermer",
-      "Marzyeh Ghassemi",
-      "Errol Colak"
-    ],
-    "published": "2026-Oct-23",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42919730/",
-    "pdf_url": null,
-    "doi": "10.1016/j.landig.2026.101050",
-    "citations": 0,
-    "venue": "The Lancet. Digital health",
-    "open_access": false,
-    "ai_summary": "Study aimed to examine the effect of AI advice on diagnostic decision making among experts and novices . It looked at the occurrence of AI over-reliance and the potential mitigating effect of explainable AI ."
-  },
-  {
-    "id": "pubmed:42919725",
-    "title": "The Role of Artificial Intelligence in Oral Dysplasia and Oral Cancer.",
-    "abstract": "Oral epithelial dysplasia carries a variable risk of progression to oral squamous cell carcinoma, and conventional histopathologic grading cannot reliably predict the behavior of an individual lesion. Artificial intelligence offers a means of extracting additional information from data already obtained in routine care, including histologic images, and additional information regarding biomarkers, the tumor immune microenvironment, and genetic or epigenetic profiles. Machine learning and deep learning approaches are being investigated to estimate malignant transformation risk in dysplasia and to predict treatment response, recurrence, and survival in established oral cancer. These tools remain investigational and require external validation, but may support individualized surveillance and treatment decisions.",
-    "authors": [
-      "Steven J D Zbarsky",
-      "Andrew Y Lee",
-      "Chi T Viet"
-    ],
-    "published": "2026-Oct-23",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42919725/",
-    "pdf_url": null,
-    "doi": "10.1016/j.coms.2026.09.010",
-    "citations": 0,
-    "venue": "Oral and maxillofacial surgery clinics of North America",
-    "open_access": false,
-    "ai_summary": "Oral epithelial dysplasia carries a variable risk of progression to oral squamous cell carcinoma . Artificial intelligence offers a means of extracting additional information from data already obtained in routine care ."
-  },
-  {
-    "id": "pubmed:42919769",
-    "title": "Accuracy comparisons of intraoral scanning, stereophotogrammetry, and reverse scanning techniques.",
-    "abstract": "Evidence regarding the accuracy of reverse scanning, which has been developed as an alternative to intraoral scanning, is lacking. The purpose of this study was to compare the accuracy of intraoral scanning and reverse scanning methods using a single scanner and a stereophotogrammetry system for complete arch implant recording under in vitro conditions. A total of 45 recordings were made from an edentulous maxillary definitive cast with 6 multi-unit abutments using 3 different digital recording techniques (intraoral scanning, reverse scanning, and stereophotogrammetry) (n=15). Intraoral and reverse scanning were carried out using an intraoral scanner (Primescan; Dentsply Sirona), while stereophotogrammetry was performed with Oxo Core (Oxo Technology). The definitive cast was also scanned with a desktop optical scanner (inEos X5; Dentsply Sirona) to obtain the reference model. Linear and angular accuracy, comprising trueness and precision, were evaluated using a reverse-engineering software program (Geomagic Control X; 3D Systems). Trueness was calculated as the deviation from the reference model, and precision was defined as the deviation of repeated measurements from the group mean. Linear trueness was analyzed with the Kruskal-Wallis test and Dunn post hoc comparisons, and angular trueness was assessed using Welch ANOVA and Tamhane T2 post hoc testing. Precision was evaluated with the Kruskal-Wallis test. The significance level was set at α=.05. Significant differences were observed for linear trueness (P=.003), with reverse scanning exhibiting the highest trueness (39.1 µm), followed by intraoral scanning (69.7 µm) and stereophotogrammetry (102.8 µm). Angular trueness also differed significantly (P<.001), with intraoral scanning showing the highest trueness (0.12 ±0.07 degrees) and reverse scanning the lowest (0.67 ±0.16 degrees). Precision did not differ significantly for either linear or angular measurements (P=.082 and P=.058, respectively). Reverse scanning demonstrated the highest linear trueness but the lowest angular trueness among the tested techniques. Although all methods showed clinically acceptable linear accuracy, the angular accuracy of reverse scanning exceeded the clinically acceptable threshold, indicating that its clinical applicability may be limited.",
-    "authors": [
-      "Berkman Albayrak",
-      "İzim Türker Kader",
-      "Elif Nur Köroğlu",
-      "Alper Aktosun",
-      "Murat Kurt"
-    ],
-    "published": "2026-Oct-23",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42919769/",
-    "pdf_url": null,
-    "doi": "10.1016/j.prosdent.2026.09.015",
-    "citations": 0,
-    "venue": "The Journal of prosthetic dentistry",
-    "open_access": false,
-    "ai_summary": "The purpose of this study was to compare the accuracy of intraoral scanning and reverse scanning methods using a single scanner and a stereophotogrammetry system . A total of 45 recordings were made from an edentulous maxillary definitive cast with 6 multi-unit abutments using 3 different digital recording techniques ."
-  },
-  {
-    "id": "pubmed:42919724",
-    "title": "Navigating a New Era: Artificial Intelligence in Oral and Maxillofacial Surgery.",
-    "abstract": "",
-    "authors": [
-      "Richard Yuxiong Su",
-      "Jane Jingya Pu",
-      "John Adeoye"
-    ],
-    "published": "2026-Oct-23",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42919724/",
-    "pdf_url": null,
-    "doi": "10.1016/j.coms.2026.09.012",
-    "citations": 0,
-    "venue": "Oral and maxillofacial surgery clinics of North America",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "pubmed:42919804",
-    "title": "Computational Peptide Design: Emerging Concepts in Antibiotics, Immunity, and Evolution.",
-    "abstract": "Peptides are among the smallest functional biomolecules. Learning to systematically design their activity would revolutionize biology and medicine. Yet achieving this goal remains an open challenge. Recent advances in machine learning enable the discovery and design of peptides at scale, not only yielding new antibiotic agents effective against priority pathogens but also revealing unexpected roles for peptides in host immunity. In this review, we survey how artificial intelligence (AI) methods can be used to mine genomes, proteomes, and even ancient sequence data to uncover \"encrypted\" peptide antibiotics across the tree of life and over evolutionary time. We highlight emerging approaches for activity prediction, structure-activity modeling, sequence optimization, and de novo peptide generation, and we discuss workflows that tightly couple in silico design with high-throughput experimental validation. We further introduce the concept of \"encrypted immunity,\" in which ordinary proteins encode latent antimicrobial fragments, and we outline translational opportunities as well as remaining challenges on the path to bringing AI-designed peptides to the clinic.",
-    "authors": [
-      "Sihan Chen",
-      "Xiaoyu Wang",
-      "Fuyi Li",
-      "Octavio L Franco",
-      "Jiangning Song",
-      "Cesar de la Fuente-Nunez"
-    ],
-    "published": "2026-Oct",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42919804/",
-    "pdf_url": null,
-    "doi": "10.1146/annurev-micro-042524-035131",
-    "citations": 0,
-    "venue": "Annual review of microbiology",
-    "open_access": false,
-    "ai_summary": "Peptides are among the smallest functional biomolecules . Learning to systematically design their activity would revolutionize biology and medicine . But achieving this goal remains an open challenge ."
-  },
-  {
-    "id": "pubmed:42919800",
-    "title": "Microbiome Continuum: Connecting Environmental, Host-Associated and Engineered Microbiomes Through One Health and Artificial Intelligence.",
-    "abstract": "Microbiomes are increasingly understood as interconnected ecological systems spanning soil, water, plants, animals, humans and engineered environments rather than as isolated host-associated communities. This microbiome continuum provides a mechanistic perspective for One Health by linking microbial cells with the movement of metabolites, genes, signalling molecules and ecological functions across environmental boundaries. Here, we critically examined the biological processes that maintain this continuity, including dispersal, horizontal gene transfer (HGT), metabolic exchange, environmental exposure and host-microbe communication. We consider how climate change and anthropogenic disturbance reshape these interactions and influence antimicrobial resistance (AMR), non-communicable disease, ecosystem function and pathogen emergence. We further evaluate how artificial intelligence (AI), including machine learning and deep learning, can integrate multi-omics and longitudinal data, while emphasizing that predictive performance does not establish causality and that AI remains dependent on data quality, biological knowledge and experimental validation. Engineered microbiomes offer opportunities for targeted intervention, but ecological stability, biosafety, HGT and translational uncertainty remain important constraints. We propose a One Health Microbiome Intelligence Framework (OH-MIF) as a conceptual architecture for cross-domain integration, with emphasis on standardized data, causal validation, equitable participation and human oversight.",
-    "authors": [
-      "Mohammad Nazrul Islam Bhuiyan"
-    ],
-    "published": "2026-Oct",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42919800/",
-    "pdf_url": null,
-    "doi": "10.1111/1758-2229.70445",
-    "citations": 0,
-    "venue": "Environmental microbiology reports",
-    "open_access": false,
-    "ai_summary": "Microbiomes are increasingly understood as interconnected ecological systems spanning soil, water, plants, animals, humans and engineered environments . This microbiome continuum provides a mechanistic perspective for One Health by linking microbial cells with the movement of metabolites, genes, signalling molecules and ecological functions across"
+    "ai_summary": "The sand-paraffin wax/C₃H₂O nanomaterial model for local thermal non-equilibrium (LTNE) has significant potential in advanced thermal energy storage and heat transfer systems . The results of this model can help to build energy-efficient thermal storage devices, renewable energy technologies, and sustainable cooling and"
   },
   {
     "id": "openalex:W7118880740",
@@ -1912,23 +1718,69 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "openalex:W7219721761",
-    "title": "Neuromorphic Computing Architectures for Low-Power Edge Inference in IoT Applications",
+    "id": "openalex:W7223334198",
+    "title": "Gesture Control Virtual Mouse using Opencv and Mediapipe",
     "abstract": "",
     "authors": [
-      "Letahun Nemeon",
-      "P. Kharabi"
+      "Kajal Wavare"
     ],
-    "published": "2026-10-24",
+    "published": "2026-10-25",
     "source": "OpenAlex",
     "category": "index",
-    "url": "https://doi.org/10.31838/ece/03.02.08",
-    "pdf_url": "https://ecejournals.in/index.php/PECE/article/download/431/681",
-    "doi": "10.31838/ece/03.02.08",
+    "url": "https://doi.org/10.5281/zenodo.23588349",
+    "pdf_url": "https://doi.org/10.5281/zenodo.23588349",
+    "doi": "10.5281/zenodo.23588349",
     "citations": 0,
-    "venue": "Progress in Electronics and Communication Engineering",
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
     "open_access": true,
     "ai_summary": "No abstract available."
+  },
+  {
+    "id": "arxiv:2610.31668v1",
+    "title": "Reading, Writing, Sharing, and Interacting with the World through Video",
+    "abstract": "Video foundation models have advanced rapidly in understanding and generating visual sequences, while video world models seek to capture the underlying dynamics of the world they depict. Despite their different objectives, both concern the relationship between video observations and an evolving world. This survey adopts world modeling as a unifying lens for examining these developments. Viewing an observed video as a partial, lossy, and temporally ordered projection of a latent temporal world, we organize the literature around four complementary operations: reading infers world properties from observed video; writing synthesizes video from specified or learned world conditions; sharing integrates understanding and generation through common modeling mechanisms; and interacting predicts and updates world states under actions and evolving observations. This perspective distinguishes temporal coherence in observed or generated sequences from consistency in the underlying world state. Across tasks, representations, models, datasets, and benchmarks, we trace a shift in emphasis from clip-level recognition and perceptual fidelity toward persistent state, controllable evolution, physical and causal validity, and evaluation grounded in interaction and downstream decisions, and we distill the open challenges that follow.",
+    "authors": [
+      "Shengqiong Wu",
+      "Meng Luo",
+      "Bobo Li",
+      "Ziwei Liu",
+      "Shuicheng Yan",
+      "Ming-Hsuan Yang",
+      "Philip Torr",
+      "Hao Fei"
+    ],
+    "published": "2026-10-22",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2610.31668v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.31668v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "Video foundation models have advanced rapidly in understanding and generating visual sequences, while video world models seek to capture the underlying dynamics of the world they depict . This survey adopts world modeling as a unifying lens for examining these developments ."
+  },
+  {
+    "id": "arxiv:2610.31670v1",
+    "title": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success",
+    "abstract": "Robotic foundation models are typically evaluated through costly closed-loop rollouts, which motivates cheap offline proxies for model capability. The Platonic Representation Hypothesis (PRH) suggests that as representations improve, different modalities such as vision and language converge toward a shared statistical model of reality. We ask whether motion trajectories form another such modality: as embodied models become more capable, should their sensory representations converge toward the structure of physical motion? To examine this, we propose Sensorimotor Alignment ($S^2$), a training-free offline metric that measures how well a model's sensory representation aligns with the geometry of physical motion. We find that $S^2$ correlates positively with downstream robot task success across embodied model families, making it a low-cost offline proxy for prioritizing models before closed-loop evaluation. $S^2$ can also identify promising vision-language model (VLM) backbones even before costly fine-tuning into vision-language-action models (VLAs). Beyond this correlation, $S^2$ offers representation-level explanations for phenomena observed in VLAs and world action models (WAMs). With $S^2$, we extend PRH to embodied models and make sensorimotor alignment empirically measurable, offering insight into why an embodied model succeeds beyond its closed-loop success rate.",
+    "authors": [
+      "Yunfei Xie",
+      "Howard H. Qian",
+      "Shiyi Lan",
+      "Kaiyu Hang",
+      "Chen Wei"
+    ],
+    "published": "2026-10-22",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2610.31670v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.31670v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "The Platonic Representation Hypothesis suggests that as representations improve, different modalities such as vision and language converge toward a shared statistical model of reality . We propose Sensorimotor Alignment ($S^2$) to measure how well a model's sensory representation aligns with the geometry of physical motion ."
   },
   {
     "id": "arxiv:2610.31667v1",
@@ -1952,26 +1804,25 @@
     "ai_summary": "Test-time scaling has emerged as a key inference strategy for reasoning models . A model generates a large number of candidate solutions in the hope of finding at least one correct solution ."
   },
   {
-    "id": "arxiv:2610.31670v1",
-    "title": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success",
-    "abstract": "Robotic foundation models are typically evaluated through costly closed-loop rollouts, which motivates cheap offline proxies for model capability. The Platonic Representation Hypothesis (PRH) suggests that as representations improve, different modalities such as vision and language converge toward a shared statistical model of reality. We ask whether motion trajectories form another such modality: as embodied models become more capable, should their sensory representations converge toward the structure of physical motion? To examine this, we propose Sensorimotor Alignment ($S^2$), a training-free offline metric that measures how well a model's sensory representation aligns with the geometry of physical motion. We find that $S^2$ correlates positively with downstream robot task success across embodied model families, making it a low-cost offline proxy for prioritizing models before closed-loop evaluation. $S^2$ can also identify promising vision-language model (VLM) backbones even before costly fine-tuning into vision-language-action models (VLAs). Beyond this correlation, $S^2$ offers representation-level explanations for phenomena observed in VLAs and world action models (WAMs). With $S^2$, we extend PRH to embodied models and make sensorimotor alignment empirically measurable, offering insight into why an embodied model succeeds beyond its closed-loop success rate.",
+    "id": "arxiv:2610.31662v1",
+    "title": "Reliable AI-Assisted Decisions via Selective Auditing",
+    "abstract": "We consider online monitoring of an AI system that produces a sequence of decisions. At each round, the system outputs a proposed decision together with a confidence score estimating the trustworthiness of the decision. The decision and confidence score need not be produced by the same model: for example, one agent may propose a decision, while a separate verifier agent evaluates it and outputs a correctness or safety score. Based on this information, we must decide whether to accept the AI decision automatically or consult an expert, such as a human auditor, who reviews the proposal and either accepts or corrects it. We formulate this task as an online constrained optimization problem in which the goal is to minimize the frequency of expert auditing while guaranteeing that the fraction of AI errors that go unaudited stays below a user-defined threshold. We derive a family of algorithms with provable error-control guarantees with no assumptions, including a method that is optimally efficient: it asymptotically attains the best achievable auditing rate for both adversarial and i.i.d. data streams. Experiments on screening harmful requests to large language models, qualitative text annotation, and data labeling show that our methods achieve valid error control in practice while substantially reducing the need for human auditing compared to baselines.",
     "authors": [
-      "Yunfei Xie",
-      "Howard H. Qian",
-      "Shiyi Lan",
-      "Kaiyu Hang",
-      "Chen Wei"
+      "Isaac Gibbs",
+      "Elise L. Han",
+      "Ryan J. Tibshirani",
+      "Tijana Zrnic"
     ],
     "published": "2026-10-22",
     "source": "arXiv",
     "category": "preprint",
-    "url": "https://arxiv.org/abs/2610.31670v1",
-    "pdf_url": "https://arxiv.org/pdf/2610.31670v1",
+    "url": "https://arxiv.org/abs/2610.31662v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.31662v1",
     "doi": null,
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "The Platonic Representation Hypothesis suggests that as representations improve, different modalities such as vision and language converge toward a shared statistical model of reality . We propose Sensorimotor Alignment ($S^2$) to measure how well a model's sensory representation aligns with the geometry of physical motion ."
+    "ai_summary": "We consider online monitoring of an AI system that produces a sequence of decisions . At each round, the system outputs a proposed decision together with a confidence score estimating the trustworthiness of the decision . The decision and confidence score need not be produced by the same model ."
   },
   {
     "id": "arxiv:2610.31663v1",
@@ -2016,52 +1867,6 @@
     "venue": "arXiv preprint",
     "open_access": true,
     "ai_summary": "FlexPart is a unified image-to-3D part generation framework that supports variable-granularity geometric conditions within a single model . FlexPart reduces Part CD by 16.6% relative to TripoSG + SAM3D and by 10.5% Relative to OmniPart, while maintaining competitive whole-mesh quality ."
-  },
-  {
-    "id": "arxiv:2610.31662v1",
-    "title": "Reliable AI-Assisted Decisions via Selective Auditing",
-    "abstract": "We consider online monitoring of an AI system that produces a sequence of decisions. At each round, the system outputs a proposed decision together with a confidence score estimating the trustworthiness of the decision. The decision and confidence score need not be produced by the same model: for example, one agent may propose a decision, while a separate verifier agent evaluates it and outputs a correctness or safety score. Based on this information, we must decide whether to accept the AI decision automatically or consult an expert, such as a human auditor, who reviews the proposal and either accepts or corrects it. We formulate this task as an online constrained optimization problem in which the goal is to minimize the frequency of expert auditing while guaranteeing that the fraction of AI errors that go unaudited stays below a user-defined threshold. We derive a family of algorithms with provable error-control guarantees with no assumptions, including a method that is optimally efficient: it asymptotically attains the best achievable auditing rate for both adversarial and i.i.d. data streams. Experiments on screening harmful requests to large language models, qualitative text annotation, and data labeling show that our methods achieve valid error control in practice while substantially reducing the need for human auditing compared to baselines.",
-    "authors": [
-      "Isaac Gibbs",
-      "Elise L. Han",
-      "Ryan J. Tibshirani",
-      "Tijana Zrnic"
-    ],
-    "published": "2026-10-22",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2610.31662v1",
-    "pdf_url": "https://arxiv.org/pdf/2610.31662v1",
-    "doi": null,
-    "citations": 0,
-    "venue": "arXiv preprint",
-    "open_access": true,
-    "ai_summary": "We consider online monitoring of an AI system that produces a sequence of decisions . At each round, the system outputs a proposed decision together with a confidence score estimating the trustworthiness of the decision . The decision and confidence score need not be produced by the same model ."
-  },
-  {
-    "id": "arxiv:2610.31668v1",
-    "title": "Reading, Writing, Sharing, and Interacting with the World through Video",
-    "abstract": "Video foundation models have advanced rapidly in understanding and generating visual sequences, while video world models seek to capture the underlying dynamics of the world they depict. Despite their different objectives, both concern the relationship between video observations and an evolving world. This survey adopts world modeling as a unifying lens for examining these developments. Viewing an observed video as a partial, lossy, and temporally ordered projection of a latent temporal world, we organize the literature around four complementary operations: reading infers world properties from observed video; writing synthesizes video from specified or learned world conditions; sharing integrates understanding and generation through common modeling mechanisms; and interacting predicts and updates world states under actions and evolving observations. This perspective distinguishes temporal coherence in observed or generated sequences from consistency in the underlying world state. Across tasks, representations, models, datasets, and benchmarks, we trace a shift in emphasis from clip-level recognition and perceptual fidelity toward persistent state, controllable evolution, physical and causal validity, and evaluation grounded in interaction and downstream decisions, and we distill the open challenges that follow.",
-    "authors": [
-      "Shengqiong Wu",
-      "Meng Luo",
-      "Bobo Li",
-      "Ziwei Liu",
-      "Shuicheng Yan",
-      "Ming-Hsuan Yang",
-      "Philip Torr",
-      "Hao Fei"
-    ],
-    "published": "2026-10-22",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2610.31668v1",
-    "pdf_url": "https://arxiv.org/pdf/2610.31668v1",
-    "doi": null,
-    "citations": 0,
-    "venue": "arXiv preprint",
-    "open_access": true,
-    "ai_summary": "Video foundation models have advanced rapidly in understanding and generating visual sequences, while video world models seek to capture the underlying dynamics of the world they depict . This survey adopts world modeling as a unifying lens for examining these developments ."
   },
   {
     "id": "arxiv:2610.31659v1",
@@ -3015,6 +2820,195 @@
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "The paper extends the applicability of machine learning to novel and understudied materials . It uses the PYTHIA (Probabilistic Yet Transferable Hierarchical Interaction Architecture) framework . The resulting model is used as a surrogate model to help us"
+    "ai_summary": "The paper extends the applicability of machine learning to novel and understudied materials . It uses the PYTHIA (Probabilistic Yet Transferable Hierarchical Interaction Architecture) framework . The resulting model is used as a surrogate model for a surrogate ."
+  },
+  {
+    "id": "pubmed:42920761",
+    "title": "A systematic benchmarking pipeline for demand forecasting and inventory-aware supply chain decision support.",
+    "abstract": "Demand forecasting has been shown to be one of the key facilitators of successful supply chain and inventory management. In this work, we introduce a benchmarking pipeline for demand forecasting in retail that includes data preprocessing, comparative benchmarking of different machine learning/deep learning (ML/DL) approaches, and decision-focused evaluation. Unlike other works that compare predictive performance of ML/DL models and end there, our pipeline links reproducible ML/DL benchmarking and decision-focused evaluation through cost of inventory management in order to derive costs from forecasting error/bias. We also present a scalability study on another retail dataset. Several standard forecasting models, such as Convolutional Neural Network (CNN), Long Short-Term Memory (LSTM), Gated Recurrent Units (GRU), CNN-LSTM, and XGBoost, are compared using a unified experimental pipeline on benchmark retail datasets. The experimental results reveal that while the deep learning models efficiently identify temporal dependencies, tree-based ensemble algorithms, especially XGBoost, consistently deliver better results in terms of forecasting accuracy on structured retail demand datasets. A scalability case study on the Rossmann Store Sales benchmark evaluates the top-performing model on a larger, richer dataset. Moreover, the study shows the connection between forecast accuracy and the subsequent inventory performance by performing a cost-based evaluation of inventory outcomes of forecasts made using various models.",
+    "authors": [
+      "Suleiman Ali Alsaif"
+    ],
+    "published": "2026",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42920761/",
+    "pdf_url": null,
+    "doi": "10.3389/frai.2026.1936360",
+    "citations": 0,
+    "venue": "Frontiers in artificial intelligence",
+    "open_access": false,
+    "ai_summary": "Demand forecasting has been shown to be one of the key facilitators of successful supply chain and inventory management . In this work, we introduce a benchmarking pipeline for demand forecasting in retail that includes data preprocessing, comparative benchmarking of different machine learning/deep learning approaches, and decision-focused evaluation ."
+  },
+  {
+    "id": "pubmed:42920758",
+    "title": "Artificial intelligence applications in exercise and physical activity for public health: a scoping review.",
+    "abstract": "Physical activity and exercise are important components of public health strategies for preventing and managing chronic conditions and promoting health and quality of life. Advances in artificial intelligence (AI) have broadened its applications in this field, from personalized interventions and monitoring to risk prediction, professional decision support, and planning. This scoping review aimed to map the literature on AI-based exercise and physical activity applications from a public health perspective, characterize their functional roles, and examine the scope and maturity of the research. This scoping review followed the PRISMA Extension for Scoping Reviews (PRISMA-ScR) and JBI methodological guidance. Web of Science, Scopus, and PubMed were searched for eligible studies published between 2015 and 2025. Two Reviewers independently conducted title and abstract screening and full-text assessment, resolving disagreements by consensus. Of 612 records identified, 601 remained after duplicate removal and 24 studies met the eligibility criteria. The included studies were characterized by publication year, country, study design, AI technology and function, and stage of evidence development. Key findings were synthesized across the identified functional categories. Among the included studies, publication activity was highest in 2024, while China accounted for the largest number of studies. Five functional categories were identified: Intervention Delivery or Adaptation, Monitoring or Assessment, Prediction or Risk Stratification, Professional Decision Support, and System and Environmental Planning. Research maturity differed across these functions. Technical development and validation studies often reported promising performance, whereas intervention findings were less consistent and did not always show additional benefit over comparison conditions. Many studies remained at the model-development, technical-validation, feasibility, or pilot stage. AI is being used across several functions in exercise and physical activity, although evidence of consistent clinical or public health benefit remains limited. Current findings support its complementary use in personalization, monitoring, prediction, and professional decision support; the available findings do not justify autonomous clinical decision-making. Further controlled studies, external validation, longer follow-up, and real-world evaluation are needed to establish whether technical capabilities translate into sustained physical activity and meaningful health outcomes. Implementation should also account for professional oversight, data protection, and the needs of diverse populations.",
+    "authors": [
+      "Sinem Parlakyıldız",
+      "Funda Koçak"
+    ],
+    "published": "2026",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42920758/",
+    "pdf_url": null,
+    "doi": "10.3389/fpubh.2026.1888805",
+    "citations": 0,
+    "venue": "Frontiers in public health",
+    "open_access": false,
+    "ai_summary": "Advances in artificial intelligence (AI) have broadened its applications in this field . This scoping review aimed to map the literature on AI-based exercise and physical activity applications from a public health perspective ."
+  },
+  {
+    "id": "pubmed:42920736",
+    "title": "Establishing standardized evaluation protocols for peptide-target interaction prediction: the PTI-TAPE consensus framework eDelphi.",
+    "abstract": "Computational peptide-target interaction (PTI) prediction has advanced rapidly as a tool for drug discovery, yet the field lacks agreed evaluation standards. Discrepancies in metrics, negative sampling strategies, and dataset construction across publications currently render cross-study comparisons methodologically intractable, ultimately impeding the clinical translation of therapeutic peptides. To resolve this, we present PTI-TAPE (Peptide-Target Interaction-Tasks Assessing Peptide Engagement), a standardised benchmarking framework developed via a structured three-round eDelphi consensus study with 15 international experts spanning computational biology, machine learning, and regulatory science. Operating under a robust consensus threshold (>80% agreement), the panel established 26 definitive standards across eight domains, governed by the new STRIDE (Standardisation, Transparency, Representativeness, Integration, Discovery, Evidence) framework. Key outcomes include mandating specific primary metrics for affinity and structure, enforcing a tiered negative sampling hierarchy that prioritizes experimental non-binders, and requiring mandatory temporal dataset splits. By providing a unified reporting checklist, benchmark specifications, and a biennial governance structure, PTI-TAPE ensures reproducible evaluation and fair method comparison, bridging the gap between computational PTI predictions and genuine therapeutic benefit.",
+    "authors": [
+      "William J Waldock",
+      "Guangshun Wang",
+      "Ara Darzi",
+      "Cesar de la Fuente-Nunez",
+      "Hutan Ashrafian",
+      ""
+    ],
+    "published": "2026",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42920736/",
+    "pdf_url": null,
+    "doi": "10.3389/fbinf.2026.1894725",
+    "citations": 0,
+    "venue": "Frontiers in bioinformatics",
+    "open_access": false,
+    "ai_summary": "Computational peptide-target interaction (PTI) prediction has advanced rapidly as a tool for drug discovery, yet the field lacks agreed evaluation standards . Discrepancies in metrics, negative sampling strategies, and dataset construction across publications currently render cross-study comparisons methodologically intractable, ultimately impeding the clinical translation of"
+  },
+  {
+    "id": "pubmed:42920756",
+    "title": "Zones of (un)certainty: studying the temporal stabilization of ground truths for medical AI.",
+    "abstract": "Medical data annotation is a critical yet contingent process that (re)configures ambiguous medical decisions and data representations into ground truths for artificial intelligence (AI). Extending critical data, AI, and STS research on uncertainty in data annotation, this article develops the concept of ",
+    "authors": [
+      "Dieuwertje Luitse",
+      "Tobias Blanke"
+    ],
+    "published": "2026",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42920756/",
+    "pdf_url": null,
+    "doi": "10.1007/s00146-026-03228-x",
+    "citations": 0,
+    "venue": "AI & society",
+    "open_access": false,
+    "ai_summary": "Medical data annotation is a critical yet contingent process that (re-configures ambiguous medical decisions and data representations into ground truths for artificial intelligence (AI) This article develops the concept of    the concept of uncertainty in data annotation ."
+  },
+  {
+    "id": "pubmed:42920734",
+    "title": "Sustainable high performance computing in the UK: a position paper on public investment, accountability, and the path to net zero.",
+    "abstract": "The UK invests significantly in High-Performance Computing (HPC), yet has no coherent national strategy that addresses sustainability, accountability, or long-term infrastructure planning. This paper proposes and promotes three key messages: first, that the return on public investment cannot be assessed without consistent public reporting on utilisation, research outputs, and cost-effectiveness for all publicly funded HPC systems; second, that publicly funded HPC systems should be subject to mandatory, standardised reporting on energy consumption, carbon emissions, with information on what happens when a system is decommissioned; and third, that the conflation of AI and HPC in UK policy is a strategic error. Instead, HPC is the underpinning infrastructure, and AI is one of many types of applications using that infrastructure, alongside numerical modelling and simulation. Treating AI and HPC as separate, competing workloads risks under-serving the wider research community that depends upon that shared infrastructure, resulting in a weakening rather than strengthening of the UK's national compute capability.",
+    "authors": [
+      "Sylvain Laizet",
+      "Sudhir Rama Murthy",
+      "Pelin Demirel",
+      "Peter Childs",
+      "Evangelos Danopoulos",
+      "John Aston",
+      "Nick Brown",
+      "Michèle Weiland"
+    ],
+    "published": "2026",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42920734/",
+    "pdf_url": null,
+    "doi": "10.1007/s11227-026-08946-z",
+    "citations": 0,
+    "venue": "The Journal of supercomputing",
+    "open_access": false,
+    "ai_summary": "The UK invests significantly in High-Performance Computing (HPC) but has no coherent national strategy that addresses sustainability, accountability, or long-term infrastructure planning . This paper proposes and promotes three key messages: the return on public investment cannot be assessed without consistent public reporting on utilisation, research outputs, and cost-effectiveness"
+  },
+  {
+    "id": "pubmed:42920710",
+    "title": "Phenotyping of AMI patients using machine learning: integration of clinical, metabolic, and behavioral features to identify high-risk \"frailty-inflammation\" phenotype.",
+    "abstract": "Prognosis among patients with acute myocardial infarction (AMI) shows substantial heterogeneity, making precise identification of high-risk phenotypes essential for improving long-term outcomes. Machine learning techniques were used to identify such phenotypes by integrating multidimensional data and to examine their association with major adverse cardiovascular events (MACE). A total of 1,139 patients with AMI were enrolled from the First Affiliated Hospital of Harbin Medical University between March 2023 and June 2024. Multidimensional data, including clinical features, metabolic characteristics, and behavioral patterns, were collected. Phenotyping was performed using a hierarchical clustering algorithm. Associations between derived phenotypes and 1-year MACE were evaluated using Kaplan-Meier survival analysis and multivariable Cox regression models. Shapley Additive Explanations (SHAP) values derived from an XGBoost model were used to quantify the contributions of individual variables to cluster assignment. Hierarchical clustering identified two clinical phenotypes with differing pathophysiological characteristics. Cluster 2 ( Integration of multidimensional data using machine learning identifies a high-risk \"frailty-inflammation\" phenotype in patients with AMI. This phenotype offers a comprehensive biological-functional-behavioral framework for risk stratification and may support early and precise clinical interventions to reduce long-term adverse outcomes. However, despite its potential clinical value, the current evidence is insufficient to support direct translation into routine clinical practice until independent cohort validation is performed. Future multi-center studies are warranted to confirm the robustness and generalizability of this approach, and to prospectively evaluate whether phenotype-guided intervention strategies can improve long-term outcomes.",
+    "authors": [
+      "Yisha Zhao",
+      "Wendi Ding",
+      "Hongyi Li",
+      "Songqi Guo",
+      "Yuying Fan"
+    ],
+    "published": "2026",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42920710/",
+    "pdf_url": null,
+    "doi": "10.3389/fcvm.2026.1881280",
+    "citations": 0,
+    "venue": "Frontiers in cardiovascular medicine",
+    "open_access": false,
+    "ai_summary": "Machine learning techniques were used to identify high-risk phenotypes . A total of 1,139 patients with acute myocardial infarction (AMI) were enrolled from the First Affiliated Hospital of Harbin Medical University ."
+  },
+  {
+    "id": "pubmed:42920702",
+    "title": "Editorial: The impact of sex and gender on disease diagnostics in global health.",
+    "abstract": "",
+    "authors": [
+      "Elena Marbán-Castro",
+      "Xiaohui Sem",
+      "Elena Dacal",
+      "Maria Cristina Manzanares-Céspedes"
+    ],
+    "published": "2026",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42920702/",
+    "pdf_url": null,
+    "doi": "10.3389/fgwh.2026.1969320",
+    "citations": 0,
+    "venue": "Frontiers in global women's health",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "pubmed:42920691",
+    "title": "Explainable fine-grained feature enhancement framework for strawberry diagnostic decision making.",
+    "abstract": "As the number of smart agricultural automation systems increases, accurate disease diagnosis is essential to maximize production efficiency. However, early-stage symptoms of strawberry diseases (e.g., Tipburn, Phytophthora blight, and Fusarium wilt) often manifest as low-contrast micro-symptoms that are visually similar to the inherent complex texture of strawberry leaves, leading to high technical difficulties in achieving an accurate diagnosis. Furthermore, providing an explanation for the diagnosis remains challenging, which hinders trust in field applications. We present EN-FDEA, a deep learning framework that integrates an EfficientNetV2 backbone with a Convolutional Block Attention Module (CBAM) and a Fine-grained Discriminative Enhancement (FDEA) module combining depthwise separable convolution, parallel feature amplification, and channel recalibration, and we evaluate it together with a provenance audit of the corpus on which it is trained. Parsing the acquisition metadata embedded in every file name showed that the 1,000 abnormal images of each disease originate from only 33-73 individual plants, and that normal and abnormal images share no greenhouse; under the image-level cross-validation used in the original design, 91.9-99.8% of abnormal plants appear in both the training and the test partition of a fold. All results reported here are therefore obtained under plant-disjoint cross-validation with five random seeds, with a site-disjoint arm as the strictest comparison. Removing plant leakage lowers balanced accuracy by up to 0.082 and removing site overlap by up to 0.173. Under the leakage-free protocol, EN-FDEA performs comparably to, and not reliably better than, its EfficientNetV2 backbone (mean paired balanced-accuracy differences of -0.013 to +0.012 across datasets and conditions); the only Holm-corrected significant advantage is Phytophthora blight under overexposure (+0.012, p = 0.047). Forensic analysis further shows that the elevated performance previously observed under synthetic overexposure is a property of the transform: a logistic-regression classifier using only global exposure statistics reaches balanced accuracies of 0.81-0.92, and models trained on original images transfer poorly to synthetic overexposure while transferring well to genuinely over-illuminated frames selected from the corpus itself. We report explanation faithfulness, calibration, and measured deployment cost, and we state where the corpus structure, rather than the model, bounds what can be concluded. Code, split definitions, and per-image predictions are released so that every number can be regenerated.",
+    "authors": [
+      "Hye-Young Wang",
+      "Seoung-Ho Choi"
+    ],
+    "published": "2026",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42920691/",
+    "pdf_url": null,
+    "doi": "10.3389/fpls.2026.1941698",
+    "citations": 0,
+    "venue": "Frontiers in plant science",
+    "open_access": false,
+    "ai_summary": "Early-stage symptoms of strawberry diseases often manifest as low-contrast micro-symptoms that are visually similar to the inherent complex texture of strawberry leaves . We present EN-FDEA, a deep learning framework that integrates an EfficientNetV2 backbone with a Convolutional Block Attention Module ."
+  },
+  {
+    "id": "pubmed:42920683",
+    "title": "Association of metabolic syndrome and its components with knee osteoarthritis in the older adults of Amirkola City.",
+    "abstract": "Knee osteoarthritis is a very common disease that leads to mobility disabilities in older adults. In recent years, a link between metabolic syndrome and knee osteoarthritis has been reported. However, there are conflicting findings regarding this association. Our study was conducted to investigate the relationship between metabolic syndrome and its components and knee osteoarthritis in the older adults of Amirkola City. In this case-control study, the diagnosis of knee osteoarthritis was based on the EULAR criteria. 590 older adults were examined in two groups of older adults with and without knee osteoarthritis. Both groups were compared on the frequency of metabolic syndrome and its components. Also, the variables of quadriceps femoris muscle strength, body mass index, physical activity level, and smoking were investigated as control variables between the two groups. Data was analyzed using SPSS 20 software and statistical tests of chi-square, t-test, and logistic regression. A significance level of p< 0.05 was considered. In this study, there was no significant relationship between knee osteoarthritis and metabolic syndrome (OR = 1.38, CI = 0.98-1.93, P = .06). Among the components of metabolic syndrome, waist circumference (P = 0.004) and blood pressure (P = 0.007) had a significant relationship with knee osteoarthritis. The variables of quadriceps femoris muscle strength, physical activity level, and age had a significant effect on knee osteoarthritis. These findings show that knee osteoarthritis has no significant relationship with metabolic syndrome and its components, except for blood pressure and waist circumference.",
+    "authors": [
+      "Seyed Mahdi Hosseinpour Musavi",
+      "Seyed Reza Hosseini",
+      "Neda Meftah",
+      "Khodabakhsh Javanshir",
+      "Ali Bijani",
+      "Reza Ghadimi"
+    ],
+    "published": "2026",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42920683/",
+    "pdf_url": null,
+    "doi": "10.22088/cjim.17.3.633",
+    "citations": 0,
+    "venue": "Caspian journal of internal medicine",
+    "open_access": false,
+    "ai_summary": "Knee osteoarthritis is a very common disease that leads to mobility disabilities in older adults . In recent years, a link between metabolic syndrome and knee osteoarritis has been reported ."
   }
 ]
