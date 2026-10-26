@@ -124,22 +124,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.3998/mjcsl.8122",
-    "title": "Title Pending 8122",
-    "abstract": "",
-    "authors": [],
-    "published": "2036",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.3998/mjcsl.8122",
-    "pdf_url": null,
-    "doi": "10.3998/mjcsl.8122",
-    "citations": 0,
-    "venue": "Michigan Journal of Community Service Learning",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
     "id": "crossref:10.3998/mjcsl.11105",
     "title": "Title Pending 11105",
     "abstract": "",
@@ -156,18 +140,18 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.21825/ewopinpractice.94702",
-    "title": "Title Pending 94702",
+    "id": "crossref:10.3998/mjcsl.8122",
+    "title": "Title Pending 8122",
     "abstract": "",
     "authors": [],
-    "published": "2035",
+    "published": "2036",
     "source": "Crossref",
     "category": "index",
-    "url": "https://doi.org/10.21825/ewopinpractice.94702",
+    "url": "https://doi.org/10.3998/mjcsl.8122",
     "pdf_url": null,
-    "doi": "10.21825/ewopinpractice.94702",
+    "doi": "10.3998/mjcsl.8122",
     "citations": 0,
-    "venue": "EWOP in Practice",
+    "venue": "Michigan Journal of Community Service Learning",
     "open_access": false,
     "ai_summary": "No abstract available."
   },
@@ -185,6 +169,22 @@
     "citations": 0,
     "venue": "EWOP in Practice",
     "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "crossref:10.21825/ewopinpractice.94702",
+    "title": "Title Pending 94702",
+    "abstract": "",
+    "authors": [],
+    "published": "2035",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.21825/ewopinpractice.94702",
+    "pdf_url": "https://openjournals.ugent.be/ewopinpractice/article/id/94702/download/pdf/",
+    "doi": "10.21825/ewopinpractice.94702",
+    "citations": 0,
+    "venue": "EWOP in Practice",
+    "open_access": true,
     "ai_summary": "No abstract available."
   },
   {
@@ -220,22 +220,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.3998/mjcsl.4120",
-    "title": "Title Pending 4120",
-    "abstract": "",
-    "authors": [],
-    "published": "2033",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.3998/mjcsl.4120",
-    "pdf_url": null,
-    "doi": "10.3998/mjcsl.4120",
-    "citations": 0,
-    "venue": "Michigan Journal of Community Service Learning",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
     "id": "crossref:10.3998/mjcsl.3643",
     "title": "Title Pending 3643",
     "abstract": "",
@@ -246,6 +230,22 @@
     "url": "https://doi.org/10.3998/mjcsl.3643",
     "pdf_url": null,
     "doi": "10.3998/mjcsl.3643",
+    "citations": 0,
+    "venue": "Michigan Journal of Community Service Learning",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "crossref:10.3998/mjcsl.4120",
+    "title": "Title Pending 4120",
+    "abstract": "",
+    "authors": [],
+    "published": "2033",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.3998/mjcsl.4120",
+    "pdf_url": null,
+    "doi": "10.3998/mjcsl.4120",
     "citations": 0,
     "venue": "Michigan Journal of Community Service Learning",
     "open_access": false,
@@ -376,6 +376,24 @@
     "ai_summary": "No abstract available."
   },
   {
+    "id": "crossref:10.56251/watu4873",
+    "title": "Machine Learning Application for SAIs",
+    "abstract": "",
+    "authors": [
+      "Tiare Rivera"
+    ],
+    "published": "2030",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.56251/watu4873",
+    "pdf_url": null,
+    "doi": "10.56251/watu4873",
+    "citations": 0,
+    "venue": "International Journal of Government Auditing",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
     "id": "crossref:10.56251/yxek7242",
     "title": "Evolution and Applications of Artificial Intelligence in SAIs",
     "abstract": "",
@@ -392,24 +410,6 @@
     "url": "https://doi.org/10.56251/yxek7242",
     "pdf_url": null,
     "doi": "10.56251/yxek7242",
-    "citations": 0,
-    "venue": "International Journal of Government Auditing",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "crossref:10.56251/watu4873",
-    "title": "Machine Learning Application for SAIs",
-    "abstract": "",
-    "authors": [
-      "Tiare Rivera"
-    ],
-    "published": "2030",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.56251/watu4873",
-    "pdf_url": null,
-    "doi": "10.56251/watu4873",
     "citations": 0,
     "venue": "International Journal of Government Auditing",
     "open_access": false,
@@ -554,24 +554,6 @@
     "ai_summary": "The aim of this work is to develop and investigate a hybrid approach to network attack detection based on signature-based analysis and intelligent machine learning methods . The practical significance of the study lies in the possibility of deploying the proposed architecture in real corporate networks ."
   },
   {
-    "id": "crossref:10.67805/jgrms.v2i9.156",
-    "title": "A Review of Phishing Detection Techniques Using Machine Learning and Natural Language Processing",
-    "abstract": "<jats:p>The goal of phishing attacks, which rank high among cyber risks, is to steal sensitive information (such as login passwords, financial data, and more) from unsuspecting people and companies. Blacklist, whitelist, rule, heuristic, and signature-based detection methods are no longer suitable due to the rising sophistication of phishing schemes. As a result, ML, DL, and NLP are rapidly becoming into effective instruments for detecting both well-known and brand-new forms of phishing. Background on phishing assaults, old ways of detecting them, and recent advances in intelligent phishing detection are all included in this article. It delves into several machine learning algorithms such as decision tree, LSTM, ANN, CNN, and RNN, as well as deep learning models like KNN, NB, and SVM. Also, natural language processing methods including word embedding, sentiment analysis, text categorization, and tokenization are explored with the aim of detecting phishing material. Presenting a comprehensive, precise, and up-to-the-minute phishing detection system is the ultimate goal of this study, which focuses on machine learning frameworks, performance indicators, present obstacles, and future research directions.</jats:p>",
-    "authors": [
-      "Dr. Sunita Dixit"
-    ],
-    "published": "2029",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.67805/jgrms.v2i9.156",
-    "pdf_url": null,
-    "doi": "10.67805/jgrms.v2i9.156",
-    "citations": 0,
-    "venue": "Journal of Global Research in Multidisciplinary Studies(JGRMS)",
-    "open_access": false,
-    "ai_summary": "ML, DL, and NLP are rapidly becoming into effective instruments for detecting both well-known and brand-new forms of phishing . Background on phishing assaults and old ways of detecting them are all included in this article ."
-  },
-  {
     "id": "crossref:10.5705/ss.202025.0275",
     "title": "Efficient Learning of Sparse Differential Networks in Multi-Source Non-Paranormal Models",
     "abstract": "",
@@ -603,11 +585,11 @@
     "source": "Crossref",
     "category": "index",
     "url": "https://doi.org/10.5705/ss.202025.0406",
-    "pdf_url": null,
+    "pdf_url": "https://doi.org/10.5705/ss.202025.0406",
     "doi": "10.5705/ss.202025.0406",
     "citations": 0,
     "venue": "Statistica Sinica",
-    "open_access": false,
+    "open_access": true,
     "ai_summary": "No abstract available."
   },
   {
@@ -693,6 +675,24 @@
     "venue": "Statistica Sinica",
     "open_access": false,
     "ai_summary": "No abstract available."
+  },
+  {
+    "id": "crossref:10.67805/jgrms.v2i9.156",
+    "title": "A Review of Phishing Detection Techniques Using Machine Learning and Natural Language Processing",
+    "abstract": "<jats:p>The goal of phishing attacks, which rank high among cyber risks, is to steal sensitive information (such as login passwords, financial data, and more) from unsuspecting people and companies. Blacklist, whitelist, rule, heuristic, and signature-based detection methods are no longer suitable due to the rising sophistication of phishing schemes. As a result, ML, DL, and NLP are rapidly becoming into effective instruments for detecting both well-known and brand-new forms of phishing. Background on phishing assaults, old ways of detecting them, and recent advances in intelligent phishing detection are all included in this article. It delves into several machine learning algorithms such as decision tree, LSTM, ANN, CNN, and RNN, as well as deep learning models like KNN, NB, and SVM. Also, natural language processing methods including word embedding, sentiment analysis, text categorization, and tokenization are explored with the aim of detecting phishing material. Presenting a comprehensive, precise, and up-to-the-minute phishing detection system is the ultimate goal of this study, which focuses on machine learning frameworks, performance indicators, present obstacles, and future research directions.</jats:p>",
+    "authors": [
+      "Dr. Sunita Dixit"
+    ],
+    "published": "2029",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.67805/jgrms.v2i9.156",
+    "pdf_url": null,
+    "doi": "10.67805/jgrms.v2i9.156",
+    "citations": 0,
+    "venue": "Journal of Global Research in Multidisciplinary Studies(JGRMS)",
+    "open_access": false,
+    "ai_summary": "ML, DL, and NLP are rapidly becoming into effective instruments for detecting both well-known and brand-new forms of phishing . Background on phishing assaults and old ways of detecting them are all included in this article ."
   },
   {
     "id": "openalex:W7128502054",
@@ -1032,250 +1032,128 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "pubmed:42928020",
-    "title": "Integrative graph deep learning with directional decoding for robust gene regulatory network inference from single-cell transcriptomics.",
-    "abstract": "While gene regulatory networks (GRNs) are fundamental to understanding complex cellular mechanisms, the accurate inference from single-cell RNA-sequencing (scRNA-seq) data is hindered by the inherent noise, transcriptional dropout events, and dynamic nature of gene regulation. Current computational approaches often overlook long-range regulatory interactions, lack explicit modeling of regulatory directionality, and suffer from limited generalizability. To address these limitations, we introduce scGRAIL, a supervised deep learning framework that combines inductive local-aware graph aggregation (LGA) with an asymmetric relation decoder to enable robust GRN inference. Within this framework, LGA performs multi-hop neighborhood aggregation on a transcription factor (TF)-target graph, jointly leveraging topological structure and gene expression to capture long-range regulatory dependencies. A node reconstruction autoencoder (NAE) imposes gene expression reconstruction constraints on the latent embeddings, thereby enhancing robustness to noise and data heterogeneity and improving generalization. An asymmetric difference mechanism is introduced during decoding for distinct modeling of TFs and target genes; by computing an ordered difference vector between their embeddings, the model explicitly captures the directionality and target specificity of TF-target regulatory interactions, facilitating more accurate identification of potential causal regulatory relationships. Comprehensive evaluations demonstrate the model's superiority: it achieves optimal performance on 86.4% of benchmark datasets (38/44), surpassing state-of-the-art methods. Notably, scGRAIL achieves a 4.25% increase in average area under the receiver operating characteristic curve (AUROC) across four real-world networks compared to the graph contrastive link prediction (GCLink) model, yielding a 17.64% AUROC improvement for the TF500+ Non-Specific network in the mouse hematopoietic stem cells with lymphoid-lineage (mHSC-L) dataset, demonstrating its resilience to noise and scalability for large-scale GRNs. These results establish scGRAIL as a transformative tool for uncovering gene regulatory logic in single-cell transcriptomics. Overall, scGRAIL enhances structural modeling and directional discrimination in single-cell GRN inference by using multi-hop graph aggregation to capture long-range regulatory dependencies, expression reconstruction constraints to improve cross-dataset robustness, and an asymmetric decoding mechanism to explicitly model the regulatory directionality between TFs and target genes. 基因调控网络（GRNs）是揭示细胞内复杂调控机制的重要工具，但基于单细胞RNA测序（scRNA-seq）数据的GRN推断常受噪声、转录本“dropout”以及调控关系动态性等因素影响而难以准确建模。现有方法往往忽略长程调控依赖，缺乏对调控方向性的显式刻画，并存在泛化能力不足等问题。为此，本文提出一种有监督的深度学习框架scGRAIL，将归纳式局部感知图聚合（LGA）与非对称关系解码器相结合，实现鲁棒的GRN推断。在该框架中，LGA在转录因子–靶标（TF–target）图上进行多跳邻域聚合，联合利用网络拓扑结构与基因表达信息以捕获长程调控依赖;同时引入节点重构自编码器（NAE）对潜在表示施加表达重构约束，从而增强对噪声和数据异质性的鲁棒性，并提升跨数据集泛化能力。解码阶段设计非对称差分机制，通过计算TF与Target嵌入的有序差分向量，对TF–target调控关系的方向性与靶基因特异性进行显式建模，从而更准确识别潜在的因果调控关系。综合实验结果表明，scGRAIL在44个基准数据集中的38个（86.4%）取得最优性能，整体优于现有先进方法;在四个真实网络上，相较GCLink的平均受试者工作特征曲线下面积（AUROC）提升4.25%，其中在Non-Specific网络，mHSC-L中TF500+数据集上AUROC提升17.64%，体现出对噪声的强鲁棒性及大规模网络的可扩展性。综上，scGRAIL通过多跳图聚合捕获长程依赖，以表达重构增强跨数据集鲁棒性，并利用非对称方向性解码提升调控判别能力，为单细胞转录组中的基因调控逻辑解析提供了有效工具。.",
+    "id": "pubmed:42928868",
+    "title": "Advanced Impression Techniques for Complex Maxillofacial Tissue Defects.",
+    "abstract": "This study aims to evaluate the various traditional, digital, and hybrid impression workflows in maxillofacial prosthodontics. It addresses the research question of how modern digital advancements overcome the limitations in accuracy, material waste, and data storage that are inherent in conventional techniques for complex intraoral and extraoral defects. A comprehensive literature search was conducted across PubMed, Scopus, and Google Scholar. Ninety-three English-language articles evaluating impression workflows for extraoral and intraoral prostheses were identified and analyzed. While conventional materials remain highly accessible and clinically useful, digital workflows, utilizing intraoral scanning, three-dimensional photogrammetry, and computer-aided workflows, offer superior precision for complex defects, streamline data storage, and allow virtual modifications. For implant-supported prostheses, both workflows demonstrate comparable accuracy. Hybrid approaches combining both techniques maximize outcomes in highly challenging scenarios. Although digital technologies present higher initial infrastructure costs and require specialized training, upcoming advancements in artificial intelligence-assisted design are expected to further transform the field. Digital and hybrid workflows significantly advance maxillofacial prosthodontics by improving precision and data management over traditional methods. Clinicians must understand the distinct indications and limitations of both approaches to deliver individualized, efficient, and optimized rehabilitative care tailored to diverse patient needs.",
     "authors": [
-      "Binhua Tang",
-      "Yingying Feng",
-      "Xinyu Gao",
-      "Mengyao Mao",
-      "Yujia Zhang"
+      "Sakshi Sinha",
+      "Anna S Babu",
+      "Krishnapriya V N",
+      "Manju V"
     ],
-    "published": "2026-Sep-22",
+    "published": "2026-Sep",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42928020/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42928868/",
     "pdf_url": null,
-    "doi": "10.1631/jzus.B2500424",
+    "doi": "10.7759/cureus.116905",
     "citations": 0,
-    "venue": "Journal of Zhejiang University. Science. B",
+    "venue": "Cureus",
     "open_access": false,
-    "ai_summary": "The accurate inference from single-cell RNA-sequencing (scRNA-seq) data is hindered by the inherent noise, transcriptional dropout events, and dynamic nature of gene regulation . Current computational approaches often overlook long-range regulatory interactions, lack explicit modeling of regulatory"
+    "ai_summary": "Study aims to evaluate the various traditional, digital, and hybrid impression workflows in maxillofacial prosthodontics . It addresses the question of how modern digital advancements overcome limitations in accuracy, material waste, and data storage ."
   },
   {
-    "id": "pubmed:42928030",
-    "title": "Artificial intelligence in myeloproliferative neoplasms: From digital bone marrow pathology to clinical decision support.",
-    "abstract": "Myeloproliferative neoplasms (MPN) are clonal hematopoietic stem cell disorders whose diagnosis, prognostication, and management depend on integrating heterogeneous clinical, morphological, and molecular data. This narrative review (PubMed/MEDLINE searched through August 2026, supplemented by hand-searching and conference abstracts) appraises the evidence for AI applications across the MPN continuum. Artificial intelligence (AI), and its principal subfields, machine learning (ML) and deep learning (DL), learn predictive patterns directly from data rather than from explicitly programmed rules, and are increasingly suited to this multidimensional complexity. Across the MPN continuum, AI has produced substantial technical progress across several domains: automated bone marrow biopsy analysis and continuous quantification of fibrosis and megakaryocyte morphology; peripheral blood- and complete blood count-based diagnosis, including blood-based prediction of marrow fibrosis and emerging liquid-biopsy approaches; quantitative disease assessment such as spleen volume segmentation; risk stratification for survival, thrombosis, disease progression, and post-transplant outcomes; therapy response prediction; in silico drug discovery; and natural language processing for large-scale mining of electronic health records; maturity and level of validation differ markedly across these domains. External validation is increasingly reported in selected applications, though most published models to date remain confined to internal or single-cohort validation, and prospective evaluation has been reported only for blood count-based fibrosis prediction. Correspondingly, to our knowledge, no tool has yet been shown to change clinical decision-making or improve patient outcomes, and predictive performance should not be conflated with clinical utility. As multimodal data integration, foundation models, and generative approaches mature, AI has the potential to support a faster, more objective, and more personalized diagnostic and decision-making pathway in MPN.",
+    "id": "pubmed:42928843",
+    "title": "Accuracy, Relevance, and Redundancy of ChatGPT-5.3 References in Open Fracture Management: A Methodological Analysis.",
+    "abstract": "This study aimed to evaluate the bibliographic accuracy of the references that ChatGPT-5.3 (OpenAI, San Francisco, CA) presented as PubMed-indexed sources for open fracture management and determine whether the verifiable references were relevant to the topics they were meant to support. In a single session in March 2026, ChatGPT-5.3 (Plus subscription), with the web search function enabled, was asked to systematically describe the management of open fractures. The model was then prompted to provide three PubMed-indexed references for each topic it had generated. ChatGPT-5.3 structured open fracture management into 15 topic categories and produced a total of 45 references. Two independent reviewers assessed each reference for bibliographic accuracy and content relevance. Bibliographic accuracy was scored from 0 to 2, and content relevance from 0 to 1. Final scores were determined by consensus. Inter-rater agreement was assessed using Cohen's kappa coefficient. Of the 45 references, 11 (24.4%) were fully bibliographically accurate. Nineteen references (42.2%) existed but contained errors in the PMID, year, journal, title, or other bibliographic details. Fifteen references (33.3%) could not be verified as valid PubMed-indexed articles. The overall bibliographic accuracy rate was 11 (45.6%), the content relevance rate was 30 (66.7%), and the overall performance score was 52.6%. All bibliographically verifiable references were content-relevant to their assigned open fracture management topics, with 30 (66.7%) references being content-relevant. The 45 references corresponded to only 36 unique sources; a single review article was reproduced under 8 (53.3%) of the 15 topic categories and accounted for 8 (72.7%) of the 11 fully accurate references. In a sensitivity analysis restricted to unique sources, the bibliographic accuracy rate decreased to 13 (37.5%). Inter-rater agreement was high, with Cohen's kappa values of 0.966 for bibliographic accuracy and 0.951 for content relevance. Although ChatGPT-5.3 generated a clinically reasonable and systematic framework for open fracture management, the references provided to support this response showed substantial bibliographic reliability problems. Because all verifiable references were content-relevant, the model's principal limitation appeared to lie not in the selection of irrelevant sources, but in the presentation of seemingly appropriate sources with inaccurate or unverifiable bibliographic information. References generated by ChatGPT should not be used for academic or clinical purposes without independent verification.",
     "authors": [
-      "Andrea Duminuco",
-      "Patrick Harrington",
-      "Adrian Mosquera Orgueira",
-      "Elena Torre",
-      "Massimo Breccia",
-      "Francesca Palandri",
-      "Giuseppe A Palumbo"
+      "Gündüz Ercan Kutluay",
+      "Yusuf Kondil"
     ],
-    "published": "2026-Oct-23",
+    "published": "2026-Sep",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42928030/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42928843/",
     "pdf_url": null,
-    "doi": "10.1016/j.blre.2026.101440",
+    "doi": "10.7759/cureus.116893",
     "citations": 0,
-    "venue": "Blood reviews",
+    "venue": "Cureus",
     "open_access": false,
-    "ai_summary": "Myeloproliferative neoplasms (MPN) are clonal hematopoietic stem cell disorders whose diagnosis, prognostication, and management depend on integrating heterogeneous clinical, morphological, and molecular data . This narrative review (PubMed/MEDLINE searched through August 2026, supplemented by hand-search"
+    "ai_summary": "ChatGPT-5.3 (OpenAI, San Francisco, CA) presented as PubMed-indexed sources for open fracture management . Two independent reviewers assessed each reference for bibliographic accuracy and content relevance . Of the 45 references, 11 were fully bibl"
   },
   {
-    "id": "pubmed:42928023",
-    "title": "A deep learning-based algorithm for the automatic detection of focal liver lesions on multisequence enhanced MRI.",
-    "abstract": "",
+    "id": "pubmed:42928821",
+    "title": "Extraction and Identification of the Sea Cucumber ",
+    "abstract": "Sea cucumbers are a class of valuable marine invertebrates, recognized for their importance in food and traditional medicine across many Asian countries. Their extracts contain various bioactive compounds, including phenolic compounds and saponins, which are of interest in medicinal chemistry. On the other hand, Considering the challenge of the viral disease COVID-19 still exists, and up to this time, the main protease (M This study aimed to extract and identify phenolic compounds and saponins from the dominant species of sea cucumber (Holothuroidae) found on selected beaches in Bushehr Province, and subsequently investigate their potential anti-SARS-CoV-2 properties using molecular docking. In this research, we obtained an extract from the sea cucumber species  The purpose of conducting these molecular docking analyses was to observe the interactions of the bioactive compounds from sea cucumbers of the Holothuroidea family with the active sites and putative allosteric hotspots of the M Briefly, the molecular docking investigation results indicated that saponins have better binding energies and interactions than phenolic compounds on five of the six mentioned targets (viz. active sites of the M",
     "authors": [
-      "Jiahui Jiang",
-      "Lixue Xu",
-      "Xiaolan Zhang",
-      "Chao Zheng",
-      "Niange Yu",
-      "Dawei Yang",
-      "Jingfeng Zhang",
-      "Bibo Hu",
-      "Kun Yan",
-      "Ahong Ren",
-      "Xiaopei Wang",
-      "Xinjun Han",
-      "Yuxin Wang",
-      "Jun Lu",
-      "Jianjun Zheng",
-      "Zhenchang Wang",
-      "Zhenghan Yang",
-      "Hui Xu"
+      "Maryam Roshani",
+      "Bita Archangi",
+      "Faede Amini"
     ],
-    "published": "2026-Oct-23",
+    "published": "2026-Oct",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42928023/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42928821/",
     "pdf_url": null,
-    "doi": "10.1097/CM9.0000000000004314",
+    "doi": "10.30498/ijb.2026.505043.4076",
     "citations": 0,
-    "venue": "Chinese medical journal",
+    "venue": "Iranian journal of biotechnology",
     "open_access": false,
-    "ai_summary": "No abstract available."
+    "ai_summary": "Sea cucumbers are a class of valuable marine invertebrates, recognized for their importance in food and traditional medicine across many Asian countries . Their extracts contain various bioactive compounds, including phenolic compounds and saponins, which are of interest in medicinal chemistry ."
   },
   {
-    "id": "pubmed:42927996",
-    "title": "PregiDose: A mobile application designed through a user-centred approach to enhance fetal dosimetry and well-being among pregnant radiographers.",
-    "abstract": "Pregnant radiographers require more stringent radiation dose monitoring than general radiographers due to the sensitive nature of the developing fetus's cells towards radiation. Occupational radiation safety measures include the use of personal dosimeters. Ineffective dosimetry practices among pregnant radiographers in South Africa were observed, which led to the current technological innovation. The prototype and final mobile application were developed using a user-centred approach following the situational analysis. (1) A design thinking phase was executed through a participatory design workshop (PDW) consisting of 12 participants. (2) A mobile application development lifecycle method with software engineers was used to produce the final artefact. Pregnant radiographers need an effective way to monitor and track their fetal doses. There is a need for access to educational resources for pregnant radiographers and the need for psychosocial support. The final mobile app was guided by the prototype design and rigorous consultation on its appearance and behaviour and the functionality and testing processes emanating from three core domains, namely, dose tracking, education, and well-being. PregiDose is a mobile application developed for the user by the user. Therefore, the app directly addresses key challenges pregnant radiographers face and aligns with several World Health Organisation Sustainable Development Goals (SDG) using technology.",
+    "id": "pubmed:42928963",
+    "title": "Low-dose CT denoising using a diffusion prior via score distillation sampling.",
+    "abstract": "Low-dose computed tomography (LDCT) reduces radiation exposure but amplifies noise, which can degrade diagnostic reliability. Recent studies have applied diffusion-based models to LDCT denoising and shown promising performance. However, many of these approaches require paired LDCT and normal-dose CT (NDCT) data or dose-specific retraining, and their reconstruction procedures are often strictly coupled to a predefined diffusion trajectory. This study proposes an optimization-based LDCT denoising framework that uses a pre-trained NDCT diffusion model as an image prior and can be applied across various dose levels without dose-specific retraining. We formulate LDCT denoising as an optimization problem guided by a pre-trained score-based generative model (SGM) trained only on NDCT images. The Poisson data fidelity term enforces consistency with the measured projection data, whereas the score distillation sampling (SDS) term acts as a regularizer that guides the reconstruction toward the NDCT distribution learned by the pre-trained SGM. The denoised image is obtained by iteratively optimizing a projection-domain residual variable using the combined Poisson data fidelity gradient and SDS-based regularization gradient. The proposed method effectively suppressed noise while preserving fine anatomical structures across multiple dose levels using a single pre-trained diffusion model. Quantitative evaluations with respect to full-dose reference images and visual comparisons demonstrated competitive performance compared with supervised and self-supervised LDCT denoising baselines. The results show that diffusion-based image priors can be leveraged across various low-dose levels within the proposed optimization-based denoising framework. Our work suggests that SDS-guided diffusion priors are a promising direction for LDCT denoising in data-limited settings.",
     "authors": [
-      "H Essop",
-      "M Kekana",
-      "H Smuts"
+      "Hojin Jung",
+      "Jooho Lee",
+      "Jongduk Baek"
     ],
-    "published": "2026-Oct-25",
+    "published": "2026-Nov",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42927996/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42928963/",
     "pdf_url": null,
-    "doi": "10.1177/01466453251412159",
+    "doi": "10.1002/mp.70707",
     "citations": 0,
-    "venue": "Annals of the ICRP",
+    "venue": "Medical physics",
     "open_access": false,
-    "ai_summary": "Pregnant radiographers need more stringent radiation dose monitoring than general radiographers . Occupational radiation safety measures include the use of personal dosimeters . Ineffective dosimetry practices among pregnant radiographers were observed ."
+    "ai_summary": "Low-dose computed tomography (LDCT) reduces radiation exposure but amplifies noise, which can degrade diagnostic reliability . Recent studies have applied diffusion-based models to LDCT denoising and shown promising performance ."
   },
   {
-    "id": "pubmed:42927975",
-    "title": "Clinical Application of Artificial Intelligence in the Management of Chronic Hepatitis B.",
-    "abstract": "Chronic hepatitis B (CHB) burdens the healthcare system, affecting millions of individuals worldwide with a potential progression to complications such as cirrhosis and hepatocellular carcinoma (HCC). The World Health Organization launched the chronic viral hepatitis elimination plan which aimed to eliminate chronic hepatitis B virus by 2030, yet the goal has seemed to be far from reach with the remaining few years owing to different hurdles ranging from screening strategy and diagnosis to risk stratification for antiviral treatment and HCC surveillance. To refine the management of CHB, previous studies focused on identifying the at-risk populations and predictors for adverse outcomes using conventional statistical methods. With the emerging role of artificial intelligence (AI), there is further room to improve different aspects of screening and management. For instance, generative AI, such as large language models (LLMs), has been proven to have the ability to answer different clinical questions, assisting patients' and physicians' decision on various clinical scenarios. Different machine learning and deep learning models have also been developed to assess for liver fibrosis, as well as to aid segmentation of liver structures and detection of focal liver lesions through various imaging modalities. While different AI models have shown superior performance compared to those developed through traditional statistical models, the lack of standardized datasets in training cohorts and the unresolved concerns of hallucination of false information in LLMs pose challenges on applying AI in the current management of CHB, in which further studies are required to adopt AI into daily clinical practice.",
+    "id": "pubmed:42929064",
+    "title": "A Rapid Systematic Review of AI-Generated and Human-Generated Real-Time Feedback in Nursing Education.",
+    "abstract": "To explore the effects of AI-generated and human-generated real-time feedback on learning outcomes and experiences among undergraduate nursing students. Timely, high-quality feedback is crucial in nursing education to support clinical reasoning, skill development, and student engagement. While human-generated feedback remains central to pedagogy, emerging AI offers real-time feedback that complements traditional approaches. Understanding how both interventions influence student learning is critical to informing future curriculum and clinical practice. We conducted a rapid systematic review of quantitative, qualitative, and mixed-methods studies across major databases from 2018 to 2025. Eligible studies involved undergraduate nursing students receiving real-time feedback generated from AI or humans. The Sample, Phenomenon of Interest, Design, Evaluation, and Research Type framework guided inclusion, and the Mixed Methods Appraisal Tool assessed methodological quality. Nine studies were included. AI-generated tools supported timely, consistent, and individualised learning, contributing to student engagement, confidence, and skill development. Educator-mediated feedback, including technology-assisted and conventional human feedback approaches, supported student satisfaction, reflection, and emotional support. One study directly comparing AI-generated and human-generated feedback found that AI-generated feedback offered greater consistency and objectivity, whereas human-generated feedback provided contextual sensitivity and interpersonal connection; however, this comparison should not be generalised across the wider evidence base. AI offers opportunities to address scalability and access challenges in feedback delivery but does not fully replicate the relational aspects of educator feedback. AI-generated and human-generated feedback demonstrate distinct yet complementary strengths. A hybrid feedback model is proposed as a plausible approach that may optimise educational outcomes in nursing; however, the included studies have not directly evaluated it, and future empirical testing is needed before it can be recommended as the most effective approach. Combining AI-generated and human-generated feedback demonstrates complementary strengths, and integrating them may optimise learning outcomes. Investment in digital education and faculty development is needed to support scalable feedback strategies globally. This systematic review adhered to relevant EQUATOR guidelines and followed the PRISMA guidelines (see Appendix 3).",
     "authors": [
-      "Jimmy Che-To Lai",
-      "Xiaoqing Guo",
-      "Xinyan Zong",
-      "Nana Peng",
-      "Terry Cheuk-Fung Yip",
-      "Vincent Wai-Sun Wong",
-      "Pong-Chi Yuen",
-      "Grace Lai-Hung Wong"
+      "Rajarajeswari Rajasekaran",
+      "Jutharat Attawet",
+      "Pratibha Bhandari",
+      "Mercy Thomas",
+      "Yunjing Qiu"
     ],
-    "published": "2026-Oct-25",
+    "published": "2026-Dec",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42927975/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42929064/",
     "pdf_url": null,
-    "doi": "10.1111/jgh.70848",
+    "doi": "10.1111/inr.70252",
     "citations": 0,
-    "venue": "Journal of gastroenterology and hepatology",
+    "venue": "International nursing review",
     "open_access": false,
-    "ai_summary": "Chronic hepatitis B (CHB) burdens the healthcare system, affecting millions of individuals worldwide . The World Health Organization launched the chronic viral hepatitis elimination plan which aimed to eliminate chronic hepatitis B virus by 2030 . The goal has seemed to be far from reach with the remaining few"
+    "ai_summary": "AI-generated and human-generated real-time feedback on learning outcomes and experiences among undergraduate nursing students . Timely, high-quality feedback is crucial in nursing education to support clinical reasoning, skill development, and student engagement ."
   },
   {
-    "id": "pubmed:42928016",
-    "title": "Population epigenomics of plant DNA methylation: perspectives for molecular breeding.",
-    "abstract": "DNA methylation, a key epigenetic modification, contributes to regulatory diversity in plants and plays important roles in phenotypic plasticity and environmental adaptation. Recent population epigenomic studies have revealed extensive methylation variation across plant genomes, characterized genomic distribution and genetic architecture, and demonstrated both its dependence on and partial independence from underlying DNA sequence variation. These studies have further linked methylation variation to gene expression regulation, domestication, local adaptation, and complex trait variation through integrative analyses and epigenome-wide association research. Advances in high-throughput sequencing have enabled the generation of population-scale plant methylomes across natural accessions, wild relatives, landraces, and breeding germplasm, providing new avenues to systematically investigate epigenomic diversity and its functional consequences. In parallel, public methylome resources, epigenomic databases, and multi-omics analytical platforms are accelerating comparative and cross-species analyses of plant epigenomic variation. Future efforts that integrate population methylomes with genomics, transcriptomics, chromatin accessibility, three-dimensional genome organization, deep learning-based analytical frameworks, and targeted epigenome editing are expected to facilitate the discovery of epigenetic breeding markers, promoting the application of epigenomic variation in crop improvement. DNA甲基化是植物中重要的表观遗传修饰，能够影响基因表达、转座子沉默、发育转换、环境适应和农艺性状形成。近年来，群体尺度甲基化组研究揭示了植物基因组中广泛存在的甲基化变异，并从基因组分布、遗传基础、表达调控、驯化适应和复杂性状关联等方面推动了植物群体表观基因组学的发展。本文综述了植物群体甲基化组资源、单甲基化多态性、甲基化数量性状位点、表达数量性状甲基化、多组学整合、表观基因组关联分析以及面向育种的技术路线，进一步讨论了甲基化变异与DNA序列变异之间的依赖关系和相对独立性，并指出未来需要结合泛基因组、转录组、染色质可及性、三维基因组、深度学习和靶向表观基因组编辑，以筛选可验证、可转化的表观遗传育种标记。.",
+    "id": "pubmed:42929072",
+    "title": "Automated Cerebrospinal Fluid Flow Quantification in Hydrocephalus Using Phase-Contrast Magnetic Resonance Imaging.",
+    "abstract": "Quantitative cerebrospinal fluid (CSF) flow analysis with phase-contrast magnetic resonance imaging depends on segmentation and is affected by operator variability. This cohort method-comparison study evaluated whether a flow-aware deep learning (DL) model provides reproducible C2-C3 CSF segmentation and flow quantification compared with repeated manual segmentation. Ten hydrocephalus patients underwent 3-T phase-contrast magnetic resonance imaging at C2-C3, with 32 magnitude and phase frames across the cardiac cycle. Three experts and one novice segmented each case twice using semi-automatic software, generating 80 manual annotations. A pretrained flow-aware 2D-UNet generated one fixed automatic segmentation per case. The inference pipeline was deterministic, meaning that repeated processing of the same input with fixed model weights and settings produced identical masks. A multi-expert reference was defined as the arithmetic mean of the expert measurements. Region of interest (ROI) surface area, peak flow amplitude, and stroke volume were compared using mean difference, Bland-Altman 95% limits of agreement, Lin's concordance correlation coefficient (CCC), and intraclass correlation coefficient (ICC). Expert ICC(1,1) was 0.88-0.97 for surface area, 0.97-1.00 for peak flow amplitude, and 0.97-0.99 for stroke volume; novice values were 0.63, 0.95, and 0.92, respectively. Compared with the multi-expert reference, model mean differences were -0.42 mm",
     "authors": [
-      "Xi Long",
-      "Juyun Zheng",
-      "Lei Fang",
-      "Ting Zhao"
+      "Eder Alejandro Rodríguez Martínez",
+      "Pan Liu",
+      "Kimi Owashi",
+      "Antoine Gayet",
+      "Olivier Balédent"
     ],
-    "published": "2026-Oct-23",
+    "published": "2026-Dec",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42928016/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42929072/",
     "pdf_url": null,
-    "doi": "10.1631/jzus.B2600175",
+    "doi": "10.1002/nbm.70431",
     "citations": 0,
-    "venue": "Journal of Zhejiang University. Science. B",
+    "venue": "NMR in biomedicine",
     "open_access": false,
-    "ai_summary": "DNA methylation contributes to regulatory diversity in plants and plays important roles in phenotypic plasticity and environmental adaptation ."
-  },
-  {
-    "id": "pubmed:42927939",
-    "title": "Quantifying regional signal with deep learning for sex estimation on lateral cephalometric radiographs: A feasibility study with explainability analysis.",
-    "abstract": "The purpose of this feasibility study was to quantify regional sex-related information in lateral cephalograms using deep learning. In this retrospective study, 600 radiographs from 300 male and 300 female patients were split at the pterygomaxillary fissure into anterior and posterior sub-images, and DenseNet-121 and Vision Transformer B/16 (ViT-B/16) models were trained by five-fold cross-validation. Posterior sub-images yielded higher performance than anterior sub-images for both models. DenseNet-121 achieved accuracies of 94.5% for anterior images and 97.3% for posterior images, whereas ViT-B/16 achieved 85.7% and 96.7%, respectively. Saliency and hit-rate patterns differed between architectures and were interpreted as indicators of model behavior rather than direct anatomical evidence. Within this single-center dataset, which was skewed toward younger individuals, the posterior field retained substantial sex-discriminative information across both architectures. Anatomy-guided input restriction may provide an intervention-based framework for evaluating regional signal sufficiency. However, age-balanced external validation and finer anatomical segmentation are required.",
-    "authors": [
-      "Noriko Mae",
-      "Yuichi Mine",
-      "Shota Ito",
-      "Yuki Yoshimi",
-      "Ryohei Tokinaga",
-      "Shota Okazaki",
-      "Saki Ogawa",
-      "Saori Takeda",
-      "Tzu-Yu Peng",
-      "Naoya Kakimoto",
-      "Kotaro Tanimoto",
-      "Takeshi Murayama"
-    ],
-    "published": "2026-Oct-23",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42927939/",
-    "pdf_url": null,
-    "doi": "10.4012/dmj.2026-078",
-    "citations": 0,
-    "venue": "Dental materials journal",
-    "open_access": false,
-    "ai_summary": "600 radiographs from 300 male and 300 female patients were split at the pterygomaxillary fissure into anterior and posterior sub-images . DenseNet-121 achieved accuracies of 94.5% for anterior images and 97.3% for posterior images . ViT-B/16 achieved 85.7% and 96."
-  },
-  {
-    "id": "pubmed:42927942",
-    "title": "Artificial Intelligence in Cataract Surgery: A Review of Preoperative, Intraoperative and Postoperative Applications.",
-    "abstract": "Artificial intelligence (AI) has emerged as a transformative technology in the fields of medicine and ophthalmology. Recent advances in machine learning, deep learning and convolutional neural networks have significantly improved cataract detection and grading, intraocular lens power calculations, surgical decision-making, risk prediction and patient education. Intraoperative AI-assisted surgical phase recognition, workflow analysis, real-time guidance, robotic technologies and femtosecond laser integration can improve surgical precision, efficiency and safety. AI has shown promise in predicting visual outcomes, detecting postoperative complications and facilitating telemedicine follow-up. Though challenges with AI include transparency, data diversity, regulatory oversight and clinical validation, continued advances are expected to further personalise cataract surgery, support clinical decision-making, optimise surgical performance and improve patient outcomes. This narrative summarises the current and emerging applications of AI in preoperative, intraoperative and postoperative management of cataracts.",
-    "authors": [
-      "Aidin Syed Hasan",
-      "Michael Wesley Stewart",
-      "Darby Douglas Miller"
-    ],
-    "published": "2026-Oct-25",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42927942/",
-    "pdf_url": null,
-    "doi": "10.1111/ceo.70186",
-    "citations": 0,
-    "venue": "Clinical & experimental ophthalmology",
-    "open_access": false,
-    "ai_summary": "AI has shown promise in predicting visual outcomes, detecting postoperative complications and facilitating telemedicine follow-up . Continued advances are expected to further personalise cataract surgery, support clinical decision-making, optimise surgical performance and improve patient outcomes ."
-  },
-  {
-    "id": "pubmed:42927969",
-    "title": "[Application and short-term efficacy of Da Vinci Xi robot-assisted transabdominal division of the rectourethralis muscle in ultra-low anastomosis surgery for low rectal cancer].",
-    "abstract": "",
-    "authors": [
-      "G Hu",
-      "Y H Wang",
-      "Z D Xing",
-      "J B Du",
-      "J Q Tang"
-    ],
-    "published": "2026-Oct-25",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42927969/",
-    "pdf_url": null,
-    "doi": "10.3760/cma.j.cn441530-20260512-00196",
-    "citations": 0,
-    "venue": "Zhonghua wei chang wai ke za zhi = Chinese journal of gastrointestinal surgery",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "pubmed:42927843",
-    "title": "Ultra-early diagnosis recently developments of acute myocardial infarction: Emerging biomarkers and advanced sensing technologies.",
-    "abstract": "Currently, myocardial infarction is commonly detected via traditional biomarker analysis, electrocardiography, and echocardiography. In general, conventional clinical approaches are limited by insufficient early-stage sensitivity and time-consuming procedures, thereby delaying therapeutic interventions. To address the above-mentioned drawbacks, this review systematically summarizes recent advances in both ultra-early biomarkers and novel high-sensitivity detection platforms. A panel of ultra-early biomarkers with high sensitivity and specificity (e.g., GPBB, cMyC, cfDNA, MPO, D-dimer, miRNAs, and lncRNAs) is explicitly identified in this review. Recent progress in nano-based, graphene-based, and chemical biosensors for biomarker detection is further elaborated. The application of these biosensors delivers amplified signal outputs, enhanced sensitivity, shortened detection time, multiplex detection capability, and successful miniaturization of detection devices. This review also analyzes the integration of artificial intelligence models with conventional diagnostic modalities (electrocardiography, echocardiography, myocardial perfusion imaging) and gold-standard diagnostic methods (biomarker testing, coronary angiography, cardiac magnetic resonance, coronary computed tomography). Such integrated analytical strategies enable objective, rapid, and early diagnosis. When embedde into wearable monitoring devices, these technologies support non-invasive and continuous real-time monitoring and generate preemptive clinical alerts with ultra-high signal sensitivity. Ultimately, this article establishes a comprehensive framework for the ultra-early diagnosis of myocardial infarction by integrating screened ultra-early biomarkers and innovative high-sensitivity detection techniques.",
-    "authors": [
-      "Xinran Wang",
-      "Jiaxin Du",
-      "Wenzhi Zhou",
-      "Chen Wang",
-      "Xinyi Han",
-      "Xiaoyi Yang",
-      "Haixia Yang",
-      "Yu Liu",
-      "Tao Liu",
-      "Fei Yu",
-      "Yang Wu"
-    ],
-    "published": "2026-Oct-25",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42927843/",
-    "pdf_url": null,
-    "doi": "10.1016/j.cca.2026.122945",
-    "citations": 0,
-    "venue": "Clinica chimica acta; international journal of clinical chemistry",
-    "open_access": false,
-    "ai_summary": "Currently, myocardial infarction is commonly detected via traditional biomarker analysis, electrocardiography, and echocardiography . In general, conventional clinical approaches are limited by insufficient early-stage sensitivity and time-consuming procedures . This review systematically summarizes recent advances in both ultra-early biomarkers and novel high"
+    "ai_summary": "Study evaluated whether a flow-aware deep learning (DL) model provides reproducible C2-C3 CSF segmentation and flow quantification compared with repeated manual segmentation . Ten hydrocephalus patients underwent 3-T phase-contrast magnetic resonance imaging."
   },
   {
     "id": "openalex:W7118880740",
@@ -1920,6 +1798,24 @@
     "ai_summary": "No abstract available."
   },
   {
+    "id": "openalex:W7223459966",
+    "title": "モビリティ産業におけるプラットフォーマーの戦略とガバナンス ： TeslaおよびBYDの分析",
+    "abstract": "",
+    "authors": [
+      "Akio Tokuda"
+    ],
+    "published": "2026-11-01",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.34382/0002007650",
+    "pdf_url": "https://ritsumei.repo.nii.ac.jp/record/2007650/files/ba_65_4_tokuda.pdf",
+    "doi": "10.34382/0002007650",
+    "citations": 0,
+    "venue": "Institutional Repositories DataBase (IRDB)",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
     "id": "openalex:W7220034042",
     "title": "Komunikasi Risiko Kebakaran Pada Fase Pra-Bencana Melalui Edukasi dan Simulasi Di Rumah Susun Sederhana Sewa (Rusunawa) Banda Aceh",
     "abstract": "",
@@ -1939,24 +1835,6 @@
     "doi": null,
     "citations": 0,
     "venue": "SciNusa: Jurnal Ilmu Sosial dan Humaniora",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W7223334198",
-    "title": "Gesture Control Virtual Mouse using Opencv and Mediapipe",
-    "abstract": "",
-    "authors": [
-      "Kajal Wavare"
-    ],
-    "published": "2026-10-25",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.5281/zenodo.23588349",
-    "pdf_url": "https://doi.org/10.5281/zenodo.23588349",
-    "doi": "10.5281/zenodo.23588349",
-    "citations": 0,
-    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
     "open_access": true,
     "ai_summary": "No abstract available."
   },
@@ -1984,24 +1862,6 @@
     "ai_summary": "DexPort is a portable data-collection interface for high-DoF robot hands . It uses the same hand hardware for collection and deployment, avoiding a hand embodiment gap . It records both commanded joint targets and measured joint states ."
   },
   {
-    "id": "arxiv:2610.32982v1",
-    "title": "The Language of Instruction: Genre and Generative AI",
-    "abstract": "This article argues that instruction-fine-tuned language models should be understood as implementing a genre, what is proposed as the instructional-conversational genre. This genre is an amalgamation of discursive language from prior conversations between generative models and humans recursively run through these massive neural networks. It is instantiated in applications through instruction fine-tuning, the inclusion of a pretext known as a system prompt, and the formalization of inputs in mark-up languages characterized by the use of special tokens and role assignment in turntaking structures.",
-    "authors": [
-      "James E. Dobson"
-    ],
-    "published": "2026-10-23",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2610.32982v1",
-    "pdf_url": "https://arxiv.org/pdf/2610.32982v1",
-    "doi": null,
-    "citations": 0,
-    "venue": "arXiv preprint",
-    "open_access": true,
-    "ai_summary": "The genre is an amalgamation of discursive language from prior conversations between generative models and humans . It is instantiated in applications through instruction fine-tuning, the inclusion of a pretext known as a system prompt ."
-  },
-  {
     "id": "arxiv:2610.32978v1",
     "title": "SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning",
     "abstract": "Training generalizable embodied agents requires realistic, varied, and simulation-ready indoor environments. Language-guided methods support semantic planning and object-level reasoning, but precise spatial grounding remains difficult. Visual generative models offer rich priors over plausible arrangements, yet their outputs require geometric reasoning to become physically valid 3D scenes. We introduce SceneBloom, an agentic framework that combines visual layout sampling with contract-guided 3D compilation. A hierarchical sampler uses diffusion priors to generate furniture arrangements within functional zones. A compiler then uses relations extracted from each proposal to guide geometric fitting and local pose correction. Across five room types, SceneBloom attains the highest visual quality and physical stability among the compared methods and is the only method with no detected mesh collisions and out-of-bounds objects. Its layouts are also closer to the distribution of real rooms than those of all compared baselines. Object navigation policies trained in these realistic scenes achieve a higher success rate in held-out real scans than those trained on an equal number of real training scans. Code is available at https://github.com/Tinaliu0123/scenebloom.",
@@ -2022,25 +1882,25 @@
     "ai_summary": "SceneBloom is the only method with no detected mesh collisions and out-of-bounds objects . Its layouts are also closer to the distribution of real rooms than those of all compared b."
   },
   {
-    "id": "arxiv:2610.32976v1",
-    "title": "FlexGlue: Sparse-to-Dense Feature Matching and Visual Disambiguation",
-    "abstract": "To estimate correspondences across images, existing approaches match either sparse interest points, which is highly efficient but limited by repeatability, or dense pixel grids, which is robust but expensive. Furthermore, these approaches are trained with only matching pairs and thus often fail to reject unrelated pairs that exhibit visual symmetries, which is equally important in applications like Structure-from-Motion (SfM). We bridge these gaps by introducing FlexGlue, a neural network for asymmetric sparse-to-dense matching and disambiguation. Given two images and coordinates of points in the first image, FlexGlue estimates the coordinates of the corresponding points in the second image while simultaneously rejecting the pair if non-matching. By searching for a limited set of correspondences among dense pixels, our approach is both fast and effective at both matching and disambiguation: it combines the sub-pixel accuracy of dense matching with the speed of sparse matching, while rejecting incorrect pairs with high precision. Experiments on multiple datasets show that FlexGlue pushes the Pareto frontier in relative pose estimation and significantly outperforms existing approaches for SfM and visual localization. FlexGlue is publicly available at https://github.com/cvg/flexglue .",
+    "id": "arxiv:2610.32977v1",
+    "title": "UniAction: Unified Action Conditioning for World Models",
+    "abstract": "Actions that condition world models are highly heterogeneous, and thus existing action-conditioned world models are typically built for individual action types, fragmenting already limited action-annotated data across separate models. We introduce UniAction, a unified action-conditioning framework that represents any action as a sparse set of action elements, each with a discrete semantic identity and a continuous spatiotemporal grounding coordinate. By mapping these coordinates directly into the pretrained video model's native positional space, UniAction allows heterogeneous actions to condition a shared world model within the same spatiotemporal structure. We further introduce cardinality-calibrated attention to address the bias from differing action representation granularities. We evaluate UniAction on four representative action forms: force, camera control, hand pose, and robot pose. UniAction outperforms conditioning alternatives in action following, and a single jointly trained model surpasses the action-specific experts, showing that heterogeneous action data benefit from unified model and joint training.",
     "authors": [
-      "Philipp Lindenberger",
-      "Paul-Edouard Sarlin",
-      "Ondrej Miksik",
-      "Marc Pollefeys"
+      "Bowen Xue",
+      "Zizhang Li",
+      "Hong-Xing Yu",
+      "Jiajun Wu"
     ],
     "published": "2026-10-23",
     "source": "arXiv",
     "category": "preprint",
-    "url": "https://arxiv.org/abs/2610.32976v1",
-    "pdf_url": "https://arxiv.org/pdf/2610.32976v1",
+    "url": "https://arxiv.org/abs/2610.32977v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.32977v1",
     "doi": null,
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "FlexGlue is a neural network for asymmetric sparse-to-dense matching and disambiguation . It combines the sub-pixel accuracy of dense matching with the speed of sparse matching, while rejecting incorrect pairs ."
+    "ai_summary": "UniAction allows heterogeneous actions to condition a shared world model within the same spatiotemporal structure . UniAction outperforms conditioning alternatives in action following, and a single jointly trained model surpasses the acti ."
   },
   {
     "id": "arxiv:2610.32971v1",
@@ -2068,25 +1928,43 @@
     "ai_summary": "Robust reinforcement learning (RL) is critical for reliable real-world deployment . Existing robust RL algorithms offer a rich set of mechanisms and principles, yet two major barriers limit their broader potential . RobustRLlib offers a reproducibibib, an algorithm-centric library and benchmark that addresses both challenges ."
   },
   {
-    "id": "arxiv:2610.32977v1",
-    "title": "UniAction: Unified Action Conditioning for World Models",
-    "abstract": "Actions that condition world models are highly heterogeneous, and thus existing action-conditioned world models are typically built for individual action types, fragmenting already limited action-annotated data across separate models. We introduce UniAction, a unified action-conditioning framework that represents any action as a sparse set of action elements, each with a discrete semantic identity and a continuous spatiotemporal grounding coordinate. By mapping these coordinates directly into the pretrained video model's native positional space, UniAction allows heterogeneous actions to condition a shared world model within the same spatiotemporal structure. We further introduce cardinality-calibrated attention to address the bias from differing action representation granularities. We evaluate UniAction on four representative action forms: force, camera control, hand pose, and robot pose. UniAction outperforms conditioning alternatives in action following, and a single jointly trained model surpasses the action-specific experts, showing that heterogeneous action data benefit from unified model and joint training.",
+    "id": "arxiv:2610.32982v1",
+    "title": "The Language of Instruction: Genre and Generative AI",
+    "abstract": "This article argues that instruction-fine-tuned language models should be understood as implementing a genre, what is proposed as the instructional-conversational genre. This genre is an amalgamation of discursive language from prior conversations between generative models and humans recursively run through these massive neural networks. It is instantiated in applications through instruction fine-tuning, the inclusion of a pretext known as a system prompt, and the formalization of inputs in mark-up languages characterized by the use of special tokens and role assignment in turntaking structures.",
     "authors": [
-      "Bowen Xue",
-      "Zizhang Li",
-      "Hong-Xing Yu",
-      "Jiajun Wu"
+      "James E. Dobson"
     ],
     "published": "2026-10-23",
     "source": "arXiv",
     "category": "preprint",
-    "url": "https://arxiv.org/abs/2610.32977v1",
-    "pdf_url": "https://arxiv.org/pdf/2610.32977v1",
+    "url": "https://arxiv.org/abs/2610.32982v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.32982v1",
     "doi": null,
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "UniAction allows heterogeneous actions to condition a shared world model within the same spatiotemporal structure . UniAction outperforms conditioning alternatives in action following, and a single jointly trained model surpasses the acti ."
+    "ai_summary": "The genre is an amalgamation of discursive language from prior conversations between generative models and humans . It is instantiated in applications through instruction fine-tuning, the inclusion of a pretext known as a system prompt ."
+  },
+  {
+    "id": "arxiv:2610.32976v1",
+    "title": "FlexGlue: Sparse-to-Dense Feature Matching and Visual Disambiguation",
+    "abstract": "To estimate correspondences across images, existing approaches match either sparse interest points, which is highly efficient but limited by repeatability, or dense pixel grids, which is robust but expensive. Furthermore, these approaches are trained with only matching pairs and thus often fail to reject unrelated pairs that exhibit visual symmetries, which is equally important in applications like Structure-from-Motion (SfM). We bridge these gaps by introducing FlexGlue, a neural network for asymmetric sparse-to-dense matching and disambiguation. Given two images and coordinates of points in the first image, FlexGlue estimates the coordinates of the corresponding points in the second image while simultaneously rejecting the pair if non-matching. By searching for a limited set of correspondences among dense pixels, our approach is both fast and effective at both matching and disambiguation: it combines the sub-pixel accuracy of dense matching with the speed of sparse matching, while rejecting incorrect pairs with high precision. Experiments on multiple datasets show that FlexGlue pushes the Pareto frontier in relative pose estimation and significantly outperforms existing approaches for SfM and visual localization. FlexGlue is publicly available at https://github.com/cvg/flexglue .",
+    "authors": [
+      "Philipp Lindenberger",
+      "Paul-Edouard Sarlin",
+      "Ondrej Miksik",
+      "Marc Pollefeys"
+    ],
+    "published": "2026-10-23",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2610.32976v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.32976v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "FlexGlue is a neural network for asymmetric sparse-to-dense matching and disambiguation . It combines the sub-pixel accuracy of dense matching with the speed of sparse matching, while rejecting incorrect pairs ."
   },
   {
     "id": "arxiv:2610.32967v1",
@@ -3069,5 +2947,137 @@
     "venue": "arXiv preprint",
     "open_access": true,
     "ai_summary": "OpenStripe is a multi-agent framework that reconstructs canonical two-dimensional (2D) tiger torso patterns . It encodes four interpretable local stripe structures: breakpoints, bifurcations, irregular structures, and round structures ."
+  },
+  {
+    "id": "pubmed:42928920",
+    "title": "Automated Retinal Segmentation of Hyperspectral Images Using a Modified U-Net with Spectral Multi-head Attention.",
+    "abstract": "Hyperspectral imaging (HSI) can capture spatial and spectral data of the retina. Retinal vessel segmentation enables quantitative analysis and assessment of retinal health. In this work, we developed an HSI system for mouse retina and a deep learning architecture to segment retinal vessels. Retinal images were manually segmented to establish ground truth. We proposed the use of multi-head attention block for the spectral data, as well as Tversky loss for segmentation refinement. The model's performance was assessed using Dice similarity coefficient (DSC) and the Jaccard (IoU) metrics. A comparative analysis was conducted against the manual segmentation, and five other segmentation methods: UNet, UNet++, UNet3+, segment anything model (SAM), and SAM2. We demonstrated that our spectral network achieved an IoU and DSC scores of 0.80±0.04 and 0.89±0.02, respectively. Our network outperforms other networks. The automatic segmentation method provides a tool for retinal analysis and quantification.",
+    "authors": [
+      "Arrsh Ali",
+      "Minh Tran",
+      "Isioma Emordi",
+      "Michelle Bryarly",
+      "Muhammad Saad Yousuf",
+      "Brodie Jean Woodall",
+      "Baowei Fei"
+    ],
+    "published": "2026",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42928920/",
+    "pdf_url": null,
+    "doi": "10.1117/12.3085649",
+    "citations": 0,
+    "venue": "Proceedings of SPIE--the International Society for Optical Engineering",
+    "open_access": false,
+    "ai_summary": "Hyperspectral imaging (HSI) can capture spatial and spectral data of the retina . Retinal vessel segmentation enables quantitative analysis and assessment of retinal health ."
+  },
+  {
+    "id": "pubmed:42928930",
+    "title": "A handheld polarized hyperspectral imaging probe for tissue differentiation using spectral and polarization characteristics.",
+    "abstract": "Polarized hyperspectral imaging (PHSI) integrates spectral and polarization contrast to enable comprehensive tissue characterization. In this study, we validate a refined handheld PHSI probe that is more compact, lightweight, and capable of rapid image acquisition. The system was evaluated on freshly excised tissues from five male mice, focusing on four organ types-brain, tongue, thyroid, and testicle-chosen for their similar macroscopic appearance but distinct biochemical and microstructural properties. Spectral classification was performed using a one-dimensional convolutional neural network (1D-CNN) trained on total reflectance (Stokes S0) spectra. In parallel, polarization-resolved parameters-degree of linear polarization (DoLP) and degree of circular polarization (DoCP)-were derived to visualize structural and scattering differences among tissues. Despite the visual similarity among tissues, the model achieved high classification accuracy with an average overall accuracy of 95.3% across leave-one-out cross-validation folds. DoLP effectively differentiated glandular from adipose tissue, and highlighted muscle fiber orientation differences within tongue regions. DoCP distinguished blood-rich regions from surrounding glandular or fatty tissues, revealing higher DoCP in vascular areas and lower values in fat. These results confirm that spectral and polarization features offer complementary tissue contrast. This work demonstrates the potential of handheld PHSI for real-time tissue assessment and lays the foundation for future integration of spectral and polarization data in machine learning for clinical decision support.",
+    "authors": [
+      "Ling Ma",
+      "Izabella Chaverra",
+      "Chinmay Patwardhan",
+      "Rokunuzjahan Rudro",
+      "Amie Ha",
+      "Suhani Swain",
+      "Baowei Fei"
+    ],
+    "published": "2026",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42928930/",
+    "pdf_url": null,
+    "doi": "10.1117/12.3085650",
+    "citations": 0,
+    "venue": "Proceedings of SPIE--the International Society for Optical Engineering",
+    "open_access": false,
+    "ai_summary": "Polarized hyperspectral imaging (PHSI) integrates spectral and polarization contrast to enable comprehensive tissue characterization . The system was evaluated on freshly excised tissues from five male mice . Despite the visual similarity among tissues, the model achieved high classification accuracy with an average overall accuracy of 95.3% across leave-one-"
+  },
+  {
+    "id": "pubmed:42928829",
+    "title": "Bridge2AI recommendations for AI-ready genomic data.",
+    "abstract": "Rapid advancements in technology have led to an increased use of artificial intelligence (AI) technologies in medicine and bioinformatics research. In anticipation of this, the National Institutes of Health (NIH) assembled the Bridge to Artificial Intelligence (Bridge2AI) consortium to coordinate development of \"AI-ready\" datasets that can be leveraged by AI models to address grand challenges in human health and disease. The widespread availability of genome sequencing technologies for biomedical research presents a key data type for informing AI models, necessitating that genomics data sets are \"AI-ready.\" To this end, the Genomic Information Standards Team (GIST) of the Bridge2AI Standards Working Group has documented a set of recommendations for maintaining AI-ready genomics datasets. In this report, we describe recommendations for the collection, storage, identification, and proper use of genomics datasets to enable them to be considered \"AI-ready\" and thus drive new insights in medicine through AI and machine learning applications.",
+    "authors": [
+      "Matthew Cannon",
+      "Wesley Goar",
+      "In-Hee Lee",
+      "James Stevenson",
+      "Amy Heiser",
+      "Nathan C Sheffield",
+      "James Eddy",
+      "Monica Munoz-Torres",
+      "Sek Won Kong",
+      "Alex H Wagner"
+    ],
+    "published": "2026",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42928829/",
+    "pdf_url": null,
+    "doi": "10.1093/bioadv/vbag305",
+    "citations": 0,
+    "venue": "Bioinformatics advances",
+    "open_access": false,
+    "ai_summary": "The National Institutes of Health (NIH) assembled the Bridge to Artificial Intelligence (Bridge2AI) consortium to coordinate development of \"AI-ready\" datasets . The widespread availability of genome sequencing technologies for biomedical research presents a key data type for informing AI models . The Genomic Information Standards Team (GIST) of the Bridge2"
+  },
+  {
+    "id": "pubmed:42928810",
+    "title": "Hyperspectral imaging of human prostate tissue with automatic segmentation and histologic validation.",
+    "abstract": "Hyperspectral imaging (HSI) is an emerging modality that captures rich spatial and spectral information, offering promise for tissue characterization and disease diagnosis. In the context of the prostate, where histopathological assessment remains the gold standard, current imaging techniques often lack sufficient ability to support fine-grained tissue discrimination. Moreover, large annotated HSI datasets are scarce due to the complexity of expert labeling, limiting the development of data-driven diagnostic models. We present a framework for HSI-based analysis of gross prostate datasets, integrating remote annotation for prostate tissue segmentation. HSI data were acquired ",
+    "authors": [
+      "Chinmay Patwardhan",
+      "Kelden Pruitt",
+      "Ling Ma",
+      "Douglas W Strand",
+      "Payal Kapur",
+      "Xiaosong Meng",
+      "Brett A Johnson",
+      "Baowei Fei"
+    ],
+    "published": "2026",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42928810/",
+    "pdf_url": null,
+    "doi": "10.1117/12.3087770",
+    "citations": 0,
+    "venue": "Proceedings of SPIE--the International Society for Optical Engineering",
+    "open_access": false,
+    "ai_summary": "Hyperspectral imaging (HSI) is an emerging modality that captures rich spatial and spectral information, offering promise for tissue characterization and disease diagnosis ."
+  },
+  {
+    "id": "conf:Conference:https://aclanthology.org/events/acl-2025/#2025acl-long",
+    "title": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    "abstract": "",
+    "authors": [],
+    "published": "",
+    "source": "Conference",
+    "category": "conference",
+    "url": "https://aclanthology.org/events/acl-2025/#2025acl-long",
+    "pdf_url": null,
+    "doi": null,
+    "citations": 0,
+    "venue": "Conference",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "conf:Conference:https://github.com/THUKElab/CLEME",
+    "title": "https://github.com/THUKElab/CLEME",
+    "abstract": "",
+    "authors": [],
+    "published": "",
+    "source": "Conference",
+    "category": "conference",
+    "url": "https://github.com/THUKElab/CLEME",
+    "pdf_url": null,
+    "doi": null,
+    "citations": 0,
+    "venue": "Conference",
+    "open_access": false,
+    "ai_summary": "No abstract available."
   }
 ]
