@@ -124,22 +124,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.3998/mjcsl.11105",
-    "title": "Title Pending 11105",
-    "abstract": "",
-    "authors": [],
-    "published": "2036",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.3998/mjcsl.11105",
-    "pdf_url": null,
-    "doi": "10.3998/mjcsl.11105",
-    "citations": 0,
-    "venue": "Michigan Journal of Community Service Learning",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
     "id": "crossref:10.3998/mjcsl.8122",
     "title": "Title Pending 8122",
     "abstract": "",
@@ -156,18 +140,18 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.21825/ewopinpractice.94702",
-    "title": "Title Pending 94702",
+    "id": "crossref:10.3998/mjcsl.11105",
+    "title": "Title Pending 11105",
     "abstract": "",
     "authors": [],
-    "published": "2035",
+    "published": "2036",
     "source": "Crossref",
     "category": "index",
-    "url": "https://doi.org/10.21825/ewopinpractice.94702",
+    "url": "https://doi.org/10.3998/mjcsl.11105",
     "pdf_url": null,
-    "doi": "10.21825/ewopinpractice.94702",
+    "doi": "10.3998/mjcsl.11105",
     "citations": 0,
-    "venue": "EWOP in Practice",
+    "venue": "Michigan Journal of Community Service Learning",
     "open_access": false,
     "ai_summary": "No abstract available."
   },
@@ -182,6 +166,22 @@
     "url": "https://doi.org/10.21825/ewopinpractice.94703",
     "pdf_url": null,
     "doi": "10.21825/ewopinpractice.94703",
+    "citations": 0,
+    "venue": "EWOP in Practice",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "crossref:10.21825/ewopinpractice.94702",
+    "title": "Title Pending 94702",
+    "abstract": "",
+    "authors": [],
+    "published": "2035",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.21825/ewopinpractice.94702",
+    "pdf_url": null,
+    "doi": "10.21825/ewopinpractice.94702",
     "citations": 0,
     "venue": "EWOP in Practice",
     "open_access": false,
@@ -376,6 +376,24 @@
     "ai_summary": "No abstract available."
   },
   {
+    "id": "crossref:10.56251/watu4873",
+    "title": "Machine Learning Application for SAIs",
+    "abstract": "",
+    "authors": [
+      "Tiare Rivera"
+    ],
+    "published": "2030",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.56251/watu4873",
+    "pdf_url": null,
+    "doi": "10.56251/watu4873",
+    "citations": 0,
+    "venue": "International Journal of Government Auditing",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
     "id": "crossref:10.56251/yxek7242",
     "title": "Evolution and Applications of Artificial Intelligence in SAIs",
     "abstract": "",
@@ -392,24 +410,6 @@
     "url": "https://doi.org/10.56251/yxek7242",
     "pdf_url": null,
     "doi": "10.56251/yxek7242",
-    "citations": 0,
-    "venue": "International Journal of Government Auditing",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "crossref:10.56251/watu4873",
-    "title": "Machine Learning Application for SAIs",
-    "abstract": "",
-    "authors": [
-      "Tiare Rivera"
-    ],
-    "published": "2030",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.56251/watu4873",
-    "pdf_url": null,
-    "doi": "10.56251/watu4873",
     "citations": 0,
     "venue": "International Journal of Government Auditing",
     "open_access": false,
@@ -550,6 +550,25 @@
     "ai_summary": "ML, DL, and NLP are rapidly becoming into effective instruments for detecting both well-known and brand-new forms of phishing ."
   },
   {
+    "id": "crossref:10.5705/ss.202025.0275",
+    "title": "Efficient Learning of Sparse Differential Networks in Multi-Source Non-Paranormal Models",
+    "abstract": "",
+    "authors": [
+      "Mojtaba Nikahd",
+      "Seyed Abolfazl Motahari"
+    ],
+    "published": "2029",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.5705/ss.202025.0275",
+    "pdf_url": null,
+    "doi": "10.5705/ss.202025.0275",
+    "citations": 0,
+    "venue": "Statistica Sinica",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
     "id": "crossref:10.70239/arsu.2026.t85.n3.07",
     "title": "HYBRID NETWORK INTRUSION DETECTION SYSTEM BASED ON SIGNATURE ANALYSIS AND MACHINE LEARNING METHODS",
     "abstract": "<jats:p>In the context of increasing complexity of modern network infrastructures and the growing number of cyberattacks, improving the effectiveness of intrusion detection systems is a highly relevant task. The aim of this work is to develop and investigate a hybrid approach to network attack detection based on a combination of signature-based analysis and intelligent machine learning methods.  The research methods include analysis of requirements for anomaly detection systems, comparative analysis of existing solutions, design of a hybrid system architecture, and experimental modeling using multiclass classification of network traffic. The results demonstrate that integrating a neural model with a traditional detection system improves attack detection coverage and reduces the number of false positives.  The practical significance of the study lies in the possibility of deploying the proposed architecture in real corporate networks, while the theoretical significance consists in substantiating the effectiveness of a hybrid approach to traffic analysis. Future research directions include adaptive model training and expansion of the range of detectable attacks.</jats:p>",
@@ -572,61 +591,20 @@
     "ai_summary": "The aim of this work is to develop and investigate a hybrid approach to network attack detection based on signature-based analysis and intelligent machine learning methods . The practical significance of the study lies in the possibility of deploying the proposed architecture in real corporate networks ."
   },
   {
-    "id": "crossref:10.5705/ss.202025.0275",
-    "title": "Efficient Learning of Sparse Differential Networks in Multi-Source Non-Paranormal Models",
+    "id": "crossref:10.5705/ss.202025.0406",
+    "title": "Distributed Learning of Single Index Model with Differential Privacy and Massive Data",
     "abstract": "",
     "authors": [
-      "Mojtaba Nikahd",
-      "Seyed Abolfazl Motahari"
+      "Fode Zhang",
+      "Lingrui Wang",
+      "Hua Liang"
     ],
     "published": "2029",
     "source": "Crossref",
     "category": "index",
-    "url": "https://doi.org/10.5705/ss.202025.0275",
+    "url": "https://doi.org/10.5705/ss.202025.0406",
     "pdf_url": null,
-    "doi": "10.5705/ss.202025.0275",
-    "citations": 0,
-    "venue": "Statistica Sinica",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "crossref:10.5705/ss.202026.0109",
-    "title": "Inference for Extreme Value Index Through Individualized Fusion Learning",
-    "abstract": "",
-    "authors": [
-      "Hongfang Sun",
-      "Yu Chen",
-      "Tao Xu",
-      "Zhengjun Zhang"
-    ],
-    "published": "2029",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.5705/ss.202026.0109",
-    "pdf_url": null,
-    "doi": "10.5705/ss.202026.0109",
-    "citations": 0,
-    "venue": "Statistica Sinica",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "crossref:10.5705/ss.202025.0230",
-    "title": "Two-way Subgroup Structure Learning for High Dimensional Clustered Survival Data",
-    "abstract": "",
-    "authors": [
-      "Ye He",
-      "Dongsheng Tu",
-      "Liu Liu",
-      "Ling Zhou"
-    ],
-    "published": "2029",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.5705/ss.202025.0230",
-    "pdf_url": null,
-    "doi": "10.5705/ss.202025.0230",
+    "doi": "10.5705/ss.202025.0406",
     "citations": 0,
     "venue": "Statistica Sinica",
     "open_access": false,
@@ -654,20 +632,42 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.5705/ss.202025.0406",
-    "title": "Distributed Learning of Single Index Model with Differential Privacy and Massive Data",
+    "id": "crossref:10.5705/ss.202025.0230",
+    "title": "Two-way Subgroup Structure Learning for High Dimensional Clustered Survival Data",
     "abstract": "",
     "authors": [
-      "Fode Zhang",
-      "Lingrui Wang",
-      "Hua Liang"
+      "Ye He",
+      "Dongsheng Tu",
+      "Liu Liu",
+      "Ling Zhou"
     ],
     "published": "2029",
     "source": "Crossref",
     "category": "index",
-    "url": "https://doi.org/10.5705/ss.202025.0406",
+    "url": "https://doi.org/10.5705/ss.202025.0230",
     "pdf_url": null,
-    "doi": "10.5705/ss.202025.0406",
+    "doi": "10.5705/ss.202025.0230",
+    "citations": 0,
+    "venue": "Statistica Sinica",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "crossref:10.5705/ss.202026.0109",
+    "title": "Inference for Extreme Value Index Through Individualized Fusion Learning",
+    "abstract": "",
+    "authors": [
+      "Hongfang Sun",
+      "Yu Chen",
+      "Tao Xu",
+      "Zhengjun Zhang"
+    ],
+    "published": "2029",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.5705/ss.202026.0109",
+    "pdf_url": null,
+    "doi": "10.5705/ss.202026.0109",
     "citations": 0,
     "venue": "Statistica Sinica",
     "open_access": false,
@@ -752,24 +752,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.71126/nijre.v2i1.16",
-    "title": "Transforming Education through Technology: The Case of COVID 19 Digital Learning in Nagaland",
-    "abstract": "<jats:p>Through the perspective of the COVID-19 pandemic and the disruption and opportunity it engendered, this chapter follows a transformative effect of EdTech and Digital education in India particularly in Nagaland through analysis. Drawing upon national policy frameworks, conceptual literature on educational technology, and contextual evidence based on the case of Nagaland, the chapter considers the rapid migration to digital learning as an emergency strategy (in response to the ongoing institution closures) based on the stark shifts in pedagogical practice, access to education services, and preparedness. The findings show that, including the ability of national programmes such as NEP 2020, SWAYAM, DIKSHA, PM e-VIDYA, and others, to promote access to digital tools was low within periphery or hill areas (e.g., Nagaland), due to lack of infrastructural resources, digital divide, unprepared teachers and economic/social divides, and more. The pandemic exposed the deep social and infrastructure divides in connectivity, device availability, assessment and learner engagement, with implications that were especially grave in rural and tribal settings. Although it accelerated the pace of innovation and the application of blended and low-tech learning practices teachers have been experimenting with digital platforms and the post-COVID recovery process, including remedial programmes and hybrid instruction. The chapter also discusses that blended learning is the most fitting, viable and sustainable approach for reaching the technological level in the field of educational technology at Nagaland. It implies that technology-mediated education can improve equity, quality, and resilience, but only under the conditions of inclusive policy design, strong digital infrastructure, vigorous teacher capability building, and culturally appropriate digital content.\nKeywords: Educational technology, digital learning, COVID-19, Nagaland, online education, Challenges, blended learning</jats:p>",
-    "authors": [
-      "K Hinoca Assumi"
-    ],
-    "published": "2028",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.71126/nijre.v2i1.16",
-    "pdf_url": null,
-    "doi": "10.71126/nijre.v2i1.16",
-    "citations": 0,
-    "venue": "Naveen International Journal of Research in Education (NIJRE)",
-    "open_access": false,
-    "ai_summary": "The chapter considers the rapid migration to digital learning as an emergency strategy . The findings show that the ability of national programmes such as NEP 2020, SWAYAM, DIKSHA, PM e-VIDYA, and others, to promote access to digital tools was low within periphery or hill areas ."
-  },
-  {
     "id": "crossref:10.32628/cseit251116279",
     "title": "Cyber Defense Digital Twins: A Federated Learning and Zero-Trust AI Architecture for Autonomous Threat Prediction and Response",
     "abstract": "<jats:p>Modern enterprise networks operate under persistent threats that exploit cloud-native misconfigurations, identity sprawl, and API vulnerabilities at machine speed. Existing security operations center (SOC) architectures remain largely reactive, signature-dependent, and incapable of predicting multi-stage lateral movement. This paper proposes the Cognitive Cyber Defense Digital Twin (CCDT), a unified architecture integrating federated learning (FL), graph neural network (GNN)-based attack-path forecasting, adversarially hardened detection models, and autonomous Security Orchestration, Automation, and Response (SOAR) with deception engineering. The CCDT constructs a continuously synchronized digital replica of organizational assets and employs reinforcement learning-based red agents to stress-test detection models. A federated intelligence mesh enables cross-organizational privacy-preserving gradient sharing. Experimental evaluations against CICIDS-2018 and LANL datasets demonstrate 52% faster attack-path detection, 41% reduction in false positive rate, and 60% reduction in mean-time-to-respond (MTTR) compared to traditional SOC baselines. Integrated Explainable AI (XAI) modules using SHAP values enable audit-ready compliance reporting. The CCDT represents a paradigm shift from reactive monitoring to predictive, autonomous, and privacy-preserving cyber defense for hybrid cloud environments.</jats:p>",
@@ -786,6 +768,24 @@
     "venue": "International Journal of Scientific Research in Computer Science, Engineering and Information Technology",
     "open_access": false,
     "ai_summary": "The paper proposes the Cognitive Cyber Defense Digital Twin (CCDT) The CCDT constructs a continuously synchronized digital replica of organizational assets . It employs reinforcement learning-based red agents to stress-test detection models ."
+  },
+  {
+    "id": "crossref:10.71126/nijre.v2i1.16",
+    "title": "Transforming Education through Technology: The Case of COVID 19 Digital Learning in Nagaland",
+    "abstract": "<jats:p>Through the perspective of the COVID-19 pandemic and the disruption and opportunity it engendered, this chapter follows a transformative effect of EdTech and Digital education in India particularly in Nagaland through analysis. Drawing upon national policy frameworks, conceptual literature on educational technology, and contextual evidence based on the case of Nagaland, the chapter considers the rapid migration to digital learning as an emergency strategy (in response to the ongoing institution closures) based on the stark shifts in pedagogical practice, access to education services, and preparedness. The findings show that, including the ability of national programmes such as NEP 2020, SWAYAM, DIKSHA, PM e-VIDYA, and others, to promote access to digital tools was low within periphery or hill areas (e.g., Nagaland), due to lack of infrastructural resources, digital divide, unprepared teachers and economic/social divides, and more. The pandemic exposed the deep social and infrastructure divides in connectivity, device availability, assessment and learner engagement, with implications that were especially grave in rural and tribal settings. Although it accelerated the pace of innovation and the application of blended and low-tech learning practices teachers have been experimenting with digital platforms and the post-COVID recovery process, including remedial programmes and hybrid instruction. The chapter also discusses that blended learning is the most fitting, viable and sustainable approach for reaching the technological level in the field of educational technology at Nagaland. It implies that technology-mediated education can improve equity, quality, and resilience, but only under the conditions of inclusive policy design, strong digital infrastructure, vigorous teacher capability building, and culturally appropriate digital content.\nKeywords: Educational technology, digital learning, COVID-19, Nagaland, online education, Challenges, blended learning</jats:p>",
+    "authors": [
+      "K Hinoca Assumi"
+    ],
+    "published": "2028",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.71126/nijre.v2i1.16",
+    "pdf_url": null,
+    "doi": "10.71126/nijre.v2i1.16",
+    "citations": 0,
+    "venue": "Naveen International Journal of Research in Education (NIJRE)",
+    "open_access": false,
+    "ai_summary": "The chapter considers the rapid migration to digital learning as an emergency strategy . The findings show that the ability of national programmes such as NEP 2020, SWAYAM, DIKSHA, PM e-VIDYA, and others, to promote access to digital tools was low within periphery or hill areas ."
   },
   {
     "id": "openalex:W7171699190",
@@ -860,25 +860,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "openalex:W7212621018",
-    "title": "Perioperative hyperbaric oxygen therapy: mechanisms, evidence, and clinical application.",
-    "abstract": "",
-    "authors": [
-      "Takudzwa Gavaza",
-      "Nathanael Matei"
-    ],
-    "published": "2027-01-01",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.4103/mgr.medgasres-d-25-00318",
-    "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13667376/pdf/MGR-17-306.pdf",
-    "doi": "10.4103/mgr.medgasres-d-25-00318",
-    "citations": 0,
-    "venue": "PubMed",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
     "id": "openalex:W7212699939",
     "title": "Development and validation of a machine learning-based predictive model for prognosis in cerebral hemorrhage patients after hyperbaric oxygen therapy.",
     "abstract": "",
@@ -937,73 +918,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "openalex:W7213003074",
-    "title": "Oxygen, carbon dioxide, and nitric oxide: role in the pathophysiology of obstructive sleep apnea.",
-    "abstract": "",
-    "authors": [
-      "Antonio Fabozzi",
-      "Pasquale Tondo",
-      "Caterina Antonaglia",
-      "Alessia Steffanina",
-      "Donato Lacedonia",
-      "Marco Confalonieri",
-      "Matteo Bonini",
-      "Paolo Palange"
-    ],
-    "published": "2027-01-01",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.4103/mgr.medgasres-d-25-00224",
-    "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13667351/pdf/MGR-17-285.pdf",
-    "doi": "10.4103/mgr.medgasres-d-25-00224",
-    "citations": 0,
-    "venue": "PubMed",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W7213092516",
-    "title": "Nitric oxide signaling and mitophagy in Parkinson's disease: implications for aerobic exercise-related neuroprotection.",
-    "abstract": "",
-    "authors": [
-      "Yang Zhou",
-      "Yongliang Wu"
-    ],
-    "published": "2027-01-01",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.4103/mgr.medgasres-d-26-00008",
-    "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13667388/pdf/MGR-17-129.pdf",
-    "doi": "10.4103/mgr.medgasres-d-26-00008",
-    "citations": 0,
-    "venue": "PubMed",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W7213165266",
-    "title": "High levels of nitric oxide and peroxynitrite with protein nitration: a new therapeutic target for gliomas.",
-    "abstract": "",
-    "authors": [
-      "Ying Yang",
-      "Qi Zhang",
-      "Yuchen Ma",
-      "Serge Yannick Ouédraogo",
-      "Liang Chen",
-      "Xianquan Zhan"
-    ],
-    "published": "2027-01-01",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.4103/mgr.medgasres-d-25-00365",
-    "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13667387/pdf/MGR-17-117.pdf",
-    "doi": "10.4103/mgr.medgasres-d-25-00365",
-    "citations": 0,
-    "venue": "PubMed",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
     "id": "openalex:W7211975381",
     "title": "Application and feasibility analysis of random Forest models in safety prediction for transition metal-doped Na3V2(PO4)3 sodium-ion batteries.",
     "abstract": "",
@@ -1032,203 +946,224 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "pubmed:42935427",
-    "title": "[Spatial-temporal Distribution， Occurrence Characteristics， and Influencing Factors of Atmospheric Microplastic Pollution in China].",
-    "abstract": "Atmospheric microplastics （MPs） pollution has emerged as a global environmental issue， with growing concerns about its potential risks to ecosystems and human health. However， there is still a lack of systematic comparative studies on the pollution characteristics of atmospheric MPs across different functional zones at a national scale， and their morphological characteristics， polymer composition， and key driving factors remain unclear. Therefore， based on data from 249 deposition sites and 169 suspension sites across China from 2014 to 2024， combined with multi-dimensional environmental parameters including industrial emissions， meteorological conditions， and socio-economic factors， this study systematically analyzed the spatiotemporal distribution and occurrence characteristics of atmospheric MPs in different functional zones in China， and a random forest model was constructed to identify key influencing factors. The results showed that： ① The average deposition flux of MPs exhibited a regional pattern of Central China [3 888 n·（m",
+    "id": "pubmed:42944553",
+    "title": "vibe-qc: An Open-Source, General-Purpose Electronic-Structure Code for Molecules and Solids Developed With Generative AI.",
+    "abstract": "We present vibe-qc, a general-purpose open-source electronic-structure code for molecules and solids, developed almost entirely with agentic AI under expert human direction. The code is released under the Mozilla Public License 2.0 (MPLv2). The implementation comprises a C++17 numerical core and Python calculation drivers. Molecular methods include Hartree-Fock, Kohn-Sham DFT, Møller-Plesset theory and double hybrids, coupled cluster, active-space methods, and excited states. Dispersion corrections, continuum solvation, and effective core potentials are also available. Periodic calculations use Gaussian-basis HF and DFT with Brillouin-zone sampling. Molecular and periodic method coverage differs; the feature matrices specify analytic and numerical derivatives and distinguish validated and experimental implementations. The validation set is a key contribution of this work. It combines independent program comparisons, published benchmarks, and internal consistency tests. Molecular mean-field energies agree at the nanohartree scale, and conventional CCSD(T) energies agree within ",
     "authors": [
-      "Yong-Qiang Luo",
-      "Xin-Yu Yu",
-      "Qi-Xiang Zhang",
-      "Qiang Liu",
-      "Fa-Wen Zhang",
-      "Li Ma",
-      "Xin Gui"
+      "Michael F Peintinger"
     ],
-    "published": "2026-Oct-15",
+    "published": "2026-Oct-30",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42935427/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42944553/",
     "pdf_url": null,
-    "doi": "10.13227/j.hjkx.202508272",
+    "doi": "10.1002/jcc.70525",
     "citations": 0,
-    "venue": "Huan jing ke xue= Huanjing kexue",
+    "venue": "Journal of computational chemistry",
     "open_access": false,
-    "ai_summary": "There is still a lack of systematic comparative studies on the pollution characteristics of atmospheric MPs across different functional zones at a national scale . The average deposition flux of MPs exhibited a regional pattern of C ."
+    "ai_summary": "The code is released under the Mozilla Public License 2.0 (MPLv2) The implementation comprises a C++17 numerical core and Python calculation drivers . It combines independent program comparisons, published benchmarks and internal consistency tests ."
   },
   {
-    "id": "pubmed:42935414",
-    "title": "[Spatio-temporal Pattern and Driving Mechanism of Ecosystem Water Use Efficiency in Ecological Zones of the Loess Plateau Based on the SHAP Algorithm].",
-    "abstract": "Ecosystem water use efficiency （WUE） is a key indicator for characterizing the carbon-water coupling relationship in terrestrial ecosystems. Based on multi-source data， the Sen-MK trend analysis， Hurst index， and SHAP interpretable machine learning method were employed to reveal the spatiotemporal evolution and driving mechanisms of WUE from 2000 to 2023 in the Loess Plateau and its six ecological subregions （High Plateau Gully Region， including A1 and A2； Hilly Gully Region， including B1 and B2； Sandy Farmland Irrigation Region C； Earth-Rock Mountains and Valley Plain Region D）. The results showed that： ① On an interannual scale， the WUE of the entire region and all subregions had been showing an increasing trend. The growth rate was highest in subregion B [0.007 g·（m",
+    "id": "pubmed:42944562",
+    "title": "An immune-inflammatory and thyroid function machine learning model for predicting adverse pregnancy outcomes: Development in a retrospective cohort and external validation in a prospective cohort.",
+    "abstract": "Maternal thyroid dysfunction is associated with adverse pregnancy outcomes, yet thyroid status alone stratifies individual risk poorly and the immune-inflammatory contribution is rarely incorporated into prospectively validated prediction tools. We aimed to develop and externally validate a model predicting a composite adverse pregnancy outcome from antenatal thyroid and cytokine markers. The model was developed in a retrospective cohort (n = 650; 131 events, 20.2%) and externally validated in an independent prospective cohort (n = 150; 26 events, 17.3%). Fifteen antenatal candidate predictors common to both cohorts were considered. Least absolute shrinkage and selection operator (LASSO) regression was used for variable selection; LASSO-logistic regression, random forest, extreme gradient boosting, and a support-vector machine were compared by repeated stratified cross-validation. Discrimination was quantified using the area under the receiver operating characteristic curve (AUC); calibration and clinical utility were also assessed, with internal-external cross-validation (IECV) as a sensitivity analysis. LASSO retained three predictors: thyroid peroxidase antibody (TPOAb), interleukin-6 (IL-6), and interleukin-10 (IL-10). LASSO-logistic regression was selected (development cross-validated AUC 0.762, 95% confidence interval [CI] 0.692-0.846). On external validation, the model achieved an AUC of 0.750 (95% CI 0.647-0.848), exceeding a thyroid group-only reference model (AUC 0.625); the Brier score was 0.127, and the calibration slope was 1.77. Random 10-fold IECV gave a pooled AUC of 0.761 (95% CI 0.720-0.800). Higher IL-6 was associated with increased risk and higher IL-10 with decreased risk. A parsimonious three-marker model combining TPOAb, IL-6, and IL-10 showed moderate discrimination for adverse pregnancy outcomes and outperformed thyroid status alone. Calibration requires refinement, and validation in larger multicenter cohorts is warranted before clinical implementation.",
     "authors": [
-      "Hong-Ping Wei",
-      "Jun-Xia Yan",
-      "Ju Liu",
-      "Xiao-Yan Di",
-      "Yan Wang"
+      "Yumao Huang",
+      "Haihui Chen",
+      "Xiaolei Xie",
+      "Yu Jin",
+      "Jin Huang"
     ],
-    "published": "2026-Oct-15",
+    "published": "2026-Oct-27",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42935414/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42944562/",
     "pdf_url": null,
-    "doi": "10.13227/j.hjkx.202507295",
+    "doi": "10.1002/ijgo.71412",
     "citations": 0,
-    "venue": "Huan jing ke xue= Huanjing kexue",
+    "venue": "International journal of gynaecology and obstetrics: the official organ of the International Federation of Gynaecology and Obstetrics",
     "open_access": false,
-    "ai_summary": "Ecosystem water use efficiency is a key indicator for characterizing the carbon-water coupling relationship in terrestrial ecosystems . Based on multi-source data, the Sen-MK trend analysis was employed to reveal the spatiotemporal evolution and driving mechanisms of WUE from 2000 to 2023 in the Loess Plateau and its six ecological subregions"
+    "ai_summary": "The model was developed in a retrospective cohort (n = 650; 131 events, 20.2%) and externally validated in an independent prospective cohort . Fifteen antenatal candidate predictors common to both cohorts were considered ."
   },
   {
-    "id": "pubmed:42935419",
-    "title": "[Spatio-temporal Evolution and Driving Force Analysis of Ecosystem Service Supply-demand in Zhejiang Province Based on InVEST-OPGD-RF Framework].",
-    "abstract": "Ecosystem services are fundamental to sustainable human development， and understanding their spatiotemporal dynamics and driving mechanisms is crucial for regional ecological security. This study quantifies ecosystem service supply （water yield， carbon storage， soil conservation， and habitat quality） and demand （GDP per unit area， population density， and land-use intensity） in Zhejiang Province from 2000 to 2020. Using the InVEST model， we calculate the ecosystem service supply-demand ratio （ESDR） and analyze its spatiotemporal patterns. An optimal parameter-based geographical detector-random forest （OPGD-RF） framework is then applied to unravel driving mechanisms through single-factor， interactional， and multi-factor analyses. Key findings include： ① Ecosystem supply exhibited a southwest-high to northeast-low gradient， with water yield and soil conservation showing U-shaped trends while carbon storage and habitat quality declined continuously. Demand displayed the inverse pattern， with socioeconomic indicators （e.g.， GDP density） concentrated in urban clusters. ② ESDR followed a U-shaped trajectory over time. Spatially， deficits clustered in the Hangzhou-Jiaxing-Huzhou Plain and southeastern coast， while surpluses dominated southwestern mountainous regions. Ecological restoration policies facilitated recovery in some areas. ③ Population density and GDP emerged as core drivers， though NDVI's explanatory power rose significantly. Enhanced interactions between natural and socioeconomic factors jointly shaped ESDR differentiation. These conclusions directly support ecological zoning in territorial spatial planning for the Yangtze River Delta Integrated Demonstration Zone， providing scientific grounding for regional implementation of the Two Mountains theory.",
+    "id": "pubmed:42944564",
+    "title": "Development and Pilot Evaluation of a Standardized and Accessible Rubric (OMNI) for Assessing Generative AI in Health Care Contexts: Four-Stage Mixed Methods Study.",
+    "abstract": "The rapid adoption of generative AI in the community and health care necessitates reliable, human-led evaluation. This study aimed to develop a standardized rubric to support health care professionals, administrators, and researchers in evaluating generative AI outputs in health contexts. A rubric was developed through a 4-stage mixed methods study: literature synthesis, expert refinement, pilot application, and post-pilot feedback. The rubric was informed by 69 publications and refined through iterative feedback from a multidisciplinary expert panel (n=23). The pilot rubric was applied to 4 health care scenarios: responses to health-related Reddit questions, generation of health-related images and videos, responses to health professional continuing education questions, and automated physician-to-physician clinical documentation generation. Via these scenarios, 15 clinicians (medical practitioners, pharmacists, and medical oncologists) evaluated 250 input-output pairs using domain-level ratings and qualitative comments. The evaluated outputs included 200 AI-generated responses across the 4 health care scenarios and 50 physician-tagged replies in the health-related Reddit questions scenario. The final rubric, OMNI, comprised 10 evaluation domains (Accuracy, Safety, Recognizes Uncertainty, Completeness, Communicates Clearly, Empathetic, Context Aware, Referencing, Follows Instructions, and Avoids Coerciveness) assessed on 4-point Likert scales, supported by detailed instructional and example materials. Via the 4 pilot scenarios, assessors generated 9600 domain-level ratings and 4010 qualitative comments. The mean pairwise agreement for the 4-point Likert groups ranged from 30.8% to 53.4%, increasing to 59.3% to 79.6% when collapsed into broad agreement categories; Gwet's AC2 ranged from 0.49 to 0.80. OMNI differentiated strengths and weaknesses between models within scenarios, while recurrent limitations in Referencing, Recognizes Uncertainty, Completeness, Empathetic, and Accuracy were identified across scenarios. Multimodal image and video outputs had the highest occurrence of negative rating domains. Assessors reported OMNI was usable and indicated they would reuse it. OMNI is a standardized, accessible rubric for expert-led evaluation of generative AI outputs in health contexts. Pilot application demonstrated that OMNI could differentiate AI performance across models and domains while generating structured feedback. Further work is needed to assess its applicability to purpose-built health AI tools, agentic systems, and organizational evaluation settings.",
     "authors": [
-      "Yong-Hua Li",
-      "Zhe-Hui He",
-      "Song Yao",
-      "He-Zhou Jiang",
-      "Ju-Fang Song"
+      "Erik Cornelisse",
+      "Dib Kousa",
+      "Bradley D Menz",
+      "Brinleigh Murphy-Reuter",
+      "Adel Shahnam",
+      "Benjamin Chin-Yee",
+      "Ryan Calabro",
+      "Lee X Li",
+      "Imogen Ramsey",
+      "Ahmad Y Abuhelwa",
+      "Jessica M Logan",
+      "Huah Shin Ng",
+      "Mythily Aravinthan",
+      "James Goonan",
+      "Hannah Carthew",
+      "Paul Molyneux",
+      "Joanne Tang",
+      "Nadia Hitchen",
+      "Martin Hong",
+      "Jimit Gandhi",
+      "Stephanie Fontanarosa",
+      "Nicholas L Scarfo",
+      "Kezia Daniel",
+      "Sally B Marotti",
+      "Joy Mariadas",
+      "Bianca van Diermen",
+      "Divya Joyce Susai Manickam",
+      "Warit Ruanglertboon",
+      "David Postma",
+      "Melissa D McCradden",
+      "Sandeep Reddy",
+      "Stephen Bacchi",
+      "Arduino A Mangoni",
+      "Ross A McKinnon",
+      "Ganessan Kichenadasse",
+      "Gary H Lyman",
+      "Nicole M Kuderer",
+      "Michael J Sorich",
+      "Andrew Rowland",
+      "Ashley M Hopkins"
     ],
-    "published": "2026-Oct-15",
+    "published": "2026-Oct-27",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42935419/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42944564/",
     "pdf_url": null,
-    "doi": "10.13227/j.hjkx.202508174",
+    "doi": "10.2196/100531",
     "citations": 0,
-    "venue": "Huan jing ke xue= Huanjing kexue",
+    "venue": "Journal of medical Internet research",
     "open_access": false,
-    "ai_summary": "Ecosystem services are fundamental to sustainable human development， and understanding their spatiotemporal dynamics and driving mechanisms is crucial for regional ecological security . This study quantifies ecosystem service supply and demand in Zhejiang Province ."
+    "ai_summary": "The study aimed to develop a standardized rubric to support health care professionals, administrators, and researchers in evaluating generative AI outputs in health contexts . The pilot rubric was applied to 4 health care scenarios . 15 clinicians (medical practitioners, pharmacists, and medical oncologists) evaluated 250 input-output pairs using domain-"
   },
   {
-    "id": "pubmed:42935411",
-    "title": "[Spatial-temporal Evolution of Ecological Security Patterns and Assessment of Ecological Resilience in Chongqing Based on the MSPA-InVEST Model].",
-    "abstract": "Establishing an ecological security framework and assessing ecological resilience are of great significance for enhancing regional ecological security levels and optimizing the spatial layout of mountainous urban areas. Taking Chongqing as an example， the InVEST model was used to assess four ecosystem services： water production， carbon sequestration， soil conservation， and habitat quality. The MSPA method was employed to identify ecological source areas. A resistance surface was constructed by comprehensively considering natural and human factors. The Linkage Mapper tool was utilized to extract ecological corridors and identify ecological bottlenecks， thereby constructing the regional ecological security pattern. Additionally， the Fragstats and Conefor Sensinode software were used to assess its ecological resilience. The results indicate that from 2000 to 2022， the number of ecological source patches continued to increase， with a spatial distribution characterized by concentration in the east and dispersion in the west. The total length of ecological corridors first increased and then decreased， with a net increase of 2 717.37 km， and the overall connectivity of the region gradually strengthened. The total area of ecological nodes showed a \"V\"-shaped trend， forming two high-density core areas in the Qinba Mountains of northeastern Chongqing and the Wuling Mountains of southeastern Chongqing. The ecological source area resilience index in Chongqing ranged from 0.087 5 to 0.897 4 between 2000 and 2022， with a spatial distribution pattern of \"high in the northeast and low in the southwest.\" The ecological corridor resilience index ranged from 0.206 7 to 0.769 4， with low-resilience corridors concentrated in the Wuling Mountains in southeastern Chongqing and the Three Gorges Reservoir Area in northeastern Chongqing， while high-resilience corridors were distributed in the Daba Mountains， parallel ridge and valley areas， and the outskirts of the main urban area in northeastern Chongqing. The ecological node resilience index ranged from 0.216 9 to 0.783 1， with an overall spatial pattern characterized by \"low resilience dominance and localized high resilience clusters.\" The research findings provide a scientific basis for optimizing ecological space， enhancing ecosystem stability， and improving ecological service functions in Chongqing and also offer reference and guidance for constructing ecological safety patterns and assessing regional ecological resilience in other mountainous cities.",
+    "id": "pubmed:42944532",
+    "title": "Methods for Optimizing Photoplethysmography Signal Quality.",
+    "abstract": "Although chest-mounted photoplethysmography (PPG) has proven useful in clinical applications, it nevertheless remains vulnerable to dynamic-range challenges. Because the chest is less well perfused than traditional PPG measurement sites, it yields weaker pulsatile signals that may be masked by large DC baselines. Some commercial sensors feature coarse built-in DC cancellation, but they inject considerable uncompensated artifacts. First, this paper presents a hardware-software codesign using a commercial sensor with a DC cancellation feature, which is overridden by smoothed, software-defined control inputs. A real-time calibrator estimates and cancels DC components using an exponentially weighted moving average. Second, a linear predictive coding-based artifact-elimination method is introduced. Third, a multi-channel data fusion method using a softmax combiner is developed to improve PPG signal quality. System performance was evaluated using experimental data from six human subjects in a seated laboratory environment. Results indicate that the methods remove DC offsets and step artifacts, producing waveforms that are similar to ground-truth references. Quantitative results also show that the proposed combiner achieved a signal-to-noise ratio of 8.47±3.14 dB on its composite waveform, providing modest improvements (p=0.031) compared to traditional equal-gain (7.91±2.86 dB) and maximal-ratio (8.03±2.87 dB) combiners.",
     "authors": [
-      "Wei-Yan Wang",
-      "Wei-Ci Su",
-      "Wen-Zhuo Dong",
-      "Rong Gou",
-      "Dong-Yue Liu"
+      "Oludotun Ode",
+      "David V Anderson",
+      "Omer T Inan"
     ],
-    "published": "2026-Oct-15",
+    "published": "2026-Oct-21",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42935411/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42944532/",
     "pdf_url": null,
-    "doi": "10.13227/j.hjkx.202508254",
+    "doi": "10.3390/s26206669",
     "citations": 0,
-    "venue": "Huan jing ke xue= Huanjing kexue",
+    "venue": "Sensors (Basel, Switzerland)",
     "open_access": false,
-    "ai_summary": "The MSPA method was employed to identify ecological source areas . The Linkage Mapper tool was used to extract ecological corridors and identify ecological bottlenecks . The Fragstats and Conefor Sensinode software were used to assess its ecological resilience ."
+    "ai_summary": "chest-mounted photoplethysmography (PPG) has proven useful in clinical applications, but it remains vulnerable to dynamic-range challenges . Because the chest is less well perfused than traditional PPG measurement sites, it yields weaker pulsatile signals that may be masked by large DC baselines . Some commercial sensors feature coarse built-in"
   },
   {
-    "id": "pubmed:42935397",
-    "title": "[Spatiotemporal Dynamics and Driving Mechanisms of NPP in the Shanxi Section and Mining Areas of the Yellow River Basin].",
-    "abstract": "The continuous monitoring and refined assessment of the net primary productivity （NPP） of vegetation in the ecosystem of the Shanxi section of the Yellow River Basin are crucial for achieving the sustainable management of ecosystems in this region. In this study， MOD17A3 HGF annual NPP product data from 2003 to 2022 were used， combined with methods such as Theil-Sen Median analysis， Mann-Kendall significance test， and partial correlation analysis， to conduct a comprehensive analysis of the spatiotemporal changes in NPP in this region. Meanwhile， based on multi-source data including temperature （TEM）， precipitation （PRE）， solar radiation （SR）， and normalized difference vegetation index （NDVI）， a 1D convolutional neural network （1DCNN） deep learning model integrated with channel attention mechanism （referred to as the ACNN model） was developed to predict NPP. Additionally， the SHapley Additive exPlanations （SHAP） method was used to quantify the contribution of each driving factor to NPP and their interaction effects. The results show that： ①Temporally， the NPP （calculated in terms of carbon， C） in the Shanxi section of the Yellow River Basin and its mining areas both showed a fluctuating upward trend over the 20-year period. The overall NPP increased by 29.83% cumulatively， while the NPP in mining areas increased by 31.14% cumulatively. ② Spatially， the area with an upward trend of NPP in the Shanxi section of the Yellow River Basin accounted for 95.93%， and the northwestern region mainly showed a strongly significant upward trend. ③ In terms of NPP prediction， the ACNN model could effectively extract NPP-related features from input variables， and the accuracy of the proposed model [",
+    "id": "pubmed:42944528",
+    "title": "A Multimodal IMU-RTLS Manufacturing Motion Dataset for Worker Activity Recognition.",
+    "abstract": "Worker Activity Recognition can improve operational visibility in human-centric manufacturing systems. However, existing approaches remain limited by scarce industrial datasets, isolated task recordings, and sensor-intensive configurations. This study presents two multimodal datasets and a cyber-physical architecture for complementary levels of worker motion. The Gross Worker Activity Recognition dataset targets operator proximity to workstation and the identification of logistic activities in reconfigurable manufacturing systems. It contains 814,065 positioning samples from eight production setups, each repeated twice, involving more than 40 workers. This dataset is benchmarked with different learning structure algorithms, and the Long Short-Term Memory is selected as a baseline model, achieving an F1-score of 86%. The Fine Worker Activity Recognition dataset targets the segmentation of five pump-assembly operations using two inertial measurement units and a radio-frequency-identification smart glove. It comprises approximately 7 h of recordings and more than one million samples from 50 complete assemblies performed by three workers. Transformer, ResNet, and SqueezeNet models are benchmarked, with SqueezeNet selected as the baseline after achieving the highest F1-score of 85.2%. Moreover, the results identify transition-rich activities as the principal recognition bottleneck and show how complementary motion levels support different manufacturing indicators.",
     "authors": [
-      "Lu-Lu Chen",
-      "Hua-Bin Chai",
-      "Lei Wang",
-      "Yu Wang",
-      "Chun-Yi Li",
-      "Lei Zhang"
+      "Andrea Sbaragli",
+      "Matteo Nardello"
     ],
-    "published": "2026-Oct-15",
+    "published": "2026-Oct-21",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42935397/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42944528/",
     "pdf_url": null,
-    "doi": "10.13227/j.hjkx.202507394",
+    "doi": "10.3390/s26206665",
     "citations": 0,
-    "venue": "Huan jing ke xue= Huanjing kexue",
+    "venue": "Sensors (Basel, Switzerland)",
     "open_access": false,
-    "ai_summary": "The continuous monitoring and refined assessment of the net primary productivity of vegetation in the Shanxi section of the Yellow River Basin are crucial for achieving the sustainable management of ecosystems in this region . In this study, MOD17A3 HGF annual NPP product data from 2003 to 2022 were used ."
+    "ai_summary": "The Gross Worker Activity Recognition dataset targets operator proximity to workstation and the identification of logistic activities in reconfigurable manufacturing systems . The Long Short-Term Memory is selected as a baseline model, achieving an F1-score of 86%. The Fine Worker Activity"
   },
   {
-    "id": "pubmed:42935409",
-    "title": "[Ecological Restoration Zoning and Strategy Optimization in the Yanhe River Basin Based on the Integration of Ecological Security Patterns and Ecological Risk Assessment].",
-    "abstract": "Ecological restoration zoning is a key link connecting ecological protection red lines and land spatial planning. Its core lies in identifying the regional ecological baseline characteristics and stress mechanisms， providing scientific support for formulating differentiated ecological restoration strategies. This study comprehensively considers ecological security patterns and risk assessment， establishing a model for defining ecological restoration zones that encompasses \"construction of ecological security patterns-ecological risk assessment-comprehensive identification of restoration zoning-optimization of restoration strategies.\" Using the Yanhe River Basin as the research area， the morphological spatial pattern analysis （MSPA） method and Conefor 2.6 software were used to identify ecological sources. Based on circuit theory， an ecological security pattern was constructed， and an ecological risk assessment was superimposed， ultimately delineating the ecological restoration zones of the Yanhe River Basin. The results indicated that 41 important ecological sources were identified （total area 1 338.02 km",
+    "id": "pubmed:42944526",
+    "title": "Object Detection in Computer Vision: A Comprehensive Review of Algorithms, Datasets, and Evaluation Techniques.",
+    "abstract": "Object detection has evolved dramatically over three decades, transitioning from handcrafted features to deep learning, transformers, and now large language models. This paper provides a comprehensive systematic review of this evolution, covering traditional methods (SIFT, HOG, Viola-Jones), CNN-based single- and two-stage detectors (R-CNN family, YOLO v1-v12, SSD), transformer-based architectures (DETR, ViT, Swin), and emerging LLM-driven approaches (GPT-4V, Grounding DINO, YOLO-World). We benchmark and compare these methods using key metrics-mAP, IoU, FPS-and analyze over 50 datasets across generic, autonomous driving, medical, remote sensing, and agricultural domains. Our critical synthesis identifies persistent research gaps: lightweight edge deployment, sensor fusion for real-time systems, bias and fairness in AI, and multimodal vision-language integration. By consolidating three decades of progress and outlining future challenges, this survey serves as a valuable resource for researchers and practitioners seeking to develop accurate, efficient, and reliable object detection systems.",
     "authors": [
-      "Ying Zheng",
-      "Si-Si Qin",
-      "Wei-Jun Hao",
-      "Xin Li",
-      "Ji-Zhe Zhou",
-      "Guang Song"
+      "Md Faishal Rahaman",
+      "Xueyuan Li",
+      "Md Nagib Mahfuz Sunny",
+      "Muhammad Amjad",
+      "Xin Gao",
+      "Sakib Hasan"
     ],
-    "published": "2026-Oct-15",
+    "published": "2026-Oct-21",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42935409/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42944526/",
     "pdf_url": null,
-    "doi": "10.13227/j.hjkx.202508107",
+    "doi": "10.3390/s26206663",
     "citations": 0,
-    "venue": "Huan jing ke xue= Huanjing kexue",
+    "venue": "Sensors (Basel, Switzerland)",
     "open_access": false,
-    "ai_summary": "Ecological restoration zoning is a key link connecting ecological protection red lines and land spatial planning . The study comprehensively considers ecological security patterns and risk assessment . The Yanhe River Basin was used to identify ecological sources ."
+    "ai_summary": "Object detection has evolved dramatically over three decades, transitioning from handcrafted features to deep learning, transformers, and now large language models . This paper provides a comprehensive systematic review of this evolution, covering traditional methods ."
   },
   {
-    "id": "pubmed:42935408",
-    "title": "[Spatiotemporal Evolution and Driving Forces of Landscape Ecological Risk in Harbin City Based on Interpretable Machine Learning].",
-    "abstract": "Investigating landscape ecological risk in Harbin is of great significance for ecological protection and sustainable development in the northeastern old industrial base. Based on land cover data from 2003 to 2023， this research employed landscape ecological risk assessment models， trajectory analysis， and XGBoost-SHAP interpretable machine learning to analyze the spatial and temporal variation of landscape types， risk distribution and dynamics， and driving mechanism. The results showed that cropland and forest land were predominant， with an increase of 859.14 km",
+    "id": "pubmed:42944525",
+    "title": "HSG-Net: A Scheduling-Aware Heterogeneous Graph Surrogate for Aviation Sensing-Data Processing Chains.",
+    "abstract": "Efficient end-to-end timing evaluation is essential for the design and configuration of partitioned aviation sensing-data processing chains. Task activation, partition scheduling, message dependencies, and resource sharing jointly influence flow delay, while small variations in message arrival times may introduce substantial waiting across partition execution boundaries. Conventional reference simulation can capture these interactions but becomes computationally expensive when numerous candidate configurations must be evaluated. To address this challenge, this paper proposes HSG-Net, a scheduling-aware heterogeneous graph surrogate for predicting mean end-to-end delay from system configuration information. The proposed method represents tasks, partition windows, data flows, and hardware resources as interconnected entities, integrating explicit scheduling descriptors with heterogeneous relational dependencies. Graph message passing captures scheduling and resource interactions, while an adaptive direct-flow pathway preserves flow-local timing information and combines it with graph-derived representations for multi-scale delay prediction. On 7168 held-out test flows, the three-seed HSG-Net ensemble achieves a mean absolute error of 6.372 ms relative to reference-simulator labels, with 81.18% of predictions within a 10 ms absolute-error tolerance. Architectural comparisons demonstrate improved prediction over the evaluated direct-flow-only control, supporting the complementary use of relational context and flow-local information. Furthermore, HSG-Net also supports offline candidate screening through a validation-calibrated rule that allocates reference-simulation effort. The proposed approach provides an efficient, simulation-assisted method for timing evaluation and early-stage design-space exploration of partitioned aviation sensing-data processing architectures.",
     "authors": [
-      "Zi-Qi Gan",
-      "Hong-Yan Dong",
-      "Song Shi",
-      "Chen Qu"
+      "Peng Guo",
+      "Zhiqiu Huang",
+      "Pengtao Lei",
+      "Zhibin Yang"
     ],
-    "published": "2026-Oct-15",
+    "published": "2026-Oct-21",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42935408/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42944525/",
     "pdf_url": null,
-    "doi": "10.13227/j.hjkx.202509060",
+    "doi": "10.3390/s26206662",
     "citations": 0,
-    "venue": "Huan jing ke xue= Huanjing kexue",
+    "venue": "Sensors (Basel, Switzerland)",
     "open_access": false,
-    "ai_summary": "Investigating landscape ecological risk in Harbin is of great significance for ecological protection and sustainable development in the northeastern old industrial base . Cropland and forest land were predominant with an increase of 859.14 km ."
+    "ai_summary": "The paper proposes HSG-Net, a scheduling-aware heterogeneous graph surrogate for predicting mean end-to-end delay from system configuration information . The proposed method represents tasks, partition windows, data flows, and hardware resources as interconnected entities ."
   },
   {
-    "id": "pubmed:42935383",
-    "title": "[Spatiotemporal Differentiation and Driving Factors of Agricultural Carbon Balance in the Main Grain Producing Areas of the Middle Reaches of the Yangtze River Based on the XGBoost-SHAP Model].",
-    "abstract": "Establishing a carbon balance system for agricultural production in major grain-producing regions serves as a crucial technical foundation for advancing green agricultural transformation. This study evaluates the carbon balance levels of agricultural production in the Yangtze River Midstream Grain Production Zone from 2005 to 2023 using a dynamic-static integrated perspective. It analyzes both static and dynamic equilibrium patterns across time and space， compares four machine learning models， and employs XGBoost and SHAP models to identify key factors influencing changes in dynamic equilibrium levels， thereby providing scientific support for targeted agricultural carbon reduction strategies. Key findings include： ① The static carbon balance in the Yangtze River Midstream Grain Production Zone showed an overall gradual decline， with significant regional disparities. Among 31 cities， 38.710% exhibited inverted U-shaped trends， while 41.935% followed U-shaped patterns. ② The dynamic carbon balance index demonstrated substantial improvement in 2023， with only six cities including Jingmen， Yiyang， and Xinyu maintaining FDBI values below 0 （2020-2023）. Spatially， the region transitioned from a \"high balance in the southeast， low balance in the northwest\" pattern to a \"dual-core north-south cluster\" configuration after 2014. ③ The dynamic equilibrium level was primarily influenced by rural population size， farmland scale， agricultural workforce， and primary industry structure. The rural population showed a \"V-shaped\" trend in its impact； agricultural land scale demonstrated increasing returns to scale within the range of 0.160-0.231 hectares per capita； both agricultural employment and primary industry structure exhibited systematic negative effects beyond critical thresholds. ④ The combination of large agricultural workforce and small-scale land operations contributed minimally to predicting dynamic carbon balance equilibrium. The research indicates that some cities in the Yangtze River Midstream Grain Production Zone still face carbon imbalance issues， necessitating differentiated agricultural carbon reduction strategies targeting key influencing factors to promote sustainable regional agricultural development.",
+    "id": "pubmed:42944518",
+    "title": "FMCW Radar Micro-Doppler UAV Classification via Compact Depthwise CNN and Offline Temporal Logit Fusion.",
+    "abstract": "Frequency-modulated continuous-wave (FMCW) radar micro-Doppler signatures provide informative motion cues for small unmanned aerial vehicle (UAV) classification, but independent single-window predictions can vary across neighboring time windows. This study evaluates a compact scratch-trained depthwise convolutional neural network (CNN) with a deterministic three-channel observation interface and a parameter-free offline temporal logit fusion stage under a recording-disjoint six-class protocol. The classifier contains 52,918 trainable parameters; temporal fusion is applied only as final post-processing, without retraining or increasing model size. Across three recording-disjoint folds and three model seeds, the proposed three-channel single-window setting achieved 98.35±0.90% macro-F1, compared with 97.67% for a repeated-channel reference. Applying short-neighborhood fusion with K=3 further increased mean macro-F1 to 98.60%. A seven-configuration per-channel ablation shows that no single channel accounts for this gain, and an expanded subset with varied modulation periods, frequency bands, and nominal ranges provides initial evidence on sensitivity to radar acquisition parameters. These results indicate that the proposed observation interface improves over simple channel repetition, while offline temporal aggregation provides a small additional gain for the compact classifier within the evaluated held-out-recording protocol.",
     "authors": [
-      "Tian-Gui Lü",
-      "Meng-Han Yuan",
-      "Xian-Zhe Huang",
-      "Shu-Fei Fu",
-      "Qiao Zhao",
-      "An-Ying Chen"
+      "Haida Yang",
+      "Qiang Lin",
+      "Yu Yao",
+      "Lijuan Wang"
     ],
-    "published": "2026-Oct-15",
+    "published": "2026-Oct-21",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42935383/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42944518/",
     "pdf_url": null,
-    "doi": "10.13227/j.hjkx.202508169",
+    "doi": "10.3390/s26206656",
     "citations": 0,
-    "venue": "Huan jing ke xue= Huanjing kexue",
+    "venue": "Sensors (Basel, Switzerland)",
     "open_access": false,
-    "ai_summary": "Study evaluates the carbon balance levels of agricultural production in the Yangtze River Midstream Grain Production Zone from 2005 to 2023 . It analyzes both static and dynamic equilibrium patterns across time and space . Among 31 cities, 38.710% exhibited inverted U-shaped trends， while 41.935% followed U"
+    "ai_summary": "Frequency-modulated continuous-wave (FMCW) radar micro-Doppler signatures provide informative motion cues for small unmanned aerial vehicle (UAV) classification . Independent single-window predictions can vary across neighboring time windows ."
   },
   {
-    "id": "pubmed:42935382",
-    "title": "[Measurement of New Quality Productivity Based on Entropy Weighting Method Optimized by BP Neural Network and Its Impact Mechanism on Agricultural Carbon Emission Intensity].",
-    "abstract": "The mechanism through which new quality productive forces （NQPF） influence agricultural carbon emission intensity constitutes a critical scientific question demanding in-depth investigation. Utilizing provincial panel data from China spanning 2012-2023， this study systematically measures NQPF by employing an entropy weighting method optimized via a BP neural network. A multidimensional fixed-effects model is constructed to empirically examine the complex nonlinear relationship between NQPF and agricultural carbon emission intensity. The results reveal that： ① China's agricultural carbon emission intensity showed a declining trend from 2012 to 2023， with a gradual weakening of spatial agglomeration. The overall development level of NQPF increased， but with significant regional disparities. ② NQPF exhibited a significant U-shaped relationship with agricultural carbon emission intensity， manifesting an inhibitory effect during initial development stages that transitioned to a promotional effect in later phases. This nonlinear pattern was particularly pronounced in Northeast China， major grain-producing regions， non-Yangtze River Economic Belt areas， and Yangtze River Economic Belt strategy-covered zones. ③ NQPF demonstrated a U-shaped association with agricultural mechanization levels but an inverted U-shaped relationship with agricultural informatization levels. Both factors exhibited significant partial mediating effects in the pathway through which NQPF influenced agricultural carbon emission intensity. ④ During early development stages， the inhibitory effect of NQPF on agricultural carbon emissions spilled over to neighboring regions， reducing their emission intensity. Conversely， in later stages， NQPF generated positive spatial spillovers that increased agricultural carbon emission intensity in adjacent areas.",
+    "id": "pubmed:42944516",
+    "title": "Quantitative Evaluation of OpenCV Visual Tracking Algorithms for Drawn Markers Under Dynamic Facial Deformation.",
+    "abstract": "This study evaluates the eleven visual tracking algorithms available in OpenCV for tracking hand-drawn markers on deforming human faces. Using 41,641 multi-camera frames of seven subjects performing exaggerated phonetic and emotional movements, we assess each tracker's deviation from an automated Blob Detection reference (four-marker sequences), its long-term marker identity retention (forty-marker sequences), and its throughput. Of the tested classical trackers, the Channel and Spatial Reliability Tracker (CSRT) performed best, retaining 96.2% of markers with a mean deviation of 1.94±1.29 pixels (approximately 0.46±0.31 mm) at 56.9 frames per second (FPS). The Kernelized Correlation Filter (KCF) matched this deviation at 445.4 FPS but failed under transient self-occlusion, retaining only 64.1%. Among the neural trackers, the Vision Transformer-based tracker (ViT) recorded the smallest deviation (1.06±1.03 pixels, approximately 0.25±0.25 mm) at 164.1 FPS, and the Distractor-Aware Siamese Region Proposal Network (DaSiamRPN) had the highest retention (92.4%, 1.35±1.26 pixels) at 11.6 FPS. Differences among the leading trackers were not significant at the subject level. The Minimum Output Sum of Squared Error (MOSSE) tracker reached about 12,500 FPS, but retained only 49.6%. Per-frame deviation and long-term retention are decoupled, meaning that both must inform tracker selection; scenario-based recommendations are provided.",
     "authors": [
-      "Qi Liu",
-      "Qi-Zhi He"
+      "Konrad Tkaczyk",
+      "Robert Sitnik"
     ],
-    "published": "2026-Oct-15",
+    "published": "2026-Oct-21",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42935382/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42944516/",
     "pdf_url": null,
-    "doi": "10.13227/j.hjkx.202508069",
+    "doi": "10.3390/s26206653",
     "citations": 0,
-    "venue": "Huan jing ke xue= Huanjing kexue",
+    "venue": "Sensors (Basel, Switzerland)",
     "open_access": false,
-    "ai_summary": "The study used an entropy weighting method optimized via a BP neural network . NQPF exhibited a significant U-shaped relationship with agricultural carbon emission intensity . The overall development level of NQ PF increased but with significant regional disparities ."
+    "ai_summary": "Study evaluates the 11 visual tracking algorithms available in OpenCV for tracking hand-drawn markers on deforming human faces . Of the tested classical trackers, the Channel and Spatial Reliability Tracker (CSRT) performed best, retaining 96.2% of markers with a mean deviation of 1.94±1.29 pixels ."
   },
   {
     "id": "openalex:W7118880740",
@@ -1284,6 +1219,24 @@
     "doi": "10.5281/zenodo.20402506",
     "citations": 0,
     "venue": "Scientific Journal of Safety and Logistics",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7164183113",
+    "title": "The Sociolinguistics of Machine Identity: LLM Personality and Ideology Propagation",
+    "abstract": "",
+    "authors": [
+      "Guangni Li"
+    ],
+    "published": "2026-12-31",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.17613/90v07-0pa54",
+    "pdf_url": "https://pub.respai.de/articles/1-2/is2-4.pdf",
+    "doi": "10.17613/90v07-0pa54",
+    "citations": 0,
+    "venue": "Unknown",
     "open_access": true,
     "ai_summary": "No abstract available."
   },
@@ -1416,24 +1369,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "openalex:W7164183113",
-    "title": "The Sociolinguistics of Machine Identity: LLM Personality and Ideology Propagation",
-    "abstract": "",
-    "authors": [
-      "Guangni Li"
-    ],
-    "published": "2026-12-31",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.17613/90v07-0pa54",
-    "pdf_url": "https://pub.respai.de/articles/1-2/is2-4.pdf",
-    "doi": "10.17613/90v07-0pa54",
-    "citations": 0,
-    "venue": "Unknown",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
     "id": "openalex:W7166533473",
     "title": "Research on Attention Guidance and User Autonomy in AI-Powered Immersive Environments",
     "abstract": "",
@@ -1522,6 +1457,42 @@
     "doi": "10.5281/zenodo.22768513",
     "citations": 0,
     "venue": "Journal of Child Development, Exceptionality and Education",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7168392295",
+    "title": "Comparison of the effects of AI-generated music on emotional responses, aesthetic enjoyment, and perceived quality between musicians and non-musicians",
+    "abstract": "",
+    "authors": [
+      "Seyhan Canyakan"
+    ],
+    "published": "2026-12-30",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.5281/zenodo.21377743",
+    "pdf_url": "https://jmttms.com/index.php/jmmtms/article/download/47/41",
+    "doi": "10.5281/zenodo.21377743",
+    "citations": 0,
+    "venue": "Journal of Music Theory and Transcultural Music Studies",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7220651687",
+    "title": "Using Unfitted Finite Elements in Topology Optimization of Neural Surface Ensembles",
+    "abstract": "",
+    "authors": [
+      "Mehdi Fazli"
+    ],
+    "published": "2026-12-26",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.57647/cna.264.19280",
+    "pdf_url": "https://doi.org/10.57647/cna.264.19280",
+    "doi": "10.57647/cna.264.19280",
+    "citations": 0,
+    "venue": "OICC Press Journals",
     "open_access": true,
     "ai_summary": "No abstract available."
   },
@@ -1729,6 +1700,27 @@
     "ai_summary": "No abstract available."
   },
   {
+    "id": "openalex:W7170997623",
+    "title": "Doing Game Design in Theatre",
+    "abstract": "",
+    "authors": [
+      "Ben J. Kirman",
+      "Charline Foch",
+      "David Gochfeld",
+      "Marian F. Ursu"
+    ],
+    "published": "2026-11-05",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://openalex.org/W7170997623",
+    "pdf_url": "https://eprints.whiterose.ac.uk/id/eprint/243733/1/ludicdramaturgy.pdf",
+    "doi": null,
+    "citations": 0,
+    "venue": "White Rose Research Online (University of Leeds, The University of Sheffield, University of York)",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
     "id": "openalex:W7160319602",
     "title": "Towards Early and Accurate Disease Detection Through Multimodal Predictive Modeling: Fusion of Electronic Health Records, Medical Imaging, And Omics Data Using Interpretable Machine Learning.",
     "abstract": "",
@@ -1746,6 +1738,50 @@
     "doi": "10.5281/zenodo.20044865",
     "citations": 0,
     "venue": "Policy Research Journal",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7213574412",
+    "title": "SIM 2.0: Floor Plan Vectorization via VLM Semantic Normalization with Pixel-Wise Self-Consistency",
+    "abstract": "",
+    "authors": [
+      "Brhanemesqel Halleluyah",
+      "Roberto Manduchi"
+    ],
+    "published": "2026-11-02",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://openalex.org/W7213574412",
+    "pdf_url": "https://escholarship.org/content/qt13c513j2/qt13c513j2.pdf",
+    "doi": null,
+    "citations": 0,
+    "venue": "eScholarship (California Digital Library)",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7204020906",
+    "title": "A multiphysics model for triboelectric nanogenerator design with explicit surface roughness representation",
+    "abstract": "",
+    "authors": [
+      "MD Tanzib Ehsan Sanglap",
+      "Jack Perris",
+      "R. Mukherjee",
+      "Charchit Kumar",
+      "Daniel M. Mulvihill",
+      "CJ Pearce",
+      "Łukasz Kaczmarczyk",
+      "Andrei G. Shvarts"
+    ],
+    "published": "2026-11-01",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.1016/j.nanoen.2026.112314",
+    "pdf_url": "https://eprints.gla.ac.uk/392836/2/392836.pdf",
+    "doi": "10.1016/j.nanoen.2026.112314",
+    "citations": 0,
+    "venue": "ENLIGHTEN (Jurnal Bimbingan dan Konseling Islam)",
     "open_access": true,
     "ai_summary": "No abstract available."
   },
@@ -1772,24 +1808,24 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "openalex:W7216994302",
-    "title": "Identification and Leveling of Production Technology Selection Indicators in Iran’s Steel Industry Using Qualitative Content Analysis",
+    "id": "openalex:W7168064881",
+    "title": "Multi-dimensional hierarchical temporal alignment for improved temporal commonsense reasoning in large language models",
     "abstract": "",
     "authors": [
-      "Seyyed Javad Hosseini Kafiabad",
-      "Hassan Dehghan Dehnavi",
-      "Abolfazl Sadeghian",
-      "Mozhde Rabbani",
-      "Mohammad Taghi Honary"
+      "Ge Yan",
+      "Hai-Tao Yu",
+      "Lei Chao",
+      "30751052",
+      "Lei Chao"
     ],
     "published": "2026-11-01",
     "source": "OpenAlex",
     "category": "index",
-    "url": "https://openalex.org/W7216994302",
-    "pdf_url": "https://journalmbs.com/index.php/jmbs/article/download/225/183",
+    "url": "https://openalex.org/W7168064881",
+    "pdf_url": "https://tsukuba.repo.nii.ac.jp/record/2024994/files/IPM_63(7)_104875.pdf",
     "doi": null,
     "citations": 0,
-    "venue": "Journal of Management and Business Solutions",
+    "venue": "Institutional Repositories DataBase (IRDB)",
     "open_access": true,
     "ai_summary": "No abstract available."
   },
@@ -1812,149 +1848,6 @@
     "venue": "Journal of Management and Business Solutions",
     "open_access": true,
     "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W7221842566",
-    "title": "STUDI SIMULASI DETEKSI EMAIL PHISHING BERBASIS NLP MENGGUNAKAN TF-IDF DENGAN SUPPORT VECTOR MACHINE DAN RANDOM FOREST",
-    "abstract": "",
-    "authors": [
-      "Muhamad Ali Mubarok",
-      "Nizirwan Anwar",
-      "Arief Ichwani",
-      "Raden Teddy Iswahyudi"
-    ],
-    "published": "2026-11-01",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://openalex.org/W7221842566",
-    "pdf_url": "https://journals.upi-yai.ac.id/index.php/ikraith-informatika/article/download/7617/6069",
-    "doi": null,
-    "citations": 0,
-    "venue": "IIKRA-ITH Informatika Jurnal Komputer dan Informatika",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W7218146293",
-    "title": "Designing a Model for Enhancing the Skills of Primary School Principals with an Emphasis on STEAM Education",
-    "abstract": "",
-    "authors": [
-      "Neda Yarandi",
-      "Hamid Shafizadeh",
-      "Fakhreddin Ahmadi"
-    ],
-    "published": "2026-11-01",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://openalex.org/W7218146293",
-    "pdf_url": "https://journals.kmanpub.com/index.php/ijimob/article/download/5820/11240",
-    "doi": null,
-    "citations": 0,
-    "venue": "International Journal of Innovation Management and Organizational Behavior (IJIMOB)",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W7223255546",
-    "title": "When Embodied AI Infers Too Much",
-    "abstract": "",
-    "authors": [
-      "Chengxu Zhou"
-    ],
-    "published": "2026-11-01",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://openalex.org/W7223255546",
-    "pdf_url": "https://discovery.ucl.ac.uk/id/eprint/10232214/1/When%20Embodied%20AI%20Infers%20Too%20Much.pdf",
-    "doi": null,
-    "citations": 0,
-    "venue": "UCL Discovery (University College London)",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W7223459966",
-    "title": "モビリティ産業におけるプラットフォーマーの戦略とガバナンス ： TeslaおよびBYDの分析",
-    "abstract": "",
-    "authors": [
-      "Akio Tokuda"
-    ],
-    "published": "2026-11-01",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.34382/0002007650",
-    "pdf_url": "https://ritsumei.repo.nii.ac.jp/record/2007650/files/ba_65_4_tokuda.pdf",
-    "doi": "10.34382/0002007650",
-    "citations": 0,
-    "venue": "Institutional Repositories DataBase (IRDB)",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W7220034042",
-    "title": "Komunikasi Risiko Kebakaran Pada Fase Pra-Bencana Melalui Edukasi dan Simulasi Di Rumah Susun Sederhana Sewa (Rusunawa) Banda Aceh",
-    "abstract": "",
-    "authors": [
-      "Muhammad Nur Akmal",
-      "Annisa Sri Sugiarti",
-      "Risma Sunarty",
-      "Widya Soviana",
-      "Veri Yanti",
-      "Haya Atiqah"
-    ],
-    "published": "2026-10-28",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://openalex.org/W7220034042",
-    "pdf_url": "https://risetcendikia.com/index.php/jurnal-scinusa/article/download/379/438",
-    "doi": null,
-    "citations": 0,
-    "venue": "SciNusa: Jurnal Ilmu Sosial dan Humaniora",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "arxiv:2610.35862v1",
-    "title": "Learning Force-Reactive Humanoid Loco-Manipulation",
-    "abstract": "Many everyday tasks require controlling contact force as well as motion. On a humanoid, this force must often be coordinated across both hands and the whole body, and cannot be specified by kinematic trajectories alone. Therefore, we present FLORE, a framework for learning force-reactive humanoid loco-manipulation. We collect robot-free demonstrations using two force-sensing UMI-style handheld grippers for hand motion and contact wrenches, and wearable trackers for body motion. A force-reactive diffusion policy takes vision, proprioception, and measured wrenches as input, then predicts actions and per-hand force commands. A hybrid compliance whole-body controller with force tracking executes these commands while maintaining balance: an integral of the force error measured by real force/torque (F/T) sensors lets each hand track force accurately along the commanded direction and remain compliant along the others. In simulation, the controller tracks per-hand force commands of varied magnitude and direction, with little loss in whole-body motion accuracy. Across three contact-rich tasks on the robot, the force-reactive policy succeeds in 80% of rollouts, compared with 26.7% for a position-only policy trained on the same demonstrations and executed by the same controller. For more details, please visit our website: https://louis-leee.github.io/FLoRe/.",
-    "authors": [
-      "Sihang Li",
-      "Xiaofeng Guo",
-      "Jinkun Cao",
-      "Charlie Cheng",
-      "Ruihan Yang",
-      "Chen Feng",
-      "Guanya Shi",
-      "Haozhi Qi"
-    ],
-    "published": "2026-10-26",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2610.35862v1",
-    "pdf_url": "https://arxiv.org/pdf/2610.35862v1",
-    "doi": null,
-    "citations": 0,
-    "venue": "arXiv preprint",
-    "open_access": true,
-    "ai_summary": "The force must often be coordinated across both hands and the whole body . A force-reactive diffusion policy takes vision, proprioception, and measured wrenches as input . A hybrid compliance whole-body controller with force tracking executes these commands while maintaining balance ."
-  },
-  {
-    "id": "arxiv:2610.35865v1",
-    "title": "Center-of-Mass Interpretation of Evolution Strategies",
-    "abstract": "Evolution strategies (ES) update a model by sampling a population of perturbed copies, scoring each one, and moving in the reward-weighted direction of the perturbations. This update is usually presented as an estimate of a smoothed gradient. We present a geometrical interpretation of this update instead. Treat each perturbed model as a particle and its reward as the particle's mass. Before scoring, every particle has the same mass and the population balances at its centroid. Once rewards are assigned, it balances at its reward-weighted center of mass instead. We show that the mean-subtracted ES update is exactly this displacement, scaled by a scalar factor that depends on the mean reward, for any finite population. The physical reading needs nonnegative rewards, which can always be arranged by adding a constant to every reward without changing the update. In the limit of a large population or under antithetic sampling, the centroid sits on the model itself, so ES has an even simpler geometric interpretation: from its current location, the model moves towards the reward-weighted center of mass of its own population. The same picture explains what subtracting the mean reward does: it changes the point from which the displacement is measured, from the model to the sampled centroid. Our contribution is an intuitive, geometric way to visualize an ES update, exact for any finite population.",
-    "authors": [
-      "Akshat Gupta"
-    ],
-    "published": "2026-10-26",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2610.35865v1",
-    "pdf_url": "https://arxiv.org/pdf/2610.35865v1",
-    "doi": null,
-    "citations": 0,
-    "venue": "arXiv preprint",
-    "open_access": true,
-    "ai_summary": "Evolution strategies (ES) update a model by sampling a population of perturbed copies, scoring each one and moving in the reward-weighted direction of the perturbations . Treat each perturbed model as a particle and its reward as the particle's mass ."
   },
   {
     "id": "arxiv:2610.35866v1",
@@ -2023,6 +1916,69 @@
     "ai_summary": "VibeVideoBench is a benchmark for evaluating agents on code-driven video generation . Its 239 self-contained tasks in English and Chinese span 12 categories . Each asks an agent, running in its native harness inside a sandbox, to deliver a finished MP4 with sound within one hour ."
   },
   {
+    "id": "arxiv:2610.35865v1",
+    "title": "Center-of-Mass Interpretation of Evolution Strategies",
+    "abstract": "Evolution strategies (ES) update a model by sampling a population of perturbed copies, scoring each one, and moving in the reward-weighted direction of the perturbations. This update is usually presented as an estimate of a smoothed gradient. We present a geometrical interpretation of this update instead. Treat each perturbed model as a particle and its reward as the particle's mass. Before scoring, every particle has the same mass and the population balances at its centroid. Once rewards are assigned, it balances at its reward-weighted center of mass instead. We show that the mean-subtracted ES update is exactly this displacement, scaled by a scalar factor that depends on the mean reward, for any finite population. The physical reading needs nonnegative rewards, which can always be arranged by adding a constant to every reward without changing the update. In the limit of a large population or under antithetic sampling, the centroid sits on the model itself, so ES has an even simpler geometric interpretation: from its current location, the model moves towards the reward-weighted center of mass of its own population. The same picture explains what subtracting the mean reward does: it changes the point from which the displacement is measured, from the model to the sampled centroid. Our contribution is an intuitive, geometric way to visualize an ES update, exact for any finite population.",
+    "authors": [
+      "Akshat Gupta"
+    ],
+    "published": "2026-10-26",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2610.35865v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.35865v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "Evolution strategies (ES) update a model by sampling a population of perturbed copies, scoring each one and moving in the reward-weighted direction of the perturbations . Treat each perturbed model as a particle and its reward as the particle's mass ."
+  },
+  {
+    "id": "arxiv:2610.35862v1",
+    "title": "Learning Force-Reactive Humanoid Loco-Manipulation",
+    "abstract": "Many everyday tasks require controlling contact force as well as motion. On a humanoid, this force must often be coordinated across both hands and the whole body, and cannot be specified by kinematic trajectories alone. Therefore, we present FLORE, a framework for learning force-reactive humanoid loco-manipulation. We collect robot-free demonstrations using two force-sensing UMI-style handheld grippers for hand motion and contact wrenches, and wearable trackers for body motion. A force-reactive diffusion policy takes vision, proprioception, and measured wrenches as input, then predicts actions and per-hand force commands. A hybrid compliance whole-body controller with force tracking executes these commands while maintaining balance: an integral of the force error measured by real force/torque (F/T) sensors lets each hand track force accurately along the commanded direction and remain compliant along the others. In simulation, the controller tracks per-hand force commands of varied magnitude and direction, with little loss in whole-body motion accuracy. Across three contact-rich tasks on the robot, the force-reactive policy succeeds in 80% of rollouts, compared with 26.7% for a position-only policy trained on the same demonstrations and executed by the same controller. For more details, please visit our website: https://louis-leee.github.io/FLoRe/.",
+    "authors": [
+      "Sihang Li",
+      "Xiaofeng Guo",
+      "Jinkun Cao",
+      "Charlie Cheng",
+      "Ruihan Yang",
+      "Chen Feng",
+      "Guanya Shi",
+      "Haozhi Qi"
+    ],
+    "published": "2026-10-26",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2610.35862v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.35862v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "The force must often be coordinated across both hands and the whole body . A force-reactive diffusion policy takes vision, proprioception, and measured wrenches as input . A hybrid compliance whole-body controller with force tracking executes these commands while maintaining balance ."
+  },
+  {
+    "id": "arxiv:2610.35857v1",
+    "title": "Do vision models know that three is three?",
+    "abstract": "Do vision models encode the transition $2{\\to}3$ the same way whether it appears in handwritten digits or in hand gestures, and do they \"understand\" that clean${\\to}$dirty is the same transformation regardless of whether it is applied to a kitchen or a carpet? The linear representation hypothesis (LRH) answers this for language models: concept changes correspond to directions in (language) embedding space. In vision, the same concept can manifest in visually unrelated \"regimes\" that rarely co-occur: images of digits and hands do not share much in common in pixel space. To understand whether vision models still encode the underlying abstract concepts, we study 46 vision encoders across architectures, training objectives, and scales, on 10 concept families including numerosity, age, object identity, and MIT-States attributes. Within each regime, we find statistically significant concept directions near-universally across our tested models. However, two distinct regimes do not always share the same concept direction. Several models learn multiple linear structures for the same concept transition, split across regimes. We call this phenomenon \"fragmented linearity\": strong local linearity coexisting with near-absent global linearity. Fragmentation is, however, not fixed: models with stronger local linearity progressively escape it (local-global linearity correlated with $τ\\in [0.38, 0.89]$ across all concepts), and where global linearity does emerge, concept directions can transfer as linear probes across regimes.",
+    "authors": [
+      "Ankit Sonthalia",
+      "Arnas Uselis",
+      "Seong Joon Oh"
+    ],
+    "published": "2026-10-26",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2610.35857v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.35857v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "The linear representation hypothesis (LRH) answers this for language models . In vision, the same concept can manifest in visually unrelated \"regimes\" that rarely co-occur ."
+  },
+  {
     "id": "arxiv:2610.35868v1",
     "title": "Retriever-Free Retrieval: Navigating Documents with Decision Models",
     "abstract": "While language models have become dramatically more capable, retrieval still largely relies on lexical matching or similarity in fixed embedding spaces. This creates a capability asymmetry: what the retriever fails to find, even the strongest generator cannot recover. We propose DecisionRAG, which brings the capabilities of pretrained language models to retrieval using decision models that jointly evaluate candidate branches in a single forward pass, without generating any tokens, and show that judging candidates in a shared context makes their relevance estimates comparable. Like a person browsing a library, DecisionRAG navigates the corpus's inherent structure from broad topics down to individual passages, deciding at each level which branches are worth exploring. Without task-specific training or a first-stage retriever, DecisionRAG outperforms dense retrieval with an 8B reranker by 13.8 R@1 points on MultiDoc2Dial and 17.4 Hit@1 points on Natural Questions. Across four benchmarks, including a corpus of 2.68 million Wikipedia paragraphs, retrieval takes just 0.7-1.8 seconds per query.",
@@ -2044,26 +2000,6 @@
     "venue": "arXiv preprint",
     "open_access": true,
     "ai_summary": "DecisionRAG brings the capabilities of pretrained language models to retrieval using decision models that jointly evaluate candidate branches in a single forward pass . DecisionRAG outperforms dense retrieval with an 8B reranker by 13.8 R@1 points on MultiDoc2Dial and 17.4 Hit@1 Points on Natural Questions ."
-  },
-  {
-    "id": "arxiv:2610.35857v1",
-    "title": "Do vision models know that three is three?",
-    "abstract": "Do vision models encode the transition $2{\\to}3$ the same way whether it appears in handwritten digits or in hand gestures, and do they \"understand\" that clean${\\to}$dirty is the same transformation regardless of whether it is applied to a kitchen or a carpet? The linear representation hypothesis (LRH) answers this for language models: concept changes correspond to directions in (language) embedding space. In vision, the same concept can manifest in visually unrelated \"regimes\" that rarely co-occur: images of digits and hands do not share much in common in pixel space. To understand whether vision models still encode the underlying abstract concepts, we study 46 vision encoders across architectures, training objectives, and scales, on 10 concept families including numerosity, age, object identity, and MIT-States attributes. Within each regime, we find statistically significant concept directions near-universally across our tested models. However, two distinct regimes do not always share the same concept direction. Several models learn multiple linear structures for the same concept transition, split across regimes. We call this phenomenon \"fragmented linearity\": strong local linearity coexisting with near-absent global linearity. Fragmentation is, however, not fixed: models with stronger local linearity progressively escape it (local-global linearity correlated with $τ\\in [0.38, 0.89]$ across all concepts), and where global linearity does emerge, concept directions can transfer as linear probes across regimes.",
-    "authors": [
-      "Ankit Sonthalia",
-      "Arnas Uselis",
-      "Seong Joon Oh"
-    ],
-    "published": "2026-10-26",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2610.35857v1",
-    "pdf_url": "https://arxiv.org/pdf/2610.35857v1",
-    "doi": null,
-    "citations": 0,
-    "venue": "arXiv preprint",
-    "open_access": true,
-    "ai_summary": "The linear representation hypothesis (LRH) answers this for language models . In vision, the same concept can manifest in visually unrelated \"regimes\" that rarely co-occur ."
   },
   {
     "id": "arxiv:2610.35856v1",
@@ -3076,25 +3012,59 @@
     "ai_summary": "JEV is a non-generative decision model returning native option probabilities . JEV and Qwen Flash achieved similar macro-F1 scores on TrialGPT (0.652 vs. 0.660) and MIMIC-IV . Jev substantially outperformed Qwen on MIMic-III (0.,"
   },
   {
-    "id": "pubmed:42935341",
-    "title": "[Omics and integrative methods for assessing biological age.].",
-    "abstract": "Biological age, reflecting the extent of age-related changes in the organism at the molecular and systemic levels, serves as a more informative predictor of the risk of age-associated pathology and mortality compared to chronological age. This review systematizes current omics and integrative approaches to biological age assessment, analyzing their prognostic potential and limitations. Three generations of epigenetic clocks (Horvath, Hannum, PhenoAge, GrimAge, DunedinPACE), transcriptomic markers of cellular senescence (p16INK4a, mTOR, S100A9), as well as proteomic and metabolomic biomarkers, including indicators of inflammation (IL-6, TNF-α, С-RP), glycan clocks (GlycanAge), clinical-biochemical panels, and oxidative stress markers, are examined. It is shown that the integration of heterogeneous omics data (genomic, epigenomic, transcriptomic, proteomic, metabolomic) using machine learning algorithms (concatenation, ensemble methods) enables the creation of multi-omics models that outperform single-layer approaches in accuracy and allow for the assessment of aging heterogeneity across individual organs and systems (ageotype). Key limitations hindering the clinical implementation of these methods are discussed. Further progress in this field requires large-scale longitudinal studies, unification of methodological approaches, and validation of multi-omics models in independent cohorts to facilitate their integration into personalized preventive medicine algorithms. Биологический возраст, отражающий степень возрастных изменений организма на молекулярном и системном уровнях, выступает более информативным предиктором риска возраст-ассоциированной патологии и смертности по сравнению с хронологическим возрастом. В настоящем обзоре систематизированы современные омиксные и интегративные подходы к оценке биологического возраста, проанализированы их прогностические возможности и ограничения. Рассмотрены эпигенетические часы трех поколений (Horvath, Hannum, PhenoAge, GrimAge, DunedinPACE), транскриптомные маркеры клеточного старения (p16INK4a, mTOR, S100A9), а также протеомные и метаболомные биомаркеры, включая показатели инфламейджинга (IL-6, TNF-α, С-РБ), гликановые часы (GlycanAge), клинико-биохимические панели и маркеры оксидативного стресса. Показано, что интеграция разнородных омиксных данных (геномных, эпигеномных, транскриптомных, протеомных, метаболомных) с применением алгоритмов машинного обучения (конкатенация, ансамблевые методы) позволяет создавать мультиомные модели, превосходящие по точности одноуровневые подходы и обеспечивающие оценку гетерогенности старения отдельных органов и систем (ageotype). Обсуждены ключевые ограничения внедрения данных методов в клиническую практику. Дальнейшее развитие направления требует проведения крупных продольных исследований, унификации методологических подходов и валидации мультиомных моделей в независимых когортах для их интеграции в алгоритмы персонализированной превентивной медицины.",
+    "id": "pubmed:42944541",
+    "title": "Disease-associated respiratory microbiota and metabolome changes in children with mycoplasma pneumoniae pneumonia.",
+    "abstract": "BackgroundMycoplasma pneumoniae pneumonia (MPP) is the most common community-acquired pneumonia in children. It is clinically characterized by insidious symptoms and common extrapulmonary complications. Severe patients are susceptible to pulmonary necrosis, pulmonary embolism, and bronchiolitis obliterans leading to permanent lung impairment.ObjectivesExploring changes in the airway microenvironment of children with MPP.DesignA prospective observational study was conducted to explore changes in the airway microenvironment of children with MPP.MethodsIn this study, 16S ribosomal RNA (rRNA) analysis and Metabolomics were used to analyze patient-derived bronchoalveolar lavage fluid to investigate changes in the airway microenvironment of patients with MPP.ResultsMicrobiomics indicates characteristics such as reduced microbial diversity and altered abundance of specific genera against the background of Mycoplasma pneumoniae infection. The metabolomics analysis can identify changes in the host metabolite profile, including abnormal levels of glycerophospholipids and sphingolipids.ConclusionIntegrating multi-omics data to elucidate the microbiota-metabolite-host interaction network may provide new strategies for precise classification, severe warning, and targeted therapy for MPP. We performed a clinical cohort study utilizing bronchoalveolar lavage fluid samples to examine changes in airway microbiota and host-Mycoplasma interactions in pediatric patients with mycoplasma pneumonia, with the objective of facilitating early identification and intervention for severe cases of mycoplasma pneumonia.",
     "authors": [
-      "A R Ilina",
-      "M S Sukhareva",
-      "E V Vladimirova",
-      "K A Sagitdinova",
-      "O V Shamova"
+      "Taiyu Song",
+      "Shuo Zhang",
+      "Shuting Yu",
+      "Rui Li",
+      "Jun Shen",
+      "Guangling Liu",
+      "Jinya Wang"
     ],
     "published": "2026",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42935341/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42944541/",
     "pdf_url": null,
-    "doi": "10.34922/AE.2026.39.4.015",
+    "doi": "10.1177/17534666261501678",
     "citations": 0,
-    "venue": "Advances in gerontology = Uspekhi gerontologii",
+    "venue": "Therapeutic advances in respiratory disease",
     "open_access": false,
-    "ai_summary": "Review systematizes current omics and integrative approaches to biological age assessment . Three generations of epigenetic clocks (Horvath, Hannum, PhenoAge, GrimAge, DunedinPACE) are examined ."
+    "ai_summary": "Mycoplasma pneumoniae pneumonia (MPP) is the most common community-acquired pneumonia in children . It is clinically characterized by insidious symptoms and common extrapulmonary complications . Severe patients are susceptible to pulmonary necrosis, pulmonary embolism, and bronchiolitis obliterans leading to permanent lung impairment ."
+  },
+  {
+    "id": "conf:Conference:https://aclanthology.org/events/acl-2025/#2025acl-long",
+    "title": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    "abstract": "",
+    "authors": [],
+    "published": "",
+    "source": "Conference",
+    "category": "conference",
+    "url": "https://aclanthology.org/events/acl-2025/#2025acl-long",
+    "pdf_url": null,
+    "doi": null,
+    "citations": 0,
+    "venue": "Conference",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "conf:Conference:https://github.com/THUKElab/CLEME",
+    "title": "https://github.com/THUKElab/CLEME",
+    "abstract": "",
+    "authors": [],
+    "published": "",
+    "source": "Conference",
+    "category": "conference",
+    "url": "https://github.com/THUKElab/CLEME",
+    "pdf_url": null,
+    "doi": null,
+    "citations": 0,
+    "venue": "Conference",
+    "open_access": false,
+    "ai_summary": "No abstract available."
   }
 ]
