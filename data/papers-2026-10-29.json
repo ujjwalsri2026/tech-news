@@ -220,22 +220,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.3998/mjcsl.4120",
-    "title": "Title Pending 4120",
-    "abstract": "",
-    "authors": [],
-    "published": "2033",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.3998/mjcsl.4120",
-    "pdf_url": null,
-    "doi": "10.3998/mjcsl.4120",
-    "citations": 0,
-    "venue": "Michigan Journal of Community Service Learning",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
     "id": "crossref:10.3998/mjcsl.3643",
     "title": "Title Pending 3643",
     "abstract": "",
@@ -246,6 +230,22 @@
     "url": "https://doi.org/10.3998/mjcsl.3643",
     "pdf_url": null,
     "doi": "10.3998/mjcsl.3643",
+    "citations": 0,
+    "venue": "Michigan Journal of Community Service Learning",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "crossref:10.3998/mjcsl.4120",
+    "title": "Title Pending 4120",
+    "abstract": "",
+    "authors": [],
+    "published": "2033",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.3998/mjcsl.4120",
+    "pdf_url": null,
+    "doi": "10.3998/mjcsl.4120",
     "citations": 0,
     "venue": "Michigan Journal of Community Service Learning",
     "open_access": false,
@@ -268,6 +268,24 @@
     "ai_summary": "No abstract available."
   },
   {
+    "id": "crossref:10.56251/watu4873",
+    "title": "Machine Learning Application for SAIs",
+    "abstract": "",
+    "authors": [
+      "Tiare Rivera"
+    ],
+    "published": "2030",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.56251/watu4873",
+    "pdf_url": null,
+    "doi": "10.56251/watu4873",
+    "citations": 0,
+    "venue": "International Journal of Government Auditing",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
     "id": "crossref:10.56251/yxek7242",
     "title": "Evolution and Applications of Artificial Intelligence in SAIs",
     "abstract": "",
@@ -284,24 +302,6 @@
     "url": "https://doi.org/10.56251/yxek7242",
     "pdf_url": null,
     "doi": "10.56251/yxek7242",
-    "citations": 0,
-    "venue": "International Journal of Government Auditing",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "crossref:10.56251/watu4873",
-    "title": "Machine Learning Application for SAIs",
-    "abstract": "",
-    "authors": [
-      "Tiare Rivera"
-    ],
-    "published": "2030",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.56251/watu4873",
-    "pdf_url": null,
-    "doi": "10.56251/watu4873",
     "citations": 0,
     "venue": "International Journal of Government Auditing",
     "open_access": false,
@@ -352,6 +352,47 @@
     "ai_summary": "No abstract available."
   },
   {
+    "id": "crossref:10.70239/arsu.2026.t85.n3.07",
+    "title": "HYBRID NETWORK INTRUSION DETECTION SYSTEM BASED ON SIGNATURE ANALYSIS AND MACHINE LEARNING METHODS",
+    "abstract": "<jats:p>In the context of increasing complexity of modern network infrastructures and the growing number of cyberattacks, improving the effectiveness of intrusion detection systems is a highly relevant task. The aim of this work is to develop and investigate a hybrid approach to network attack detection based on a combination of signature-based analysis and intelligent machine learning methods.  The research methods include analysis of requirements for anomaly detection systems, comparative analysis of existing solutions, design of a hybrid system architecture, and experimental modeling using multiclass classification of network traffic. The results demonstrate that integrating a neural model with a traditional detection system improves attack detection coverage and reduces the number of false positives.  The practical significance of the study lies in the possibility of deploying the proposed architecture in real corporate networks, while the theoretical significance consists in substantiating the effectiveness of a hybrid approach to traffic analysis. Future research directions include adaptive model training and expansion of the range of detectable attacks.</jats:p>",
+    "authors": [
+      "IGISINOV S.ZH.",
+      "RYSKELDIKYZY R.",
+      "GAISAGALEYEVA B.M.",
+      "UVALIYEVA G.M.",
+      "ZHUMABAYEVA ZH.O."
+    ],
+    "published": "2029",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.70239/arsu.2026.t85.n3.07",
+    "pdf_url": null,
+    "doi": "10.70239/arsu.2026.t85.n3.07",
+    "citations": 0,
+    "venue": "Научный журнал \"Вестник Актюбинского регионального университета имени К. Жубанова\"",
+    "open_access": false,
+    "ai_summary": "The aim of this work is to develop and investigate a hybrid approach to network attack detection based on signature-based analysis and intelligent machine learning methods . The practical significance of the study lies in the possibility of deploying the proposed architecture in real corporate networks ."
+  },
+  {
+    "id": "crossref:10.5705/ss.202025.0275",
+    "title": "Efficient Learning of Sparse Differential Networks in Multi-Source Non-Paranormal Models",
+    "abstract": "",
+    "authors": [
+      "Mojtaba Nikahd",
+      "Seyed Abolfazl Motahari"
+    ],
+    "published": "2029",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.5705/ss.202025.0275",
+    "pdf_url": null,
+    "doi": "10.5705/ss.202025.0275",
+    "citations": 0,
+    "venue": "Statistica Sinica",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
     "id": "crossref:10.67805/jgrms.v2i9.156",
     "title": "A Review of Phishing Detection Techniques Using Machine Learning and Natural Language Processing",
     "abstract": "<jats:p>The goal of phishing attacks, which rank high among cyber risks, is to steal sensitive information (such as login passwords, financial data, and more) from unsuspecting people and companies. Blacklist, whitelist, rule, heuristic, and signature-based detection methods are no longer suitable due to the rising sophistication of phishing schemes. As a result, ML, DL, and NLP are rapidly becoming into effective instruments for detecting both well-known and brand-new forms of phishing. Background on phishing assaults, old ways of detecting them, and recent advances in intelligent phishing detection are all included in this article. It delves into several machine learning algorithms such as decision tree, LSTM, ANN, CNN, and RNN, as well as deep learning models like KNN, NB, and SVM. Also, natural language processing methods including word embedding, sentiment analysis, text categorization, and tokenization are explored with the aim of detecting phishing material. Presenting a comprehensive, precise, and up-to-the-minute phishing detection system is the ultimate goal of this study, which focuses on machine learning frameworks, performance indicators, present obstacles, and future research directions.</jats:p>",
@@ -367,29 +408,28 @@
     "citations": 0,
     "venue": "Journal of Global Research in Multidisciplinary Studies(JGRMS)",
     "open_access": false,
-    "ai_summary": "ML, DL, and NLP are rapidly becoming into effective instruments for detecting both well-known and brand-new forms of phishing ."
+    "ai_summary": "ML, DL, and NLP are rapidly becoming into effective instruments for detecting both well-known and brand-new forms of phishing . Background on phishing assaults and old ways of detecting them are all included in this article ."
   },
   {
-    "id": "crossref:10.70239/arsu.2026.t85.n3.07",
-    "title": "HYBRID NETWORK INTRUSION DETECTION SYSTEM BASED ON SIGNATURE ANALYSIS AND MACHINE LEARNING METHODS",
-    "abstract": "<jats:p>In the context of increasing complexity of modern network infrastructures and the growing number of cyberattacks, improving the effectiveness of intrusion detection systems is a highly relevant task. The aim of this work is to develop and investigate a hybrid approach to network attack detection based on a combination of signature-based analysis and intelligent machine learning methods.  The research methods include analysis of requirements for anomaly detection systems, comparative analysis of existing solutions, design of a hybrid system architecture, and experimental modeling using multiclass classification of network traffic. The results demonstrate that integrating a neural model with a traditional detection system improves attack detection coverage and reduces the number of false positives.  The practical significance of the study lies in the possibility of deploying the proposed architecture in real corporate networks, while the theoretical significance consists in substantiating the effectiveness of a hybrid approach to traffic analysis. Future research directions include adaptive model training and expansion of the range of detectable attacks.</jats:p>",
+    "id": "crossref:10.5705/ss.202026.0109",
+    "title": "Inference for Extreme Value Index Through Individualized Fusion Learning",
+    "abstract": "",
     "authors": [
-      "IGISINOV S.ZH.",
-      "RYSKELDIKYZY R.",
-      "GAISAGALEYEVA B.M.",
-      "UVALIYEVA G.M.",
-      "ZHUMABAYEVA ZH.O."
+      "Hongfang Sun",
+      "Yu Chen",
+      "Tao Xu",
+      "Zhengjun Zhang"
     ],
     "published": "2029",
     "source": "Crossref",
     "category": "index",
-    "url": "https://doi.org/10.70239/arsu.2026.t85.n3.07",
-    "pdf_url": "https://www.usenix.org/system/files/sec22summer_arp.pdf",
-    "doi": "10.70239/arsu.2026.t85.n3.07",
+    "url": "https://doi.org/10.5705/ss.202026.0109",
+    "pdf_url": null,
+    "doi": "10.5705/ss.202026.0109",
     "citations": 0,
-    "venue": "Научный журнал \"Вестник Актюбинского регионального университета имени К. Жубанова\"",
-    "open_access": true,
-    "ai_summary": "The aim of this work is to develop and investigate a hybrid approach to network attack detection based on signature-based analysis and intelligent machine learning methods . The practical significance of the study lies in the possibility of deploying the proposed architecture in real corporate networks ."
+    "venue": "Statistica Sinica",
+    "open_access": false,
+    "ai_summary": "No abstract available."
   },
   {
     "id": "crossref:10.5705/ss.202025.0406",
@@ -412,25 +452,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.5705/ss.202025.0275",
-    "title": "Efficient Learning of Sparse Differential Networks in Multi-Source Non-Paranormal Models",
-    "abstract": "",
-    "authors": [
-      "Mojtaba Nikahd",
-      "Seyed Abolfazl Motahari"
-    ],
-    "published": "2029",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.5705/ss.202025.0275",
-    "pdf_url": null,
-    "doi": "10.5705/ss.202025.0275",
-    "citations": 0,
-    "venue": "Statistica Sinica",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
     "id": "crossref:10.5705/ss.202025.0314",
     "title": "Transfer Learning for High-dimensional Regression with Compositional Covariates: Application to Microbiome Studies",
     "abstract": "",
@@ -446,27 +467,6 @@
     "url": "https://doi.org/10.5705/ss.202025.0314",
     "pdf_url": null,
     "doi": "10.5705/ss.202025.0314",
-    "citations": 0,
-    "venue": "Statistica Sinica",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "crossref:10.5705/ss.202026.0109",
-    "title": "Inference for Extreme Value Index Through Individualized Fusion Learning",
-    "abstract": "",
-    "authors": [
-      "Hongfang Sun",
-      "Yu Chen",
-      "Tao Xu",
-      "Zhengjun Zhang"
-    ],
-    "published": "2029",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.5705/ss.202026.0109",
-    "pdf_url": null,
-    "doi": "10.5705/ss.202026.0109",
     "citations": 0,
     "venue": "Statistica Sinica",
     "open_access": false,
@@ -515,24 +515,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.71126/nijre.v2i1.16",
-    "title": "Transforming Education through Technology: The Case of COVID 19 Digital Learning in Nagaland",
-    "abstract": "<jats:p>Through the perspective of the COVID-19 pandemic and the disruption and opportunity it engendered, this chapter follows a transformative effect of EdTech and Digital education in India particularly in Nagaland through analysis. Drawing upon national policy frameworks, conceptual literature on educational technology, and contextual evidence based on the case of Nagaland, the chapter considers the rapid migration to digital learning as an emergency strategy (in response to the ongoing institution closures) based on the stark shifts in pedagogical practice, access to education services, and preparedness. The findings show that, including the ability of national programmes such as NEP 2020, SWAYAM, DIKSHA, PM e-VIDYA, and others, to promote access to digital tools was low within periphery or hill areas (e.g., Nagaland), due to lack of infrastructural resources, digital divide, unprepared teachers and economic/social divides, and more. The pandemic exposed the deep social and infrastructure divides in connectivity, device availability, assessment and learner engagement, with implications that were especially grave in rural and tribal settings. Although it accelerated the pace of innovation and the application of blended and low-tech learning practices teachers have been experimenting with digital platforms and the post-COVID recovery process, including remedial programmes and hybrid instruction. The chapter also discusses that blended learning is the most fitting, viable and sustainable approach for reaching the technological level in the field of educational technology at Nagaland. It implies that technology-mediated education can improve equity, quality, and resilience, but only under the conditions of inclusive policy design, strong digital infrastructure, vigorous teacher capability building, and culturally appropriate digital content.\nKeywords: Educational technology, digital learning, COVID-19, Nagaland, online education, Challenges, blended learning</jats:p>",
-    "authors": [
-      "K Hinoca Assumi"
-    ],
-    "published": "2028",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.71126/nijre.v2i1.16",
-    "pdf_url": "https://doi.org/10.71126/nijre.v2i1.16",
-    "doi": "10.71126/nijre.v2i1.16",
-    "citations": 0,
-    "venue": "Naveen International Journal of Research in Education (NIJRE)",
-    "open_access": true,
-    "ai_summary": "The chapter considers the rapid migration to digital learning as an emergency strategy . The findings show that the ability of national programmes such as NEP 2020, SWAYAM, DIKSHA, PM e-VIDYA, and others, to promote access to digital tools was low within periphery or hill areas ."
-  },
-  {
     "id": "crossref:10.32628/cseit251116279",
     "title": "Cyber Defense Digital Twins: A Federated Learning and Zero-Trust AI Architecture for Autonomous Threat Prediction and Response",
     "abstract": "<jats:p>Modern enterprise networks operate under persistent threats that exploit cloud-native misconfigurations, identity sprawl, and API vulnerabilities at machine speed. Existing security operations center (SOC) architectures remain largely reactive, signature-dependent, and incapable of predicting multi-stage lateral movement. This paper proposes the Cognitive Cyber Defense Digital Twin (CCDT), a unified architecture integrating federated learning (FL), graph neural network (GNN)-based attack-path forecasting, adversarially hardened detection models, and autonomous Security Orchestration, Automation, and Response (SOAR) with deception engineering. The CCDT constructs a continuously synchronized digital replica of organizational assets and employs reinforcement learning-based red agents to stress-test detection models. A federated intelligence mesh enables cross-organizational privacy-preserving gradient sharing. Experimental evaluations against CICIDS-2018 and LANL datasets demonstrate 52% faster attack-path detection, 41% reduction in false positive rate, and 60% reduction in mean-time-to-respond (MTTR) compared to traditional SOC baselines. Integrated Explainable AI (XAI) modules using SHAP values enable audit-ready compliance reporting. The CCDT represents a paradigm shift from reactive monitoring to predictive, autonomous, and privacy-preserving cyber defense for hybrid cloud environments.</jats:p>",
@@ -549,6 +531,24 @@
     "venue": "International Journal of Scientific Research in Computer Science, Engineering and Information Technology",
     "open_access": false,
     "ai_summary": "The paper proposes the Cognitive Cyber Defense Digital Twin (CCDT) The CCDT constructs a continuously synchronized digital replica of organizational assets . It employs reinforcement learning-based red agents to stress-test detection models ."
+  },
+  {
+    "id": "crossref:10.71126/nijre.v2i1.16",
+    "title": "Transforming Education through Technology: The Case of COVID 19 Digital Learning in Nagaland",
+    "abstract": "<jats:p>Through the perspective of the COVID-19 pandemic and the disruption and opportunity it engendered, this chapter follows a transformative effect of EdTech and Digital education in India particularly in Nagaland through analysis. Drawing upon national policy frameworks, conceptual literature on educational technology, and contextual evidence based on the case of Nagaland, the chapter considers the rapid migration to digital learning as an emergency strategy (in response to the ongoing institution closures) based on the stark shifts in pedagogical practice, access to education services, and preparedness. The findings show that, including the ability of national programmes such as NEP 2020, SWAYAM, DIKSHA, PM e-VIDYA, and others, to promote access to digital tools was low within periphery or hill areas (e.g., Nagaland), due to lack of infrastructural resources, digital divide, unprepared teachers and economic/social divides, and more. The pandemic exposed the deep social and infrastructure divides in connectivity, device availability, assessment and learner engagement, with implications that were especially grave in rural and tribal settings. Although it accelerated the pace of innovation and the application of blended and low-tech learning practices teachers have been experimenting with digital platforms and the post-COVID recovery process, including remedial programmes and hybrid instruction. The chapter also discusses that blended learning is the most fitting, viable and sustainable approach for reaching the technological level in the field of educational technology at Nagaland. It implies that technology-mediated education can improve equity, quality, and resilience, but only under the conditions of inclusive policy design, strong digital infrastructure, vigorous teacher capability building, and culturally appropriate digital content.\nKeywords: Educational technology, digital learning, COVID-19, Nagaland, online education, Challenges, blended learning</jats:p>",
+    "authors": [
+      "K Hinoca Assumi"
+    ],
+    "published": "2028",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.71126/nijre.v2i1.16",
+    "pdf_url": null,
+    "doi": "10.71126/nijre.v2i1.16",
+    "citations": 0,
+    "venue": "Naveen International Journal of Research in Education (NIJRE)",
+    "open_access": false,
+    "ai_summary": "The chapter considers the rapid migration to digital learning as an emergency strategy . The findings show that the ability of national programmes such as NEP 2020, SWAYAM, DIKSHA, PM e-VIDYA, and others, to promote access to digital tools was low within periphery or hill areas ."
   },
   {
     "id": "openalex:W7143351384",
@@ -583,6 +583,25 @@
     "doi": "10.7273/000008004",
     "citations": 0,
     "venue": "Washington State University",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7212621018",
+    "title": "Perioperative hyperbaric oxygen therapy: mechanisms, evidence, and clinical application.",
+    "abstract": "",
+    "authors": [
+      "Takudzwa Gavaza",
+      "Nathanael Matei"
+    ],
+    "published": "2027-01-01",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.4103/mgr.medgasres-d-25-00318",
+    "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13667376/pdf/MGR-17-306.pdf",
+    "doi": "10.4103/mgr.medgasres-d-25-00318",
+    "citations": 0,
+    "venue": "PubMed Central",
     "open_access": true,
     "ai_summary": "No abstract available."
   },
@@ -645,6 +664,73 @@
     "ai_summary": "No abstract available."
   },
   {
+    "id": "openalex:W7213003074",
+    "title": "Oxygen, carbon dioxide, and nitric oxide: role in the pathophysiology of obstructive sleep apnea.",
+    "abstract": "",
+    "authors": [
+      "Antonio Fabozzi",
+      "Pasquale Tondo",
+      "Caterina Antonaglia",
+      "Alessia Steffanina",
+      "Donato Lacedonia",
+      "Marco Confalonieri",
+      "Matteo Bonini",
+      "Paolo Palange"
+    ],
+    "published": "2027-01-01",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.4103/mgr.medgasres-d-25-00224",
+    "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13667351/pdf/MGR-17-285.pdf",
+    "doi": "10.4103/mgr.medgasres-d-25-00224",
+    "citations": 0,
+    "venue": "PubMed Central",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7213092516",
+    "title": "Nitric oxide signaling and mitophagy in Parkinson's disease: implications for aerobic exercise-related neuroprotection.",
+    "abstract": "",
+    "authors": [
+      "Yang Zhou",
+      "Yongliang Wu"
+    ],
+    "published": "2027-01-01",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.4103/mgr.medgasres-d-26-00008",
+    "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13667388/pdf/MGR-17-129.pdf",
+    "doi": "10.4103/mgr.medgasres-d-26-00008",
+    "citations": 0,
+    "venue": "PubMed Central",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "openalex:W7213165266",
+    "title": "High levels of nitric oxide and peroxynitrite with protein nitration: a new therapeutic target for gliomas.",
+    "abstract": "",
+    "authors": [
+      "Ying Yang",
+      "Qi Zhang",
+      "Yuchen Ma",
+      "Serge Yannick Ouédraogo",
+      "Liang Chen",
+      "Xianquan Zhan"
+    ],
+    "published": "2027-01-01",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.4103/mgr.medgasres-d-25-00365",
+    "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13667387/pdf/MGR-17-117.pdf",
+    "doi": "10.4103/mgr.medgasres-d-25-00365",
+    "citations": 0,
+    "venue": "PubMed Central",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
     "id": "openalex:W7211975381",
     "title": "Application and feasibility analysis of random Forest models in safety prediction for transition metal-doped Na3V2(PO4)3 sodium-ion batteries.",
     "abstract": "",
@@ -671,178 +757,6 @@
     "venue": "PubMed",
     "open_access": false,
     "ai_summary": "No abstract available."
-  },
-  {
-    "id": "pubmed:42951734",
-    "title": "The Birth of Voice: Acoustic Baselines of Newborn Vocalizations in the First Minutes of Extrauterine Life.",
-    "abstract": "Newborn crying immediately after birth has traditionally been regarded as a key sign of vitality, reflecting basic cardiovascular and respiratory function. However, initial postnatal vocal behavior not only limited to crying and its underlying mechanisms are not yet fully understood, and systematic acoustic analyses of birth vocalizations (BiVo) are lacking. This study addresses this gap by providing indicative values for established vocalization parameters to comprehensively characterize the very first vocalizations of newborns in a largely homogeneous non-pathological sample. We analyzed publicly available birth videos of 60 vaginally delivered newborns (35 female, 25 male), who exhibited an unremarkable health status. In each video, we manually segmented BiVo during the first 3 minutes after birth, yielding a total of 7681 vocalizations. Each segment was subsequently assigned to one of three predefined vocalization types. On a per-newborn basis, we extracted the number of vocalizations and the time from birth to the respective first vocalization. On a per-vocalization basis, we calculated duration and five standard acoustic parameters, namely mean loudness, harmonics-to-noise ratio, fundamental frequency, jitter, and shimmer. In addition to descriptive analysis, we applied linear mixed-effects models to examine potential sex differences. All analyses were performed both across all vocalizations and separately by vocalization type. We established indicative values, such as a mean number of 128 vocalizations, a mean time of 12 seconds between the time of birth and the first vocalization, a mean vocalization duration of 0.53 seconds, and a mean fundamental frequency of crying vocalizations of 439 Hz. Additionally, we observed sex differences, particularly in the number of vocalizations and the fundamental frequency of crying vocalizations. This work reveals the first comprehensive BiVo characterization and, thereby, represents a fundamental step towards understanding newborn vocal behavior immediately after birth, which is essential for any future attempts to exploit BiVo as a health indicator.",
-    "authors": [
-      "Marlene Holzer",
-      "Katrin D Bartl-Pokorny",
-      "Claudia Zitta",
-      "Johanna Schuller",
-      "Björn W Schuller",
-      "Bernhard Schwaberger",
-      "Herbert Fluhr",
-      "Gerhard Pichler",
-      "Florian B Pokorny"
-    ],
-    "published": "2026-Oct-28",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42951734/",
-    "pdf_url": null,
-    "doi": "10.1016/j.jvoice.2026.10.002",
-    "citations": 0,
-    "venue": "Journal of voice : official journal of the Voice Foundation",
-    "open_access": false,
-    "ai_summary": "Newborn crying immediately after birth has traditionally been regarded as a key sign of vitality . But initial postnatal vocal behavior not only limited to crying and its underlying mechanisms are not yet fully understood . This study addresses this gap by providing indicative values for established vocalization parameters ."
-  },
-  {
-    "id": "pubmed:42951723",
-    "title": "Bacteriophages versus priority pathogens: resistance mechanisms, therapeutic challenges, and opportunities for novel combinations.",
-    "abstract": "Antimicrobial resistance poses a critical global health threat, and renewed interest in bacteriophage (phage) therapy highlights its potential as a targeted alternative to antibiotic monotherapy. However, phage resistance in bacteria remains a key limiting factor in phage therapy, driven by evolutionary adaptations to phage exposure. Antibacterial modalities (antibiotics, adjuvants, antimicrobial peptides, and RNA-based therapeutics) could help overcome these barriers and represent untapped potential for synergistic, precision antimicrobial interventions when combined with phage therapy. Importantly, bacterial physiology and environmental context could strongly influence treatment outcomes, underscoring the need for clinically relevant models for testing combinations. Integration of multi-omics and artificial intelligence-driven approaches could help predict patterns for the development of precision therapies and support the development of novel antimicrobial interventions.",
-    "authors": [
-      "Sarah Byrne",
-      "Alice C Z Collins",
-      "Aaron C Nolan",
-      "Sivaramesh Wigneshweraraj",
-      "Merve S Zeden"
-    ],
-    "published": "2026-Oct-28",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42951723/",
-    "pdf_url": null,
-    "doi": "10.1016/j.tim.2026.10.001",
-    "citations": 0,
-    "venue": "Trends in microbiology",
-    "open_access": false,
-    "ai_summary": "Antibacterial modalities (antibiotics, adjuvants, antimicrobial peptides, and RNA-based therapeutics) could help overcome these barriers and represent untapped potential for precision antimicrobial interventions . Phage therapy is a targeted alternative to antibiotic monotherapy ."
-  },
-  {
-    "id": "pubmed:42951721",
-    "title": "Molecular imaging in adult spondylodiscitis: current evidence, clinical applications, and future perspectives.",
-    "abstract": "Adult spondylodiscitis is an infection of the intervertebral disc and adjacent vertebral bodies that may progress to paravertebral extension, epidural involvement, spinal instability, sepsis, and neurological compromise. Because clinical symptoms and laboratory markers are often nonspecific, imaging is central to diagnosis, assessment of disease extent, biopsy planning, and selective evaluation of treatment response. Magnetic resonance imaging (MRI) remains the first-line anatomical technique for early marrow, disc, epidural, and paraspinal disease, while computed tomography (CT) is valuable for osseous destruction, instability, and biopsy guidance. Molecular imaging complements these modalities by depicting biological activity rather than structure alone. Fluorine-18 fluorodeoxyglucose positron emission tomography/computed tomography ([18F]FDG PET/CT) is the most established molecular technique, offering high diagnostic performance, whole-body evaluation for multifocal or metastatic infection, and support for management when MRI is contraindicated, equivocal, or difficult to interpret after surgery. Its main limitations are limited pathogen specificity, uptake in sterile inflammatory or reparative processes, heterogeneous interpretation criteria, and uncertain thresholds for treatment monitoring. Emerging approaches, including hybrid positron emission tomography/magnetic resonance imaging (PET/MRI), fibroblast activation protein inhibitor (FAPI) tracers, pathogen-targeted radiopharmaceuticals, quantitative PET biomarkers, and artificial intelligence (AI), remain investigational and require prospective validation of diagnostic and clinical utility. This review summarizes current evidence, clinical applications, limitations, and future directions for molecular imaging in spondylodiscitis.",
-    "authors": [
-      "Akram Al-Ibraheem",
-      "Enrique Estrada-Lobato",
-      "Saad Ruzzeh",
-      "Anita Brink",
-      "Francesco Giammarile",
-      "Mahed Al-Foqahaa",
-      "Maryam Al-Jaddadi",
-      "Safa Hussain",
-      "Abdullah Amro",
-      "Diana Paez"
-    ],
-    "published": "2026-Oct-28",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42951721/",
-    "pdf_url": null,
-    "doi": "10.1053/j.semnuclmed.2026.10.004",
-    "citations": 0,
-    "venue": "Seminars in nuclear medicine",
-    "open_access": false,
-    "ai_summary": "Adult spondylodiscitis is an infection of the intervertebral disc and adjacent vertebral bodies . Magnetic resonance imaging (MRI) remains the first-line anatomical technique for early marrow, disc, epidural, and paraspinal disease ."
-  },
-  {
-    "id": "pubmed:42951688",
-    "title": "Clozapine Augmentation Strategies and Clinical Predictors of Prolonged Tertiary Hospitalization in Clozapine-Resistant Schizophrenia: a Retrospective Cohort Study.",
-    "abstract": "Clozapine-resistant schizophrenia (CRS) remains a major clinical challenge, with persistent symptoms and functional impairment despite adequate clozapine treatment. Real-world evidence is limited, and guidelines recommend a narrow set of augmentation strategies-aripiprazole (D2/3R partial agonist), amisulpride (D2/3R selective antagonist), and electroconvulsive therapy (ECT)-without clear guidance on selection or sequencing. This study examined augmentation choice and its association with length of stay (LOS) and symptomatic outcomes. We conducted a retrospective cohort study using BC Psychosis Program electronic records (2012-2025). Symptom severity and functioning scores (PANSS, CGI-S, GAPS, SOFAS) were extracted at admission and discharge. Multivariable Cox models assessed LOS for index and discharge augmentation strategies. ANCOVA compared symptom change across discharge strategies. A machine-learning model examined predictors of ECT versus pharmacological augmentation at discharge. Eighty-eight admissions were included. In adjusted index models, D2/3R selective antagonism was associated with shorter LOS than ECT (HR 2.50, 95% CI 1.35-4.62); partial agonism was not (HR 1.41, 95% CI 0.75-2.63). Partial agonist augmentation had the highest inefficacy-related switching. By discharge strategy, ECT was associated with greater reduction in positive symptoms than selective antagonism (MD -3.20, 95% CI -5.65 to -0.75) and partial agonism (MD -3.87, 95% CI -6.57 to -1.16). Greater impairment in psychosis and functioning on admission predicted ECT at discharge (AUC 0.74; balanced accuracy 0.72). D2/3R selective antagonism was the most resource-efficient strategy, while ECT produced greater improvement in positive symptoms. Incorporating baseline psychosis severity and functioning into measurement-based care may support more informed augmentation selection.",
-    "authors": [
-      "Kaitlyn Baldwin",
-      "William G Honer",
-      "Reza Shahbazi",
-      "Diane Fredrikson",
-      "Randall F White",
-      "Fidel Villa-Rodriguez",
-      "Reza Rafizadeh"
-    ],
-    "published": "2026-Oct-27",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42951688/",
-    "pdf_url": null,
-    "doi": "10.1093/schbul/sbag187",
-    "citations": 0,
-    "venue": "Schizophrenia bulletin",
-    "open_access": false,
-    "ai_summary": "Clozapine-resistant schizophrenia (CRS) remains a major clinical challenge, with persistent symptoms and functional impairment . Real-world evidence is limited, and guidelines recommend a narrow set of augmentation strategies ."
-  },
-  {
-    "id": "pubmed:42951566",
-    "title": "Eutectogel-based thin film microextraction coupled with UPLC-PDA for selective detection of diflufenican.",
-    "abstract": "Per- and polyfluoroalkyl substance (PFAS) pesticides remain an under-quantified source of human dietary exposure, largely due to their trace-level occurrence and the complexity of food matrices. These analytical challenges underscore the need for selective extraction approaches capable of minimizing matrix interferences. In this work, a new thin-film microextraction (TFME) device incorporating multifunctional eutectogels was developed for the selective extraction and preconcentration of the PFAS herbicide diflufenican from food samples prior to UPLC-PDA quantification, and its performance was systematically evaluated. High-throughput screening of selectivity-enhanced deep eutectic solvents (DESs) toward diflufenican was performed using machine-learning-enhanced quantum chemical methods. Simultaneously, the eutectogel-based thin film was fabricated via UV-initiated photopolymerization of the DES, monomer, and crosslinker, yielding supramolecular gels stabilized by non-covalent interactions. The established method demonstrated excellent analytical performance, with a wide linear range (0.5-500 μg/L), a low LOD (0.04 μg/L and 0.53 μg/kg), and satisfactory recoveries (97.2-112%). Compared with the established methods, the proposed method possessed higher precision while affording a lower limit of detection and reduced hazardous reagent consumption. Mechanistic exploration corroborated by molecular simulations and multi-spectroscopic characterizations revealed that the eutectogel effectively captures diflufenican through hydrogen-bond interaction, π-π transpose, and proton-transfer inhibition, while the original DES interaction network undergoes dynamic reorganization. The demonstrated tunability of the developed eutectogel-based thin-film microextraction device positions it as a versatile platform for the selective preconcentration of fluorinated species in complex matrices, supporting advances in the monitoring of hazardous substances in food.",
-    "authors": [
-      "Ruixue Zhang",
-      "Chen Fan",
-      "Jie Li",
-      "Ran Duan"
-    ],
-    "published": "2026-Dec-01",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42951566/",
-    "pdf_url": null,
-    "doi": "10.1016/j.aca.2026.346331",
-    "citations": 0,
-    "venue": "Analytica chimica acta",
-    "open_access": false,
-    "ai_summary": "Per- and polyfluoroalkyl substance (PFAS) pesticides remain an under-quantified source of human dietary exposure . A new thin-film microextraction (TFME) device incorporating multifunctional eutectogels was developed for the selective extraction and preconcentration of the PFAS herbicide dif"
-  },
-  {
-    "id": "pubmed:42951560",
-    "title": "Lysosome-targeted fluorescent probe for real-time imaging of hypochlorite in rheumatoid arthritis and machine learning-assisted quantification in plant tissues.",
-    "abstract": "Rheumatoid arthritis (RA) is a chronic autoimmune inflammatory disease closely associated with excessive oxidative stress. Hypochlorite (ClO The designed probe HB-Z consists of a 1,8-naphthalimide-based fluorophore, p-aminophenyl ether recognition unit, and morpholine lysosomal-targeting group, enabling remarkable turn-on fluorescence response upon ClO This probe provides a versatile platform for dynamic ClO",
-    "authors": [
-      "Zhipeng Zhang",
-      "Zhengxin Chen",
-      "Hanbin Wu",
-      "Zhongxi Huang",
-      "Long Zhang",
-      "Yao Wang",
-      "Zihan Ma",
-      "Yangyang Pu",
-      "Changmin Yu"
-    ],
-    "published": "2026-Dec-01",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42951560/",
-    "pdf_url": null,
-    "doi": "10.1016/j.aca.2026.346324",
-    "citations": 0,
-    "venue": "Analytica chimica acta",
-    "open_access": false,
-    "ai_summary": "Rheumatoid arthritis (RA) is a chronic autoimmune inflammatory disease closely associated with excessive oxidative stress . Hypochlorite (ClO The designed probe HB-Z) consists of a 1,8-naphthalimide-based fluorophore, p-aminophenyl ether recognition unit and morpholine lysosomal"
-  },
-  {
-    "id": "pubmed:42951561",
-    "title": "A multiway approach to overcome the peak resolution challenges in gas-chromatography coupled to ion mobility spectrometry.",
-    "abstract": "Gas-chromatography coupled to ion mobility spectrometry (GC-IMS) is a powerful platform for untargeted analysis of volatile compounds, combining high sensitivity and short analysis times. However, its practical implementation still presents several analytical and computational challenges. From the instrumental perspective, the high sensitivity of isothermal GC-IMS makes it prone to signal saturation and memory effects, which can compromise the reproducibility of measurements. On the data-analysis side, the nature of GC-IMS outputs produce large and collinear datasets, in which baseline drift, shift in ion mobility and retention time modes, and peak overlap hinder the reliable extraction of relevant chemical information. This work proposes a comprehensive workflow from the analytical strategy to the data analysis using as benchmark a data set of honey samples of different origin. Analysing the GC-IMS data, obtained with an instrument operating in isothermal condition, a prominent and marked memory effect was observed; it could be contained only through the systematic use of frequent blanks. Notably, most papers in the literature do not adopt blanks at such frequency. Attention was then devoted to the preprocessing, to improve data quality prior to modelling while limiting the number of preprocessing steps. A multiway approach, i.e. Parallel Factor Analysis 2 (PARAFAC2) applied interval wise, was adopted, for the first time, to resolve overlapping peaks and extract chemically meaningful components from the GC-IMS landscape. The results obtained were also compared with Multivariate Curve Resolution-Alternating Least Squares (MCR-ALS) and recent improved PARAFAC2 algorithms. A complete pipeline for the GC-IMS analysis was carefully developed and validated. PARAFAC2, was successfully applied for the deconvolution of GC-IMS data. This approach provided comparable results with previous methods and indicated that the same grade of automation reached in the analysis of GC-MS data with the same approach is feasible.",
-    "authors": [
-      "Samuele Pellacani",
-      "Lorenzo Strani",
-      "Daniele Tanzilli",
-      "Rebecca Barbieri",
-      "Raniero Marabottini",
-      "Francesca Martone",
-      "Angela Napolitano",
-      "Marina Cocchi",
-      "Caterina Durante"
-    ],
-    "published": "2026-Dec-01",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42951561/",
-    "pdf_url": null,
-    "doi": "10.1016/j.aca.2026.346326",
-    "citations": 0,
-    "venue": "Analytica chimica acta",
-    "open_access": false,
-    "ai_summary": "Gas-chromatography coupled to ion mobility spectrometry (GC-IMS) is a powerful platform for untargeted analysis of volatile compounds . The high sensitivity of isothermal GC-IMs makes it prone to signal saturation and memory effects ."
   },
   {
     "id": "openalex:W7118880740",
@@ -971,25 +885,6 @@
     "doi": "10.17613/v92ad-xvp66",
     "citations": 0,
     "venue": "PhilPapers (PhilPapers Foundation)",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W7166553890",
-    "title": "Human-AI Collaboration vs. Substitution in Tourism Social Media Content: A Conceptual Framework for Consumer Engagement",
-    "abstract": "",
-    "authors": [
-      "Jasmine Chang Man Lin",
-      "Fatma Ezzahra Ben Soltane"
-    ],
-    "published": "2026-12-31",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.17613/7a3zf-yt886",
-    "pdf_url": "https://works.hcommons.org:snc83-vx894",
-    "doi": "10.17613/7a3zf-yt886",
-    "citations": 0,
-    "venue": "Unknown",
     "open_access": true,
     "ai_summary": "No abstract available."
   },
@@ -1317,27 +1212,7 @@
     "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13572001/pdf/main.pdf",
     "doi": "10.1016/j.omta.2026.201832",
     "citations": 0,
-    "venue": "PubMed",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W7212381432",
-    "title": "Complexity and Entropy Trade-offs in Deep Neural Network Representations",
-    "abstract": "",
-    "authors": [
-      "Peter Malek",
-      "Michaela Zeman",
-      "Andrej Havel"
-    ],
-    "published": "2026-12-03",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.5281/zenodo.22698615",
-    "pdf_url": "https://doi.org/10.5281/zenodo.22698615",
-    "doi": "10.5281/zenodo.22698615",
-    "citations": 0,
-    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "venue": "PubMed Central",
     "open_access": true,
     "ai_summary": "No abstract available."
   },
@@ -1360,7 +1235,7 @@
     "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13572519/pdf/main.pdf",
     "doi": "10.1016/j.ohx.2026.e00833",
     "citations": 0,
-    "venue": "PubMed",
+    "venue": "PubMed Central",
     "open_access": true,
     "ai_summary": "No abstract available."
   },
@@ -1385,7 +1260,7 @@
     "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13681099/pdf/painreports-11-e1509.pdf",
     "doi": "10.1097/pr9.0000000000001509",
     "citations": 0,
-    "venue": "PubMed",
+    "venue": "PubMed Central",
     "open_access": true,
     "ai_summary": "No abstract available."
   },
@@ -1426,28 +1301,8 @@
     "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13668298/pdf/painreports-11-e1507.pdf",
     "doi": "10.1097/pr9.0000000000001507",
     "citations": 0,
-    "venue": "PubMed",
+    "venue": "PubMed Central",
     "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W7211941274",
-    "title": "MiR-326 targets ETS1 to activate PI3K/Akt signaling and promote malignant phenotypes in gastric cancer cells.",
-    "abstract": "",
-    "authors": [
-      "Kai Liang",
-      "Xiangyu Zhang",
-      "Yin Yang"
-    ],
-    "published": "2026-12-01",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.36721/pjps.2026.39.12.335.1",
-    "pdf_url": null,
-    "doi": "10.36721/pjps.2026.39.12.335.1",
-    "citations": 0,
-    "venue": "PubMed",
-    "open_access": false,
     "ai_summary": "No abstract available."
   },
   {
@@ -1666,30 +1521,28 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "arxiv:2610.37657v1",
-    "title": "Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness",
-    "abstract": "We introduce Heads of Security (HoS), a prompt injection defense that enforces instruction-data separation via a small set of learned per-head attention gates. HoS learns how each head should redistribute attention between trusted and untrusted tokens, enabling models to reason over untrusted content without following injected instructions. We evaluate HoS on Llama-3.3-70B-Instruct and GPT-OSS-20B. We compare it against SecAlign++, a state-of-the-art finetuning-based defense, and ASIDE, a defense that, like ours, builds instruction-data separation into the model architecture. We show that HoS offers greater robustness to adaptive attacks, better performance on standard utility benchmarks, and matches top performance on standard agentic prompt injection benchmarks. More specifically, the black-box RL-Hammer attack reaches 97% ASR against GPT-OSS-20B and 85% against SecAlign, but only 10% against HoS. Claudini, a state-of-the-art white-box attack, strengthened against HoS through autoresearch, requires 3 times more FLOPs to reach the same ASR on HoS as it does on GPT-OSS-20B or SecAlign. HoS preserves base-model utility across standard multiple-choice benchmarks and prompting setups, whereas SecAlign and ASIDE degrade in few-shot settings. On agentic benchmarks with static attacks, HoS and SecAlign perform similarly and substantially improve the security-utility trade-off over the base model. ASIDE struggles with tool use, achieving only 10% utility. These results show that prompt injection robustness can be achieved and improved through targeted attention interventions.",
+    "id": "arxiv:2610.37666v1",
+    "title": "ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning",
+    "abstract": "Vision-Language-Action (VLA) models have made substantial progress in robotic manipulation, but their generalization remains constrained by the diversity and coverage of action-labeled robot demonstrations. Human videos provide much broader behavioral and environmental experience, while learning from them faces a fundamental trade-off between scalable data and explicit action grounding. We introduce ThinkWorld, a VLA learning framework that grounds action reasoning in world dynamics and strengthens it through reinforcement learning with world imagination. ThinkWorld represents each action thought as a Chain-of-Dynamics (CoD), a sequence of discrete motion tokens that captures the intermediate dynamics connecting the current world to a future state and serves as a common action representation across embodiments. We first initialize CoD with action-labeled demonstrations, then predict the future induced by each CoD and reinforce those whose predictions better match the observed outcome. This enables videos without action annotations to provide direct supervision from observed state transitions, allowing human and robot experience to refine the same reasoning space. Experiments in simulation and on real robots demonstrate effective human-to-robot transfer and strong generalization to unseen tasks and environments.",
     "authors": [
-      "Igor Shilov",
-      "Xiaoxue Yang",
-      "Alexander Panfilov",
-      "Evgenii Kortukov",
-      "Matthieu Meeus",
-      "Peter Romov",
-      "Wojciech Samek",
-      "Jonas Geiping",
-      "Yves-Alexandre de Montjoye"
+      "Chaehyun Kim",
+      "Chi-Pin Huang",
+      "Jisoo Kim",
+      "Min-Hung Chen",
+      "Yu-Chiang Frank Wang",
+      "Seungryong Kim",
+      "Fu-En Yang"
     ],
     "published": "2026-10-27",
     "source": "arXiv",
     "category": "preprint",
-    "url": "https://arxiv.org/abs/2610.37657v1",
-    "pdf_url": "https://arxiv.org/pdf/2610.37657v1",
+    "url": "https://arxiv.org/abs/2610.37666v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.37666v1",
     "doi": null,
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "HoS learns how each head should redistribute attention between trusted and untrusted tokens . HoS offers greater robustness to adaptive attacks, better performance on standard utility benchmarks ."
+    "ai_summary": "Vision-Language-Action (VLA) models have made substantial progress in robotic manipulation . But their generalization remains constrained by the diversity and coverage of action-labeled robot demonstrations . We introduce ThinkWorld, a VLA learning framework that grounds action reasoning in world dynamics ."
   },
   {
     "id": "arxiv:2610.37662v1",
@@ -1718,24 +1571,30 @@
     "ai_summary": "Discrete visual tokens represent vision in a discrete form analogous to language . However, quantization error is widely assumed to cause unavoidable semantic loss . Using multimodal understanding as a proxy for semantic fidelity, we revisit this assumption ."
   },
   {
-    "id": "arxiv:2610.37668v1",
-    "title": "Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction",
-    "abstract": "Novel view synthesis and 3D reconstruction have advanced rapidly with radiance fields and splatting, yet their memory and computational demands limit their use in resource-constrained settings. We introduce Hexels: novel planar hexagonal surface elements with a first-order spatial color field for efficient 3D scene and 2D image representation. Hexels exploit locally planar regions with smoothly varying appearance using fewer, larger primitives. Their hexagonal support provides an area- and boundary-efficient domain, while the local color field captures appearance variation within each primitive. Across 34 scenes, Hexels improve PSNR over memory-matched 2DGS by 4.53-7.38 dB across datasets while requiring lower training VRAM. We further ablate Hexels by showing that per primitive, Hexels outperform 2DGS by upto 4.74 dB while using lower training VRAM and having 2.31 times faster FPS. Even in unconstrained settings, Hexels offers complementary quality-memory trade-offs. For efficient 3D surface reconstruction, Hexels reduce error by 28.9% compared with memory-matched 2DGS across 15 DTU scans. On 6 Tanks and Temples surface scenes, Hexels achieves the highest mean F1 among compared methods (34.38%, versus 31.72% for 2DGS). We further also show that Hexels, as a general primitive, improves 2D image representation over Image-GS. Hexels push the Pareto frontier on the quality-efficiency trade-off of surface-aligned primitives.",
+    "id": "arxiv:2610.37657v1",
+    "title": "Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness",
+    "abstract": "We introduce Heads of Security (HoS), a prompt injection defense that enforces instruction-data separation via a small set of learned per-head attention gates. HoS learns how each head should redistribute attention between trusted and untrusted tokens, enabling models to reason over untrusted content without following injected instructions. We evaluate HoS on Llama-3.3-70B-Instruct and GPT-OSS-20B. We compare it against SecAlign++, a state-of-the-art finetuning-based defense, and ASIDE, a defense that, like ours, builds instruction-data separation into the model architecture. We show that HoS offers greater robustness to adaptive attacks, better performance on standard utility benchmarks, and matches top performance on standard agentic prompt injection benchmarks. More specifically, the black-box RL-Hammer attack reaches 97% ASR against GPT-OSS-20B and 85% against SecAlign, but only 10% against HoS. Claudini, a state-of-the-art white-box attack, strengthened against HoS through autoresearch, requires 3 times more FLOPs to reach the same ASR on HoS as it does on GPT-OSS-20B or SecAlign. HoS preserves base-model utility across standard multiple-choice benchmarks and prompting setups, whereas SecAlign and ASIDE degrade in few-shot settings. On agentic benchmarks with static attacks, HoS and SecAlign perform similarly and substantially improve the security-utility trade-off over the base model. ASIDE struggles with tool use, achieving only 10% utility. These results show that prompt injection robustness can be achieved and improved through targeted attention interventions.",
     "authors": [
-      "Prakhar Kaushik",
-      "Soumava Paul",
-      "Alan Yuille"
+      "Igor Shilov",
+      "Xiaoxue Yang",
+      "Alexander Panfilov",
+      "Evgenii Kortukov",
+      "Matthieu Meeus",
+      "Peter Romov",
+      "Wojciech Samek",
+      "Jonas Geiping",
+      "Yves-Alexandre de Montjoye"
     ],
     "published": "2026-10-27",
     "source": "arXiv",
     "category": "preprint",
-    "url": "https://arxiv.org/abs/2610.37668v1",
-    "pdf_url": "https://arxiv.org/pdf/2610.37668v1",
+    "url": "https://arxiv.org/abs/2610.37657v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.37657v1",
     "doi": null,
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "Hexels exploit locally planar regions with smoothly varying appearance using fewer, larger primitives . Hexels improve PSNR over memory-matched 2DGS by 4.53-7.38 dB across datasets while requiring lower training VRAM ."
+    "ai_summary": "HoS learns how each head should redistribute attention between trusted and untrusted tokens . HoS offers greater robustness to adaptive attacks, better performance on standard utility benchmarks ."
   },
   {
     "id": "arxiv:2610.37663v1",
@@ -1758,28 +1617,24 @@
     "ai_summary": "Transitioning semantically typed tokens between heterogeneous blockchains raises two problems . For atomicity, we extend hash time-locked contracts from two-party exchange to single-owner transfer . We machine-check the protocol's invariants with TLC (supply conservation fails without the rational-monitor assumption and holds with it)"
   },
   {
-    "id": "arxiv:2610.37666v1",
-    "title": "ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning",
-    "abstract": "Vision-Language-Action (VLA) models have made substantial progress in robotic manipulation, but their generalization remains constrained by the diversity and coverage of action-labeled robot demonstrations. Human videos provide much broader behavioral and environmental experience, while learning from them faces a fundamental trade-off between scalable data and explicit action grounding. We introduce ThinkWorld, a VLA learning framework that grounds action reasoning in world dynamics and strengthens it through reinforcement learning with world imagination. ThinkWorld represents each action thought as a Chain-of-Dynamics (CoD), a sequence of discrete motion tokens that captures the intermediate dynamics connecting the current world to a future state and serves as a common action representation across embodiments. We first initialize CoD with action-labeled demonstrations, then predict the future induced by each CoD and reinforce those whose predictions better match the observed outcome. This enables videos without action annotations to provide direct supervision from observed state transitions, allowing human and robot experience to refine the same reasoning space. Experiments in simulation and on real robots demonstrate effective human-to-robot transfer and strong generalization to unseen tasks and environments.",
+    "id": "arxiv:2610.37668v1",
+    "title": "Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction",
+    "abstract": "Novel view synthesis and 3D reconstruction have advanced rapidly with radiance fields and splatting, yet their memory and computational demands limit their use in resource-constrained settings. We introduce Hexels: novel planar hexagonal surface elements with a first-order spatial color field for efficient 3D scene and 2D image representation. Hexels exploit locally planar regions with smoothly varying appearance using fewer, larger primitives. Their hexagonal support provides an area- and boundary-efficient domain, while the local color field captures appearance variation within each primitive. Across 34 scenes, Hexels improve PSNR over memory-matched 2DGS by 4.53-7.38 dB across datasets while requiring lower training VRAM. We further ablate Hexels by showing that per primitive, Hexels outperform 2DGS by upto 4.74 dB while using lower training VRAM and having 2.31 times faster FPS. Even in unconstrained settings, Hexels offers complementary quality-memory trade-offs. For efficient 3D surface reconstruction, Hexels reduce error by 28.9% compared with memory-matched 2DGS across 15 DTU scans. On 6 Tanks and Temples surface scenes, Hexels achieves the highest mean F1 among compared methods (34.38%, versus 31.72% for 2DGS). We further also show that Hexels, as a general primitive, improves 2D image representation over Image-GS. Hexels push the Pareto frontier on the quality-efficiency trade-off of surface-aligned primitives.",
     "authors": [
-      "Chaehyun Kim",
-      "Chi-Pin Huang",
-      "Jisoo Kim",
-      "Min-Hung Chen",
-      "Yu-Chiang Frank Wang",
-      "Seungryong Kim",
-      "Fu-En Yang"
+      "Prakhar Kaushik",
+      "Soumava Paul",
+      "Alan Yuille"
     ],
     "published": "2026-10-27",
     "source": "arXiv",
     "category": "preprint",
-    "url": "https://arxiv.org/abs/2610.37666v1",
-    "pdf_url": "https://arxiv.org/pdf/2610.37666v1",
+    "url": "https://arxiv.org/abs/2610.37668v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.37668v1",
     "doi": null,
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "Vision-Language-Action (VLA) models have made substantial progress in robotic manipulation . But their generalization remains constrained by the diversity and coverage of action-labeled robot demonstrations . We introduce ThinkWorld, a VLA learning framework that grounds action reasoning in world dynamics ."
+    "ai_summary": "Hexels exploit locally planar regions with smoothly varying appearance using fewer, larger primitives . Hexels improve PSNR over memory-matched 2DGS by 4.53-7.38 dB across datasets while requiring lower training VRAM ."
   },
   {
     "id": "arxiv:2610.37658v1",
@@ -2205,7 +2060,7 @@
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "EnvSched (Environment-aware Scheduling) is an online scheduler that learns from rollout history . It organizes environment-aware scheduling and monitoring tasks together with environments that determine their tools, states, transitions, and verification ."
+    "ai_summary": "EnvSched (Environment-aware Scheduling) is an online scheduler that learns from rollout history . It organizes environment--task pairs as nodes in a dual-relation graph, with within-environment edges capturing task semantics ."
   },
   {
     "id": "arxiv:2610.37605v1",
@@ -3126,90 +2981,222 @@
     "ai_summary": "Online resource allocation faces two coupled challenges: allocating scarce resources efficiently under uncertain future demand . Reinforcement Learning (RL) adapts allocation decisions through experience but does not necessarily ensure strategyproofness . Existing strategyproof RL uses a linear allocation rule, which limits the resource interactions it can represent ."
   },
   {
-    "id": "pubmed:42951658",
-    "title": "[Generative AI in medicine: current clinical applications and prospects for next-generation technologies].",
-    "abstract": "Since the release of ChatGPT in late 2022, generative artificial intelligence (AI) has rapidly diffused into clinical practice. Large language models achieve approximately 87% accuracy on the United States Medical Licensing Examination, exceeding 90% with medically tailored prompting strategies, and produce differential diagnoses comparable to specialists in complex cases. In this review, current applications of generative AI in clinical documentation, patient education, differential diagnosis, and image-based decision support are summarized, with a focus on dermatology. Next-generation technologies are surveyed, including multimodal models, autonomous AI agents, on-device AI, and medical-specialized systems such as ChatGPT Health, MedGemma, Dragon Copilot, Cancer Copilot, and the model for facial pigmented lesions used at the author's institution. Regulatory and ethical challenges are discussed, including cross-border transfer restrictions under Article 28 of the Japanese Act on the Protection of Personal Information, hallucination risk, and accountability for AI-assisted decisions. Although generative AI promises major gains in efficiency and diagnostic safety, ultimate responsibility for medical decisions remains with the physician. Clinicians must cultivate critical appraisal skills and a patient-centered orientation so that AI functions as a collaborator rather than a replacement. Sustained literacy and flexible adaptation will define the dermatologist's role in the coming AI era.",
+    "id": "pubmed:42952577",
+    "title": "Multi-model evaluation on integrated quality regionalization of the medicinal and edible plant ",
+    "abstract": "Under climate change, shifts in the geographic distribution of medicinal plants and the mechanisms underlying their quality responses provide the scientific basis for forward-looking conservation and utilization strategies. ",
     "authors": [
-      "Atsushi Otsuka"
+      "Bin Huang",
+      "Heng Jiang",
+      "Huiming Wang",
+      "Shengni Liu",
+      "Ting Xie",
+      "Baojing Li",
+      "Ting Chen"
     ],
     "published": "2026",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42951658/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42952577/",
     "pdf_url": null,
-    "doi": "10.11406/rinketsu.67.1392",
+    "doi": "10.3389/fpls.2026.1966447",
     "citations": 0,
-    "venue": "[Rinsho ketsueki] The Japanese journal of clinical hematology",
+    "venue": "Frontiers in plant science",
     "open_access": false,
-    "ai_summary": "Since the release of ChatGPT in late 2022, generative artificial intelligence (AI) has rapidly diffused into clinical practice . Large language models achieve approximately 87% accuracy on the United States Medical Licensing Examination ."
+    "ai_summary": "Under climate change, shifts in the geographic distribution of medicinal plants and the mechanisms underlying their quality responses provide the scientific basis for forward-looking conservation and utilization strategies ."
   },
   {
-    "id": "pubmed:42951629",
-    "title": "[Disease modeling with iPSCs for pathophysiological elucidation and therapeutic research: establishment of an iPSC-based drug discovery platform centered on drug repositioning].",
-    "abstract": "Advances in induced pluripotent stem cell (iPSC) technology have enabled the establishment of patient-derived disease models, greatly accelerating research on disease mechanisms and drug discovery. Drug repositioning, which applies existing drugs to new indications, has emerged as an efficient therapeutic development strategy that reduces both development time and cost. This review summarizes recent progress in disease modeling and therapeutic research using iPSCs, focusing on amyotrophic lateral sclerosis (ALS). Motor neurons differentiated from ALS patient-derived iPSCs successfully recapitulated disease phenotypes and enabled compound screening. Using this platform, the Src/c-Abl inhibitor bosutinib was identified as a promising therapeutic candidate. Bosutinib promoted autophagy, reduced abnormal protein accumulation, and suppressed motor neuron degeneration in vitro and in vivo. Based on these findings, investigator-initiated clinical trials were conducted, demonstrating acceptable safety and suggesting potential efficacy in ALS patients. Furthermore, integration of iPSC-based analyses with biomarkers such as neurofilament light chain enabled patient stratification and suggested the feasibility of personalized therapeutic approaches. Future integration of iPSC models with artificial intelligence, genomic analysis, and real-world clinical data is expected to further enhance predictive precision and accelerate translational research. iPSC-based drug discovery therefore represents a promising platform for developing novel therapies for neurodegenerative diseases.",
+    "id": "pubmed:42952576",
+    "title": "Long-term quality of life, rehospitalization risks, and economic viability of remote cardiac rehabilitation: an updated systematic review and meta-analysis.",
+    "abstract": "Although remote cardiac rehabilitation (RCR) is a promising alternative to traditional center-based care, evidence regarding its exact impact on health-related quality of life (HRQoL), cardiovascular safety, and economic viability remains fragmented, necessitating a comprehensive synthesis to guide clinical implementation. This systematic review and meta-analysis aim to evaluate the HRQoL, cardiovascular safety, and economic viability of RCR versus standard center-based care in cardiovascular disease, with subgroup analyses based on follow-up duration and high-risk patient cohorts. Literature searches were conducted across multiple databases, including PubMed, Embase, and the Cochrane Library, supplemented by manual screening of relevant references to identify clinical studies on RCR up to July 2026. Two independent review teams performed data extraction and risk of bias assessment using the RevMan software. Meta-analyses were conducted employing random-effects models to calculate pooled effect sizes with corresponding 95% confidence intervals. Heterogeneity was assessed using the Cochrane Q test and  A total of 45 randomized controlled trials were included in this meta-analysis. RCR significantly improved HRQoL across multiple scales (MacNew: MD = 0.17; MLHFQ: MD = -5.38;  RCR may serve as an effective and safe alternative to conventional care that improves physical and psychological well-being, was associated with a lower risk of cardiac rehospitalization, and may provide economic value in certain healthcare systems. https://www.crd.york.ac.uk/PROSPERO/view/CRD420261374977, PROSPERO CRD420261374977.",
     "authors": [
-      "Haruhisa Inoue"
+      "Hui Pei",
+      "Hengrui Li",
+      "Miaomiao Hu",
+      "Boyan Liu",
+      "Dali Hu",
+      "Yuanmin Li",
+      "Qiang Xiao"
     ],
     "published": "2026",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42951629/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42952576/",
     "pdf_url": null,
-    "doi": "10.11406/rinketsu.67.1145",
+    "doi": "10.3389/fdgth.2026.1935832",
     "citations": 0,
-    "venue": "[Rinsho ketsueki] The Japanese journal of clinical hematology",
+    "venue": "Frontiers in digital health",
     "open_access": false,
-    "ai_summary": "iPSC technology has enabled the establishment of patient-derived disease models . Drug repositioning has emerged as an efficient therapeutic development strategy that reduces both development time and cost ."
+    "ai_summary": "The review and meta-analysis aim to evaluate the HRQoL, cardiovascular safety, and economic viability of RCR . The study was conducted across multiple databases ."
   },
   {
-    "id": "pubmed:42951578",
-    "title": "[Environmental burden of generative artificial intelligence from a planetary health perspective: A narrative review].",
-    "abstract": "Generative artificial intelligence (GenAI) is widely used in healthcare to support evidence-based practice, policymaking, and research activities. Hundreds of millions of people worldwide use GenAI for a wide range of purposes, and this number continues to grow. In recent years, the discipline of \"planetary health\" has become mainstream as an urgent global issue, as excess mortality and morbidity attributable to extreme climate events have been reported worldwide. Although GenAI is increasingly used as a tool to promote planetary health, the rapid expansion of its use can add a substantial burden to the global environment. In Japan, however, the environmental impact of GenAI is rarely discussed. In this narrative review, we summarized quantitative data on the environmental impacts of GenAI on the basis of academic literature and reports from various industries. Data centers supporting the day-to-day operation of GenAI and the manufacturers of the required hardware consume vast amounts of electricity and water and emit large quantities of greenhouse gases. Furthermore, the mining of rare metals and the disposal of hardware release harmful chemicals that may contaminate soil and water. Unlike several other countries and international organizations, Japan currently lacks specific legislation and guidelines addressing the environmental impact of GenAI. The environmental burden of GenAI is underestimated because the reporting is largely voluntary and limited data are disclosed. Legislation, guidelines, and reporting standards promoting the transparent disclosure of environmental impacts will facilitate more reliable assessments. It is also important for individual users to make informed choices, such as selecting energy-efficient models or AI systems optimized for specific tasks.",
+    "id": "pubmed:42952574",
+    "title": "Integrating knowledge graphs and retrieval-augmented generation to identify clinical pharmacology gaps in infectious disease trial protocols.",
+    "abstract": "Clinical trial protocols contain critical clinical pharmacology information that is often scattered across different sections of these lengthy documents. The purpose was to evaluate whether a retrieval-augmented generation (RAG) protocol review integrated with knowledge graphs (KGs) could be used to obtain clinical pharmacology evidence and identify regulatory gaps. Clinical trial protocols were obtained from the Gates Foundation's publicly available corpus of clinical trials in low- and middle-income countries. The RAG protocol review was used to assess the protocols against Food & Drug Administration (FDA) guidance documents for hepatic impairment, exposure-response, population PK (PopPK), and physiologically based pharmacokinetic modeling (PBPK). Disease-specific KG analyses were conducted for tuberculosis (TB), human immunodeficiency virus (HIV), malaria, and neglected tropical diseases (NTD). KG models connecting studies to drugs, diseases, pharmacologic classes, organ-function exclusions, biomarkers, and pharmacokinetic (PK) parameter features were obtained. Across 42 unique trials, the KG contained 223 nodes and 376 edges. TB protocols produced the largest disease-specific graph, whereas HIV had the highest frequency of PK studies. Gap analysis showed that hepatic impairment exclusions in TB were more frequent than PK studies. In the multi-guidance evaluation, faithfulness was high, answer relevancy was lower, and the clinical pharmacology metric showed guidance-dependent differences. The integrated KG-RAG approach can help highlight potential gaps in clinical pharmacology reporting in infectious disease clinical trial protocols.",
     "authors": [
-      "Jun Miyata",
-      "Naomi Noguchi"
+      "Shreyas Waikar",
+      "Murali Ramanathan"
     ],
     "published": "2026",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42951578/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42952574/",
     "pdf_url": null,
-    "doi": "10.1265/jjh.26004",
+    "doi": "10.3389/fphar.2026.1955011",
     "citations": 0,
-    "venue": "Nihon eiseigaku zasshi. Japanese journal of hygiene",
+    "venue": "Frontiers in pharmacology",
     "open_access": false,
-    "ai_summary": "Generative artificial intelligence (GenAI) is widely used in healthcare to support evidence-based practice, policymaking, and research activities . In Japan, the environmental impact of GenAI is rarely discussed . In this narrative review, we summarized quantitative data on the environmental impacts of"
+    "ai_summary": "Clinical trial protocols were obtained from the Gates Foundation's publicly available corpus of clinical trials in low- and middle-income countries . The RAG protocol review was used to assess the protocols against Food & Drug Administration . Disease-specific KG analyses were conducted for tuberculosis (TB), human immunodeficiency virus (HIV), malaria"
   },
   {
-    "id": "conf:Conference:https://aclanthology.org/events/acl-2025/#2025acl-long",
-    "title": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    "id": "pubmed:42952571",
+    "title": "Hypothesis-generating network toxicology analysis of potential molecular convergence between a polystyrene oligomer proxy and papillary thyroid carcinoma.",
+    "abstract": "Polystyrene microplastics (PS-MPs) are emerging environmental contaminants with endocrine-disrupting and pro-inflammatory effects, but whether PS-MPs-associated molecular targets converge with papillary thyroid carcinoma (PTC) alterations remains unclear. This hypothesis-generating study aimed to identify candidate molecular networks and cellular contexts shared between a simplified polystyrene computational proxy and PTC. Putative targets from CTD and from TargetNet/SwissTargetPrediction using a five-styrene-unit oligomer proxy were intersected with thyroid cancer-related genes from OMIM and GeneCards. Protein functional-association and enrichment analyses were followed by differential expression analysis in GSE33630 (45 normal and 49 PTC samples). LASSO and SVM-RFE identified core genes; stability was examined by repeated nested resampling conditional on the seven-gene candidate panel. Individual-gene tumor-normal discrimination was assessed in GSE33630 and GSE60542. Protein patterns were evaluated qualitatively in the Human Protein Atlas and preliminarily in 15 matched PTC-adjacent tissue pairs. CIBERSORT-estimated immune fractions and two single-cell datasets were analyzed as exploratory context. Among 144 putative proxy-associated targets and 2,139 thyroid cancer-related genes, 75 were shared. Seven candidates overlapped with 1,306 PTC differentially expressed genes, and BCL2, BAX, and FN1 were selected by both feature-selection methods and remained stable across the tested GeneCards thresholds and CTD-only sensitivity analysis. BCL2 was downregulated, whereas BAX and FN1 were upregulated in PTC; individual-gene AUCs were 0.963, 0.941, and 0.965 in GSE33630 and 0.942, 0.907, and 0.955 in GSE60542. HPA images and clinical IHC supported the same protein-level directions. After multiple-testing correction, only the CIBERSORT-estimated neutrophil fraction differed between groups (higher in PTC; q=0.0021). Single-cell analysis localized the three genes across epithelial, stromal, and immune compartments. BCL2, BAX, and FN1 are candidate molecular nodes at the convergence of polystyrene-proxy annotations and PTC-associated alterations. The findings do not demonstrate patient PS-MPs exposure, intact-particle effects, or causality, and require validation in material-characterized exposure experiments and exposure-aware clinical studies.",
+    "authors": [
+      "Weidong Xie",
+      "Jian Tang",
+      "Xiaoyu Qian"
+    ],
+    "published": "2026",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42952571/",
+    "pdf_url": null,
+    "doi": "10.3389/fendo.2026.1942165",
+    "citations": 0,
+    "venue": "Frontiers in endocrinology",
+    "open_access": false,
+    "ai_summary": "Polystyrene microplastics (PS-MPs) are emerging environmental contaminants with endocrine-disrupting and pro-inflammatory effects . This hypothesis-generating study aimed to identify candidate molecular networks and cellular contexts ."
+  },
+  {
+    "id": "pubmed:42952570",
+    "title": "Explainable residual CNN with Gramian Angular Field encoding for rapid quantification of soil properties using near-infrared spectroscopy.",
+    "abstract": "Soil chemical composition is a key indicator of soil fertility, yet conventional physicochemical analysis is time-consuming and costly. Although near-infrared (NIR) spectroscopy enables rapid, non-destructive detection, traditional linear models struggle with the non-linear nature of high-dimensional spectral data, and deep-learning models often suffer from a \"black-box\" problem. A one-dimensional residual convolutional neural network (1D-Res-CNN) was constructed, and the output feature maps of intermediate convolutional layers were visualized to reveal how the model learns spectral features. One-dimensional spectral sequences were mapped into twodimensional images via Gramian Angular Summation Field (GASF) and Continuous Wavelet Transform (CWT); after systematically comparing encoding performance across spectral sub-intervals, the optimal range was selected to feed a two-dimensional residual CNN (2D-Res-CNN) regression model. Using SNV-preprocessed Fourier-transform NIR spectra and an SPXY-partitioned dataset, the proposed framework was benchmarked against partial least squares regression (PLSR), k-nearest neighbors (KNN), and random forest (RF). First-layer kernels in the 1D-Res-CNN automatically captured spectral features corresponding to functional-group absorption peaks, supporting the physical interpretability of feature extraction. GASF-encoded images in the 5880~4000 cm By enhancing spectral feature expression through visual encoding and providing preliminary insight into model behavior via layer-wise feature-map visualization, this work offers an interpretable technical strategy for rapid quantitative analysis of soil chemical composition by NIR spectroscopy.",
+    "authors": [
+      "Xiong Li",
+      "Junwei Guo",
+      "Ran Wan",
+      "Le Zhao",
+      "Zengping Chen"
+    ],
+    "published": "2026",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42952570/",
+    "pdf_url": null,
+    "doi": "10.3389/fpls.2026.1953112",
+    "citations": 0,
+    "venue": "Frontiers in plant science",
+    "open_access": false,
+    "ai_summary": "A one-dimensional residual convolutional neural network (1D-Res-CNN) was constructed . The output feature maps of intermediate convolutionals were visualized to reveal how the model learns spectral features ."
+  },
+  {
+    "id": "pubmed:42952566",
+    "title": "Development of a wgMLST method for investigating foodborne botulism cases through genome comparisons.",
     "abstract": "",
-    "authors": [],
-    "published": "",
-    "source": "Conference",
-    "category": "conference",
-    "url": "https://aclanthology.org/events/acl-2025/#2025acl-long",
+    "authors": [
+      "Lori M Gladney",
+      "Jessica L Halpin",
+      "Heather A Carleton",
+      "Hannes Pouseele",
+      "Carolina Lúquez"
+    ],
+    "published": "2026",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42952566/",
     "pdf_url": null,
-    "doi": null,
+    "doi": "10.3389/fmicb.2026.1920805",
     "citations": 0,
-    "venue": "Conference",
+    "venue": "Frontiers in microbiology",
     "open_access": false,
     "ai_summary": "No abstract available."
   },
   {
-    "id": "conf:Conference:https://github.com/THUKElab/CLEME",
-    "title": "https://github.com/THUKElab/CLEME",
-    "abstract": "",
-    "authors": [],
-    "published": "",
-    "source": "Conference",
-    "category": "conference",
-    "url": "https://github.com/THUKElab/CLEME",
+    "id": "pubmed:42952563",
+    "title": "Cognitive transparency and trust calibration in explainable AI systems: a psychological model of human-AI decision reliance.",
+    "abstract": "Explainable artificial intelligence (XAI) is widely expected to improve transparency and support appropriate human reliance on AI-assisted decision-making. However, the psychological processes through which explainability relates to reliance remain insufficiently understood, and explainability, transparency, and trust have largely been examined separately. This study develops and tests a psychological model of cognitive transparency in which AI explainability, algorithmic transparency, and perceived AI accuracy are associated with human reliance on AI through cognitive understanding, cognitive trust, and trust calibration, with AI literacy as a boundary condition. A cross-sectional online survey was completed by 342 AI users in South Korea in May and June 2026. Each participant evaluated one self-selected AI system that they had personally used; all constructs were measured by self-report. The data were analyzed using partial least squares structural equation modeling (PLS-SEM) in SmartPLS 4. AI explainability (β = 0.349) and algorithmic transparency (β = 0.297) were positively associated with cognitive understanding. Cognitive understanding (β = 0.388) and, more strongly, perceived AI accuracy (β = 0.492) were associated with cognitive trust. Cognitive trust was associated with trust calibration (β = 0.631), which was associated with human reliance on AI (β = 0.600). All hypothesized indirect effects were significant, and AI literacy strengthened the association between AI explainability and cognitive understanding (β = 0.192). The model explained 36%-54% of the variance in the endogenous constructs and showed medium predictive power. The findings are consistent with a sequence in which explainable AI relates to reliance through users' understanding and trust judgments. Because all constructs were self-reported and measured at a single point in time, the results describe associations among users' perceptions rather than causal effects, independently verified calibration, or objectively appropriate reliance. The findings suggest that AI developers in domains such as healthcare, education, and finance, where calibrated reliance is critical, should pair user-facing explanations with information about system accuracy and with AI literacy support.",
+    "authors": [
+      "Usman Rehman"
+    ],
+    "published": "2026",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42952563/",
     "pdf_url": null,
-    "doi": null,
+    "doi": "10.3389/fpsyg.2026.1924913",
     "citations": 0,
-    "venue": "Conference",
+    "venue": "Frontiers in psychology",
     "open_access": false,
-    "ai_summary": "No abstract available."
+    "ai_summary": "XAI is widely expected to improve transparency and support appropriate human reliance on AI-assisted decision-making . But the psychological processes through which explainability relates to reliance remain insufficiently understood, and explainability, transparency, and trust have largely been examined separately . This study develops and tests a psychological model of cognitive transparency ."
+  },
+  {
+    "id": "pubmed:42952555",
+    "title": "Developing and evaluating machine learning models in the prediction of recurrent sudden cardiac arrest.",
+    "abstract": "Sudden cardiac arrest (SCA) is a major killer of adults in the United States and has a significant recurrence rate. Predicting the risk of recurrent SCA has implications to patients' counseling and management. The goal of this study is to develop and evaluate machine learning (ML) models to predict recurrent SCA in this high-risk population. Patients ( The gradient boosting (GB) model outperformed other models with AUROC of 0.93 in the internal validation set. It also achieved high discrimination in the holdout (AUROC=0.92), and external validation (AUROC = 0.90, sensitivity = 0.92, specificity = 0.83, F1 score = 0.19) sets. Shapley additive explanations (SHAP) demonstrated that a diagnostic code of shockable rhythm (ventricular tachycardia), evidence of structural heart disease, conduction abnormalities, and initial blood work results at the time of the index arrest were main contributors to model prediction. Low (NPV ≥ 99%), intermediate, and high (PPV≥25%) risk groups defined from the internal validation set were applied to the holdout and external validation sets with strong prediction of time to recurrent SCA ( Our ML prediction model demonstrates very good and stable discrimination in the prediction of recurrent SCA based on explainable clinical factors. External validation results confirm the generalizability of our findings. This model could support risk stratification and counseling for survivors of SCA.",
+    "authors": [
+      "Paulomi Gohel",
+      "Michael Daidone",
+      "Tanmay A Gokhale",
+      "Nathan Riek",
+      "Floyd Thoma",
+      "Suresh Mulukutla",
+      "Seung J Moon",
+      "Chinmay Patel",
+      "Sandeep K Jain",
+      "Murat Akcakaya",
+      "Salah Al-Zaiti",
+      "Samir Saba"
+    ],
+    "published": "2026",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42952555/",
+    "pdf_url": null,
+    "doi": "10.3389/fcvm.2026.1883279",
+    "citations": 0,
+    "venue": "Frontiers in cardiovascular medicine",
+    "open_access": false,
+    "ai_summary": "Sudden cardiac arrest (SCA) is a major killer of adults in the United States . The goal of this study is to develop and evaluate machine learning (ML) models to predict recurrent SCA in this high-risk population ."
+  },
+  {
+    "id": "pubmed:42952542",
+    "title": "Artificial intelligence attitudes, presenteeism, and work engagement among nurses: a structural equation modeling approach.",
+    "abstract": "The rapid integration of artificial intelligence (AI) into healthcare has transformed clinical practice, yet the psychological mechanisms linking nurses' AI attitudes to their occupational functioning remain insufficiently understood, particularly regarding the role of presenteeism as a potential explanatory pathway. This study aimed to examine the relationships among nurses' attitudes toward AI, presenteeism, and work engagement, and to test the mediating role of presenteeism within a Job Demands-Resources framework. A cross-sectional correlational design was employed, with data collected from 806 hospital nurses across Saudi Arabia and Egypt using the AI Attitude Scale for Nurses, the Presenteeism Scale in Nursing, and the Utrecht Work Engagement Scale. Data were analyzed via structural equation modeling with bootstrapped mediation testing (2,000 resamples) and multi-group invariance analysis. Following the exclusion of four multivariate outliers, the final analytic sample comprised 802 nurses. The hypothesized model demonstrated good fit (CFI = 0.981, RMSEA = 0.068). AI attitude significantly and negatively predicted presenteeism (β = -0.366,  These associational findings suggest that more favorable AI attitudes are linked to lower presenteeism and stronger engagement, offering preliminary guidance for nursing management and healthcare digitalization policies pending longitudinal confirmation.",
+    "authors": [
+      "Darelglal Ahmed Gassmelseed Abdallah",
+      "Majed A Alsharidah",
+      "Ashraf Ragab Ibrahim",
+      "Mohamed Ali Nemtallah"
+    ],
+    "published": "2026",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42952542/",
+    "pdf_url": null,
+    "doi": "10.3389/fpsyg.2026.1902196",
+    "citations": 0,
+    "venue": "Frontiers in psychology",
+    "open_access": false,
+    "ai_summary": "Study aimed to examine relationships among nurses' attitudes toward AI, presenteeism, and work engagement . Data collected from 806 hospital nurses across Saudi Arabia and Egypt ."
+  },
+  {
+    "id": "pubmed:42952553",
+    "title": "Economic policy uncertainty and medical inflation in China: multi-scale linkages and time-varying responses.",
+    "abstract": "Medical inflation is a central health-system cost pressure, yet little is known about whether economic policy uncertainty (EPU) affects medical prices differently across timescales and historical periods. This paper examines the multi-scale and time-varying relationship between EPU and medical inflation in China using quarterly data from 2004Q1 to 2026Q1, wavelet filtering, and an SV-TVP-FAVAR model. Posterior uncertainty is summarized by the posterior mean and the 16th and 84th percentiles. Positive responses are present in both frequency-specific baseline models. The full-sample posterior-mean maxima for the higher- and lower-frequency EPU components are 0.297 and 0.108; they are 0.214 and 0.208 when the sample ends in 2025Q4. In the three-factor model, aggregate health-care CPI reaches 0.237 for a shock dated 2020Q2 at an eight-quarter horizon (central 68% credible interval [0.063, 0.412]). The eight-quarter posterior band overlaps those at several earlier dates, and the estimated magnitude varies with factor count. In the baseline full-sample specification, western medicine prices have the largest consumer-side posterior-mean maximum, reaching 0.424 for a shock dated 2020Q3 at six quarters (central 68% credible interval [0.231, 0.618]), although the exact peak date varies across specifications. Traditional Chinese medicine prices and medical service CPI show smaller positive responses, while pharmaceutical manufacturing PPI provides complementary evidence from the production side. Overall, the results show that the EPU-medical inflation relationship varies across EPU frequency scales, historical dates, and health-price components.",
+    "authors": [
+      "Liyan Pang",
+      "Dawei Zhou",
+      "Yuhan Wang"
+    ],
+    "published": "2026",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42952553/",
+    "pdf_url": null,
+    "doi": "10.3389/fpubh.2026.1910486",
+    "citations": 0,
+    "venue": "Frontiers in public health",
+    "open_access": false,
+    "ai_summary": "Paper examines the multi-scale and time-varying relationship between EPU and medical inflation in China . It uses quarterly data from 2004Q1 to 2026Q1, wavelet filtering, and an SV-TVP-FAVAR model . Posterior uncertainty is summarized by the posterior mean and the 16th and 84th percent"
   }
 ]
