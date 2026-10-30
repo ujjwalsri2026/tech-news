@@ -156,22 +156,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.21825/ewopinpractice.94702",
-    "title": "Title Pending 94702",
-    "abstract": "",
-    "authors": [],
-    "published": "2035",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.21825/ewopinpractice.94702",
-    "pdf_url": null,
-    "doi": "10.21825/ewopinpractice.94702",
-    "citations": 0,
-    "venue": "EWOP in Practice",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
     "id": "crossref:10.21825/ewopinpractice.94703",
     "title": "Title Pending 94703",
     "abstract": "",
@@ -185,6 +169,22 @@
     "citations": 0,
     "venue": "EWOP in Practice",
     "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "crossref:10.21825/ewopinpractice.94702",
+    "title": "Title Pending 94702",
+    "abstract": "",
+    "authors": [],
+    "published": "2035",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.21825/ewopinpractice.94702",
+    "pdf_url": "https://openjournals.ugent.be/ewopinpractice/article/id/94702/download/pdf/",
+    "doi": "10.21825/ewopinpractice.94702",
+    "citations": 0,
+    "venue": "EWOP in Practice",
+    "open_access": true,
     "ai_summary": "No abstract available."
   },
   {
@@ -244,11 +244,11 @@
     "source": "Crossref",
     "category": "index",
     "url": "https://doi.org/10.3998/mjcsl.4120",
-    "pdf_url": "https://doi.org/10.3998/mjcsl.4120",
+    "pdf_url": null,
     "doi": "10.3998/mjcsl.4120",
     "citations": 0,
     "venue": "Michigan Journal of Community Service Learning",
-    "open_access": true,
+    "open_access": false,
     "ai_summary": "No abstract available."
   },
   {
@@ -507,11 +507,11 @@
     "source": "Crossref",
     "category": "index",
     "url": "https://doi.org/10.5705/ss.202025.0457",
-    "pdf_url": "https://doi.org/10.5705/ss.202025.0457",
+    "pdf_url": null,
     "doi": "10.5705/ss.202025.0457",
     "citations": 0,
     "venue": "Statistica Sinica",
-    "open_access": true,
+    "open_access": false,
     "ai_summary": "No abstract available."
   },
   {
@@ -731,6 +731,30 @@
     "ai_summary": "No abstract available."
   },
   {
+    "id": "openalex:W7224462452",
+    "title": "Data-driven modeling and optimization of anode-side structural, transport and electrochemical properties in PEM water electrolyzers",
+    "abstract": "",
+    "authors": [
+      "K. Ashoke Raman",
+      "Linus Hammacher",
+      "Violeta Karyofylli",
+      "Hans Kungl",
+      "André Karl",
+      "Eva Jodat",
+      "Rüdiger‐A. Eichel"
+    ],
+    "published": "2027-01-01",
+    "source": "OpenAlex",
+    "category": "index",
+    "url": "https://doi.org/10.34734/fzj-2026-04796",
+    "pdf_url": "https://doi.org/10.34734/fzj-2026-04796",
+    "doi": "10.34734/fzj-2026-04796",
+    "citations": 0,
+    "venue": "Applied Energy",
+    "open_access": true,
+    "ai_summary": "No abstract available."
+  },
+  {
     "id": "openalex:W7211975381",
     "title": "Application and feasibility analysis of random Forest models in safety prediction for transition metal-doped Na3V2(PO4)3 sodium-ion batteries.",
     "abstract": "",
@@ -759,78 +783,170 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "pubmed:42958969",
-    "title": "STRAND: a comprehensive subcellular-resolved spatial transcriptome RNA architecture and navigation database.",
-    "abstract": "Subcellular RNA localization serves as a critical regulatory layer governing cellular polarization, local translation, and functional compartmentalization. Recent advances in high-resolution spatial transcriptomics have provided unprecedented opportunities to resolve these intracellular architectures at single-molecule resolution. However, relevant datasets are dispersed across studies and repositories, vary substantially in processing procedures and standards, severely limiting their cross-study reuse. To bridge this gap, we present STRAND (Subcellular-Resolved Spatial Transcriptome RNA Architecture and Navigation Database), a curated data resource and analysis platform for the automated harvesting, quality control, and interpretation of subcellular spatial transcriptomics data. Through an agent-assisted curation pipeline, STRAND has assembled 35 subcellular-resolution datasets from six major platforms, covering 17 tissue types in human and mouse and totalling ∼4.9 billion transcript coordinates. Building upon this standardized data resource, STRAND provides an analytical workflow spanning cell segmentation evaluation, cell-type annotation, RNA localization/colocalization pattern annotation, and subcellular compartment inference. Two case studies demonstrate that STRAND successfully identifies established RNA localization patterns in cultured cell lines and detects drug-induced RNA relocalization in cardiomyocytes. STRAND is openly available at https://strand.phasep.pro. An RNA's location inside a cell helps determine its function. Imaging-based spatial transcriptomics can map thousands of RNAs at subcellular resolution, but these datasets are scattered across studies and stored in incompatible formats. STRAND integrates 35 datasets from six platforms and 17 human and mouse tissues, covering 14.8 million cells and nearly 4.9 billion RNA molecules, curated by AI agents under expert review. STRAND characterizes the localization patterns of individual genes in each cell, including nuclear, cell-edge or clustered, and identifies RNA co-localization and subcellular compartments. We demonstrate these capabilities using two representative datasets and provide an open-source toolbox that allows researchers to apply these analyses to their own data. STRAND is freely available at https://strand.phasep.pro.",
+    "id": "pubmed:42962205",
+    "title": "Domain Knowledge Plus AI Fluency: The New Nonnegotiable Competency for the Health Workforce in the AI Era.",
+    "abstract": "In the ongoing AI boom-now supercharged by large language models and generative AI tools-the rapid integration of AI into health care and public health has created an urgent need for professionals who combine deep domain expertise (clinical, epidemiological, ethical, and contextual expertise in health and public health) with AI fluency (the ability to understand, critically evaluate, use, and oversee AI systems effectively). Without domain guidance, AI risks producing biased, unsafe, or contextually irrelevant outputs that compromise patient safety and exacerbate disparities. Conversely, domain experts lacking AI fluency may underuse or misuse these technologies, missing opportunities to improve care quality, operational efficiency, and population health. A foundational understanding of the modern AI system stack-comprising energy, accelerators, infrastructure, models, and applications-empowers health professionals to make informed decisions on adoption, evaluation, governance, and ethical use without needing to code or build models themselves. This stack framework highlights critical interdependencies and health care-specific challenges, including regulatory compliance, data privacy, sustainability, and resource constraints, particularly in low- and middle-income settings. This paper argues that cultivating domain-AI bilingualism is essential for safe, effective, and equitable AI integration worldwide. It outlines the 5-layer AI system stack applied to health care, key reasons for hybrid expertise, and a practical 4-step pathway: awakening (recognizing AI's transformative role), intrepidity (courageously engaging foundational AI concepts), bilingualism (translating between clinical needs and AI capabilities), and visionary leadership (driving organizational and policy readiness). It outlines major barriers, targeted strategies, and recommendations for educators, institutions, and policymakers. By bridging domain knowledge with AI fluency, health professionals can direct-rather than be directed by-AI technologies, including emerging agentic systems, toward more precise, sustainable, and human-centered outcomes while mitigating risks. This hybrid capability represents a nonnegotiable competency for the health workforce for thriving in the post-2026 AI era.",
     "authors": [
-      "Zhaoxu Wu",
-      "Yuying Huo",
-      "Wenqian Xu",
-      "Xiangyu Li",
-      "Tingting Li"
+      "Seble Frehywot",
+      "Yianna Vovides"
     ],
     "published": "2026-Oct-30",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42958969/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42962205/",
     "pdf_url": null,
-    "doi": "10.1093/nar/gkag1054",
+    "doi": "10.2196/100954",
     "citations": 0,
-    "venue": "Nucleic acids research",
+    "venue": "JMIR AI",
     "open_access": false,
-    "ai_summary": "Subcellular RNA localization serves as a critical regulatory layer governing cellular polarization, local translation, and functional compartmentalization . Recent advances in high-resolution spatial transcriptomics have provided unprecedented opportunities to resolve these intracellular architectures at single-molecule resolution ."
+    "ai_summary": "AI boom-now supercharged by large language models and generative AI tools. Without domain guidance, AI risks producing biased, unsafe, or contextually irrelevant outputs . domain experts lacking AI fluency may underuse or misuse these technologies, missing opportunities to improve care quality, operational efficiency, and population health ."
   },
   {
-    "id": "pubmed:42958966",
-    "title": "ENdb 2.0: an updated database of experimentally supported enhancers.",
-    "abstract": "Enhancers are cis-regulatory elements that control gene expression during development, cell differentiation, and disease. Genome-wide studies have mapped large numbers of candidate regulatory elements, but experimentally supported enhancer information remains dispersed across primary studies and experimental systems. Here, we present ENdb 2.0 (http://www.licpathway.net/ENdb/index.php), an updated, manually curated database of experimentally supported enhancers. Compared with ENdb 1.0, the major updates are (i) literature coverage through 2026 and five species: Homo sapiens, Mus musculus, Drosophila melanogaster, Danio rerio, and Rattus norvegicus; (ii) 4831 enhancer evidence records, including 2793 enhancer-TF-target-gene records involving 496 TFs and 1070 target genes; (iii) expanded curation of genomic coordinates, experimental evidence, enhancer type, regulatory state, biological condition, tissues, cell sources, cell types, and diseases, covering 169 tissues, 1255 cell sources, 415 cell types, and 226 diseases; and (iv) biological search, genome browsing, pathway enrichment analysis, agent-assisted query, and structured data download. ENdb 2.0 links experimentally supported enhancer regions with regulatory factors, target genes, biological conditions, and supporting experiments across physiological and disease states.",
+    "id": "pubmed:42962072",
+    "title": "Rethinking Health Care Regulatory Sandboxes Under the European Union AI Act.",
+    "abstract": "AI models have enabled substantial advances in health care. Since the entry into force of the European Union (EU) AI Act in 2024, these systems have become subject to a common regulatory framework in the EU intended to harmonize AI governance across all member states. One of the act's distinctive features is that it accommodates existing economic, technological, and regulatory differences among European countries by leaving certain implementation responsibilities to national authorities. This is evident in regulatory sandboxes, supervised environments for developing, testing, and validating AI systems before deployment. In this viewpoint, we provide a policy-oriented analysis of health care regulatory sandboxes under the EU AI Act and propose recommendations for their design. These recommendations address the need to document model compression techniques that may affect the classification of large high-risk systems above the 10",
     "authors": [
-      "Mingcong Xu",
-      "Guorui Zhang",
-      "Qiuyu Wang",
-      "Yiqing Chen",
-      "Chao Song",
-      "Jiaqi Liu",
-      "Bingzhou Guo",
-      "Jia Zhou",
-      "Chunquan Li"
+      "María Flores Ceballos",
+      "Fernando Cagigas Villar",
+      "Alberto López Tejerina"
     ],
     "published": "2026-Oct-30",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42958966/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42962072/",
     "pdf_url": null,
-    "doi": "10.1093/nar/gkag1074",
+    "doi": "10.2196/98653",
     "citations": 0,
-    "venue": "Nucleic acids research",
+    "venue": "JMIR AI",
     "open_access": false,
-    "ai_summary": "enhancers are cis-regulatory elements that control gene expression during development, cell differentiation, and disease . We present ENdb 2.0 (http://www.licpathway.net/ENdb/index.php) An updated, manually curated database of experimentally supported enhancers ."
+    "ai_summary": "EU AI Act in 2024 aims to harmonize AI governance across all member states . The act's distinctive features is that it accommodates existing economic, technological, and regulatory differences ."
   },
   {
-    "id": "pubmed:42958962",
-    "title": "ARIEL: an openly accessible database of experimental RNA-ligand binding affinities paired with 3D structures.",
-    "abstract": "RNA is an increasingly attractive target for small-molecule therapeutics, yet the rational design and computational modelling of RNA-binding small molecules are constrained by the scarcity of experimentally measured binding affinities linked to 3D structures. Here we present ARIEL (Affinity Resource for Interactions of RNA and Ligands), an openly accessible, manually curated database that pairs experimentally determined dissociation constants (Kd) of RNA-ligand complexes with the corresponding experimental structures. We screened 6954 RNA-containing structures from the Protein Data Bank, extracted 2843 complexes with a small ligand, and manually curated the associated primary literature to retrieve the corresponding Kd values. This yielded a nonredundant dataset of 278 RNA-ligand complexes with experimental affinities, including 179 unique ligands bound to 171 different RNA targets, with Kd values spanning nine orders of magnitude (-log Kd 2.1-11.0). Each entry also provides the Kd measurement method and conditions, full literature provenance, ligand physicochemical descriptors, and binding-pocket annotations, with direct cross-links between structures, ligands and source publications. ARIEL will be maintained through regular, versioned releases; it is freely available at https://aocdweb.com/BioTools/ARIEL/.",
+    "id": "pubmed:42962069",
+    "title": "From Academic Integrity to Professional Formation in Generative AI-Supported Nursing Education: Integrative Review.",
+    "abstract": "The rapid integration of generative AI (GenAI) into nursing education has prompted widespread concern about academic integrity and assessment validity. However, this dominant discourse may obscure a more fundamental challenge: preparing nursing students for clinical practice environments where AI already mediates triage, diagnostics, documentation, and clinical decision-making. This integrative review examines how GenAI is conceptualized within the nursing education literature and investigates the extent to which current discourse addresses professional formation rather than academic compliance. Following Whittemore and Knafl's integrative review methodology, a systematic search of PubMed, Google Scholar, and SciSpace (Typeset) was conducted for literature published between January 2022 and February 2026. Two reviewers independently screened 456 records, with 119 papers meeting the inclusion criteria. The methodological quality of empirical studies was assessed using the Mixed Methods Appraisal Tool (MMAT). Corpus-level descriptive mapping quantified dominant themes and conceptual patterns, while an interpretive synthesis examined how GenAI was framed and the extent to which professional formation elements, including identity, moral agency, and clinical judgment, were addressed. Of the 119 unique studies analyzed, 84% (n=100) predominantly framed GenAI as a content-generation tool and academic integrity threat. Only 35.3% (n=42) conceptualized AI as a pedagogical tool, and a critical gap was identified in professional formation: identity formation was addressed in only 10% (n=12) of papers and moral agency in just 5% (n=6). Explicit acknowledgment that AI already routinely mediates frontline clinical decisions (eg, sepsis alerts and fall risk algorithms) in current practice settings was notably absent. The discourse emphasizes governance and faculty literacy, but sustained curricula addressing nurse identity in AI-mediated care remain underdeveloped. Current nursing education discourse predominantly frames AI as a writing tool and an academic integrity concern, failing to prepare students for the algorithmic practice environments they will inhabit. Nursing education must reframe AI as a professional formation issue, explicitly addressing how algorithms reshape clinical judgment, moral agency, and professional identity.",
     "authors": [
-      "Mahmoud Omar Rasheed Zeyadah",
-      "Amjad Jaber Alqahtani",
-      "Sara Al Fliti",
-      "Nahid Akhtar",
-      "Suraj Sharma",
-      "Andrea Petta",
-      "Luigi Cavallo",
-      "Romina Oliva",
-      "Mohit Chawla"
+      "Peter Hartin",
+      "Paul Baretta"
     ],
     "published": "2026-Oct-30",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42958962/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42962069/",
     "pdf_url": null,
-    "doi": "10.1093/nar/gkag1080",
+    "doi": "10.2196/99284",
     "citations": 0,
-    "venue": "Nucleic acids research",
+    "venue": "JMIR nursing",
     "open_access": false,
-    "ai_summary": "RNA is an increasingly attractive target for small-molecule therapeutics . But the rational design and computational modelling of RNA-binding small molecules are constrained by the scarcity of experimentally measured binding affinities linked to 3D structures . Here we present ARIEL (Affinity Resource for Interactions of RNA and Ligands"
+    "ai_summary": "The rapid integration of generative AI (GenAI) into nursing education has prompted widespread concern about academic integrity and assessment validity . But this dominant discourse may obscure a more fundamental challenge: preparing nursing students for clinical practice environments where AI already mediates triage, diagnostics, documentation, and clinical decision-making ."
+  },
+  {
+    "id": "pubmed:42962066",
+    "title": "Medical Students' Perceptions of Retrieval-Augmented Generation and Large Language Models: Dyadic Interview and Exploratory Survey Study.",
+    "abstract": "There is evidence of rapid adoption of large language models (LLMs) in undergraduate medical education, with medical students using them to support their learning. This raises concerns about the accuracy of LLM-generated information that students are learning from. Retrieval-augmented generation (RAG), which grounds an LLM in curated materials, may be a strategy to improve the accuracy of this information. This study explored medical students' perceptions after using an online tool, NotebookLM, that uses RAG. A cohort of 284 second-year medical students at Bristol Medical School were encouraged to use NotebookLM over a period of 4 months (March 2025 to June 2025) to help them learn course content. Following this, volunteers were recruited to share their perspectives through interviews and a survey that was open for 4 months (June 2025 to September 2025). A total of 9 individuals participated: 2 through interviews and 7 through the survey. Qualitative data were analyzed using reflexive thematic analysis and supplemented by Likert scale data. NotebookLM was perceived as more reliable than standard LLM responses by interview participants, mainly due to the transparency of and control over information sources. Reliability ratings from survey participants were more mixed, but none rated unreliable. Students described it as an accessible, on-demand learning resource, which they perceived as improving efficiency and supporting self-directed study. They reported continued use of strategies to cross-check generated information. Participants demonstrated some awareness of ethical concerns, but it was unclear whether this altered their practice. In this small, exploratory study, students described NotebookLM as improving trust in LLM outputs while maintaining their flexibility. The findings suggest that RAG may be a strategy to support students who use LLMs. However, further research is needed to formally evaluate RAG vs standard LLMs, including the impact of RAG on accuracy, curricular alignment, and the ability of students to meet learning outcomes.",
+    "authors": [
+      "Rohin Athavale",
+      "Alexander Cresswell",
+      "Alice Huffman"
+    ],
+    "published": "2026-Oct-30",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42962066/",
+    "pdf_url": null,
+    "doi": "10.2196/106157",
+    "citations": 0,
+    "venue": "JMIR formative research",
+    "open_access": false,
+    "ai_summary": "A study explored medical students' perceptions after using an online tool, NotebookLM, that uses RAG . It raises concerns about the accuracy of LLM-generated information that students are learning from ."
+  },
+  {
+    "id": "pubmed:42962141",
+    "title": "Stagewise evolution of nanovoids into nanotrenches on 4H-SiC under ultrafast laser irradiation.",
+    "abstract": "Ultrafast laser extreme structuring strategies provide an important capability of advancing nanoscale surface patterning by progressively exploiting near fields. These fields can be shaped in turn by the evolving surface structures, adapting to a dynamic topography. However, tracking the transition from an initial localized nanovoid to oriented nanotrenches with increasing pulse accumulation is essential to understanding the underlying physical processes. Here, we observe and clarify the stagewise evolution of nanopatterns on 4H-SiC by independently varying single-pulse energy and pulse number. Experiments varying the polarization of subsequent laser pulses show that initially isotropic nanovoids evolve into anisotropic nanotrenches elongated perpendicular to the subsequent pulse polarization. 3D finite-difference time-domain (FDTD) simulations based on representative experimental morphologies show that preformed structures redistribute the local electric field under subsequent irradiation. The simulated field distributions are consistent with the morphological features observed at later stages, supporting a stagewise structural feedback pathway.",
+    "authors": [
+      "Lin Chen",
+      "Gao Chen",
+      "Guodong Zhang",
+      "Zhongyin Zhang",
+      "Razvan Stoian",
+      "Guanghua Cheng"
+    ],
+    "published": "2026-Nov-01",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42962141/",
+    "pdf_url": "https://ujm.hal.science/ujm-05830893",
+    "doi": "10.1364/OL.616868",
+    "citations": 0,
+    "venue": "Optics letters",
+    "open_access": true,
+    "ai_summary": "Ultrafast laser extreme structuring strategies provide an important capability of advancing nanoscale surface patterning by exploiting near fields . These fields can be shaped in turn by the evolving surface structures, adapting to a dynamic topography ."
+  },
+  {
+    "id": "pubmed:42962123",
+    "title": "Physics-based multibranch hybrid deep learning-assisted resonance method for rapid and high-precision measurement of optical resonator loss.",
+    "abstract": "Conventional resonator-loss measurement methods face significant challenges in characterizing high-speed scanned, low-loss optical cavities, limiting their application in cavity alignment and optimization of high-performance ring laser gyroscopes (RLGs). A physics-guided multibranch hybrid algorithm-assisted Resonance Method is proposed for rapid and accurate loss measurement in optical resonators, while maintaining high consistency. For a ring cavity with a reference loss of 150.5 ppm, the deviation of the frequency-averaged prediction from the reference value remains below 2 ppm over modulation frequencies from 5 to 20 Hz, with an overall mean absolute error (MAE) of 3.29 ppm over all held-out test traces, and the MAE remains below 6.4 ppm even at modulation frequencies entirely excluded from fine-tuning. By analyzing the transmitted resonance signal during laser frequency scanning, the proposed algorithm enables real-time observation of the resonance response with a single-trace inference latency of 6.2 ms and accurate retrieval of cavity loss without fitting the resonant signal. This approach provides an efficient and practical solution for resonator-loss measurement and cavity alignment in high-performance RLGs, showing great potential for applications requiring rapid, high-precision optical resonator characterization.",
+    "authors": [
+      "Hao Cui",
+      "Dakun Yu",
+      "Xiang Liu",
+      "Jing Wang",
+      "Tianming Wang",
+      "Sheng Zhou",
+      "Bincheng Li"
+    ],
+    "published": "2026-Nov-01",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42962123/",
+    "pdf_url": null,
+    "doi": "10.1364/OL.613913",
+    "citations": 0,
+    "venue": "Optics letters",
+    "open_access": false,
+    "ai_summary": "A physics-guided multibranch hybrid algorithm-assisted Resonance Method is proposed for rapid and accurate loss measurement in optical resonators . The proposed algorithm enables real-time observation of the resonance response with a single-trace inference latency of 6.2 ms ."
+  },
+  {
+    "id": "pubmed:42962101",
+    "title": "Single-shot signed OAM decoding by symmetry-broken propagation of obstructed circular Airy vortex beams.",
+    "abstract": "Direct intensity measurements of rotationally symmetric pure CAVB modes cannot distinguish opposite OAM charges. We numerically demonstrate that an off-axis opaque stop breaks rotational symmetry and converts the phase handedness of a circular Airy vortex beam into a charge-dependent near-focus intensity pattern. After normalizing every image to the same intensity-weighted radius, a compact convolutional neural network distinguishes ten signed states, ",
+    "authors": [
+      "Ziyuan Liu",
+      "Huangwei Li",
+      "Lu Zhou",
+      "Yujia Dai",
+      "Guoquan Zhou"
+    ],
+    "published": "2026-Nov-01",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42962101/",
+    "pdf_url": null,
+    "doi": "10.1364/OL.615336",
+    "citations": 0,
+    "venue": "Optics letters",
+    "open_access": false,
+    "ai_summary": "A compact convolutional neural network distinguishes ten signed states . We numerically demonstrate that an off-axis opaque stop breaks rotational symmetry and converts the phase handedness of a circular Airy vortex beam into a charge-dependent near-focus intensity pattern ."
+  },
+  {
+    "id": "pubmed:42962090",
+    "title": "Tailoring 3D non-Rayleigh speckles via physics-informed neural networks.",
+    "abstract": "Optical speckles, a disordered photonic phenomenon that originates from the interference of multiple scattered coherent waves, typically obey Rayleigh statistics. Beyond this classical regime, featuring customizable statistical properties and high-order correlations, non-Rayleigh speckles present potential in both fundamental and applied research. Here, we introduce a physics-informed neural network for designing three-dimensional non-Rayleigh speckle fields. As a proof of concept, we experimentally realize volumetric sub-Rayleigh and propagation-persistent super-Rayleigh speckles on this versatile framework. Our work paves a novel, to the best of our knowledge, way for statistical light manipulation and engineering implementation.",
+    "authors": [
+      "Ze-Huan Zheng",
+      "Jin-Hui Chen"
+    ],
+    "published": "2026-Nov-01",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42962090/",
+    "pdf_url": null,
+    "doi": "10.1364/OL.614235",
+    "citations": 0,
+    "venue": "Optics letters",
+    "open_access": false,
+    "ai_summary": "Optical speckles are a disordered photonic phenomenon that originates from the interference of multiple scattered coherent waves . They typically obey Rayleigh statistics, so they can be used to create non-Rayleigh speckle fields . They can be designed to create a"
   },
   {
     "id": "openalex:W7118880740",
@@ -1198,24 +1314,6 @@
     "doi": "10.5281/zenodo.22768513",
     "citations": 0,
     "venue": "Journal of Child Development, Exceptionality and Education",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W7168392295",
-    "title": "Comparison of the effects of AI-generated music on emotional responses, aesthetic enjoyment, and perceived quality between musicians and non-musicians",
-    "abstract": "",
-    "authors": [
-      "Seyhan Canyakan"
-    ],
-    "published": "2026-12-30",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.5281/zenodo.21377743",
-    "pdf_url": "https://jmttms.com/index.php/jmmtms/article/download/47/41",
-    "doi": "10.5281/zenodo.21377743",
-    "citations": 0,
-    "venue": "Journal of Music Theory and Transcultural Music Studies",
     "open_access": true,
     "ai_summary": "No abstract available."
   },
@@ -1595,6 +1693,28 @@
     "ai_summary": "No abstract available."
   },
   {
+    "id": "arxiv:2610.40647v1",
+    "title": "Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers",
+    "abstract": "Pixel-space generative Transformers typically use one token per image patch, so capturing finer detail requires more tokens and makes global attention increasingly expensive. We observe that finer detail does not necessarily require more global communication: low-frequency structure benefits from global exchange, while high-frequency detail can be modeled locally. Based on this insight, we introduce SpecSlot, a pixel-space rectified-flow Transformer that decouples output detail from the length of the global attention sequence. SpecSlot expands each spatial anchor into multiple slots, each assigned a disjoint band of DCT coefficients; this separates anchor density from spectral subdivision. Only the lowest-frequency slot from each anchor participates in global attention, while all slots interact locally. This allows the model to increase spectral detail without enlarging the global sequence. A spatial head further adds a local correction to the spectral prediction, while the generative state, target, and loss remain in pixel space. On ImageNet-256, SpecSlot achieves a comparable final FID to a FLOPs-matched JiT control while converging faster. On ImageNet-512, it improves FID by 2.84 over the control with 3.9% fewer FLOPs, and comes within only 0.69 FID of JiT-B/16 at 38.2% lower cost. On text-to-image generation, SpecSlot surpasses JiT-B/8 on DPG-Bench by 1.06 at 40.6% lower forward cost.",
+    "authors": [
+      "Jiongfan Yang",
+      "Weichen Fan",
+      "Haiwen Diao",
+      "Zhongang Cai",
+      "Ziwei Liu"
+    ],
+    "published": "2026-10-29",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2610.40647v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.40647v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "Pixel-space generative Transformers typically use one token per image patch, so capturing finer detail requires more tokens and makes global attention increasingly expensive . We observe that finer detail does not necessarily require more global communication ."
+  },
+  {
     "id": "arxiv:2610.40649v1",
     "title": "Rethinking Neural Thickets Without Weight Perturbations",
     "abstract": "The Neural Thickets hypothesis posits that pretrained language models lie in dense neighborhoods of task-specific experts in weight space, which random Gaussian perturbations can uncover. We reproduce the reported gains, but show that they do not require this geometric explanation. Perturbing a single decoder block already recovers much of the improvement, while keeping the model entirely frozen and adding a random bias to its output logits matches or exceeds full-weight perturbations on most reasoning tasks. This suggests an alternative explanation based on output diversity, validation-based selection, and voting. We formalize this view as Perturb-Select-Vote (PSV), a general procedure that generates perturbed predictors, selects high-performing members on a small validation set, and aggregates their predictions. This interpretation connects Neural Thickets to established inference-time methods, including sampling, self-consistency, and verifier-guided selection. A first-order analysis further shows that small weight perturbations act primarily through their induced logit shifts. We extend this analysis to vision, where logit PSV substantially improves performance under domain shift, including on Earth observation, while full-weight perturbations provide little additional benefit. Together, these results suggest that the gains attributed to nearby weight-space experts can instead be obtained through output diversity, selection, and voting. Logit PSV realizes these benefits with a fully frozen model, providing a simple, training-free alternative to full-weight perturbation ensembles across language and vision.",
@@ -1617,26 +1737,23 @@
     "ai_summary": "The Neural Thickets hypothesis posits that pretrained language models lie in dense neighborhoods of task-specific experts in weight space . We reproduce the reported gains, but show that they do not require this geometric explanation . Perturbing a single decoder block already recovers much of the improvement, while keeping the model entirely frozen ."
   },
   {
-    "id": "arxiv:2610.40647v1",
-    "title": "Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers",
-    "abstract": "Pixel-space generative Transformers typically use one token per image patch, so capturing finer detail requires more tokens and makes global attention increasingly expensive. We observe that finer detail does not necessarily require more global communication: low-frequency structure benefits from global exchange, while high-frequency detail can be modeled locally. Based on this insight, we introduce SpecSlot, a pixel-space rectified-flow Transformer that decouples output detail from the length of the global attention sequence. SpecSlot expands each spatial anchor into multiple slots, each assigned a disjoint band of DCT coefficients; this separates anchor density from spectral subdivision. Only the lowest-frequency slot from each anchor participates in global attention, while all slots interact locally. This allows the model to increase spectral detail without enlarging the global sequence. A spatial head further adds a local correction to the spectral prediction, while the generative state, target, and loss remain in pixel space. On ImageNet-256, SpecSlot achieves a comparable final FID to a FLOPs-matched JiT control while converging faster. On ImageNet-512, it improves FID by 2.84 over the control with 3.9% fewer FLOPs, and comes within only 0.69 FID of JiT-B/16 at 38.2% lower cost. On text-to-image generation, SpecSlot surpasses JiT-B/8 on DPG-Bench by 1.06 at 40.6% lower forward cost.",
+    "id": "arxiv:2610.40644v1",
+    "title": "Adaptive Scenario Generation for KL-DRO Around a Learned Density Model",
+    "abstract": "Distributionally robust optimization (DRO) hedges data-driven two-stage stochastic programs against error in the distribution estimated from a finite record, and standard ambiguity sets differ in how they treat realizations absent from that record. A divergence ball around the empirical distribution contains only reweightings of the record, whereas a transport ball also contains distributions supported off the record, including on realizations the data-generating process cannot produce, against which the decision is then hedged as well. We instead propose a Kullback-Leibler (KL) ball centered at a density model fitted to the record, the learned nominal, which lets the adversary up-weight costly unobserved realizations in proportion to the probability the model assigns them. Solving the resulting problem poses a second difficulty, because it can accommodate only a few scenarios, and an independent sample of that size is likely to omit the rare realizations on which the worst case concentrates. We therefore build the scenario set adaptively, alternating between solving the finite problem and drawing new realizations from the learned nominal, steered toward the worst case at the current decision, with importance weights that correct the draws back to the model. On a multi-item newsvendor problem and a capacity expansion problem on realistic grid data, centering the ball at the learned nominal rather than at the record lowers cost under distribution shift, at comparable in-distribution cost, when the record is scarce and the model class captures structure that lets it extrapolate beyond the record. The advantage fades as the record grows or as the shift departs from the structure the model has learned.",
     "authors": [
-      "Jiongfan Yang",
-      "Weichen Fan",
-      "Haiwen Diao",
-      "Zhongang Cai",
-      "Ziwei Liu"
+      "Aron Brenner",
+      "Saurabh Amin"
     ],
     "published": "2026-10-29",
     "source": "arXiv",
     "category": "preprint",
-    "url": "https://arxiv.org/abs/2610.40647v1",
-    "pdf_url": "https://arxiv.org/pdf/2610.40647v1",
+    "url": "https://arxiv.org/abs/2610.40644v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.40644v1",
     "doi": null,
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "Pixel-space generative Transformers typically use one token per image patch, so capturing finer detail requires more tokens and makes global attention increasingly expensive . We observe that finer detail does not necessarily require more global communication ."
+    "ai_summary": "Distributionally robust optimization (DRO) hedges data-driven two-stage stochastic programs against error in the distribution estimated from a finite record . A divergence ball around the empirical distribution contains only reweightings of the record, whereas a transport ball also contains distributions supported off the record ."
   },
   {
     "id": "arxiv:2610.40655v1",
@@ -1661,27 +1778,6 @@
     "ai_summary": "Language Models (LMs) are typically evaluated using downstream tasks like fact retrieval . But existing evaluations vary multiple dataset properties simultaneously, making it impossible to isolate exactly why an attribution algorithm fails . We explore the design space of LLM data attribution, with a primary focus on evaluation ."
   },
   {
-    "id": "arxiv:2610.40653v1",
-    "title": "Micro-Edits: Computational Support for Fine-Scale Edits in Film",
-    "abstract": "In film editing, every frame matters. While macro, content-level edits shape the high-level narrative of a film, small local edits often control timing and direct visual attention. For example, editors can adjust the precise timing of clips to control the length of a meaningful silence, or cut to shots that highlight a specific character's reactions to important moments. These small, detailed edits are slow and tedious to make in standard editing tools because users have to map high-level narrative goals to low-level frame-by-frame adjustments. At the same time, these fine-scale adjustments, which we call micro-edits, can be nuanced and expressive, with different choices serving different creative goals. In this work, we start by conducting a formative study with professional editors to understand the structure of micro-edits and how they are used. We then derive a mathematical formalization for this structure to develop tools that leverage AI and optimization to make exploring micro-edits simpler and more efficient for users. Finally, we validate our tools in multiple user studies and a wide range of video examples.",
-    "authors": [
-      "Nhan Tran",
-      "Hijung Valentina Shin",
-      "Abe Davis",
-      "Mackenzie Leake"
-    ],
-    "published": "2026-10-29",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2610.40653v1",
-    "pdf_url": "https://arxiv.org/pdf/2610.40653v1",
-    "doi": null,
-    "citations": 0,
-    "venue": "arXiv preprint",
-    "open_access": true,
-    "ai_summary": "Small edits can be nuanced and expressive, with different choices serving different creative goals . These small, detailed edits are slow and tedious to make in standard editing tools ."
-  },
-  {
     "id": "arxiv:2610.40654v1",
     "title": "Propose-Filter-Release: Scaling Noise to Typical Sensitivity via Private Filtering",
     "abstract": "An estimator can be accurate and stable on typical data, yet sensitive to a few possible records. Differentially private mechanisms commonly scale their noise to the worst-case influence of a single record, which lets these records dictate the noise even when the remaining data would allow far less. Removing them first would restore the smaller scale, but the removal must itself be private. We introduce \\emph{propose-filter-release} (PFR), which, by privately filtering its input, turns a mechanism that protects the addition or removal of a typical record, one that fits the remaining data, into one that is differentially private in the standard sense, on every input. Using our novel filtering step, PFR requires only a concave friendliness score, which measures how well a record fits a dataset, and a release mechanism that is friendly-DP, that is, private when the changed record fits the remaining data. For every such score and release mechanism, it guarantees differential privacy under public conditions on the number of records, so it is a general privacy primitive, comparable to propose-test-release, and FriendlyCore can be viewed as one of its implementations. We illustrate the generality of PFR by instantiating it for scalar statistics, principal subspace estimation, the KL divergence of user histograms, the effective resistances of a graph, and treatment-rule selection.",
@@ -1702,23 +1798,25 @@
     "ai_summary": "PFR (PFR) turns a mechanism that protects the addition or removal of a typical record into one that is differentially private in the standard sense, on every input . PFR requires only a concave friendliness score, which measures how well a record fits a dataset ."
   },
   {
-    "id": "arxiv:2610.40644v1",
-    "title": "Adaptive Scenario Generation for KL-DRO Around a Learned Density Model",
-    "abstract": "Distributionally robust optimization (DRO) hedges data-driven two-stage stochastic programs against error in the distribution estimated from a finite record, and standard ambiguity sets differ in how they treat realizations absent from that record. A divergence ball around the empirical distribution contains only reweightings of the record, whereas a transport ball also contains distributions supported off the record, including on realizations the data-generating process cannot produce, against which the decision is then hedged as well. We instead propose a Kullback-Leibler (KL) ball centered at a density model fitted to the record, the learned nominal, which lets the adversary up-weight costly unobserved realizations in proportion to the probability the model assigns them. Solving the resulting problem poses a second difficulty, because it can accommodate only a few scenarios, and an independent sample of that size is likely to omit the rare realizations on which the worst case concentrates. We therefore build the scenario set adaptively, alternating between solving the finite problem and drawing new realizations from the learned nominal, steered toward the worst case at the current decision, with importance weights that correct the draws back to the model. On a multi-item newsvendor problem and a capacity expansion problem on realistic grid data, centering the ball at the learned nominal rather than at the record lowers cost under distribution shift, at comparable in-distribution cost, when the record is scarce and the model class captures structure that lets it extrapolate beyond the record. The advantage fades as the record grows or as the shift departs from the structure the model has learned.",
+    "id": "arxiv:2610.40653v1",
+    "title": "Micro-Edits: Computational Support for Fine-Scale Edits in Film",
+    "abstract": "In film editing, every frame matters. While macro, content-level edits shape the high-level narrative of a film, small local edits often control timing and direct visual attention. For example, editors can adjust the precise timing of clips to control the length of a meaningful silence, or cut to shots that highlight a specific character's reactions to important moments. These small, detailed edits are slow and tedious to make in standard editing tools because users have to map high-level narrative goals to low-level frame-by-frame adjustments. At the same time, these fine-scale adjustments, which we call micro-edits, can be nuanced and expressive, with different choices serving different creative goals. In this work, we start by conducting a formative study with professional editors to understand the structure of micro-edits and how they are used. We then derive a mathematical formalization for this structure to develop tools that leverage AI and optimization to make exploring micro-edits simpler and more efficient for users. Finally, we validate our tools in multiple user studies and a wide range of video examples.",
     "authors": [
-      "Aron Brenner",
-      "Saurabh Amin"
+      "Nhan Tran",
+      "Hijung Valentina Shin",
+      "Abe Davis",
+      "Mackenzie Leake"
     ],
     "published": "2026-10-29",
     "source": "arXiv",
     "category": "preprint",
-    "url": "https://arxiv.org/abs/2610.40644v1",
-    "pdf_url": "https://arxiv.org/pdf/2610.40644v1",
+    "url": "https://arxiv.org/abs/2610.40653v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.40653v1",
     "doi": null,
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "Distributionally robust optimization (DRO) hedges data-driven two-stage stochastic programs against error in the distribution estimated from a finite record . A divergence ball around the empirical distribution contains only reweightings of the record, whereas a transport ball also contains distributions supported off the record ."
+    "ai_summary": "Small edits can be nuanced and expressive, with different choices serving different creative goals . These small, detailed edits are slow and tedious to make in standard editing tools ."
   },
   {
     "id": "arxiv:2610.40643v1",
@@ -2015,7 +2113,7 @@
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "TextSeal2 is a distortion-free watermark for large language models that keeps its signal under speculative decoding . tokens that replace rejected drafts remain watermarked with the same keys . It preserves output diversity and adds no measurable inference latency ."
+    "ai_summary": "TextSeal2 is a distortion-free watermark for large language models that keeps its signal under speculative decoding . tokens that replace rejected drafts remain watermarked with the same keys . It preserves output diversity and adds no measurable latency ."
   },
   {
     "id": "arxiv:2610.40611v1",
@@ -2692,162 +2790,44 @@
     "ai_summary": "VLA models learn diverse language-conditioned behaviors as training data scales . BURGER is a language- Conditioned robotic drawing benchmark . It uses 28,200 simulated demonstrations spanning 282 drawing tasks ."
   },
   {
-    "id": "pubmed:42959052",
-    "title": "Editorial: Integrating musculoskeletal ultrasound and emerging imaging modalities in surgical planning and rehabilitation.",
-    "abstract": "",
+    "id": "pubmed:42962202",
+    "title": "Decoding Lung Cancer with Artificial Intelligence: A Path to Personalized Diagnostics and Therapy.",
+    "abstract": "Non-small-cell lung cancer (NSCLC) represents the majority of lung cancer cases and remains the leading cause of cancer-related mortality worldwide. Early detection, accurate staging, and individualized therapy are crucial for improving patient survival. Recent advances in artificial intelligence (AI) have transformed NSCLC care through the automated analysis of imaging, pathology, and molecular datasets. Deep learning (DL) and machine learning (ML) models, particularly convolutional neural networks (CNNs), have demonstrated high accuracy in tumor detection, histologic classification, biomarker prediction (PD-L1, EGFR, KRAS) and prognosis assessment. Integration of the AI with whole slide imaging (WSI), computed tomography (CT), PET/CT and liquid biopsies enables non-invasive tumor characterization, early recurrence detection and prediction of treatment response. Multimodal AI approaches that combine imaging, genomic, and clinical data offer superior patient stratification and personalized treatment planning compared with traditional methods. Beyond diagnosis, AI facilitates therapeutic development through radiomics based nodule classification, multi-omics data interpretation, and drug discovery. Radiomics, in particular, extracts quantitative imaging biomarkers that capture tumor heterogeneity beyond human perception. The AI further supports clinical decision-making in surgery, radiotherapy, and systemic therapy, enhancing workflow efficiency. Despite challenges in data quality, interpretability, and clinical adoption, AI holds significant promise for advancing precision oncology and improving outcomes in NSCLC management.",
     "authors": [
-      "Jaime Almazán-Polo",
-      "Ángel González-de-la-Flor",
-      "César Calvo-Lobo"
+      "Tafadzwa Carl Masuka",
+      "Cecileya Jasmin Meshak Dhanashekaran",
+      "Vinod Prabhu Venugopal"
     ],
     "published": "2026",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42959052/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42962202/",
     "pdf_url": null,
-    "doi": "10.3389/fsurg.2026.2004684",
+    "doi": "10.1615/JEnvironPatholToxicolOncol.2026061968",
     "citations": 0,
-    "venue": "Frontiers in surgery",
+    "venue": "Journal of environmental pathology, toxicology and oncology : official organ of the International Society for Environmental Toxicology and Cancer",
     "open_access": false,
-    "ai_summary": "No abstract available."
+    "ai_summary": "Non-small-cell lung cancer (NSCLC) represents the majority of lung cancer cases . Early detection, accurate staging, and individualized therapy are crucial for improving patient survival ."
   },
   {
-    "id": "pubmed:42959051",
-    "title": "A predictive model for osteoporosis in frail elderly patients with cerebral infarction: an integrated analysis based on machine learning and care-sensitive indicators.",
-    "abstract": "To identify key risk factors for osteoporosis in elderly patients with frailty and cerebral infarction using three machine learning algorithms-Least Absolute and Selective Operator (LASSO) regression, Extreme Gradient Boosting (XGBoost), and Random Forest (RF)-and establish a risk prediction model to provide data support for clinical prevention. A retrospective study was conducted using clinical data from 120 elderly frail patients with cerebral infarction admitted to our hospital between April 2024 and October 2025. Patients were categorized into an osteoporosis occurrence group (n=41) and a non-occurrence group (n=79) based on medical records indicating osteoporosis development. Clinical data were collected and compared. Risk factors were screened using \"overlap-covering\" screening with three machine learning methods: LASSO regression, XGBoost, and RF. The intersecting variables were incorporated into a logistic regression model to analyze risk factors for osteoporosis in elderly frail patients with cerebral infarction. Data analysis was performed using R software. RF to screen risk factors using \"overlap coverage.\" Intersecting variables were incorporated into logistic regression to analyze factors influencing osteoporosis in elderly patients with frailty and cerebral infarction. A nomogram prediction model was developed using R software, internally validated via Bootstrap resampling (1000 iterations), and its predictive accuracy assessed through calibration curves. Clinical utility was evaluated using decision curves. Significant differences (P < 0.05) were observed between the occurrence and non-occurrence groups in gender, age, affected circulatory system, disease severity, Tilburg Frailty Inventory (TFI) score, Global Nutritional Risk Index (GNRI), Barthel Index, and Self-Rating Anxiety Scale (SAS) score. Through machine learning screening using LASSO regression, XGBoost, and RF, five common risk factors for osteoporosis in elderly frail patients with cerebral infarction were identified: age, TFI score, GNRI, Barthel Index, and SAS score as five common risk factors for osteoporosis in elderly frail patients with cerebral infarction. These were incorporated into a logistic regression model. Analysis revealed that age, TFI score, and SAS score were risk factors for osteoporosis in this population (OR = 1.102, 2.876, 1.177, P<0.05). GNRI and Barthel Index were protective factors (OR = 0.913, 0.838, P<0.05). The Hosmer-Lemeshow goodness-of-fit test yielded χ²=2.345, P = 0.969>0.05, indicating acceptable model fit. Based on the logistic regression results, a risk prediction model for osteoporosis in elderly frail patients with cerebral infarction was constructed using a nomogram. The AUC was 0.955 (95% CI: 0.920-0.991). Calibration curves showed Cox-Snell R² = 0.755 and Nagelkerke R² = 0.546, indicating strong explanatory power and high calibration of the model. The clinical decision curve generally exceeded both extreme curves, demonstrating that the nomogram effectively captured the risk distribution. Nagelkerke R²: 0.546, indicating strong explanatory power and high calibration for the dependent variable. The clinical decision curve generally exceeded both extreme curves, demonstrating that the factors included in the nomogram provide high net benefit for predicting osteoporosis in patients. Key factors influencing osteoporosis development in frail elderly patients with cerebral infarction include age, TFI score, GNRI, Barthel Index, and SAS score. The risk prediction model constructed using these factors demonstrates predictive value, high calibration accuracy, and clinical utility, providing theoretical guidance for clinical practice.",
+    "id": "pubmed:42962059",
+    "title": "An integrated machine learning framework for cerebral aneurysm rupture status classification using clinical, morphological, and hemodynamic features.",
+    "abstract": "Accurate assessment of cerebral aneurysm rupture status remains a critical challenge in neurovascular research due to the complex interplay between geometric, hemodynamic, and clinical factors. In this study, we developed and evaluated a machine-learning framework for retrospective rupture-status classification in 708 patient-specific aneurysms by integrating 55 predictors: three clinical variables, 35 morphological descriptors, and 17 hemodynamic parameters derived from computational fluid dynamics (CFD) simulations. Blood flow was modeled as incompressible laminar flow with a non-Newtonian Carreau-Yasuda viscosity model to capture shear-thinning behavior in cerebral arteries. We compared 13 supervised classifiers, 10 unsupervised clustering approaches, and two neural-network models. Model training and hyperparameter optimization were performed using stratified five-fold cross-validation within a 90/10 training-testing split, with performance evaluated using ROC-AUC, precision, recall, specificity, and F1-score. Among the evaluated models, BaggingSVM achieved the strongest discrimination on the independent test set (ROC-AUC = 0.78), followed by SVM (0.75) and Gaussian Process (0.75). A scenario comparison using BaggingSVM showed that the combined feature set improved classification performance (AUC = 0.78) compared with clinical+morphological features (AUC = 0.76) and clinical+hemodynamical features (AUC = 0.71) settings. Sensitivity-oriented threshold tuning increased recall for ruptured aneurysm detection, reaching values up to 0.96 for BaggingSVM. Permutation feature importance analysis revealed consistent dominance of ellipticity index, low shear area ratio (LSAR), aneurysm location, irregularity and aneurysm angle across models. a small subset of variables contributes disproportionately to rupture-status classification, although the reduced-feature analysis indicates that lower-ranked predictors collectively provide additional discriminatory information. The proposed framework demonstrates the value of integrating physiologically informed hemodynamic modeling with machine learning to improve data-driven rupture status assessment and provides a scalable foundation for future clinical decision-support studies in cerebrovascular diagnostics.",
     "authors": [
-      "Yi Liu",
-      "Jing Wen",
-      "Yanxia Chen",
-      "Hui Li",
-      "Panpan Xie"
+      "Mostafa Zakeri",
+      "Amirhossein Atef",
+      "Mohammad Aziznia",
+      "Azadeh Jafari"
     ],
     "published": "2026",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42959051/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42962059/",
     "pdf_url": null,
-    "doi": "10.3389/fendo.2026.1771964",
+    "doi": "10.1371/journal.pone.0360923",
     "citations": 0,
-    "venue": "Frontiers in endocrinology",
+    "venue": "PloS one",
     "open_access": false,
-    "ai_summary": "A retrospective study was conducted using clinical data from 120 elderly frail patients with cerebral infarction admitted to our hospital between April 2024 and October 2025 . Patients were categorized into an osteoporosis occurrence group (n=41) and a non-occurrence group ( n=79)"
-  },
-  {
-    "id": "pubmed:42959050",
-    "title": "Integrative network toxicology and pharmacology reveal that kaempferol alleviates BaP-triggered pulmonary fibrosis via suppressing Ras/COX-2-dependent cellular senescence.",
-    "abstract": "Idiopathic pulmonary fibrosis (IPF) is a chronic, progressive lung disease. Benzo[a]pyrene (BaP), a major constituent of cigarette smoke and air pollution, has been closely associated with pulmonary fibrosis. However, its molecular mechanism remains unclear. The natural flavonoid kaempferol possesses anti-inflammatory and antioxidant properties. However, its effects and mechanisms in BaP-induced pulmonary fibrosis remain unclear. This study aimed to predict potential targets of BaP-induced fibrosis and kaempferol intervention in BaP-induced IPF, and to validate whether kaempferol reverses BaP-induced epithelial senescence and fibrosis via the Ras/COX-2 signaling pathway  Network toxicology, network pharmacology, machine learning, and molecular docking were integrated to predict potential targets of BaP-induced fibrosis and kaempferol intervention, followed by GO and KEGG pathway enrichment analyses. Additionally, virtual knockout analysis was performed to explore the regulatory relationships among Ras, COX-2, and cellular senescence. MLE-12 cells were used as an  KEGG enrichment analysis revealed that these targets were significantly enriched in the Ras signaling pathway. Molecular docking confirmed that kaempferol exhibited good binding affinity for the above target proteins. Cell experiments demonstrated that BaP significantly promoted cellular senescence and activated Ras and COX-2. Kaempferol treatment effectively reversed these changes. This study reveals that BaP promotes IPF by inducing epithelial cell senescence via the Ras/COX-2 signaling pathway. Kaempferol may exert anti-fibrotic effects by counteracting this pathway-mediated senescence. These findings provide a theoretical basis for the pulmonary fibrosis effects of BaP and support kaempferol as a potential anti-fibrotic agent.",
-    "authors": [
-      "Qi Zhao",
-      "Dongwei Zhu",
-      "Zhichao Wu",
-      "Xiaolin Xia",
-      "Yehui Li",
-      "Aojie Guo",
-      "Yong Xu",
-      "Xianmei Zhou"
-    ],
-    "published": "2026",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42959050/",
-    "pdf_url": null,
-    "doi": "10.3389/fphar.2026.1963570",
-    "citations": 0,
-    "venue": "Frontiers in pharmacology",
-    "open_access": false,
-    "ai_summary": "Benzo[a]pyrene (BaP) has been closely associated with pulmonary fibrosis . However, its molecular mechanism remains unclear . The natural flavonoid kaempferol possesses anti-inflammatory and antioxidant properties ."
-  },
-  {
-    "id": "pubmed:42959036",
-    "title": "Application of LLM combined with knowledge base in improving C-TIRADS grading of thyroid nodules.",
-    "abstract": "This study used the unified text-based grading results of senior sonographers as the primary reference (this text benchmark is not pathological diagnostic gold standard) to evaluate the concordance of text-derived C-TIRADS grades assigned by six large language models (LLMs), with and without FastGPT Retrieval-Augmented Generation (RAG) knowledge base assistance. Our primary endpoint was the concordance between grading and physician consensus-a measure fundamentally distinct from pathological diagnostic accuracy. Only a small subgroup with pathological confirmation was used for a supplementary exploratory analysis of the correlation between model risk stratification and pathological benign or malignant findings. Six LLMs were configured using the C-TIRADS criteria. A FastGPT knowledge base was built from 11,489 thyroid ultrasound records collected at Yantai Yuhuangding Hospital between 2022 and 2023. Cases were assigned to manual, LLM, and knowledge-base-augmented LLM groups. C-TIRADS grading concordance with expert ultrasound consensus, and grading speed were assessed. A subgroup of 62 pathologically confirmed nodules was used for supplementary exploratory analysis. AUC, sensitivity, specificity, PPV, NPV and Mantel-Haenszel linear trend χ2 were computed to examine the alignment of model C-TIRADS risk tiers with pathological benign and malignant findings. Among the standalone LLMs, DeepSeek-V3 achieved the highest numerical grading concordance (81.14%). Following the integration of the RAG knowledge base, overall grading consistency improved significantly ( Doubao-pro-128k integrated with knowledge base accelerated text grading and improved overall sonographer concordance; category-specific concordance increased significantly for C-TIRADS 1 and 3, increased numerically for Category 2, and declined numerically without statistical significance for borderline C-TIRADS 4A, indicating that these ambiguous nodules require further optimization. Exploratory pathological analysis revealed variable model-pathology alignment at the C-TIRADS ≥ 4A cutoff: DeepSeek-V3 integrated with knowledge base produced a negative Youden index, while Doubao-pro-128k integrated with knowledge base showed a tentative trend toward better reflected pathological malignancy gradients.",
-    "authors": [
-      "Qian Qu",
-      "Hanwen Bi",
-      "Xiaofei Yu",
-      "Rui Zhou",
-      "Zhen Liu",
-      "Tengteng Hao"
-    ],
-    "published": "2026",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42959036/",
-    "pdf_url": null,
-    "doi": "10.3389/fendo.2026.1888772",
-    "citations": 0,
-    "venue": "Frontiers in endocrinology",
-    "open_access": false,
-    "ai_summary": "Study used unified text-based grading results of senior sonographers as the primary reference . The study used the unified text results of sonographers to evaluate the concordance of C-TIRADS grades ."
-  },
-  {
-    "id": "pubmed:42959033",
-    "title": "Influencing factors of type 2 diabetes remission: a systematic review and meta-analysis.",
-    "abstract": "To identify factors influencing type 2 diabetes mellitus (T2DM) remission and compare differences across intervention types and remission criteria. T2DM remission was defined as HbA1c < 6.5% (48 mmol/mol), measured at least 3 months after cessation of glucose-lowering pharmacotherapy. Relevant literature on factors influencing T2DM remission was searched in English-language databases, with the search updated through March 2026. Meta-analysis was performed using Review Manager 5.4 and Stata 18.0 software. A total of 36 studies were included. Higher fasting plasma glucose (OR = 0.99, 95% CI = [0.99, 1.00], P < 0.001), higher glycated hemoglobin (OR = 0.91, 95% CI = [0.88, 0.94], P < 0.001), longer disease duration (OR = 0.89, 95% CI = [0.88, 0.90], P < 0.001), and a greater number of oral antidiabetic agents (OR = 0.56, 95% CI = [0.38, 0.81], P = 0.002) were associated with lower odds of remission. A greater percentage of total weight loss was associated with higher odds of remission (OR = 1.05, 95% CI = [1.04, 1.07], P < 0.001). In surgical interventions, a higher body mass index (OR = 1.05, 95% CI = [1.02, 1.08], P = 0.002) was associated with higher odds of remission, whereas older age (OR = 0.96, 95% CI = [0.94, 0.98], P < 0.001) and insulin use (OR = 0.34, 95% CI = [0.23, 0.52], P < 0.001) were associated with lower odds of remission. In non-surgical interventions, alcohol cessation was associated with higher odds of remission (OR = 1.14, 95% CI = [1.05, 1.26], P < 0.001), while factors influencing lower odds of remission included smoking (OR = 0.90, 95% CI = [0.86, 0.94], P < 0.001), continued alcohol consumption (OR = 0.90, 95% CI = [0.84, 0.95], P < 0.001), and a higher body mass index (OR = 0.89, 95% CI = [0.86, 0.92], P < 0.001). Gender, race/ethnicity, physical exercise, intermittent fasting, HOMA-IR and C-peptide level were not associated with T2DM remission. T2DM remission is influenced by multiple factors, with BMI showing opposite associations by intervention type. Future large-scale, prospective studies are needed to validate these findings. https://www.crd.york.ac.uk/PROSPERO/, identifier CRD420261295582.",
-    "authors": [
-      "Siwen Cheng",
-      "Jinying Chen",
-      "Xinlu Zhang",
-      "Haotian Qi",
-      "Xiaoxia Kang",
-      "Weichen Nie",
-      "Yilin Feng",
-      "Rui Chen"
-    ],
-    "published": "2026",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42959033/",
-    "pdf_url": null,
-    "doi": "10.3389/fendo.2026.1916734",
-    "citations": 0,
-    "venue": "Frontiers in endocrinology",
-    "open_access": false,
-    "ai_summary": "T2DM remission was defined as HbA1c < 6.5% (48 mmol/mol) measured at least 3 months after cessation of glucose-lowering pharmacotherapy . Relevant literature on factors influencing remission was searched in English-language databases ."
-  },
-  {
-    "id": "pubmed:42959026",
-    "title": "A real-world pharmacovigilance study of FDA adverse event reporting system events for bictegravir/emtricitabine/tenofovir alafenamide.",
-    "abstract": "Bictegravir/emtricitabine/tenofovir alafenamide (B/F/TAF) is a widely used antiretroviral regimen, but its real-world long-term safety profile in diverse populations remains incompletely characterized. We analyzed adverse drug signals from the FAERS database (2018-2025) with B/F/TAF as the primary suspected drug. Disproportionality analyses using reporting odds ratio (ROR), proportional reporting ratio (PRR), Bayesian confidence propagation neural network (BCPNN), and multi-item gamma Poisson shrinker (MGPS) algorithms were performed to detect safety signals. A total of 6,816 case reports and 13,853 adverse events were included. The highest numbers of reports were related to \"Injury, poisoning and procedural complications\" (n = 1,792), followed by \"General disorders and administration site conditions\" (n = 1,726) and \"Investigations\" (n = 1,499). The System Organ Classes (SOCs) meeting all four disproportionality criteria were \"Congenital, familial and genetic disorders\" and \"Pregnancy, puerperium and perinatal conditions.\" The most frequently reported preferred terms were weight increase (408 cases), product dose omission (242 cases), and maternal exposure during pregnancy (202 cases), while the strongest signals by ROR were viral load increased (ROR 160.14), CD4 lymphocytes decreased (ROR 124.60), and immune reconstitution inflammatory syndrome (ROR 88.12). Overall, 37.94% of events occurred within the first month of treatment, and 17.49% occurred after one year. These pharmacovigilance signals merit clinical awareness, particularly regarding metabolic monitoring, virologic/immunologic parameters (which likely reflect treatment response rather than drug toxicity), and pregnancy exposure reporting. Events occurred both early and late, reinforcing the necessity of longitudinal pharmacovigilance for this widely used antiretroviral regimen. However, these findings are exploratory and should not be interpreted as confirmed causal associations.",
-    "authors": [
-      "Ying Liu",
-      "Leidan Zhang",
-      "Xin Li",
-      "Hongxin Zhao"
-    ],
-    "published": "2026",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42959026/",
-    "pdf_url": null,
-    "doi": "10.3389/fphar.2026.1945154",
-    "citations": 0,
-    "venue": "Frontiers in pharmacology",
-    "open_access": false,
-    "ai_summary": "Bictegravir/emtricitabine/tenofovir alafenamide (B/F/TAF) is a widely used antiretroviral regimen . The real-world long-term safety profile in diverse populations remains incompletely characterized ."
-  },
-  {
-    "id": "pubmed:42959021",
-    "title": "SCMamba-SAM: transferring knowledge from natural images to medical tasks.",
-    "abstract": "The Segment Anything Model (SAM) has drawn significant attention because of its powerful performance in generating high-quality objectmasks. Despite its superior performance in handling natural images, SAM exhibits significant performance degradation when applied to medical images due to the substantial domain gap between natural and medical images. In addition, the specific characteristics of medical images, such as strong heterogeneity, low contrast, and wide individual variation, further raise dificulties in segmenting medical images. To bridge the semantic gap between natural and medical images, we propose an adaption framework, named SCMamba-SAM. It employs a foundational image encoder constructed by integrating the pre-trained encoder of SAM and Low-Rank Adaption technique. The Encoding Mamba Adapter adopts the spatial- and channel-Mamba blocks to capture task-related global features. Additionally, an enhanced mask decoder with deep supervision has been developed to eliminate the requirement for a prompt encoder, thereby transforming SAM into a fully automated and highly accurate image segmentation model. Extensive experiments were performed on six public lesion segmentation datasets in different imaging modalities and body parts. The proposed SCMamba-SAM not only achieved performance superior to that of SOTA methods, quantitatively and qualitatively, but also exhibited high generalization. SCMamba-SAM holds promise as a useful tool for clinicians to diagnose and quantify lesions, providing important information for treatment decisions and surgery planning.",
-    "authors": [
-      "Ye Tian",
-      "Yufei Yuan",
-      "Lu Wang",
-      "Xinming Yang",
-      "Yifeng Wu",
-      "Xu Xu"
-    ],
-    "published": "2026",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42959021/",
-    "pdf_url": null,
-    "doi": "10.3389/fneur.2026.1938737",
-    "citations": 0,
-    "venue": "Frontiers in neurology",
-    "open_access": false,
-    "ai_summary": "SAM exhibits significant performance degradation when applied to medical images due to the substantial domain gap between natural and medical images . The Encoding Mamba Adapter adopts the spatial- and channel-Mamba blocks to capture task-related global features . An enhanced mask decoder with deep supervision has been developed to eliminate the requirement for a prom"
+    "ai_summary": "Accurate assessment of cerebral aneurysm rupture status remains a critical challenge in neurovascular research . In this study, we developed and evaluated a machine-learning framework for retrospective rupture-status classification in 708 patient-specificAneurysms . We compared 13 supervised classifiers, 10 unsupervised clustering approaches, and two neural"
   }
 ]
