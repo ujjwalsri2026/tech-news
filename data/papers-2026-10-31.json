@@ -352,24 +352,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.67805/jgrms.v2i9.156",
-    "title": "A Review of Phishing Detection Techniques Using Machine Learning and Natural Language Processing",
-    "abstract": "<jats:p>The goal of phishing attacks, which rank high among cyber risks, is to steal sensitive information (such as login passwords, financial data, and more) from unsuspecting people and companies. Blacklist, whitelist, rule, heuristic, and signature-based detection methods are no longer suitable due to the rising sophistication of phishing schemes. As a result, ML, DL, and NLP are rapidly becoming into effective instruments for detecting both well-known and brand-new forms of phishing. Background on phishing assaults, old ways of detecting them, and recent advances in intelligent phishing detection are all included in this article. It delves into several machine learning algorithms such as decision tree, LSTM, ANN, CNN, and RNN, as well as deep learning models like KNN, NB, and SVM. Also, natural language processing methods including word embedding, sentiment analysis, text categorization, and tokenization are explored with the aim of detecting phishing material. Presenting a comprehensive, precise, and up-to-the-minute phishing detection system is the ultimate goal of this study, which focuses on machine learning frameworks, performance indicators, present obstacles, and future research directions.</jats:p>",
-    "authors": [
-      "Dr. Sunita Dixit"
-    ],
-    "published": "2029",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.67805/jgrms.v2i9.156",
-    "pdf_url": null,
-    "doi": "10.67805/jgrms.v2i9.156",
-    "citations": 0,
-    "venue": "Journal of Global Research in Multidisciplinary Studies(JGRMS)",
-    "open_access": false,
-    "ai_summary": "ML, DL, and NLP are rapidly becoming into effective instruments for detecting both well-known and brand-new forms of phishing . Background on phishing assaults and old ways of detecting them are all included in this article ."
-  },
-  {
     "id": "crossref:10.70239/arsu.2026.t85.n3.07",
     "title": "HYBRID NETWORK INTRUSION DETECTION SYSTEM BASED ON SIGNATURE ANALYSIS AND MACHINE LEARNING METHODS",
     "abstract": "<jats:p>In the context of increasing complexity of modern network infrastructures and the growing number of cyberattacks, improving the effectiveness of intrusion detection systems is a highly relevant task. The aim of this work is to develop and investigate a hybrid approach to network attack detection based on a combination of signature-based analysis and intelligent machine learning methods.  The research methods include analysis of requirements for anomaly detection systems, comparative analysis of existing solutions, design of a hybrid system architecture, and experimental modeling using multiclass classification of network traffic. The results demonstrate that integrating a neural model with a traditional detection system improves attack detection coverage and reduces the number of false positives.  The practical significance of the study lies in the possibility of deploying the proposed architecture in real corporate networks, while the theoretical significance consists in substantiating the effectiveness of a hybrid approach to traffic analysis. Future research directions include adaptive model training and expansion of the range of detectable attacks.</jats:p>",
@@ -392,6 +374,24 @@
     "ai_summary": "The aim of this work is to develop and investigate a hybrid approach to network attack detection based on signature-based analysis and intelligent machine learning methods . The practical significance of the study lies in the possibility of deploying the proposed architecture in real corporate networks ."
   },
   {
+    "id": "crossref:10.67805/jgrms.v2i9.156",
+    "title": "A Review of Phishing Detection Techniques Using Machine Learning and Natural Language Processing",
+    "abstract": "<jats:p>The goal of phishing attacks, which rank high among cyber risks, is to steal sensitive information (such as login passwords, financial data, and more) from unsuspecting people and companies. Blacklist, whitelist, rule, heuristic, and signature-based detection methods are no longer suitable due to the rising sophistication of phishing schemes. As a result, ML, DL, and NLP are rapidly becoming into effective instruments for detecting both well-known and brand-new forms of phishing. Background on phishing assaults, old ways of detecting them, and recent advances in intelligent phishing detection are all included in this article. It delves into several machine learning algorithms such as decision tree, LSTM, ANN, CNN, and RNN, as well as deep learning models like KNN, NB, and SVM. Also, natural language processing methods including word embedding, sentiment analysis, text categorization, and tokenization are explored with the aim of detecting phishing material. Presenting a comprehensive, precise, and up-to-the-minute phishing detection system is the ultimate goal of this study, which focuses on machine learning frameworks, performance indicators, present obstacles, and future research directions.</jats:p>",
+    "authors": [
+      "Dr. Sunita Dixit"
+    ],
+    "published": "2029",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.67805/jgrms.v2i9.156",
+    "pdf_url": "https://saanvipublications.com/journals/index.php/jgrms/article/download/156/165",
+    "doi": "10.67805/jgrms.v2i9.156",
+    "citations": 0,
+    "venue": "Journal of Global Research in Multidisciplinary Studies(JGRMS)",
+    "open_access": true,
+    "ai_summary": "ML, DL, and NLP are rapidly becoming into effective instruments for detecting both well-known and brand-new forms of phishing ."
+  },
+  {
     "id": "crossref:10.5705/ss.202025.0275",
     "title": "Efficient Learning of Sparse Differential Networks in Multi-Source Non-Paranormal Models",
     "abstract": "",
@@ -405,6 +405,26 @@
     "url": "https://doi.org/10.5705/ss.202025.0275",
     "pdf_url": null,
     "doi": "10.5705/ss.202025.0275",
+    "citations": 0,
+    "venue": "Statistica Sinica",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "crossref:10.5705/ss.202025.0406",
+    "title": "Distributed Learning of Single Index Model with Differential Privacy and Massive Data",
+    "abstract": "",
+    "authors": [
+      "Fode Zhang",
+      "Lingrui Wang",
+      "Hua Liang"
+    ],
+    "published": "2029",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.5705/ss.202025.0406",
+    "pdf_url": null,
+    "doi": "10.5705/ss.202025.0406",
     "citations": 0,
     "venue": "Statistica Sinica",
     "open_access": false,
@@ -426,26 +446,6 @@
     "url": "https://doi.org/10.5705/ss.202025.0314",
     "pdf_url": null,
     "doi": "10.5705/ss.202025.0314",
-    "citations": 0,
-    "venue": "Statistica Sinica",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "crossref:10.5705/ss.202025.0406",
-    "title": "Distributed Learning of Single Index Model with Differential Privacy and Massive Data",
-    "abstract": "",
-    "authors": [
-      "Fode Zhang",
-      "Lingrui Wang",
-      "Hua Liang"
-    ],
-    "published": "2029",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.5705/ss.202025.0406",
-    "pdf_url": null,
-    "doi": "10.5705/ss.202025.0406",
     "citations": 0,
     "venue": "Statistica Sinica",
     "open_access": false,
@@ -515,24 +515,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.32628/cseit251116279",
-    "title": "Cyber Defense Digital Twins: A Federated Learning and Zero-Trust AI Architecture for Autonomous Threat Prediction and Response",
-    "abstract": "<jats:p>Modern enterprise networks operate under persistent threats that exploit cloud-native misconfigurations, identity sprawl, and API vulnerabilities at machine speed. Existing security operations center (SOC) architectures remain largely reactive, signature-dependent, and incapable of predicting multi-stage lateral movement. This paper proposes the Cognitive Cyber Defense Digital Twin (CCDT), a unified architecture integrating federated learning (FL), graph neural network (GNN)-based attack-path forecasting, adversarially hardened detection models, and autonomous Security Orchestration, Automation, and Response (SOAR) with deception engineering. The CCDT constructs a continuously synchronized digital replica of organizational assets and employs reinforcement learning-based red agents to stress-test detection models. A federated intelligence mesh enables cross-organizational privacy-preserving gradient sharing. Experimental evaluations against CICIDS-2018 and LANL datasets demonstrate 52% faster attack-path detection, 41% reduction in false positive rate, and 60% reduction in mean-time-to-respond (MTTR) compared to traditional SOC baselines. Integrated Explainable AI (XAI) modules using SHAP values enable audit-ready compliance reporting. The CCDT represents a paradigm shift from reactive monitoring to predictive, autonomous, and privacy-preserving cyber defense for hybrid cloud environments.</jats:p>",
-    "authors": [
-      "Sivaramakrishnan Narayanan"
-    ],
-    "published": "2028",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.32628/cseit251116279",
-    "pdf_url": null,
-    "doi": "10.32628/cseit251116279",
-    "citations": 0,
-    "venue": "International Journal of Scientific Research in Computer Science, Engineering and Information Technology",
-    "open_access": false,
-    "ai_summary": "The paper proposes the Cognitive Cyber Defense Digital Twin (CCDT) The CCDT constructs a continuously synchronized digital replica of organizational assets . It employs reinforcement learning-based red agents to stress-test detection models ."
-  },
-  {
     "id": "crossref:10.71126/nijre.v2i1.16",
     "title": "Transforming Education through Technology: The Case of COVID 19 Digital Learning in Nagaland",
     "abstract": "<jats:p>Through the perspective of the COVID-19 pandemic and the disruption and opportunity it engendered, this chapter follows a transformative effect of EdTech and Digital education in India particularly in Nagaland through analysis. Drawing upon national policy frameworks, conceptual literature on educational technology, and contextual evidence based on the case of Nagaland, the chapter considers the rapid migration to digital learning as an emergency strategy (in response to the ongoing institution closures) based on the stark shifts in pedagogical practice, access to education services, and preparedness. The findings show that, including the ability of national programmes such as NEP 2020, SWAYAM, DIKSHA, PM e-VIDYA, and others, to promote access to digital tools was low within periphery or hill areas (e.g., Nagaland), due to lack of infrastructural resources, digital divide, unprepared teachers and economic/social divides, and more. The pandemic exposed the deep social and infrastructure divides in connectivity, device availability, assessment and learner engagement, with implications that were especially grave in rural and tribal settings. Although it accelerated the pace of innovation and the application of blended and low-tech learning practices teachers have been experimenting with digital platforms and the post-COVID recovery process, including remedial programmes and hybrid instruction. The chapter also discusses that blended learning is the most fitting, viable and sustainable approach for reaching the technological level in the field of educational technology at Nagaland. It implies that technology-mediated education can improve equity, quality, and resilience, but only under the conditions of inclusive policy design, strong digital infrastructure, vigorous teacher capability building, and culturally appropriate digital content.\nKeywords: Educational technology, digital learning, COVID-19, Nagaland, online education, Challenges, blended learning</jats:p>",
@@ -549,6 +531,24 @@
     "venue": "Naveen International Journal of Research in Education (NIJRE)",
     "open_access": false,
     "ai_summary": "The chapter considers the rapid migration to digital learning as an emergency strategy . The findings show that the ability of national programmes such as NEP 2020, SWAYAM, DIKSHA, PM e-VIDYA, and others, to promote access to digital tools was low within periphery or hill areas ."
+  },
+  {
+    "id": "crossref:10.32628/cseit251116279",
+    "title": "Cyber Defense Digital Twins: A Federated Learning and Zero-Trust AI Architecture for Autonomous Threat Prediction and Response",
+    "abstract": "<jats:p>Modern enterprise networks operate under persistent threats that exploit cloud-native misconfigurations, identity sprawl, and API vulnerabilities at machine speed. Existing security operations center (SOC) architectures remain largely reactive, signature-dependent, and incapable of predicting multi-stage lateral movement. This paper proposes the Cognitive Cyber Defense Digital Twin (CCDT), a unified architecture integrating federated learning (FL), graph neural network (GNN)-based attack-path forecasting, adversarially hardened detection models, and autonomous Security Orchestration, Automation, and Response (SOAR) with deception engineering. The CCDT constructs a continuously synchronized digital replica of organizational assets and employs reinforcement learning-based red agents to stress-test detection models. A federated intelligence mesh enables cross-organizational privacy-preserving gradient sharing. Experimental evaluations against CICIDS-2018 and LANL datasets demonstrate 52% faster attack-path detection, 41% reduction in false positive rate, and 60% reduction in mean-time-to-respond (MTTR) compared to traditional SOC baselines. Integrated Explainable AI (XAI) modules using SHAP values enable audit-ready compliance reporting. The CCDT represents a paradigm shift from reactive monitoring to predictive, autonomous, and privacy-preserving cyber defense for hybrid cloud environments.</jats:p>",
+    "authors": [
+      "Sivaramakrishnan Narayanan"
+    ],
+    "published": "2028",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.32628/cseit251116279",
+    "pdf_url": null,
+    "doi": "10.32628/cseit251116279",
+    "citations": 0,
+    "venue": "International Journal of Scientific Research in Computer Science, Engineering and Information Technology",
+    "open_access": false,
+    "ai_summary": "The paper proposes the Cognitive Cyber Defense Digital Twin (CCDT) The CCDT constructs a continuously synchronized digital replica of organizational assets . It employs reinforcement learning-based red agents to stress-test detection models ."
   },
   {
     "id": "openalex:W7143351384",
@@ -783,234 +783,69 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "pubmed:42963137",
-    "title": "Is Large Language Model a New Hope for the Global South? A Rapid Bibliometric Synthesis of Artificial Intelligence in Anatomy Education.",
-    "abstract": "Artificial intelligence (AI), especially the recent proliferation of generative Large Language Models (LLMs), is transforming traditional anatomy education by introducing new teaching tools. However, the adoption of these cutting-edge technologies raises questions about global educational equity. It remains unclear whether AI will serve as a digital equalizer or further exacerbate marginalization. This rapid bibliometric synthesis aims to provide a comprehensive, data-driven overview of the \"Application of Artificial Intelligence in Anatomy Education\" (AAAE). We seek to map the intellectual landscape, detect structural and technological shifts, evaluate the geopolitical disparities, and provide corresponding references. A total of 85 consolidated records were retrieved from Web of Science and Scopus. These data constituted the whole panorama of AAAE. Bibliometrix and CiteSpace were utilized for static and dynamic mapping. A multidisciplinary expert panel validated the thematic clusters using Gwet's AC1 and the Normalized Herfindahl-Hirschman Index (HHI). Publications surged following ChatGPT's release, indicating a shift from specialized computer vision to the application of general-purpose LLMs. While high-income countries maintain leadership, AI could exert a \"democratizing effect\" on upper-middle-income countries, doubling their odds of publication compared to traditional anatomy. Six research frontiers and three research trajectories were captured, and corresponding implications for future researchers in the global south and north were presented. AAAE could be conducted using a stratified strategy: different expansions of AI technologies for pedagogy; leveraging commercial APIs to bypass infrastructure bottlenecks; and validating open-source models. Global equity critically demands cross-border collaboration and inclusive datasets.",
+    "id": "pubmed:42964323",
+    "title": "Toward Fairness in Machine Learning Models for Predicting Treatment Retention and Premature Discontinuation in Medication for Opioid Use Disorder.",
+    "abstract": "Persistent low retention and completion rates in medications for opioid use disorder (MOUD) have driven the use of machine learning (ML) models to predict retention and identify patients at risk of premature discontinuation. However, the fairness of these models across patient populations remains largely unexplored, raising concerns about their application in treatment decision support. This study systematically assesses algorithmic fairness in ML models for predicting MOUD retention and premature discontinuation and investigates the effectiveness of bias mitigation techniques. Using the cross-sectional Treatment Episode Data Set-Discharges (TEDS-D), which includes treatment episodes for individuals in the U.S. discharged between 2015 and 2019, we trained four ML models to predict premature treatment discontinuation and retention beyond 180 days among individuals receiving outpatient MOUD. We evaluated overall performance and subgroup-level error rates across patient subgroups defined by race, ethnicity, age, and sex, complemented by model explanation analyses. We further assessed pre-processing, in-processing, and post-processing bias mitigation techniques and their effects on both fairness and predictive performance. The models exhibited substantial performance differences across patient subgroups, including overestimation of the likelihood of premature discontinuation for Black patients and of treatment retention beyond 180 days for older patients. Model explanation analyses further identified race and age as influential predictors, but their impacts on model predictions varied substantially across patient subgroups. Bias mitigation strategies reduced specific fairness gaps but often introduced trade-offs, such as increased error rates for other subgroups or reductions in overall predictive performance. These findings demonstrate that ML models for MOUD outcome prediction can exhibit subgroup-level performance gaps even when overall predictive performance appears acceptable and that bias mitigation can reduce, but not fully eliminate, these gaps without trade-offs. By demonstrating the importance of fairness-aware evaluation and transparent reporting of subgroup performance, this study provides practical insights for the responsible and context-sensitive use of ML models for risk stratification and care prioritization in MOUD treatment settings.",
     "authors": [
-      "Yue Lin",
-      "Yusi Huang",
-      "Junming Zhou",
-      "Xiaoqing Liu"
+      "Tongnian Wang",
+      "Carolina Vivas-Valencia",
+      "Cici Bauer",
+      "Yanmin Gong",
+      "Kim-Kwang Raymond Choo",
+      "Yuanxiong Guo"
     ],
-    "published": "2026-Oct-30",
+    "published": "2026-Dec",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42963137/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42964323/",
     "pdf_url": null,
-    "doi": "10.1002/ca.70249",
+    "doi": "10.1007/s41666-026-00251-x",
     "citations": 0,
-    "venue": "Clinical anatomy (New York, N.Y.)",
+    "venue": "Journal of healthcare informatics research",
     "open_access": false,
-    "ai_summary": "Artificial intelligence (AI) is transforming traditional anatomy education by introducing new teaching tools . The adoption of these cutting-edge technologies raises questions about global educational equity . It remains unclear whether AI will serve as a digital equalizer or further exacerbate marginalization ."
+    "ai_summary": "The study assesses algorithmic fairness in ML models for predicting MOUD retention and premature discontinuation . The fairness of these models across patient populations remains largely unexplored ."
   },
   {
-    "id": "pubmed:42963118",
-    "title": "Correction: Evaluation of the Applicability of Synthetic Data in the Development of Colorectal Cancer Survival Prediction Models: External Validation of Advanced Machine Learning Models Based on National Cancer Data Center Data.",
-    "abstract": "",
+    "id": "pubmed:42964313",
+    "title": "Uncertainty Quantification in Machine Learning for Biosignal Applications - A Review.",
+    "abstract": "Uncertainty Quantification (UQ) has gained traction in an attempt to improve the interpretability and robustness of machine learning predictions. Specifically (medical) biosignals such as electroencephalography (EEG), electrocardiography (ECG), electrooculography (EOG), and electromyography (EMG) could benefit from good UQ, since these suffer from a poor signal-to-noise ratio, and good human interpretability is pivotal for medical applications. To determine how uncertainty estimation can be used for biosignal tasks, we investigate current methods, use cases, applications, evaluations, and uncertainty measures. In this paper, we systematically review the state of the art of applying Uncertainty Quantification to Machine Learning tasks in the biosignal domain. All works from Web of Science, Scopus, IEEE XPlore and PsycINFO that discuss uncertainty in Machine Learning on one of the aforementioned biosignals is included. We present various methods, shortcomings, uncertainty measures and theoretical frameworks that currently exist in this application domain based on the 53 reviewed papers and related literature. We address misconceptions in the field, provide recommendations for future work, and discuss gaps in the literature in relation to diagnostic implementations as well as control for prostheses or brain-computer interfaces. Overall it can be concluded that promising UQ methods are available, but that research is needed on how people and systems may interact with an uncertainty-model in a (clinical) environment.",
     "authors": [
-      "Yujeong Jang",
-      "Jae Hoon Kwon",
-      "Heeyong Kim",
-      "You-Jin Joung",
-      "Junho Nang",
-      "Chang Hyun Kim"
+      "Ivo Pascal de Jong",
+      "Andreea Ioana Sburlea",
+      "Matias Valdenegro-Toro"
     ],
-    "published": "2026-Oct-30",
+    "published": "2026-Dec",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42963118/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42964313/",
     "pdf_url": null,
-    "doi": "10.2196/110851",
+    "doi": "10.1007/s41666-026-00249-5",
     "citations": 0,
-    "venue": "Journal of medical Internet research",
+    "venue": "Journal of healthcare informatics research",
     "open_access": false,
-    "ai_summary": "No abstract available."
+    "ai_summary": "Uncertainty Quantification (UQ) has gained traction in an attempt to improve the interpretability and robustness of machine learning predictions . Good human interpretability is pivotal for medical applications, says the paper ."
   },
   {
-    "id": "pubmed:42963099",
-    "title": "Implementation and use of EHR-integrated large language model-generated draft responses in patient portal messaging: a 1-year prospective observational study in a tertiary hospital.",
-    "abstract": "",
+    "id": "pubmed:42964343",
+    "title": "EComReviews-BD: A benchmark dataset for aspect-based sentiment analysis on multilingual Bangladeshi E-Commerce reviews.",
+    "abstract": "The rapid growth of e-commerce has generated a large volume of customer reviews that serve as an important source of information for understanding consumer opinions and product quality. Aspect-based product recommendation and sentiment analysis relies on high-quality annotated datasets that capture customer opinions on specific product attributes. The proposed dataset was derived from the most popular e-commerce platform Daraz. It features a diverse amount of product reviews which includes 20,685 reviews with 304 products. All the reviews are in Bangla, English, Banglish format which are given by customers. After that we include sentiment and extract aspects for each product category as we have 19 categories of product. In the overall dataset, 74 aspects were extracted and manually annotated. All the reviews and product details were collected through web scraping. This fine-grained annotated dataset enhances comprehensive analysis in marketplace and product details, supporting future improvement, evaluating existing products. The dataset features multilingual reviews, product names, product categories, ratings and fine-grained aspect annotations, which provide a valuable resource for many different research areas. Along with aspect-based sentiment analysis, it can also support research in natural language processing (NLP), information retrieval (IR), recommendation systems, large language models (LLMs), and explainable artificial intelligence (XAI), which could open up pathways for different kinds of intelligent applications and future research.",
     "authors": [
-      "Anne H Hoekman",
-      "Charlotte Mhht Bootsma-Robroeks",
-      "Tarannom Mehri",
-      "Job N Doornberg",
-      "Tom P van der Laan",
-      "Stephanie Ce Schuit",
-      "Rosanne C Schoonbeek"
+      "Raiyan Fardin Haque",
+      "Afsin Sultana",
+      "Md Sabbir Hossain",
+      "Md Arafat Hossain",
+      "Nishat Tasnim"
     ],
-    "published": "2026-Oct-30",
+    "published": "2026-Aug",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42963099/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42964343/",
     "pdf_url": null,
-    "doi": "10.1136/bmjopen-2026-119071",
+    "doi": "10.1016/j.dib.2026.113314",
     "citations": 0,
-    "venue": "BMJ open",
+    "venue": "Data in brief",
     "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "pubmed:42963097",
-    "title": "Implementation of artificial intelligence in healthcare: a protocol for a phased mixed-methods multiple case study in the North Denmark Region.",
-    "abstract": "",
-    "authors": [
-      "Kathrine Hald",
-      "Maria Fagerström",
-      "Janus Laust Thomsen",
-      "Søren Paaske Johnsen",
-      "Per Nilsen"
-    ],
-    "published": "2026-Oct-30",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42963097/",
-    "pdf_url": null,
-    "doi": "10.1136/bmjopen-2026-124097",
-    "citations": 0,
-    "venue": "BMJ open",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "pubmed:42963056",
-    "title": "Deep Learning-Assisted Diagnosis of Middle Ear Diseases in Otoendoscopy Across Clinician Experience Levels: Retrospective Reader Study.",
-    "abstract": "Accurate diagnosis of middle ear diseases remains challenging due to the specialized nature of otoscopic interpretation and the global shortage of otolaryngologists. We aimed to evaluate the impact of a deep learning-based AI support system on the diagnostic performance of clinicians with varying levels of expertise, specifically focusing on its ability to bridge the gap between trainees and experts. In this retrospective reader study, a deep learning model (EfficientNet-B4) was developed using a large-scale dataset of 7335 endoscopic images. The model was designed for multi-class classification, simultaneously identifying primary categories (chronic otitis media, otitis media with effusion, or none [indicating the absence of the first two]) and secondary features (attic retraction, myringitis, otomycosis, and ventilation tube). To assess clinical impact, diagnostic performance was compared among 3 otology professors, 5 senior residents, and 5 junior residents using an independent clinical assessment set of 100 images. Participants performed diagnoses both with and without AI-generated predictions, with a time constraint of 1 minute per image to simulate real-world clinical pressure. In 5-fold cross-validation, the deep learning model achieved 94.8% accuracy for the primary classification. The stand-alone AI achieved diagnostic accuracies ranging from 94.0% to 99.0% in the clinical assessment set. AI support significantly enhanced diagnostic accuracy across all groups for primary classification, with improvements of 11.0% for otology professors, 28.8% for senior residents, and 32.2% for junior residents ( Our findings demonstrate that deep learning-based AI support substantially improves the diagnostic accuracy of middle ear diseases, particularly for less experienced clinicians. By narrowing the performance gap between trainees and experts, this system shows high potential as a valuable adjunct for clinical decision-making and medical education in otology.",
-    "authors": [
-      "Se Eun Yi",
-      "Jihye Chae",
-      "Keunwoo Park",
-      "Yeon Joo Choi",
-      "Jihoon Kweon",
-      "Joong Ho Ahn"
-    ],
-    "published": "2026-Oct-30",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42963056/",
-    "pdf_url": null,
-    "doi": "10.2196/96134",
-    "citations": 0,
-    "venue": "JMIR medical informatics",
-    "open_access": false,
-    "ai_summary": "A deep learning model was developed using a large-scale dataset of 7335 endoscopic images . The model was designed for multi-class classification, simultaneously identifying primary categories . To assess clinical impact, diagnostic performance was compared among 3 otology professors, 5 senior residents, and 5 junior residents ."
-  },
-  {
-    "id": "pubmed:42963029",
-    "title": "Heterogeneity of Treatment Effect of ABC Pathway-Based Care in Older Atrial Fibrillation: Insights from the mAFA-II and MIRACLE-AF Trials Using a Causal Machine Learning Approach.",
-    "abstract": "Integrated care based on the Atrial fibrillation Better Care (ABC) pathway improves outcomes in patients with atrial fibrillation (AF), but whether treatment effects differ across older patients remains unclear. To evaluate heterogeneity of treatment effect (HTE) of ABC pathway-based care and assess its transportability across healthcare settings using causal machine learning (ML). Individual participant data from the cluster-randomised mAFA-II and MIRACLE-AF trials were analysed, including 3,209 patients aged ≥65 years. Three causal ML models were developed in mAFA-II and externally validated in MIRACLE-AF. The primary outcome was a composite of all-cause mortality, ischaemic stroke, intracranial haemorrhage, heart failure, acute coronary syndrome, or major bleeding. The uplift random forest demonstrated the best performance and identified meaningful HTE. In the mAFA-II testing cohort, ABC pathway-based care was associated with a lower risk of the primary outcome in patients predicted to benefit, whereas no benefit and possible harm were observed in those predicted to derive harm (P-interaction=0.002). In external validation, benefit was preserved in the predicted benefit group but not in the predicted harm group, although treatment discrimination was attenuated. Patients predicted to derive limited benefit had greater clinical complexity, including higher comorbidity burden and CHA ABC pathway-based integrated care demonstrates clinically meaningful treatment heterogeneity among older patients with AF. These findings support more personalised implementation of integrated care and highlight the potential of causal ML to guide precision management in AF. MAFA-II trial (ChiCTR-OOC-17014138 || http://www.chictr.org.cn/, registered on 26 December 2017), MIRACLE-AF trial (NCT04622514 || https://clinicaltrials.gov/, registered on 10 November 2020).",
-    "authors": [
-      "Yang Chen",
-      "Qinkai Yu",
-      "Ying Gue",
-      "Yanda Meng",
-      "Yalin Zheng",
-      "Mingfang Li",
-      "Yutao Guo",
-      "Minglong Chen",
-      "Gregory Y H Lip"
-    ],
-    "published": "2026-Oct-30",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42963029/",
-    "pdf_url": null,
-    "doi": "10.1016/j.hrthm.2026.10.059",
-    "citations": 0,
-    "venue": "Heart rhythm",
-    "open_access": false,
-    "ai_summary": "Integrated care based on the Atrial fibrillation Better Care (ABC) pathway improves outcomes in patients with atrialfibrillation (AF) But whether treatment effects differ across older patients remains unclear ."
-  },
-  {
-    "id": "pubmed:42963027",
-    "title": "Dynamic structural adaptation of a conserved interaction hotspot in the respiratory syncytial virus fusion glycoprotein F.",
-    "abstract": "Protein interaction sites must maintain structural integrity while accommodating conformational fluctuations and sequence perturbations. Molecular determinants that distinguish locally adaptable residues from structurally constrained positions within conserved interfaces remain incompletely understood. Here, we investigate this problem using the prefusion respiratory syncytial virus fusion glycoprotein F as a model system, focusing on a conserved interaction hotspot proximal to the MEDI8897-binding interface. An integrated computational framework combining evolutionary conservation, structure-based energetic analysis, residue interaction networks, and molecular dynamics simulations was used to characterize mutation-dependent structural responses. Analysis of 1848 RSV F sequences revealed strong conservation of the CPINKC hotspot comprising C69, P205, I206, N208, K209, and C212. Despite conservation, saturation mutagenesis and structural analysis revealed pronounced heterogeneity in calculated energetic response to substitution. P205R and N208R produced highly unfavorable calculated energetic effects, whereas I206R exhibited an approximately neutral energetic response. Residue interaction network analysis identified I206 as topologically central residue with the highest betweenness and closeness centrality within the hotspot. Aggregate MD sampling comprised three independent 500-ns simulations for each of seven systems, yielding 10.5 μs of total simulation time. All systems retained the overall prefusion architecture over the simulated timescale but exhibited distinct local and interprotomer responses. N208R produced the strongest local perturbation, including increased hotspot flexibility and reduced interprotomer contact occupancy. In contrast, P205R maintained restrained local dynamics despite its energetic penalty, whereas I206R preserved a broadly wild-type-like dynamic profile. These findings indicate that energetic cost, residue interaction topology, and conformational dynamics provide complementary information for characterizing mutation-induced structural adaptation.",
-    "authors": [
-      "Rahul Kaushik",
-      "Suyong Re"
-    ],
-    "published": "2026-Oct-30",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42963027/",
-    "pdf_url": null,
-    "doi": "10.1016/j.ijbiomac.2026.155083",
-    "citations": 0,
-    "venue": "International journal of biological macromolecules",
-    "open_access": false,
-    "ai_summary": "Protein interaction sites must maintain structural integrity while accommodating conformational fluctuations and sequence perturbations . Here, we investigate this problem using the prefusion respiratory syncytial virus fusion glycoprotein F as a model system ."
-  },
-  {
-    "id": "pubmed:42963007",
-    "title": "Multidimensional EEG Feature Fusion and Interpretable Machine Learning for Identifying Cognitive Impairment in Depression.",
-    "abstract": "Cognitive impairment is a clinically important dimension of depression that remains insufficiently assessed using objective measures. Existing assessments largely rely on scale-based screening, whereas EEG-based computational studies are often limited by the use of single-feature representations, window-level data leakage, class imbalance, and limited interpretability. In this study, we developed an interpretable subject-level machine learning framework based on resting-state EEG to identify cognitive impairment in patients with depression and investigate potential electrophysiological markers. A total of 142 patients with depression were categorized as having depression without cognitive impairment (D-NCI) or depression with cognitive impairment (D-CI) based on their Montreal Cognitive Assessment (MoCA) scores. Using 16-channel resting-state EEG recordings, phase lag index, relative power, and fuzzy entropy features were extracted across five frequency bands to characterize functional connectivity, spectral activity, and signal complexity. Five-fold stratified cross-validation at the subject level, ensemble undersampling, and a two-stage SHAP-based feature selection strategy implemented within the training procedure were used to reduce the risk of data leakage, mitigate class imbalance, and improve interpretability. The final model achieved an accuracy of 80.39 ± 7.91%, sensitivity of 83.29 ± 8.30%, specificity of 73.89 ± 15.75%, F1-score of 85.67 ± 5.91%, and AUC of 83.74 ± 9.63%. The retained features were mainly distributed in the beta1 and beta2 bands and reflected alterations in interregional phase synchronization, local oscillatory activity, and signal complexity. These findings support the feasibility of an interpretable EEG-based framework with subject-level data partitioning to assist in identifying cognitive impairment in depression.",
-    "authors": [
-      "Bin Zhou",
-      "Xinzhe Wang",
-      "Tianyu Wang",
-      "Jilong Shi",
-      "Boyi Huang",
-      "Yuebing Zhang",
-      "Gang Li",
-      "Xiaosong Cao"
-    ],
-    "published": "2026-Oct-30",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42963007/",
-    "pdf_url": null,
-    "doi": "10.1016/j.brainresbull.2026.112195",
-    "citations": 0,
-    "venue": "Brain research bulletin",
-    "open_access": false,
-    "ai_summary": "Cognitive impairment is a clinically important dimension of depression that remains insufficiently assessed using objective measures . A total of 142 patients with depression were categorized as having depression without cognitive impairment (D-NCI) or depression with cognitive impairment ."
-  },
-  {
-    "id": "pubmed:42963006",
-    "title": "Sex-Specific Classification Models for Cognitive Function in Cerebral Small Vessel Disease Based on MRE and Machine Learning.",
-    "abstract": "Early identification of cognitive impairment is crucial for preventing dementia progression. Magnetic resonance elastography (MRE), combined with traditional imaging markers, provides a novel dimension for cognitive assessment in cerebral small vessel disease (CSVD). To develop machine learning-based classification models for cognitive function in CSVD patients by integrating MRE brain mechanical parameters, white matter hyperintensity burden, and clinical indicators, and to analyze sex differences in model performance. 100 CSVD subjects underwent MRI scanning including FLAIR for white matter hyperintensities, T1WI for hippocampal atrophy assessment, and MRE for measuring brain mechanical properties across 12 regions. Data were split 8:2 (train:test, stratified); within the training set only, candidate features were ranked by Spearman correlation with MoCA score and a final 13-feature subset was selected by Recursive Feature Elimination (RFE). Subjects were stratified by sex (all-sex: n=100; male: n=42; female: n=58), and 10 machine learning models were compared for each group using 5-fold cross-validation (cvAUC), with SHAP analysis used to interpret feature importance. A 13-feature subset was identified, predominantly MRE stiffness parameters. Naive Bayes performed best in the overall cohort (cvAUC=0.704, 95% CI 0.652-0.756), Extra Trees in males (cvAUC=0.828, 95% CI 0.635-1.000), and XGBoost in females (cvAUC=0.617, 95% CI 0.370-0.863). The female subgroup's confidence interval spanned chance-level discrimination. Using the same feature set, classification accuracy was numerically higher in males than in females. SHAP analysis showed atrophy and white matter hyperintensity burden markers dominated in males, whereas right angular gyrus stiffness and other MRE parameters dominated in the overall cohort and in females. Using an identical feature set and modeling pipeline, machine learning models integrating MRE showed markedly different performance between sexes, indicating that a single sex-agnostic model does not generalize equally to men and women. This performance gap, together with divergent SHAP patterns, underscores the need for sex-stratified modeling in MRE-based cognitive screening for CSVD.",
-    "authors": [
-      "Xiu Chen",
-      "Yingjie Kang",
-      "Mei Yang",
-      "Xuying Zhu",
-      "Jiejing Zhang",
-      "Yanwen Huang",
-      "Jie Yuan",
-      "Wenli Tan"
-    ],
-    "published": "2026-Oct-30",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42963006/",
-    "pdf_url": null,
-    "doi": "10.1016/j.brainresbull.2026.112189",
-    "citations": 0,
-    "venue": "Brain research bulletin",
-    "open_access": false,
-    "ai_summary": "Magnetic resonance elastography (MRE), combined with traditional imaging markers, provides a novel dimension for cognitive assessment in cerebral small vessel disease (CSVD)"
-  },
-  {
-    "id": "pubmed:42962990",
-    "title": "Preparing for Next-Generation Vaccines: Breakthrough Invasive Pneumococcal Disease Patterns Post-PCV13 and Post-PPSV23 in Australia.",
-    "abstract": "Pneumococcal conjugate (PCV) and polysaccharide (PPSV) vaccines have reduced invasive pneumococcal disease (IPD) in Australia. We evaluated breakthrough IPD following PCV13 and PPSV23 immunization (2009-2023) to inform next-generation vaccine strategies. We analyzed laboratory-confirmed IPD cases from the National Notifiable Diseases Surveillance System to estimate the vaccine-type proportion among vaccinated IPD cases (those meeting the minimum age-specific dose threshold), whose vaccine-type infections constitute breakthrough IPD. Temporal trends were assessed using logistic regression, and subgroup differences using chi-square or Fisher's tests. Random Forest and Gradient Boosting models with five-fold cross-validation classified IPD due to PPSV23-type serotypes. Across 25,643 IPD cases, annual notifications increased while PCV13-type proportions declined. PCV13-type proportions were 19.4% in infants and 37.5% at 2-14 years; PPSV23-type proportions were 47.5% at 15-69 and 48.4% at ≥70 years, with serotype 3 the largest contributor. Vaccinated individuals showed lower vaccine-type proportions than non- or partially vaccinated cases across age groups. Vaccine-type proportions were highest for pneumonia and in the Northern Territory, with greatest residual burden among older adults and Indigenous Australians. Machine-learning models classifying PPSV23-type IPD (accuracy ≈92%) identified vaccination-related variables, clinical presentation, and year of infection as key predictors; excluding these variables reduced AUC from 0.97-0.98 to 0.69. PCV13-type proportions declined over time, most markedly in infants, whereas PPSV23-type proportions remained persistently high in older adults and Indigenous Australians despite higher documented vaccination. Serotype 3, included in all current conjugate formulations, dominated breakthrough for both vaccines, and in descriptive comparisons limited by small subgroup sizes, neither additional doses nor sequential vaccination was associated with lower vaccine-type proportions.",
-    "authors": [
-      "Shayan Sharifi",
-      "Stephen I Pelton",
-      "Inci Yildirim",
-      "Teena Chopra",
-      "Melike Yildirim"
-    ],
-    "published": "2026-Oct-30",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42962990/",
-    "pdf_url": null,
-    "doi": "10.1016/j.ijid.2026.109215",
-    "citations": 0,
-    "venue": "International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases",
-    "open_access": false,
-    "ai_summary": "Pneumococcal conjugate (PCV) and polysaccharide (PPSV) vaccines have reduced invasive pneumococcal disease (IPD) in Australia . We evaluated breakthrough IPD following PCV13 and PPSV23 immunization (2009-2023)"
+    "ai_summary": "Aspect-based product recommendation and sentiment analysis relies on high-quality annotated datasets . The proposed dataset was derived from the most popular e-commerce platform Daraz . It includes 20,685 reviews with 304 products and 74 aspects of product ."
   },
   {
     "id": "openalex:W7118880740",
@@ -1757,6 +1592,45 @@
     "ai_summary": "No abstract available."
   },
   {
+    "id": "arxiv:2610.40654v1",
+    "title": "Propose-Filter-Release: Scaling Noise to Typical Sensitivity via Private Filtering",
+    "abstract": "An estimator can be accurate and stable on typical data, yet sensitive to a few possible records. Differentially private mechanisms commonly scale their noise to the worst-case influence of a single record, which lets these records dictate the noise even when the remaining data would allow far less. Removing them first would restore the smaller scale, but the removal must itself be private. We introduce \\emph{propose-filter-release} (PFR), which, by privately filtering its input, turns a mechanism that protects the addition or removal of a typical record, one that fits the remaining data, into one that is differentially private in the standard sense, on every input. Using our novel filtering step, PFR requires only a concave friendliness score, which measures how well a record fits a dataset, and a release mechanism that is friendly-DP, that is, private when the changed record fits the remaining data. For every such score and release mechanism, it guarantees differential privacy under public conditions on the number of records, so it is a general privacy primitive, comparable to propose-test-release, and FriendlyCore can be viewed as one of its implementations. We illustrate the generality of PFR by instantiating it for scalar statistics, principal subspace estimation, the KL divergence of user histograms, the effective resistances of a graph, and treatment-rule selection.",
+    "authors": [
+      "Moshe Shenfeld",
+      "Eliad Tsfadia",
+      "Katrina Ligett"
+    ],
+    "published": "2026-10-29",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2610.40654v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.40654v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "PFR (PFR) turns a mechanism that protects the addition or removal of a typical record into one that is differentially private in the standard sense, on every input . PFR requires only a concave friendliness score, which measures how well a record fits a dataset ."
+  },
+  {
+    "id": "arxiv:2610.40644v1",
+    "title": "Adaptive Scenario Generation for KL-DRO Around a Learned Density Model",
+    "abstract": "Distributionally robust optimization (DRO) hedges data-driven two-stage stochastic programs against error in the distribution estimated from a finite record, and standard ambiguity sets differ in how they treat realizations absent from that record. A divergence ball around the empirical distribution contains only reweightings of the record, whereas a transport ball also contains distributions supported off the record, including on realizations the data-generating process cannot produce, against which the decision is then hedged as well. We instead propose a Kullback-Leibler (KL) ball centered at a density model fitted to the record, the learned nominal, which lets the adversary up-weight costly unobserved realizations in proportion to the probability the model assigns them. Solving the resulting problem poses a second difficulty, because it can accommodate only a few scenarios, and an independent sample of that size is likely to omit the rare realizations on which the worst case concentrates. We therefore build the scenario set adaptively, alternating between solving the finite problem and drawing new realizations from the learned nominal, steered toward the worst case at the current decision, with importance weights that correct the draws back to the model. On a multi-item newsvendor problem and a capacity expansion problem on realistic grid data, centering the ball at the learned nominal rather than at the record lowers cost under distribution shift, at comparable in-distribution cost, when the record is scarce and the model class captures structure that lets it extrapolate beyond the record. The advantage fades as the record grows or as the shift departs from the structure the model has learned.",
+    "authors": [
+      "Aron Brenner",
+      "Saurabh Amin"
+    ],
+    "published": "2026-10-29",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2610.40644v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.40644v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "Distributionally robust optimization (DRO) hedges data-driven two-stage stochastic programs against error in the distribution estimated from a finite record . A divergence ball around the empirical distribution contains only reweightings of the record, whereas a transport ball also contains distributions supported off the record ."
+  },
+  {
     "id": "arxiv:2610.40649v1",
     "title": "Rethinking Neural Thickets Without Weight Perturbations",
     "abstract": "The Neural Thickets hypothesis posits that pretrained language models lie in dense neighborhoods of task-specific experts in weight space, which random Gaussian perturbations can uncover. We reproduce the reported gains, but show that they do not require this geometric explanation. Perturbing a single decoder block already recovers much of the improvement, while keeping the model entirely frozen and adding a random bias to its output logits matches or exceeds full-weight perturbations on most reasoning tasks. This suggests an alternative explanation based on output diversity, validation-based selection, and voting. We formalize this view as Perturb-Select-Vote (PSV), a general procedure that generates perturbed predictors, selects high-performing members on a small validation set, and aggregates their predictions. This interpretation connects Neural Thickets to established inference-time methods, including sampling, self-consistency, and verifier-guided selection. A first-order analysis further shows that small weight perturbations act primarily through their induced logit shifts. We extend this analysis to vision, where logit PSV substantially improves performance under domain shift, including on Earth observation, while full-weight perturbations provide little additional benefit. Together, these results suggest that the gains attributed to nearby weight-space experts can instead be obtained through output diversity, selection, and voting. Logit PSV realizes these benefits with a fully frozen model, providing a simple, training-free alternative to full-weight perturbation ensembles across language and vision.",
@@ -1777,48 +1651,6 @@
     "venue": "arXiv preprint",
     "open_access": true,
     "ai_summary": "The Neural Thickets hypothesis posits that pretrained language models lie in dense neighborhoods of task-specific experts in weight space . We reproduce the reported gains, but show that they do not require this geometric explanation . Perturbing a single decoder block already recovers much of the improvement, while keeping the model entirely frozen ."
-  },
-  {
-    "id": "arxiv:2610.40655v1",
-    "title": "Elucidating the Design Space of LM Data Attribution",
-    "abstract": "Data attribution methods for Language Models (LMs) are typically evaluated using downstream tasks like fact retrieval. However, existing evaluations vary multiple dataset properties simultaneously, making it impossible to isolate exactly why an attribution algorithm fails. To diagnose these failures, we explore the design space of LLM data attribution, with a primary focus on evaluation. We introduce the Controlled Attribution Benchmark (CATT) for fact tracing, in which we fine-tune LLMs on entirely fictitious knowledge, providing unambiguous ground truth for attribution. This synthetic setup allows us to systematically alter one dataset configuration at a time, such as document redundancy and lexical distractors. With this configurable evaluation, we demonstrate that redundancy and distractors consistently degrade attribution performance. Rather than proposing a new estimator, we examine two design choices that are underexplored: the loss used to compute gradients and how per-token attribution scores are aggregated into a document score. We find that the true causal evidence within a training document is highly localized, but standard methods dilute this evidence into noise by averaging attribution scores across the entire document. We find that replacing standard cross-entropy loss gradients with the negative log-odds gradients surfaces the critical tokens from other uninformative ones. We can then aggregate only the top token scores to improve ground truth recall by 35 to 72 percentage points across multiple baselines on our diagnostic benchmark. The negative log-odds correction also generalizes to FTRACE-TREX, improving counterfactual retraining performance for every method we test, by up to 4.9x.",
-    "authors": [
-      "Steven Yu",
-      "Sheng-Yu Wang",
-      "Kimia Hamidieh",
-      "Antonio Torralba",
-      "David Bau"
-    ],
-    "published": "2026-10-29",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2610.40655v1",
-    "pdf_url": "https://arxiv.org/pdf/2610.40655v1",
-    "doi": null,
-    "citations": 0,
-    "venue": "arXiv preprint",
-    "open_access": true,
-    "ai_summary": "Language Models (LMs) are typically evaluated using downstream tasks like fact retrieval . But existing evaluations vary multiple dataset properties simultaneously, making it impossible to isolate exactly why an attribution algorithm fails . We explore the design space of LLM data attribution, with a primary focus on evaluation ."
-  },
-  {
-    "id": "arxiv:2610.40654v1",
-    "title": "Propose-Filter-Release: Scaling Noise to Typical Sensitivity via Private Filtering",
-    "abstract": "An estimator can be accurate and stable on typical data, yet sensitive to a few possible records. Differentially private mechanisms commonly scale their noise to the worst-case influence of a single record, which lets these records dictate the noise even when the remaining data would allow far less. Removing them first would restore the smaller scale, but the removal must itself be private. We introduce \\emph{propose-filter-release} (PFR), which, by privately filtering its input, turns a mechanism that protects the addition or removal of a typical record, one that fits the remaining data, into one that is differentially private in the standard sense, on every input. Using our novel filtering step, PFR requires only a concave friendliness score, which measures how well a record fits a dataset, and a release mechanism that is friendly-DP, that is, private when the changed record fits the remaining data. For every such score and release mechanism, it guarantees differential privacy under public conditions on the number of records, so it is a general privacy primitive, comparable to propose-test-release, and FriendlyCore can be viewed as one of its implementations. We illustrate the generality of PFR by instantiating it for scalar statistics, principal subspace estimation, the KL divergence of user histograms, the effective resistances of a graph, and treatment-rule selection.",
-    "authors": [
-      "Moshe Shenfeld",
-      "Eliad Tsfadia",
-      "Katrina Ligett"
-    ],
-    "published": "2026-10-29",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2610.40654v1",
-    "pdf_url": "https://arxiv.org/pdf/2610.40654v1",
-    "doi": null,
-    "citations": 0,
-    "venue": "arXiv preprint",
-    "open_access": true,
-    "ai_summary": "PFR (PFR) turns a mechanism that protects the addition or removal of a typical record into one that is differentially private in the standard sense, on every input . PFR requires only a concave friendliness score, which measures how well a record fits a dataset ."
   },
   {
     "id": "arxiv:2610.40653v1",
@@ -1842,23 +1674,26 @@
     "ai_summary": "Small edits can be nuanced and expressive, with different choices serving different creative goals . These small, detailed edits are slow and tedious to make in standard editing tools ."
   },
   {
-    "id": "arxiv:2610.40644v1",
-    "title": "Adaptive Scenario Generation for KL-DRO Around a Learned Density Model",
-    "abstract": "Distributionally robust optimization (DRO) hedges data-driven two-stage stochastic programs against error in the distribution estimated from a finite record, and standard ambiguity sets differ in how they treat realizations absent from that record. A divergence ball around the empirical distribution contains only reweightings of the record, whereas a transport ball also contains distributions supported off the record, including on realizations the data-generating process cannot produce, against which the decision is then hedged as well. We instead propose a Kullback-Leibler (KL) ball centered at a density model fitted to the record, the learned nominal, which lets the adversary up-weight costly unobserved realizations in proportion to the probability the model assigns them. Solving the resulting problem poses a second difficulty, because it can accommodate only a few scenarios, and an independent sample of that size is likely to omit the rare realizations on which the worst case concentrates. We therefore build the scenario set adaptively, alternating between solving the finite problem and drawing new realizations from the learned nominal, steered toward the worst case at the current decision, with importance weights that correct the draws back to the model. On a multi-item newsvendor problem and a capacity expansion problem on realistic grid data, centering the ball at the learned nominal rather than at the record lowers cost under distribution shift, at comparable in-distribution cost, when the record is scarce and the model class captures structure that lets it extrapolate beyond the record. The advantage fades as the record grows or as the shift departs from the structure the model has learned.",
+    "id": "arxiv:2610.40655v1",
+    "title": "Elucidating the Design Space of LM Data Attribution",
+    "abstract": "Data attribution methods for Language Models (LMs) are typically evaluated using downstream tasks like fact retrieval. However, existing evaluations vary multiple dataset properties simultaneously, making it impossible to isolate exactly why an attribution algorithm fails. To diagnose these failures, we explore the design space of LLM data attribution, with a primary focus on evaluation. We introduce the Controlled Attribution Benchmark (CATT) for fact tracing, in which we fine-tune LLMs on entirely fictitious knowledge, providing unambiguous ground truth for attribution. This synthetic setup allows us to systematically alter one dataset configuration at a time, such as document redundancy and lexical distractors. With this configurable evaluation, we demonstrate that redundancy and distractors consistently degrade attribution performance. Rather than proposing a new estimator, we examine two design choices that are underexplored: the loss used to compute gradients and how per-token attribution scores are aggregated into a document score. We find that the true causal evidence within a training document is highly localized, but standard methods dilute this evidence into noise by averaging attribution scores across the entire document. We find that replacing standard cross-entropy loss gradients with the negative log-odds gradients surfaces the critical tokens from other uninformative ones. We can then aggregate only the top token scores to improve ground truth recall by 35 to 72 percentage points across multiple baselines on our diagnostic benchmark. The negative log-odds correction also generalizes to FTRACE-TREX, improving counterfactual retraining performance for every method we test, by up to 4.9x.",
     "authors": [
-      "Aron Brenner",
-      "Saurabh Amin"
+      "Steven Yu",
+      "Sheng-Yu Wang",
+      "Kimia Hamidieh",
+      "Antonio Torralba",
+      "David Bau"
     ],
     "published": "2026-10-29",
     "source": "arXiv",
     "category": "preprint",
-    "url": "https://arxiv.org/abs/2610.40644v1",
-    "pdf_url": "https://arxiv.org/pdf/2610.40644v1",
+    "url": "https://arxiv.org/abs/2610.40655v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.40655v1",
     "doi": null,
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "Distributionally robust optimization (DRO) hedges data-driven two-stage stochastic programs against error in the distribution estimated from a finite record . A divergence ball around the empirical distribution contains only reweightings of the record, whereas a transport ball also contains distributions supported off the record ."
+    "ai_summary": "Language Models (LMs) are typically evaluated using downstream tasks like fact retrieval . But existing evaluations vary multiple dataset properties simultaneously, making it impossible to isolate exactly why an attribution algorithm fails . We explore the design space of LLM data attribution, with a primary focus on evaluation ."
   },
   {
     "id": "arxiv:2610.40647v1",
@@ -2177,7 +2012,7 @@
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "TextSeal2 is a distortion-free watermark for large language models that keeps its signal under speculative decoding . tokens that replace rejected drafts remain watermarked with the same keys . It preserves output diversity and adds no measurable inference latency ."
+    "ai_summary": "TextSeal2 is a distortion-free watermark for large language models that keeps its signal under speculative decoding . tokens that replace rejected drafts remain watermarked with the same keys . It preserves output diversity and adds no measurable latency ."
   },
   {
     "id": "arxiv:2610.40611v1",
@@ -2852,5 +2687,169 @@
     "venue": "arXiv preprint",
     "open_access": true,
     "ai_summary": "VLA models learn diverse language-conditioned behaviors as training data scales . BURGER is a language- Conditioned robotic drawing benchmark . It uses 28,200 simulated demonstrations spanning 282 drawing tasks ."
+  },
+  {
+    "id": "pubmed:42964354",
+    "title": "An automated EEG-ECG framework for CAP-HRV analysis: enabling brain-heart coupling studies in sleep disorders.",
+    "abstract": "Multimodal sleep analysis typically requires separate processing pipelines for electroencephalography (EEG) and electrocardiography (ECG), which complicates joint investigation of sleep microstructure and autonomic regulation. Cyclic alternating pattern (CAP) scoring and heart rate variability (HRV) analysis are routinely performed in different software environments, limiting temporal alignment, reproducibility, and scalability. We present an open-source MATLAB framework that integrates rule-based CAP A1 detection and HRV feature extraction within a single, time-synchronized workflow. The pipeline performs standardized EEG and ECG preprocessing, rule-based CAP A1 detection during slow-wave sleep (SWS) implementing the Terzano scoring criteria, R-peak detection via the Pan-Tompkins algorithm, and computation of time-domain, frequency-domain, and nonlinear HRV features by calling the open-source PhysioZoo/mhrv toolbox directly. CAP annotations are aligned with 5-minute ECG epochs through the shared polysomnography (PSG) time base. The complete code is released as an open-source repository to support reuse and extension. Because HRV features are computed by calling the PhysioZoo/mhrv toolbox directly, the pipeline introduces no reimplemented HRV routine and inherits that toolbox's validated feature definitions. CAP A1 detection is provided as a rule-based implementation of published criteria and has not yet been benchmarked against expert manual scoring. A worked example on the OSAD+ subgroup (n = 18) demonstrates pipeline output across CAP and non-CAP epochs, and a healthy-sleep A1-event HRV reference is reported from the public CAP Sleep Database (15 controls, 785 A1 epochs) as a descriptive cross-database reference. The framework provides a reproducible, rule-based, and modular tool for integrated EEG-ECG analysis of sleep microstructure and autonomic dynamics. By enabling synchronized CAP-HRV feature extraction in a single environment, it lowers the engineering barrier to brain-heart coupling research during sleep and provides a foundation for future extensions, including validated CAP detection, a matched-control study, a Python port, and cloud-based deployment.",
+    "authors": [
+      "Shaween Shukir",
+      "Mostafa Moussa",
+      "Yahya AlZaabi",
+      "Ahsan Khandoker",
+      "Zbigniew R Struzik"
+    ],
+    "published": "2026",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42964354/",
+    "pdf_url": null,
+    "doi": "10.3389/fphys.2026.1864664",
+    "citations": 0,
+    "venue": "Frontiers in physiology",
+    "open_access": false,
+    "ai_summary": "Multimodal sleep analysis typically requires separate processing pipelines for electroencephalography (EEG) and electrocardiography (ECG) The pipeline performs standardized EEG and ECG preprocessing, rule-based CAP A1 detection during slow-wave sleep ."
+  },
+  {
+    "id": "pubmed:42964353",
+    "title": "Psychological support for depression and anxiety across chronic illness contexts: a comparative evaluation of three general-purpose AI chatbots.",
+    "abstract": "Digital mental health tools, including general-purpose artificial intelligence (AI) chatbots, may provide accessible and low-threshold psychological support for people living with chronic conditions. However, their value in this population depends not only on recognizing depression or anxiety, but also on understanding how psychological distress is shaped by disease-specific experiences and when self-guided support should transition toward professional care. We evaluated the appropriateness, contextual sensitivity, safety, and consistency of psychological support provided by three widely accessible AI chatbots across contrasting chronic illness contexts. We conducted a standardized simulated-patient benchmarking study comparing ChatGPT, Gemini, and Doubao. Twenty scenarios were developed across type 2 diabetes mellitus (T2DM) and chronic spontaneous urticaria (CSU), representing matched mild and moderate presentations of depression and anxiety together with condition-specific distress related to diabetes self-management and CSU-related flare uncertainty. Each scenario was independently submitted to all three systems in two testing rounds, yielding 120 responses. Blinded raters assessed overall psychological support appropriateness, recognition and emotional support, chronic-illness contextualization, psychological support and referral, psychosomatic balance and safety, and major clinical or safety errors. Repeated testing assessed response consistency. Overall psychological support appropriateness differed across systems (P = 0.002), with 90.0% of ChatGPT, 75.0% of Gemini, and 55.0% of Doubao responses meeting the prespecified appropriateness threshold. Recognition and emotional support was consistently strong across systems, whereas greater differences emerged in chronic-illness contextualization (P = 0.001), psychological support and referral (P = 0.002), and psychosomatic balance and safety (P<0.001). All responses to mild presentations were classified as psychologically appropriate, compared with 58.3% of responses to moderate presentations, indicating that performance became less reliable when digital support required stronger escalation toward professional assessment. Contextualization was also less consistent in CSU, particularly when responses needed to incorporate flare unpredictability, pruritus, sleep disruption, and illness uncertainty. Major clinical or safety errors occurred in 0%, 10.0%, and 15.0% of first-round ChatGPT, Gemini, and Doubao responses, respectively. Test-retest consistency was moderate and varied between systems. General-purpose AI chatbots show potential as accessible, self-guided digital mental health resources for people living with chronic conditions, particularly for recognizing distress and providing initial supportive guidance. Their current limitations emerge when effective support requires disease-specific contextualization, balanced interpretation of psychological and somatic factors, or escalation as symptoms become more severe. These findings identify important boundaries for the use of conversational AI in chronic-illness mental health care and suggest that implementation should emphasize context-sensitive guidance, severity-responsive referral, and clear integration with rather than substitution for professional care.",
+    "authors": [
+      "Wei Xiao",
+      "Xuwei Cao",
+      "Wangahe Jin",
+      "Xiaoyi Chen",
+      "Jun Cai",
+      "Xuchen Luo",
+      "Jiehua Deng"
+    ],
+    "published": "2026",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42964353/",
+    "pdf_url": null,
+    "doi": "10.3389/fpsyt.2026.1962615",
+    "citations": 0,
+    "venue": "Frontiers in psychiatry",
+    "open_access": false,
+    "ai_summary": "Digital mental health tools, including general-purpose artificial intelligence (AI) chatbots, may provide accessible and low-threshold psychological support for people living with chronic conditions . Their value depends on recognizing depression or anxiety, but also on understanding how psychological distress is shaped by disease-specific experiences ."
+  },
+  {
+    "id": "pubmed:42964344",
+    "title": "Multihipposenet: multi-task deep learning for automated DDH assessment in infant hip ultrasound.",
+    "abstract": "Developmental dysplasia of the hip (DDH) is a common skeletal condition in infants and young children. For infants under six months, diagnosis relies on Graf ultrasonography to measure the α and β angles, which assess hip-joint development. However, this method requires experienced sonographers with expertise in complex anatomy. In this study, we propose an end-to-end multi-task learning network that improves DDH assessment by jointly exploiting complementary anatomical information. First, we use ResNet-50 with a feature pyramid network (FPN) and a contextual semantic fusion module to extract multi-scale features from hip anatomy. Second, we employ a multi-expert gated channel transformation (ME-GCT) unit that explicitly models the relationships between tasks and channels to balance collaboration and conflict across tasks. Finally, a multi-task graph adaptive learning mechanism (MT-GALM) mines the hidden dynamic dependencies between adjacent channels across tasks. Two datasets comprising 1,355 annotated hip ultrasound images from 566 infants were constructed for this work. Across the patient-level cross-validation test folds, 97.97% and 96.81% of the estimated α and β angles fall within 5 degrees of the expert reference. Because validation was restricted to Graf type I and type II hips, these results should be interpreted as evidence of technical feasibility rather than of established clinical utility; evaluation on type III and type IV hips is required before clinical deployment.",
+    "authors": [
+      "Wenjing Chi",
+      "Hong Qi",
+      "Huawei Zhao",
+      "Hui Cheng",
+      "Quanlian Yuan",
+      "Shuai Zheng"
+    ],
+    "published": "2026",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42964344/",
+    "pdf_url": null,
+    "doi": "10.3389/fped.2026.1939157",
+    "citations": 0,
+    "venue": "Frontiers in pediatrics",
+    "open_access": false,
+    "ai_summary": "Developmental dysplasia of the hip (DDH) is a common skeletal condition in infants and young children . For infants under six months, diagnosis relies on Graf ultrasonography to measure hip-joint development . This method requires experienced sonographers with expertise in complex anatomy ."
+  },
+  {
+    "id": "pubmed:42964336",
+    "title": "Development and external validation of interpretable machine learning models for 7-, 14-, and 28-day mortality in sepsis-associated liver injury.",
+    "abstract": "Mortality in sepsis-associated liver injury (SALI) remains high, and early risk stratification is difficult. Existing prognostic models commonly focus on a single endpoint, usually 28-day mortality, and rarely undergo independent external validation. We developed machine-learning models using clinical features recorded during the first 24 h to predict all-cause in-hospital mortality within 7, 14, and 28 days. In MIMIC-IV (v3.1), 1,550 adults meeting the prespecified SALI criteria were allocated to a training cohort (n = 1,119) and a held-out internal validation cohort ( AUROCs in the held-out internal validation cohort were 0.840, 0.841, and 0.850 for 7-, 14-, and 28-day mortality, respectively; corresponding external AUROCs were 0.720, 0.717, and 0.763. The external 28-day model outperformed modified SOFA (0.763 vs. 0.673;  The models showed moderate transportability to one independent retrospective cohort. Multicentre prospective validation is needed before clinical implementation.",
+    "authors": [
+      "Hao Yao",
+      "Zhaopu Li",
+      "Jinxiao Lü",
+      "Wei Shen"
+    ],
+    "published": "2026",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42964336/",
+    "pdf_url": null,
+    "doi": "10.3389/fmed.2026.1942203",
+    "citations": 0,
+    "venue": "Frontiers in medicine",
+    "open_access": false,
+    "ai_summary": "Mortality in sepsis-associated liver injury (SALI) remains high, and early risk stratification is difficult . Existing prognostic models focus on a single endpoint, usually 28-day mortality, and rarely undergo independent external validation . We developed machine-learning models using clinical features recorded during the first 24 h to predict all-cause"
+  },
+  {
+    "id": "pubmed:42964340",
+    "title": "Artificial intelligence readiness in fragile states: a systematic review and theory-informed framework for workforce transformation in Somalia.",
+    "abstract": "Artificial intelligence (AI) is increasingly recognized as a determinant of national productivity and competitiveness, yet the conditions required for its beneficial adoption, infrastructure, institutions, and human capital, remain unevenly distributed across the globe. Somalia, a fragile and conflict-affected state undergoing a prolonged process of institutional reconstruction, exemplifies this unevenness: a young, digitally engaged population and a strikingly dynamic private telecommunications and mobile-money sector coexist with weak public institutions, fragmented higher education, and chronic graduate unemployment. This paper reports a systematic literature review with theory-informed framework development, conducted in accordance with the PRISMA 2020 reporting guideline, that synthesizes peer-reviewed evidence on organizational and national AI readiness, digital-skills development, and workforce productivity, with a specific focus on Somalia and comparable fragile, low-connectivity, Sub-Saharan African contexts. Using the Technology-Organization-Environment (TOE) framework and human capital theory as complementary lenses, the review synthesizes findings from 31 sources identified through a structured search and screening process. The evidence indicates that Somalia's AI readiness gap is not primarily a technological deficit but a multidimensional one, spanning fragmented digital infrastructure, weak institutional governance and data ecosystems, a persistent mismatch between higher-education curricula and labour-market needs, and the absence of coordinated national AI or digital-skills policy. Building on these findings, the paper proposes a four-pillar conceptual AI readiness framework intended to guide future empirical assessment and policy discussion, encompassing digital infrastructure and access, institutional and governance readiness, human capital and skills development, and labour-market integration, together with a phased implementation roadmap for government, higher-education institutions, the private telecommunications sector, and development partners. The review provides a literature-grounded, context-specific synthesis of AI readiness for a fragile Horn of Africa state and offers a transferable analytical approach for similar settings.",
+    "authors": [
+      "Ayan Mohamed Jama",
+      "Nashad Farah Mohamud",
+      "Mohamud Osman Hamud",
+      "Abdullahi Mohamud Hassan",
+      "Abukar Sheikh Mohamed"
+    ],
+    "published": "2026",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42964340/",
+    "pdf_url": "https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2026.1928521/pdf",
+    "doi": "10.3389/frai.2026.1928521",
+    "citations": 0,
+    "venue": "Frontiers in artificial intelligence",
+    "open_access": true,
+    "ai_summary": "Artificial intelligence (AI) is increasingly recognized as a determinant of national productivity and competitiveness . Somalia, a fragile and conflict-affected state, exemplifies this unevenness ."
+  },
+  {
+    "id": "pubmed:42964314",
+    "title": "Emerging light-driven neuromorphic hardware for artificial intelligence.",
+    "abstract": "Optoelectronic neuromorphic systems have emerged as a promising hardware paradigm for next-generation artificial intelligence, combining the high bandwidth, parallelism, and wavelength selectivity of photonics with the adaptive plasticity of electronic materials. This mini-review provides a focused and critical overview of recent advances in material platforms, device architectures, and system-level implementations enabling light-driven neuromorphic computation. We comparatively analyze key photoresponsive materials-including halide perovskites, low-dimensional semiconductors, phase-change and oxide systems, and organic-inorganic hybrids-highlighting their underlying physical mechanisms such as photocarrier generation, charge trapping, ion migration, and excitonic effects. Particular emphasis is placed on device concepts, including optoelectronic synapses, neurons, and crossbar arrays, as well as their integration into in-sensor and hybrid photonic-electronic architectures for machine vision and real-time perception. A benchmarking analysis is presented to evaluate trade-offs in speed, energy consumption, retention, scalability, and stability across different material systems. Finally, we discuss key technological bottlenecks-including device variability, lack of standardized metrics, and integration challenges-and outline future research directions toward scalable, energy-efficient, and application-specific optoelectronic neuromorphic processors.",
+    "authors": [
+      "Panagiotis Bousoulas",
+      "Spyros Orfanoudakis",
+      "Charalampos Tsioustas",
+      "Chrysi Panagopoulou",
+      "Danai Spathi",
+      "Leonidas Tsetseris",
+      "Athanassios G Kontos",
+      "Thomas Stergiopoulos",
+      "Dimitris Tsoukalas"
+    ],
+    "published": "2026",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42964314/",
+    "pdf_url": null,
+    "doi": "10.1038/s41427-026-00671-6",
+    "citations": 0,
+    "venue": "NPG Asia materials",
+    "open_access": false,
+    "ai_summary": "Optoelectronic neuromorphic systems have emerged as a promising hardware paradigm for next-generation artificial intelligence . This mini-review provides a focused and critical overview of recent advances in material platforms, device architectures, and system-level implementations enabling light-driven neuromorphic computation ."
+  },
+  {
+    "id": "pubmed:42964310",
+    "title": "MAOMAO: an ontology-guided FAIR resource for harmonized peptide toxicity data.",
+    "abstract": "",
+    "authors": [
+      "Nicole Soto-Garcia",
+      "Julián García-Vinuesa",
+      "Roberto Uribe-Paredes",
+      "Leandro Murgas",
+      "Karen Oróstica",
+      "Jorge González-Puelma",
+      "Marcelo A Navarrete",
+      "Frederic Cadet",
+      "David Medina-Ortiz"
+    ],
+    "published": "2026",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42964310/",
+    "pdf_url": null,
+    "doi": "10.3389/fphar.2026.1952924",
+    "citations": 0,
+    "venue": "Frontiers in pharmacology",
+    "open_access": false,
+    "ai_summary": "No abstract available."
   }
 ]
