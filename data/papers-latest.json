@@ -156,6 +156,22 @@
     "ai_summary": "No abstract available."
   },
   {
+    "id": "crossref:10.21825/ewopinpractice.94702",
+    "title": "Title Pending 94702",
+    "abstract": "",
+    "authors": [],
+    "published": "2035",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.21825/ewopinpractice.94702",
+    "pdf_url": null,
+    "doi": "10.21825/ewopinpractice.94702",
+    "citations": 0,
+    "venue": "EWOP in Practice",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
     "id": "crossref:10.21825/ewopinpractice.94703",
     "title": "Title Pending 94703",
     "abstract": "",
@@ -169,22 +185,6 @@
     "citations": 0,
     "venue": "EWOP in Practice",
     "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "crossref:10.21825/ewopinpractice.94702",
-    "title": "Title Pending 94702",
-    "abstract": "",
-    "authors": [],
-    "published": "2035",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.21825/ewopinpractice.94702",
-    "pdf_url": "https://openjournals.ugent.be/ewopinpractice/article/id/94702/download/pdf/",
-    "doi": "10.21825/ewopinpractice.94702",
-    "citations": 0,
-    "venue": "EWOP in Practice",
-    "open_access": true,
     "ai_summary": "No abstract available."
   },
   {
@@ -411,26 +411,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.5705/ss.202025.0406",
-    "title": "Distributed Learning of Single Index Model with Differential Privacy and Massive Data",
-    "abstract": "",
-    "authors": [
-      "Fode Zhang",
-      "Lingrui Wang",
-      "Hua Liang"
-    ],
-    "published": "2029",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.5705/ss.202025.0406",
-    "pdf_url": null,
-    "doi": "10.5705/ss.202025.0406",
-    "citations": 0,
-    "venue": "Statistica Sinica",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
     "id": "crossref:10.5705/ss.202025.0314",
     "title": "Transfer Learning for High-dimensional Regression with Compositional Covariates: Application to Microbiome Studies",
     "abstract": "",
@@ -446,6 +426,26 @@
     "url": "https://doi.org/10.5705/ss.202025.0314",
     "pdf_url": null,
     "doi": "10.5705/ss.202025.0314",
+    "citations": 0,
+    "venue": "Statistica Sinica",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "crossref:10.5705/ss.202025.0406",
+    "title": "Distributed Learning of Single Index Model with Differential Privacy and Massive Data",
+    "abstract": "",
+    "authors": [
+      "Fode Zhang",
+      "Lingrui Wang",
+      "Hua Liang"
+    ],
+    "published": "2029",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.5705/ss.202025.0406",
+    "pdf_url": null,
+    "doi": "10.5705/ss.202025.0406",
     "citations": 0,
     "venue": "Statistica Sinica",
     "open_access": false,
@@ -783,170 +783,234 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "pubmed:42962205",
-    "title": "Domain Knowledge Plus AI Fluency: The New Nonnegotiable Competency for the Health Workforce in the AI Era.",
-    "abstract": "In the ongoing AI boom-now supercharged by large language models and generative AI tools-the rapid integration of AI into health care and public health has created an urgent need for professionals who combine deep domain expertise (clinical, epidemiological, ethical, and contextual expertise in health and public health) with AI fluency (the ability to understand, critically evaluate, use, and oversee AI systems effectively). Without domain guidance, AI risks producing biased, unsafe, or contextually irrelevant outputs that compromise patient safety and exacerbate disparities. Conversely, domain experts lacking AI fluency may underuse or misuse these technologies, missing opportunities to improve care quality, operational efficiency, and population health. A foundational understanding of the modern AI system stack-comprising energy, accelerators, infrastructure, models, and applications-empowers health professionals to make informed decisions on adoption, evaluation, governance, and ethical use without needing to code or build models themselves. This stack framework highlights critical interdependencies and health care-specific challenges, including regulatory compliance, data privacy, sustainability, and resource constraints, particularly in low- and middle-income settings. This paper argues that cultivating domain-AI bilingualism is essential for safe, effective, and equitable AI integration worldwide. It outlines the 5-layer AI system stack applied to health care, key reasons for hybrid expertise, and a practical 4-step pathway: awakening (recognizing AI's transformative role), intrepidity (courageously engaging foundational AI concepts), bilingualism (translating between clinical needs and AI capabilities), and visionary leadership (driving organizational and policy readiness). It outlines major barriers, targeted strategies, and recommendations for educators, institutions, and policymakers. By bridging domain knowledge with AI fluency, health professionals can direct-rather than be directed by-AI technologies, including emerging agentic systems, toward more precise, sustainable, and human-centered outcomes while mitigating risks. This hybrid capability represents a nonnegotiable competency for the health workforce for thriving in the post-2026 AI era.",
+    "id": "pubmed:42963137",
+    "title": "Is Large Language Model a New Hope for the Global South? A Rapid Bibliometric Synthesis of Artificial Intelligence in Anatomy Education.",
+    "abstract": "Artificial intelligence (AI), especially the recent proliferation of generative Large Language Models (LLMs), is transforming traditional anatomy education by introducing new teaching tools. However, the adoption of these cutting-edge technologies raises questions about global educational equity. It remains unclear whether AI will serve as a digital equalizer or further exacerbate marginalization. This rapid bibliometric synthesis aims to provide a comprehensive, data-driven overview of the \"Application of Artificial Intelligence in Anatomy Education\" (AAAE). We seek to map the intellectual landscape, detect structural and technological shifts, evaluate the geopolitical disparities, and provide corresponding references. A total of 85 consolidated records were retrieved from Web of Science and Scopus. These data constituted the whole panorama of AAAE. Bibliometrix and CiteSpace were utilized for static and dynamic mapping. A multidisciplinary expert panel validated the thematic clusters using Gwet's AC1 and the Normalized Herfindahl-Hirschman Index (HHI). Publications surged following ChatGPT's release, indicating a shift from specialized computer vision to the application of general-purpose LLMs. While high-income countries maintain leadership, AI could exert a \"democratizing effect\" on upper-middle-income countries, doubling their odds of publication compared to traditional anatomy. Six research frontiers and three research trajectories were captured, and corresponding implications for future researchers in the global south and north were presented. AAAE could be conducted using a stratified strategy: different expansions of AI technologies for pedagogy; leveraging commercial APIs to bypass infrastructure bottlenecks; and validating open-source models. Global equity critically demands cross-border collaboration and inclusive datasets.",
     "authors": [
-      "Seble Frehywot",
-      "Yianna Vovides"
+      "Yue Lin",
+      "Yusi Huang",
+      "Junming Zhou",
+      "Xiaoqing Liu"
     ],
     "published": "2026-Oct-30",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42962205/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42963137/",
     "pdf_url": null,
-    "doi": "10.2196/100954",
+    "doi": "10.1002/ca.70249",
     "citations": 0,
-    "venue": "JMIR AI",
+    "venue": "Clinical anatomy (New York, N.Y.)",
     "open_access": false,
-    "ai_summary": "AI boom-now supercharged by large language models and generative AI tools. Without domain guidance, AI risks producing biased, unsafe, or contextually irrelevant outputs . domain experts lacking AI fluency may underuse or misuse these technologies, missing opportunities to improve care quality, operational efficiency, and population health ."
+    "ai_summary": "Artificial intelligence (AI) is transforming traditional anatomy education by introducing new teaching tools . The adoption of these cutting-edge technologies raises questions about global educational equity . It remains unclear whether AI will serve as a digital equalizer or further exacerbate marginalization ."
   },
   {
-    "id": "pubmed:42962072",
-    "title": "Rethinking Health Care Regulatory Sandboxes Under the European Union AI Act.",
-    "abstract": "AI models have enabled substantial advances in health care. Since the entry into force of the European Union (EU) AI Act in 2024, these systems have become subject to a common regulatory framework in the EU intended to harmonize AI governance across all member states. One of the act's distinctive features is that it accommodates existing economic, technological, and regulatory differences among European countries by leaving certain implementation responsibilities to national authorities. This is evident in regulatory sandboxes, supervised environments for developing, testing, and validating AI systems before deployment. In this viewpoint, we provide a policy-oriented analysis of health care regulatory sandboxes under the EU AI Act and propose recommendations for their design. These recommendations address the need to document model compression techniques that may affect the classification of large high-risk systems above the 10",
+    "id": "pubmed:42963118",
+    "title": "Correction: Evaluation of the Applicability of Synthetic Data in the Development of Colorectal Cancer Survival Prediction Models: External Validation of Advanced Machine Learning Models Based on National Cancer Data Center Data.",
+    "abstract": "",
     "authors": [
-      "María Flores Ceballos",
-      "Fernando Cagigas Villar",
-      "Alberto López Tejerina"
+      "Yujeong Jang",
+      "Jae Hoon Kwon",
+      "Heeyong Kim",
+      "You-Jin Joung",
+      "Junho Nang",
+      "Chang Hyun Kim"
     ],
     "published": "2026-Oct-30",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42962072/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42963118/",
     "pdf_url": null,
-    "doi": "10.2196/98653",
+    "doi": "10.2196/110851",
     "citations": 0,
-    "venue": "JMIR AI",
+    "venue": "Journal of medical Internet research",
     "open_access": false,
-    "ai_summary": "EU AI Act in 2024 aims to harmonize AI governance across all member states . The act's distinctive features is that it accommodates existing economic, technological, and regulatory differences ."
+    "ai_summary": "No abstract available."
   },
   {
-    "id": "pubmed:42962069",
-    "title": "From Academic Integrity to Professional Formation in Generative AI-Supported Nursing Education: Integrative Review.",
-    "abstract": "The rapid integration of generative AI (GenAI) into nursing education has prompted widespread concern about academic integrity and assessment validity. However, this dominant discourse may obscure a more fundamental challenge: preparing nursing students for clinical practice environments where AI already mediates triage, diagnostics, documentation, and clinical decision-making. This integrative review examines how GenAI is conceptualized within the nursing education literature and investigates the extent to which current discourse addresses professional formation rather than academic compliance. Following Whittemore and Knafl's integrative review methodology, a systematic search of PubMed, Google Scholar, and SciSpace (Typeset) was conducted for literature published between January 2022 and February 2026. Two reviewers independently screened 456 records, with 119 papers meeting the inclusion criteria. The methodological quality of empirical studies was assessed using the Mixed Methods Appraisal Tool (MMAT). Corpus-level descriptive mapping quantified dominant themes and conceptual patterns, while an interpretive synthesis examined how GenAI was framed and the extent to which professional formation elements, including identity, moral agency, and clinical judgment, were addressed. Of the 119 unique studies analyzed, 84% (n=100) predominantly framed GenAI as a content-generation tool and academic integrity threat. Only 35.3% (n=42) conceptualized AI as a pedagogical tool, and a critical gap was identified in professional formation: identity formation was addressed in only 10% (n=12) of papers and moral agency in just 5% (n=6). Explicit acknowledgment that AI already routinely mediates frontline clinical decisions (eg, sepsis alerts and fall risk algorithms) in current practice settings was notably absent. The discourse emphasizes governance and faculty literacy, but sustained curricula addressing nurse identity in AI-mediated care remain underdeveloped. Current nursing education discourse predominantly frames AI as a writing tool and an academic integrity concern, failing to prepare students for the algorithmic practice environments they will inhabit. Nursing education must reframe AI as a professional formation issue, explicitly addressing how algorithms reshape clinical judgment, moral agency, and professional identity.",
+    "id": "pubmed:42963099",
+    "title": "Implementation and use of EHR-integrated large language model-generated draft responses in patient portal messaging: a 1-year prospective observational study in a tertiary hospital.",
+    "abstract": "",
     "authors": [
-      "Peter Hartin",
-      "Paul Baretta"
+      "Anne H Hoekman",
+      "Charlotte Mhht Bootsma-Robroeks",
+      "Tarannom Mehri",
+      "Job N Doornberg",
+      "Tom P van der Laan",
+      "Stephanie Ce Schuit",
+      "Rosanne C Schoonbeek"
     ],
     "published": "2026-Oct-30",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42962069/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42963099/",
     "pdf_url": null,
-    "doi": "10.2196/99284",
+    "doi": "10.1136/bmjopen-2026-119071",
     "citations": 0,
-    "venue": "JMIR nursing",
+    "venue": "BMJ open",
     "open_access": false,
-    "ai_summary": "The rapid integration of generative AI (GenAI) into nursing education has prompted widespread concern about academic integrity and assessment validity . But this dominant discourse may obscure a more fundamental challenge: preparing nursing students for clinical practice environments where AI already mediates triage, diagnostics, documentation, and clinical decision-making ."
+    "ai_summary": "No abstract available."
   },
   {
-    "id": "pubmed:42962066",
-    "title": "Medical Students' Perceptions of Retrieval-Augmented Generation and Large Language Models: Dyadic Interview and Exploratory Survey Study.",
-    "abstract": "There is evidence of rapid adoption of large language models (LLMs) in undergraduate medical education, with medical students using them to support their learning. This raises concerns about the accuracy of LLM-generated information that students are learning from. Retrieval-augmented generation (RAG), which grounds an LLM in curated materials, may be a strategy to improve the accuracy of this information. This study explored medical students' perceptions after using an online tool, NotebookLM, that uses RAG. A cohort of 284 second-year medical students at Bristol Medical School were encouraged to use NotebookLM over a period of 4 months (March 2025 to June 2025) to help them learn course content. Following this, volunteers were recruited to share their perspectives through interviews and a survey that was open for 4 months (June 2025 to September 2025). A total of 9 individuals participated: 2 through interviews and 7 through the survey. Qualitative data were analyzed using reflexive thematic analysis and supplemented by Likert scale data. NotebookLM was perceived as more reliable than standard LLM responses by interview participants, mainly due to the transparency of and control over information sources. Reliability ratings from survey participants were more mixed, but none rated unreliable. Students described it as an accessible, on-demand learning resource, which they perceived as improving efficiency and supporting self-directed study. They reported continued use of strategies to cross-check generated information. Participants demonstrated some awareness of ethical concerns, but it was unclear whether this altered their practice. In this small, exploratory study, students described NotebookLM as improving trust in LLM outputs while maintaining their flexibility. The findings suggest that RAG may be a strategy to support students who use LLMs. However, further research is needed to formally evaluate RAG vs standard LLMs, including the impact of RAG on accuracy, curricular alignment, and the ability of students to meet learning outcomes.",
+    "id": "pubmed:42963097",
+    "title": "Implementation of artificial intelligence in healthcare: a protocol for a phased mixed-methods multiple case study in the North Denmark Region.",
+    "abstract": "",
     "authors": [
-      "Rohin Athavale",
-      "Alexander Cresswell",
-      "Alice Huffman"
+      "Kathrine Hald",
+      "Maria Fagerström",
+      "Janus Laust Thomsen",
+      "Søren Paaske Johnsen",
+      "Per Nilsen"
     ],
     "published": "2026-Oct-30",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42962066/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42963097/",
     "pdf_url": null,
-    "doi": "10.2196/106157",
+    "doi": "10.1136/bmjopen-2026-124097",
     "citations": 0,
-    "venue": "JMIR formative research",
+    "venue": "BMJ open",
     "open_access": false,
-    "ai_summary": "A study explored medical students' perceptions after using an online tool, NotebookLM, that uses RAG . It raises concerns about the accuracy of LLM-generated information that students are learning from ."
+    "ai_summary": "No abstract available."
   },
   {
-    "id": "pubmed:42962141",
-    "title": "Stagewise evolution of nanovoids into nanotrenches on 4H-SiC under ultrafast laser irradiation.",
-    "abstract": "Ultrafast laser extreme structuring strategies provide an important capability of advancing nanoscale surface patterning by progressively exploiting near fields. These fields can be shaped in turn by the evolving surface structures, adapting to a dynamic topography. However, tracking the transition from an initial localized nanovoid to oriented nanotrenches with increasing pulse accumulation is essential to understanding the underlying physical processes. Here, we observe and clarify the stagewise evolution of nanopatterns on 4H-SiC by independently varying single-pulse energy and pulse number. Experiments varying the polarization of subsequent laser pulses show that initially isotropic nanovoids evolve into anisotropic nanotrenches elongated perpendicular to the subsequent pulse polarization. 3D finite-difference time-domain (FDTD) simulations based on representative experimental morphologies show that preformed structures redistribute the local electric field under subsequent irradiation. The simulated field distributions are consistent with the morphological features observed at later stages, supporting a stagewise structural feedback pathway.",
+    "id": "pubmed:42963056",
+    "title": "Deep Learning-Assisted Diagnosis of Middle Ear Diseases in Otoendoscopy Across Clinician Experience Levels: Retrospective Reader Study.",
+    "abstract": "Accurate diagnosis of middle ear diseases remains challenging due to the specialized nature of otoscopic interpretation and the global shortage of otolaryngologists. We aimed to evaluate the impact of a deep learning-based AI support system on the diagnostic performance of clinicians with varying levels of expertise, specifically focusing on its ability to bridge the gap between trainees and experts. In this retrospective reader study, a deep learning model (EfficientNet-B4) was developed using a large-scale dataset of 7335 endoscopic images. The model was designed for multi-class classification, simultaneously identifying primary categories (chronic otitis media, otitis media with effusion, or none [indicating the absence of the first two]) and secondary features (attic retraction, myringitis, otomycosis, and ventilation tube). To assess clinical impact, diagnostic performance was compared among 3 otology professors, 5 senior residents, and 5 junior residents using an independent clinical assessment set of 100 images. Participants performed diagnoses both with and without AI-generated predictions, with a time constraint of 1 minute per image to simulate real-world clinical pressure. In 5-fold cross-validation, the deep learning model achieved 94.8% accuracy for the primary classification. The stand-alone AI achieved diagnostic accuracies ranging from 94.0% to 99.0% in the clinical assessment set. AI support significantly enhanced diagnostic accuracy across all groups for primary classification, with improvements of 11.0% for otology professors, 28.8% for senior residents, and 32.2% for junior residents ( Our findings demonstrate that deep learning-based AI support substantially improves the diagnostic accuracy of middle ear diseases, particularly for less experienced clinicians. By narrowing the performance gap between trainees and experts, this system shows high potential as a valuable adjunct for clinical decision-making and medical education in otology.",
     "authors": [
-      "Lin Chen",
-      "Gao Chen",
-      "Guodong Zhang",
-      "Zhongyin Zhang",
-      "Razvan Stoian",
-      "Guanghua Cheng"
+      "Se Eun Yi",
+      "Jihye Chae",
+      "Keunwoo Park",
+      "Yeon Joo Choi",
+      "Jihoon Kweon",
+      "Joong Ho Ahn"
     ],
-    "published": "2026-Nov-01",
+    "published": "2026-Oct-30",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42962141/",
-    "pdf_url": "https://ujm.hal.science/ujm-05830893",
-    "doi": "10.1364/OL.616868",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42963056/",
+    "pdf_url": null,
+    "doi": "10.2196/96134",
     "citations": 0,
-    "venue": "Optics letters",
-    "open_access": true,
-    "ai_summary": "Ultrafast laser extreme structuring strategies provide an important capability of advancing nanoscale surface patterning by exploiting near fields . These fields can be shaped in turn by the evolving surface structures, adapting to a dynamic topography ."
+    "venue": "JMIR medical informatics",
+    "open_access": false,
+    "ai_summary": "A deep learning model was developed using a large-scale dataset of 7335 endoscopic images . The model was designed for multi-class classification, simultaneously identifying primary categories . To assess clinical impact, diagnostic performance was compared among 3 otology professors, 5 senior residents, and 5 junior residents ."
   },
   {
-    "id": "pubmed:42962123",
-    "title": "Physics-based multibranch hybrid deep learning-assisted resonance method for rapid and high-precision measurement of optical resonator loss.",
-    "abstract": "Conventional resonator-loss measurement methods face significant challenges in characterizing high-speed scanned, low-loss optical cavities, limiting their application in cavity alignment and optimization of high-performance ring laser gyroscopes (RLGs). A physics-guided multibranch hybrid algorithm-assisted Resonance Method is proposed for rapid and accurate loss measurement in optical resonators, while maintaining high consistency. For a ring cavity with a reference loss of 150.5 ppm, the deviation of the frequency-averaged prediction from the reference value remains below 2 ppm over modulation frequencies from 5 to 20 Hz, with an overall mean absolute error (MAE) of 3.29 ppm over all held-out test traces, and the MAE remains below 6.4 ppm even at modulation frequencies entirely excluded from fine-tuning. By analyzing the transmitted resonance signal during laser frequency scanning, the proposed algorithm enables real-time observation of the resonance response with a single-trace inference latency of 6.2 ms and accurate retrieval of cavity loss without fitting the resonant signal. This approach provides an efficient and practical solution for resonator-loss measurement and cavity alignment in high-performance RLGs, showing great potential for applications requiring rapid, high-precision optical resonator characterization.",
+    "id": "pubmed:42963029",
+    "title": "Heterogeneity of Treatment Effect of ABC Pathway-Based Care in Older Atrial Fibrillation: Insights from the mAFA-II and MIRACLE-AF Trials Using a Causal Machine Learning Approach.",
+    "abstract": "Integrated care based on the Atrial fibrillation Better Care (ABC) pathway improves outcomes in patients with atrial fibrillation (AF), but whether treatment effects differ across older patients remains unclear. To evaluate heterogeneity of treatment effect (HTE) of ABC pathway-based care and assess its transportability across healthcare settings using causal machine learning (ML). Individual participant data from the cluster-randomised mAFA-II and MIRACLE-AF trials were analysed, including 3,209 patients aged ≥65 years. Three causal ML models were developed in mAFA-II and externally validated in MIRACLE-AF. The primary outcome was a composite of all-cause mortality, ischaemic stroke, intracranial haemorrhage, heart failure, acute coronary syndrome, or major bleeding. The uplift random forest demonstrated the best performance and identified meaningful HTE. In the mAFA-II testing cohort, ABC pathway-based care was associated with a lower risk of the primary outcome in patients predicted to benefit, whereas no benefit and possible harm were observed in those predicted to derive harm (P-interaction=0.002). In external validation, benefit was preserved in the predicted benefit group but not in the predicted harm group, although treatment discrimination was attenuated. Patients predicted to derive limited benefit had greater clinical complexity, including higher comorbidity burden and CHA ABC pathway-based integrated care demonstrates clinically meaningful treatment heterogeneity among older patients with AF. These findings support more personalised implementation of integrated care and highlight the potential of causal ML to guide precision management in AF. MAFA-II trial (ChiCTR-OOC-17014138 || http://www.chictr.org.cn/, registered on 26 December 2017), MIRACLE-AF trial (NCT04622514 || https://clinicaltrials.gov/, registered on 10 November 2020).",
     "authors": [
-      "Hao Cui",
-      "Dakun Yu",
-      "Xiang Liu",
-      "Jing Wang",
-      "Tianming Wang",
-      "Sheng Zhou",
-      "Bincheng Li"
+      "Yang Chen",
+      "Qinkai Yu",
+      "Ying Gue",
+      "Yanda Meng",
+      "Yalin Zheng",
+      "Mingfang Li",
+      "Yutao Guo",
+      "Minglong Chen",
+      "Gregory Y H Lip"
     ],
-    "published": "2026-Nov-01",
+    "published": "2026-Oct-30",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42962123/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42963029/",
     "pdf_url": null,
-    "doi": "10.1364/OL.613913",
+    "doi": "10.1016/j.hrthm.2026.10.059",
     "citations": 0,
-    "venue": "Optics letters",
+    "venue": "Heart rhythm",
     "open_access": false,
-    "ai_summary": "A physics-guided multibranch hybrid algorithm-assisted Resonance Method is proposed for rapid and accurate loss measurement in optical resonators . The proposed algorithm enables real-time observation of the resonance response with a single-trace inference latency of 6.2 ms ."
+    "ai_summary": "Integrated care based on the Atrial fibrillation Better Care (ABC) pathway improves outcomes in patients with atrialfibrillation (AF) But whether treatment effects differ across older patients remains unclear ."
   },
   {
-    "id": "pubmed:42962101",
-    "title": "Single-shot signed OAM decoding by symmetry-broken propagation of obstructed circular Airy vortex beams.",
-    "abstract": "Direct intensity measurements of rotationally symmetric pure CAVB modes cannot distinguish opposite OAM charges. We numerically demonstrate that an off-axis opaque stop breaks rotational symmetry and converts the phase handedness of a circular Airy vortex beam into a charge-dependent near-focus intensity pattern. After normalizing every image to the same intensity-weighted radius, a compact convolutional neural network distinguishes ten signed states, ",
+    "id": "pubmed:42963027",
+    "title": "Dynamic structural adaptation of a conserved interaction hotspot in the respiratory syncytial virus fusion glycoprotein F.",
+    "abstract": "Protein interaction sites must maintain structural integrity while accommodating conformational fluctuations and sequence perturbations. Molecular determinants that distinguish locally adaptable residues from structurally constrained positions within conserved interfaces remain incompletely understood. Here, we investigate this problem using the prefusion respiratory syncytial virus fusion glycoprotein F as a model system, focusing on a conserved interaction hotspot proximal to the MEDI8897-binding interface. An integrated computational framework combining evolutionary conservation, structure-based energetic analysis, residue interaction networks, and molecular dynamics simulations was used to characterize mutation-dependent structural responses. Analysis of 1848 RSV F sequences revealed strong conservation of the CPINKC hotspot comprising C69, P205, I206, N208, K209, and C212. Despite conservation, saturation mutagenesis and structural analysis revealed pronounced heterogeneity in calculated energetic response to substitution. P205R and N208R produced highly unfavorable calculated energetic effects, whereas I206R exhibited an approximately neutral energetic response. Residue interaction network analysis identified I206 as topologically central residue with the highest betweenness and closeness centrality within the hotspot. Aggregate MD sampling comprised three independent 500-ns simulations for each of seven systems, yielding 10.5 μs of total simulation time. All systems retained the overall prefusion architecture over the simulated timescale but exhibited distinct local and interprotomer responses. N208R produced the strongest local perturbation, including increased hotspot flexibility and reduced interprotomer contact occupancy. In contrast, P205R maintained restrained local dynamics despite its energetic penalty, whereas I206R preserved a broadly wild-type-like dynamic profile. These findings indicate that energetic cost, residue interaction topology, and conformational dynamics provide complementary information for characterizing mutation-induced structural adaptation.",
     "authors": [
-      "Ziyuan Liu",
-      "Huangwei Li",
-      "Lu Zhou",
-      "Yujia Dai",
-      "Guoquan Zhou"
+      "Rahul Kaushik",
+      "Suyong Re"
     ],
-    "published": "2026-Nov-01",
+    "published": "2026-Oct-30",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42962101/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42963027/",
     "pdf_url": null,
-    "doi": "10.1364/OL.615336",
+    "doi": "10.1016/j.ijbiomac.2026.155083",
     "citations": 0,
-    "venue": "Optics letters",
+    "venue": "International journal of biological macromolecules",
     "open_access": false,
-    "ai_summary": "A compact convolutional neural network distinguishes ten signed states . We numerically demonstrate that an off-axis opaque stop breaks rotational symmetry and converts the phase handedness of a circular Airy vortex beam into a charge-dependent near-focus intensity pattern ."
+    "ai_summary": "Protein interaction sites must maintain structural integrity while accommodating conformational fluctuations and sequence perturbations . Here, we investigate this problem using the prefusion respiratory syncytial virus fusion glycoprotein F as a model system ."
   },
   {
-    "id": "pubmed:42962090",
-    "title": "Tailoring 3D non-Rayleigh speckles via physics-informed neural networks.",
-    "abstract": "Optical speckles, a disordered photonic phenomenon that originates from the interference of multiple scattered coherent waves, typically obey Rayleigh statistics. Beyond this classical regime, featuring customizable statistical properties and high-order correlations, non-Rayleigh speckles present potential in both fundamental and applied research. Here, we introduce a physics-informed neural network for designing three-dimensional non-Rayleigh speckle fields. As a proof of concept, we experimentally realize volumetric sub-Rayleigh and propagation-persistent super-Rayleigh speckles on this versatile framework. Our work paves a novel, to the best of our knowledge, way for statistical light manipulation and engineering implementation.",
+    "id": "pubmed:42963007",
+    "title": "Multidimensional EEG Feature Fusion and Interpretable Machine Learning for Identifying Cognitive Impairment in Depression.",
+    "abstract": "Cognitive impairment is a clinically important dimension of depression that remains insufficiently assessed using objective measures. Existing assessments largely rely on scale-based screening, whereas EEG-based computational studies are often limited by the use of single-feature representations, window-level data leakage, class imbalance, and limited interpretability. In this study, we developed an interpretable subject-level machine learning framework based on resting-state EEG to identify cognitive impairment in patients with depression and investigate potential electrophysiological markers. A total of 142 patients with depression were categorized as having depression without cognitive impairment (D-NCI) or depression with cognitive impairment (D-CI) based on their Montreal Cognitive Assessment (MoCA) scores. Using 16-channel resting-state EEG recordings, phase lag index, relative power, and fuzzy entropy features were extracted across five frequency bands to characterize functional connectivity, spectral activity, and signal complexity. Five-fold stratified cross-validation at the subject level, ensemble undersampling, and a two-stage SHAP-based feature selection strategy implemented within the training procedure were used to reduce the risk of data leakage, mitigate class imbalance, and improve interpretability. The final model achieved an accuracy of 80.39 ± 7.91%, sensitivity of 83.29 ± 8.30%, specificity of 73.89 ± 15.75%, F1-score of 85.67 ± 5.91%, and AUC of 83.74 ± 9.63%. The retained features were mainly distributed in the beta1 and beta2 bands and reflected alterations in interregional phase synchronization, local oscillatory activity, and signal complexity. These findings support the feasibility of an interpretable EEG-based framework with subject-level data partitioning to assist in identifying cognitive impairment in depression.",
     "authors": [
-      "Ze-Huan Zheng",
-      "Jin-Hui Chen"
+      "Bin Zhou",
+      "Xinzhe Wang",
+      "Tianyu Wang",
+      "Jilong Shi",
+      "Boyi Huang",
+      "Yuebing Zhang",
+      "Gang Li",
+      "Xiaosong Cao"
     ],
-    "published": "2026-Nov-01",
+    "published": "2026-Oct-30",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42962090/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42963007/",
     "pdf_url": null,
-    "doi": "10.1364/OL.614235",
+    "doi": "10.1016/j.brainresbull.2026.112195",
     "citations": 0,
-    "venue": "Optics letters",
+    "venue": "Brain research bulletin",
     "open_access": false,
-    "ai_summary": "Optical speckles are a disordered photonic phenomenon that originates from the interference of multiple scattered coherent waves . They typically obey Rayleigh statistics, so they can be used to create non-Rayleigh speckle fields . They can be designed to create a"
+    "ai_summary": "Cognitive impairment is a clinically important dimension of depression that remains insufficiently assessed using objective measures . A total of 142 patients with depression were categorized as having depression without cognitive impairment (D-NCI) or depression with cognitive impairment ."
+  },
+  {
+    "id": "pubmed:42963006",
+    "title": "Sex-Specific Classification Models for Cognitive Function in Cerebral Small Vessel Disease Based on MRE and Machine Learning.",
+    "abstract": "Early identification of cognitive impairment is crucial for preventing dementia progression. Magnetic resonance elastography (MRE), combined with traditional imaging markers, provides a novel dimension for cognitive assessment in cerebral small vessel disease (CSVD). To develop machine learning-based classification models for cognitive function in CSVD patients by integrating MRE brain mechanical parameters, white matter hyperintensity burden, and clinical indicators, and to analyze sex differences in model performance. 100 CSVD subjects underwent MRI scanning including FLAIR for white matter hyperintensities, T1WI for hippocampal atrophy assessment, and MRE for measuring brain mechanical properties across 12 regions. Data were split 8:2 (train:test, stratified); within the training set only, candidate features were ranked by Spearman correlation with MoCA score and a final 13-feature subset was selected by Recursive Feature Elimination (RFE). Subjects were stratified by sex (all-sex: n=100; male: n=42; female: n=58), and 10 machine learning models were compared for each group using 5-fold cross-validation (cvAUC), with SHAP analysis used to interpret feature importance. A 13-feature subset was identified, predominantly MRE stiffness parameters. Naive Bayes performed best in the overall cohort (cvAUC=0.704, 95% CI 0.652-0.756), Extra Trees in males (cvAUC=0.828, 95% CI 0.635-1.000), and XGBoost in females (cvAUC=0.617, 95% CI 0.370-0.863). The female subgroup's confidence interval spanned chance-level discrimination. Using the same feature set, classification accuracy was numerically higher in males than in females. SHAP analysis showed atrophy and white matter hyperintensity burden markers dominated in males, whereas right angular gyrus stiffness and other MRE parameters dominated in the overall cohort and in females. Using an identical feature set and modeling pipeline, machine learning models integrating MRE showed markedly different performance between sexes, indicating that a single sex-agnostic model does not generalize equally to men and women. This performance gap, together with divergent SHAP patterns, underscores the need for sex-stratified modeling in MRE-based cognitive screening for CSVD.",
+    "authors": [
+      "Xiu Chen",
+      "Yingjie Kang",
+      "Mei Yang",
+      "Xuying Zhu",
+      "Jiejing Zhang",
+      "Yanwen Huang",
+      "Jie Yuan",
+      "Wenli Tan"
+    ],
+    "published": "2026-Oct-30",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42963006/",
+    "pdf_url": null,
+    "doi": "10.1016/j.brainresbull.2026.112189",
+    "citations": 0,
+    "venue": "Brain research bulletin",
+    "open_access": false,
+    "ai_summary": "Magnetic resonance elastography (MRE), combined with traditional imaging markers, provides a novel dimension for cognitive assessment in cerebral small vessel disease (CSVD)"
+  },
+  {
+    "id": "pubmed:42962990",
+    "title": "Preparing for Next-Generation Vaccines: Breakthrough Invasive Pneumococcal Disease Patterns Post-PCV13 and Post-PPSV23 in Australia.",
+    "abstract": "Pneumococcal conjugate (PCV) and polysaccharide (PPSV) vaccines have reduced invasive pneumococcal disease (IPD) in Australia. We evaluated breakthrough IPD following PCV13 and PPSV23 immunization (2009-2023) to inform next-generation vaccine strategies. We analyzed laboratory-confirmed IPD cases from the National Notifiable Diseases Surveillance System to estimate the vaccine-type proportion among vaccinated IPD cases (those meeting the minimum age-specific dose threshold), whose vaccine-type infections constitute breakthrough IPD. Temporal trends were assessed using logistic regression, and subgroup differences using chi-square or Fisher's tests. Random Forest and Gradient Boosting models with five-fold cross-validation classified IPD due to PPSV23-type serotypes. Across 25,643 IPD cases, annual notifications increased while PCV13-type proportions declined. PCV13-type proportions were 19.4% in infants and 37.5% at 2-14 years; PPSV23-type proportions were 47.5% at 15-69 and 48.4% at ≥70 years, with serotype 3 the largest contributor. Vaccinated individuals showed lower vaccine-type proportions than non- or partially vaccinated cases across age groups. Vaccine-type proportions were highest for pneumonia and in the Northern Territory, with greatest residual burden among older adults and Indigenous Australians. Machine-learning models classifying PPSV23-type IPD (accuracy ≈92%) identified vaccination-related variables, clinical presentation, and year of infection as key predictors; excluding these variables reduced AUC from 0.97-0.98 to 0.69. PCV13-type proportions declined over time, most markedly in infants, whereas PPSV23-type proportions remained persistently high in older adults and Indigenous Australians despite higher documented vaccination. Serotype 3, included in all current conjugate formulations, dominated breakthrough for both vaccines, and in descriptive comparisons limited by small subgroup sizes, neither additional doses nor sequential vaccination was associated with lower vaccine-type proportions.",
+    "authors": [
+      "Shayan Sharifi",
+      "Stephen I Pelton",
+      "Inci Yildirim",
+      "Teena Chopra",
+      "Melike Yildirim"
+    ],
+    "published": "2026-Oct-30",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42962990/",
+    "pdf_url": null,
+    "doi": "10.1016/j.ijid.2026.109215",
+    "citations": 0,
+    "venue": "International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases",
+    "open_access": false,
+    "ai_summary": "Pneumococcal conjugate (PCV) and polysaccharide (PPSV) vaccines have reduced invasive pneumococcal disease (IPD) in Australia . We evaluated breakthrough IPD following PCV13 and PPSV23 immunization (2009-2023)"
   },
   {
     "id": "openalex:W7118880740",
@@ -1693,28 +1757,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "arxiv:2610.40647v1",
-    "title": "Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers",
-    "abstract": "Pixel-space generative Transformers typically use one token per image patch, so capturing finer detail requires more tokens and makes global attention increasingly expensive. We observe that finer detail does not necessarily require more global communication: low-frequency structure benefits from global exchange, while high-frequency detail can be modeled locally. Based on this insight, we introduce SpecSlot, a pixel-space rectified-flow Transformer that decouples output detail from the length of the global attention sequence. SpecSlot expands each spatial anchor into multiple slots, each assigned a disjoint band of DCT coefficients; this separates anchor density from spectral subdivision. Only the lowest-frequency slot from each anchor participates in global attention, while all slots interact locally. This allows the model to increase spectral detail without enlarging the global sequence. A spatial head further adds a local correction to the spectral prediction, while the generative state, target, and loss remain in pixel space. On ImageNet-256, SpecSlot achieves a comparable final FID to a FLOPs-matched JiT control while converging faster. On ImageNet-512, it improves FID by 2.84 over the control with 3.9% fewer FLOPs, and comes within only 0.69 FID of JiT-B/16 at 38.2% lower cost. On text-to-image generation, SpecSlot surpasses JiT-B/8 on DPG-Bench by 1.06 at 40.6% lower forward cost.",
-    "authors": [
-      "Jiongfan Yang",
-      "Weichen Fan",
-      "Haiwen Diao",
-      "Zhongang Cai",
-      "Ziwei Liu"
-    ],
-    "published": "2026-10-29",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2610.40647v1",
-    "pdf_url": "https://arxiv.org/pdf/2610.40647v1",
-    "doi": null,
-    "citations": 0,
-    "venue": "arXiv preprint",
-    "open_access": true,
-    "ai_summary": "Pixel-space generative Transformers typically use one token per image patch, so capturing finer detail requires more tokens and makes global attention increasingly expensive . We observe that finer detail does not necessarily require more global communication ."
-  },
-  {
     "id": "arxiv:2610.40649v1",
     "title": "Rethinking Neural Thickets Without Weight Perturbations",
     "abstract": "The Neural Thickets hypothesis posits that pretrained language models lie in dense neighborhoods of task-specific experts in weight space, which random Gaussian perturbations can uncover. We reproduce the reported gains, but show that they do not require this geometric explanation. Perturbing a single decoder block already recovers much of the improvement, while keeping the model entirely frozen and adding a random bias to its output logits matches or exceeds full-weight perturbations on most reasoning tasks. This suggests an alternative explanation based on output diversity, validation-based selection, and voting. We formalize this view as Perturb-Select-Vote (PSV), a general procedure that generates perturbed predictors, selects high-performing members on a small validation set, and aggregates their predictions. This interpretation connects Neural Thickets to established inference-time methods, including sampling, self-consistency, and verifier-guided selection. A first-order analysis further shows that small weight perturbations act primarily through their induced logit shifts. We extend this analysis to vision, where logit PSV substantially improves performance under domain shift, including on Earth observation, while full-weight perturbations provide little additional benefit. Together, these results suggest that the gains attributed to nearby weight-space experts can instead be obtained through output diversity, selection, and voting. Logit PSV realizes these benefits with a fully frozen model, providing a simple, training-free alternative to full-weight perturbation ensembles across language and vision.",
@@ -1735,25 +1777,6 @@
     "venue": "arXiv preprint",
     "open_access": true,
     "ai_summary": "The Neural Thickets hypothesis posits that pretrained language models lie in dense neighborhoods of task-specific experts in weight space . We reproduce the reported gains, but show that they do not require this geometric explanation . Perturbing a single decoder block already recovers much of the improvement, while keeping the model entirely frozen ."
-  },
-  {
-    "id": "arxiv:2610.40644v1",
-    "title": "Adaptive Scenario Generation for KL-DRO Around a Learned Density Model",
-    "abstract": "Distributionally robust optimization (DRO) hedges data-driven two-stage stochastic programs against error in the distribution estimated from a finite record, and standard ambiguity sets differ in how they treat realizations absent from that record. A divergence ball around the empirical distribution contains only reweightings of the record, whereas a transport ball also contains distributions supported off the record, including on realizations the data-generating process cannot produce, against which the decision is then hedged as well. We instead propose a Kullback-Leibler (KL) ball centered at a density model fitted to the record, the learned nominal, which lets the adversary up-weight costly unobserved realizations in proportion to the probability the model assigns them. Solving the resulting problem poses a second difficulty, because it can accommodate only a few scenarios, and an independent sample of that size is likely to omit the rare realizations on which the worst case concentrates. We therefore build the scenario set adaptively, alternating between solving the finite problem and drawing new realizations from the learned nominal, steered toward the worst case at the current decision, with importance weights that correct the draws back to the model. On a multi-item newsvendor problem and a capacity expansion problem on realistic grid data, centering the ball at the learned nominal rather than at the record lowers cost under distribution shift, at comparable in-distribution cost, when the record is scarce and the model class captures structure that lets it extrapolate beyond the record. The advantage fades as the record grows or as the shift departs from the structure the model has learned.",
-    "authors": [
-      "Aron Brenner",
-      "Saurabh Amin"
-    ],
-    "published": "2026-10-29",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2610.40644v1",
-    "pdf_url": "https://arxiv.org/pdf/2610.40644v1",
-    "doi": null,
-    "citations": 0,
-    "venue": "arXiv preprint",
-    "open_access": true,
-    "ai_summary": "Distributionally robust optimization (DRO) hedges data-driven two-stage stochastic programs against error in the distribution estimated from a finite record . A divergence ball around the empirical distribution contains only reweightings of the record, whereas a transport ball also contains distributions supported off the record ."
   },
   {
     "id": "arxiv:2610.40655v1",
@@ -1817,6 +1840,47 @@
     "venue": "arXiv preprint",
     "open_access": true,
     "ai_summary": "Small edits can be nuanced and expressive, with different choices serving different creative goals . These small, detailed edits are slow and tedious to make in standard editing tools ."
+  },
+  {
+    "id": "arxiv:2610.40644v1",
+    "title": "Adaptive Scenario Generation for KL-DRO Around a Learned Density Model",
+    "abstract": "Distributionally robust optimization (DRO) hedges data-driven two-stage stochastic programs against error in the distribution estimated from a finite record, and standard ambiguity sets differ in how they treat realizations absent from that record. A divergence ball around the empirical distribution contains only reweightings of the record, whereas a transport ball also contains distributions supported off the record, including on realizations the data-generating process cannot produce, against which the decision is then hedged as well. We instead propose a Kullback-Leibler (KL) ball centered at a density model fitted to the record, the learned nominal, which lets the adversary up-weight costly unobserved realizations in proportion to the probability the model assigns them. Solving the resulting problem poses a second difficulty, because it can accommodate only a few scenarios, and an independent sample of that size is likely to omit the rare realizations on which the worst case concentrates. We therefore build the scenario set adaptively, alternating between solving the finite problem and drawing new realizations from the learned nominal, steered toward the worst case at the current decision, with importance weights that correct the draws back to the model. On a multi-item newsvendor problem and a capacity expansion problem on realistic grid data, centering the ball at the learned nominal rather than at the record lowers cost under distribution shift, at comparable in-distribution cost, when the record is scarce and the model class captures structure that lets it extrapolate beyond the record. The advantage fades as the record grows or as the shift departs from the structure the model has learned.",
+    "authors": [
+      "Aron Brenner",
+      "Saurabh Amin"
+    ],
+    "published": "2026-10-29",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2610.40644v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.40644v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "Distributionally robust optimization (DRO) hedges data-driven two-stage stochastic programs against error in the distribution estimated from a finite record . A divergence ball around the empirical distribution contains only reweightings of the record, whereas a transport ball also contains distributions supported off the record ."
+  },
+  {
+    "id": "arxiv:2610.40647v1",
+    "title": "Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers",
+    "abstract": "Pixel-space generative Transformers typically use one token per image patch, so capturing finer detail requires more tokens and makes global attention increasingly expensive. We observe that finer detail does not necessarily require more global communication: low-frequency structure benefits from global exchange, while high-frequency detail can be modeled locally. Based on this insight, we introduce SpecSlot, a pixel-space rectified-flow Transformer that decouples output detail from the length of the global attention sequence. SpecSlot expands each spatial anchor into multiple slots, each assigned a disjoint band of DCT coefficients; this separates anchor density from spectral subdivision. Only the lowest-frequency slot from each anchor participates in global attention, while all slots interact locally. This allows the model to increase spectral detail without enlarging the global sequence. A spatial head further adds a local correction to the spectral prediction, while the generative state, target, and loss remain in pixel space. On ImageNet-256, SpecSlot achieves a comparable final FID to a FLOPs-matched JiT control while converging faster. On ImageNet-512, it improves FID by 2.84 over the control with 3.9% fewer FLOPs, and comes within only 0.69 FID of JiT-B/16 at 38.2% lower cost. On text-to-image generation, SpecSlot surpasses JiT-B/8 on DPG-Bench by 1.06 at 40.6% lower forward cost.",
+    "authors": [
+      "Jiongfan Yang",
+      "Weichen Fan",
+      "Haiwen Diao",
+      "Zhongang Cai",
+      "Ziwei Liu"
+    ],
+    "published": "2026-10-29",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2610.40647v1",
+    "pdf_url": "https://arxiv.org/pdf/2610.40647v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "Pixel-space generative Transformers typically use one token per image patch, so capturing finer detail requires more tokens and makes global attention increasingly expensive . We observe that finer detail does not necessarily require more global communication ."
   },
   {
     "id": "arxiv:2610.40643v1",
@@ -2113,7 +2177,7 @@
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "TextSeal2 is a distortion-free watermark for large language models that keeps its signal under speculative decoding . tokens that replace rejected drafts remain watermarked with the same keys . It preserves output diversity and adds no measurable latency ."
+    "ai_summary": "TextSeal2 is a distortion-free watermark for large language models that keeps its signal under speculative decoding . tokens that replace rejected drafts remain watermarked with the same keys . It preserves output diversity and adds no measurable inference latency ."
   },
   {
     "id": "arxiv:2610.40611v1",
@@ -2788,46 +2852,5 @@
     "venue": "arXiv preprint",
     "open_access": true,
     "ai_summary": "VLA models learn diverse language-conditioned behaviors as training data scales . BURGER is a language- Conditioned robotic drawing benchmark . It uses 28,200 simulated demonstrations spanning 282 drawing tasks ."
-  },
-  {
-    "id": "pubmed:42962202",
-    "title": "Decoding Lung Cancer with Artificial Intelligence: A Path to Personalized Diagnostics and Therapy.",
-    "abstract": "Non-small-cell lung cancer (NSCLC) represents the majority of lung cancer cases and remains the leading cause of cancer-related mortality worldwide. Early detection, accurate staging, and individualized therapy are crucial for improving patient survival. Recent advances in artificial intelligence (AI) have transformed NSCLC care through the automated analysis of imaging, pathology, and molecular datasets. Deep learning (DL) and machine learning (ML) models, particularly convolutional neural networks (CNNs), have demonstrated high accuracy in tumor detection, histologic classification, biomarker prediction (PD-L1, EGFR, KRAS) and prognosis assessment. Integration of the AI with whole slide imaging (WSI), computed tomography (CT), PET/CT and liquid biopsies enables non-invasive tumor characterization, early recurrence detection and prediction of treatment response. Multimodal AI approaches that combine imaging, genomic, and clinical data offer superior patient stratification and personalized treatment planning compared with traditional methods. Beyond diagnosis, AI facilitates therapeutic development through radiomics based nodule classification, multi-omics data interpretation, and drug discovery. Radiomics, in particular, extracts quantitative imaging biomarkers that capture tumor heterogeneity beyond human perception. The AI further supports clinical decision-making in surgery, radiotherapy, and systemic therapy, enhancing workflow efficiency. Despite challenges in data quality, interpretability, and clinical adoption, AI holds significant promise for advancing precision oncology and improving outcomes in NSCLC management.",
-    "authors": [
-      "Tafadzwa Carl Masuka",
-      "Cecileya Jasmin Meshak Dhanashekaran",
-      "Vinod Prabhu Venugopal"
-    ],
-    "published": "2026",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42962202/",
-    "pdf_url": null,
-    "doi": "10.1615/JEnvironPatholToxicolOncol.2026061968",
-    "citations": 0,
-    "venue": "Journal of environmental pathology, toxicology and oncology : official organ of the International Society for Environmental Toxicology and Cancer",
-    "open_access": false,
-    "ai_summary": "Non-small-cell lung cancer (NSCLC) represents the majority of lung cancer cases . Early detection, accurate staging, and individualized therapy are crucial for improving patient survival ."
-  },
-  {
-    "id": "pubmed:42962059",
-    "title": "An integrated machine learning framework for cerebral aneurysm rupture status classification using clinical, morphological, and hemodynamic features.",
-    "abstract": "Accurate assessment of cerebral aneurysm rupture status remains a critical challenge in neurovascular research due to the complex interplay between geometric, hemodynamic, and clinical factors. In this study, we developed and evaluated a machine-learning framework for retrospective rupture-status classification in 708 patient-specific aneurysms by integrating 55 predictors: three clinical variables, 35 morphological descriptors, and 17 hemodynamic parameters derived from computational fluid dynamics (CFD) simulations. Blood flow was modeled as incompressible laminar flow with a non-Newtonian Carreau-Yasuda viscosity model to capture shear-thinning behavior in cerebral arteries. We compared 13 supervised classifiers, 10 unsupervised clustering approaches, and two neural-network models. Model training and hyperparameter optimization were performed using stratified five-fold cross-validation within a 90/10 training-testing split, with performance evaluated using ROC-AUC, precision, recall, specificity, and F1-score. Among the evaluated models, BaggingSVM achieved the strongest discrimination on the independent test set (ROC-AUC = 0.78), followed by SVM (0.75) and Gaussian Process (0.75). A scenario comparison using BaggingSVM showed that the combined feature set improved classification performance (AUC = 0.78) compared with clinical+morphological features (AUC = 0.76) and clinical+hemodynamical features (AUC = 0.71) settings. Sensitivity-oriented threshold tuning increased recall for ruptured aneurysm detection, reaching values up to 0.96 for BaggingSVM. Permutation feature importance analysis revealed consistent dominance of ellipticity index, low shear area ratio (LSAR), aneurysm location, irregularity and aneurysm angle across models. a small subset of variables contributes disproportionately to rupture-status classification, although the reduced-feature analysis indicates that lower-ranked predictors collectively provide additional discriminatory information. The proposed framework demonstrates the value of integrating physiologically informed hemodynamic modeling with machine learning to improve data-driven rupture status assessment and provides a scalable foundation for future clinical decision-support studies in cerebrovascular diagnostics.",
-    "authors": [
-      "Mostafa Zakeri",
-      "Amirhossein Atef",
-      "Mohammad Aziznia",
-      "Azadeh Jafari"
-    ],
-    "published": "2026",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42962059/",
-    "pdf_url": null,
-    "doi": "10.1371/journal.pone.0360923",
-    "citations": 0,
-    "venue": "PloS one",
-    "open_access": false,
-    "ai_summary": "Accurate assessment of cerebral aneurysm rupture status remains a critical challenge in neurovascular research . In this study, we developed and evaluated a machine-learning framework for retrospective rupture-status classification in 708 patient-specificAneurysms . We compared 13 supervised classifiers, 10 unsupervised clustering approaches, and two neural"
   }
 ]
