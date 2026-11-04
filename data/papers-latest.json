@@ -124,22 +124,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.3998/mjcsl.11105",
-    "title": "Title Pending 11105",
-    "abstract": "",
-    "authors": [],
-    "published": "2036",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.3998/mjcsl.11105",
-    "pdf_url": null,
-    "doi": "10.3998/mjcsl.11105",
-    "citations": 0,
-    "venue": "Michigan Journal of Community Service Learning",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
     "id": "crossref:10.3998/mjcsl.8122",
     "title": "Title Pending 8122",
     "abstract": "",
@@ -150,6 +134,22 @@
     "url": "https://doi.org/10.3998/mjcsl.8122",
     "pdf_url": null,
     "doi": "10.3998/mjcsl.8122",
+    "citations": 0,
+    "venue": "Michigan Journal of Community Service Learning",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "crossref:10.3998/mjcsl.11105",
+    "title": "Title Pending 11105",
+    "abstract": "",
+    "authors": [],
+    "published": "2036",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.3998/mjcsl.11105",
+    "pdf_url": null,
+    "doi": "10.3998/mjcsl.11105",
     "citations": 0,
     "venue": "Michigan Journal of Community Service Learning",
     "open_access": false,
@@ -352,24 +352,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.67805/jgrms.v2i9.156",
-    "title": "A Review of Phishing Detection Techniques Using Machine Learning and Natural Language Processing",
-    "abstract": "<jats:p>The goal of phishing attacks, which rank high among cyber risks, is to steal sensitive information (such as login passwords, financial data, and more) from unsuspecting people and companies. Blacklist, whitelist, rule, heuristic, and signature-based detection methods are no longer suitable due to the rising sophistication of phishing schemes. As a result, ML, DL, and NLP are rapidly becoming into effective instruments for detecting both well-known and brand-new forms of phishing. Background on phishing assaults, old ways of detecting them, and recent advances in intelligent phishing detection are all included in this article. It delves into several machine learning algorithms such as decision tree, LSTM, ANN, CNN, and RNN, as well as deep learning models like KNN, NB, and SVM. Also, natural language processing methods including word embedding, sentiment analysis, text categorization, and tokenization are explored with the aim of detecting phishing material. Presenting a comprehensive, precise, and up-to-the-minute phishing detection system is the ultimate goal of this study, which focuses on machine learning frameworks, performance indicators, present obstacles, and future research directions.</jats:p>",
-    "authors": [
-      "Dr. Sunita Dixit"
-    ],
-    "published": "2029",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.67805/jgrms.v2i9.156",
-    "pdf_url": null,
-    "doi": "10.67805/jgrms.v2i9.156",
-    "citations": 0,
-    "venue": "Journal of Global Research in Multidisciplinary Studies(JGRMS)",
-    "open_access": false,
-    "ai_summary": "ML, DL, and NLP are rapidly becoming into effective instruments for detecting both well-known and brand-new forms of phishing ."
-  },
-  {
     "id": "crossref:10.70239/arsu.2026.t85.n3.07",
     "title": "HYBRID NETWORK INTRUSION DETECTION SYSTEM BASED ON SIGNATURE ANALYSIS AND MACHINE LEARNING METHODS",
     "abstract": "<jats:p>In the context of increasing complexity of modern network infrastructures and the growing number of cyberattacks, improving the effectiveness of intrusion detection systems is a highly relevant task. The aim of this work is to develop and investigate a hybrid approach to network attack detection based on a combination of signature-based analysis and intelligent machine learning methods.  The research methods include analysis of requirements for anomaly detection systems, comparative analysis of existing solutions, design of a hybrid system architecture, and experimental modeling using multiclass classification of network traffic. The results demonstrate that integrating a neural model with a traditional detection system improves attack detection coverage and reduces the number of false positives.  The practical significance of the study lies in the possibility of deploying the proposed architecture in real corporate networks, while the theoretical significance consists in substantiating the effectiveness of a hybrid approach to traffic analysis. Future research directions include adaptive model training and expansion of the range of detectable attacks.</jats:p>",
@@ -390,6 +372,24 @@
     "venue": "Научный журнал \"Вестник Актюбинского регионального университета имени К. Жубанова\"",
     "open_access": false,
     "ai_summary": "The aim of this work is to develop and investigate a hybrid approach to network attack detection based on signature-based analysis and intelligent machine learning methods . The practical significance of the study lies in the possibility of deploying the proposed architecture in real corporate networks ."
+  },
+  {
+    "id": "crossref:10.67805/jgrms.v2i9.156",
+    "title": "A Review of Phishing Detection Techniques Using Machine Learning and Natural Language Processing",
+    "abstract": "<jats:p>The goal of phishing attacks, which rank high among cyber risks, is to steal sensitive information (such as login passwords, financial data, and more) from unsuspecting people and companies. Blacklist, whitelist, rule, heuristic, and signature-based detection methods are no longer suitable due to the rising sophistication of phishing schemes. As a result, ML, DL, and NLP are rapidly becoming into effective instruments for detecting both well-known and brand-new forms of phishing. Background on phishing assaults, old ways of detecting them, and recent advances in intelligent phishing detection are all included in this article. It delves into several machine learning algorithms such as decision tree, LSTM, ANN, CNN, and RNN, as well as deep learning models like KNN, NB, and SVM. Also, natural language processing methods including word embedding, sentiment analysis, text categorization, and tokenization are explored with the aim of detecting phishing material. Presenting a comprehensive, precise, and up-to-the-minute phishing detection system is the ultimate goal of this study, which focuses on machine learning frameworks, performance indicators, present obstacles, and future research directions.</jats:p>",
+    "authors": [
+      "Dr. Sunita Dixit"
+    ],
+    "published": "2029",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.67805/jgrms.v2i9.156",
+    "pdf_url": null,
+    "doi": "10.67805/jgrms.v2i9.156",
+    "citations": 0,
+    "venue": "Journal of Global Research in Multidisciplinary Studies(JGRMS)",
+    "open_access": false,
+    "ai_summary": "ML, DL, and NLP are rapidly becoming into effective instruments for detecting both well-known and brand-new forms of phishing . Background on phishing assaults and old ways of detecting them are all included in this article ."
   },
   {
     "id": "crossref:10.5705/ss.202025.0275",
@@ -452,27 +452,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.5705/ss.202026.0109",
-    "title": "Inference for Extreme Value Index Through Individualized Fusion Learning",
-    "abstract": "",
-    "authors": [
-      "Hongfang Sun",
-      "Yu Chen",
-      "Tao Xu",
-      "Zhengjun Zhang"
-    ],
-    "published": "2029",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.5705/ss.202026.0109",
-    "pdf_url": null,
-    "doi": "10.5705/ss.202026.0109",
-    "citations": 0,
-    "venue": "Statistica Sinica",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
     "id": "crossref:10.5705/ss.202025.0230",
     "title": "Two-way Subgroup Structure Learning for High Dimensional Clustered Survival Data",
     "abstract": "",
@@ -488,6 +467,27 @@
     "url": "https://doi.org/10.5705/ss.202025.0230",
     "pdf_url": null,
     "doi": "10.5705/ss.202025.0230",
+    "citations": 0,
+    "venue": "Statistica Sinica",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "crossref:10.5705/ss.202026.0109",
+    "title": "Inference for Extreme Value Index Through Individualized Fusion Learning",
+    "abstract": "",
+    "authors": [
+      "Hongfang Sun",
+      "Yu Chen",
+      "Tao Xu",
+      "Zhengjun Zhang"
+    ],
+    "published": "2029",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.5705/ss.202026.0109",
+    "pdf_url": null,
+    "doi": "10.5705/ss.202026.0109",
     "citations": 0,
     "venue": "Statistica Sinica",
     "open_access": false,
@@ -551,1063 +551,23 @@
     "ai_summary": "The chapter considers the rapid migration to digital learning as an emergency strategy . The findings show that the ability of national programmes such as NEP 2020, SWAYAM, DIKSHA, PM e-VIDYA, and others, to promote access to digital tools was low within periphery or hill areas ."
   },
   {
-    "id": "openalex:W7143351384",
-    "title": "Impact of cognitive processes on work performance comparative study in teachers of the Cruz del Norte Educational Unit",
-    "abstract": "",
+    "id": "pubmed:42978951",
+    "title": "Pyequate: A Python Package for Test Equating.",
+    "abstract": "Test equating adjusts scores across alternate forms of a test so that they may be used interchangeably, and is a routine requirement of any testing program that administers more than one form. Software for equating is well established in R and in standalone programs. There is no current native option in Python, despite its role as the working environment for a growing share of assessment data and downstream modeling. Analysts working in Python must therefore leave their pipeline or reimplement methods themselves. The package pyequate closes this gap. It provides observed-score equating under random groups and common-item nonequivalent groups designs, including the mean, linear, equipercentile, Tucker, Levine, frequency estimation, and Braun-Holland methods, together with presmoothing and analytical standard errors of equating. It also provides item response theory parameter linking and true-score and observed-score equating.",
     "authors": [
-      "Erick Joel Loor Domo"
+      "Laura Lambert",
+      "Yu Bao"
     ],
-    "published": "2027-03-26",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.5281/zenodo.18319363",
-    "pdf_url": "https://journal.publiseditorial.com/index.php/jles/article/download/163/582",
-    "doi": "10.5281/zenodo.18319363",
-    "citations": 0,
-    "venue": "Journal of Law and Epistemic Studies",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W7136156022",
-    "title": "MODELING AND CHARACTERIZATION OF ALGAL GROWTH IN ANAEROBIC DIGESTION WASTEWATER FOR PROCESS OPTIMIZATION",
-    "abstract": "",
-    "authors": [
-      "S. M. Hasan Shahriar Rahat"
-    ],
-    "published": "2027-01-01",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.7273/000008004",
-    "pdf_url": "https://doi.org/10.7273/000008004",
-    "doi": "10.7273/000008004",
-    "citations": 0,
-    "venue": "Washington State University",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W7128090912",
-    "title": "From Sparse to Dense: Label-Efficient Weakly Supervised Segmentation for Images and Videos",
-    "abstract": "",
-    "authors": [
-      "Jian Wang"
-    ],
-    "published": "2027-01-01",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.17638/03195330",
-    "pdf_url": "https://doi.org/10.17638/03195330",
-    "doi": "10.17638/03195330",
-    "citations": 0,
-    "venue": "University of Liverpool",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W7128491580",
-    "title": "Unsupervised Deep-learning Methods for Low-dose Computed Tomography Reconstruction",
-    "abstract": "",
-    "authors": [
-      "Ran An"
-    ],
-    "published": "2027-01-01",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.17638/03194237",
-    "pdf_url": "https://doi.org/10.17638/03194237",
-    "doi": "10.17638/03194237",
-    "citations": 0,
-    "venue": "University of Liverpool",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W7211975381",
-    "title": "Application and feasibility analysis of random Forest models in safety prediction for transition metal-doped Na3V2(PO4)3 sodium-ion batteries.",
-    "abstract": "",
-    "authors": [
-      "Que Huang",
-      "Rui Du",
-      "Xu Yang",
-      "Yanwu Yu",
-      "Zirui Guo",
-      "Guohui Li",
-      "Qinpei Chen",
-      "Jianghui Xie",
-      "Hongyuan Ding",
-      "Junchao Zhao",
-      "Changcheng Liu"
-    ],
-    "published": "2027-01-01",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.1016/j.jcis.2026.141499",
-    "pdf_url": null,
-    "doi": "10.1016/j.jcis.2026.141499",
-    "citations": 0,
-    "venue": "PubMed",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "pubmed:42977645",
-    "title": "Event-triggered pinning control on projective-lag synchronization of coupled switched delayed networks under DoS attacks.",
-    "abstract": "In industrial network applications, drive-response systems may encounter issues such as denial-of-service attacks, communication delays and parameter switching, which can even undermine their stability or synchronization. However, few effective methods currently exist to address the synchronization problem of switched systems under the coupled influence of these practical factors. Based on this, this paper proposes a novel event-triggered pinning impulsive controller to achieve projective lag synchronization for driving-response coupled switched delayed neural networks (CSDNNs) subject to DoS attacks. Firstly, according to the communication delay and security of switched neural networks, a more general CSDNN model with communication delays and DoS attacks is constructed. Secondly, an efficient event-triggered pinning impulsive controller is established by considering the influence of network scale and control cost. It is worth mentioning that periodic event sampling and continuous event sampling are adopted depending on whether DoS attacks occur, which can effectively avoid Zeno behavior and reduce the control cost. Hence, by introducing a proper Lyapunov-Krasovskii function, the synchronization problems of the pinned nodes and the others for the CSDNNs are respectively discussed and sufficient conditions are obtained under certain assumptions. Meanwhile, the coupling relations among some nodes can be eliminated to increase the network's flexibility according to the pinning control. Finally, the proposed synchronization theory is verified through numerical simulations and a robotic arm experiment, demonstrating its efficacy in addressing real-world automation challenges under network constraints and security threats, thereby bridging the gap between theory and practice.",
-    "authors": [
-      "Fan Li",
-      "Hao Qiu",
-      "Huamin Wang",
-      "Shiping Wen"
-    ],
-    "published": "2026-Oct-27",
+    "published": "2026-Nov-01",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42977645/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42978951/",
     "pdf_url": null,
-    "doi": "10.1016/j.isatra.2026.10.014",
+    "doi": "10.1177/01466216261504685",
     "citations": 0,
-    "venue": "ISA transactions",
+    "venue": "Applied psychological measurement",
     "open_access": false,
-    "ai_summary": "The paper proposes a novel event-triggered pinning impulsive controller to achieve projective lag synchronization for driving-response coupled switched neural networks (CSDNNs) subject to DoS attacks ."
-  },
-  {
-    "id": "pubmed:42977687",
-    "title": "LTVAE: Hybrid LSTM-Transformer VAE Architecture for Molecular SMILES Representation.",
-    "abstract": "A hybrid LSTM-Transformer Variational Autoencoder (LTVAE) framework is introduced in this paper for learning compact and chemically meaningful latent representations from SMILES strings, providing a SMILES-to-latent-to-SMILES representation model trained on ZINC15 and evaluated on ZINC15 and an out-of-distribution dye dataset. In the proposed model, sequential and structural dependencies in molecular strings are encoded using a bidirectional LSTM, while a Transformer-based decoder is employed to reconstruct valid molecular structures in the evaluated settings. When trained on a curated ZINC15 dataset, the framework achieves reasonable reconstruction performance, with 98.58% token-level accuracy, 92.19% string-level accuracy, a 99.30% chemical validity ratio, and an average Levenshtein distance of 0.29 using a 64-dimensional latent space. Reconstruction under an out-of-distribution evaluation setting is evaluated on a structurally distinct dye dataset, where 95.56% token-level accuracy and 85.30% validity are achieved. The learned latent space preserves trends aligned with both general molecular descriptors and dye-relevant structural descriptors, particularly conjugation length and aromatic surface fraction, with Fsp ",
-    "authors": [
-      "Md Halim Mondol",
-      "Qingshan Wei",
-      "Edgar Lobaton"
-    ],
-    "published": "2026-Nov-05",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42977687/",
-    "pdf_url": null,
-    "doi": "10.1002/jcc.70521",
-    "citations": 0,
-    "venue": "Journal of computational chemistry",
-    "open_access": false,
-    "ai_summary": "A hybrid LSTM-Transformer Variational Autoencoder (LTVAE) framework is introduced in this paper . It provides a SMILES-to-latent-to SMILES representation model trained on ZINC15 and evaluated on Zinc15 and an out-of-distribution dye dataset ."
-  },
-  {
-    "id": "pubmed:42977682",
-    "title": "SIM-CaliRam: A workflow combining simulation-informed references and biomass-augmented features for in-line Raman calibration of Saccharomyces cerevisiae.",
-    "abstract": "Raman spectroscopy is a promising in-situ Process Analytical Technology for upstream bioprocesses, but transferring trained calibration models to new, independent fermentation runs without re-calibration remains a challenge due to sparse sample references (SaR) and prediction drift caused by biomass-induced fluorescence and turbidity effects. We present SIM-CaliRam, a calibration workflow combining two physically motivated interventions. First, Simulation-Informed References (SiR) densify glucose, ammonium, and phosphate labels using a feed-driven, non-reactive mass balance on a dedicated uninoculated non-reactive feed run, where substrate dynamics are determined by feeding and dilution. SiR labels agreed closely with the SaR values. Additionally, Biomass-augmented Feature (BaF) appends Raman-predicted biomass as an additional substrate-model regressor, providing a proxy for residual biomass-induced spectral confounding in the feature space. The workflow is demonstrated on Saccharomyces cerevisiae fermentations and evaluated within a systematic grid-search over established preprocessing options and six calibration methods spanning linear, Bayesian nonparametric, and neural network approaches. Conventional SaR calibration serves as the baseline. Training uses two AV runs, with model selection on a separate CV run and final evaluation on a held-out TEST run. The best selected models achieve NRMSE",
-    "authors": [
-      "Terrance Wilms",
-      "Steffi Knorn"
-    ],
-    "published": "2026-Nov-03",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42977682/",
-    "pdf_url": null,
-    "doi": "10.1002/btpr.88564",
-    "citations": 0,
-    "venue": "Biotechnology progress",
-    "open_access": false,
-    "ai_summary": "Raman spectroscopy is a promising in-situ Process Analytical Technology for upstream bioprocesses . But transferring trained calibration models to new, independent fermentation runs without re-calibration remains a challenge ."
-  },
-  {
-    "id": "pubmed:42977669",
-    "title": "Limitations of RMS error in evaluating intraoral scanner accuracy: Comparison with linear and angular distortions from an enhanced metrology protocol.",
-    "abstract": "Several studies have assessed the performance of various intraoral scanners (IOSs) and scan patterns for completely edentulous implant scans. However, cross-referencing the results is challenging because of discrepancies in the superimposition methods and outcome measures. The frequent reporting of a single root mean square (RMS) error value further limits the assessment of complex 3-dimensional (3D) distortions. Consequently, the accuracy of IOSs for completely edentulous implant scans remains unknown. The purpose of this study was to compare the accuracy of 3 IOSs and their recommended scan patterns on a 5-implant edentulous mandible model. An enhanced metrology software protocol was used and compared with the predominantly applied protocol of best fit alignment (BFA) and RMS error. A 5-implant edentulous mandible model was fabricated with varying implant angulations, depths, and interimplant distances to simulate a clinical situation. The model was digitized with a laboratory scanner and used as the reference scan. Using 3 IOSs and their manufacturer's recommended scan patterns (Primescan [Pr, A], TRIOS 5 [Tr, B], and iTero Element 5D Plus [iT, C]), 10 test scans (n=10) were generated for each test group. An enhanced metrology protocol using geometric dimensioning and tolerancing (GD&T) features and reference point system (RPS) alignment was used to quantify linear, angular, and distance distortions in a 3D inspection software program (Geomagic Control X; 3D Systems). RMS values were also generated using BFA and compared. Two-way ANOVA and Tukey HSD were used to compare IOSs, scan patterns, and their interactions, while the Wilcoxon signed-rank test was used to interpret the direction of linear distortion (α=.05). Pr obtained the lowest deviations whenever statistical significance was reached for global linear distortion (d The enhanced metrology protocol generated linear, angular, and distance distortion values which allowed for detailed 3D distortion analysis. RMS values were not fully representative of linear and angular distortions. While Pr exhibited the lowest linear, angular, and distance distortions, Tr and iT could not be consistently ranked. BFA-derived RMS values may oversimplify 3D distortions and lead to erroneous conclusions regarding the accuracies of IOSs.",
-    "authors": [
-      "Ren Hao Seet",
-      "Frank Kong Fei Lee",
-      "Joseph Weijian Xu",
-      "Christopher Eng Yew Quek",
-      "Keson Beng Choon Tan"
-    ],
-    "published": "2026-Nov-03",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42977669/",
-    "pdf_url": null,
-    "doi": "10.1016/j.prosdent.2026.10.004",
-    "citations": 0,
-    "venue": "The Journal of prosthetic dentistry",
-    "open_access": false,
-    "ai_summary": "Several studies have assessed the performance of various intraoral scanners (IOSs) and scan patterns for completely edentulous implant scans . Cross-referencing the results is challenging because of discrepancies in the superimposition methods and outcome measures . The frequent reporting of a single root mean square (RMS) error value further limits"
-  },
-  {
-    "id": "pubmed:42977647",
-    "title": "Can artificial intelligence add diagnostic value for human readers in detecting coronary artery stenosis on coronary CT angiography? A Bayesian network meta-analysis.",
-    "abstract": "The incremental diagnostic value of artificial intelligence (AI) in coronary CT angiography (CCTA) remains uncertain. We compared five CCTA strategies: automated stenosis assessment software (COR Analyzer), stand-alone CCTA-based deep learning (DL), junior readers, senior readers, and AI-assisted readers, for detecting anatomical coronary artery stenosis against invasive coronary angiography. PubMed, Embase, Web of Science, and the Cochrane Library were searched from inception through July 9, 2026. Twenty-two observational diagnostic accuracy studies were included (19 retrospective and three prospective; 21 for ≥50% stenosis and six for ≥70% stenosis). In the primary patient-level analysis at ≥50% stenosis, pooled sensitivity for DL and AI-assisted readers was 0.91 each (95% credible interval, 0.87 to 0.94 and 0.86 to 0.94), versus 0.80 (0.73-0.87) for junior and 0.87 (0.82-0.91) for senior readers; AI assistance increased sensitivity by 0.10 versus junior readers (0.06-0.15) and 0.03 versus senior readers (0.01-0.06). Specificity was similar across DL and reader strategies (0.64-0.67) but markedly lower for COR Analyzer (0.25 [0.15 to 0.38]). In the smaller ≥70% network, AI-assisted reading showed the highest estimated sensitivity (0.80 [0.70 to 0.88]). Findings were robust to outlier exclusion; certainty was low to very low for most ≥50% outcomes. Stand-alone DL and AI-assisted reading had similar estimated diagnostic performance. AI assistance improved sensitivity most clearly for less-experienced readers. These accuracy comparisons did not establish formal equivalence or determine whether stand-alone DL could replace human interpretation in clinical practice.",
-    "authors": [
-      "Yuxi Jiang",
-      "Zhichun Liu",
-      "Tianrun Yang",
-      "Junwei Shi",
-      "Jiamei Fu"
-    ],
-    "published": "2026-Nov-03",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42977647/",
-    "pdf_url": null,
-    "doi": "10.1016/j.jcct.2026.10.012",
-    "citations": 0,
-    "venue": "Journal of cardiovascular computed tomography",
-    "open_access": false,
-    "ai_summary": "The incremental diagnostic value of artificial intelligence (AI) in coronary CT angiography remains uncertain . We compared five CCTA strategies: automated stenosis assessment software (COR Analyzer) and stand-alone C CTA-based deep learning (DL), junior readers, senior readers, and AI-assisted readers ."
-  },
-  {
-    "id": "pubmed:42977646",
-    "title": "Context is built, not given: context readiness as the next benchmark for clinical use of artificial intelligence.",
-    "abstract": "",
-    "authors": [
-      "Taro Shimizu",
-      "Ethan Goh"
-    ],
-    "published": "2026-Nov-04",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42977646/",
-    "pdf_url": null,
-    "doi": "10.1016/j.landig.2026.101124",
-    "citations": 0,
-    "venue": "The Lancet. Digital health",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "pubmed:42977702",
-    "title": "Growth Performance, Haematobiochemical Profile and Enteric Methane Emission of Goats Supplemented With Terminalia brownii Dried Leaves.",
-    "abstract": "Goats are vital for livelihoods and food security in tropical regions such as Ethiopia. However, poor-quality feed, especially during dry seasons, limits their growth, health and overall productivity. To evaluate the effect of supplementing Terminalia brownii tree leaves on growth performance, hematobiochemical profile and methane (CH Twenty-five male goats with an average initial weight of 19.1 ± 1.6 kg were randomly assigned to five dietary treatments, each with five replicates. The treatments included a control group fed 100% concentrate mix (CM) (T The result showed that goats that received the T This indicates that Terminalia brownii leaves could potentially act as a viable alternative to concentrate feeds while also reducing methane emissions. This suggests that the T",
-    "authors": [
-      "Berihun Kibret",
-      "Bimrew Asmare",
-      "Likawent Yeheyis",
-      "Shigdaf Mekuriaw"
-    ],
-    "published": "2026-Nov",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42977702/",
-    "pdf_url": null,
-    "doi": "10.1002/vms3.71312",
-    "citations": 0,
-    "venue": "Veterinary medicine and science",
-    "open_access": false,
-    "ai_summary": "Goats are vital for livelihoods and food security in tropical regions such as Ethiopia . Poor-quality feed, especially during dry seasons, limits their growth, health and overall productivity ."
-  },
-  {
-    "id": "pubmed:42977698",
-    "title": "Workplace Policy Awareness, Training, and Supervisory Support as Correlates of Generative Artificial Intelligence Use Among Practicing Nurses.",
-    "abstract": "To estimate the prevalence and frequency of generative artificial intelligence (AI) use among practicing nurses and to determine whether four workplace governance conditions were independently associated with use. US-wide nonprobability cross-sectional survey. Licensed, practicing nurses in the United States (N = 1136) recruited through a commercial, US-wide nonprobability online panel completed a self-administered questionnaire. Any work-related use in the previous 12 months was modelled using binary logistic regression, and the frequency of clinical use, measured with an unbounded habitual-use item, was modelled using proportional-odds ordinal regression. Both models included workplace policy awareness, training status (training receipt and interest among untrained respondents), supervisor support, and organizational support and adjusted for role, setting, education, experience, age, gender, and geographic region. Sensitivity analyses examined ordinal-covariate coding, the proportional-odds assumption, and support-item specification. In the previous 12 months, 742 nurses (65.3%) reported using a generative AI tool for a work-related task, and 528 (46.5%) reported at least weekly use for clinical tasks on a separate habitual-frequency item without a bounded recall period. The two estimates are not nested because the frequency item used a different reference frame. Each point of supervisor support was associated with higher odds of any use (aOR = 1.42, 95% CI [1.17, 1.72]) and of more frequent clinical use (aOR = 2.05, 95% CI [1.75, 2.40]), with parallel associations for organizational support (aOR = 1.43 and 1.60). Nurses who were untrained and uninterested in training had markedly lower odds of both behaviours than trained nurses (aOR = 0.16 and 0.24); this comparison combines training receipt and interest and is not an estimate of training effectiveness. Uncertainty about whether a workplace policy existed, rather than its absence, was associated with lower use (aOR = 0.62 and 0.65). No statistically significant independent associations were detected for education, experience, age, gender, setting, or region, although role was associated with use. In this US-wide nonprobability sample, generative AI use was common and associated with visible workplace governance conditions and professional role. The cross-sectional design supports correlational, not causal, conclusions. Communicated policy, accessible training, and frontline supervisory support warrant evaluation as potential governance approaches; this study does not establish whether frequent use was safe, appropriate, or outcome-improving. The study addressed the lack of national evidence linking workplace governance to nurses' reported use of generative AI. Use was common and associated with supervisor support, training status (receipt and interest among untrained respondents), policy awareness, and professional role. The findings will inform nurses, nurse managers, health system leaders, and policy bodies responsible for evaluating and governing these tools. Reporting followed the STROBE guidelines for cross-sectional studies. No Patient or Public Contribution. This survey of practicing nurses did not involve patients or members of the public in its design, conduct, analysis, or the preparation of the manuscript.",
-    "authors": [
-      "Gregory A Carter"
-    ],
-    "published": "2026-Nov",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42977698/",
-    "pdf_url": null,
-    "doi": "10.1002/nop2.71000",
-    "citations": 0,
-    "venue": "Nursing open",
-    "open_access": false,
-    "ai_summary": "US-wide nonprobability cross-sectional survey. Licensed, practicing nurses in the United States recruited through a commercial, US-wideNonprobable online panel ."
-  },
-  {
-    "id": "pubmed:42977686",
-    "title": "Machine-learning-based classification of nocturnal enuresis: The contribution of maternal anxiety in a case-control study.",
-    "abstract": "ObjectiveNocturnal enuresis is common during childhood; however, the contribution of maternal psychological well-being remains underexplored. We applied interpretable machine learning to determine which routinely available factors best distinguish children with nocturnal enuresis from controls and to quantify the contribution of maternal mental health.MethodsIn this single-center case-control study, we compared 20 clinical and family-related variables of 112 children with primary nocturnal enuresis and 54 controls, including maternal anxiety and depression scores. Maternal anxiety and depression scores were missing in 50/112 cases (44.6%) and 0/54 controls. Four models were trained using 10×5 repeated stratified cross-validation with all preprocessing refitted inside each training fold, and SHapley Additive exPlanations analysis was performed to identify key predictors.ResultsThe random forest model had the best discriminative ability (area under the receiver operating characteristic curve = 0.971, 95% confidence interval: 0.947-0.990). In the full-sample analysis, the largest adjusted associations were constipation (odds ratio = 4.68, 95% confidence interval: 3.60-8.50) and maternal anxiety (odds ratio = 2.87, 95% confidence interval: 1.59-5.09), and their interaction was the strongest (SHapley Additive exPlanations interaction = 0.676). Under median imputation, maternal anxiety and depression together accounted for approximately 29% of total SHapley Additive exPlanations feature importance-a measure of contribution to model output, not of effect size.ConclusionsMaternal anxiety was associated with case status in this sample; however, this association should be regarded as provisional given the differential missingness of maternal scores and their measurement after the child's diagnosis was established. These hypothesis-generating classification findings establish neither causality nor clinical utility and require prospective external validation.",
-    "authors": [
-      "Eda Çelik Güzel",
-      "Murat Güzel",
-      "Cenk Murat Yazıcı",
-      "Birol Topçu",
-      "Tülin Yıldız"
-    ],
-    "published": "2026-Nov",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42977686/",
-    "pdf_url": null,
-    "doi": "10.1177/03000605261501661",
-    "citations": 0,
-    "venue": "The Journal of international medical research",
-    "open_access": false,
-    "ai_summary": "Maternal anxiety and depression scores were missing in 50/112 cases (44.6%) and 0/54 controls . Four models were trained using 10×5 repeated stratified cross-validation with all preprocessing refitted inside each training fold ."
-  },
-  {
-    "id": "openalex:W7118880740",
-    "title": "ETHICAL CONSIDERATIONS AND POLICY FRAMEWORKS FOR TEACHING WITH ARTIFICIAL INTELLIGENCE IN SECONDARY SCHOOL SETTINGS",
-    "abstract": "",
-    "authors": [
-      "Asma Khalid,Dr. Naveed Azmat, Nafeesa Rani"
-    ],
-    "published": "2026-12-31",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.5281/zenodo.18161737",
-    "pdf_url": "https://doi.org/10.5281/zenodo.18161737",
-    "doi": "10.5281/zenodo.18161737",
-    "citations": 0,
-    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W7154463656",
-    "title": "NUISS: A User-Centered Prototype for International Student Administrative Support",
-    "abstract": "",
-    "authors": [
-      "Juanjuan Huang",
-      "Cuicui Li"
-    ],
-    "published": "2026-12-31",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.17613/px901-kjq73",
-    "pdf_url": "https://pub.respai.de/articles/1-1/is1-10.pdf",
-    "doi": "10.17613/px901-kjq73",
-    "citations": 0,
-    "venue": "Unknown",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W7162410191",
-    "title": "Human vs machine judgment in safety-critical logistics: a philosophical inquiry into trust and control",
-    "abstract": "",
-    "authors": [
-      "Martyna Bąchorek",
-      "Wiktoria Izdebska",
-      "Gustaw Krakowiak"
-    ],
-    "published": "2026-12-31",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.5281/zenodo.20402506",
-    "pdf_url": "https://www.sjsl.net/index.php/journal/article/view/59",
-    "doi": "10.5281/zenodo.20402506",
-    "citations": 0,
-    "venue": "Scientific Journal of Safety and Logistics",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W7164183113",
-    "title": "The Sociolinguistics of Machine Identity: LLM Personality and Ideology Propagation",
-    "abstract": "",
-    "authors": [
-      "Guangni Li"
-    ],
-    "published": "2026-12-31",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.17613/90v07-0pa54",
-    "pdf_url": "https://pub.respai.de/articles/1-2/is2-4.pdf",
-    "doi": "10.17613/90v07-0pa54",
-    "citations": 0,
-    "venue": "Unknown",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W7164203944",
-    "title": "The Role of Generative Artificial Intelligence in Korean Language Learning: Applications, Challenges, and Instructional Strategies",
-    "abstract": "",
-    "authors": [
-      "Yundong Wu"
-    ],
-    "published": "2026-12-31",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.17613/g7mbr-1s626",
-    "pdf_url": "https://pub.respai.de/articles/1-2/is2-5.pdf",
-    "doi": "10.17613/g7mbr-1s626",
-    "citations": 0,
-    "venue": "Unknown",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W7166006500",
-    "title": "Algorithmic Justice and Responsible AI Journalism: A Comparative Communication Policy Perspective in East Asia",
-    "abstract": "",
-    "authors": [
-      "Renxiudi Huang",
-      "Linjia Bai"
-    ],
-    "published": "2026-12-31",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.17613/jchtw-w2z97",
-    "pdf_url": "https://philpapers.org/archive/HUAAJA.pdf",
-    "doi": "10.17613/jchtw-w2z97",
-    "citations": 0,
-    "venue": "PhilPapers (PhilPapers Foundation)",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W7166533473",
-    "title": "Research on Attention Guidance and User Autonomy in AI-Powered Immersive Environments",
-    "abstract": "",
-    "authors": [
-      "Mulin Qiao"
-    ],
-    "published": "2026-12-31",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.17613/v92ad-xvp66",
-    "pdf_url": "https://philpapers.org/archive/QIAROA.pdf",
-    "doi": "10.17613/v92ad-xvp66",
-    "citations": 0,
-    "venue": "PhilPapers (PhilPapers Foundation)",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W7166553890",
-    "title": "Human-AI Collaboration vs. Substitution in Tourism Social Media Content: A Conceptual Framework for Consumer Engagement",
-    "abstract": "",
-    "authors": [
-      "Jasmine Chang Man Lin",
-      "Fatma Ezzahra Ben Soltane"
-    ],
-    "published": "2026-12-31",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.17613/7a3zf-yt886",
-    "pdf_url": "https://works.hcommons.org:snc83-vx894",
-    "doi": "10.17613/7a3zf-yt886",
-    "citations": 0,
-    "venue": "Unknown",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W7118264295",
-    "title": "Gene Selection for Breast Cancer Classification Using T-Test Filtering and Wrapper-Based Optimization",
-    "abstract": "",
-    "authors": [
-      "Abdelhamid Elwaer",
-      "Abdeladeem Dreder"
-    ],
-    "published": "2026-12-31",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.5281/zenodo.18112299",
-    "pdf_url": "https://journals.uot.edu.ly/index.php/LJI/article/download/2288/1683",
-    "doi": "10.5281/zenodo.18112299",
-    "citations": 0,
-    "venue": "Libyan Journal of Informatics",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W7161156200",
-    "title": "From Embedded Finance to Embedded Obligation: A Law-and-Economics Theory of Consumer Protection in Platform-Mediated Financial Services",
-    "abstract": "",
-    "authors": [
-      "Yongxin Chen"
-    ],
-    "published": "2026-12-31",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.17613/sb76m-v2e23",
-    "pdf_url": "https://pub.respai.de/articles/1-2/is2-2.pdf",
-    "doi": "10.17613/sb76m-v2e23",
-    "citations": 0,
-    "venue": "Unknown",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W7162109129",
-    "title": "SOAR: Smooth Online Activation Routing for Stable Neural Learning from Evolving Streams",
-    "abstract": "",
-    "authors": [
-      "Sizhen Niu"
-    ],
-    "published": "2026-12-31",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.17613/nzztb-q4520",
-    "pdf_url": "https://pub.respai.de/articles/1-2/is2-3.pdf",
-    "doi": "10.17613/nzztb-q4520",
-    "citations": 0,
-    "venue": "Unknown",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W7165053392",
-    "title": "Design, Fabrication, and Performance Evaluation of a Weeder for Upland Rice Production",
-    "abstract": "",
-    "authors": [
-      "Alvin Ermitanio",
-      "John Paul D Galvan"
-    ],
-    "published": "2026-12-31",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.5281/zenodo.20724628",
-    "pdf_url": "https://csu.org.ph/jpas/article/download/31/22",
-    "doi": "10.5281/zenodo.20724628",
-    "citations": 0,
-    "venue": "Journal of Pure and Applied Sciences",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W7166177720",
-    "title": "Construction of an Automated Quality Control Model for Industrial Waste Gas Online Monitoring Data Based on Unsupervised Learning",
-    "abstract": "",
-    "authors": [
-      "Tao Lin"
-    ],
-    "published": "2026-12-31",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.17613/g1ft7-d9j25",
-    "pdf_url": "https://philpapers.org/archive/LINCOA-4.pdf",
-    "doi": "10.17613/g1ft7-d9j25",
-    "citations": 0,
-    "venue": "PhilPapers (PhilPapers Foundation)",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W7118083113",
-    "title": "Identification of Meat Contamination using Deep Learning",
-    "abstract": "",
-    "authors": [
-      "Annual Methodological Archive Research Review"
-    ],
-    "published": "2026-12-31",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.5281/zenodo.18130809",
-    "pdf_url": "https://doi.org/10.5281/zenodo.18130809",
-    "doi": "10.5281/zenodo.18130809",
-    "citations": 0,
-    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W7121465138",
-    "title": "DYNAMICS OF PORTFOLIO ASSESSMENT STRATEGY IN EVALUATING THE ENGLISH LANGUAGE SKILLS FOR PUPILS WITH HEARING IMPAIRMENTS IN FAKO DIVISION, SOUTH WEST REGION OF CAMEROON",
-    "abstract": "",
-    "authors": [
-      "Ngenwie Emilia Tanyie",
-      "Therese Mungah Shalo Tchombe"
-    ],
-    "published": "2026-12-31",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.5281/zenodo.18206765",
-    "pdf_url": "https://ubueajournals.org/index.php/index/article/view/28",
-    "doi": "10.5281/zenodo.18206765",
-    "citations": 0,
-    "venue": "International Journal of Developmental Issues in Education and Humanities",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W7170146433",
-    "title": "Regulating the Frontier: Model-Level Evidence from the EU AI Act",
-    "abstract": "",
-    "authors": [
-      "Han Li"
-    ],
-    "published": "2026-12-31",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.17613/bqzbv-24862",
-    "pdf_url": "https://philpapers.org/archive/LIRTFO.pdf",
-    "doi": "10.17613/bqzbv-24862",
-    "citations": 0,
-    "venue": "PhilPapers (PhilPapers Foundation)",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W7203455710",
-    "title": "Digital-Twin-Driven Predictive Maintenance and Fault-Tolerant Control for Electrified Agricultural Machinery: A Multiphysics and Deep Reinforcement Learning Framework for PMSM In-Wheel Drives",
-    "abstract": "",
-    "authors": [
-      "Hongyu Xia"
-    ],
-    "published": "2026-12-31",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.17613/765dw-e3t58",
-    "pdf_url": "https://philpapers.org/archive/XIADPM.pdf",
-    "doi": "10.17613/765dw-e3t58",
-    "citations": 0,
-    "venue": "PhilPapers (PhilPapers Foundation)",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W7167504345",
-    "title": "From Legal Databases to AI-Assisted Justice: A Risk-Sensitive Framework for the Application of Information Technologies in Law",
-    "abstract": "",
-    "authors": [
-      "Li Yongxin"
-    ],
-    "published": "2026-12-31",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.17613/zf92n-68j61",
-    "pdf_url": "https://philpapers.org/archive/LIFLDC.pdf",
-    "doi": "10.17613/zf92n-68j61",
-    "citations": 0,
-    "venue": "PhilPapers (PhilPapers Foundation)",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W7170884066",
-    "title": "A Study on the Mechanism and Ways to Improve New-Quality Productivity of Enterprises Driven by AI and the Digital Economy",
-    "abstract": "",
-    "authors": [
-      "Changhong Dong",
-      "Songwei Pan",
-      "Jingyao WANG"
-    ],
-    "published": "2026-12-31",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.17613/v53h3-s4978",
-    "pdf_url": "https://philpapers.org/archive/DONASO-4.pdf",
-    "doi": "10.17613/v53h3-s4978",
-    "citations": 0,
-    "venue": "PhilPapers (PhilPapers Foundation)",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W7203902930",
-    "title": "HF-CAM: A Hard Prototype Anchored Concept Activation Mapping for Interpretable Deep Learning",
-    "abstract": "",
-    "authors": [
-      "Yuan Liu"
-    ],
-    "published": "2026-12-31",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.17613/bbkgt-6jj79",
-    "pdf_url": "https://works.hcommons.org:x2pvf-hn714",
-    "doi": "10.17613/bbkgt-6jj79",
-    "citations": 0,
-    "venue": "Unknown",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W7213352748",
-    "title": "The trajectory of educational justice in Zimbabwe's post-independence education policies and reforms (1980-2026): Implications for future educational reforms",
-    "abstract": "",
-    "authors": [
-      "Angellar Manguvo"
-    ],
-    "published": "2026-12-30",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.5281/zenodo.22768513",
-    "pdf_url": "https://jcdee.com/index.php/jcdee/article/download/71/60",
-    "doi": "10.5281/zenodo.22768513",
-    "citations": 0,
-    "venue": "Journal of Child Development, Exceptionality and Education",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W7168392295",
-    "title": "Comparison of the effects of AI-generated music on emotional responses, aesthetic enjoyment, and perceived quality between musicians and non-musicians",
-    "abstract": "",
-    "authors": [
-      "Seyhan Canyakan"
-    ],
-    "published": "2026-12-30",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.5281/zenodo.21377743",
-    "pdf_url": "https://jmttms.com/index.php/jmmtms/article/download/47/41",
-    "doi": "10.5281/zenodo.21377743",
-    "citations": 0,
-    "venue": "Journal of Music Theory and Transcultural Music Studies",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W7159021248",
-    "title": "Beyond GDPR: The Architectural Challenge of Data Sovereignty and Confidential Computing in the Post-2024 Era",
-    "abstract": "",
-    "authors": [
-      "Mr. Tayabur Rahman Laskar"
-    ],
-    "published": "2026-12-18",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.5281/zenodo.19918373",
-    "pdf_url": "https://submission.erudexapublishing.com/index.php/index/article/view/7",
-    "doi": "10.5281/zenodo.19918373",
-    "citations": 0,
-    "venue": "International Comprehensive Technology and Science Journal",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W7126120974",
-    "title": "CREATIVE LEADERSHIP AS A COGNITIVE-SOCIAL BUFFER AGAINST RUMINATION AND ORGANIZATIONAL ANOMIE: THE FULL MEDIATION ROLE OF EMOTIONAL INTELLIGENCE AND EMOTIONAL CAPACITY",
-    "abstract": "",
-    "authors": [
-      "DR. S. ANTONY RAJ AISHWARYA ANANDAVALLI MN"
-    ],
-    "published": "2026-12-15",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.5281/zenodo.18413682",
-    "pdf_url": "https://tpmap.org/submission/index.php/tpm/article/download/3464/2573",
-    "doi": "10.5281/zenodo.18413682",
-    "citations": 0,
-    "venue": "TPM Testing, psychometrics, methodology in applied psychology",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W7197044566",
-    "title": "Sequence-based artificial intelligence-guided inhibitory peptides to counteract AAV neutralizing antibodies in gene therapy.",
-    "abstract": "",
-    "authors": [
-      "Bingqi Xu",
-      "Xin Zhang",
-      "Dandan Yu",
-      "Panjing Wang",
-      "Ying Chi",
-      "Wei Liu",
-      "Feng Xue",
-      "Lingling Chen",
-      "Huiyuan Li",
-      "Wentian Wang",
-      "Yunfei Chen",
-      "Xiaofan Liu",
-      "Rongfeng Fu",
-      "Renchi Yang",
-      "Wenwei Shao",
-      "Siwei Yu",
-      "Xiaolei Pei",
-      "Lei Zhang"
-    ],
-    "published": "2026-12-10",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.1016/j.omta.2026.201832",
-    "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13572001/pdf/main.pdf",
-    "doi": "10.1016/j.omta.2026.201832",
-    "citations": 0,
-    "venue": "PubMed Central",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W7212381432",
-    "title": "Complexity and Entropy Trade-offs in Deep Neural Network Representations",
-    "abstract": "",
-    "authors": [
-      "Peter Malek",
-      "Michaela Zeman",
-      "Andrej Havel"
-    ],
-    "published": "2026-12-03",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.5281/zenodo.22698615",
-    "pdf_url": "https://doi.org/10.5281/zenodo.22698615",
-    "doi": "10.5281/zenodo.22698615",
-    "citations": 0,
-    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W7213350615",
-    "title": "TinZr: A compact wireless ESP32-C3 platform for multi-modal physiological sensor integration and data acquisition.",
-    "abstract": "",
-    "authors": [
-      "Ludvik Alkhoury",
-      "Tony Moore",
-      "Petras Swissler",
-      "N. Jeremy Hill",
-      "Sudhin A. Shah",
-      "Moshe Kam"
-    ],
-    "published": "2026-12-01",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.1016/j.ohx.2026.e00833",
-    "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13572519/pdf/main.pdf",
-    "doi": "10.1016/j.ohx.2026.e00833",
-    "citations": 0,
-    "venue": "PubMed Central",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W7223294847",
-    "title": "Somatosensory phenotyping in women with persistent genital arousal disorder: a case-control study.",
-    "abstract": "",
-    "authors": [
-      "Janneke I. M. van Uhm",
-      "Astrid Hamel",
-      "Albert Dahan",
-      "Marieke Niesters",
-      "Maxime T. M. Kummeling",
-      "Stephanie Both",
-      "Henk Elzevier",
-      "Monique van Velzen"
-    ],
-    "published": "2026-12-01",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.1097/pr9.0000000000001509",
-    "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13681099/pdf/painreports-11-e1509.pdf",
-    "doi": "10.1097/pr9.0000000000001509",
-    "citations": 0,
-    "venue": "PubMed Central",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W7131071032",
-    "title": "Future of AI in English Language Education: Trends and Predictions",
-    "abstract": "",
-    "authors": [
-      "Prof. Jagadeesh Nerlekar",
-      "K Munianjinappa"
-    ],
-    "published": "2026-12-01",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.5281/zenodo.18739461",
-    "pdf_url": "https://doi.org/10.5281/zenodo.18739461",
-    "doi": "10.5281/zenodo.18739461",
-    "citations": 0,
-    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W7222716730",
-    "title": "Investigating endogenous pain modulation through pupillometry: can pupil size reflect offset analgesia?",
-    "abstract": "",
-    "authors": [
-      "Anna Leonhartsberger",
-      "Iwanka Iwanojko",
-      "Joëlle Katharina Metzger",
-      "Florin Allmendinger",
-      "Michèle Hubli"
-    ],
-    "published": "2026-12-01",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.1097/pr9.0000000000001507",
-    "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13668298/pdf/painreports-11-e1507.pdf",
-    "doi": "10.1097/pr9.0000000000001507",
-    "citations": 0,
-    "venue": "PubMed Central",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W7211941274",
-    "title": "MiR-326 targets ETS1 to activate PI3K/Akt signaling and promote malignant phenotypes in gastric cancer cells.",
-    "abstract": "",
-    "authors": [
-      "Kai Liang",
-      "Xiangyu Zhang",
-      "Yin Yang"
-    ],
-    "published": "2026-12-01",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.36721/pjps.2026.39.12.335.1",
-    "pdf_url": null,
-    "doi": "10.36721/pjps.2026.39.12.335.1",
-    "citations": 0,
-    "venue": "PubMed",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W7212055717",
-    "title": "Enhancing mass transport in redox flow batteries with 3D-printed triply periodic minimal surface electrode structures",
-    "abstract": "",
-    "authors": [
-      "Maxime van der Heijden",
-      "M. Barzegari",
-      "J. Aarts",
-      "B. Liu",
-      "Antoni Forner‐Cuenca"
-    ],
-    "published": "2026-11-30",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.1016/j.est.2026.123821",
-    "pdf_url": "https://research.tue.nl/en/publications/c80cfc38-10a8-43a1-88d3-03c80a5fae35",
-    "doi": "10.1016/j.est.2026.123821",
-    "citations": 1,
-    "venue": "TU/e Research Portal",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W7224821941",
-    "title": "Dynamic Analysis of Three-Species System with Fear Effect on Prey and Allee Effect on Top Predator",
-    "abstract": "",
-    "authors": [
-      "Dana Eky Novya",
-      "Dian Savitri"
-    ],
-    "published": "2026-11-30",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.18860/cauchy.v11i2.45901",
-    "pdf_url": "https://ejournal.uin-malang.ac.id/index.php/Math/article/download/45901/pdf",
-    "doi": "10.18860/cauchy.v11i2.45901",
-    "citations": 0,
-    "venue": "CAUCHY - Journal of Pure Mathematics and Applications (Universitas Islam Negeri Maulana Malik Ibrahim)",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W7223140094",
-    "title": "Phenotyping Tenosynovial Giant Cell Tumor (TGCT) at Population Scale: Validated Large Language Model (LLM) Extraction From US Real-World Clinical Notes",
-    "abstract": "",
-    "authors": [
-      "Manjrekar Atharva",
-      "Hobbs Nicole",
-      "Patel Shrinal",
-      "Das Rahul"
-    ],
-    "published": "2026-11-10",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.5281/zenodo.23378073",
-    "pdf_url": "https://doi.org/10.5281/zenodo.23378073",
-    "doi": "10.5281/zenodo.23378073",
-    "citations": 0,
-    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W7218458835",
-    "title": "PENDAMPINGAN TRANSFORMASI DIGITAL MELALUI PENGEMBANGAN DAN IMPLEMENTASI WEBSITE EDOTEL DI SMK NEGERI 2 GORONTALO",
-    "abstract": "",
-    "authors": [
-      "Sri Ayu Ashari",
-      "Muhammad Hary Bayu Risky",
-      "Sarjan A Nusuri",
-      "Fadya Hasan",
-      "Agussalim Dwi Gunawan Usman"
-    ],
-    "published": "2026-11-09",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.37905/jpti.v5i2.41197",
-    "pdf_url": "https://ejurnal.ung.ac.id/index.php/jpit/article/download/41197/14506",
-    "doi": "10.37905/jpti.v5i2.41197",
-    "citations": 0,
-    "venue": "Jurnal Pengabdian Teknik Industri",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W7170997623",
-    "title": "Doing Game Design in Theatre",
-    "abstract": "",
-    "authors": [
-      "Ben J. Kirman",
-      "Charline Foch",
-      "David Gochfeld",
-      "Marian F. Ursu"
-    ],
-    "published": "2026-11-05",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://openalex.org/W7170997623",
-    "pdf_url": "https://eprints.whiterose.ac.uk/id/eprint/243733/1/ludicdramaturgy.pdf",
-    "doi": null,
-    "citations": 0,
-    "venue": "White Rose Research Online (University of Leeds, The University of Sheffield, University of York)",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "arxiv:2611.05361v1",
-    "title": "Visibility-Aware Reference Generation for Benchmarking Visual 3D Reconstruction in Vegetation-Rich Environments",
-    "abstract": "Reliable evaluation of visual 3D reconstruction and depth estimation in vegetation-rich outdoor environments is limited by the scarcity of geometric ground-truth data and the cost of complete scanner surveys. We present a LiDARbased reference-generation pipeline for evaluating the zero-shot performance of feed-forward visual-geometry models alongside conventional structure-from-motion (SfM) methods. The pipeline reuses camera images, LiDAR scans, and reference poses from existing multi-sensor localization datasets to generate per-view depth maps and visible reference point clouds. To address visibility errors in accumulated LiDAR scans, we introduce the LargeDepth-Gap Visibility Score (LDGVS) for point-wise visibility filtering and automatic scale selection in Hidden Point Removal(HPR). Experiments on TartanAirV2 and TartanGround show that, compared with Poisson surface reconstruction, which is an approach suited to completed scan surveys, the combined HPR and LDGVS filtering retains approximately three times the point density at comparable absolute relative error. We also apply the pipeline to the BotanicGarden dataset to systematically compare depth estimation and 3D reconstruction methods. Feedforward methods produce dense depth predictions efficiently, but their 3D reconstructions can contain duplicated structures. Conventional SfM generally produces more coherent geometry, but its reconstructions remain sparse and more prone to failure in challenging vegetated scenes. The benchmark toolkit and datasets will be released.",
-    "authors": [
-      "Zhipeng Zhong",
-      "Matthew Coombes",
-      "Cunjia Liu"
-    ],
-    "published": "2026-11-03",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2611.05361v1",
-    "pdf_url": "https://arxiv.org/pdf/2611.05361v1",
-    "doi": null,
-    "citations": 0,
-    "venue": "arXiv preprint",
-    "open_access": true,
-    "ai_summary": "The pipeline reuses camera images, LiDAR scans, and reference poses from existing multi-sensor localization datasets to generate per-view depth maps and visible reference point clouds . To address visibility errors, we introduce the LargeDepth-Gap Visibility Score (LDGVS) for point-wise visibility filtering and automatic scale selection in Hidden"
-  },
-  {
-    "id": "arxiv:2611.05368v1",
-    "title": "GUILD: Guided Iterative Data Collection for Imitation Learning",
-    "abstract": "Imitation learning policies in robotics are trained on datasets collected through costly real-world teleoperation. Often, the data-collection process is unguided, relying on the teleoperator's intuition, resulting in data that contributes little to overall policy performance. Recent work has shown that curating such unguided datasets can substantially improve policy performance, but these approaches operate by filtering existing datasets after collection and therefore do not prevent the acquisition of uninformative data. In this work, we propose GUILD, a novel Guided Data Collection (GDC) method that actively reasons about which data should be collected to maximize downstream policy performance. We introduce an iterative framework that alternates between 1) task proposal and data collection and 2) data evaluation to close the loop. For task proposal, we leverage semantic priors from vision-language models to identify relevant environments, object configurations, and goals for data collection. However, since semantic relevance does not imply policy improvement, we perform data evaluation. By leveraging predictive data attribution we approximate how the collected trajectories influence policy performance on a target deployment setting. This signal is then used as feedback to guide subsequent data collection, closing the data collection loop. We evaluate our approach in simulation and real robot settings, demonstrating that guided data collection substantially improves sample efficiency and deployment performance compared to passive data collection strategies, multiple baselines and experienced roboticists. More information at https://robin-lab.cs.utexas.edu/guild2026/",
-    "authors": [
-      "Shivin Dass",
-      "Kevin Nguyen",
-      "Rohan Yelandur",
-      "Junhong Xu",
-      "Roberto Martín-Martín"
-    ],
-    "published": "2026-11-03",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2611.05368v1",
-    "pdf_url": "https://arxiv.org/pdf/2611.05368v1",
-    "doi": null,
-    "citations": 0,
-    "venue": "arXiv preprint",
-    "open_access": true,
-    "ai_summary": "GuILD is a novel Guided Data Collection (GDC) method that actively reasons about which data should be collected to maximize downstream policy performance . We introduce an iterative framework that alternates between 1) task proposal and data collection and 2) data evaluation to close the loop ."
-  },
-  {
-    "id": "arxiv:2611.05372v1",
-    "title": "PolicyIK: High-Precision Inverse Kinematics for Robot Arms with Reinforcement Learning",
-    "abstract": "Inverse kinematics (IK) converts end-effector pose commands into joint motion, and many vision-language-action (VLA) policies rely on it to act on a given arm and to transfer across embodiments. Precise IK remains laborious: redundancy and singularities complicate the inverse mapping, execution depends on hand-tuned controllers, and training data on physical robots are costly to collect. We present PolicyIK, a goal-conditioned reinforcement learning policy for high-precision IK. It updates joint-position references from pose feedback and observes its accumulated reference relative to the measured joints, so it can retain the offset that the position controller needs at rest. Two-scale pose errors with an error-dependent action gain resolve millimeter residuals while preserving large motions. Progress and dwell rewards teach it to both reach the tolerance and stay within it. In simulation, a single attempt by the trained PPO policy keeps the mean errors over the final second within 1 mm and 0.2° on 93.5% of held-out tasks, and a deployment protocol raises success to 98.9%. When trained directly on a physical arm with an off-policy RL learner, PolicyIK achieves higher reaching and holding success than all four classical IK controllers under the same time budgets. In simulated pick-and-place, PolicyIK executes the end-effector commands of the $π_{0.5}$ VLA policy with 95.7% success. These results show that reinforcement learning can provide high-precision inverse kinematics for robot arms. Code is available at https://github.com/Tinaliu0123/PolicyIK.",
-    "authors": [
-      "Yuhan Liu",
-      "Xinqi Liu",
-      "Zixuan Dong",
-      "Keith W. Ross",
-      "Shenji Wan"
-    ],
-    "published": "2026-11-03",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2611.05372v1",
-    "pdf_url": "https://arxiv.org/pdf/2611.05372v1",
-    "doi": null,
-    "citations": 0,
-    "venue": "arXiv preprint",
-    "open_access": true,
-    "ai_summary": "Inverse kinematics converts end-effector pose commands into joint motion . Many vision-language-action (VLA) policies rely on it to act on a given arm . Precise IK remains laborious: redundancy and singularities complicate the inverse mapping, execution depends on hand-tuned controllers ."
+    "ai_summary": "Python's pyequate provides observed-score equating under random groups and common-item nonequivalent groups . It also provides item response theory parameter linking and true-score and observed- score equating ."
   },
   {
     "id": "arxiv:2611.05376v1",
@@ -1650,6 +610,26 @@
     "ai_summary": "Direct Nash Optimization (DNO) aligns a language model to a general preference function by approximating the Nash equilibrium of a two-player preference game . Its practical variant, DNO-Prct, iterates on-policy sampling, LLM-based rating of the samples together with a teacher's gold response ."
   },
   {
+    "id": "arxiv:2611.05361v1",
+    "title": "Visibility-Aware Reference Generation for Benchmarking Visual 3D Reconstruction in Vegetation-Rich Environments",
+    "abstract": "Reliable evaluation of visual 3D reconstruction and depth estimation in vegetation-rich outdoor environments is limited by the scarcity of geometric ground-truth data and the cost of complete scanner surveys. We present a LiDARbased reference-generation pipeline for evaluating the zero-shot performance of feed-forward visual-geometry models alongside conventional structure-from-motion (SfM) methods. The pipeline reuses camera images, LiDAR scans, and reference poses from existing multi-sensor localization datasets to generate per-view depth maps and visible reference point clouds. To address visibility errors in accumulated LiDAR scans, we introduce the LargeDepth-Gap Visibility Score (LDGVS) for point-wise visibility filtering and automatic scale selection in Hidden Point Removal(HPR). Experiments on TartanAirV2 and TartanGround show that, compared with Poisson surface reconstruction, which is an approach suited to completed scan surveys, the combined HPR and LDGVS filtering retains approximately three times the point density at comparable absolute relative error. We also apply the pipeline to the BotanicGarden dataset to systematically compare depth estimation and 3D reconstruction methods. Feedforward methods produce dense depth predictions efficiently, but their 3D reconstructions can contain duplicated structures. Conventional SfM generally produces more coherent geometry, but its reconstructions remain sparse and more prone to failure in challenging vegetated scenes. The benchmark toolkit and datasets will be released.",
+    "authors": [
+      "Zhipeng Zhong",
+      "Matthew Coombes",
+      "Cunjia Liu"
+    ],
+    "published": "2026-11-03",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2611.05361v1",
+    "pdf_url": "https://arxiv.org/pdf/2611.05361v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "The pipeline reuses camera images, LiDAR scans, and reference poses from existing multi-sensor localization datasets to generate per-view depth maps and visible reference point clouds . To address visibility errors, we introduce the LargeDepth-Gap Visibility Score (LDGVS) for point-wise visibility filtering and automatic scale selection in Hidden"
+  },
+  {
     "id": "arxiv:2611.05377v1",
     "title": "DreamX: Video Diffusion Model is a Universal Latent Action Learner",
     "abstract": "Learning a universal action representation from video requires modeling dynamics that are consistent across different executions of the same action yet invariant to changes in embodiment and appearance. Existing latent action models infer actions from visual transitions, but their representations often entangle the underlying action with irrelevant visual variations, limiting transfer across embodiments. We introduce DreamX, which repurposes a pretrained video diffusion model as a universal latent action learner. Our approach extracts compact latent actions from the video model's rich spatiotemporal features, compressing each latent video frame by $\\boldsymbol{300\\times}$ ($\\boldsymbol{1{,}200 \\rightarrow 4}$ tokens). In addition, by leveraging the video model's generative prior, these latent actions capture action-relevant dynamics disentangled from visual appearance. The resulting latent space serves as a shared action interface across embodiments (human and robot), environments, and action parameterizations. On LARY-Bench, DreamX achieves state-of-the-art performance among latent action models. Moreover, actions encoded in one setting remain effective in another: the latent space supports any-to-any video transfer and zero-shot action transfer across diverse embodiments and environments. Furthermore, this shared interface also enables policy learning in a compact latent action space, reducing the computational cost of video-diffusion-based policies.",
@@ -1674,6 +654,50 @@
     "venue": "arXiv preprint",
     "open_access": true,
     "ai_summary": "DreamX repurposes a pretrained video diffusion model as a universal latent action learner . The resulting latent space serves as a shared action interface across embodiments (human and robot)"
+  },
+  {
+    "id": "arxiv:2611.05372v1",
+    "title": "PolicyIK: High-Precision Inverse Kinematics for Robot Arms with Reinforcement Learning",
+    "abstract": "Inverse kinematics (IK) converts end-effector pose commands into joint motion, and many vision-language-action (VLA) policies rely on it to act on a given arm and to transfer across embodiments. Precise IK remains laborious: redundancy and singularities complicate the inverse mapping, execution depends on hand-tuned controllers, and training data on physical robots are costly to collect. We present PolicyIK, a goal-conditioned reinforcement learning policy for high-precision IK. It updates joint-position references from pose feedback and observes its accumulated reference relative to the measured joints, so it can retain the offset that the position controller needs at rest. Two-scale pose errors with an error-dependent action gain resolve millimeter residuals while preserving large motions. Progress and dwell rewards teach it to both reach the tolerance and stay within it. In simulation, a single attempt by the trained PPO policy keeps the mean errors over the final second within 1 mm and 0.2° on 93.5% of held-out tasks, and a deployment protocol raises success to 98.9%. When trained directly on a physical arm with an off-policy RL learner, PolicyIK achieves higher reaching and holding success than all four classical IK controllers under the same time budgets. In simulated pick-and-place, PolicyIK executes the end-effector commands of the $π_{0.5}$ VLA policy with 95.7% success. These results show that reinforcement learning can provide high-precision inverse kinematics for robot arms. Code is available at https://github.com/Tinaliu0123/PolicyIK.",
+    "authors": [
+      "Yuhan Liu",
+      "Xinqi Liu",
+      "Zixuan Dong",
+      "Keith W. Ross",
+      "Shenji Wan"
+    ],
+    "published": "2026-11-03",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2611.05372v1",
+    "pdf_url": "https://arxiv.org/pdf/2611.05372v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "Inverse kinematics converts end-effector pose commands into joint motion . Many vision-language-action (VLA) policies rely on it to act on a given arm . Precise IK remains laborious: redundancy and singularities complicate the inverse mapping, execution depends on hand-tuned controllers ."
+  },
+  {
+    "id": "arxiv:2611.05368v1",
+    "title": "GUILD: Guided Iterative Data Collection for Imitation Learning",
+    "abstract": "Imitation learning policies in robotics are trained on datasets collected through costly real-world teleoperation. Often, the data-collection process is unguided, relying on the teleoperator's intuition, resulting in data that contributes little to overall policy performance. Recent work has shown that curating such unguided datasets can substantially improve policy performance, but these approaches operate by filtering existing datasets after collection and therefore do not prevent the acquisition of uninformative data. In this work, we propose GUILD, a novel Guided Data Collection (GDC) method that actively reasons about which data should be collected to maximize downstream policy performance. We introduce an iterative framework that alternates between 1) task proposal and data collection and 2) data evaluation to close the loop. For task proposal, we leverage semantic priors from vision-language models to identify relevant environments, object configurations, and goals for data collection. However, since semantic relevance does not imply policy improvement, we perform data evaluation. By leveraging predictive data attribution we approximate how the collected trajectories influence policy performance on a target deployment setting. This signal is then used as feedback to guide subsequent data collection, closing the data collection loop. We evaluate our approach in simulation and real robot settings, demonstrating that guided data collection substantially improves sample efficiency and deployment performance compared to passive data collection strategies, multiple baselines and experienced roboticists. More information at https://robin-lab.cs.utexas.edu/guild2026/",
+    "authors": [
+      "Shivin Dass",
+      "Kevin Nguyen",
+      "Rohan Yelandur",
+      "Junhong Xu",
+      "Roberto Martín-Martín"
+    ],
+    "published": "2026-11-03",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2611.05368v1",
+    "pdf_url": "https://arxiv.org/pdf/2611.05368v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "GuILD is a novel Guided Data Collection (GDC) method that actively reasons about which data should be collected to maximize downstream policy performance . We introduce an iterative framework that alternates between 1) task proposal and data collection and 2) data evaluation to close the loop ."
   },
   {
     "id": "arxiv:2611.05359v1",
@@ -2446,7 +1470,7 @@
     "citations": 0,
     "venue": "arXiv preprint",
     "open_access": true,
-    "ai_summary": "Antibody affinity maturation is a natural optimization process in which B cells acquire mutations through somatic hypermutation (SHM) We introduce iGC (in silico Germinal Centers) framework for antigen-specific antibody optimization . Stage 1 learns an SHM mutation prior from parent-child pairs in B-cell lineage trees and adapts"
+    "ai_summary": "Antibody affinity maturation is a natural optimization process in which B cells acquire mutations through somatic hypermutation . We introduce iGC (in silico Germinal Centers) framework for antigen-specific antibody optimization . Stage 1 learns an SHM mutation prior from parent-child pairs in B-cell lineage trees and adapts it to a target affinity-maturation"
   },
   {
     "id": "arxiv:2611.05266v1",
@@ -2628,178 +1652,204 @@
     "ai_summary": "Looped transformers increase effective depth by repeatedly applying a shared set of transformer layers . But standard residual connections aggregate information across recurrent depth into a single stream . In this paper, we introduce ARLoop, a looped transformer architecture based on attention residuals ."
   },
   {
-    "id": "openalex:W7164527780",
-    "title": "Integrated transcriptomic and metabolomic analyses reveal developmental and metabolic differences between wild and cultivated Cordyceps chanhua",
-    "abstract": "",
+    "id": "pubmed:42978998",
+    "title": "Cognitive demand as a neurometabolic stress test in diabetes-associated cognitive impairment: from static metabolite pools to dynamic energy responses.",
+    "abstract": "Diabetes-associated cognitive impairment (DCI) is heterogeneous and cannot be explained by chronic hyperglycaemia or isolated resting metabolic abnormalities. Measurements of transporter abundance, metabolite pools, perfusion, or functional endpoints alone do not determine whether the brain can dynamically recruit energetic support when cognitive demand increases. To conceptualize cognitive demand as a neurometabolic stress test, distinguish static metabolic states from dynamic adaptive responses, and establish a falsifiable framework for activity-dependent neurometabolic failure in DCI. This concept-driven critical review used an iterative PubMed/MEDLINE-centred search updated through August 2026, supplemented by backward and forward citation tracking. Evidence was organized along the demand-to-function pathway, encompassing cognitive-task, glucose/insulin, hypoglycaemic or alternative-substrate, and neural/network challenges. Studies were prioritized when they provided information on temporal dynamics, pathway flux, cellular or regional specificity, or causal perturbation. Normal cognitive function requires coordinated recruitment of vascular delivery, substrate mobilization and allocation, oxidative metabolism, phosphotransfer buffering, and ATP turnover, even when metabolite and high-energy phosphate pools remain relatively stable. Evidence from diabetes and insulin resistance demonstrates heterogeneous, challenge-dependent abnormalities that may involve reduced response amplitude, temporal misalignment, altered substrate distribution, or impaired metabolic utilization rather than uniform cerebral hypometabolism. We propose four non-exclusive within-challenge phenotypes of neurometabolic failure: blunted recruitment, mistimed recruitment, substrate misallocation, and malutilization. Neurometabolic reserve denotes recruitable adaptive capacity; its exhaustion is considered a longitudinal contraction of that capacity, not a fifth within-challenge phenotype or a conclusion warranted by a single attenuated response. However, current evidence has not yet established a complete causal chain linking cognitive demand, substrate fate, energetic support, neural computation, and cognitive performance in clinically characterized DCI. We propose cognitive demand as an experimental neurometabolic stress test for investigating metabolic vulnerabilities that may remain undetected at rest, rather than as a validated clinical diagnostic test. Activity-dependent neurometabolic failure should therefore be considered a testable contributor rather than an established universal mechanism of DCI. Future studies integrating challenge-locked, temporally aligned, and compartment-resolved metabolic measurements with causal perturbation and longitudinal assessment are required to define when endocrine-metabolic dysfunction translates into cognitive vulnerability.",
     "authors": [
-      "Wei Ji",
-      "Xiaomei Liu",
-      "Tang Xueyan",
-      "Wenying Su",
-      "Wenbo Chai",
-      "Jintao Ge",
-      "Lijuan Hou",
-      "Fuhou Li"
-    ],
-    "published": "2026-11-03",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.1186/s43014-026-00436-2",
-    "pdf_url": "https://doi.org/10.1186/s43014-026-00436-2",
-    "doi": "10.1186/s43014-026-00436-2",
-    "citations": 0,
-    "venue": "Food Production Processing and Nutrition",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W7160319602",
-    "title": "Towards Early and Accurate Disease Detection Through Multimodal Predictive Modeling: Fusion of Electronic Health Records, Medical Imaging, And Omics Data Using Interpretable Machine Learning.",
-    "abstract": "",
-    "authors": [
-      "Muhammad Ahsan Hayat",
-      "Jahangir Baig",
-      "Shayan Ahmed",
-      "Ahmed Faraz Ayubi"
-    ],
-    "published": "2026-11-03",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.5281/zenodo.20044865",
-    "pdf_url": "https://policyrj.com/1/article/download/1222/1090",
-    "doi": "10.5281/zenodo.20044865",
-    "citations": 0,
-    "venue": "Policy Research Journal",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W7147409806",
-    "title": "Thermodynamically Constrained Deep Learning for Hydrogen Sorption Prediction: Overcoming Classical Isotherm Generalization Failure through Physics-Informed Cross-Lithology Transferability",
-    "abstract": "",
-    "authors": [
-      "Mohammad Nooraiepour",
-      "Mohammad Masoudi",
-      "Zezhang Song",
-      "Helge Hellevang"
-    ],
-    "published": "2026-11-03",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.1021/acsomega.6c08678",
-    "pdf_url": "https://doi.org/10.1021/acsomega.6c08678",
-    "doi": "10.1021/acsomega.6c08678",
-    "citations": 0,
-    "venue": "ACS Omega",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W7212030572",
-    "title": "Vague Stimulating Ideas, Images and Metaphors in Scientific Thinking: Researchers’ Work with Horizons of Unclear Knowledge",
-    "abstract": "",
-    "authors": [
-      "Alexander N. Poddiakov"
-    ],
-    "published": "2026-11-03",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.1007/s12124-026-10042-z",
-    "pdf_url": "https://doi.org/10.2139/ssrn.7437658",
-    "doi": "10.1007/s12124-026-10042-z",
-    "citations": 0,
-    "venue": "Integrative Psychological and Behavioral Science",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W7225094501",
-    "title": "Smart Leaf Identification and Analysis using Artificial Intelligence",
-    "abstract": "",
-    "authors": [
-      "Balamurali Ravichandran",
-      "Abhinav Tiwari",
-      "Joydeep Roy"
-    ],
-    "published": "2026-11-03",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.5614/itbj.ict.res.appl.2026.20.3.6",
-    "pdf_url": "https://doi.org/10.5614/itbj.ict.res.appl.2026.20.3.6",
-    "doi": "10.5614/itbj.ict.res.appl.2026.20.3.6",
-    "citations": 0,
-    "venue": "Journal of ICT Research and Applications",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W4416519743",
-    "title": "A Survey of LLM-based Software Repair: Taxonomies, Design Paradigms, and Applications",
-    "abstract": "",
-    "authors": [
-      "Boyang Yang",
-      "Zijian Cai",
-      "Fenglin Liu",
-      "Bach Le",
-      "Lingming Zhang",
-      "Tegawendé François Bissyandé",
-      "Yang Liu",
-      "Haoye Tian"
-    ],
-    "published": "2026-11-02",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.1145/3845995",
-    "pdf_url": "https://arxiv.org/pdf/2506.23749",
-    "doi": "10.1145/3845995",
-    "citations": 4,
-    "venue": "ACM Transactions on Software Engineering and Methodology",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "openalex:W4416297160",
-    "title": "LEM-3/ANKLE1 nuclease prevents the formation of abnormal syncytium to safeguard neuronal differentiation",
-    "abstract": "",
-    "authors": [
-      "Siyu Deng",
-      "Chaogu Zheng"
-    ],
-    "published": "2026-11-02",
-    "source": "OpenAlex",
-    "category": "index",
-    "url": "https://doi.org/10.1371/journal.pbio.3004099",
-    "pdf_url": "https://doi.org/10.1371/journal.pbio.3004099",
-    "doi": "10.1371/journal.pbio.3004099",
-    "citations": 0,
-    "venue": "PLoS Biology",
-    "open_access": true,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "pubmed:42977679",
-    "title": "Maternal Anxiety and Depression From Pregnancy to Postpartum: Associations With Infants' Cortical Functional Connectivity at 1 Month.",
-    "abstract": "Maternal anxiety and depression have been associated with alterations in functional connectivity (FC) in infancy, a period in which rapid brain development and functional network organization have been linked to longer term socioemotional outcomes. Investigating maternal anxiety and depression within the same sample is important, given that they frequently co-occur and may show distinct associations with infant brain development. A longitudinal approach is key to understanding whether and how changes in maternal mental health across the perinatal period relate to infant brain development. We examined associations of subclinical prenatal and postnatal maternal depression and anxiety, measured via questionnaires at 32 weeks of gestation and 1 month postpartum, with infants' FC at 1 month of age. Task-free FC data were collected during natural sleep using High-Density Diffuse Optical Tomography (HD-DOT) in the home. No associations were observed between maternal anxiety symptoms and FC, and neither postnatal depression nor anxiety alone predicted infant FC. Lower maternal prenatal depression scores were associated with stronger FC in the infants' frontal network (n = 39). In contrast, greater increases in maternal depressive symptoms from the prenatal to postnatal periods were linked to increased frontal FC, particularly when mothers had higher prenatal depression levels (n = 28). Most symptom changes were small in magnitude and did not cross clinical thresholds, suggesting largely subclinical and transient mood shifts. We speculate that while early prenatal exposure may signal vulnerability in specific neural circuits, the subsequent increase in symptoms could trigger compensatory or accelerated development in the same networks. Replication with larger, more diverse, samples and longitudinal research is needed to determine whether these subtle early fluctuations in maternal symptoms are associated with longer-term trajectories of infant brain development beyond the perinatal window.",
-    "authors": [
-      "Zayna K Mian",
-      "Laura Carnevali",
-      "Borja Blanco",
-      "Maria Rozhko",
-      "Matthew Weatherhead",
-      "Liam H Collins-Jones",
-      "Sarah Lloyd-Fox",
-      "Mark H Johnson",
-      ""
+      "Mingyang Li",
+      "Min Ye",
+      "Hongyu Xie",
+      "Ting Gao",
+      "Wenjing Kan",
+      "Yiming Chen",
+      "Yu Xia",
+      "Yonghua Zhao",
+      "Aihong Yuan"
     ],
     "published": "2026",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42977679/",
-    "pdf_url": null,
-    "doi": "10.1111/infa.70135",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42978998/",
+    "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13728930/pdf/",
+    "doi": "10.3389/fendo.2026.1991245",
     "citations": 0,
-    "venue": "Infancy : the official journal of the International Society on Infant Studies",
+    "venue": "Frontiers in endocrinology",
+    "open_access": true,
+    "ai_summary": "Diabetes-associated cognitive impairment (DCI) is heterogeneous and cannot be explained by chronic hyperglycaemia or isolated resting metabolic abnormalities . Measurements of transporter abundance, metabolite pools, perfusion, or functional endpoints alone do not determine whether the brain can dynamically recruit energetic support when cognitive demand increases ."
+  },
+  {
+    "id": "pubmed:42978963",
+    "title": "Cone-beam CT-based synthetic CT generation for adaptive radiotherapy: methodological paradigms, clinical reliability assessment, and translation.",
+    "abstract": "Synthetic computed tomography (sCT) generated from cone-beam computed tomography (CBCT) has important applications in quantitative imaging, dose recalculation, and adaptive radiotherapy. Deep learning has improved image quality and Hounsfield unit accuracy, but its reliability for patient-specific dosimetry and routine clinical use remains uncertain. This narrative review examines deep learning methods for generating sCT from treatment CBCT in photon and proton radiotherapy, with emphasis on data requirements, generalizability, structural fidelity, dosimetric accuracy, and clinical feasibility. The literature search was last updated on 30 July 2026. Current methods mainly include supervised regression, adversarial networks, registrationguided approaches, and diffusion models. Available evidence demonstrates encouraging image and dosimetric performance, although no method consistently performs best across anatomical sites, imaging systems, and treatment modalities. Most studies are based on proof of concept or single-center validation and show considerable heterogeneity in datasets, acquisition protocols, reference images, registration methods, and evaluation criteria. External validation, prospective assessment, failure detection, and quality assurance remain limited. Future studies should emphasize multicenter validation, standardized and modality-specific evaluation criteria, uncertainty assessment, and prospective workflow testing. More rigorous and clinically relevant evidence is needed to support the reliable use of sCT in patient-specific adaptive radiotherapy.",
+    "authors": [
+      "Yunxian Zhang",
+      "Wanting Zhang",
+      "Jinbai Huang",
+      "Jingwei Zhao",
+      "Huasong Luo",
+      "Da He",
+      "Zhi Yang"
+    ],
+    "published": "2026",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42978963/",
+    "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13728785/pdf/",
+    "doi": "10.3389/fonc.2026.1981244",
+    "citations": 0,
+    "venue": "Frontiers in oncology",
+    "open_access": true,
+    "ai_summary": "Synthetic computed tomography (sCT) has important applications in quantitative imaging, dose recalculation, and adaptive radiotherapy . Deep learning has improved image quality and Hounsfield unit accuracy, but its reliability for patient-specific dosimetry and routine clinical use remains uncertain ."
+  },
+  {
+    "id": "pubmed:42978960",
+    "title": "Predicting nanoparticle tumor delivery efficiency using explainable machine learning for cancer nanomedicine design.",
+    "abstract": "Nanoparticle-based drug delivery systems have been proposed as a promising strategy for improving the efficacy and specificity of cancer therapeutics. However, predicting tumor delivery efficiency remains challenging because of complex interactions among nanoparticle physicochemical properties, biological environments, and experimental conditions. This study presents an explainable machine-learning framework for predicting nanoparticle tumor delivery efficiency using the updated Nano-Tumor Database. Following data preprocessing and feature engineering, 2,319 records were used to develop and evaluate Random Forest, Extreme Gradient Boosting (XGBoost), Light Gradient Boosting Machine (LightGBM), weighted ensemble, and stacking ensemble models. To reduce information leakage from repeated nanoparticle measurements, model development and evaluation were revised using nanoparticle-identity-aware grouping based on NM.ID, with categorical preprocessing fitted exclusively on training data. In the final untouched NM.ID-grouped hold-out set, the stacking ensemble achieved the lowest RMSE (3.8107) and highest ",
+    "authors": [
+      "Abdul Karim",
+      "Sutikno",
+      "Arry Maulana Syarif",
+      "In Cheol Jeong"
+    ],
+    "published": "2026",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42978960/",
+    "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13727747/pdf/",
+    "doi": "10.3389/fbioe.2026.1919132",
+    "citations": 0,
+    "venue": "Frontiers in bioengineering and biotechnology",
+    "open_access": true,
+    "ai_summary": "Nanoparticle-based drug delivery systems have been proposed as a promising strategy for improving the efficacy and specificity of cancer therapeutics . The study presents an explainable machine-learning framework for predicting nanoparticle tumor delivery efficiency ."
+  },
+  {
+    "id": "pubmed:42978952",
+    "title": "Revisiting the MS paradox: automated 2.5D FLAIR segmentation and DTI microstructural profiling reveals dissociation between lesion burden and reference-like intralesional tract profiles.",
+    "abstract": "Magnetic resonance imaging (MRI) reveals macroscopic lesion burden in multiple sclerosis (MS) but correlates poorly with clinical phenotype, a phenomenon known as the clinico-radiological paradox. While diffusion tensor imaging (DTI) metrics assess microstructural damage, standard whole-lesion averaging may obscure microstructurally spared white matter within heterogeneous plaques. We propose a fully automated, multimodal pipeline to identify and quantify reference-like intralesional segments (RLIS) within MS lesions (i.e., the cluster exhibiting maximum feature-space similarity to subject-specific, lesion-spared reference tissue). A modified 2.5D U-Net, developed and evaluated on a cohort of 75 MS patients (115 series), performed automated FLAIR lesion segmentation. In an independent cohort of 100 MS subjects, intralesional DTI metrics (FA and MD) were extracted along streamlines reconstructed via Constrained Spherical Deconvolution tractography. Unsupervised clustering algorithms, validated against a subject-specific, lesion-spared reference CST streamlines (internal capsule), identified operationally defined reference-like segments. The 2.5D U-Net achieved robust segmentation performance (DSC: 0.732, VC: 0.954), exhibited higher nominal metrics in a contextual benchmark comparison (DSC: 0.682, VC: 0.864). Across the clinical cohort, lesion count (11-131) and volume (0.54-57.3 mL) varied widely. Among the evaluated clustering methods, K-Means and Gaussian Mixture Models proved to be the most conservative, identifying median reference-like segment proportions of 26% and 22%, respectively. Crucially, the proportion of reference-like intralesional segments showed no significant monotonic association with macroscopic lesion volume or count. This automated framework successfully integrates robust deep learning-based lesion segmentation with tract-specific analysis to quantify the proportion of reference-like intralesional segments. The observed dissociation between overall lesion burden and RLIS suggests that this index serves as a promising candidate metric for exploring microstructural features that may contribute to the clinico-radiological paradox.",
+    "authors": [
+      "Edgar A Toscano-Flores",
+      "Mario Alberto Mireles-Ramírez",
+      "José de Jesús Guerrero-García",
+      "Francisco J Alvarez-Padilla"
+    ],
+    "published": "2026",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42978952/",
+    "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13727719/pdf/",
+    "doi": "10.3389/fnhum.2026.1901702",
+    "citations": 0,
+    "venue": "Frontiers in human neuroscience",
+    "open_access": true,
+    "ai_summary": "Magnetic resonance imaging (MRI) reveals macroscopic lesion burden in multiple sclerosis (MS) But correlates poorly with clinical phenotype, a phenomenon known as the clinico-radiological paradox . A modified 2.5D U-Net, developed and evaluated on a cohort of 75 MS patients (115 series)"
+  },
+  {
+    "id": "pubmed:42978999",
+    "title": "Computational identification of EBNA1-binding candidates using machine learning-based virtual screening and molecular docking.",
+    "abstract": "Epstein-Barr virus (EBV) is associated with several malignancies and multiple sclerosis, and Epstein-Barr nuclear antigen 1 (EBNA1) plays an essential role in viral genome replication and episome maintenance. The experimentally characterized KVD-associated pocket within the EBNA1 DNA-binding domain provides a structurally defined site for computational ligand prioritization. This study aimed to identify and prioritize predicted EBNA1-binding candidates using an integrated machine-learning and structure-based virtual screening framework. A PubChem EBNA1 bioactivity dataset comprising 304,124 records was curated to obtain 4,584 unique compounds. Molecular representation combined 1,024-bit Morgan fingerprints with 11 RDKit molecular descriptors. Random Forest, SVM-RBF, Logistic Regression, and XGBoost models were evaluated using scaffold-based independent testing. The optimized XGBoost model was applied to a non-overlapping DrugBank library of 12,287 compounds. Compounds with predicted activity probabilities ≥0.5 were subjected to Lipinski-based filtering, followed by molecular docking against the KVD-associated binding pocket of EBNA1 (PDB ID: 6NPM). Docking validation was performed by independent KVD redocking at exhaustiveness values of 8, 16, and 32. Post-docking candidates were further evaluated using PAINS, aggregation, frequent-hitter/promiscuity, assay-interference, redox-associated structural-alert, and ADMET assessments. XGBoost demonstrated the highest test-set ROC-AUC (0.835), PR-AUC (0.408), and best Brier score (0.067), and was selected for virtual screening. Screening identified 116 compounds above the probability threshold, of which 40 satisfied Lipinski criteria and were docked. Thirty-two compounds achieved docking scores ≤ -7.0 kcal/mol. Sequential liability assessment and integrated prioritization identified 10 computationally prioritized EBNA1-binding candidates with favorable combined machine-learning, docking, and structural-filter profiles. The integrated computational framework enabled systematic prioritization of structurally diverse predicted EBNA1-binding candidates for further experimental investigation. The identified candidates represent computationally prioritized molecules for subsequent biochemical and functional evaluation of EBNA1 binding and activity and should not be interpreted as experimentally validated antiviral or disease-modifying agents. Virtual screening for drug discovery using trained ML model for EBNA1 protein, Molecular Docking, and ADMET analysis.",
+    "authors": [
+      "Akshata P Pauskar",
+      "Elamathi Natarajan"
+    ],
+    "published": "2026",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42978999/",
+    "pdf_url": null,
+    "doi": "10.1007/s40203-026-00785-3",
+    "citations": 0,
+    "venue": "In silico pharmacology",
     "open_access": false,
-    "ai_summary": "Maternal anxiety and depression have been associated with alterations in functional connectivity (FC) in infancy . The period in which rapid brain development and functional network organization have been linked to longer term socioemotional outcomes ."
+    "ai_summary": "Epstein-Barr virus (EBV) is associated with several malignancies and multiple sclerosis, and Epstein-barr nuclear antigen 1 (EBNA1) plays an essential role in viral genome replication and episome maintenance ."
+  },
+  {
+    "id": "pubmed:42978950",
+    "title": "Rural digitalization and the multidimensional wellbeing of older adults in China: evidence from the active aging framework.",
+    "abstract": "Building a more inclusive digital environment is a key strategy for promoting rural digitalization, narrowing the digital divide, and enhancing the wellbeing of older adults in rural areas. However, despite its increasing relevance, research on how rural digitalization affects the wellbeing of older adults in developing countries remains scarce. This study aims to examine the relationship between rural digitalization and the wellbeing of older residents in rural areas, with a particular focus on its underlying mechanisms and heterogeneous effects. Grounded in the World Health Organization (WHO) framework for active aging and the multidimensional measurement approach of the Active Aging Index (AAI), this study develops a comprehensive index for evaluating the wellbeing of older adults in rural China while accounting for the specific socioeconomic and contextual characteristics of rural areas. Using matched data from the China Provincial Digital Development Index (2016-2022) and the China Family Panel Studies (CFPS), to systematically analyze the relationship between rural digitalization and the wellbeing of the older adults in rural areas, as well as the mechanisms underlying this relationship, and the underlying mechanisms are explored through a double machine learning approach. Analysis indicates that rural digital development significantly enhances self-efficacy, expands social networks, and strengthens social trust among rural older residents. These factors constitute key mechanisms through which digital development is associated with improved wellbeing among rural older residents. The heterogeneity analysis further reveals that the positive impact of digitalization on wellbeing are more pronounced among older adults with lower educational attainment, those with moderate or low income levels, and those living with their children, and the positive correlation is stronger in China's central and western regions. Overall, this study extends active aging theory to rural digital contexts in developing countries, thereby improving its contextual applicability, while also enriching the existing framework for evaluating the wellbeing of rural older adults and providing policy insights for promoting an inclusive digital society and a more equitable distribution of digital dividends.",
+    "authors": [
+      "Hubang Wang",
+      "Qiaohan Liu",
+      "Yujie Liu",
+      "Shimin Wei",
+      "Meihan Zhu",
+      "Boyao Li",
+      "Hongli Wang"
+    ],
+    "published": "2026",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42978950/",
+    "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13728775/pdf/",
+    "doi": "10.3389/fpubh.2026.1900178",
+    "citations": 0,
+    "venue": "Frontiers in public health",
+    "open_access": true,
+    "ai_summary": "Study aims to examine relationship between rural digitalization and the wellbeing of older residents in rural areas . The World Health Organization (WHO) framework for active aging and the multidimensional measurement approach of the Active Aging Index (AAI) This study develops a comprehensive index for evaluating the wellbeing in rural China ."
+  },
+  {
+    "id": "pubmed:42978937",
+    "title": "Comparative analysis of GAN-based augmentation pipelines for Parkinson's hypokinetic dysarthria severity detection using deep learning.",
+    "abstract": "Class imbalance is a common problem in speech-based severity detection, which can result in biased models and poor recognition of minority severity classes. Generative Adversarial Networks (GANs) have been widely used for data augmentation, but very few studies have comparatively evaluated GAN-based augmentation at different stages of the speech-processing pipeline for assessing Parkinson's hypokinetic dysarthria severity. This paper compares GAN-generated speech (GGS) and GAN-generated image (GGI) augmentation methods for addressing class imbalance in low-frequency cepstrogram-based severity detection using the PC-GITA dataset. GAN-based augmentation was used to generate balanced training datasets using two different augmentation pipelines. The original speech and synthetic speech generated using GGS were converted into low-frequency cepstrogram representations, whereas GGI directly generated low-frequency cepstrogram images. These representations were used as inputs to a CNN trained and evaluated under Speaker-independent (SI) and Speaker-dependent (SD) conditions. In the speaker-independent evaluation, repeated five-fold speaker-stratified cross-validation with five independent random seeds yielded a mean accuracy of 56.47% ± 3.40% for GGS compared to 55.47% ± 3.35% for GGI and 53.13% ± 3.26% for the original-dataset baseline. GGS showed higher mean accuracy, precision, and specificity, whereas GGI showed higher mean recall and F1-score. In the speaker-dependent evaluation, GGI achieved the highest mean accuracy of 76.48% ± 4.09% compared to 73.04% ± 3.63% for GGS and 73.04% ± 3.25% for the original-dataset baseline. However, the speaker-dependent results represent an optimistic upper-bound evaluation because speaker identity was shared between the training and evaluation partitions. In general, the two GAN-based augmentation pipelines showed potential to address class imbalance under the conditions studied, while their relative performance depended on the evaluation protocol and the classification measure.",
+    "authors": [
+      "Aurobindo S",
+      "Prakash Ramachandran",
+      "Rajesh Kumar M"
+    ],
+    "published": "2026",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42978937/",
+    "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13727737/pdf/",
+    "doi": "10.3389/frai.2026.1951063",
+    "citations": 0,
+    "venue": "Frontiers in artificial intelligence",
+    "open_access": true,
+    "ai_summary": "The paper compares GAN-generated speech (GGS) and GNA-generated image (GGI) augmentation methods for addressing class imbalance in low-frequency cepstrogram-based severity detection ."
+  },
+  {
+    "id": "pubmed:42978932",
+    "title": "Smart materials and additive manufacturing for functional reconstruction in general surgery: responsive hydrogels, bioinks, patient-specific scaffolds, and translational validation.",
+    "abstract": "Smart materials and additive manufacturing are transforming tissue engineering from passive replacement toward functional, responsive and patient-adapted reconstruction. General-surgical applications expose biomaterials to blood, bile, pancreatic enzymes, intestinal contents, polymicrobial biofilms, cyclic loading, hypoxia and inflammatory remodeling. These environments create failure modes that conventional sutures, meshes, drains and inert barriers cannot fully address, including leakage, infection, adhesion formation, fascial dehiscence, recurrent hernia, fistula, delayed vascularization and local tumor recurrence. This review evaluates stimuli-responsive hydrogels, wet-tissue adhesives, hemostatic sealants, antimicrobial and immunomodulatory matrices, decellularized extracellular-matrix bioinks, multi-material scaffolds, patient-specific printing and artificial intelligence-assisted design. Evidence is organized by surgical failure mode and operative workflow, with quantitative comparisons in abdominal-wall reconstruction, gastrointestinal anastomotic protection and hepatobiliary-pancreatic surgery. Material requirements also change with time: handling and hemostasis are determined within minutes, sealing and infection control within days, tissue integration over weeks and durable mechanics or degradation over months. We propose the GS0-GS5 validation hierarchy as a surgical translational framework that complements generic technology-readiness levels by linking each stage to wet and contaminated interfaces, organ-specific fluids, cyclic loading, standardized bench testing, and clinically scaled delivery. We argue that translation depends on treating each material as a procedure-specific system and reporting the linked material, processing and surgical metadata needed for reproducibility, regulatory assessment and clinical adoption.",
+    "authors": [
+      "Yongqing Lou",
+      "Rongchao He",
+      "Xiaojin Liu",
+      "Haibo Wang"
+    ],
+    "published": "2026",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42978932/",
+    "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13728599/pdf/",
+    "doi": "10.3389/fbioe.2026.1977492",
+    "citations": 0,
+    "venue": "Frontiers in bioengineering and biotechnology",
+    "open_access": true,
+    "ai_summary": "Smart materials and additive manufacturing are transforming tissue engineering from passive replacement to functional, responsive and patient-adapted reconstruction . General-surgical applications expose biomaterials to blood, bile, pancreatic enzymes, intestinal contents, polymicrobial biofilms, cyclic loading and hypoxia ."
+  },
+  {
+    "id": "pubmed:42978927",
+    "title": "Diagnostic and predictive value of structural and high-order functional brain topology in major depressive disorder.",
+    "abstract": "Conventional neuroimaging analyses for major depressive disorder (MDD) predominantly construct brain networks based solely on pairwise regional functional couplings. Accumulating microscale neuroscientific evidence highlights the essential role of higher-order interactions (HOIs, interactions among three or more brain nodes) in capturing the intricate spatiotemporal dynamics of the human brain. This study aims to integrate machine learning techniques with neuroimaging topological features to systematically investigate the impact of non-pairwise interaction patterns in the brains of MDD patients on system dynamics, and to develop diagnostic and predictive models for MDD clinical manifestations. Firstly, diffusion tensor imaging (DTI) and resting-state functional magnetic resonance imaging (rs-fMRI) data were acquired from 154 MDD patients with first-episode, drug-naïve and 153 age and gender matched healthy controls (HCs). Graph-theoretical analysis was applied to DTI-derived tractography data to quantify structural topology metrics, whereas persistent homology was adopted to extract higher-order functional topological signatures from rs-fMRI time series. Second, feature-level fusion was performed, and then a classification model was constructed using support vector machine (SVM) for MDD diagnosis. A repeated nested validation strategy with 50 repeated stratified 70/30 hold-out splits was adopted. Classification performance was evaluated using the area under the receiver operating characteristic curve (AUC). Subsequently, a prediction model was built based on the selected fused features using ridge regression, and the prediction performance was evaluated based on the correlation between the predicted values and the actual scale scores. Compared with HC, MDD patients exhibited significant alterations in structural and functional topological metrics within key brain networks, including DMN, VN and FPN. The classification performance of the SVM model integrating multimodal neuroimaging features achieved excellent classification performance, with an AUC of 88.2%. Additionally, multimodal imaging features demonstrated robust predictive capacity for suicide risk level in MDD patients (r=0.604). By integrating structural and higher-order functional topological features, we are able to effectively diagnose and predict MDD, highlighting the crucial role of higher-order interactions in the pathological mechanisms of brain networks in depression.",
+    "authors": [
+      "Xiaoyan Wang",
+      "Xiaofeng Wu",
+      "Mingqi Shi",
+      "Kaili Che",
+      "Xiaojun Shen",
+      "Tongpeng Chu",
+      "Ning Mao",
+      "Peiyuan Wang"
+    ],
+    "published": "2026",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42978927/",
+    "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13727736/pdf/",
+    "doi": "10.3389/fpsyt.2026.1964608",
+    "citations": 0,
+    "venue": "Frontiers in psychiatry",
+    "open_access": true,
+    "ai_summary": "Study aims to integrate machine learning techniques with neuroimaging topological features . It aims to investigate the impact of non-pairwise interaction patterns in the brains of MDD patients on system dynamics ."
   }
 ]
