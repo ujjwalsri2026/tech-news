@@ -100,11 +100,11 @@
     "source": "Crossref",
     "category": "index",
     "url": "https://doi.org/10.3998/mjcsl.9799",
-    "pdf_url": null,
+    "pdf_url": "https://doi.org/10.3998/mjcsl.9799",
     "doi": "10.3998/mjcsl.9799",
     "citations": 0,
     "venue": "Michigan Journal of Community Service Learning",
-    "open_access": false,
+    "open_access": true,
     "ai_summary": "No abstract available."
   },
   {
@@ -140,22 +140,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.3998/mjcsl.8122",
-    "title": "Title Pending 8122",
-    "abstract": "",
-    "authors": [],
-    "published": "2036",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.3998/mjcsl.8122",
-    "pdf_url": null,
-    "doi": "10.3998/mjcsl.8122",
-    "citations": 0,
-    "venue": "Michigan Journal of Community Service Learning",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
     "id": "crossref:10.3998/mjcsl.11105",
     "title": "Title Pending 11105",
     "abstract": "",
@@ -166,6 +150,22 @@
     "url": "https://doi.org/10.3998/mjcsl.11105",
     "pdf_url": null,
     "doi": "10.3998/mjcsl.11105",
+    "citations": 0,
+    "venue": "Michigan Journal of Community Service Learning",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "crossref:10.3998/mjcsl.8122",
+    "title": "Title Pending 8122",
+    "abstract": "",
+    "authors": [],
+    "published": "2036",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.3998/mjcsl.8122",
+    "pdf_url": null,
+    "doi": "10.3998/mjcsl.8122",
     "citations": 0,
     "venue": "Michigan Journal of Community Service Learning",
     "open_access": false,
@@ -196,11 +196,11 @@
     "source": "Crossref",
     "category": "index",
     "url": "https://doi.org/10.21825/ewopinpractice.94702",
-    "pdf_url": null,
+    "pdf_url": "https://openjournals.ugent.be/ewopinpractice/article/id/94702/download/pdf/",
     "doi": "10.21825/ewopinpractice.94702",
     "citations": 0,
     "venue": "EWOP in Practice",
-    "open_access": false,
+    "open_access": true,
     "ai_summary": "No abstract available."
   },
   {
@@ -236,22 +236,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.3998/mjcsl.3643",
-    "title": "Title Pending 3643",
-    "abstract": "",
-    "authors": [],
-    "published": "2033",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.3998/mjcsl.3643",
-    "pdf_url": null,
-    "doi": "10.3998/mjcsl.3643",
-    "citations": 0,
-    "venue": "Michigan Journal of Community Service Learning",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
     "id": "crossref:10.3998/mjcsl.4120",
     "title": "Title Pending 4120",
     "abstract": "",
@@ -262,6 +246,22 @@
     "url": "https://doi.org/10.3998/mjcsl.4120",
     "pdf_url": null,
     "doi": "10.3998/mjcsl.4120",
+    "citations": 0,
+    "venue": "Michigan Journal of Community Service Learning",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
+    "id": "crossref:10.3998/mjcsl.3643",
+    "title": "Title Pending 3643",
+    "abstract": "",
+    "authors": [],
+    "published": "2033",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.3998/mjcsl.3643",
+    "pdf_url": null,
+    "doi": "10.3998/mjcsl.3643",
     "citations": 0,
     "venue": "Michigan Journal of Community Service Learning",
     "open_access": false,
@@ -284,6 +284,24 @@
     "ai_summary": "No abstract available."
   },
   {
+    "id": "crossref:10.56251/watu4873",
+    "title": "Machine Learning Application for SAIs",
+    "abstract": "",
+    "authors": [
+      "Tiare Rivera"
+    ],
+    "published": "2030",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.56251/watu4873",
+    "pdf_url": null,
+    "doi": "10.56251/watu4873",
+    "citations": 0,
+    "venue": "International Journal of Government Auditing",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
     "id": "crossref:10.56251/yxek7242",
     "title": "Evolution and Applications of Artificial Intelligence in SAIs",
     "abstract": "",
@@ -300,24 +318,6 @@
     "url": "https://doi.org/10.56251/yxek7242",
     "pdf_url": null,
     "doi": "10.56251/yxek7242",
-    "citations": 0,
-    "venue": "International Journal of Government Auditing",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "crossref:10.56251/watu4873",
-    "title": "Machine Learning Application for SAIs",
-    "abstract": "",
-    "authors": [
-      "Tiare Rivera"
-    ],
-    "published": "2030",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.56251/watu4873",
-    "pdf_url": null,
-    "doi": "10.56251/watu4873",
     "citations": 0,
     "venue": "International Journal of Government Auditing",
     "open_access": false,
@@ -405,6 +405,49 @@
     "ai_summary": "No abstract available."
   },
   {
+    "id": "crossref:10.70239/arsu.2026.t85.n3.07",
+    "title": "HYBRID NETWORK INTRUSION DETECTION SYSTEM BASED ON SIGNATURE ANALYSIS AND MACHINE LEARNING METHODS",
+    "abstract": "<jats:p>In the context of increasing complexity of modern network infrastructures and the growing number of cyberattacks, improving the effectiveness of intrusion detection systems is a highly relevant task. The aim of this work is to develop and investigate a hybrid approach to network attack detection based on a combination of signature-based analysis and intelligent machine learning methods.  The research methods include analysis of requirements for anomaly detection systems, comparative analysis of existing solutions, design of a hybrid system architecture, and experimental modeling using multiclass classification of network traffic. The results demonstrate that integrating a neural model with a traditional detection system improves attack detection coverage and reduces the number of false positives.  The practical significance of the study lies in the possibility of deploying the proposed architecture in real corporate networks, while the theoretical significance consists in substantiating the effectiveness of a hybrid approach to traffic analysis. Future research directions include adaptive model training and expansion of the range of detectable attacks.</jats:p>",
+    "authors": [
+      "IGISINOV S.ZH.",
+      "RYSKELDIKYZY R.",
+      "GAISAGALEYEVA B.M.",
+      "UVALIYEVA G.M.",
+      "ZHUMABAYEVA ZH.O."
+    ],
+    "published": "2029",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.70239/arsu.2026.t85.n3.07",
+    "pdf_url": null,
+    "doi": "10.70239/arsu.2026.t85.n3.07",
+    "citations": 0,
+    "venue": "Научный журнал \"Вестник Актюбинского регионального университета имени К. Жубанова\"",
+    "open_access": false,
+    "ai_summary": "The aim of this work is to develop and investigate a hybrid approach to network attack detection based on signature-based analysis and intelligent machine learning methods . The practical significance of the study lies in the possibility of deploying the proposed architecture in real corporate networks ."
+  },
+  {
+    "id": "crossref:10.5705/ss.202025.0314",
+    "title": "Transfer Learning for High-dimensional Regression with Compositional Covariates: Application to Microbiome Studies",
+    "abstract": "",
+    "authors": [
+      "Qinqin Hu",
+      "Xiaojing Luo",
+      "Chencheng Ma",
+      "Wang Zhou"
+    ],
+    "published": "2029",
+    "source": "Crossref",
+    "category": "index",
+    "url": "https://doi.org/10.5705/ss.202025.0314",
+    "pdf_url": null,
+    "doi": "10.5705/ss.202025.0314",
+    "citations": 0,
+    "venue": "Statistica Sinica",
+    "open_access": false,
+    "ai_summary": "No abstract available."
+  },
+  {
     "id": "crossref:10.5705/ss.202025.0406",
     "title": "Distributed Learning of Single Index Model with Differential Privacy and Massive Data",
     "abstract": "",
@@ -446,49 +489,6 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "crossref:10.5705/ss.202025.0314",
-    "title": "Transfer Learning for High-dimensional Regression with Compositional Covariates: Application to Microbiome Studies",
-    "abstract": "",
-    "authors": [
-      "Qinqin Hu",
-      "Xiaojing Luo",
-      "Chencheng Ma",
-      "Wang Zhou"
-    ],
-    "published": "2029",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.5705/ss.202025.0314",
-    "pdf_url": null,
-    "doi": "10.5705/ss.202025.0314",
-    "citations": 0,
-    "venue": "Statistica Sinica",
-    "open_access": false,
-    "ai_summary": "No abstract available."
-  },
-  {
-    "id": "crossref:10.70239/arsu.2026.t85.n3.07",
-    "title": "HYBRID NETWORK INTRUSION DETECTION SYSTEM BASED ON SIGNATURE ANALYSIS AND MACHINE LEARNING METHODS",
-    "abstract": "<jats:p>In the context of increasing complexity of modern network infrastructures and the growing number of cyberattacks, improving the effectiveness of intrusion detection systems is a highly relevant task. The aim of this work is to develop and investigate a hybrid approach to network attack detection based on a combination of signature-based analysis and intelligent machine learning methods.  The research methods include analysis of requirements for anomaly detection systems, comparative analysis of existing solutions, design of a hybrid system architecture, and experimental modeling using multiclass classification of network traffic. The results demonstrate that integrating a neural model with a traditional detection system improves attack detection coverage and reduces the number of false positives.  The practical significance of the study lies in the possibility of deploying the proposed architecture in real corporate networks, while the theoretical significance consists in substantiating the effectiveness of a hybrid approach to traffic analysis. Future research directions include adaptive model training and expansion of the range of detectable attacks.</jats:p>",
-    "authors": [
-      "IGISINOV S.ZH.",
-      "RYSKELDIKYZY R.",
-      "GAISAGALEYEVA B.M.",
-      "UVALIYEVA G.M.",
-      "ZHUMABAYEVA ZH.O."
-    ],
-    "published": "2029",
-    "source": "Crossref",
-    "category": "index",
-    "url": "https://doi.org/10.70239/arsu.2026.t85.n3.07",
-    "pdf_url": null,
-    "doi": "10.70239/arsu.2026.t85.n3.07",
-    "citations": 0,
-    "venue": "Научный журнал \"Вестник Актюбинского регионального университета имени К. Жубанова\"",
-    "open_access": false,
-    "ai_summary": "The aim of this work is to develop and investigate a hybrid approach to network attack detection based on signature-based analysis and intelligent machine learning methods . The practical significance of the study lies in the possibility of deploying the proposed architecture in real corporate networks ."
-  },
-  {
     "id": "crossref:10.5705/ss.202025.0230",
     "title": "Two-way Subgroup Structure Learning for High Dimensional Clustered Survival Data",
     "abstract": "",
@@ -502,11 +502,11 @@
     "source": "Crossref",
     "category": "index",
     "url": "https://doi.org/10.5705/ss.202025.0230",
-    "pdf_url": "https://doi.org/10.5705/ss.202025.0230",
+    "pdf_url": null,
     "doi": "10.5705/ss.202025.0230",
     "citations": 0,
     "venue": "Statistica Sinica",
-    "open_access": true,
+    "open_access": false,
     "ai_summary": "No abstract available."
   },
   {
@@ -523,11 +523,11 @@
     "source": "Crossref",
     "category": "index",
     "url": "https://doi.org/10.5705/ss.202025.0457",
-    "pdf_url": null,
+    "pdf_url": "https://arxiv.org/pdf/2608.22595v1",
     "doi": "10.5705/ss.202025.0457",
     "citations": 0,
     "venue": "Statistica Sinica",
-    "open_access": false,
+    "open_access": true,
     "ai_summary": "No abstract available."
   },
   {
@@ -647,6 +647,33 @@
     "ai_summary": "No abstract available."
   },
   {
+    "id": "pubmed:43000110",
+    "title": "Artificial intelligence in glaucoma diagnosis and management: a systematic review of the past decade (2015-2026).",
+    "abstract": "Artificial intelligence (AI) is increasingly being used to support glaucoma detection and monitoring, with rapid advances in deep learning, multimodal imaging, and longitudinal prediction. This review evaluates the evidence supporting these developments and identifies barriers to clinical translation. A systematic search of PubMed, IEEE Xplore, ScienceDirect, and SpringerLink was conducted following PRISMA guidelines, with the protocol registered in PROSPERO (CRD420261450819). Of 3,758 records identified, 63 eligible peer-reviewed studies published between 2015 and 2026 were included. The review examined AI techniques, imaging modalities, datasets, diagnostic and predictive performance, validation strategies, and reported limitations in Glaucoma care. Most studies used deep learning applied to fundus photography, optical coherence tomography (OCT), OCT angiography, visual fields, or multimodal data. Many models achieved an area under the ROC curve of approximately 0.95. AI has substantial potential to improve glaucoma detection and monitoring, but high reported accuracy alone does not establish clinical readiness. Prospective multicenter validation using diverse populations, explainable and reproducible models, standardized evaluation, and integration into clinical workflows are essential before widespread implementation.",
+    "authors": [
+      "Sridhar P Arjunan",
+      "Puneet Parihar",
+      "Quoc Ngo",
+      "Marc Sarossy",
+      "Alex Sarossy",
+      "Barbara Polus",
+      "Himeesh Kumar",
+      "Nemuel D Pah",
+      "Stella Stylianou",
+      "Dinesh Kumar"
+    ],
+    "published": "2026-Nov-08",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43000110/",
+    "pdf_url": null,
+    "doi": "10.1080/17434440.2026.2758935",
+    "citations": 0,
+    "venue": "Expert review of medical devices",
+    "open_access": false,
+    "ai_summary": "Artificial intelligence (AI) is increasingly being used to support glaucoma detection and monitoring, with rapid advances in deep learning, multimodal imaging, and longitudinal prediction . This review evaluates the evidence supporting these developments and identifies barriers to clinical translation ."
+  },
+  {
     "id": "pubmed:43000191",
     "title": "More than meets the lumen: The expanding role of cardiac CT.",
     "abstract": "",
@@ -687,52 +714,6 @@
     "ai_summary": "Recurrent respiratory papillomatosis (RRP) profoundly affects quality of life due to frequent surgeries . The three most frequently cited attributes were incorporated into a discrete-choice experiment ."
   },
   {
-    "id": "pubmed:43000110",
-    "title": "Artificial intelligence in glaucoma diagnosis and management: a systematic review of the past decade (2015-2026).",
-    "abstract": "Artificial intelligence (AI) is increasingly being used to support glaucoma detection and monitoring, with rapid advances in deep learning, multimodal imaging, and longitudinal prediction. This review evaluates the evidence supporting these developments and identifies barriers to clinical translation. A systematic search of PubMed, IEEE Xplore, ScienceDirect, and SpringerLink was conducted following PRISMA guidelines, with the protocol registered in PROSPERO (CRD420261450819). Of 3,758 records identified, 63 eligible peer-reviewed studies published between 2015 and 2026 were included. The review examined AI techniques, imaging modalities, datasets, diagnostic and predictive performance, validation strategies, and reported limitations in Glaucoma care. Most studies used deep learning applied to fundus photography, optical coherence tomography (OCT), OCT angiography, visual fields, or multimodal data. Many models achieved an area under the ROC curve of approximately 0.95. AI has substantial potential to improve glaucoma detection and monitoring, but high reported accuracy alone does not establish clinical readiness. Prospective multicenter validation using diverse populations, explainable and reproducible models, standardized evaluation, and integration into clinical workflows are essential before widespread implementation.",
-    "authors": [
-      "Sridhar P Arjunan",
-      "Puneet Parihar",
-      "Quoc Ngo",
-      "Marc Sarossy",
-      "Alex Sarossy",
-      "Barbara Polus",
-      "Himeesh Kumar",
-      "Nemuel D Pah",
-      "Stella Stylianou",
-      "Dinesh Kumar"
-    ],
-    "published": "2026-Nov-08",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43000110/",
-    "pdf_url": null,
-    "doi": "10.1080/17434440.2026.2758935",
-    "citations": 0,
-    "venue": "Expert review of medical devices",
-    "open_access": false,
-    "ai_summary": "Artificial intelligence (AI) is increasingly being used to support glaucoma detection and monitoring, with rapid advances in deep learning, multimodal imaging, and longitudinal prediction . This review evaluates the evidence supporting these developments and identifies barriers to clinical translation ."
-  },
-  {
-    "id": "pubmed:43000107",
-    "title": "On generative artificial intelligence in scientific writing.",
-    "abstract": "Scientific communication - the dissemination of ideas, hypotheses, and discoveries - is fundamental to advancing human knowledge and to ensuring public access to new knowledge as it is generated. Growth in the use of generative artificial intelligence (AI) in scientific communication has been explosive, likely driven by high uptake among an adept userbase with demanding schedules, making the efficiency gains attractive. The rapid uptake of AI is creating disruptive changes in the way scientific communication happens, affecting the methods by which abstracts, manuscripts, figures, presentations, and funding proposals are generated, and in many cases impacting the final product. In this perspective piece, we reflect on the rapidly changing landscape of AI use in scientific communication with attention to the potential immediate and long-term risks. The inherent unauthorized secondary use of the data used to train AI models raises questions about credit and plagiarism in academia. Fabricated references have proliferated in the scientific literature resulting from \"hallucinations\" by AI models. Meanwhile, each use of an AI model comes with an incremental risk to the environment at an already perilous time. More abstractly, AI use in scientific communication risks the process itself becoming iterative, prioritizing summation while diminishing insights that fuel the scientific engine. Finally, the friction that AI models remove from writing may risk removing an essential part of the process of scientific thinking, particularly for the next generation of scientists. While we acknowledge that AI is here to stay, we feel an element of caution is warranted in its implementation, to help preserve science and its dissemination as a fundamentally human endeavor.",
-    "authors": [
-      "Kieran Halloran",
-      "Jamie L Todd"
-    ],
-    "published": "2026-Nov-08",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43000107/",
-    "pdf_url": null,
-    "doi": "10.1016/j.healun.2026.10.029",
-    "citations": 0,
-    "venue": "The Journal of heart and lung transplantation : the official publication of the International Society for Heart Transplantation",
-    "open_access": false,
-    "ai_summary": "Scientific communication is fundamental to advancing human knowledge and to ensuring public access to new knowledge as it is generated . The rapid uptake of AI is creating disruptive changes in the way scientific communication happens, affecting the methods by which abstracts, manuscripts, figures, presentations, and funding proposals are generated ."
-  },
-  {
     "id": "pubmed:43000106",
     "title": "AI-enabled rumen microbiome engineering for methane mitigation in ruminants.",
     "abstract": "Enteric methane from ruminants is a major agricultural source of greenhouse gas emissions, yet durable mitigation remains difficult because methane arises from host-regulated, cross-kingdom microbial networks rather than from methanogens alone. Artificial intelligence (AI) offers a means to integrate methane phenotypes with rumen multi-omics, host genetics, diet, fermentation traits, and environmental data. However, predictive accuracy does not by itself identify causal or controllable targets. Here, rumen methane is framed as a constrained engineering problem in which carbon and reducing equivalents must be redirected while digestibility, animal health, and productivity are preserved. We examine the construction of AI-ready datasets, multimodal prediction, interpretable learning, causal target discovery, and the transition from computational hypotheses to deployable interventions. Particular attention is given to methanogenic pathways, interspecies hydrogen transfer, alternative electron sinks, and context-dependent treatment responses. Demonstrated interventions and prospective engineering strategies include structure-guided inhibitor discovery, redox-routing combinations, live microbial consortia, phage- and enzyme-based control, early-life programming, and adaptive precision deployment. Across these approaches, a complete design-build-test-learn cycle is still needed to connect model outputs with mechanistic assays, rumen simulation, controlled animal studies, and external multi-farm validation. Progress also depends on harmonized phenotypes, leakage-resistant evaluation, transparent uncertainty, standardized reporting, and early consideration of manufacturing, regulation, economics, and life-cycle impacts. AI-enabled rumen microbiome engineering can therefore accelerate methane mitigation only when prediction is linked to causal biology and measurable, persistent performance across diverse ruminant systems.",
@@ -753,6 +734,45 @@
     "venue": "Biotechnology advances",
     "open_access": false,
     "ai_summary": "Enteric methane from ruminants is a major agricultural source of greenhouse gas emissions . Methane arises from host-regulated, cross-kingdom microbial networks rather than methanogens alone ."
+  },
+  {
+    "id": "pubmed:43000089",
+    "title": "Attitudes Toward Artificial Intelligence Among Patients Attending an Oral and Maxillofacial Surgery Clinic: A Cross-Sectional Survey.",
+    "abstract": "To evaluate general attitudes toward artificial intelligence (AI) among patients attending an oral and maxillofacial surgery clinic and to investigate factors associated with these attitudes. A cross-sectional survey was conducted among 200 adult patients attending the Department of Oral and Maxillofacial Surgery at Hacettepe University Faculty of Dentistry. Participants completed a demographic questionnaire and the General Attitudes toward Artificial Intelligence Scale (GAAIS). Group comparisons were performed using non-parametric tests, and multivariable linear regression analysis was conducted to identify factors associated with GAAIS scores. The mean age of participants was 34.2 ± 11.8 years, and 52.5% were female. More than half of the participants (55.5%) reported a moderate level of self-perceived AI knowledge, and 78.0% were willing to accept AI-assisted dental treatment. The mean GAAIS score was 60.44 ± 4.01, indicating relatively favorable attitudes toward AI. Participants willing to accept AI-assisted treatment demonstrated significantly higher GAAIS scores than those unwilling in the univariable analysis (p = 0.006). Willingness to accept AI-assisted treatment remained independently associated with higher GAAIS scores after multivariable adjustment (B = 1.53, p = 0.028), although the overall model explained a limited proportion of variance (adjusted R² = 0.020). No significant independent associations were observed for age, sex, educational level, previous AI use, or self-perceived AI knowledge. Patients attending an oral and maxillofacial surgery clinic demonstrated relatively favorable attitudes toward AI, and 78.0% were willing to accept AI-assisted dental treatment. Willingness to accept AI-assisted dental treatment was associated with more positive general attitudes toward AI in both univariable and multivariable analyses, although the multivariable model explained only a limited proportion of the variance in GAAIS scores. These findings highlight the importance of transparent patient communication and clinician oversight during the implementation of AI-assisted technologies in oral and maxillofacial surgery. However, the relatively high educational level of this single-center sample may limit the generalizability of these findings to broader dental and OMFS patient populations.",
+    "authors": [
+      "Arda Toptaş",
+      "Onur Koç",
+      "Batuhan Berk Yılmaz"
+    ],
+    "published": "2026-Nov-08",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43000089/",
+    "pdf_url": null,
+    "doi": "10.1016/j.jormas.2026.103076",
+    "citations": 0,
+    "venue": "Journal of stomatology, oral and maxillofacial surgery",
+    "open_access": false,
+    "ai_summary": "A cross-sectional survey was conducted among 200 adult patients attending the Department of Oral and Maxillofacial Surgery at Hacettepe University Faculty of Dentistry . Participants completed a demographic questionnaire and the General Attitudes toward Artificial Intelligence Scale (GAAIS) The mean GAAIS score was 60.44 ± 4.01"
+  },
+  {
+    "id": "pubmed:43000107",
+    "title": "On generative artificial intelligence in scientific writing.",
+    "abstract": "Scientific communication - the dissemination of ideas, hypotheses, and discoveries - is fundamental to advancing human knowledge and to ensuring public access to new knowledge as it is generated. Growth in the use of generative artificial intelligence (AI) in scientific communication has been explosive, likely driven by high uptake among an adept userbase with demanding schedules, making the efficiency gains attractive. The rapid uptake of AI is creating disruptive changes in the way scientific communication happens, affecting the methods by which abstracts, manuscripts, figures, presentations, and funding proposals are generated, and in many cases impacting the final product. In this perspective piece, we reflect on the rapidly changing landscape of AI use in scientific communication with attention to the potential immediate and long-term risks. The inherent unauthorized secondary use of the data used to train AI models raises questions about credit and plagiarism in academia. Fabricated references have proliferated in the scientific literature resulting from \"hallucinations\" by AI models. Meanwhile, each use of an AI model comes with an incremental risk to the environment at an already perilous time. More abstractly, AI use in scientific communication risks the process itself becoming iterative, prioritizing summation while diminishing insights that fuel the scientific engine. Finally, the friction that AI models remove from writing may risk removing an essential part of the process of scientific thinking, particularly for the next generation of scientists. While we acknowledge that AI is here to stay, we feel an element of caution is warranted in its implementation, to help preserve science and its dissemination as a fundamentally human endeavor.",
+    "authors": [
+      "Kieran Halloran",
+      "Jamie L Todd"
+    ],
+    "published": "2026-Nov-08",
+    "source": "PubMed",
+    "category": "journal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43000107/",
+    "pdf_url": null,
+    "doi": "10.1016/j.healun.2026.10.029",
+    "citations": 0,
+    "venue": "The Journal of heart and lung transplantation : the official publication of the International Society for Heart Transplantation",
+    "open_access": false,
+    "ai_summary": "Scientific communication is fundamental to advancing human knowledge and to ensuring public access to new knowledge as it is generated . The rapid uptake of AI is creating disruptive changes in the way scientific communication happens, affecting the methods by which abstracts, manuscripts, figures, presentations, and funding proposals are generated ."
   },
   {
     "id": "pubmed:43000096",
@@ -797,24 +817,26 @@
     "ai_summary": "Structural heart disease (SHD) is underdiagnosed where echocardiography access is limited . We evaluated the role of artificial intelligence-enabled ECG for SHD detection ."
   },
   {
-    "id": "pubmed:43000089",
-    "title": "Attitudes Toward Artificial Intelligence Among Patients Attending an Oral and Maxillofacial Surgery Clinic: A Cross-Sectional Survey.",
-    "abstract": "To evaluate general attitudes toward artificial intelligence (AI) among patients attending an oral and maxillofacial surgery clinic and to investigate factors associated with these attitudes. A cross-sectional survey was conducted among 200 adult patients attending the Department of Oral and Maxillofacial Surgery at Hacettepe University Faculty of Dentistry. Participants completed a demographic questionnaire and the General Attitudes toward Artificial Intelligence Scale (GAAIS). Group comparisons were performed using non-parametric tests, and multivariable linear regression analysis was conducted to identify factors associated with GAAIS scores. The mean age of participants was 34.2 ± 11.8 years, and 52.5% were female. More than half of the participants (55.5%) reported a moderate level of self-perceived AI knowledge, and 78.0% were willing to accept AI-assisted dental treatment. The mean GAAIS score was 60.44 ± 4.01, indicating relatively favorable attitudes toward AI. Participants willing to accept AI-assisted treatment demonstrated significantly higher GAAIS scores than those unwilling in the univariable analysis (p = 0.006). Willingness to accept AI-assisted treatment remained independently associated with higher GAAIS scores after multivariable adjustment (B = 1.53, p = 0.028), although the overall model explained a limited proportion of variance (adjusted R² = 0.020). No significant independent associations were observed for age, sex, educational level, previous AI use, or self-perceived AI knowledge. Patients attending an oral and maxillofacial surgery clinic demonstrated relatively favorable attitudes toward AI, and 78.0% were willing to accept AI-assisted dental treatment. Willingness to accept AI-assisted dental treatment was associated with more positive general attitudes toward AI in both univariable and multivariable analyses, although the multivariable model explained only a limited proportion of the variance in GAAIS scores. These findings highlight the importance of transparent patient communication and clinician oversight during the implementation of AI-assisted technologies in oral and maxillofacial surgery. However, the relatively high educational level of this single-center sample may limit the generalizability of these findings to broader dental and OMFS patient populations.",
+    "id": "pubmed:43000088",
+    "title": "Evaluation of the Diagnostic Performance of an Implant Marginal Bone Loss Measurement Method Based on Deep Learning.",
+    "abstract": "To evaluate the diagnostic performance of the YOLOv8-pose model for automated measurement of mesial and distal peri-implant marginal bone loss on periapical radiographs. In this retrospective study, 162 images were divided into training (n=144) and validation (n=18) sets; 46 images formed an independent test set. Six anatomical key points were annotated and verified as the gold standard. The model was tested at thresholds of bone loss ≥0.5 mm, ≥1.0 mm, and ≥2.0 mm. F1-score was additionally calculated for each threshold. At the 0.5 mm threshold, the model achieved 95.35% sensitivity, 100% specificity, 100% positive predictive value (PPV), and 90.7% mesial-distal diagnostic consistency. At the 1.0 mm threshold, sensitivity was 91.67%, specificity 82.14%, PPV 73.33%, and consistency 58.14%. At the 2.0 mm threshold, sensitivity dropped to 30.43%, while specificity remained high at 95.97%, with 53.85% PPV and 72.1% consistency. Median key point localization errors ranged from 0.76 mm to 1.05 mm, with no statistically significant difference among groups (P>0.05). The YOLOv8-pose model shows excellent diagnostic performance, especially for early mild bone loss. This artificial intelligence tool serves as an auxiliary early-screening tool rather than a comprehensive diagnostic tool covering all severities of bone loss; it can assist clinicians in standardized, efficient, and early screening assessment of peri-implant diseases. This study validates a keypoint-based deep learning approach for automated and consistent measurement of peri-implant marginal bone loss on periapical radiographs, supporting early objective screening-level assessment of radiographic peri-implant marginal bone-loss changes for clinician reference.",
     "authors": [
-      "Arda Toptaş",
-      "Onur Koç",
-      "Batuhan Berk Yılmaz"
+      "Huaxin Sui",
+      "Hongyu Fu",
+      "Zhihan Zhang",
+      "Jing Liao",
+      "Hu Chen"
     ],
     "published": "2026-Nov-08",
     "source": "PubMed",
     "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43000089/",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43000088/",
     "pdf_url": null,
-    "doi": "10.1016/j.jormas.2026.103076",
+    "doi": "10.1016/j.jormas.2026.103079",
     "citations": 0,
     "venue": "Journal of stomatology, oral and maxillofacial surgery",
     "open_access": false,
-    "ai_summary": "A cross-sectional survey was conducted among 200 adult patients attending the Department of Oral and Maxillofacial Surgery at Hacettepe University Faculty of Dentistry . Participants completed a demographic questionnaire and the General Attitudes toward Artificial Intelligence Scale (GAAIS) The mean GAAIS score was 60.44 ± 4.01"
+    "ai_summary": "YOLOv8-pose model was tested at thresholds of bone loss. The model achieved 95.35% sensitivity, 100% specificity and 90.7% mesial-distal diagnostic consistency ."
   },
   {
     "id": "pubmed:43000026",
@@ -846,28 +868,6 @@
     "venue": "Plant physiology and biochemistry : PPB",
     "open_access": false,
     "ai_summary": "Abiotic stresses such as drought, salinity, heavy metals, heat, and cold disrupt cellular redox homeostasis . Under controlled conditions, lower level of ROS act as signaling molecule, whereas, at elevated levels with biotic and abiotic stress factors, causes cellular damage ."
-  },
-  {
-    "id": "pubmed:43000088",
-    "title": "Evaluation of the Diagnostic Performance of an Implant Marginal Bone Loss Measurement Method Based on Deep Learning.",
-    "abstract": "To evaluate the diagnostic performance of the YOLOv8-pose model for automated measurement of mesial and distal peri-implant marginal bone loss on periapical radiographs. In this retrospective study, 162 images were divided into training (n=144) and validation (n=18) sets; 46 images formed an independent test set. Six anatomical key points were annotated and verified as the gold standard. The model was tested at thresholds of bone loss ≥0.5 mm, ≥1.0 mm, and ≥2.0 mm. F1-score was additionally calculated for each threshold. At the 0.5 mm threshold, the model achieved 95.35% sensitivity, 100% specificity, 100% positive predictive value (PPV), and 90.7% mesial-distal diagnostic consistency. At the 1.0 mm threshold, sensitivity was 91.67%, specificity 82.14%, PPV 73.33%, and consistency 58.14%. At the 2.0 mm threshold, sensitivity dropped to 30.43%, while specificity remained high at 95.97%, with 53.85% PPV and 72.1% consistency. Median key point localization errors ranged from 0.76 mm to 1.05 mm, with no statistically significant difference among groups (P>0.05). The YOLOv8-pose model shows excellent diagnostic performance, especially for early mild bone loss. This artificial intelligence tool serves as an auxiliary early-screening tool rather than a comprehensive diagnostic tool covering all severities of bone loss; it can assist clinicians in standardized, efficient, and early screening assessment of peri-implant diseases. This study validates a keypoint-based deep learning approach for automated and consistent measurement of peri-implant marginal bone loss on periapical radiographs, supporting early objective screening-level assessment of radiographic peri-implant marginal bone-loss changes for clinician reference.",
-    "authors": [
-      "Huaxin Sui",
-      "Hongyu Fu",
-      "Zhihan Zhang",
-      "Jing Liao",
-      "Hu Chen"
-    ],
-    "published": "2026-Nov-08",
-    "source": "PubMed",
-    "category": "journal",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43000088/",
-    "pdf_url": null,
-    "doi": "10.1016/j.jormas.2026.103079",
-    "citations": 0,
-    "venue": "Journal of stomatology, oral and maxillofacial surgery",
-    "open_access": false,
-    "ai_summary": "YOLOv8-pose model was tested at thresholds of bone loss. The model achieved 95.35% sensitivity, 100% specificity and 90.7% mesial-distal diagnostic consistency ."
   },
   {
     "id": "openalex:W7164203944",
@@ -1617,136 +1617,73 @@
     "ai_summary": "No abstract available."
   },
   {
-    "id": "openalex:W7138396622",
-    "title": "To See is Not to Master: Teaching LLMs to Use Private Libraries for Code Generation",
+    "id": "openalex:W4407186155",
+    "title": "Evaluating LLMs on Italian through multi-prompt: the Evalita-LLM benchmark",
     "abstract": "",
     "authors": [
-      "Yitong Zhang",
-      "Chengze Li",
-      "Ruize Chen",
-      "Guowei Yang",
-      "Xiaoran Jia",
-      "Yijie Ren",
-      "Jia Li"
+      "Bernardo Magnini",
+      "Roberto Zanoli",
+      "Michele Resta",
+      "Martin Cimmino",
+      "Paolo Albano",
+      "Marco Madeddu",
+      "Viviana Patti"
     ],
-    "published": "2026-11-07",
+    "published": "2026-11-09",
     "source": "OpenAlex",
     "category": "index",
-    "url": "https://doi.org/10.1145/3862481",
-    "pdf_url": "https://arxiv.org/pdf/2603.15159",
-    "doi": "10.1145/3862481",
-    "citations": 4,
-    "venue": "ACM Transactions on Software Engineering and Methodology",
+    "url": "https://doi.org/10.1007/s10579-026-09955-3",
+    "pdf_url": "https://doi.org/10.1007/s10579-026-09955-3",
+    "doi": "10.1007/s10579-026-09955-3",
+    "citations": 10,
+    "venue": "Language Resources and Evaluation",
     "open_access": true,
     "ai_summary": "No abstract available."
   },
   {
-    "id": "openalex:W7225417483",
-    "title": "Exploration and Practice of a Teacher–Student–Machine Tripartite Collaborative Teaching Model for the Modern Control Theory Course Empowered by Artificial Intelligence",
+    "id": "openalex:W7223835807",
+    "title": "Learning to remember: advances in memory mechanisms for large language models",
     "abstract": "",
     "authors": [
-      "Tao Liu",
-      "Hongqian Lu"
+      "Chenye Han",
+      "Hongche Yu",
+      "Mengyue Wu",
+      "Dell Zhang",
+      "Jixiang Luo"
     ],
-    "published": "2026-11-07",
+    "published": "2026-11-09",
     "source": "OpenAlex",
     "category": "index",
-    "url": "https://doi.org/10.70267/er.v3n2.3339",
-    "pdf_url": "https://journals.zeuspress.org/index.php/ER/article/download/1769/1674",
-    "doi": "10.70267/er.v3n2.3339",
+    "url": "https://doi.org/10.1007/s44336-026-00044-1",
+    "pdf_url": "https://doi.org/10.1007/s44336-026-00044-1",
+    "doi": "10.1007/s44336-026-00044-1",
     "citations": 0,
-    "venue": "Education research.",
+    "venue": "Vicinagearth.",
     "open_access": true,
     "ai_summary": "No abstract available."
   },
   {
-    "id": "openalex:W7225429625",
-    "title": "Evaluation of higher education teaching effectiveness based on fuzzy algorithms and artificial intelligence",
+    "id": "openalex:W7225453718",
+    "title": "AI-driven liability assessment framework for autonomous systems integrating machine learning with EU and Indian regulatory models",
     "abstract": "",
     "authors": [
-      "Junjun Zheng"
+      "Rishi Srivastava",
+      "Sadaf Fahim",
+      "Garima Singh",
+      "Koyel Roy",
+      "Arunanshu Dubey",
+      "Rahul Tiwari"
     ],
-    "published": "2026-11-07",
+    "published": "2026-11-08",
     "source": "OpenAlex",
     "category": "index",
-    "url": "https://doi.org/10.1007/s44163-026-02420-8",
-    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s44163-026-02420-8.pdf",
-    "doi": "10.1007/s44163-026-02420-8",
+    "url": "https://doi.org/10.55670/fpll.futech.5.4.3",
+    "pdf_url": "https://fupubco.com/futech/article/download/1087/368/2730",
+    "doi": "10.55670/fpll.futech.5.4.3",
     "citations": 0,
-    "venue": "Discover Artificial Intelligence",
+    "venue": "Future Technology",
     "open_access": true,
     "ai_summary": "No abstract available."
-  },
-  {
-    "id": "arxiv:2611.09887v1",
-    "title": "On the (non-)closedness of the set of ReLU networks",
-    "abstract": "We prove that the set $\\mathcal{N}_N$ of ReLU networks with one hidden layer and at most $N\\in\\mathbb N$ neurons is weakly closed in $W^{1,p}(Ω)$, for a bounded connected open set $Ω\\subset\\mathbb R^d$. Consequently, every coercive, weakly lower semicontinuous energy on this space attains its minimum over $\\mathcal{N}_N$. This covers the Deep Ritz method with convex integrands, Sobolev training and Lipschitz learning. Moreover, as the weight decay parameter tends to zero, minimizers of the regularized problem converge, up to subsequences, to minimizers with minimal parameter norm. We also prove that the set of ReLU networks with two hidden layers of bounded widths is not closed in $W^{1,p}(Ω)$ or in $C(\\overlineΩ)$. This disproves a conjecture of Petersen, Raslan and Voigtlaender.",
-    "authors": [
-      "Eloi Martinet",
-      "Leon Bungert"
-    ],
-    "published": "2026-11-06",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2611.09887v1",
-    "pdf_url": "https://arxiv.org/pdf/2611.09887v1",
-    "doi": null,
-    "citations": 0,
-    "venue": "arXiv preprint",
-    "open_access": true,
-    "ai_summary": "We prove that the set of ReLU networks with two hidden layers of bounded widths is not closed in $W^{1,p}(Ω)$ or in $C(\\overline)$ . This disproves a conjecture of Petersen, Raslan and Voigtlaender ."
-  },
-  {
-    "id": "arxiv:2611.09891v1",
-    "title": "CPU-ARC: Agentic Reasoning Caching for on-CPU Reasoning Reuse",
-    "abstract": "Large language models reinvent the wheel all the time. They conflate task-solving with the execution of the solutions, which forces them to solve every problem from scratch. We show that once a task has been reasoned through, the application of its solution to a new problem instance can be done very efficiently and with little involvement from language models. We introduce agentic reasoning caching, a method for constructing robust CPU-executable agentic reasoning caches (ARCs) from LLM reasoning traces. ARCs show on-par performance with frontier LLMs across a range of difficult mathematical and scientific tasks, are fully explainable, continually trainable, robust to input perturbations, and 16-291x cheaper to invoke than the source model.",
-    "authors": [
-      "Peter Belcak",
-      "Greg Heinrich",
-      "Saurav Muralidharan",
-      "Shizhe Diao",
-      "Pavlo Molchanov"
-    ],
-    "published": "2026-11-06",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2611.09891v1",
-    "pdf_url": "https://arxiv.org/pdf/2611.09891v1",
-    "doi": null,
-    "citations": 0,
-    "venue": "arXiv preprint",
-    "open_access": true,
-    "ai_summary": "Large language models reinvent the wheel all the time . They conflate task-solving with the execution of the solutions . We show that once a task has been reasoned through, the application of its solution to a new problem can be done very efficiently ."
-  },
-  {
-    "id": "arxiv:2611.09892v1",
-    "title": "On Agentic Manipulation Policies",
-    "abstract": "Recent work on robot manipulation has focused on specialist policies trained on demonstrations. We show that generalist AI models can control manipulators more reliably than specialist policies such as vision-language-action models (VLAs) and world-action models (WAMs). We systematically analyze agentic manipulation policies (AMPs), in which a generalist AI model commands the manipulator directly, adapting its actions as the task unfolds. We present AMP1, a reference harness that runs unchanged across single-arm, bimanual, and mobile manipulation. AMP1 achieves state-of-the-art results on the RoboLab-120 and CaP-Gym benchmarks, with no demonstrations or task-specific training. On RoboLab-120, AMP1 reaches an 85.6\\% success rate zero-shot, compared to 49.2\\% and 42.9\\% for leading VLA and WAM policies. The agent succeeds zero-shot in 104 of 108 real-world trials spanning twelve tasks and three robot instances, reducing failure rates by 20x and 15x relative to strong VLA and WAM baselines. The basic harness supplies no grasping, pushing, or placing skills; the agent develops its own strategies, such as searching for hidden objects, using objects as tools, and calibrating its cameras. With the addition of a persistent memory store, the agent can also learn from experience: an augmented harness with a memory representation that is carried across episodes lowers the failure rate on RoboDojo bimanual manipulation tasks by 4.6x relative to zero-shot deployment. Our analysis suggests that AMPs are substantially more general and robust than specialist manipulation policies, providing a promising foundation for robot manipulation.",
-    "authors": [
-      "Chen Chen",
-      "Omid Bagherieh",
-      "Naveen Nikamanth Appiah Balaji",
-      "Jesse T. Gonzalez",
-      "Negin Heravi",
-      "Fahad Islam",
-      "Xueting Li",
-      "Jean-Baptiste Regli",
-      "Kejia Ren",
-      "Petr Švec",
-      "David J. Yoon",
-      "Matthias Müller",
-      "Vladlen Koltun"
-    ],
-    "published": "2026-11-06",
-    "source": "arXiv",
-    "category": "preprint",
-    "url": "https://arxiv.org/abs/2611.09892v1",
-    "pdf_url": "https://arxiv.org/pdf/2611.09892v1",
-    "doi": null,
-    "citations": 0,
-    "venue": "arXiv preprint",
-    "open_access": true,
-    "ai_summary": "Recent work on robot manipulation has focused on specialist policies trained on demonstrations . We present AMP1, a reference harness that runs unchanged across single-arm, bimanual, and mobile manipulation ."
   },
   {
     "id": "arxiv:2611.09889v1",
@@ -1815,6 +1752,77 @@
     "venue": "arXiv preprint",
     "open_access": true,
     "ai_summary": "Predicting the future motion of multiple people is inherently stochastic . But the dominant paradigm in multi-person 3D motion prediction remains deterministic . We present a conditional flow matching framework that jointly generates diverse future motions for multiple agents ."
+  },
+  {
+    "id": "arxiv:2611.09892v1",
+    "title": "On Agentic Manipulation Policies",
+    "abstract": "Recent work on robot manipulation has focused on specialist policies trained on demonstrations. We show that generalist AI models can control manipulators more reliably than specialist policies such as vision-language-action models (VLAs) and world-action models (WAMs). We systematically analyze agentic manipulation policies (AMPs), in which a generalist AI model commands the manipulator directly, adapting its actions as the task unfolds. We present AMP1, a reference harness that runs unchanged across single-arm, bimanual, and mobile manipulation. AMP1 achieves state-of-the-art results on the RoboLab-120 and CaP-Gym benchmarks, with no demonstrations or task-specific training. On RoboLab-120, AMP1 reaches an 85.6\\% success rate zero-shot, compared to 49.2\\% and 42.9\\% for leading VLA and WAM policies. The agent succeeds zero-shot in 104 of 108 real-world trials spanning twelve tasks and three robot instances, reducing failure rates by 20x and 15x relative to strong VLA and WAM baselines. The basic harness supplies no grasping, pushing, or placing skills; the agent develops its own strategies, such as searching for hidden objects, using objects as tools, and calibrating its cameras. With the addition of a persistent memory store, the agent can also learn from experience: an augmented harness with a memory representation that is carried across episodes lowers the failure rate on RoboDojo bimanual manipulation tasks by 4.6x relative to zero-shot deployment. Our analysis suggests that AMPs are substantially more general and robust than specialist manipulation policies, providing a promising foundation for robot manipulation.",
+    "authors": [
+      "Chen Chen",
+      "Omid Bagherieh",
+      "Naveen Nikamanth Appiah Balaji",
+      "Jesse T. Gonzalez",
+      "Negin Heravi",
+      "Fahad Islam",
+      "Xueting Li",
+      "Jean-Baptiste Regli",
+      "Kejia Ren",
+      "Petr Švec",
+      "David J. Yoon",
+      "Matthias Müller",
+      "Vladlen Koltun"
+    ],
+    "published": "2026-11-06",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2611.09892v1",
+    "pdf_url": "https://arxiv.org/pdf/2611.09892v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "Recent work on robot manipulation has focused on specialist policies trained on demonstrations . We present AMP1, a reference harness that runs unchanged across single-arm, bimanual, and mobile manipulation ."
+  },
+  {
+    "id": "arxiv:2611.09891v1",
+    "title": "CPU-ARC: Agentic Reasoning Caching for on-CPU Reasoning Reuse",
+    "abstract": "Large language models reinvent the wheel all the time. They conflate task-solving with the execution of the solutions, which forces them to solve every problem from scratch. We show that once a task has been reasoned through, the application of its solution to a new problem instance can be done very efficiently and with little involvement from language models. We introduce agentic reasoning caching, a method for constructing robust CPU-executable agentic reasoning caches (ARCs) from LLM reasoning traces. ARCs show on-par performance with frontier LLMs across a range of difficult mathematical and scientific tasks, are fully explainable, continually trainable, robust to input perturbations, and 16-291x cheaper to invoke than the source model.",
+    "authors": [
+      "Peter Belcak",
+      "Greg Heinrich",
+      "Saurav Muralidharan",
+      "Shizhe Diao",
+      "Pavlo Molchanov"
+    ],
+    "published": "2026-11-06",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2611.09891v1",
+    "pdf_url": "https://arxiv.org/pdf/2611.09891v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "Large language models reinvent the wheel all the time . They conflate task-solving with the execution of the solutions . We show that once a task has been reasoned through, the application of its solution to a new problem can be done very efficiently ."
+  },
+  {
+    "id": "arxiv:2611.09887v1",
+    "title": "On the (non-)closedness of the set of ReLU networks",
+    "abstract": "We prove that the set $\\mathcal{N}_N$ of ReLU networks with one hidden layer and at most $N\\in\\mathbb N$ neurons is weakly closed in $W^{1,p}(Ω)$, for a bounded connected open set $Ω\\subset\\mathbb R^d$. Consequently, every coercive, weakly lower semicontinuous energy on this space attains its minimum over $\\mathcal{N}_N$. This covers the Deep Ritz method with convex integrands, Sobolev training and Lipschitz learning. Moreover, as the weight decay parameter tends to zero, minimizers of the regularized problem converge, up to subsequences, to minimizers with minimal parameter norm. We also prove that the set of ReLU networks with two hidden layers of bounded widths is not closed in $W^{1,p}(Ω)$ or in $C(\\overlineΩ)$. This disproves a conjecture of Petersen, Raslan and Voigtlaender.",
+    "authors": [
+      "Eloi Martinet",
+      "Leon Bungert"
+    ],
+    "published": "2026-11-06",
+    "source": "arXiv",
+    "category": "preprint",
+    "url": "https://arxiv.org/abs/2611.09887v1",
+    "pdf_url": "https://arxiv.org/pdf/2611.09887v1",
+    "doi": null,
+    "citations": 0,
+    "venue": "arXiv preprint",
+    "open_access": true,
+    "ai_summary": "We prove that the set of ReLU networks with two hidden layers of bounded widths is not closed in $W^{1,p}(Ω)$ or in $C(\\overline)$ . This disproves a conjecture of Petersen, Raslan and Voigtlaender ."
   },
   {
     "id": "arxiv:2611.09880v1",
